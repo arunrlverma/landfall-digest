@@ -1,3 +1,5 @@
+> **This document now lives at [https://madelandfall.com/support](https://madelandfall.com/support).** The copy below is kept as a mirror.
+
 # Landfall — Support
 
 *Landfall is made by NextBase LLC.*

@@ -1,3 +1,5 @@
+> **This document now lives at [https://madelandfall.com/privacy](https://madelandfall.com/privacy).** The copy below is kept as a mirror.
+
 # Landfall — Privacy Policy
 
 **Landfall is made by NextBase LLC, 30 N Gould St Ste N, Sheridan, WY 82801.**
