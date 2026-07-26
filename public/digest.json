@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-26T22:25:15.711250+00:00",
+ "generatedAt": "2026-07-26T23:25:22.755806+00:00",
  "showsScanned": 400,
  "candidates": 80,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Mon, 08 Jun 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Two thinkers wrestle honestly with faith, doubt, and the meaning of loving God.",
+   "reason": "Two thinkers wrestle deeply with faith, doubt, and the meaning of loving God.",
    "tradition": "Christian"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Tue, 14 Jul 2026 15:10:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b7/51/c1b751eb-ab38-f11c-d6c1-0a9de79b7061/mza_12134548126279202007.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Philosophical discussion on human transformation and cultural spirituality.",
+   "reason": "Philosophical discussion on human change, religion, and culture.",
    "tradition": "Secular"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Sat, 20 Jun 2026 16:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b1/1b/5a/b11b5ad4-b160-7284-5b7c-cdc8daf251d7/mza_556097899631146588.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A serious exploration of doubt, virtue, and living well without certainty through Stoic philosophy.",
+   "reason": "A serious exploration of doubt, virtue, and living well without certainty.",
    "tradition": "Stoic"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Sun, 12 Jul 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares a journey from religious scrupulosity to rediscovering faith in Jesus Christ.",
+   "reason": "A personal story of losing and rediscovering faith in Jesus amid scrupulosity.",
    "tradition": "Christian"
   },
   {
@@ -92,7 +92,7 @@
    "published": "Fri, 10 Jul 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Founders of mindfulness movement share stories of spiritual practice and community.",
+   "reason": "Founders of mindfulness movement share deep stories of spiritual practice and community.",
    "tradition": "Buddhist"
   },
   {
@@ -157,7 +157,7 @@
    "published": "Wed, 08 Jul 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Meditation teacher on Buddha's guidance for truthful, compassionate communication.",
+   "reason": "Meditation teacher explains Buddha's guidance on truthful, compassionate communication.",
    "tradition": "Buddhist"
   },
   {
@@ -170,7 +170,7 @@
    "published": "Tue, 07 Jul 2026 18:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A couple navigates faith loss and mixed belief in a committed marriage.",
+   "reason": "A couple navigates faith loss and mixed belief in a deeply religious marriage.",
    "tradition": "Christian"
   },
   {
@@ -183,7 +183,7 @@
    "published": "Mon, 29 Jun 2026 19:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/18/b8/e218b838-b790-3a33-441f-c3772d9abbbf/mza_6896085647855199484.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Psychologist argues spirituality is a universal need for fulfillment.",
+   "reason": "Psychologist discusses spirituality as a universal human need for transcendence.",
    "tradition": "Secular"
   },
   {
@@ -209,7 +209,7 @@
    "published": "Mon, 29 Jun 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/25/f5/8425f5c3-ce22-db1a-3e55-1a6698cc7f03/mza_3273078451247345185.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines America's spiritual crisis and loss of connection and purpose.",
+   "reason": "Analyzes America's spiritual crisis, loneliness, and loss of meaning in a political context.",
    "tradition": "Secular"
   },
   {
@@ -222,7 +222,7 @@
    "published": "Tue, 7 Jul 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/81/a8/3e81a88a-fea6-be8b-7bbb-431d9c685bd0/mza_8248505836165703838.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores spirituality rooted in nature and healing through intuition.",
+   "reason": "Explores spirituality rooted in nature, healing, intuition, and meaning in uncertainty.",
    "tradition": "Indigenous"
   },
   {
@@ -235,7 +235,7 @@
    "published": "Fri, 24 Jul 2026 18:00:03 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former nun reflects on faith, obedience, and rebellion in religious life.",
+   "reason": "A former nun reflects on faith, obedience, and leaving religious life.",
    "tradition": "Christian"
   },
   {
@@ -248,7 +248,7 @@
    "published": "Mon, 20 Jul 2026 04:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores Jewish mourning, trauma, and hope after collective tragedy.",
+   "reason": "Jewish tradition on mourning and repair after collective trauma.",
    "tradition": "Jewish"
   },
   {
@@ -261,7 +261,7 @@
    "published": "Mon, 6 Jul 2026 19:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/18/b8/e218b838-b790-3a33-441f-c3772d9abbbf/mza_6896085647855199484.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Psychological and scientific exploration of spirituality and meaning.",
+   "reason": "Psychological and spiritual insights on meaning, suffering, and growth.",
    "tradition": "Secular"
   },
   {
@@ -287,7 +287,7 @@
    "published": "Fri, 12 Jun 2026 10:04:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/1e/33/f9/1e33f91a-edfa-0e84-2c12-e9eb3e464b07/mza_4914288206950426810.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Connects ancient mysticism and modern science on consciousness and reality's nature.",
+   "reason": "Connects ancient mysticism and modern science on consciousness and reality.",
    "tradition": "Buddhist"
   },
   {
@@ -304,6 +304,19 @@
    "tradition": "Buddhist"
   },
   {
+   "id": "https://api.spreaker.com/episode/73033975",
+   "showID": "https://www.spreaker.com/show/3395068/episodes/feed",
+   "showTitle": "UFO Chronicles Podcast",
+   "title": "Ep.395 The Other Side of Reality",
+   "summary": "Tonight, I'm joined by David from Florida, whose life took an unexpected turn following a near-death experience in 2021. Afterward, his life changed dramatically as his consciousness began to expand. He describes past life regressions, mysterious downloads of information, and encounters with non-human beings that led him to question the hidden nature of reality. David explains how these events inspired his motion comic series, The Lion of God, and how he transformed his personal journey into a story exploring consciousness, spirituality, and the unknown.More information on this episode on the ",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73033975/ep_395_the_other_side_of_reality.mp3",
+   "published": "Sun, 19 Jul 2026 01:00:02 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/22/72/33/227233bf-0e7b-4d2a-d2bd-402d810dea89/mza_17727488661588768146.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Personal near-death experience leads to expanded consciousness and spiritual questioning.",
+   "tradition": "Interfaith"
+  },
+  {
    "id": "unshaken.podbean.com/4022e7b0-c9c9-3a73-a1fb-0537d56161b7",
    "showID": "https://feed.podbean.com/unshaken/feed.xml",
    "showTitle": "Unshaken Saints",
@@ -313,20 +326,7 @@
    "published": "Sun, 19 Jul 2026 15:14:18 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Reframes personal failure and restoration through biblical history in Chronicles.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "unshaken.podbean.com/dfc0aa76-de74-3271-a0e2-45d3517f8c36",
-   "showID": "https://feed.podbean.com/unshaken/feed.xml",
-   "showTitle": "Unshaken Saints",
-   "title": "Ruth & 1 Samuel 1-7 - Women of Faith",
-   "summary": "The Book of Judges ends in total moral chaos, with everyone doing \"what is right in their own eyes.\" But right against that dark backdrop, a young foreign widow named Ruth and a heartbroken, barren mother named Hannah shine a brilliant light. If you feel surrounded by a spiritual famine, their stories are the ultimate anchor.\nSummary: In this episode, we bridge the gap between the chaotic era of the Judges and the dawn of the Kings of Israel by studying the Book of Ruth and 1 Samuel 1–7. We move past the surface history to uncover deep covenants of loyalty, the anatomy of desperate prayer, and",
-   "audioURL": "https://mcdn.podbean.com/mf/web/8wnc5un6mnz4z6bh/Ruth_1_Sam_1-7_full_audio_enhanced94hem.mp3",
-   "published": "Tue, 02 Jun 2026 08:41:53 -0600",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Highlights faith and hope amid moral chaos through Ruth and Hannah's stories.",
+   "reason": "Explores biblical themes of restoration and identity beyond past mistakes.",
    "tradition": "Christian"
   }
  ]
