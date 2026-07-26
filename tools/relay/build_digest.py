@@ -25,6 +25,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import html
 import json
 import os
 import re
@@ -160,7 +161,9 @@ def strip_tags(s: str) -> str:
 
 def field(block: str, tag: str) -> str:
     m = re.search(rf"<{tag}[^>]*>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</{tag}>", block, re.S)
-    return strip_tags(m.group(1)) if m else ""
+    # Regex parsing leaves XML entities intact — "&amp;" was showing up
+    # verbatim in episode titles. Unescape after tag-stripping.
+    return html.unescape(strip_tags(m.group(1))) if m else ""
 
 
 def recent_episodes(show: dict, since: datetime) -> list[dict]:
