@@ -1,5 +1,6 @@
 # Landfall — Privacy Policy
 
+**Landfall is made by NextBase LLC, 30 N Gould St Ste N, Sheridan, WY 82801.**
 **Effective July 2026 · Contact: verma.arun@gmail.com**
 
 Landfall is built so that there is almost nothing to have a policy about.
@@ -48,3 +49,5 @@ Store.
 
 If this policy changes, the new version will be posted at this address with
 a new effective date.
+
+© 2026 NextBase LLC

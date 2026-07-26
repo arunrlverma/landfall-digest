@@ -1,5 +1,7 @@
 # Landfall — Support
 
+*Landfall is made by NextBase LLC.*
+
 **Contact: verma.arun@gmail.com** — I read everything.
 
 ## Common questions
