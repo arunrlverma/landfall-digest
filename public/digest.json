@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-27T19:35:47.212350+00:00",
+ "generatedAt": "2026-07-27T20:37:42.180498+00:00",
  "showsScanned": 400,
  "candidates": 80,
  "picks": [
@@ -14,8 +14,21 @@
    "published": "Mon, 08 Jun 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Two thinkers wrestle honestly with faith, doubt, and the meaning of loving God.",
+   "reason": "Two thinkers honestly wrestle with faith, doubt, and the meaning of loving God.",
    "tradition": "Christian"
+  },
+  {
+   "id": "78df413a-b3db-4bba-9a2a-6a603f10cc11",
+   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
+   "showTitle": "Making Sense with Sam Harris",
+   "title": "#481 — Sam Harris Receives the 2026 Richard Dawkins Award",
+   "summary": "Richard Dawkins presents Sam Harris with the 2026 Richard Dawkins Award at a live Center for Inquiry event. After the tribute, the two friends discuss consciousness and epiphenomenalism, AI and the Turing test, the scientific basis of morality, the failures of democracy and Trump's corruption, the role of philosophy, changing deeply held beliefs, Sam's path to meditation, the legacy of Christopher Hitchens, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samharris.org/subscribe.",
+   "audioURL": "https://traffic.libsyn.com/secure/wakingup/481_MS_Richard_Dawkins_subscriber.mp3?dest-id=480596",
+   "published": "Wed, 17 Jun 2026 16:55:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Sam Harris and Richard Dawkins discuss consciousness, morality, faith, and doubt.",
+   "tradition": "Secular"
   },
   {
    "id": "4cce45d0-8650-11f1-bfef-b3259654b6b2",
@@ -40,7 +53,7 @@
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores the sacred spiritual tradition surrounding iboga and its role in life guidance.",
+   "reason": "Explores sacred African spiritual tradition and the role of iboga in consciousness.",
    "tradition": "Indigenous"
   },
   {
@@ -53,7 +66,7 @@
    "published": "Tue, 14 Jul 2026 15:10:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b7/51/c1b751eb-ab38-f11c-d6c1-0a9de79b7061/mza_12134548126279202007.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Philosophical discussion on human change, religion, and culture as a monastic rule.",
+   "reason": "Philosophical discussion on human change, religion, and culture as monastic rule.",
    "tradition": "Secular"
   },
   {
@@ -66,7 +79,7 @@
    "published": "Wed, 01 Jul 2026 17:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep conversation on unhappiness, ritual, death, and self-discovery with a philosopher.",
+   "reason": "Deep talk on unhappiness, ritual, death, and self-discovery with a philosopher.",
    "tradition": "Secular"
   },
   {
@@ -79,33 +92,20 @@
    "published": "Sat, 20 Jun 2026 16:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b1/1b/5a/b11b5ad4-b160-7284-5b7c-cdc8daf251d7/mza_556097899631146588.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Philosophical talk on doubt, moral courage, and living without certainty or illusions.",
+   "reason": "Philosopher discusses doubt, moral courage, and living without certainty.",
    "tradition": "Stoic"
   },
   {
-   "id": "bc21b676-dd41-410f-8308-82198714d094",
-   "showID": "https://anchor.fm/s/1010c05b0/podcast/rss",
-   "showTitle": "Decoded | Unlock The Secrets of Human Behavior, Emotion and Motivation",
-   "title": "Who Killed God? The Spiritual Cost of Modern Progress",
-   "summary": "What happens when a civilization removes God—but keeps searching for meaning?In this episode of Decoded, Elisabeth McKay explores one of the most important cultural questions of our time: Who killed God?This is not about religion versus atheism. It's a deeper examination of how modern society gradually replaced transcendence with human-centered systems—and what happened as a result.From the Enlightenment and the French Revolution to Darwin, Freud, Marx, modern psychology, consumer culture, and the rise of self-worship, Elisabeth traces the historical and psychological shifts that transformed h",
-   "audioURL": "https://anchor.fm/s/1010c05b0/podcast/play/121645988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2Fc3966914-24d2-c927-4451-1dc427045ddf.mp3",
-   "published": "Thu, 18 Jun 2026 04:39:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/59/9d/03599d6d-b520-a0af-48f7-2817abd33818/mza_2980337403515710175.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Examines cultural loss of transcendence and search for meaning beyond religion.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "0fa4e79a2fad69395cbe11dbec38cecc",
+   "id": "480153ca5edf1a839b1713278007412c",
    "showID": "https://podcasts.subsplash.com/z73b3th/podcast.rss",
    "showTitle": "Becoming Something with Jonathan Pokluda",
-   "title": "Episode 379: Faith, Fear & Fighting for Your Family | feat. Christian Huff",
-   "summary": "<p>This week JP, Nate and Kathy sit down with Christian Huff, husband of Sadie Robertson, to talk about what it really looks like to lead your family through fear, anger, and hard seasons. Christian opens up about a terrifying medical scare with his daughter, wrestling with anger toward God, and what it means to step into spiritual strength as a husband and father. If you've ever found yourself blaming God for the enemy's work, this one is for you!</p>",
-   "audioURL": "https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4Lzg5OGViNmI5LWE0ZjMtNDE3YS1hZGFmLTM2MzQ1N2ZjY2NhNi9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=cvcg2bp",
-   "published": "Mon, 06 Jul 2026 10:00:00 +0000",
+   "title": "Episode 375: Q&A with JP Part 2 | Live at Beso Live",
+   "summary": "<p>We are back for Part 2 of the Q&A with JP as he answers live audience questions from Beso Live! Topics include storing up treasures in heaven, the purpose of prayer, grief and loss, discipleship, insecurity, legalism, and how to know if you're truly saved.</p>",
+   "audioURL": "https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4LzhlMTkzYzA5LTc0ZTItNGE1NS04MDQwLWEyNzdhODE1Mzc4Ni9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=cfphqk8",
+   "published": "Mon, 08 Jun 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Christian Huff shares wrestling with anger toward God and spiritual strength in suffering.",
+   "reason": "Live Q&A covers prayer, grief, discipleship, insecurity, and doubts about salvation.",
    "tradition": "Christian"
   },
   {
@@ -118,7 +118,7 @@
    "published": "Mon, 13 Jul 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Ryan Holiday discusses Stoic philosophy on resilience and meaning.",
+   "reason": "Ryan Holiday offers a serious modern Stoic perspective on meaning and resilience.",
    "tradition": "Stoic"
   },
   {
@@ -131,21 +131,8 @@
    "published": "Wed, 15 Jul 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/44/d6/c4/44d6c400-328c-9675-0c91-2ba8a478f795/mza_9931771251539629382.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Leah Penniman explores earth wisdom and relational ethics with ancestral insight.",
+   "reason": "Leah Penniman explores earth wisdom, gratitude, and relational ethics with Indigenous roots.",
    "tradition": "Indigenous"
-  },
-  {
-   "id": "78df413a-b3db-4bba-9a2a-6a603f10cc11",
-   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
-   "showTitle": "Making Sense with Sam Harris",
-   "title": "#481 — Sam Harris Receives the 2026 Richard Dawkins Award",
-   "summary": "Richard Dawkins presents Sam Harris with the 2026 Richard Dawkins Award at a live Center for Inquiry event. After the tribute, the two friends discuss consciousness and epiphenomenalism, AI and the Turing test, the scientific basis of morality, the failures of democracy and Trump's corruption, the role of philosophy, changing deeply held beliefs, Sam's path to meditation, the legacy of Christopher Hitchens, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samharris.org/subscribe.",
-   "audioURL": "https://traffic.libsyn.com/secure/wakingup/481_MS_Richard_Dawkins_subscriber.mp3?dest-id=480596",
-   "published": "Wed, 17 Jun 2026 16:55:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Sam Harris and Dawkins discuss consciousness, morality, and meditation.",
-   "tradition": "Secular"
   },
   {
    "id": "4dfbd69d-1ed2-4d5d-b1cd-16df24999412",
@@ -157,7 +144,7 @@
    "published": "Wed, 22 Jul 2026 11:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/be/97/3cbe97fb-f542-6271-7c4f-c986b5f4c51f/mza_8932915024380387774.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines ancient wisdom and psychology on love and interconnectedness.",
+   "reason": "Explores ancient wisdom and psychology on love and interconnectedness amid crises.",
    "tradition": "Interfaith"
   },
   {
@@ -170,7 +157,7 @@
    "published": "Tue, 07 Jul 2026 18:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Mixed-faith marriage explores loss of faith and religious identity.",
+   "reason": "Mixed-faith marriage story explores loss of faith and relational challenges.",
    "tradition": "Christian"
   },
   {
@@ -183,7 +170,7 @@
    "published": "Mon, 29 Jun 2026 19:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/18/b8/e218b838-b790-3a33-441f-c3772d9abbbf/mza_6896085647855199484.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Psychologist argues spirituality as a universal human need for transcendence and fulfillment.",
+   "reason": "Psychologist argues spirituality is a universal human capacity essential to fulfillment.",
    "tradition": "Secular"
   },
   {
@@ -196,7 +183,7 @@
    "published": "Mon, 29 Jun 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/25/f5/8425f5c3-ce22-db1a-3e55-1a6698cc7f03/mza_3273078451247345185.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses America's spiritual crisis, loneliness, and loss of meaning in society.",
+   "reason": "Explores America's spiritual crisis, loneliness, and loss of meaning in society.",
    "tradition": "Secular"
   },
   {
@@ -209,7 +196,7 @@
    "published": "Tue, 7 Jul 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/81/a8/3e81a88a-fea6-be8b-7bbb-431d9c685bd0/mza_8248505836165703838.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Conversation on spirituality, intuition, and meaning through nature and healing.",
+   "reason": "Conversation on spirituality, intuition, and nature as a guide to meaning.",
    "tradition": "Indigenous"
   },
   {
@@ -235,7 +222,7 @@
    "published": "Tue, 16 Jun 2026 09:00:16 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9c/e9/79/9ce97943-7c57-b1cd-a1c8-cef29e4543ca/mza_17868315373624613860.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Two survivors discuss faith and differing spiritual beliefs after a devastating flood.",
+   "reason": "Two survivors discuss faith and differing spiritual beliefs after a disaster.",
    "tradition": "Interfaith"
   },
   {
@@ -248,7 +235,7 @@
    "published": "Mon, 6 Jul 2026 19:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/18/b8/e218b838-b790-3a33-441f-c3772d9abbbf/mza_6896085647855199484.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Psychologist explains spirituality's role in meaning, suffering, and growth in life.",
+   "reason": "Psychologist discusses spirituality, suffering, and meaning in everyday life.",
    "tradition": "Secular"
   },
   {
@@ -261,7 +248,7 @@
    "published": "Fri, 24 Jul 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "A neurosurgeon shares personal trauma and brain change, addressing suffering and healing.",
+   "reason": "A neurosurgeon discusses trauma, grief, and brain change with personal and existential depth.",
    "tradition": "Secular"
   },
   {
@@ -274,7 +261,7 @@
    "published": "Mon, 20 Jul 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores how the mind can reshape the brain, offering insight into grief and mental change.",
+   "reason": "Explores how the mind can reshape the brain, addressing suffering and transformation.",
    "tradition": "Secular"
   },
   {
@@ -291,6 +278,19 @@
    "tradition": "Interfaith"
   },
   {
+   "id": "bc21b676-dd41-410f-8308-82198714d094",
+   "showID": "https://anchor.fm/s/1010c05b0/podcast/rss",
+   "showTitle": "Decoded | Unlock The Secrets of Human Behavior, Emotion and Motivation",
+   "title": "Who Killed God? The Spiritual Cost of Modern Progress",
+   "summary": "What happens when a civilization removes God—but keeps searching for meaning?In this episode of Decoded, Elisabeth McKay explores one of the most important cultural questions of our time: Who killed God?This is not about religion versus atheism. It's a deeper examination of how modern society gradually replaced transcendence with human-centered systems—and what happened as a result.From the Enlightenment and the French Revolution to Darwin, Freud, Marx, modern psychology, consumer culture, and the rise of self-worship, Elisabeth traces the historical and psychological shifts that transformed h",
+   "audioURL": "https://anchor.fm/s/1010c05b0/podcast/play/121645988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2Fc3966914-24d2-c927-4451-1dc427045ddf.mp3",
+   "published": "Thu, 18 Jun 2026 04:39:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/59/9d/03599d6d-b520-a0af-48f7-2817abd33818/mza_2980337403515710175.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Examines cultural loss of transcendence and search for meaning without God.",
+   "tradition": "Secular"
+  },
+  {
    "id": "ae272ab0-f468-4dd6-a88c-7c40119ed96c",
    "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
    "showTitle": "Come Back Podcast",
@@ -300,7 +300,20 @@
    "published": "Sun, 12 Jul 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal story of faith lost and regained through relationship with Jesus.",
+   "reason": "Personal story of losing and rediscovering faith in Jesus amid scrupulosity.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "afcaa99a-891a-11f1-a74c-8f895663a341",
+   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
+   "showTitle": "Live Free with Josh Howerton",
+   "title": "Can a Christian LOSE Their Salvation? | Live Free with Josh Howerton",
+   "summary": "Can a Christian lose their salvation? What does the Bible actually teach about eternal security, perseverance, and genuine saving faith?\n\nIn this episode of LIVE FREE, Pastors Josh Howerton, Paul Cunningham, and Carlos Erazo tackle one of Christianity's most debated questions by walking through Scripture—not opinions. Together they examine John 10, Romans 8, Hebrews 6, Hebrews 10, James 5, and other key passages to explain the difference between genuine faith and superficial belief, why difficult warning passages matter, and how believers can have true assurance in Christ.\n\nIf you've ever stru",
+   "audioURL": "https://traffic.megaphone.fm/HAEEH1968614045.mp3",
+   "published": "Mon, 27 Jul 2026 05:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Careful biblical discussion on salvation, faith, and perseverance.",
    "tradition": "Christian"
   },
   {
@@ -313,20 +326,7 @@
    "published": "Fri, 10 Jul 2026 10:33:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/1e/33/f9/1e33f91a-edfa-0e84-2c12-e9eb3e464b07/mza_4914288206950426810.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explains Christian beliefs about death and eternal life with God.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "a027d401-d541-4b6f-b04d-b0c492e9438e",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "James Lost Everything... Until He Finally Learned to Listen to God",
-   "summary": "\" God changed me. Life brought me to my knees, humbled me enough to just hand it all to Him. It is the greatest decision I ever made in my life.\"00:00 Shower Wake Up Call05:10 Family Crisis And Porn09:13 Sent Home From Mission11:31 Drift after Marriage14:04 Divorce Sparks Daily Prayer21:03 Repentance And Membership Loss24:05 Faith Questions And Return32:37 Rebaptism and New MarriageMike's Auto Shackhttps://mikesautoshack.com/Serve Clothing code COMEBACK for 15% offhttps://serveclothing.com/If you have a story to share please submit here: https://comebackpodcast.org/submissions/For inquiries co",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/122900937/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428047727-44100-2-656f7cfd0a12a.m4a",
-   "published": "Sun, 19 Jul 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Narrative of personal suffering, repentance, and renewed faith in God.",
+   "reason": "Explores Christian beliefs about death and eternal life.",
    "tradition": "Christian"
   }
  ]
