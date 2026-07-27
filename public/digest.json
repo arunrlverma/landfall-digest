@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-27T05:24:17.814805+00:00",
+ "generatedAt": "2026-07-27T07:22:12.242287+00:00",
  "showsScanned": 400,
  "candidates": 80,
  "picks": [
@@ -14,8 +14,21 @@
    "published": "Mon, 08 Jun 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Two thinkers wrestle honestly with faith, doubt, and the meaning of loving God.",
+   "reason": "Two thinkers honestly wrestle with faith, doubt, and the meaning of loving God.",
    "tradition": "Christian"
+  },
+  {
+   "id": "78df413a-b3db-4bba-9a2a-6a603f10cc11",
+   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
+   "showTitle": "Making Sense with Sam Harris",
+   "title": "#481 — Sam Harris Receives the 2026 Richard Dawkins Award",
+   "summary": "Richard Dawkins presents Sam Harris with the 2026 Richard Dawkins Award at a live Center for Inquiry event. After the tribute, the two friends discuss consciousness and epiphenomenalism, AI and the Turing test, the scientific basis of morality, the failures of democracy and Trump's corruption, the role of philosophy, changing deeply held beliefs, Sam's path to meditation, the legacy of Christopher Hitchens, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samharris.org/subscribe.",
+   "audioURL": "https://traffic.libsyn.com/secure/wakingup/481_MS_Richard_Dawkins_subscriber.mp3?dest-id=480596",
+   "published": "Wed, 17 Jun 2026 16:55:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Philosophical conversation on consciousness, morality, and belief.",
+   "tradition": "Secular"
   },
   {
    "id": "4cce45d0-8650-11f1-bfef-b3259654b6b2",
@@ -27,8 +40,34 @@
    "published": "Thu, 23 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuroscientist and meditation teacher discusses consciousness and ethical transformation.",
+   "reason": "Neuroscientist and meditation teacher discusses consciousness, self, and ethical transformation.",
    "tradition": "Secular"
+  },
+  {
+   "id": "824e6de5-489e-4e5c-8bbc-65e74191d4cc",
+   "showID": "https://feeds.simplecast.com/5gzMlOG1",
+   "showTitle": "Call Me Back - with Dan Senor",
+   "title": "Tisha b'Av: The Bottom of the Calendar - with Rachel Goldberg-Polin",
+   "summary": "What does Tisha B'Av ask of us after October 7?\nTisha B'Av is the saddest date on the Jewish calendar, but Rachel Goldberg-Polin argues it also offers hope and opportunity. In a conversation shaped by the personal and collective trauma of October 7, she explains why Jewish tradition gathers centuries of loss onto a single day, why it compels us to look inward, and how mourning is meant to become the first step toward repair.\nRachel’s suggested reading:  This Is Real and You Are Completely Unprepared: The Days of Awe as a Journey of Transformation by Rabbi Alan Lew\n___\nCall Me Back is made poss",
+   "audioURL": "https://cdn.simplecast.com/media/audio/transcoded/e9010e3f-7aa0-43d4-a1f5-6e638d5a744e/95ea4d0c-35c7-4ac7-a410-7d9f02ee3ded/episodes/audio/group/f944213d-ba93-4544-93e8-7fabda7132a0/group-item/7fb345ae-22f7-4914-b72c-65aa3e7c8e85/128_default_tc.mp3?aid=rss_feed&amp;feed=5gzMlOG1",
+   "published": "Mon, 20 Jul 2026 04:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Jewish tradition on mourning and repair after collective trauma.",
+   "tradition": "Jewish"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
+   "showID": "https://rss.art19.com/the-telepathy-tapes",
+   "showTitle": "The Telepathy Tapes",
+   "title": "S2E41: Ibogaine Inquiries Part III: The Sacred Roots of Iboga",
+   "summary": "Long before ibogaine entered Western clinics and laboratories, the plant it comes from held a sacred place in Gabonese life. In Part III of Ibogaine Inquiries, we travel to Gabon to explore Bwiti, the spiritual tradition in which iboga is understood as a teacher, guide, and living presence.Gabonese practitioners and Bwiti initiates describe the preparation, community, music, mentorship, and lifelong practice that surround the medicine. They explain why Iboga cannot be separated from the larger body of knowledge developed around it. As Western interest continues to grow, this episode asks what ",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/fd973b3b-9b1d-40e3-b289-b01d4e52675f.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Mon, 27 Jul 2026 07:03:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Examines sacred African spiritual tradition and consciousness through iboga.",
+   "tradition": "Indigenous"
   },
   {
    "id": "1b1230ee-7f96-11f1-a585-fff0f0c3a9b3",
@@ -53,46 +92,33 @@
    "published": "Wed, 01 Jul 2026 17:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep talk on unhappiness, death, ritual, and self-discovery.",
+   "reason": "Philosophical and psychological talk on unhappiness, death, and meaning.",
    "tradition": "Secular"
   },
   {
-   "id": "ad7e1a76-c9c3-489f-9576-03a101985e05",
-   "showID": "https://rss.pdrl.fm/851fd8/feeds.libsyn.com/98571/rss/?redirect=false",
-   "showTitle": "The Michael Shermer Show",
-   "title": "Massimo Pigliucci on Doubt, Moral Courage, and Living Without Illusions",
-   "summary": "What does it mean to live well when certainty is unavailable? Michael Shermer speaks with Massimo Pigliucci about moral character, ancient philosophy, and the difficult art of making decisions without easy answers. The conversation moves from Cicero and Stoicism to the legacy of the New Atheism, asking why rejecting religion is not the same as having a philosophy of life. They discuss virtue ethics, moral dilemmas, effective altruism, faith, free will, democracy, human flourishing, and the uneasy relationship between facts and values. From the trolley problem and Peter Singer's drowning child ",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/sciencesalon/mss620_Massimo_Pigliucci_2026_06_20.mp3?dest-id=513978",
-   "published": "Sat, 20 Jun 2026 16:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b1/1b/5a/b11b5ad4-b160-7284-5b7c-cdc8daf251d7/mza_556097899631146588.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Philosophical inquiry into doubt, moral courage, and living without certainty.",
-   "tradition": "Stoic"
+   "id": "ae272ab0-f468-4dd6-a88c-7c40119ed96c",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Religious Scrupulosity Nearly Destroyed Hayli's Faith... Until She Rediscoverd Jesus Christ",
+   "summary": "\" No amount of scripture reading, praying, mission serving, nitpicking your husbanding is going to save you. It's not. Having a relationship with your Savior, Jesus Christ, and your Heavenly Father will. If you know that they love you, and if you let that in, it will change your life in a way that nothing else will.\"Memor Jewelry code COMEBACK for 10% offhttps://memorjewelry.com/Serve Clothing code COMEBACK for 15% offhttps://serveclothing.com/00:00 Burnout And Needing Grace05:35 Childhood Exposure And Shame12:49 Scrupulosity And Mission Spiral21:36 Marriage Under Perfectionism27:29 Discoverin",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/122672048/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-10%2F427740787-44100-2-332e66d05e737.m4a",
+   "published": "Sun, 12 Jul 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A personal story of losing and rediscovering faith in Jesus amid spiritual struggle.",
+   "tradition": "Christian"
   },
   {
-   "id": "bc21b676-dd41-410f-8308-82198714d094",
-   "showID": "https://anchor.fm/s/1010c05b0/podcast/rss",
-   "showTitle": "Decoded | Unlock The Secrets of Human Behavior, Emotion and Motivation",
-   "title": "Who Killed God? The Spiritual Cost of Modern Progress",
-   "summary": "What happens when a civilization removes God—but keeps searching for meaning?In this episode of Decoded, Elisabeth McKay explores one of the most important cultural questions of our time: Who killed God?This is not about religion versus atheism. It's a deeper examination of how modern society gradually replaced transcendence with human-centered systems—and what happened as a result.From the Enlightenment and the French Revolution to Darwin, Freud, Marx, modern psychology, consumer culture, and the rise of self-worship, Elisabeth traces the historical and psychological shifts that transformed h",
-   "audioURL": "https://anchor.fm/s/1010c05b0/podcast/play/121645988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2Fc3966914-24d2-c927-4451-1dc427045ddf.mp3",
-   "published": "Thu, 18 Jun 2026 04:39:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/59/9d/03599d6d-b520-a0af-48f7-2817abd33818/mza_2980337403515710175.jpg/600x600bb.jpg",
+   "id": "a027d401-d541-4b6f-b04d-b0c492e9438e",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "James Lost Everything... Until He Finally Learned to Listen to God",
+   "summary": "\" God changed me. Life brought me to my knees, humbled me enough to just hand it all to Him. It is the greatest decision I ever made in my life.\"00:00 Shower Wake Up Call05:10 Family Crisis And Porn09:13 Sent Home From Mission11:31 Drift after Marriage14:04 Divorce Sparks Daily Prayer21:03 Repentance And Membership Loss24:05 Faith Questions And Return32:37 Rebaptism and New MarriageMike's Auto Shackhttps://mikesautoshack.com/Serve Clothing code COMEBACK for 15% offhttps://serveclothing.com/If you have a story to share please submit here: https://comebackpodcast.org/submissions/For inquiries co",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/122900937/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428047727-44100-2-656f7cfd0a12a.m4a",
+   "published": "Sun, 19 Jul 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Analyzes cultural loss of transcendence and its impact on meaning and spirituality.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "fe3f083a-7be8-11f1-ac9b-07f011679f34",
-   "showID": "https://feeds.megaphone.fm/mupod",
-   "showTitle": "Mysterious Universe",
-   "title": "36.01 - MU Podcast - Beyond and Back - The Christian's Guide to the Eternal Afterlife",
-   "summary": "Welcome to Mysterious Universe Season 36 episode 01! Kicking this fresh new season off with a look at the uber-religious view of what happens after they die. Christians believe that death is not the end, but the beginning of an eternal existence based on faith in Jesus. The afterlife centers on the promise of a restored, perfect world-often described as a renewed Earth-where believers experience unhindered joy, total healing, and the continual presence of God. Today, we talk death, dying, and your right to die. That includes a 30-minute-in-heaven near-death trip to a crystal city in the sky to",
-   "audioURL": "https://traffic.megaphone.fm/THKP9235175057.mp3",
-   "published": "Fri, 10 Jul 2026 10:33:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/1e/33/f9/1e33f91a-edfa-0e84-2c12-e9eb3e464b07/mza_4914288206950426810.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Discusses Christian views on death, afterlife, and eternal meaning.",
+   "reason": "A personal story of faith loss, doubt, and spiritual return.",
    "tradition": "Christian"
   },
   {
@@ -105,7 +131,7 @@
    "published": "Mon, 13 Jul 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Serious discussion of Stoic philosophy on resilience and ethics.",
+   "reason": "Modern Stoic philosophy on resilience and meaning in life.",
    "tradition": "Stoic"
   },
   {
@@ -118,21 +144,8 @@
    "published": "Wed, 15 Jul 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/44/d6/c4/44d6c400-328c-9675-0c91-2ba8a478f795/mza_9931771251539629382.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores Indigenous earth wisdom and spiritual relationship with nature.",
+   "reason": "Indigenous wisdom on earth as a living relative and ethical farming.",
    "tradition": "Indigenous"
-  },
-  {
-   "id": "78df413a-b3db-4bba-9a2a-6a603f10cc11",
-   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
-   "showTitle": "Making Sense with Sam Harris",
-   "title": "#481 — Sam Harris Receives the 2026 Richard Dawkins Award",
-   "summary": "Richard Dawkins presents Sam Harris with the 2026 Richard Dawkins Award at a live Center for Inquiry event. After the tribute, the two friends discuss consciousness and epiphenomenalism, AI and the Turing test, the scientific basis of morality, the failures of democracy and Trump's corruption, the role of philosophy, changing deeply held beliefs, Sam's path to meditation, the legacy of Christopher Hitchens, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samharris.org/subscribe.",
-   "audioURL": "https://traffic.libsyn.com/secure/wakingup/481_MS_Richard_Dawkins_subscriber.mp3?dest-id=480596",
-   "published": "Wed, 17 Jun 2026 16:55:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Philosophical talk on consciousness, morality, and belief change.",
-   "tradition": "Secular"
   },
   {
    "id": "4dfbd69d-1ed2-4d5d-b1cd-16df24999412",
@@ -157,8 +170,21 @@
    "published": "Tue, 07 Jul 2026 18:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A couple navigates faith loss and mixed belief in a committed marriage.",
+   "reason": "Explores faith loss and mixed-faith marriage challenges in Mormon context.",
    "tradition": "Christian"
+  },
+  {
+   "id": "Buzzsprout-19161087",
+   "showID": "https://rss.buzzsprout.com/2466288.rss",
+   "showTitle": "GET CANCELLED PODCAST",
+   "title": "OVER ON ADMIRAL AND TELLING GOD YOU LOVE HIM ....... EPI 45",
+   "summary": "Episode 45 of the Get Cancelled is one of the most raw and heartfelt conversations yet. Bryan, Kellen, and Thad sit down with special guest, Kally Hristov for an honest discussion about pain, healing, forgiveness, faith, and finding purpose through life’s hardest valleys.Kally opens up about what it feels like to walk through seasons where your heart becomes closed off from love, connection, and even from feeling God’s presence. Through vulnerability and powerful reflection, this episode dives into the process of forgiveness, rediscovering authentic love, and understanding that God’s timing is",
+   "audioURL": "https://www.buzzsprout.com/2466288/episodes/19161087-over-on-admiral-and-telling-god-you-love-him-epi-45.mp3",
+   "published": "Mon, 11 May 2026 20:00:00 -0500",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/17/18/f0/1718f06a-160e-db12-819d-fed751b27581/mza_16875449492542475728.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A raw conversation on pain, faith, forgiveness, and finding purpose through suffering.",
+   "tradition": "Interfaith"
   },
   {
    "id": "d9a1872d-e665-4536-bf34-5320f4854c61",
@@ -170,20 +196,7 @@
    "published": "Mon, 29 Jun 2026 19:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/18/b8/e218b838-b790-3a33-441f-c3772d9abbbf/mza_6896085647855199484.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Psychologist argues spirituality is a universal human need for fulfillment.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/BR8ODfHt4mNADpPN1llNbDLQUDLGs_QYFX_FcW1A6lo",
-   "showID": "https://rss.art19.com/the-telepathy-tapes",
-   "showTitle": "The Telepathy Tapes",
-   "title": "S2E40: Ibogaine Inquiries Part II: The Intelligence of the Medicine",
-   "summary": "People around the world describe remarkably similar experiences with ibogaine: encounters with ancestors, shared dreams, telepathic abilities, and moments that seem to transcend ordinary consciousness.Are these a coincidence, a hallucination, or something science has yet to explain?In this episode, psychologists, neuroscientists, chemists, physicians, and former patients explore why ibogaine appears unlike any other psychedelic they've studied. From blindfolded perception and shared visions to groundbreaking brain research and the search for safer treatments, we examine the growing evidence an",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/41639999-d13a-4d50-9279-16d68bbb0237.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Fri, 24 Jul 2026 07:03:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Experts explore psychedelic experiences that challenge ordinary consciousness.",
+   "reason": "Psychologist argues spirituality as a universal human need tied to meaning and transcendence.",
    "tradition": "Secular"
   },
   {
@@ -196,21 +209,8 @@
    "published": "Thu, 25 Jun 2026 17:18:01 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/44/d6/c4/44d6c400-328c-9675-0c91-2ba8a478f795/mza_9931771251539629382.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Detailed discussion on ayahuasca, shamans, and cosmic experience.",
+   "reason": "Deep discussion on ayahuasca, shamanism, and cosmic experience with ethical concerns.",
    "tradition": "Indigenous"
-  },
-  {
-   "id": "adabb3cc-7ae5-11f1-b5a2-33cf48547836",
-   "showID": "https://feeds.megaphone.fm/TPG1652050293",
-   "showTitle": "With and For hosted by Dr. Pam King",
-   "title": "Replace judgment with kindness, with Dr. Brad Strawn",
-   "summary": "In this divided moment, we are being actively encouraged to make enemies of one another. To resist these forces, we need to cultivate kindness.&nbsp; Loving kindness is a simple but powerful evidenced-backed practice that helps us hold our own views and values, yet still honor the perspectives of others… even those with whom we disagree.\n\nLeading us through this practice is  Dr. Brad Strawn, licensed psychologist, ordained minister and one of the leading figures in the integration of psychology and Christian theology in the US. Don’t miss my full interview with Dr. Strawn.&nbsp;\n\n Here today w",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/51/tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/pscrb.fm/rss/p/traffic.megaphone.fm/TPG8650447289.mp3",
-   "published": "Mon, 20 Jul 2026 09:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Focuses on kindness as a practice to overcome division, integrating psychology and spirituality.",
-   "tradition": "Interfaith"
   },
   {
    "id": "cc761e98-d51b-11f0-a46a-bfd3c5f67da2",
@@ -222,8 +222,21 @@
    "published": "Mon, 29 Jun 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/25/f5/8425f5c3-ce22-db1a-3e55-1a6698cc7f03/mza_3273078451247345185.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines America's spiritual crisis through loneliness, belonging, and purpose.",
+   "reason": "Examines America's spiritual crisis and loss of connection and purpose.",
    "tradition": "Secular"
+  },
+  {
+   "id": "https://www.ldsscriptureteachings.org/?p=33899",
+   "showID": "https://www.ldsscriptureteachings.org/feed/podcast/",
+   "showTitle": "Talking Scripture",
+   "title": "Ep 381 | 1-2 Chronicles, Come Follow Me 2026 (July 20-26)",
+   "summary": "→ Watch on YouTube\n\n\n\n→ Detailed Show Notes\n\n\n\n(00:00) Although 1-2 Kings and 1-2 Chronicles cover the same time period, they are very different histories.(17:25) When you violate god’s laws you are left to your own strength. The 4-4-4 principle.(29:37) 2 Chronicles 20 emphasizes the protective power of God’s temple. The battle isn’t ours alone. Moab besieges Jehoshaphat. (41:22) Elder Christofferson taught that no injustice in mortality is permanent.(43:50) 2 Chronicles 30 is Hezekiah’s invitation to Israel to come to the temple.(51:01) Some from the north came to the temple. Perhaps Lehi’s a",
+   "audioURL": "https://media.blubrry.com/talkingscripture/www.ldsscriptureteachings.org/wp-content/uploads/2026/07/381-2-Chronicles-14-20-26-30-final-mp3.mp3",
+   "published": "Thu, 16 Jul 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "In-depth biblical study on justice, divine protection, and mortality.",
+   "tradition": "Christian"
   },
   {
    "id": "87882620-93d4-44ca-99c9-9b43399fb2c2",
@@ -235,7 +248,7 @@
    "published": "Fri, 24 Jul 2026 18:00:03 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former nun reflects on faith, obedience, and rebellion in religious life.",
+   "reason": "A former nun discusses faith, obedience, and rebellion in monastic life.",
    "tradition": "Christian"
   },
   {
@@ -248,34 +261,34 @@
    "published": "Mon, 6 Jul 2026 19:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/18/b8/e218b838-b790-3a33-441f-c3772d9abbbf/mza_6896085647855199484.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores spirituality, suffering, and meaning through psychological science.",
+   "reason": "Explores spirituality scientifically and how suffering can open deeper meaning.",
    "tradition": "Secular"
   },
   {
-   "id": "824e6de5-489e-4e5c-8bbc-65e74191d4cc",
-   "showID": "https://feeds.simplecast.com/5gzMlOG1",
-   "showTitle": "Call Me Back - with Dan Senor",
-   "title": "Tisha b'Av: The Bottom of the Calendar - with Rachel Goldberg-Polin",
-   "summary": "What does Tisha B'Av ask of us after October 7?\nTisha B'Av is the saddest date on the Jewish calendar, but Rachel Goldberg-Polin argues it also offers hope and opportunity. In a conversation shaped by the personal and collective trauma of October 7, she explains why Jewish tradition gathers centuries of loss onto a single day, why it compels us to look inward, and how mourning is meant to become the first step toward repair.\nRachel’s suggested reading:  This Is Real and You Are Completely Unprepared: The Days of Awe as a Journey of Transformation by Rabbi Alan Lew\n___\nCall Me Back is made poss",
-   "audioURL": "https://cdn.simplecast.com/media/audio/transcoded/e9010e3f-7aa0-43d4-a1f5-6e638d5a744e/95ea4d0c-35c7-4ac7-a410-7d9f02ee3ded/episodes/audio/group/f944213d-ba93-4544-93e8-7fabda7132a0/group-item/7fb345ae-22f7-4914-b72c-65aa3e7c8e85/128_default_tc.mp3?aid=rss_feed&amp;feed=5gzMlOG1",
-   "published": "Mon, 20 Jul 2026 04:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/600x600bb.jpg",
+   "id": "https://api.spreaker.com/episode/72541691",
+   "showID": "https://www.spreaker.com/show/7010368/episodes/feed",
+   "showTitle": "Where the River Took Us",
+   "title": "Faith After the Flood",
+   "summary": "A conversation about faith with Dallas attorney R.J. Harber, who lost most of his family in the July 4 flood. We connected as survivors and during our conversation, I learned that even though we believe very different things and engage spiritually in very different ways, the result is kind of the same.To read Aaron Parsely’s Pulitzer Prize-winning feature, go to:https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/.",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/72541691/flood_ep_5_final_rev_060926.mp3",
+   "published": "Tue, 16 Jun 2026 09:00:16 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9c/e9/79/9ce97943-7c57-b1cd-a1c8-cef29e4543ca/mza_17868315373624613860.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Jewish tradition on mourning and repair after trauma and loss.",
-   "tradition": "Jewish"
+   "reason": "Two survivors discuss faith and spirituality despite differing beliefs.",
+   "tradition": "Interfaith"
   },
   {
-   "id": "269fe31c-8247-11f1-b2f6-131e6e8dd21a",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "KARL-ANTHONY TOWNS: How I Survived the Hardest Year of My Life",
-   "summary": "Karl-Anthony Towns has spent his life chasing championships, but his greatest lessons came far from the basketball court. In this heartfelt conversation with Jay Shetty, he reflects on grief, faith, family, and the moments that shaped the man behind the jersey. From honoring his late mother's legacy to embracing God's timing, discovering purpose beyond success, and building a love rooted in friendship, this episode is a moving reminder that who you become matters far more than what you achieve.\n\nSometimes the greatest victories aren't the ones the world celebrates, they're the quiet moments wh",
-   "audioURL": "https://traffic.megaphone.fm/GLT8051104610.mp3",
-   "published": "Mon, 20 Jul 2026 00:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ef/9e/1f/ef9e1fa1-a331-0023-f45a-aa95f16d1b20/mza_2011943239364279494.jpg/600x600bb.jpg",
+   "id": "ad7e1a76-c9c3-489f-9576-03a101985e05",
+   "showID": "https://rss.pdrl.fm/851fd8/feeds.libsyn.com/98571/rss/?redirect=false",
+   "showTitle": "The Michael Shermer Show",
+   "title": "Massimo Pigliucci on Doubt, Moral Courage, and Living Without Illusions",
+   "summary": "What does it mean to live well when certainty is unavailable? Michael Shermer speaks with Massimo Pigliucci about moral character, ancient philosophy, and the difficult art of making decisions without easy answers. The conversation moves from Cicero and Stoicism to the legacy of the New Atheism, asking why rejecting religion is not the same as having a philosophy of life. They discuss virtue ethics, moral dilemmas, effective altruism, faith, free will, democracy, human flourishing, and the uneasy relationship between facts and values. From the trolley problem and Peter Singer's drowning child ",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/sciencesalon/mss620_Massimo_Pigliucci_2026_06_20.mp3?dest-id=513978",
+   "published": "Sat, 20 Jun 2026 16:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b1/1b/5a/b11b5ad4-b160-7284-5b7c-cdc8daf251d7/mza_556097899631146588.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A heartfelt reflection on grief, faith, and purpose beyond success.",
-   "tradition": "Christian"
+   "reason": "A deep discussion on doubt, moral courage, and living without illusions through Stoic philosophy.",
+   "tradition": "Stoic"
   },
   {
    "id": "d6d3c8dc-65cf-11f1-b506-ef0287574c95",
@@ -291,42 +304,29 @@
    "tradition": "Interfaith"
   },
   {
-   "id": "540eefb7-9869-4671-8f46-b48a00ee8f7c",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2e824128-fbd5-4c9e-9a57-ae2f0056b0c4/66d98a23-900c-44b0-a40b-ae2f0056b0db/podcast.rss",
-   "showTitle": "Stuff They Don't Want You To Know",
-   "title": "CLASSIC: What is Falun Gong?",
-   "summary": "The movement known as Falun Dafa or Falun Gong began in China in the 1990s, and today people across the planet consider themselves practicioners. Adherents claim this combination of meditation, breathing exercises, mindfulness and moral philosophy is a path to enlightenment -- but the government of China disagrees. For decades Chinese authorities have considered Falun Gong a dangerous, subversive element. Since 1999 the government has made concerted efforts to suppress this spiritual practice -- but why? Tune in to learn more.They don't want you to read our book.: https://static.macmillan.com/",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2e824128-fbd5-4c9e-9a57-ae2f0056b0c4/540eefb7-9869-4671-8f46-b48a00ee8f7c/audio.mp3?utm_source=Podcast&amp;in_playlist=66d98a23-900c-44b0-a40b-ae2f0056b0db",
-   "published": "Tue, 21 Jul 2026 11:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/f6/d7/b3f6d733-0924-1923-d33e-c0e0a8b6486d/mza_12499946169636574274.jpg/600x600bb.jpg",
+   "id": "bc21b676-dd41-410f-8308-82198714d094",
+   "showID": "https://anchor.fm/s/1010c05b0/podcast/rss",
+   "showTitle": "Decoded | Unlock The Secrets of Human Behavior, Emotion and Motivation",
+   "title": "Who Killed God? The Spiritual Cost of Modern Progress",
+   "summary": "What happens when a civilization removes God—but keeps searching for meaning?In this episode of Decoded, Elisabeth McKay explores one of the most important cultural questions of our time: Who killed God?This is not about religion versus atheism. It's a deeper examination of how modern society gradually replaced transcendence with human-centered systems—and what happened as a result.From the Enlightenment and the French Revolution to Darwin, Freud, Marx, modern psychology, consumer culture, and the rise of self-worship, Elisabeth traces the historical and psychological shifts that transformed h",
+   "audioURL": "https://anchor.fm/s/1010c05b0/podcast/play/121645988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2Fc3966914-24d2-c927-4451-1dc427045ddf.mp3",
+   "published": "Thu, 18 Jun 2026 04:39:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/59/9d/03599d6d-b520-a0af-48f7-2817abd33818/mza_2980337403515710175.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores Falun Gong's meditation and moral philosophy as a path to enlightenment.",
-   "tradition": "Buddhist"
+   "reason": "Examines cultural loss of transcendence and search for meaning beyond religion.",
+   "tradition": "Secular"
   },
   {
-   "id": "ae272ab0-f468-4dd6-a88c-7c40119ed96c",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "Religious Scrupulosity Nearly Destroyed Hayli's Faith... Until She Rediscoverd Jesus Christ",
-   "summary": "\" No amount of scripture reading, praying, mission serving, nitpicking your husbanding is going to save you. It's not. Having a relationship with your Savior, Jesus Christ, and your Heavenly Father will. If you know that they love you, and if you let that in, it will change your life in a way that nothing else will.\"Memor Jewelry code COMEBACK for 10% offhttps://memorjewelry.com/Serve Clothing code COMEBACK for 15% offhttps://serveclothing.com/00:00 Burnout And Needing Grace05:35 Childhood Exposure And Shame12:49 Scrupulosity And Mission Spiral21:36 Marriage Under Perfectionism27:29 Discoverin",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/122672048/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-10%2F427740787-44100-2-332e66d05e737.m4a",
-   "published": "Sun, 12 Jul 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A personal story of losing and rediscovering faith in Jesus Christ.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "unshaken.podbean.com/4022e7b0-c9c9-3a73-a1fb-0537d56161b7",
+   "id": "unshaken.podbean.com/dfc0aa76-de74-3271-a0e2-45d3517f8c36",
    "showID": "https://feed.podbean.com/unshaken/feed.xml",
    "showTitle": "Unshaken Saints",
-   "title": "1-2 Chronicles - Forgotten Stories",
-   "summary": "When you look at your life through the lens of your worst mistakes, it can feel like a devastating exile. But what if God chose to rewrite your history, leaving out the wreckage of your past to remind you of who you can become? In this study of 1 & 2 Chronicles, we uncover the ultimate \"highlight reel\" of scripture—a book written not to say \"I told you so,\" but to declare that your punishment is past and your restoration has begun.\nSummary: In this deep-dive episode, we unpack the unique theological genius of 1 & 2 Chronicles. While the books of Samuel and Kings offer the brutal raw history of",
-   "audioURL": "https://mcdn.podbean.com/mf/web/76cw94498rii5h2p/Chronicles_full_audio_enhanced73g1f.mp3",
-   "published": "Sun, 19 Jul 2026 15:14:18 -0600",
+   "title": "Ruth & 1 Samuel 1-7 - Women of Faith",
+   "summary": "The Book of Judges ends in total moral chaos, with everyone doing \"what is right in their own eyes.\" But right against that dark backdrop, a young foreign widow named Ruth and a heartbroken, barren mother named Hannah shine a brilliant light. If you feel surrounded by a spiritual famine, their stories are the ultimate anchor.\nSummary: In this episode, we bridge the gap between the chaotic era of the Judges and the dawn of the Kings of Israel by studying the Book of Ruth and 1 Samuel 1–7. We move past the surface history to uncover deep covenants of loyalty, the anatomy of desperate prayer, and",
+   "audioURL": "https://mcdn.podbean.com/mf/web/8wnc5un6mnz4z6bh/Ruth_1_Sam_1-7_full_audio_enhanced94hem.mp3",
+   "published": "Tue, 02 Jun 2026 08:41:53 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Biblical study on restoration and identity beyond past mistakes.",
+   "reason": "Highlights biblical women as anchors of faith amid moral chaos.",
    "tradition": "Christian"
   }
  ]
