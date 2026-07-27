@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-27T16:48:09.867518+00:00",
+ "generatedAt": "2026-07-27T17:37:31.991702+00:00",
  "showsScanned": 400,
  "candidates": 80,
  "picks": [
@@ -27,7 +27,7 @@
    "published": "Thu, 23 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Sam Harris explains meditation’s role in understanding self and transforming consciousness.",
+   "reason": "Sam Harris explains meditation's role in understanding self and transforming consciousness.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores sacred plant medicine and spiritual practice in Gabonese Bwiti tradition.",
+   "reason": "Explores the sacred spiritual tradition of Bwiti and iboga as a living guide.",
    "tradition": "Indigenous"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Tue, 14 Jul 2026 15:10:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b7/51/c1b751eb-ab38-f11c-d6c1-0a9de79b7061/mza_12134548126279202007.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Philosophical discussion on human change, religion, and culture.",
+   "reason": "Philosophical discussion on human change, religion, and culture as monastic rule.",
    "tradition": "Secular"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Wed, 01 Jul 2026 17:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep conversation on unhappiness, death, ritual, and self-discovery.",
+   "reason": "Conversation on unhappiness, ritual, death, and self-discovery with a philosopher.",
    "tradition": "Secular"
   },
   {
@@ -79,21 +79,8 @@
    "published": "Sat, 20 Jun 2026 16:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b1/1b/5a/b11b5ad4-b160-7284-5b7c-cdc8daf251d7/mza_556097899631146588.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Philosophical talk on doubt, ethics, and living without certainty.",
+   "reason": "Philosophical talk on doubt, moral courage, and living without certainty.",
    "tradition": "Stoic"
-  },
-  {
-   "id": "bc21b676-dd41-410f-8308-82198714d094",
-   "showID": "https://anchor.fm/s/1010c05b0/podcast/rss",
-   "showTitle": "Decoded | Unlock The Secrets of Human Behavior, Emotion and Motivation",
-   "title": "Who Killed God? The Spiritual Cost of Modern Progress",
-   "summary": "What happens when a civilization removes God—but keeps searching for meaning?In this episode of Decoded, Elisabeth McKay explores one of the most important cultural questions of our time: Who killed God?This is not about religion versus atheism. It's a deeper examination of how modern society gradually replaced transcendence with human-centered systems—and what happened as a result.From the Enlightenment and the French Revolution to Darwin, Freud, Marx, modern psychology, consumer culture, and the rise of self-worship, Elisabeth traces the historical and psychological shifts that transformed h",
-   "audioURL": "https://anchor.fm/s/1010c05b0/podcast/play/121645988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2Fc3966914-24d2-c927-4451-1dc427045ddf.mp3",
-   "published": "Thu, 18 Jun 2026 04:39:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/59/9d/03599d6d-b520-a0af-48f7-2817abd33818/mza_2980337403515710175.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Examines cultural loss of transcendence and search for meaning beyond religion.",
-   "tradition": "Secular"
   },
   {
    "id": "ae272ab0-f468-4dd6-a88c-7c40119ed96c",
@@ -105,7 +92,20 @@
    "published": "Sun, 12 Jul 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares struggle with scrupulosity and rediscovery of faith in Jesus Christ.",
+   "reason": "A woman recounts losing and rediscovering faith amid scrupulosity.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "a027d401-d541-4b6f-b04d-b0c492e9438e",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "James Lost Everything... Until He Finally Learned to Listen to God",
+   "summary": "\" God changed me. Life brought me to my knees, humbled me enough to just hand it all to Him. It is the greatest decision I ever made in my life.\"00:00 Shower Wake Up Call05:10 Family Crisis And Porn09:13 Sent Home From Mission11:31 Drift after Marriage14:04 Divorce Sparks Daily Prayer21:03 Repentance And Membership Loss24:05 Faith Questions And Return32:37 Rebaptism and New MarriageMike's Auto Shackhttps://mikesautoshack.com/Serve Clothing code COMEBACK for 15% offhttps://serveclothing.com/If you have a story to share please submit here: https://comebackpodcast.org/submissions/For inquiries co",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/122900937/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428047727-44100-2-656f7cfd0a12a.m4a",
+   "published": "Sun, 19 Jul 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Personal story of crisis, repentance, and renewed faith.",
    "tradition": "Christian"
   },
   {
@@ -131,7 +131,7 @@
    "published": "Wed, 15 Jul 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/44/d6/c4/44d6c400-328c-9675-0c91-2ba8a478f795/mza_9931771251539629382.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Leah Penniman explores earth wisdom, gratitude, and relational ethics with ancestral roots.",
+   "reason": "Leah Penniman explores earth wisdom, gratitude, and relational ethics with Indigenous roots.",
    "tradition": "Indigenous"
   },
   {
@@ -144,7 +144,7 @@
    "published": "Wed, 17 Jun 2026 16:55:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Sam Harris and Dawkins discuss consciousness, morality, and philosophy deeply.",
+   "reason": "Sam Harris and Richard Dawkins discuss consciousness, morality, and meditation.",
    "tradition": "Secular"
   },
   {
@@ -157,7 +157,7 @@
    "published": "Wed, 22 Jul 2026 11:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/be/97/3cbe97fb-f542-6271-7c4f-c986b5f4c51f/mza_8932915024380387774.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores ancient wisdom and psychology on love and human maturity amid crises.",
+   "reason": "Examines ancient wisdom and psychology on love and interconnectedness for modern crises.",
    "tradition": "Interfaith"
   },
   {
@@ -170,7 +170,7 @@
    "published": "Tue, 07 Jul 2026 18:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Mixed-faith marriage story deeply explores faith loss and relational challenges.",
+   "reason": "Mixed-faith marriage story explores faith loss and relational challenges in Mormonism.",
    "tradition": "Christian"
   },
   {
@@ -196,7 +196,7 @@
    "published": "Mon, 29 Jun 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/25/f5/8425f5c3-ce22-db1a-3e55-1a6698cc7f03/mza_3273078451247345185.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Analyzes America's spiritual crisis focusing on connection, purpose, and loneliness.",
+   "reason": "Analyzes America's spiritual crisis, loneliness, and loss of purpose in democracy.",
    "tradition": "Secular"
   },
   {
@@ -209,7 +209,7 @@
    "published": "Tue, 7 Jul 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/81/a8/3e81a88a-fea6-be8b-7bbb-431d9c685bd0/mza_8248505836165703838.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses spirituality rooted in nature, healing, and meaning in uncertainty.",
+   "reason": "Explores spirituality rooted in nature, healing, and meaning in uncertainty.",
    "tradition": "Indigenous"
   },
   {
@@ -222,7 +222,7 @@
    "published": "Mon, 20 Jul 2026 04:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Jewish tradition uses mourning to confront trauma and inspire repair.",
+   "reason": "Jewish tradition uses mourning to confront trauma and inspire repair after loss.",
    "tradition": "Jewish"
   },
   {
@@ -235,7 +235,7 @@
    "published": "Tue, 16 Jun 2026 09:00:16 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9c/e9/79/9ce97943-7c57-b1cd-a1c8-cef29e4543ca/mza_17868315373624613860.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Two survivors with different beliefs discuss faith and spiritual resilience.",
+   "reason": "Two survivors discuss faith and differing spiritual beliefs after a flood.",
    "tradition": "Interfaith"
   },
   {
@@ -248,7 +248,7 @@
    "published": "Mon, 6 Jul 2026 19:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/18/b8/e218b838-b790-3a33-441f-c3772d9abbbf/mza_6896085647855199484.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Psychologist discusses spirituality, suffering, and meaning in daily life.",
+   "reason": "Psychologist discusses spirituality, suffering, and meaning in everyday life.",
    "tradition": "Secular"
   },
   {
@@ -261,7 +261,7 @@
    "published": "Wed, 22 Jul 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/4e/30/364e308d-99c9-778e-e711-59e090408814/mza_3684559455643163671.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores resurrection's central role in history and cosmic reconciliation.",
+   "reason": "Explores resurrection's cosmic significance and ultimate reconciliation of all things.",
    "tradition": "Christian"
   },
   {
@@ -274,59 +274,59 @@
    "published": "Fri, 12 Jun 2026 10:04:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/1e/33/f9/1e33f91a-edfa-0e84-2c12-e9eb3e464b07/mza_4914288206950426810.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Connects ancient mysticism and modern science on consciousness and reality's nature.",
+   "reason": "Connects ancient mysticism and modern science on consciousness and reality.",
    "tradition": "Interfaith"
   },
   {
-   "id": "tag:soundcloud,2010:tracks/2358697559",
-   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:669018539/sounds.rss",
-   "showTitle": "Don't Miss This Study",
-   "title": "I HEAR YOUR PRAYER",
-   "summary": "In this episode of Don’t Miss This, Dave Butler and Grace Freeman study 2 Chronicles 14-20; 26; 30, discovering what some of the greatest prayers in scripture teach us about the heart of God. Through the lives of Asa, Jehoshaphat, and Hezekiah, we see leaders who faced impossible situations yet continually turned to the Lord, trusting that His power was greater than any obstacle before them.\n\nAs armies gathered, kingdoms were threatened, and fear surrounded them, these faithful kings chose prayer before panic. Whether facing overwhelming odds, uncertain futures, or desperate personal trials, t",
-   "audioURL": "https://feeds.soundcloud.com/stream/2358697559-grace-freeman-916551846-i-hear-your-prayer.mp3",
-   "published": "Sun, 12 Jul 2026 22:00:50 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
+   "id": "bc21b676-dd41-410f-8308-82198714d094",
+   "showID": "https://anchor.fm/s/1010c05b0/podcast/rss",
+   "showTitle": "Decoded | Unlock The Secrets of Human Behavior, Emotion and Motivation",
+   "title": "Who Killed God? The Spiritual Cost of Modern Progress",
+   "summary": "What happens when a civilization removes God—but keeps searching for meaning?In this episode of Decoded, Elisabeth McKay explores one of the most important cultural questions of our time: Who killed God?This is not about religion versus atheism. It's a deeper examination of how modern society gradually replaced transcendence with human-centered systems—and what happened as a result.From the Enlightenment and the French Revolution to Darwin, Freud, Marx, modern psychology, consumer culture, and the rise of self-worship, Elisabeth traces the historical and psychological shifts that transformed h",
+   "audioURL": "https://anchor.fm/s/1010c05b0/podcast/play/121645988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2Fc3966914-24d2-c927-4451-1dc427045ddf.mp3",
+   "published": "Thu, 18 Jun 2026 04:39:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/59/9d/03599d6d-b520-a0af-48f7-2817abd33818/mza_2980337403515710175.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Studies biblical prayers showing faith and trust amid fear and crisis.",
+   "reason": "Examines cultural loss of transcendence and search for meaning without God.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "https://api.spreaker.com/episode/73033975",
+   "showID": "https://www.spreaker.com/show/3395068/episodes/feed",
+   "showTitle": "UFO Chronicles Podcast",
+   "title": "Ep.395 The Other Side of Reality",
+   "summary": "Tonight, I'm joined by David from Florida, whose life took an unexpected turn following a near-death experience in 2021. Afterward, his life changed dramatically as his consciousness began to expand. He describes past life regressions, mysterious downloads of information, and encounters with non-human beings that led him to question the hidden nature of reality. David explains how these events inspired his motion comic series, The Lion of God, and how he transformed his personal journey into a story exploring consciousness, spirituality, and the unknown.More information on this episode on the ",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73033975/ep_395_the_other_side_of_reality.mp3",
+   "published": "Sun, 19 Jul 2026 01:00:02 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/22/72/33/227233bf-0e7b-4d2a-d2bd-402d810dea89/mza_17727488661588768146.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Personal near-death experience leads to expanded consciousness and questioning reality.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "0fa4e79a2fad69395cbe11dbec38cecc",
+   "showID": "https://podcasts.subsplash.com/z73b3th/podcast.rss",
+   "showTitle": "Becoming Something with Jonathan Pokluda",
+   "title": "Episode 379: Faith, Fear & Fighting for Your Family | feat. Christian Huff",
+   "summary": "<p>This week JP, Nate and Kathy sit down with Christian Huff, husband of Sadie Robertson, to talk about what it really looks like to lead your family through fear, anger, and hard seasons. Christian opens up about a terrifying medical scare with his daughter, wrestling with anger toward God, and what it means to step into spiritual strength as a husband and father. If you've ever found yourself blaming God for the enemy's work, this one is for you!</p>",
+   "audioURL": "https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4Lzg5OGViNmI5LWE0ZjMtNDE3YS1hZGFmLTM2MzQ1N2ZjY2NhNi9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=cvcg2bp",
+   "published": "Mon, 06 Jul 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Christian Huff discusses faith, anger, and spiritual strength amid family crisis.",
    "tradition": "Christian"
   },
   {
-   "id": "tag:soundcloud,2010:tracks/2338093706",
-   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:669018539/sounds.rss",
-   "showTitle": "Don't Miss This Study",
-   "title": "A PLACE OF PROMISE",
-   "summary": "In this episode of Don’t Miss This, Dave Butler and Grace Freeman study 2 Samuel 11–12 and 1 Kings 1–9, exploring the stories of David and Solomon and the lessons they teach about mercy, redemption, wisdom, and devotion. These chapters remind us that scripture is filled with imperfect people, and yet God continues to work through them, write them into His story, and accomplish His purposes through their lives.\n\nThe episode begins with one of the most heartbreaking moments in David’s life. His choices involving Bathsheba and Uriah reveal the consequences of sin and the pain that can follow when",
-   "audioURL": "https://feeds.soundcloud.com/stream/2338093706-grace-freeman-916551846-a-place-of-promise.mp3",
-   "published": "Sun, 14 Jun 2026 22:00:19 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
+   "id": "480153ca5edf1a839b1713278007412c",
+   "showID": "https://podcasts.subsplash.com/z73b3th/podcast.rss",
+   "showTitle": "Becoming Something with Jonathan Pokluda",
+   "title": "Episode 375: Q&A with JP Part 2 | Live at Beso Live",
+   "summary": "<p>We are back for Part 2 of the Q&A with JP as he answers live audience questions from Beso Live! Topics include storing up treasures in heaven, the purpose of prayer, grief and loss, discipleship, insecurity, legalism, and how to know if you're truly saved.</p>",
+   "audioURL": "https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4LzhlMTkzYzA5LTc0ZTItNGE1NS04MDQwLWEyNzdhODE1Mzc4Ni9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=cfphqk8",
+   "published": "Mon, 08 Jun 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores biblical stories of mercy, redemption, and wisdom through imperfect people.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "coe22.podbean.com/7261fda9-be0f-38b3-8cb4-df39209177d0",
-   "showID": "https://feed.podbean.com/coe22/feed.xml",
-   "showTitle": "The Church of Eleven22",
-   "title": "Death of John the Baptist - Impossible to Possible - Matthew S5E2",
-   "summary": "In Matthew 14, the lives of John the Baptist and Herod reveal a powerful contrast between fearing God and fearing people. While John remained faithful to God's truth no matter the cost, Herod's compromises and desire for approval led to destruction.\nThis message reminds us that small compromises never stay small, confession is courageous, and Jesus is enough even when life doesn't make sense. Whatever you're carrying today, unanswered prayers, hidden sin, guilt, grief, or disappointment, don't run from Him. Run to Him.\nSupplemental Resources From This Week:\n• Called, Sent, and Surrendered- Wes",
-   "audioURL": "https://mcdn.podbean.com/mf/web/dheqyc3znqqeugh2/2026007_1122_779veww.mp3",
-   "published": "Sun, 07 Jun 2026 21:01:29 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Contrasts faithfulness and compromise through John the Baptist and Herod's stories.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "fe3f083a-7be8-11f1-ac9b-07f011679f34",
-   "showID": "https://feeds.megaphone.fm/mupod",
-   "showTitle": "Mysterious Universe",
-   "title": "36.01 - MU Podcast - Beyond and Back - The Christian's Guide to the Eternal Afterlife",
-   "summary": "Welcome to Mysterious Universe Season 36 episode 01! Kicking this fresh new season off with a look at the uber-religious view of what happens after they die. Christians believe that death is not the end, but the beginning of an eternal existence based on faith in Jesus. The afterlife centers on the promise of a restored, perfect world-often described as a renewed Earth-where believers experience unhindered joy, total healing, and the continual presence of God. Today, we talk death, dying, and your right to die. That includes a 30-minute-in-heaven near-death trip to a crystal city in the sky to",
-   "audioURL": "https://traffic.megaphone.fm/THKP9235175057.mp3",
-   "published": "Fri, 10 Jul 2026 10:33:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/1e/33/f9/1e33f91a-edfa-0e84-2c12-e9eb3e464b07/mza_4914288206950426810.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores Christian beliefs about death, afterlife, and eternal existence.",
+   "reason": "Live Q&A covers prayer, grief, discipleship, and spiritual insecurity.",
    "tradition": "Christian"
   }
  ]
