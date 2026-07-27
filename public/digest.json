@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-27T22:28:37.077431+00:00",
+ "generatedAt": "2026-07-27T23:28:32.343897+00:00",
  "showsScanned": 400,
  "candidates": 80,
  "picks": [
@@ -27,7 +27,7 @@
    "published": "Thu, 23 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuroscientific and contemplative insights on meditation, consciousness, and ethics.",
+   "reason": "Neuroscientific and contemplative insights on meditation, consciousness, and self.",
    "tradition": "Secular"
   },
   {
@@ -40,8 +40,21 @@
    "published": "Mon, 20 Jul 2026 04:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Jewish tradition on collective trauma, mourning, and repair after loss.",
+   "reason": "Jewish tradition on mourning and repair after trauma, deeply reflecting on loss and faith.",
    "tradition": "Jewish"
+  },
+  {
+   "id": "1b1230ee-7f96-11f1-a585-fff0f0c3a9b3",
+   "showID": "https://feeds.megaphone.fm/QCD6036500916",
+   "showTitle": "Philosophize This!",
+   "title": "Episode #250 ... You Must Change Your Life. - Peter Sloterdijk",
+   "summary": "Today we talk about half of the book You Must Change Your Life by Peter Sloterdijk. From criticism towards views of change that he thinks are far too centered on belief and moral strength, to a reworking of how to view human beings at the level of anthropology. We talk about how our view of religion might change under this new perspective... as well as how culture should be seen as a kind of monastic rule. Hope you're having a great week and enjoy the episode. :)\n\n\n\nSponsors:\n\nNord VPN: https://nordvpn.com/philothis&nbsp;\n\nSaily: https://www.saily.com/philothis\n\n\n\n\nThank you so much for listen",
+   "audioURL": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/ADV9033477570.mp3",
+   "published": "Tue, 14 Jul 2026 15:10:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b7/51/c1b751eb-ab38-f11c-d6c1-0a9de79b7061/mza_12134548126279202007.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Philosophical discussion on human change, religion, and culture as monastic rule.",
+   "tradition": "Secular"
   },
   {
    "id": "e59287f5-0fea-4c44-b0df-b45ec6db750e",
@@ -53,7 +66,7 @@
    "published": "Wed, 01 Jul 2026 17:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep talk on unhappiness, death, ritual, and meaning from a secular perspective.",
+   "reason": "Deep talk on unhappiness, ritual, death, and self-discovery with a philosopher.",
    "tradition": "Secular"
   },
   {
@@ -70,19 +83,6 @@
    "tradition": "Stoic"
   },
   {
-   "id": "bc21b676-dd41-410f-8308-82198714d094",
-   "showID": "https://anchor.fm/s/1010c05b0/podcast/rss",
-   "showTitle": "Decoded | Unlock The Secrets of Human Behavior, Emotion and Motivation",
-   "title": "Who Killed God? The Spiritual Cost of Modern Progress",
-   "summary": "What happens when a civilization removes God—but keeps searching for meaning?In this episode of Decoded, Elisabeth McKay explores one of the most important cultural questions of our time: Who killed God?This is not about religion versus atheism. It's a deeper examination of how modern society gradually replaced transcendence with human-centered systems—and what happened as a result.From the Enlightenment and the French Revolution to Darwin, Freud, Marx, modern psychology, consumer culture, and the rise of self-worship, Elisabeth traces the historical and psychological shifts that transformed h",
-   "audioURL": "https://anchor.fm/s/1010c05b0/podcast/play/121645988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2Fc3966914-24d2-c927-4451-1dc427045ddf.mp3",
-   "published": "Thu, 18 Jun 2026 04:39:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/59/9d/03599d6d-b520-a0af-48f7-2817abd33818/mza_2980337403515710175.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Examines cultural loss of transcendence and search for meaning beyond religion.",
-   "tradition": "Secular"
-  },
-  {
    "id": "a1102b9e-7ca6-11f1-ab6c-bf01325f1049",
    "showID": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
    "showTitle": "The Shawn Ryan Show",
@@ -92,7 +92,7 @@
    "published": "Mon, 13 Jul 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores Stoic philosophy on resilience, ethics, and inner life with a modern thinker.",
+   "reason": "Modern Stoic philosophy applied to resilience, ethics, and meaning in life.",
    "tradition": "Stoic"
   },
   {
@@ -105,7 +105,7 @@
    "published": "Wed, 15 Jul 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/44/d6/c4/44d6c400-328c-9675-0c91-2ba8a478f795/mza_9931771251539629382.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines Indigenous earth wisdom and spirituality as a relational ethic with the land.",
+   "reason": "Explores Indigenous earth wisdom linking spirituality, ethics, and ecological health.",
    "tradition": "Indigenous"
   },
   {
@@ -118,7 +118,7 @@
    "published": "Wed, 17 Jun 2026 16:55:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Philosophical discussion on consciousness, morality, and meditation from a secular view.",
+   "reason": "Philosophical discussion on consciousness, morality, and meditation practice.",
    "tradition": "Secular"
   },
   {
@@ -131,7 +131,7 @@
    "published": "Wed, 22 Jul 2026 11:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/be/97/3cbe97fb-f542-6271-7c4f-c986b5f4c51f/mza_8932915024380387774.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Considers ancient wisdom and psychology on love and interconnectedness in crisis.",
+   "reason": "Examines ancient wisdom and psychology on love and interconnectedness in crisis.",
    "tradition": "Interfaith"
   },
   {
@@ -144,7 +144,7 @@
    "published": "Tue, 07 Jul 2026 18:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares a mixed-faith marriage's struggle with belief, doubt, and family dynamics.",
+   "reason": "Shares a mixed-faith marriage's struggle with faith loss and belief.",
    "tradition": "Christian"
   },
   {
@@ -157,7 +157,7 @@
    "published": "Mon, 29 Jun 2026 19:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/18/b8/e218b838-b790-3a33-441f-c3772d9abbbf/mza_6896085647855199484.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Psychologist discusses spirituality as a universal human capacity essential to fulfillment.",
+   "reason": "Discusses spirituality as a universal human capacity essential to meaning and fulfillment.",
    "tradition": "Secular"
   },
   {
@@ -170,7 +170,7 @@
    "published": "Tue, 7 Jul 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/81/a8/3e81a88a-fea6-be8b-7bbb-431d9c685bd0/mza_8248505836165703838.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores spirituality, intuition, and healing through nature and uncertainty deeply.",
+   "reason": "Explores spirituality, intuition, and healing through nature and uncertainty.",
    "tradition": "Interfaith"
   },
   {
@@ -183,21 +183,8 @@
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores sacred African tradition and spiritual practice around ibogaine.",
+   "reason": "Explores sacred African spiritual tradition and plant medicine as a guide and teacher.",
    "tradition": "Indigenous"
-  },
-  {
-   "id": "1b1230ee-7f96-11f1-a585-fff0f0c3a9b3",
-   "showID": "https://feeds.megaphone.fm/QCD6036500916",
-   "showTitle": "Philosophize This!",
-   "title": "Episode #250 ... You Must Change Your Life. - Peter Sloterdijk",
-   "summary": "Today we talk about half of the book You Must Change Your Life by Peter Sloterdijk. From criticism towards views of change that he thinks are far too centered on belief and moral strength, to a reworking of how to view human beings at the level of anthropology. We talk about how our view of religion might change under this new perspective... as well as how culture should be seen as a kind of monastic rule. Hope you're having a great week and enjoy the episode. :)\n\n\n\nSponsors:\n\nNord VPN: https://nordvpn.com/philothis&nbsp;\n\nSaily: https://www.saily.com/philothis\n\n\n\n\nThank you so much for listen",
-   "audioURL": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/ADV9033477570.mp3",
-   "published": "Tue, 14 Jul 2026 15:10:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b7/51/c1b751eb-ab38-f11c-d6c1-0a9de79b7061/mza_12134548126279202007.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Philosophical discussion on human change, religion, and culture as monastic rule.",
-   "tradition": "Secular"
   },
   {
    "id": "fa66899f-cb5a-40f1-94cc-099a0ae1ac71",
@@ -209,7 +196,33 @@
    "published": "Mon, 6 Jul 2026 19:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/18/b8/e218b838-b790-3a33-441f-c3772d9abbbf/mza_6896085647855199484.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Psychological and spiritual insights on suffering, meaning, and growth.",
+   "reason": "Psychologist on spirituality, suffering, and meaning in everyday life.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "3f5c5edc-7cd7-11f1-82c5-772edae009ee",
+   "showID": "https://feeds.megaphone.fm/TSF6225871961",
+   "showTitle": "No Small Endeavor with Lee C. Camp",
+   "title": "271: Unabridged Interview: Lee Warren",
+   "summary": "This is our unabridged interview with W. Lee Warren.\n\n\n\nCan you change your brain? The anxious tendencies, the recurring grief, the patterns of rumination? Our guest today says you can.\n\nDr. W. Lee Warren is a neurosurgeon and Iraq War veteran who performed 200 brain surgeries in a tent hospital during the war, came home carrying PTSD he wouldn't name for years, and later lost his 19-year-old son to murder. His book, The Life-Changing Art of Self-Brain Surgery, argues that the mind can reshape the very brain it thinks through, and that no grief, trauma, or lifelong pattern gets the final word ",
+   "audioURL": "https://mgln.ai/e/51/pscrb.fm/rss/p/tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/traffic.megaphone.fm/TSF5495445608.mp3",
+   "published": "Fri, 24 Jul 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A neurosurgeon shares his journey through PTSD and grief, exploring mind, brain, and healing.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "5460c188-7cd7-11f1-826f-07fa40d0ff53",
+   "showID": "https://feeds.megaphone.fm/TSF6225871961",
+   "showTitle": "No Small Endeavor with Lee C. Camp",
+   "title": "271: Lee Warren: Why You’re Not Stuck With the Brain You Have",
+   "summary": "Can you change your brain? The anxious tendencies, the recurring grief, the patterns of rumination? Our guest today says you can.\n\nDr. W. Lee Warren is a neurosurgeon and Iraq War veteran who performed 200 brain surgeries in a tent hospital during the war, came home carrying PTSD he wouldn't name for years, and later lost his 19-year-old son to murder. His book, ⁠The Life-Changing Art of Self-Brain Surgery⁠, argues that the mind can reshape the very brain it thinks through, and that no grief, trauma, or lifelong pattern gets the final word on who you become.\n\n\n\nKEY IDEAS\n\nFeelings as barometer",
+   "audioURL": "https://mgln.ai/e/51/pscrb.fm/rss/p/tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/traffic.megaphone.fm/TSF6690954473.mp3",
+   "published": "Mon, 20 Jul 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores how the mind can reshape the brain amid grief and trauma, blending neuroscience and inner life.",
    "tradition": "Secular"
   },
   {
@@ -224,6 +237,19 @@
    "rating": 7,
    "reason": "Connects ancient mysticism and modern science on consciousness and reality.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "bc21b676-dd41-410f-8308-82198714d094",
+   "showID": "https://anchor.fm/s/1010c05b0/podcast/rss",
+   "showTitle": "Decoded | Unlock The Secrets of Human Behavior, Emotion and Motivation",
+   "title": "Who Killed God? The Spiritual Cost of Modern Progress",
+   "summary": "What happens when a civilization removes God—but keeps searching for meaning?In this episode of Decoded, Elisabeth McKay explores one of the most important cultural questions of our time: Who killed God?This is not about religion versus atheism. It's a deeper examination of how modern society gradually replaced transcendence with human-centered systems—and what happened as a result.From the Enlightenment and the French Revolution to Darwin, Freud, Marx, modern psychology, consumer culture, and the rise of self-worship, Elisabeth traces the historical and psychological shifts that transformed h",
+   "audioURL": "https://anchor.fm/s/1010c05b0/podcast/play/121645988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2Fc3966914-24d2-c927-4451-1dc427045ddf.mp3",
+   "published": "Thu, 18 Jun 2026 04:39:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/59/9d/03599d6d-b520-a0af-48f7-2817abd33818/mza_2980337403515710175.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Analyzes cultural loss of transcendence and search for meaning beyond religion.",
+   "tradition": "Secular"
   },
   {
    "id": "ae272ab0-f468-4dd6-a88c-7c40119ed96c",
@@ -248,7 +274,7 @@
    "published": "Mon, 27 Jul 2026 05:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Careful biblical discussion on salvation, faith, and perseverance.",
+   "reason": "Scriptural discussion on salvation, faith, and perseverance in Christianity.",
    "tradition": "Christian"
   },
   {
@@ -261,7 +287,7 @@
    "published": "Fri, 10 Jul 2026 10:33:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/1e/33/f9/1e33f91a-edfa-0e84-2c12-e9eb3e464b07/mza_4914288206950426810.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores Christian views on death, afterlife, and eternal hope.",
+   "reason": "Explores Christian beliefs about death, afterlife, and eternal existence.",
    "tradition": "Christian"
   },
   {
@@ -300,33 +326,7 @@
    "published": "Mon, 08 Jun 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Addresses prayer, grief, discipleship, and spiritual insecurity in a Christian context.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "https://therapistuncensored.com/?p=20588",
-   "showID": "https://feeds.podcastmirror.com/therapist-uncensored-podcast",
-   "showTitle": "Therapist Uncensored Podcast",
-   "title": "Healing Through Spirituality, Writing, and Connection with Dr. Sabrina N’Diaye (304)",
-   "summary": "The therapy conversation we don’t have enough.\nDr. Sabrina N’Diaye shares a holistic approach to healing that blends spirituality, therapy, ancestral wisdom, and community connection. Together, we explore the transformative power of writing, forgiveness, and intentional rituals, while discussing how self-love, collective healing, and honoring every emotion can help us reconnect with ourselves and move through trauma with greater compassion and resilience.\n\n“Each day, I commit to loving myself more deeply than the day before. And I’m loving the journey.” – Dr. Sabrina N’Diaye\n\nTime Stamps for H",
-   "audioURL": "https://pscrb.fm/rss/p/media.blubrry.com/therapistuncensored/ins.blubrry.com/therapistuncensored/20260707TUS10SabrinaNDyaieFINAL.mp3",
-   "published": "Tue, 07 Jul 2026 05:05:47 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/22/d8/fd/22d8fdc2-16f5-a4ec-cb43-5a2d4b92ffa6/mza_5288490312746447040.png/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Integrates spirituality, therapy, and ancestral wisdom for healing and self-love.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "Buzzsprout-19161087",
-   "showID": "https://rss.buzzsprout.com/2466288.rss",
-   "showTitle": "GET CANCELLED PODCAST",
-   "title": "OVER ON ADMIRAL AND TELLING GOD YOU LOVE HIM ....... EPI 45",
-   "summary": "Episode 45 of the Get Cancelled is one of the most raw and heartfelt conversations yet. Bryan, Kellen, and Thad sit down with special guest, Kally Hristov for an honest discussion about pain, healing, forgiveness, faith, and finding purpose through life’s hardest valleys.Kally opens up about what it feels like to walk through seasons where your heart becomes closed off from love, connection, and even from feeling God’s presence. Through vulnerability and powerful reflection, this episode dives into the process of forgiveness, rediscovering authentic love, and understanding that God’s timing is",
-   "audioURL": "https://www.buzzsprout.com/2466288/episodes/19161087-over-on-admiral-and-telling-god-you-love-him-epi-45.mp3",
-   "published": "Mon, 11 May 2026 20:00:00 -0500",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/17/18/f0/1718f06a-160e-db12-819d-fed751b27581/mza_16875449492542475728.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Honest talk about pain, faith, forgiveness, and finding purpose through hardship.",
+   "reason": "Addresses grief, prayer, discipleship, and spiritual insecurity in a Christian context.",
    "tradition": "Christian"
   }
  ]
