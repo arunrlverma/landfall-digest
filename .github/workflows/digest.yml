@@ -32,7 +32,21 @@ jobs:
         with:
           python-version: "3.12"
 
+      # A hand-authored digest with "pinned": true is an editorial decision —
+      # the robot yields to it until the flag is removed.
+      - name: Respect a pinned digest
+        id: pin
+        run: |
+          if [ -f public/digest.json ] && \
+             python3 -c "import json,sys; sys.exit(0 if json.load(open('public/digest.json')).get('pinned') else 1)"; then
+            echo "pinned=true" >> "$GITHUB_OUTPUT"
+            echo "digest is pinned — skipping this run"
+          else
+            echo "pinned=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Build digest
+        if: steps.pin.outputs.pinned == 'false'
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
@@ -40,6 +54,7 @@ jobs:
           python3 tools/relay/build_digest.py --out public/digest.json
 
       - name: Sanity-check before publishing
+        if: steps.pin.outputs.pinned == 'false'
         run: |
           python3 - <<'PY'
           import json, sys
@@ -55,6 +70,7 @@ jobs:
           PY
 
       - name: Commit
+        if: steps.pin.outputs.pinned == 'false'
         run: |
           git config user.name  "digest-bot"
           git config user.email "actions@users.noreply.github.com"
