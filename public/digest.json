@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-28T15:52:01.807902+00:00",
+ "generatedAt": "2026-07-28T16:38:43.224882+00:00",
  "showsScanned": 400,
  "candidates": 59,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Wed, 22 Jul 2026 11:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/be/97/3cbe97fb-f542-6271-7c4f-c986b5f4c51f/mza_8932915024380387774.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Serious discussion on ancient wisdom and psychology addressing meaning and interconnectedness.",
+   "reason": "Deep conversation on ancient wisdom and psychology addressing meaning and interconnectedness.",
    "tradition": "Interfaith"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep dive into sacred African spiritual tradition surrounding ibogaine medicine.",
+   "reason": "Deep dive into sacred African spiritual tradition and consciousness.",
    "tradition": "Indigenous"
   },
   {
@@ -92,7 +92,7 @@
    "published": "Fri, 24 Jul 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "A neurosurgeon discusses trauma, grief, and reshaping the mind after profound loss.",
+   "reason": "A neurosurgeon discusses trauma, grief, and reshaping the mind after loss.",
    "tradition": "Secular"
   },
   {
@@ -118,7 +118,7 @@
    "published": "Fri, 24 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores Stoic philosophy applied to leadership and life challenges.",
+   "reason": "Discusses Stoic philosophy applied to leadership and life challenges.",
    "tradition": "Stoic"
   },
   {
@@ -157,20 +157,7 @@
    "published": "Sun, 26 Jul 2026 22:00:56 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores faith and courage amid apparent divine absence in Esther's story.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "6e6858d0-6de4-4c14-84f5-92d7bd7a703e",
-   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
-   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
-   "title": "Day 203: Rejoice in the Lord (2026)",
-   "summary": "Fr. Mike points out God's remarkable promise of deliverance to Israel even in the midst of their captivity and apparent hopelessness. Even when we don't see God working in our lives, we rejoice in God because we trust and hope in his promise of salvation.  Today's readings are Isaiah 25-27, Habakkuk 3, and Proverbs 11:5-8.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/6e6858d0-6de4-4c14-84f5-92d7bd7a703e.mp3",
-   "published": "Wed, 22 Jul 2026 03:15:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Focuses on hope and trust in God's salvation despite suffering and captivity.",
+   "reason": "Explores courage, faith, and divine providence in Esther's story.",
    "tradition": "Christian"
   },
   {
@@ -183,7 +170,20 @@
    "published": "Thu, 23 Jul 2026 21:01:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Shares a personal story of faith, prayer, and searching for meaning in healing.",
+   "reason": "Explores faith, prayer, and searching for meaning in healing experiences.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "cb6442ad3caad85d6330e61d63d7c4f9",
+   "showID": "https://podcasts.subsplash.com/z73b3th/podcast.rss",
+   "showTitle": "Becoming Something with Jonathan Pokluda",
+   "title": "Episode 382: Nike, Kobe & Pointing Your Life Toward What Matters | feat. John Olinger",
+   "summary": "<p>This week we sit down with John Olinger — former global brand director for Kobe Bryant at Nike and author of Worthy Wins — to talk about what it looks like to point your life toward what actually matters most. John opens up about losing both parents, a season of unexpected career upheaval, and how God used every chapter of his story to prepare him for something he never saw coming. If you've ever wondered whether your past experiences are being wasted, this episode is for you!</p>",
+   "audioURL": "https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4LzgxZjE2Njk3LWQyMWUtNDg0OC1iODBjLWUwZDJkYzVjMWY4ZC9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=qnthm69",
+   "published": "Mon, 27 Jul 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A personal story about loss, faith, and finding meaning beyond career success.",
    "tradition": "Christian"
   },
   {
@@ -196,8 +196,8 @@
    "published": "Mon, 27 Jul 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A practice of honest self-examination about connection and disconnection in daily life.",
-   "tradition": "Interfaith"
+   "reason": "A practice of honest self-reflection on connection and disconnection in daily life.",
+   "tradition": "Christian"
   },
   {
    "id": "04fd19cb-44e1-4cac-b2fc-d6db837908fc",
@@ -209,7 +209,7 @@
    "published": "Wed, 22 Jul 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/2c/a5/9b2ca564-1ce7-fae8-04fa-63d8e30bcdb8/mza_6685621244595433790.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A critique of church growth linked to economic and religious idolatry themes.",
+   "reason": "A critique of church growth linked to economic and spiritual idolatry.",
    "tradition": "Christian"
   },
   {
@@ -226,6 +226,19 @@
    "tradition": "Christian"
   },
   {
+   "id": "1bb03c60-87ae-11f1-be31-579222d66ced",
+   "showID": "https://rss.pdrl.fm/34758b/feeds.megaphone.fm/BVDWV5810064903",
+   "showTitle": "The Michael Knowles Show",
+   "title": "Why Young People Flood The Traditional Latin Mass: Archduke Eduard Habsburg",
+   "summary": "Why are so many young people suddenly returning to the Traditional Latin Mass?\n\n\n\nMichael Knowles sits down with Eduard Habsburg-Lothringen to discuss the surprising resurgence of the Traditional Latin Mass among younger generations.\n\n\n\nFrom beauty, reverence, and tradition to modern dissatisfaction with secular culture, the two explore why ancient forms of worship are attracting new audiences in the modern world.\n\n\n\nIs this simply nostalgia—or a deeper spiritual hunger emerging among young people today? And what does the revival of traditional Christianity say about the future of the West?\n\n\n",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV4688632155.mp3",
+   "published": "Sun, 26 Jul 2026 14:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/eb/2b/49/eb2b49b3-16b9-8ddb-d73a-43f71d302e76/mza_18084327446382056995.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores young people's spiritual hunger through traditional Latin Mass revival.",
+   "tradition": "Christian"
+  },
+  {
    "id": "80f877b2-86bf-11f1-b26c-d7298b194531",
    "showID": "https://feeds.megaphone.fm/fearlesswithjasonwhitlock",
    "showTitle": "Fearless with Jason Whitlock",
@@ -235,7 +248,7 @@
    "published": "Thu, 23 Jul 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/7c/46/a8/7c46a888-21dd-c3ee-8dc8-10820f0b0ae2/mza_17626472455948222894.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discussion of imposter syndrome as a spiritual issue beyond race.",
+   "reason": "Discusses imposter syndrome as a spiritual issue beyond race.",
    "tradition": "Christian"
   },
   {
@@ -248,7 +261,7 @@
    "published": "Sun, 26 Jul 2026 06:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "A thoughtful talk on meaning and happiness through philosophy and spiritual traditions.",
+   "reason": "A thoughtful conversation on meaning and happiness beyond success and fame.",
    "tradition": "Interfaith"
   },
   {
@@ -261,7 +274,7 @@
    "published": "Thu, 23 Jul 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses Catholic spiritual warfare and virtue but focuses on exorcism and theology.",
+   "reason": "Discusses spiritual warfare and virtue from a Catholic perspective, less on universal questions.",
    "tradition": "Christian"
   },
   {
@@ -274,7 +287,7 @@
    "published": "Mon, 27 Jul 2026 13:49:01 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses near-death experiences and signs related to afterlife beliefs.",
+   "reason": "Discusses near-death experiences and signs related to afterlife and healing.",
    "tradition": "Interfaith"
   },
   {
@@ -287,7 +300,7 @@
    "published": "Thu, 23 Jul 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Highlights moral failings and divine judgment in Zephaniah's warnings.",
+   "reason": "Discusses judgment and faith in God's promises through biblical prophecy.",
    "tradition": "Christian"
   },
   {
@@ -300,33 +313,20 @@
    "published": "Fri, 24 Jul 2026 18:06:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/1f/9c/1a1f9c6d-67fd-0e33-cdf3-4b62617ea9a6/mza_9226157347267917930.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Includes spiritual transformation and faith reflections amid political topics.",
+   "reason": "Includes spiritual transformation and faith reflections amid political talk.",
    "tradition": "Christian"
   },
   {
-   "id": "cb6442ad3caad85d6330e61d63d7c4f9",
-   "showID": "https://podcasts.subsplash.com/z73b3th/podcast.rss",
-   "showTitle": "Becoming Something with Jonathan Pokluda",
-   "title": "Episode 382: Nike, Kobe & Pointing Your Life Toward What Matters | feat. John Olinger",
-   "summary": "<p>This week we sit down with John Olinger — former global brand director for Kobe Bryant at Nike and author of Worthy Wins — to talk about what it looks like to point your life toward what actually matters most. John opens up about losing both parents, a season of unexpected career upheaval, and how God used every chapter of his story to prepare him for something he never saw coming. If you've ever wondered whether your past experiences are being wasted, this episode is for you!</p>",
-   "audioURL": "https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4LzgxZjE2Njk3LWQyMWUtNDg0OC1iODBjLWUwZDJkYzVjMWY4ZC9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=qnthm69",
-   "published": "Mon, 27 Jul 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
+   "id": "6e6858d0-6de4-4c14-84f5-92d7bd7a703e",
+   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
+   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
+   "title": "Day 203: Rejoice in the Lord (2026)",
+   "summary": "Fr. Mike points out God's remarkable promise of deliverance to Israel even in the midst of their captivity and apparent hopelessness. Even when we don't see God working in our lives, we rejoice in God because we trust and hope in his promise of salvation.  Today's readings are Isaiah 25-27, Habakkuk 3, and Proverbs 11:5-8.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/6e6858d0-6de4-4c14-84f5-92d7bd7a703e.mp3",
+   "published": "Wed, 22 Jul 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A personal story about loss and faith shaping life purpose, with some spiritual reflection.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "1bb03c60-87ae-11f1-be31-579222d66ced",
-   "showID": "https://rss.pdrl.fm/34758b/feeds.megaphone.fm/BVDWV5810064903",
-   "showTitle": "The Michael Knowles Show",
-   "title": "Why Young People Flood The Traditional Latin Mass: Archduke Eduard Habsburg",
-   "summary": "Why are so many young people suddenly returning to the Traditional Latin Mass?\n\n\n\nMichael Knowles sits down with Eduard Habsburg-Lothringen to discuss the surprising resurgence of the Traditional Latin Mass among younger generations.\n\n\n\nFrom beauty, reverence, and tradition to modern dissatisfaction with secular culture, the two explore why ancient forms of worship are attracting new audiences in the modern world.\n\n\n\nIs this simply nostalgia—or a deeper spiritual hunger emerging among young people today? And what does the revival of traditional Christianity say about the future of the West?\n\n\n",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV4688632155.mp3",
-   "published": "Sun, 26 Jul 2026 14:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/eb/2b/49/eb2b49b3-16b9-8ddb-d73a-43f71d302e76/mza_18084327446382056995.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Explores young people's attraction to traditional Latin Mass and spiritual hunger.",
+   "reason": "Focuses on hope and trust in God during hardship.",
    "tradition": "Christian"
   }
  ],
