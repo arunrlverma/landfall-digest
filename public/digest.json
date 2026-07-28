@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-28T05:10:21.208190+00:00",
+ "generatedAt": "2026-07-28T07:02:56.636992+00:00",
  "showsScanned": 400,
  "candidates": 80,
  "picks": [
@@ -18,19 +18,6 @@
    "tradition": "Christian"
   },
   {
-   "id": "78df413a-b3db-4bba-9a2a-6a603f10cc11",
-   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
-   "showTitle": "Making Sense with Sam Harris",
-   "title": "#481 — Sam Harris Receives the 2026 Richard Dawkins Award",
-   "summary": "Richard Dawkins presents Sam Harris with the 2026 Richard Dawkins Award at a live Center for Inquiry event. After the tribute, the two friends discuss consciousness and epiphenomenalism, AI and the Turing test, the scientific basis of morality, the failures of democracy and Trump's corruption, the role of philosophy, changing deeply held beliefs, Sam's path to meditation, the legacy of Christopher Hitchens, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samharris.org/subscribe.",
-   "audioURL": "https://traffic.libsyn.com/secure/wakingup/481_MS_Richard_Dawkins_subscriber.mp3?dest-id=480596",
-   "published": "Wed, 17 Jun 2026 16:55:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Philosophical and scientific discussion on consciousness, morality, and belief.",
-   "tradition": "Secular"
-  },
-  {
    "id": "4cce45d0-8650-11f1-bfef-b3259654b6b2",
    "showID": "https://feeds.megaphone.fm/hubermanlab",
    "showTitle": "Huberman Lab",
@@ -40,7 +27,7 @@
    "published": "Thu, 23 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuroscientific and contemplative insights on meditation, consciousness, and ethics.",
+   "reason": "Neuroscientist Sam Harris explains meditation's role in understanding consciousness and self.",
    "tradition": "Secular"
   },
   {
@@ -53,21 +40,8 @@
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores sacred plant medicine and spiritual practice in Gabonese Bwiti tradition.",
+   "reason": "Explores the sacred Bwiti tradition and spiritual role of iboga in Gabonese life.",
    "tradition": "Indigenous"
-  },
-  {
-   "id": "1b1230ee-7f96-11f1-a585-fff0f0c3a9b3",
-   "showID": "https://feeds.megaphone.fm/QCD6036500916",
-   "showTitle": "Philosophize This!",
-   "title": "Episode #250 ... You Must Change Your Life. - Peter Sloterdijk",
-   "summary": "Today we talk about half of the book You Must Change Your Life by Peter Sloterdijk. From criticism towards views of change that he thinks are far too centered on belief and moral strength, to a reworking of how to view human beings at the level of anthropology. We talk about how our view of religion might change under this new perspective... as well as how culture should be seen as a kind of monastic rule. Hope you're having a great week and enjoy the episode. :)\n\n\n\nSponsors:\n\nNord VPN: https://nordvpn.com/philothis&nbsp;\n\nSaily: https://www.saily.com/philothis\n\n\n\n\nThank you so much for listen",
-   "audioURL": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/ADV9033477570.mp3",
-   "published": "Tue, 14 Jul 2026 15:10:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b7/51/c1b751eb-ab38-f11c-d6c1-0a9de79b7061/mza_12134548126279202007.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Philosophical discussion on human change, culture, and religion's role.",
-   "tradition": "Secular"
   },
   {
    "id": "e59287f5-0fea-4c44-b0df-b45ec6db750e",
@@ -92,7 +66,7 @@
    "published": "Sat, 20 Jun 2026 16:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b1/1b/5a/b11b5ad4-b160-7284-5b7c-cdc8daf251d7/mza_556097899631146588.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Philosophical talk on doubt, ethics, and living without certainty.",
+   "reason": "Explores doubt, moral courage, and living well without certainty.",
    "tradition": "Stoic"
   },
   {
@@ -105,8 +79,34 @@
    "published": "Thu, 18 Jun 2026 04:39:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/59/9d/03599d6d-b520-a0af-48f7-2817abd33818/mza_2980337403515710175.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines cultural loss of transcendence and search for meaning beyond religion.",
+   "reason": "Examines cultural loss of transcendence and its impact on meaning and spirituality.",
    "tradition": "Secular"
+  },
+  {
+   "id": "ae272ab0-f468-4dd6-a88c-7c40119ed96c",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Religious Scrupulosity Nearly Destroyed Hayli's Faith... Until She Rediscoverd Jesus Christ",
+   "summary": "\" No amount of scripture reading, praying, mission serving, nitpicking your husbanding is going to save you. It's not. Having a relationship with your Savior, Jesus Christ, and your Heavenly Father will. If you know that they love you, and if you let that in, it will change your life in a way that nothing else will.\"Memor Jewelry code COMEBACK for 10% offhttps://memorjewelry.com/Serve Clothing code COMEBACK for 15% offhttps://serveclothing.com/00:00 Burnout And Needing Grace05:35 Childhood Exposure And Shame12:49 Scrupulosity And Mission Spiral21:36 Marriage Under Perfectionism27:29 Discoverin",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/122672048/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-10%2F427740787-44100-2-332e66d05e737.m4a",
+   "published": "Sun, 12 Jul 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Personal story of losing and rediscovering faith in Jesus amid scrupulosity.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "a027d401-d541-4b6f-b04d-b0c492e9438e",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "James Lost Everything... Until He Finally Learned to Listen to God",
+   "summary": "\" God changed me. Life brought me to my knees, humbled me enough to just hand it all to Him. It is the greatest decision I ever made in my life.\"00:00 Shower Wake Up Call05:10 Family Crisis And Porn09:13 Sent Home From Mission11:31 Drift after Marriage14:04 Divorce Sparks Daily Prayer21:03 Repentance And Membership Loss24:05 Faith Questions And Return32:37 Rebaptism and New MarriageMike's Auto Shackhttps://mikesautoshack.com/Serve Clothing code COMEBACK for 15% offhttps://serveclothing.com/If you have a story to share please submit here: https://comebackpodcast.org/submissions/For inquiries co",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/122900937/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428047727-44100-2-656f7cfd0a12a.m4a",
+   "published": "Sun, 19 Jul 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Personal journey through crisis, repentance, and renewed faith in God.",
+   "tradition": "Christian"
   },
   {
    "id": "a1102b9e-7ca6-11f1-ab6c-bf01325f1049",
@@ -118,21 +118,21 @@
    "published": "Mon, 13 Jul 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Modern Stoic philosophy applied to resilience and ethical living.",
+   "reason": "Ryan Holiday discusses Stoic philosophy as a guide for resilience and ethical living.",
    "tradition": "Stoic"
   },
   {
-   "id": "99c49517-552b-4bab-91f7-83abb6a34fe4",
-   "showID": "https://feeds.simplecast.com/RkKDS3Sf",
-   "showTitle": "Care More Be Better: A Podcast For Sustainable Social Impact and Regeneration",
-   "title": "Listening To Earth Wisdom With Leah Penniman, Soul Fire Farm",
-   "summary": "The Queen Mothers of Ghana asked Leah Penniman whether it was true that American farmers plant seeds without prayer, song, or gratitude — then said: 'That's why you're all sick. You treat the earth as a commodity, not as a living relative.' That one sentence is the heart of this episode. Leah Penniman — Black Kreyol farmer, co-founder of Soul Fire Farm, and author of Farming While Black and the new anthology Black Earth Wisdom — joins Care More Be Better to explore George Washington Carver as the forgotten godfather of regenerative agriculture, the shared root of human supremacy and White supr",
-   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/1385/injector.simplecastaudio.com/e853e1bf-0cb3-474c-8845-76e9c49dfa73/episodes/64b8711f-982b-4e17-b292-8b01d5ad1ead/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=e853e1bf-0cb3-474c-8845-76e9c49dfa73&amp;awEpisodeId=64b8711f-982b-4e17-b292-8b01d5ad1ead&amp;feed=RkKDS3Sf",
-   "published": "Wed, 15 Jul 2026 07:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/44/d6/c4/44d6c400-328c-9675-0c91-2ba8a478f795/mza_9931771251539629382.jpg/600x600bb.jpg",
+   "id": "78df413a-b3db-4bba-9a2a-6a603f10cc11",
+   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
+   "showTitle": "Making Sense with Sam Harris",
+   "title": "#481 — Sam Harris Receives the 2026 Richard Dawkins Award",
+   "summary": "Richard Dawkins presents Sam Harris with the 2026 Richard Dawkins Award at a live Center for Inquiry event. After the tribute, the two friends discuss consciousness and epiphenomenalism, AI and the Turing test, the scientific basis of morality, the failures of democracy and Trump's corruption, the role of philosophy, changing deeply held beliefs, Sam's path to meditation, the legacy of Christopher Hitchens, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samharris.org/subscribe.",
+   "audioURL": "https://traffic.libsyn.com/secure/wakingup/481_MS_Richard_Dawkins_subscriber.mp3?dest-id=480596",
+   "published": "Wed, 17 Jun 2026 16:55:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores Indigenous earth wisdom and relational ethics with farming as metaphor.",
-   "tradition": "Indigenous"
+   "reason": "Sam Harris and Richard Dawkins discuss consciousness, morality, and meditation.",
+   "tradition": "Secular"
   },
   {
    "id": "4dfbd69d-1ed2-4d5d-b1cd-16df24999412",
@@ -144,7 +144,7 @@
    "published": "Wed, 22 Jul 2026 11:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/be/97/3cbe97fb-f542-6271-7c4f-c986b5f4c51f/mza_8932915024380387774.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Considers ancient wisdom and psychology for addressing modern crises and maturity.",
+   "reason": "Ancient wisdom and psychology examined for addressing ecological and cultural crises.",
    "tradition": "Interfaith"
   },
   {
@@ -157,8 +157,21 @@
    "published": "Tue, 07 Jul 2026 18:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of faith loss and mixed-belief marriage challenges.",
+   "reason": "A Mormon couple navigates faith loss and mixed-belief marriage challenges.",
    "tradition": "Christian"
+  },
+  {
+   "id": "d9a1872d-e665-4536-bf34-5320f4854c61",
+   "showID": "https://feeds.simplecast.com/kwWc0lhf",
+   "showTitle": "Hidden Brain",
+   "title": "Waking Up Your Spiritual Brain: Part 1",
+   "summary": "Food, safety, and strong relationships are essential to our survival. Psychologist Lisa Miller says our brains also crave something else: transcendence. She suggests that spirituality is a universal human capacity, and that feeling connected to something larger than ourselves may be essential to a fulfilling life. \nIf you enjoy listening to Hidden Brain, we think you'll enjoy watching it, too! Check out our new YouTube channel, and be sure to subscribe so you don't miss any of our videos.  Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and us",
+   "audioURL": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/03fb6d61-d3ea-42d1-b903-9b3bd491fd28/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&amp;awEpisodeId=03fb6d61-d3ea-42d1-b903-9b3bd491fd28&amp;feed=kwWc0lhf",
+   "published": "Mon, 29 Jun 2026 19:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/18/b8/e218b838-b790-3a33-441f-c3772d9abbbf/mza_6896085647855199484.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Psychologist Lisa Miller argues spirituality is a universal human need for fulfillment.",
+   "tradition": "Secular"
   },
   {
    "id": "gid://art19-episode-locator/V0/BR8ODfHt4mNADpPN1llNbDLQUDLGs_QYFX_FcW1A6lo",
@@ -170,8 +183,21 @@
    "published": "Fri, 24 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores psychedelic experiences that challenge ordinary consciousness and mortality.",
-   "tradition": "Secular"
+   "reason": "Explores shared mystical experiences and consciousness through ibogaine from scientific and cultural views.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "5a7e3130-b057-444b-bbdc-3a146a8abb99",
+   "showID": "https://feeds.simplecast.com/RkKDS3Sf",
+   "showTitle": "Care More Be Better: A Podcast For Sustainable Social Impact and Regeneration",
+   "title": "Deep Into the Vine: The Medicine Hunter on Ayahuasca, Shamans, and the Cosmic Experience | Chris Kilham",
+   "summary": "Chris Kilham — the Medicine Hunter, author of fifteen books, and a man the New York Times once called \"part David Attenborough, part Indiana Jones\" — returns to Care More Be Better for a third time to go deep into the vine. With 65 shamans and twelve years of ceremony across the Amazon behind him, Chris and host Corinna Bellizzi explore the line between authentic plant medicine and cultural appropriation, the shared visions that gave ayahuasca its old name Telepathine, the three enduring camps of psychedelic culture, and where to actually find a trustworthy ceremony.\nComplete blog with transcr",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/1385/injector.simplecastaudio.com/e853e1bf-0cb3-474c-8845-76e9c49dfa73/episodes/246da2e8-3bb5-404c-ad4c-d0d00c0bce65/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=e853e1bf-0cb3-474c-8845-76e9c49dfa73&amp;awEpisodeId=246da2e8-3bb5-404c-ad4c-d0d00c0bce65&amp;feed=RkKDS3Sf",
+   "published": "Thu, 25 Jun 2026 17:18:01 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/44/d6/c4/44d6c400-328c-9675-0c91-2ba8a478f795/mza_9931771251539629382.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Deep conversation on ayahuasca, shamans, and spiritual experience in Amazonian tradition.",
+   "tradition": "Indigenous"
   },
   {
    "id": "adabb3cc-7ae5-11f1-b5a2-33cf48547836",
@@ -183,34 +209,21 @@
    "published": "Mon, 20 Jul 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Offers psychological and spiritual practice of kindness amid division.",
+   "reason": "Focuses on cultivating kindness and overcoming judgment in a divided world.",
    "tradition": "Christian"
   },
   {
-   "id": "f14e129d-7ea3-4053-b818-3f59a1a0d798",
-   "showID": "https://feeds.simplecast.com/kjVlTFLO",
-   "showTitle": "The Nature Of with Willow Defebaugh",
-   "title": "Lindsay Mack: Growth Is a Spiral, Not a Line",
-   "summary": "Lindsay Mack spends her time helping people rewild and reconnect with their intuition—but not in the way you might expect. This week, Willow sits down with the teacher, author, and host of Tarot for the Wild Soul for a conversation about spirituality rooted in nature, healing that moves in spirals rather than straight lines, and finding meaning in uncertainty. Together, they explore how the living world can become a mirror, a guide, and a reminder that we already carry much of the wisdom we’re searching for.\nFor more about Lindsay Mack: https://www.lindsaymack.com/ Hosted by Simplecast, an Ads",
-   "audioURL": "https://mgln.ai/e/1245/afp-916008-injected.calisto.simplecastaudio.com/0d3bd6b6-2cfe-4942-ba2b-ec8eedc51581/episodes/99a2547d-ebb4-4e40-b5bb-e35292437561/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0d3bd6b6-2cfe-4942-ba2b-ec8eedc51581&amp;awEpisodeId=99a2547d-ebb4-4e40-b5bb-e35292437561&amp;feed=kjVlTFLO",
-   "published": "Tue, 7 Jul 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/81/a8/3e81a88a-fea6-be8b-7bbb-431d9c685bd0/mza_8248505836165703838.jpg/600x600bb.jpg",
+   "id": "fa66899f-cb5a-40f1-94cc-099a0ae1ac71",
+   "showID": "https://feeds.simplecast.com/kwWc0lhf",
+   "showTitle": "Hidden Brain",
+   "title": "Waking Up Your Spiritual Brain: Part 2",
+   "summary": "Last week, we talked with psychologist Lisa Miller about the science of spirituality. Today, we explore what those ideas can look like in everyday life. Miller explains why moments of connection, spiritual practices, and even periods of suffering can sometimes open the door to deeper meaning and growth. And on Your Questions Answered, behavioral scientist Dave Evans returns to respond to your comments on designing a meaningful life.  \nHidden Brain is now on YouTube! Be sure to subscribe so you don't miss any of our upcoming videos.  Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com",
+   "audioURL": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c5bd1acf-019c-4f47-bfa0-4b217d906744/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&amp;awEpisodeId=c5bd1acf-019c-4f47-bfa0-4b217d906744&amp;feed=kwWc0lhf",
+   "published": "Mon, 6 Jul 2026 19:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/18/b8/e218b838-b790-3a33-441f-c3772d9abbbf/mza_6896085647855199484.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A nature-rooted spirituality conversation about healing, intuition, and meaning.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "87882620-93d4-44ca-99c9-9b43399fb2c2",
-   "showID": "https://feeds.npr.org/381444908/podcast.xml",
-   "showTitle": "Fresh Air",
-   "title": "A former nun on why she ran away from her 'Cloistered' life",
-   "summary": "Poverty, chastity, obedience, total devotion – and rebellion. Catherine Coldstream talks with Terry Gross about her years as a Carmelite nun and why she left the monastery. Her memoir is ‘Cloistered: My Years as a Nun.’ John Powers reviews the series ‘The Hawk,’ starring Will Ferrell.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy",
-   "audioURL": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/fd851ea7-fec8-4cde-8a98-a028efb86163/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&amp;awEpisodeId=fd851ea7-fec8-4cde-8a98-a028efb86163&amp;feed=jBsBZBHh&amp;t=podcast&amp;e=nx-s1-5906720&amp;p=381444908&amp;d=2734&amp;size=43751637",
-   "published": "Fri, 24 Jul 2026 18:00:03 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A former nun reflects on faith, obedience, and leaving religious life.",
-   "tradition": "Christian"
+   "reason": "Explores spirituality, suffering, and meaning from psychological and scientific views.",
+   "tradition": "Secular"
   },
   {
    "id": "824e6de5-489e-4e5c-8bbc-65e74191d4cc",
@@ -222,33 +235,20 @@
    "published": "Mon, 20 Jul 2026 04:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Jewish tradition uses mourning to confront trauma and inspire repair.",
+   "reason": "Jewish tradition uses mourning to confront trauma and inspire repair after loss.",
    "tradition": "Jewish"
   },
   {
-   "id": "3f5c5edc-7cd7-11f1-82c5-772edae009ee",
-   "showID": "https://feeds.megaphone.fm/TSF6225871961",
-   "showTitle": "No Small Endeavor with Lee C. Camp",
-   "title": "271: Unabridged Interview: Lee Warren",
-   "summary": "This is our unabridged interview with W. Lee Warren.\n\n\n\nCan you change your brain? The anxious tendencies, the recurring grief, the patterns of rumination? Our guest today says you can.\n\nDr. W. Lee Warren is a neurosurgeon and Iraq War veteran who performed 200 brain surgeries in a tent hospital during the war, came home carrying PTSD he wouldn't name for years, and later lost his 19-year-old son to murder. His book, The Life-Changing Art of Self-Brain Surgery, argues that the mind can reshape the very brain it thinks through, and that no grief, trauma, or lifelong pattern gets the final word ",
-   "audioURL": "https://mgln.ai/e/51/pscrb.fm/rss/p/tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/traffic.megaphone.fm/TSF5495445608.mp3",
-   "published": "Fri, 24 Jul 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
+   "id": "1b1230ee-7f96-11f1-a585-fff0f0c3a9b3",
+   "showID": "https://feeds.megaphone.fm/QCD6036500916",
+   "showTitle": "Philosophize This!",
+   "title": "Episode #250 ... You Must Change Your Life. - Peter Sloterdijk",
+   "summary": "Today we talk about half of the book You Must Change Your Life by Peter Sloterdijk. From criticism towards views of change that he thinks are far too centered on belief and moral strength, to a reworking of how to view human beings at the level of anthropology. We talk about how our view of religion might change under this new perspective... as well as how culture should be seen as a kind of monastic rule. Hope you're having a great week and enjoy the episode. :)\n\n\n\nSponsors:\n\nNord VPN: https://nordvpn.com/philothis&nbsp;\n\nSaily: https://www.saily.com/philothis\n\n\n\n\nThank you so much for listen",
+   "audioURL": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/ADV9033477570.mp3",
+   "published": "Tue, 14 Jul 2026 15:10:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b7/51/c1b751eb-ab38-f11c-d6c1-0a9de79b7061/mza_12134548126279202007.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A neurosurgeon shares his journey through PTSD, grief, and brain change.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "5460c188-7cd7-11f1-826f-07fa40d0ff53",
-   "showID": "https://feeds.megaphone.fm/TSF6225871961",
-   "showTitle": "No Small Endeavor with Lee C. Camp",
-   "title": "271: Lee Warren: Why You’re Not Stuck With the Brain You Have",
-   "summary": "Can you change your brain? The anxious tendencies, the recurring grief, the patterns of rumination? Our guest today says you can.\n\nDr. W. Lee Warren is a neurosurgeon and Iraq War veteran who performed 200 brain surgeries in a tent hospital during the war, came home carrying PTSD he wouldn't name for years, and later lost his 19-year-old son to murder. His book, ⁠The Life-Changing Art of Self-Brain Surgery⁠, argues that the mind can reshape the very brain it thinks through, and that no grief, trauma, or lifelong pattern gets the final word on who you become.\n\n\n\nKEY IDEAS\n\nFeelings as barometer",
-   "audioURL": "https://mgln.ai/e/51/pscrb.fm/rss/p/tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/traffic.megaphone.fm/TSF6690954473.mp3",
-   "published": "Mon, 20 Jul 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores how the mind can reshape the brain amid grief and trauma.",
+   "reason": "Philosophical discussion on human change, culture, and religion's role.",
    "tradition": "Secular"
   },
   {
@@ -261,20 +261,33 @@
    "published": "Fri, 12 Jun 2026 10:04:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/1e/33/f9/1e33f91a-edfa-0e84-2c12-e9eb3e464b07/mza_4914288206950426810.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Connects ancient mysticism and modern science on consciousness and reality.",
+   "reason": "Connects ancient mysticism and modern ideas on consciousness and reality.",
    "tradition": "Interfaith"
   },
   {
-   "id": "ae272ab0-f468-4dd6-a88c-7c40119ed96c",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "Religious Scrupulosity Nearly Destroyed Hayli's Faith... Until She Rediscoverd Jesus Christ",
-   "summary": "\" No amount of scripture reading, praying, mission serving, nitpicking your husbanding is going to save you. It's not. Having a relationship with your Savior, Jesus Christ, and your Heavenly Father will. If you know that they love you, and if you let that in, it will change your life in a way that nothing else will.\"Memor Jewelry code COMEBACK for 10% offhttps://memorjewelry.com/Serve Clothing code COMEBACK for 15% offhttps://serveclothing.com/00:00 Burnout And Needing Grace05:35 Childhood Exposure And Shame12:49 Scrupulosity And Mission Spiral21:36 Marriage Under Perfectionism27:29 Discoverin",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/122672048/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-10%2F427740787-44100-2-332e66d05e737.m4a",
-   "published": "Sun, 12 Jul 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "id": "tag:soundcloud,2010:tracks/2358697559",
+   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:669018539/sounds.rss",
+   "showTitle": "Don't Miss This Study",
+   "title": "I HEAR YOUR PRAYER",
+   "summary": "In this episode of Don’t Miss This, Dave Butler and Grace Freeman study 2 Chronicles 14-20; 26; 30, discovering what some of the greatest prayers in scripture teach us about the heart of God. Through the lives of Asa, Jehoshaphat, and Hezekiah, we see leaders who faced impossible situations yet continually turned to the Lord, trusting that His power was greater than any obstacle before them.\n\nAs armies gathered, kingdoms were threatened, and fear surrounded them, these faithful kings chose prayer before panic. Whether facing overwhelming odds, uncertain futures, or desperate personal trials, t",
+   "audioURL": "https://feeds.soundcloud.com/stream/2358697559-grace-freeman-916551846-i-hear-your-prayer.mp3",
+   "published": "Sun, 12 Jul 2026 22:00:50 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal story of losing and rediscovering faith in Jesus amid scrupulosity.",
+   "reason": "Studies biblical prayers showing faith amid crisis and trust in God.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "tag:soundcloud,2010:tracks/2338093706",
+   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:669018539/sounds.rss",
+   "showTitle": "Don't Miss This Study",
+   "title": "A PLACE OF PROMISE",
+   "summary": "In this episode of Don’t Miss This, Dave Butler and Grace Freeman study 2 Samuel 11–12 and 1 Kings 1–9, exploring the stories of David and Solomon and the lessons they teach about mercy, redemption, wisdom, and devotion. These chapters remind us that scripture is filled with imperfect people, and yet God continues to work through them, write them into His story, and accomplish His purposes through their lives.\n\nThe episode begins with one of the most heartbreaking moments in David’s life. His choices involving Bathsheba and Uriah reveal the consequences of sin and the pain that can follow when",
+   "audioURL": "https://feeds.soundcloud.com/stream/2338093706-grace-freeman-916551846-a-place-of-promise.mp3",
+   "published": "Sun, 14 Jun 2026 22:00:19 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores biblical stories of mercy, redemption, and wisdom through David and Solomon.",
    "tradition": "Christian"
   },
   {
@@ -287,7 +300,7 @@
    "published": "Mon, 27 Jul 2026 05:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Scriptural discussion on salvation, faith, and perseverance in Christianity.",
+   "reason": "Careful biblical discussion on salvation, faith, and perseverance.",
    "tradition": "Christian"
   },
   {
@@ -304,19 +317,6 @@
    "tradition": "Christian"
   },
   {
-   "id": "a027d401-d541-4b6f-b04d-b0c492e9438e",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "James Lost Everything... Until He Finally Learned to Listen to God",
-   "summary": "\" God changed me. Life brought me to my knees, humbled me enough to just hand it all to Him. It is the greatest decision I ever made in my life.\"00:00 Shower Wake Up Call05:10 Family Crisis And Porn09:13 Sent Home From Mission11:31 Drift after Marriage14:04 Divorce Sparks Daily Prayer21:03 Repentance And Membership Loss24:05 Faith Questions And Return32:37 Rebaptism and New MarriageMike's Auto Shackhttps://mikesautoshack.com/Serve Clothing code COMEBACK for 15% offhttps://serveclothing.com/If you have a story to share please submit here: https://comebackpodcast.org/submissions/For inquiries co",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/122900937/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-16%2F428047727-44100-2-656f7cfd0a12a.m4a",
-   "published": "Sun, 19 Jul 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Personal journey through crisis, repentance, and renewed faith in God.",
-   "tradition": "Christian"
-  },
-  {
    "id": "0fa4e79a2fad69395cbe11dbec38cecc",
    "showID": "https://podcasts.subsplash.com/z73b3th/podcast.rss",
    "showTitle": "Becoming Something with Jonathan Pokluda",
@@ -326,7 +326,7 @@
    "published": "Mon, 06 Jul 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A candid discussion on faith, doubt, and spiritual strength amid family crisis.",
+   "reason": "A Christian man wrestles with anger toward God and spiritual strength in family crisis.",
    "tradition": "Christian"
   }
  ]
