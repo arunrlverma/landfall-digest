@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-27T23:28:32.343897+00:00",
+ "generatedAt": "2026-07-28T00:45:14.910850+00:00",
  "showsScanned": 400,
  "candidates": 80,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Mon, 08 Jun 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Two thinkers honestly wrestle with faith, doubt, and the meaning of loving God.",
+   "reason": "Two thinkers wrestle deeply with faith, doubt, and the meaning of loving God.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Thu, 23 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuroscientific and contemplative insights on meditation, consciousness, and self.",
+   "reason": "Neuroscientific and contemplative insights on meditation, consciousness, and ethics.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Mon, 20 Jul 2026 04:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Jewish tradition on mourning and repair after trauma, deeply reflecting on loss and faith.",
+   "reason": "Jewish tradition on mourning and repair after trauma, deeply exploring faith and suffering.",
    "tradition": "Jewish"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Wed, 01 Jul 2026 17:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep talk on unhappiness, ritual, death, and self-discovery with a philosopher.",
+   "reason": "Deep conversation on unhappiness, death, ritual, and consciousness.",
    "tradition": "Secular"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Sat, 20 Jun 2026 16:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b1/1b/5a/b11b5ad4-b160-7284-5b7c-cdc8daf251d7/mza_556097899631146588.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Philosophical conversation on doubt, ethics, and living without certainty.",
+   "reason": "Philosophical talk on doubt, ethics, and living without certainty.",
    "tradition": "Stoic"
   },
   {
@@ -118,7 +118,7 @@
    "published": "Wed, 17 Jun 2026 16:55:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Philosophical discussion on consciousness, morality, and meditation practice.",
+   "reason": "Philosophical conversation on consciousness, morality, and meditation practice.",
    "tradition": "Secular"
   },
   {
@@ -131,7 +131,7 @@
    "published": "Wed, 22 Jul 2026 11:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/be/97/3cbe97fb-f542-6271-7c4f-c986b5f4c51f/mza_8932915024380387774.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines ancient wisdom and psychology on love and interconnectedness in crisis.",
+   "reason": "Examines ancient wisdom and psychology on love and interconnectedness amid crises.",
    "tradition": "Interfaith"
   },
   {
@@ -144,7 +144,7 @@
    "published": "Tue, 07 Jul 2026 18:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares a mixed-faith marriage's struggle with faith loss and belief.",
+   "reason": "Shares a mixed-faith marriage's struggle with faith loss and spiritual identity.",
    "tradition": "Christian"
   },
   {
@@ -157,7 +157,7 @@
    "published": "Mon, 29 Jun 2026 19:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/18/b8/e218b838-b790-3a33-441f-c3772d9abbbf/mza_6896085647855199484.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses spirituality as a universal human capacity essential to meaning and fulfillment.",
+   "reason": "Discusses spirituality as a universal brain capacity essential to meaning and transcendence.",
    "tradition": "Secular"
   },
   {
@@ -170,8 +170,8 @@
    "published": "Tue, 7 Jul 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/81/a8/3e81a88a-fea6-be8b-7bbb-431d9c685bd0/mza_8248505836165703838.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores spirituality, intuition, and healing through nature and uncertainty.",
-   "tradition": "Interfaith"
+   "reason": "Conversation on spirituality, intuition, and healing through nature and uncertainty.",
+   "tradition": "Indigenous"
   },
   {
    "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
@@ -183,7 +183,7 @@
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores sacred African spiritual tradition and plant medicine as a guide and teacher.",
+   "reason": "Explores sacred African spiritual tradition and the role of a plant teacher in consciousness.",
    "tradition": "Indigenous"
   },
   {
@@ -196,33 +196,7 @@
    "published": "Mon, 6 Jul 2026 19:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/18/b8/e218b838-b790-3a33-441f-c3772d9abbbf/mza_6896085647855199484.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Psychologist on spirituality, suffering, and meaning in everyday life.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "3f5c5edc-7cd7-11f1-82c5-772edae009ee",
-   "showID": "https://feeds.megaphone.fm/TSF6225871961",
-   "showTitle": "No Small Endeavor with Lee C. Camp",
-   "title": "271: Unabridged Interview: Lee Warren",
-   "summary": "This is our unabridged interview with W. Lee Warren.\n\n\n\nCan you change your brain? The anxious tendencies, the recurring grief, the patterns of rumination? Our guest today says you can.\n\nDr. W. Lee Warren is a neurosurgeon and Iraq War veteran who performed 200 brain surgeries in a tent hospital during the war, came home carrying PTSD he wouldn't name for years, and later lost his 19-year-old son to murder. His book, The Life-Changing Art of Self-Brain Surgery, argues that the mind can reshape the very brain it thinks through, and that no grief, trauma, or lifelong pattern gets the final word ",
-   "audioURL": "https://mgln.ai/e/51/pscrb.fm/rss/p/tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/traffic.megaphone.fm/TSF5495445608.mp3",
-   "published": "Fri, 24 Jul 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A neurosurgeon shares his journey through PTSD and grief, exploring mind, brain, and healing.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "5460c188-7cd7-11f1-826f-07fa40d0ff53",
-   "showID": "https://feeds.megaphone.fm/TSF6225871961",
-   "showTitle": "No Small Endeavor with Lee C. Camp",
-   "title": "271: Lee Warren: Why You’re Not Stuck With the Brain You Have",
-   "summary": "Can you change your brain? The anxious tendencies, the recurring grief, the patterns of rumination? Our guest today says you can.\n\nDr. W. Lee Warren is a neurosurgeon and Iraq War veteran who performed 200 brain surgeries in a tent hospital during the war, came home carrying PTSD he wouldn't name for years, and later lost his 19-year-old son to murder. His book, ⁠The Life-Changing Art of Self-Brain Surgery⁠, argues that the mind can reshape the very brain it thinks through, and that no grief, trauma, or lifelong pattern gets the final word on who you become.\n\n\n\nKEY IDEAS\n\nFeelings as barometer",
-   "audioURL": "https://mgln.ai/e/51/pscrb.fm/rss/p/tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/traffic.megaphone.fm/TSF6690954473.mp3",
-   "published": "Mon, 20 Jul 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores how the mind can reshape the brain amid grief and trauma, blending neuroscience and inner life.",
+   "reason": "Psychological and spiritual insights on suffering, meaning, and growth in life.",
    "tradition": "Secular"
   },
   {
@@ -248,7 +222,7 @@
    "published": "Thu, 18 Jun 2026 04:39:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/59/9d/03599d6d-b520-a0af-48f7-2817abd33818/mza_2980337403515710175.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Analyzes cultural loss of transcendence and search for meaning beyond religion.",
+   "reason": "Examines cultural loss of transcendence and its impact on meaning and spirituality.",
    "tradition": "Secular"
   },
   {
@@ -261,20 +235,7 @@
    "published": "Sun, 12 Jul 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal story of losing and rediscovering faith in Jesus amid scrupulosity.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "afcaa99a-891a-11f1-a74c-8f895663a341",
-   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
-   "showTitle": "Live Free with Josh Howerton",
-   "title": "Can a Christian LOSE Their Salvation? | Live Free with Josh Howerton",
-   "summary": "Can a Christian lose their salvation? What does the Bible actually teach about eternal security, perseverance, and genuine saving faith?\n\nIn this episode of LIVE FREE, Pastors Josh Howerton, Paul Cunningham, and Carlos Erazo tackle one of Christianity's most debated questions by walking through Scripture—not opinions. Together they examine John 10, Romans 8, Hebrews 6, Hebrews 10, James 5, and other key passages to explain the difference between genuine faith and superficial belief, why difficult warning passages matter, and how believers can have true assurance in Christ.\n\nIf you've ever stru",
-   "audioURL": "https://traffic.megaphone.fm/HAEEH1968614045.mp3",
-   "published": "Mon, 27 Jul 2026 05:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Scriptural discussion on salvation, faith, and perseverance in Christianity.",
+   "reason": "Personal story of faith lost and regained, exploring grace beyond religious performance.",
    "tradition": "Christian"
   },
   {
@@ -287,7 +248,7 @@
    "published": "Fri, 10 Jul 2026 10:33:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/1e/33/f9/1e33f91a-edfa-0e84-2c12-e9eb3e464b07/mza_4914288206950426810.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores Christian beliefs about death, afterlife, and eternal existence.",
+   "reason": "Explains Christian views on death and eternal life with focus on hope and restoration.",
    "tradition": "Christian"
   },
   {
@@ -300,7 +261,7 @@
    "published": "Sun, 19 Jul 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal journey through crisis, repentance, and renewed faith in God.",
+   "reason": "Narrative of personal loss and spiritual renewal through listening to God.",
    "tradition": "Christian"
   },
   {
@@ -328,6 +289,45 @@
    "rating": 7,
    "reason": "Addresses grief, prayer, discipleship, and spiritual insecurity in a Christian context.",
    "tradition": "Christian"
+  },
+  {
+   "id": "https://therapistuncensored.com/?p=20588",
+   "showID": "https://feeds.podcastmirror.com/therapist-uncensored-podcast",
+   "showTitle": "Therapist Uncensored Podcast",
+   "title": "Healing Through Spirituality, Writing, and Connection with Dr. Sabrina N’Diaye (304)",
+   "summary": "The therapy conversation we don’t have enough.\nDr. Sabrina N’Diaye shares a holistic approach to healing that blends spirituality, therapy, ancestral wisdom, and community connection. Together, we explore the transformative power of writing, forgiveness, and intentional rituals, while discussing how self-love, collective healing, and honoring every emotion can help us reconnect with ourselves and move through trauma with greater compassion and resilience.\n\n“Each day, I commit to loving myself more deeply than the day before. And I’m loving the journey.” – Dr. Sabrina N’Diaye\n\nTime Stamps for H",
+   "audioURL": "https://pscrb.fm/rss/p/media.blubrry.com/therapistuncensored/ins.blubrry.com/therapistuncensored/20260707TUS10SabrinaNDyaieFINAL.mp3",
+   "published": "Tue, 07 Jul 2026 05:05:47 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/22/d8/fd/22d8fdc2-16f5-a4ec-cb43-5a2d4b92ffa6/mza_5288490312746447040.png/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Integrates spirituality, therapy, and ancestral wisdom for healing and self-love.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "Buzzsprout-19161087",
+   "showID": "https://rss.buzzsprout.com/2466288.rss",
+   "showTitle": "GET CANCELLED PODCAST",
+   "title": "OVER ON ADMIRAL AND TELLING GOD YOU LOVE HIM ....... EPI 45",
+   "summary": "Episode 45 of the Get Cancelled is one of the most raw and heartfelt conversations yet. Bryan, Kellen, and Thad sit down with special guest, Kally Hristov for an honest discussion about pain, healing, forgiveness, faith, and finding purpose through life’s hardest valleys.Kally opens up about what it feels like to walk through seasons where your heart becomes closed off from love, connection, and even from feeling God’s presence. Through vulnerability and powerful reflection, this episode dives into the process of forgiveness, rediscovering authentic love, and understanding that God’s timing is",
+   "audioURL": "https://www.buzzsprout.com/2466288/episodes/19161087-over-on-admiral-and-telling-god-you-love-him-epi-45.mp3",
+   "published": "Mon, 11 May 2026 20:00:00 -0500",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/17/18/f0/1718f06a-160e-db12-819d-fed751b27581/mza_16875449492542475728.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Honest talk about pain, faith, forgiveness, and finding purpose through hardship.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "f5e88606-8724-11f1-b8bc-c79ddec03836",
+   "showID": "https://rss.introcast.io/1368888880/feeds.megaphone.fm/yap",
+   "showTitle": "Young and Profiting with Hala Taha (Entrepreneurship, Sales, Marketing)",
+   "title": "Ryan Holiday: Think Like a Stoic, Timeless Leadership Principles for Modern Entrepreneurs | Leadership | YAPClassic",
+   "summary": "Ryan Holiday's approach to leadership was shaped through patience and years of unglamorous work. After dropping out of college at 19, he apprenticed under bestselling author Robert Greene, learning writing, research, persuasion, and human nature before becoming the marketing director of American Apparel at just 21. Those experiences laid the foundation for his rise as a bestselling author and one of the world's leading voices on Stoicism. In this episode, Ryan shares how Stoicism can help entrepreneurs strengthen leadership skills, sharpen decision-making, and maintain a resilient mindset duri",
+   "audioURL": "https://prefix.up.audio/s/www.podtrac.com/pts/redirect.mp3/pdst.fm/e/s.gum.fm/s-6138e37f42bdd982ed0db66a/pscrb.fm/rss/p/cohst.app/pdcst/4B3Z7X/mgln.ai/e/697/traffic.megaphone.fm/YAP4863594186.mp3",
+   "published": "Fri, 24 Jul 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Stoic principles applied to leadership and personal growth in entrepreneurship.",
+   "tradition": "Stoic"
   }
  ]
 }
