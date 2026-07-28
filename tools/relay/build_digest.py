@@ -35,6 +35,7 @@ import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 
 UA = {"User-Agent": "Landfall/1.0 (+digest relay)"}
 CHART = "https://itunes.apple.com/us/rss/toppodcasts/limit={limit}/{genre}json"
@@ -184,6 +185,19 @@ def recent_episodes(show: dict, since: datetime) -> list[dict]:
         if not title or not enclosure:
             continue
 
+        # The freshness window. `since` had been threaded through unused, so a
+        # slow feed's evergreen episode could chart in the digest for months.
+        pub = field(block, "pubDate")
+        if pub:
+            try:
+                when = parsedate_to_datetime(pub)
+                if when.tzinfo is None:
+                    when = when.replace(tzinfo=timezone.utc)
+                if when < since:
+                    continue
+            except (TypeError, ValueError):
+                pass  # unparseable dates keep the episode; windowing is best-effort
+
         haystack = f"{title} {summary}".lower()
         if not tagged and VETO_RE.search(haystack):
             continue
@@ -255,6 +269,49 @@ def score(candidates: list[dict], key: str, batch: int = 15) -> list[dict]:
     return picks
 
 
+def load_history(path: str) -> dict[str, str]:
+    """The rotation ledger from the previous digest: episode id -> the date it
+    was last featured. Digests that predate the ledger seed it from their own
+    picks, so rotation starts working on the very next daily build."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            prev = json.load(f)
+    except Exception:
+        return {}
+    history = {k: v for k, v in (prev.get("history") or {}).items()
+               if isinstance(k, str) and isinstance(v, str)}
+    day = (prev.get("generatedAt") or "")[:10]
+    if day:
+        for p in prev.get("picks", []):
+            if p.get("id"):
+                history.setdefault(p["id"], day)
+    return history
+
+
+def rotate(picks: list[dict], history: dict[str, str], keep: int,
+           cooldown_days: int = 3, floor: int = 8) -> list[dict]:
+    """Yesterday's page should not be today's page. Bench anything featured on
+    a previous day within the cooldown; hourly re-runs the SAME day are not
+    benched, so today's list holds still all day (the app treats the digest as
+    daily). If benching leaves the page thin, the longest-rested benched picks
+    return — rotation must never publish a sparse digest."""
+    now = datetime.now(timezone.utc)
+    today = now.date().isoformat()
+    cooloff = (now - timedelta(days=cooldown_days)).date().isoformat()
+
+    def resting(p: dict) -> bool:
+        day = history.get(p["id"], "")
+        return bool(day) and day != today and day >= cooloff
+
+    fresh = [p for p in picks if not resting(p)]
+    benched = [p for p in picks if resting(p)]
+    if len(fresh) < floor:
+        benched.sort(key=lambda p: history.get(p["id"], ""))
+        fresh += benched[:floor - len(fresh)]
+    print(f"  rotation: {len(fresh[:keep])} kept, {len(benched)} resting")
+    return fresh[:keep]
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default="digest.json")
@@ -307,15 +364,28 @@ def main() -> int:
     picks = score(candidates, key)
     picks = [p for p in picks if p["rating"] >= 6]
     picks.sort(key=lambda p: -p["rating"])
-    picks = picks[:args.keep]
+    # Rotate over the FULL scored list, then cap — the whole point is that the
+    # next-best fresh episodes take the seats of the ones that are resting.
+    history = load_history(args.out)
+    picks = rotate(picks, history, keep=args.keep)
     print(f"  {len(picks)} kept")
+
+    now = datetime.now(timezone.utc)
+    today = now.date().isoformat()
+    for p in picks:
+        history[p["id"]] = today
+    cutoff = (now - timedelta(days=14)).date().isoformat()
+    history = {k: v for k, v in history.items() if v >= cutoff}
 
     payload = {
         "version": 1,
-        "generatedAt": datetime.now(timezone.utc).isoformat(),
+        "generatedAt": now.isoformat(),
         "showsScanned": len(shows),
         "candidates": len(candidates),
         "picks": picks,
+        # The rotation ledger rides inside the digest itself — the relay's only
+        # storage is this file. The app's decoder ignores unknown keys.
+        "history": history,
     }
     with open(args.out, "w", encoding="utf-8") as f:
         json.dump(payload, f, indent=1, ensure_ascii=False)
