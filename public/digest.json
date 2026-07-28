@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-28T03:11:22.614949+00:00",
+ "generatedAt": "2026-07-28T05:10:21.208190+00:00",
  "showsScanned": 400,
  "candidates": 80,
  "picks": [
@@ -18,6 +18,19 @@
    "tradition": "Christian"
   },
   {
+   "id": "78df413a-b3db-4bba-9a2a-6a603f10cc11",
+   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
+   "showTitle": "Making Sense with Sam Harris",
+   "title": "#481 — Sam Harris Receives the 2026 Richard Dawkins Award",
+   "summary": "Richard Dawkins presents Sam Harris with the 2026 Richard Dawkins Award at a live Center for Inquiry event. After the tribute, the two friends discuss consciousness and epiphenomenalism, AI and the Turing test, the scientific basis of morality, the failures of democracy and Trump's corruption, the role of philosophy, changing deeply held beliefs, Sam's path to meditation, the legacy of Christopher Hitchens, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samharris.org/subscribe.",
+   "audioURL": "https://traffic.libsyn.com/secure/wakingup/481_MS_Richard_Dawkins_subscriber.mp3?dest-id=480596",
+   "published": "Wed, 17 Jun 2026 16:55:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Philosophical and scientific discussion on consciousness, morality, and belief.",
+   "tradition": "Secular"
+  },
+  {
    "id": "4cce45d0-8650-11f1-bfef-b3259654b6b2",
    "showID": "https://feeds.megaphone.fm/hubermanlab",
    "showTitle": "Huberman Lab",
@@ -31,17 +44,17 @@
    "tradition": "Secular"
   },
   {
-   "id": "824e6de5-489e-4e5c-8bbc-65e74191d4cc",
-   "showID": "https://feeds.simplecast.com/5gzMlOG1",
-   "showTitle": "Call Me Back - with Dan Senor",
-   "title": "Tisha b'Av: The Bottom of the Calendar - with Rachel Goldberg-Polin",
-   "summary": "What does Tisha B'Av ask of us after October 7?\nTisha B'Av is the saddest date on the Jewish calendar, but Rachel Goldberg-Polin argues it also offers hope and opportunity. In a conversation shaped by the personal and collective trauma of October 7, she explains why Jewish tradition gathers centuries of loss onto a single day, why it compels us to look inward, and how mourning is meant to become the first step toward repair.\nRachel’s suggested reading:  This Is Real and You Are Completely Unprepared: The Days of Awe as a Journey of Transformation by Rabbi Alan Lew\n___\nCall Me Back is made poss",
-   "audioURL": "https://cdn.simplecast.com/media/audio/transcoded/e9010e3f-7aa0-43d4-a1f5-6e638d5a744e/95ea4d0c-35c7-4ac7-a410-7d9f02ee3ded/episodes/audio/group/f944213d-ba93-4544-93e8-7fabda7132a0/group-item/7fb345ae-22f7-4914-b72c-65aa3e7c8e85/128_default_tc.mp3?aid=rss_feed&amp;feed=5gzMlOG1",
-   "published": "Mon, 20 Jul 2026 04:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/600x600bb.jpg",
+   "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
+   "showID": "https://rss.art19.com/the-telepathy-tapes",
+   "showTitle": "The Telepathy Tapes",
+   "title": "S2E41: Ibogaine Inquiries Part III: The Sacred Roots of Iboga",
+   "summary": "Long before ibogaine entered Western clinics and laboratories, the plant it comes from held a sacred place in Gabonese life. In Part III of Ibogaine Inquiries, we travel to Gabon to explore Bwiti, the spiritual tradition in which iboga is understood as a teacher, guide, and living presence.Gabonese practitioners and Bwiti initiates describe the preparation, community, music, mentorship, and lifelong practice that surround the medicine. They explain why Iboga cannot be separated from the larger body of knowledge developed around it. As Western interest continues to grow, this episode asks what ",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/fd973b3b-9b1d-40e3-b289-b01d4e52675f.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Mon, 27 Jul 2026 07:03:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Jewish tradition on mourning and repair after trauma, deeply reflecting on loss and faith.",
-   "tradition": "Jewish"
+   "reason": "Explores sacred plant medicine and spiritual practice in Gabonese Bwiti tradition.",
+   "tradition": "Indigenous"
   },
   {
    "id": "1b1230ee-7f96-11f1-a585-fff0f0c3a9b3",
@@ -53,7 +66,7 @@
    "published": "Tue, 14 Jul 2026 15:10:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b7/51/c1b751eb-ab38-f11c-d6c1-0a9de79b7061/mza_12134548126279202007.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Philosophical discussion on human change, religion, and culture as a monastic rule.",
+   "reason": "Philosophical discussion on human change, culture, and religion's role.",
    "tradition": "Secular"
   },
   {
@@ -66,7 +79,7 @@
    "published": "Wed, 01 Jul 2026 17:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep conversation on unhappiness, death, ritual, and self-discovery.",
+   "reason": "Deep conversation on unhappiness, death, ritual, and consciousness.",
    "tradition": "Secular"
   },
   {
@@ -79,7 +92,7 @@
    "published": "Sat, 20 Jun 2026 16:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b1/1b/5a/b11b5ad4-b160-7284-5b7c-cdc8daf251d7/mza_556097899631146588.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Philosophical talk on doubt, moral courage, and living without certainty.",
+   "reason": "Philosophical talk on doubt, ethics, and living without certainty.",
    "tradition": "Stoic"
   },
   {
@@ -92,7 +105,7 @@
    "published": "Thu, 18 Jun 2026 04:39:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/59/9d/03599d6d-b520-a0af-48f7-2817abd33818/mza_2980337403515710175.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Analyzes cultural loss of transcendence and its impact on meaning.",
+   "reason": "Examines cultural loss of transcendence and search for meaning beyond religion.",
    "tradition": "Secular"
   },
   {
@@ -105,7 +118,7 @@
    "published": "Mon, 13 Jul 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Modern Stoicism applied to resilience, ethics, and inner life challenges.",
+   "reason": "Modern Stoic philosophy applied to resilience and ethical living.",
    "tradition": "Stoic"
   },
   {
@@ -118,21 +131,8 @@
    "published": "Wed, 15 Jul 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/44/d6/c4/44d6c400-328c-9675-0c91-2ba8a478f795/mza_9931771251539629382.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores earth wisdom, gratitude, and relational ethics with Indigenous farming insights.",
+   "reason": "Explores Indigenous earth wisdom and relational ethics with farming as metaphor.",
    "tradition": "Indigenous"
-  },
-  {
-   "id": "78df413a-b3db-4bba-9a2a-6a603f10cc11",
-   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
-   "showTitle": "Making Sense with Sam Harris",
-   "title": "#481 — Sam Harris Receives the 2026 Richard Dawkins Award",
-   "summary": "Richard Dawkins presents Sam Harris with the 2026 Richard Dawkins Award at a live Center for Inquiry event. After the tribute, the two friends discuss consciousness and epiphenomenalism, AI and the Turing test, the scientific basis of morality, the failures of democracy and Trump's corruption, the role of philosophy, changing deeply held beliefs, Sam's path to meditation, the legacy of Christopher Hitchens, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samharris.org/subscribe.",
-   "audioURL": "https://traffic.libsyn.com/secure/wakingup/481_MS_Richard_Dawkins_subscriber.mp3?dest-id=480596",
-   "published": "Wed, 17 Jun 2026 16:55:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Philosophical discussion on consciousness, morality, and meditation practice.",
-   "tradition": "Secular"
   },
   {
    "id": "4dfbd69d-1ed2-4d5d-b1cd-16df24999412",
@@ -144,7 +144,7 @@
    "published": "Wed, 22 Jul 2026 11:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/be/97/3cbe97fb-f542-6271-7c4f-c986b5f4c51f/mza_8932915024380387774.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines ancient wisdom and psychology on love and interconnectedness in crisis.",
+   "reason": "Considers ancient wisdom and psychology for addressing modern crises and maturity.",
    "tradition": "Interfaith"
   },
   {
@@ -157,21 +157,34 @@
    "published": "Tue, 07 Jul 2026 18:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares a mixed-faith marriage's struggle with faith loss and belief.",
+   "reason": "Personal story of faith loss and mixed-belief marriage challenges.",
    "tradition": "Christian"
   },
   {
-   "id": "d9a1872d-e665-4536-bf34-5320f4854c61",
-   "showID": "https://feeds.simplecast.com/kwWc0lhf",
-   "showTitle": "Hidden Brain",
-   "title": "Waking Up Your Spiritual Brain: Part 1",
-   "summary": "Food, safety, and strong relationships are essential to our survival. Psychologist Lisa Miller says our brains also crave something else: transcendence. She suggests that spirituality is a universal human capacity, and that feeling connected to something larger than ourselves may be essential to a fulfilling life. \nIf you enjoy listening to Hidden Brain, we think you'll enjoy watching it, too! Check out our new YouTube channel, and be sure to subscribe so you don't miss any of our videos.  Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and us",
-   "audioURL": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/03fb6d61-d3ea-42d1-b903-9b3bd491fd28/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&amp;awEpisodeId=03fb6d61-d3ea-42d1-b903-9b3bd491fd28&amp;feed=kwWc0lhf",
-   "published": "Mon, 29 Jun 2026 19:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/18/b8/e218b838-b790-3a33-441f-c3772d9abbbf/mza_6896085647855199484.jpg/600x600bb.jpg",
+   "id": "gid://art19-episode-locator/V0/BR8ODfHt4mNADpPN1llNbDLQUDLGs_QYFX_FcW1A6lo",
+   "showID": "https://rss.art19.com/the-telepathy-tapes",
+   "showTitle": "The Telepathy Tapes",
+   "title": "S2E40: Ibogaine Inquiries Part II: The Intelligence of the Medicine",
+   "summary": "People around the world describe remarkably similar experiences with ibogaine: encounters with ancestors, shared dreams, telepathic abilities, and moments that seem to transcend ordinary consciousness.Are these a coincidence, a hallucination, or something science has yet to explain?In this episode, psychologists, neuroscientists, chemists, physicians, and former patients explore why ibogaine appears unlike any other psychedelic they've studied. From blindfolded perception and shared visions to groundbreaking brain research and the search for safer treatments, we examine the growing evidence an",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/41639999-d13a-4d50-9279-16d68bbb0237.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Fri, 24 Jul 2026 07:03:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Psychologist argues spirituality is a universal human need tied to transcendence.",
+   "reason": "Explores psychedelic experiences that challenge ordinary consciousness and mortality.",
    "tradition": "Secular"
+  },
+  {
+   "id": "adabb3cc-7ae5-11f1-b5a2-33cf48547836",
+   "showID": "https://feeds.megaphone.fm/TPG1652050293",
+   "showTitle": "With and For hosted by Dr. Pam King",
+   "title": "Replace judgment with kindness, with Dr. Brad Strawn",
+   "summary": "In this divided moment, we are being actively encouraged to make enemies of one another. To resist these forces, we need to cultivate kindness.&nbsp; Loving kindness is a simple but powerful evidenced-backed practice that helps us hold our own views and values, yet still honor the perspectives of others… even those with whom we disagree.\n\nLeading us through this practice is  Dr. Brad Strawn, licensed psychologist, ordained minister and one of the leading figures in the integration of psychology and Christian theology in the US. Don’t miss my full interview with Dr. Strawn.&nbsp;\n\n Here today w",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/51/tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/pscrb.fm/rss/p/traffic.megaphone.fm/TPG8650447289.mp3",
+   "published": "Mon, 20 Jul 2026 09:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Offers psychological and spiritual practice of kindness amid division.",
+   "tradition": "Christian"
   },
   {
    "id": "f14e129d-7ea3-4053-b818-3f59a1a0d798",
@@ -183,34 +196,34 @@
    "published": "Tue, 7 Jul 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/81/a8/3e81a88a-fea6-be8b-7bbb-431d9c685bd0/mza_8248505836165703838.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses spirituality, intuition, and meaning through nature and healing.",
-   "tradition": "Indigenous"
+   "reason": "A nature-rooted spirituality conversation about healing, intuition, and meaning.",
+   "tradition": "Interfaith"
   },
   {
-   "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
-   "showID": "https://rss.art19.com/the-telepathy-tapes",
-   "showTitle": "The Telepathy Tapes",
-   "title": "S2E41: Ibogaine Inquiries Part III: The Sacred Roots of Iboga",
-   "summary": "Long before ibogaine entered Western clinics and laboratories, the plant it comes from held a sacred place in Gabonese life. In Part III of Ibogaine Inquiries, we travel to Gabon to explore Bwiti, the spiritual tradition in which iboga is understood as a teacher, guide, and living presence.Gabonese practitioners and Bwiti initiates describe the preparation, community, music, mentorship, and lifelong practice that surround the medicine. They explain why Iboga cannot be separated from the larger body of knowledge developed around it. As Western interest continues to grow, this episode asks what ",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/fd973b3b-9b1d-40e3-b289-b01d4e52675f.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Mon, 27 Jul 2026 07:03:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
+   "id": "87882620-93d4-44ca-99c9-9b43399fb2c2",
+   "showID": "https://feeds.npr.org/381444908/podcast.xml",
+   "showTitle": "Fresh Air",
+   "title": "A former nun on why she ran away from her 'Cloistered' life",
+   "summary": "Poverty, chastity, obedience, total devotion – and rebellion. Catherine Coldstream talks with Terry Gross about her years as a Carmelite nun and why she left the monastery. Her memoir is ‘Cloistered: My Years as a Nun.’ John Powers reviews the series ‘The Hawk,’ starring Will Ferrell.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy",
+   "audioURL": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/fd851ea7-fec8-4cde-8a98-a028efb86163/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&amp;awEpisodeId=fd851ea7-fec8-4cde-8a98-a028efb86163&amp;feed=jBsBZBHh&amp;t=podcast&amp;e=nx-s1-5906720&amp;p=381444908&amp;d=2734&amp;size=43751637",
+   "published": "Fri, 24 Jul 2026 18:00:03 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores sacred African spiritual tradition and plant medicine as a guide and teacher.",
-   "tradition": "Indigenous"
+   "reason": "A former nun reflects on faith, obedience, and leaving religious life.",
+   "tradition": "Christian"
   },
   {
-   "id": "fa66899f-cb5a-40f1-94cc-099a0ae1ac71",
-   "showID": "https://feeds.simplecast.com/kwWc0lhf",
-   "showTitle": "Hidden Brain",
-   "title": "Waking Up Your Spiritual Brain: Part 2",
-   "summary": "Last week, we talked with psychologist Lisa Miller about the science of spirituality. Today, we explore what those ideas can look like in everyday life. Miller explains why moments of connection, spiritual practices, and even periods of suffering can sometimes open the door to deeper meaning and growth. And on Your Questions Answered, behavioral scientist Dave Evans returns to respond to your comments on designing a meaningful life.  \nHidden Brain is now on YouTube! Be sure to subscribe so you don't miss any of our upcoming videos.  Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com",
-   "audioURL": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/c5bd1acf-019c-4f47-bfa0-4b217d906744/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&amp;awEpisodeId=c5bd1acf-019c-4f47-bfa0-4b217d906744&amp;feed=kwWc0lhf",
-   "published": "Mon, 6 Jul 2026 19:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/18/b8/e218b838-b790-3a33-441f-c3772d9abbbf/mza_6896085647855199484.jpg/600x600bb.jpg",
+   "id": "824e6de5-489e-4e5c-8bbc-65e74191d4cc",
+   "showID": "https://feeds.simplecast.com/5gzMlOG1",
+   "showTitle": "Call Me Back - with Dan Senor",
+   "title": "Tisha b'Av: The Bottom of the Calendar - with Rachel Goldberg-Polin",
+   "summary": "What does Tisha B'Av ask of us after October 7?\nTisha B'Av is the saddest date on the Jewish calendar, but Rachel Goldberg-Polin argues it also offers hope and opportunity. In a conversation shaped by the personal and collective trauma of October 7, she explains why Jewish tradition gathers centuries of loss onto a single day, why it compels us to look inward, and how mourning is meant to become the first step toward repair.\nRachel’s suggested reading:  This Is Real and You Are Completely Unprepared: The Days of Awe as a Journey of Transformation by Rabbi Alan Lew\n___\nCall Me Back is made poss",
+   "audioURL": "https://cdn.simplecast.com/media/audio/transcoded/e9010e3f-7aa0-43d4-a1f5-6e638d5a744e/95ea4d0c-35c7-4ac7-a410-7d9f02ee3ded/episodes/audio/group/f944213d-ba93-4544-93e8-7fabda7132a0/group-item/7fb345ae-22f7-4914-b72c-65aa3e7c8e85/128_default_tc.mp3?aid=rss_feed&amp;feed=5gzMlOG1",
+   "published": "Mon, 20 Jul 2026 04:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Psychological and spiritual insights on suffering, meaning, and growth in life.",
-   "tradition": "Secular"
+   "reason": "Jewish tradition uses mourning to confront trauma and inspire repair.",
+   "tradition": "Jewish"
   },
   {
    "id": "3f5c5edc-7cd7-11f1-82c5-772edae009ee",
@@ -222,7 +235,7 @@
    "published": "Fri, 24 Jul 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "A neurosurgeon shares personal grief and PTSD, exploring mind, brain, and healing deeply.",
+   "reason": "A neurosurgeon shares his journey through PTSD, grief, and brain change.",
    "tradition": "Secular"
   },
   {
@@ -235,7 +248,7 @@
    "published": "Mon, 20 Jul 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores brain plasticity and grief through a neurosurgeon's personal and professional lens.",
+   "reason": "Explores how the mind can reshape the brain amid grief and trauma.",
    "tradition": "Secular"
   },
   {
@@ -252,19 +265,6 @@
    "tradition": "Interfaith"
   },
   {
-   "id": "540eefb7-9869-4671-8f46-b48a00ee8f7c",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2e824128-fbd5-4c9e-9a57-ae2f0056b0c4/66d98a23-900c-44b0-a40b-ae2f0056b0db/podcast.rss",
-   "showTitle": "Stuff They Don't Want You To Know",
-   "title": "CLASSIC: What is Falun Gong?",
-   "summary": "The movement known as Falun Dafa or Falun Gong began in China in the 1990s, and today people across the planet consider themselves practicioners. Adherents claim this combination of meditation, breathing exercises, mindfulness and moral philosophy is a path to enlightenment -- but the government of China disagrees. For decades Chinese authorities have considered Falun Gong a dangerous, subversive element. Since 1999 the government has made concerted efforts to suppress this spiritual practice -- but why? Tune in to learn more.They don't want you to read our book.: https://static.macmillan.com/",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2e824128-fbd5-4c9e-9a57-ae2f0056b0c4/540eefb7-9869-4671-8f46-b48a00ee8f7c/audio.mp3?utm_source=Podcast&amp;in_playlist=66d98a23-900c-44b0-a40b-ae2f0056b0db",
-   "published": "Tue, 21 Jul 2026 11:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/f6/d7/b3f6d733-0924-1923-d33e-c0e0a8b6486d/mza_12499946169636574274.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores Falun Gong's meditation and moral philosophy as a path to enlightenment.",
-   "tradition": "Buddhist"
-  },
-  {
    "id": "ae272ab0-f468-4dd6-a88c-7c40119ed96c",
    "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
    "showTitle": "Come Back Podcast",
@@ -274,7 +274,20 @@
    "published": "Sun, 12 Jul 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal story of faith challenged and restored beyond religious scrupulosity.",
+   "reason": "Personal story of losing and rediscovering faith in Jesus amid scrupulosity.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "afcaa99a-891a-11f1-a74c-8f895663a341",
+   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
+   "showTitle": "Live Free with Josh Howerton",
+   "title": "Can a Christian LOSE Their Salvation? | Live Free with Josh Howerton",
+   "summary": "Can a Christian lose their salvation? What does the Bible actually teach about eternal security, perseverance, and genuine saving faith?\n\nIn this episode of LIVE FREE, Pastors Josh Howerton, Paul Cunningham, and Carlos Erazo tackle one of Christianity's most debated questions by walking through Scripture—not opinions. Together they examine John 10, Romans 8, Hebrews 6, Hebrews 10, James 5, and other key passages to explain the difference between genuine faith and superficial belief, why difficult warning passages matter, and how believers can have true assurance in Christ.\n\nIf you've ever stru",
+   "audioURL": "https://traffic.megaphone.fm/HAEEH1968614045.mp3",
+   "published": "Mon, 27 Jul 2026 05:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Scriptural discussion on salvation, faith, and perseverance in Christianity.",
    "tradition": "Christian"
   },
   {
@@ -287,7 +300,7 @@
    "published": "Fri, 10 Jul 2026 10:33:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/1e/33/f9/1e33f91a-edfa-0e84-2c12-e9eb3e464b07/mza_4914288206950426810.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explains Christian beliefs about death and eternal life.",
+   "reason": "Explores Christian beliefs about death, afterlife, and eternal existence.",
    "tradition": "Christian"
   },
   {
@@ -300,7 +313,7 @@
    "published": "Sun, 19 Jul 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal journey through crisis to renewed faith and prayer.",
+   "reason": "Personal journey through crisis, repentance, and renewed faith in God.",
    "tradition": "Christian"
   },
   {
@@ -313,20 +326,7 @@
    "published": "Mon, 06 Jul 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A candid discussion on faith, fear, and spiritual strength amid family crisis.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "480153ca5edf1a839b1713278007412c",
-   "showID": "https://podcasts.subsplash.com/z73b3th/podcast.rss",
-   "showTitle": "Becoming Something with Jonathan Pokluda",
-   "title": "Episode 375: Q&A with JP Part 2 | Live at Beso Live",
-   "summary": "<p>We are back for Part 2 of the Q&A with JP as he answers live audience questions from Beso Live! Topics include storing up treasures in heaven, the purpose of prayer, grief and loss, discipleship, insecurity, legalism, and how to know if you're truly saved.</p>",
-   "audioURL": "https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4LzhlMTkzYzA5LTc0ZTItNGE1NS04MDQwLWEyNzdhODE1Mzc4Ni9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=cfphqk8",
-   "published": "Mon, 08 Jun 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Addresses prayer, grief, discipleship, and spiritual insecurity in a live Q&A.",
+   "reason": "A candid discussion on faith, doubt, and spiritual strength amid family crisis.",
    "tradition": "Christian"
   }
  ]
