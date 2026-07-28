@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-28T10:55:35.193394+00:00",
+ "generatedAt": "2026-07-28T11:45:15.909990+00:00",
  "showsScanned": 400,
  "candidates": 80,
  "picks": [
@@ -27,7 +27,7 @@
    "published": "Wed, 17 Jun 2026 16:55:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Sam Harris and Dawkins discuss consciousness, morality, meditation, and belief.",
+   "reason": "Sam Harris and Dawkins discuss consciousness, morality, and philosophy deeply.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Thu, 23 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuroscientist Sam Harris explains meditation's role in consciousness and ethical living.",
+   "reason": "Sam Harris explains meditation's role in understanding consciousness and ethics.",
    "tradition": "Secular"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores Bwiti spiritual tradition and sacred use of iboga in Gabonese culture.",
+   "reason": "Explores Bwiti spirituality and iboga as a sacred guide in Gabonese tradition.",
    "tradition": "Indigenous"
   },
   {
@@ -79,20 +79,33 @@
    "published": "Sat, 20 Jun 2026 16:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b1/1b/5a/b11b5ad4-b160-7284-5b7c-cdc8daf251d7/mza_556097899631146588.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Philosophical talk on doubt, ethics, and living without certainty.",
+   "reason": "Explores doubt, moral courage, and living without certainty through philosophy.",
    "tradition": "Stoic"
   },
   {
-   "id": "480153ca5edf1a839b1713278007412c",
-   "showID": "https://podcasts.subsplash.com/z73b3th/podcast.rss",
-   "showTitle": "Becoming Something with Jonathan Pokluda",
-   "title": "Episode 375: Q&A with JP Part 2 | Live at Beso Live",
-   "summary": "<p>We are back for Part 2 of the Q&A with JP as he answers live audience questions from Beso Live! Topics include storing up treasures in heaven, the purpose of prayer, grief and loss, discipleship, insecurity, legalism, and how to know if you're truly saved.</p>",
-   "audioURL": "https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4LzhlMTkzYzA5LTc0ZTItNGE1NS04MDQwLWEyNzdhODE1Mzc4Ni9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=cfphqk8",
-   "published": "Mon, 08 Jun 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
+   "id": "bc21b676-dd41-410f-8308-82198714d094",
+   "showID": "https://anchor.fm/s/1010c05b0/podcast/rss",
+   "showTitle": "Decoded | Unlock The Secrets of Human Behavior, Emotion and Motivation",
+   "title": "Who Killed God? The Spiritual Cost of Modern Progress",
+   "summary": "What happens when a civilization removes God—but keeps searching for meaning?In this episode of Decoded, Elisabeth McKay explores one of the most important cultural questions of our time: Who killed God?This is not about religion versus atheism. It's a deeper examination of how modern society gradually replaced transcendence with human-centered systems—and what happened as a result.From the Enlightenment and the French Revolution to Darwin, Freud, Marx, modern psychology, consumer culture, and the rise of self-worship, Elisabeth traces the historical and psychological shifts that transformed h",
+   "audioURL": "https://anchor.fm/s/1010c05b0/podcast/play/121645988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2Fc3966914-24d2-c927-4451-1dc427045ddf.mp3",
+   "published": "Thu, 18 Jun 2026 04:39:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/59/9d/03599d6d-b520-a0af-48f7-2817abd33818/mza_2980337403515710175.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A Christian Q&A covering prayer, grief, discipleship, and faith assurance.",
+   "reason": "Analyzes cultural loss of transcendence and its impact on meaning and spirituality.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "ae272ab0-f468-4dd6-a88c-7c40119ed96c",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Religious Scrupulosity Nearly Destroyed Hayli's Faith... Until She Rediscoverd Jesus Christ",
+   "summary": "\" No amount of scripture reading, praying, mission serving, nitpicking your husbanding is going to save you. It's not. Having a relationship with your Savior, Jesus Christ, and your Heavenly Father will. If you know that they love you, and if you let that in, it will change your life in a way that nothing else will.\"Memor Jewelry code COMEBACK for 10% offhttps://memorjewelry.com/Serve Clothing code COMEBACK for 15% offhttps://serveclothing.com/00:00 Burnout And Needing Grace05:35 Childhood Exposure And Shame12:49 Scrupulosity And Mission Spiral21:36 Marriage Under Perfectionism27:29 Discoverin",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/122672048/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-10%2F427740787-44100-2-332e66d05e737.m4a",
+   "published": "Sun, 12 Jul 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A personal story of losing and rediscovering faith in Jesus amid scrupulosity.",
    "tradition": "Christian"
   },
   {
@@ -105,8 +118,21 @@
    "published": "Mon, 13 Jul 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Ryan Holiday discusses Stoic philosophy on resilience, ethics, and inner life.",
+   "reason": "Ryan Holiday discusses Stoic philosophy as a guide for resilience and ethical living.",
    "tradition": "Stoic"
+  },
+  {
+   "id": "99c49517-552b-4bab-91f7-83abb6a34fe4",
+   "showID": "https://feeds.simplecast.com/RkKDS3Sf",
+   "showTitle": "Care More Be Better: A Podcast For Sustainable Social Impact and Regeneration",
+   "title": "Listening To Earth Wisdom With Leah Penniman, Soul Fire Farm",
+   "summary": "The Queen Mothers of Ghana asked Leah Penniman whether it was true that American farmers plant seeds without prayer, song, or gratitude — then said: 'That's why you're all sick. You treat the earth as a commodity, not as a living relative.' That one sentence is the heart of this episode. Leah Penniman — Black Kreyol farmer, co-founder of Soul Fire Farm, and author of Farming While Black and the new anthology Black Earth Wisdom — joins Care More Be Better to explore George Washington Carver as the forgotten godfather of regenerative agriculture, the shared root of human supremacy and White supr",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/1385/injector.simplecastaudio.com/e853e1bf-0cb3-474c-8845-76e9c49dfa73/episodes/64b8711f-982b-4e17-b292-8b01d5ad1ead/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=e853e1bf-0cb3-474c-8845-76e9c49dfa73&amp;awEpisodeId=64b8711f-982b-4e17-b292-8b01d5ad1ead&amp;feed=RkKDS3Sf",
+   "published": "Wed, 15 Jul 2026 07:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/44/d6/c4/44d6c400-328c-9675-0c91-2ba8a478f795/mza_9931771251539629382.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores Indigenous earth wisdom linking spirituality, gratitude, and ethical farming.",
+   "tradition": "Indigenous"
   },
   {
    "id": "https://therapistuncensored.com/?p=20588",
@@ -118,7 +144,7 @@
    "published": "Tue, 07 Jul 2026 05:05:47 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/22/d8/fd/22d8fdc2-16f5-a4ec-cb43-5a2d4b92ffa6/mza_5288490312746447040.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Therapist blends spirituality, ancestral wisdom, and healing through writing and ritual.",
+   "reason": "Holistic healing blending spirituality, therapy, and ancestral wisdom for trauma recovery.",
    "tradition": "Interfaith"
   },
   {
@@ -131,7 +157,7 @@
    "published": "Wed, 22 Jul 2026 11:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/be/97/3cbe97fb-f542-6271-7c4f-c986b5f4c51f/mza_8932915024380387774.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses ancient wisdom and psychology on love, interconnectedness, and human maturity.",
+   "reason": "Connects ancient wisdom and psychology to meaning and interconnectedness in crisis.",
    "tradition": "Interfaith"
   },
   {
@@ -157,8 +183,8 @@
    "published": "Fri, 24 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores transcendent experiences and consciousness through ibogaine medicine.",
-   "tradition": "Interfaith"
+   "reason": "Explores psychedelic experiences that challenge ordinary consciousness and reality.",
+   "tradition": "Secular"
   },
   {
    "id": "5a7e3130-b057-444b-bbdc-3a146a8abb99",
@@ -170,7 +196,7 @@
    "published": "Thu, 25 Jun 2026 17:18:01 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/44/d6/c4/44d6c400-328c-9675-0c91-2ba8a478f795/mza_9931771251539629382.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines ayahuasca, shamans, and cosmic experience in depth.",
+   "reason": "Discusses ayahuasca, shamans, and spiritual experience in depth.",
    "tradition": "Indigenous"
   },
   {
@@ -183,7 +209,7 @@
    "published": "Mon, 6 Jul 2026 19:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/18/b8/e218b838-b790-3a33-441f-c3772d9abbbf/mza_6896085647855199484.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Scientific and psychological exploration of spirituality, meaning, and growth.",
+   "reason": "Explores spirituality, suffering, and meaning through psychological science.",
    "tradition": "Secular"
   },
   {
@@ -196,8 +222,21 @@
    "published": "Mon, 20 Jul 2026 04:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/a9/4e/d4a94e88-5503-adea-7518-46273e1394ba/mza_9918457534096932067.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Jewish mourning and hope after trauma, exploring collective loss and repair.",
+   "reason": "Jewish tradition uses mourning to confront trauma and inspire repair.",
    "tradition": "Jewish"
+  },
+  {
+   "id": "https://api.spreaker.com/episode/72541691",
+   "showID": "https://www.spreaker.com/show/7010368/episodes/feed",
+   "showTitle": "Where the River Took Us",
+   "title": "Faith After the Flood",
+   "summary": "A conversation about faith with Dallas attorney R.J. Harber, who lost most of his family in the July 4 flood. We connected as survivors and during our conversation, I learned that even though we believe very different things and engage spiritually in very different ways, the result is kind of the same.To read Aaron Parsely’s Pulitzer Prize-winning feature, go to:https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/.",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/72541691/flood_ep_5_final_rev_060926.mp3",
+   "published": "Tue, 16 Jun 2026 09:00:16 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9c/e9/79/9ce97943-7c57-b1cd-a1c8-cef29e4543ca/mza_17868315373624613860.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Two survivors with different faiths discuss spiritual resilience after loss.",
+   "tradition": "Interfaith"
   },
   {
    "id": "1b1230ee-7f96-11f1-a585-fff0f0c3a9b3",
@@ -213,19 +252,6 @@
    "tradition": "Secular"
   },
   {
-   "id": "a90e9745b25e887a0a1e2e924a3939a1",
-   "showID": "https://podcasts.subsplash.com:443/03fe243/podcast.rss",
-   "showTitle": "Prophecy Watchers",
-   "title": "Why the Resurrection Is the Center of History | Studies with Stearman",
-   "summary": "<p>In today’s message, Gary explores Paul's incredible teaching that Jesus is the \"firstfruits\" of the resurrection. Along the way, he connects the resurrection to the Jewish feast days, the Book of Life, the coming resurrection of believers, the Rapture, and God's ultimate plan to reconcile the entire universe to Himself.</p>",
-   "audioURL": "https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvTkhDOEM5LzdjNGY2M2E3LTcyYjctNDk4ZC1hYzFiLThhMjg0OTM3MGU3Yi9hdWRpby5tcDM.mp3?k=NHC8C9&amp;s=3&amp;sapid=8rzwxwf",
-   "published": "Wed, 22 Jul 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/4e/30/364e308d-99c9-778e-e711-59e090408814/mza_3684559455643163671.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Connects resurrection to history, faith, and cosmic reconciliation.",
-   "tradition": "Christian"
-  },
-  {
    "id": "d6d3c8dc-65cf-11f1-b506-ef0287574c95",
    "showID": "https://feeds.megaphone.fm/mupod",
    "showTitle": "Mysterious Universe",
@@ -239,30 +265,30 @@
    "tradition": "Interfaith"
   },
   {
-   "id": "bc21b676-dd41-410f-8308-82198714d094",
-   "showID": "https://anchor.fm/s/1010c05b0/podcast/rss",
-   "showTitle": "Decoded | Unlock The Secrets of Human Behavior, Emotion and Motivation",
-   "title": "Who Killed God? The Spiritual Cost of Modern Progress",
-   "summary": "What happens when a civilization removes God—but keeps searching for meaning?In this episode of Decoded, Elisabeth McKay explores one of the most important cultural questions of our time: Who killed God?This is not about religion versus atheism. It's a deeper examination of how modern society gradually replaced transcendence with human-centered systems—and what happened as a result.From the Enlightenment and the French Revolution to Darwin, Freud, Marx, modern psychology, consumer culture, and the rise of self-worship, Elisabeth traces the historical and psychological shifts that transformed h",
-   "audioURL": "https://anchor.fm/s/1010c05b0/podcast/play/121645988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2Fc3966914-24d2-c927-4451-1dc427045ddf.mp3",
-   "published": "Thu, 18 Jun 2026 04:39:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/59/9d/03599d6d-b520-a0af-48f7-2817abd33818/mza_2980337403515710175.jpg/600x600bb.jpg",
+   "id": "540eefb7-9869-4671-8f46-b48a00ee8f7c",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2e824128-fbd5-4c9e-9a57-ae2f0056b0c4/66d98a23-900c-44b0-a40b-ae2f0056b0db/podcast.rss",
+   "showTitle": "Stuff They Don't Want You To Know",
+   "title": "CLASSIC: What is Falun Gong?",
+   "summary": "The movement known as Falun Dafa or Falun Gong began in China in the 1990s, and today people across the planet consider themselves practicioners. Adherents claim this combination of meditation, breathing exercises, mindfulness and moral philosophy is a path to enlightenment -- but the government of China disagrees. For decades Chinese authorities have considered Falun Gong a dangerous, subversive element. Since 1999 the government has made concerted efforts to suppress this spiritual practice -- but why? Tune in to learn more.They don't want you to read our book.: https://static.macmillan.com/",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2e824128-fbd5-4c9e-9a57-ae2f0056b0c4/540eefb7-9869-4671-8f46-b48a00ee8f7c/audio.mp3?utm_source=Podcast&amp;in_playlist=66d98a23-900c-44b0-a40b-ae2f0056b0db",
+   "published": "Tue, 21 Jul 2026 11:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/f6/d7/b3f6d733-0924-1923-d33e-c0e0a8b6486d/mza_12499946169636574274.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines cultural loss of transcendence and search for meaning beyond religion.",
-   "tradition": "Secular"
+   "reason": "Explores Falun Gong's meditation and moral philosophy as a path to enlightenment.",
+   "tradition": "Buddhist"
   },
   {
-   "id": "ae272ab0-f468-4dd6-a88c-7c40119ed96c",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "Religious Scrupulosity Nearly Destroyed Hayli's Faith... Until She Rediscoverd Jesus Christ",
-   "summary": "\" No amount of scripture reading, praying, mission serving, nitpicking your husbanding is going to save you. It's not. Having a relationship with your Savior, Jesus Christ, and your Heavenly Father will. If you know that they love you, and if you let that in, it will change your life in a way that nothing else will.\"Memor Jewelry code COMEBACK for 10% offhttps://memorjewelry.com/Serve Clothing code COMEBACK for 15% offhttps://serveclothing.com/00:00 Burnout And Needing Grace05:35 Childhood Exposure And Shame12:49 Scrupulosity And Mission Spiral21:36 Marriage Under Perfectionism27:29 Discoverin",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/122672048/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-10%2F427740787-44100-2-332e66d05e737.m4a",
-   "published": "Sun, 12 Jul 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "id": "https://api.spreaker.com/episode/73033975",
+   "showID": "https://www.spreaker.com/show/3395068/episodes/feed",
+   "showTitle": "UFO Chronicles Podcast",
+   "title": "Ep.395 The Other Side of Reality",
+   "summary": "Tonight, I'm joined by David from Florida, whose life took an unexpected turn following a near-death experience in 2021. Afterward, his life changed dramatically as his consciousness began to expand. He describes past life regressions, mysterious downloads of information, and encounters with non-human beings that led him to question the hidden nature of reality. David explains how these events inspired his motion comic series, The Lion of God, and how he transformed his personal journey into a story exploring consciousness, spirituality, and the unknown.More information on this episode on the ",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73033975/ep_395_the_other_side_of_reality.mp3",
+   "published": "Sun, 19 Jul 2026 01:00:02 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/22/72/33/227233bf-0e7b-4d2a-d2bd-402d810dea89/mza_17727488661588768146.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal story of faith struggle and rediscovery of relationship with Jesus.",
-   "tradition": "Christian"
+   "reason": "Personal near-death experience leads to expanded consciousness and spiritual questioning.",
+   "tradition": "Interfaith"
   },
   {
    "id": "afcaa99a-891a-11f1-a74c-8f895663a341",
@@ -287,7 +313,7 @@
    "published": "Fri, 10 Jul 2026 10:33:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/1e/33/f9/1e33f91a-edfa-0e84-2c12-e9eb3e464b07/mza_4914288206950426810.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explains Christian views on death and eternal afterlife with theological depth.",
+   "reason": "Explores Christian beliefs about death, afterlife, and eternal existence.",
    "tradition": "Christian"
   },
   {
@@ -300,34 +326,8 @@
    "published": "Sun, 19 Jul 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A personal Christian story of faith, doubt, and renewal through hardship and prayer.",
+   "reason": "A personal Christian story of faith, doubt, and returning to prayer after crisis.",
    "tradition": "Christian"
-  },
-  {
-   "id": "0fa4e79a2fad69395cbe11dbec38cecc",
-   "showID": "https://podcasts.subsplash.com/z73b3th/podcast.rss",
-   "showTitle": "Becoming Something with Jonathan Pokluda",
-   "title": "Episode 379: Faith, Fear & Fighting for Your Family | feat. Christian Huff",
-   "summary": "<p>This week JP, Nate and Kathy sit down with Christian Huff, husband of Sadie Robertson, to talk about what it really looks like to lead your family through fear, anger, and hard seasons. Christian opens up about a terrifying medical scare with his daughter, wrestling with anger toward God, and what it means to step into spiritual strength as a husband and father. If you've ever found yourself blaming God for the enemy's work, this one is for you!</p>",
-   "audioURL": "https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4Lzg5OGViNmI5LWE0ZjMtNDE3YS1hZGFmLTM2MzQ1N2ZjY2NhNi9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=cvcg2bp",
-   "published": "Mon, 06 Jul 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A Christian husband wrestles with fear, anger, and spiritual strength in family crises.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "99c49517-552b-4bab-91f7-83abb6a34fe4",
-   "showID": "https://feeds.simplecast.com/RkKDS3Sf",
-   "showTitle": "Care More Be Better: A Podcast For Sustainable Social Impact and Regeneration",
-   "title": "Listening To Earth Wisdom With Leah Penniman, Soul Fire Farm",
-   "summary": "The Queen Mothers of Ghana asked Leah Penniman whether it was true that American farmers plant seeds without prayer, song, or gratitude — then said: 'That's why you're all sick. You treat the earth as a commodity, not as a living relative.' That one sentence is the heart of this episode. Leah Penniman — Black Kreyol farmer, co-founder of Soul Fire Farm, and author of Farming While Black and the new anthology Black Earth Wisdom — joins Care More Be Better to explore George Washington Carver as the forgotten godfather of regenerative agriculture, the shared root of human supremacy and White supr",
-   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/1385/injector.simplecastaudio.com/e853e1bf-0cb3-474c-8845-76e9c49dfa73/episodes/64b8711f-982b-4e17-b292-8b01d5ad1ead/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=e853e1bf-0cb3-474c-8845-76e9c49dfa73&amp;awEpisodeId=64b8711f-982b-4e17-b292-8b01d5ad1ead&amp;feed=RkKDS3Sf",
-   "published": "Wed, 15 Jul 2026 07:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/44/d6/c4/44d6c400-328c-9675-0c91-2ba8a478f795/mza_9931771251539629382.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores Indigenous earth wisdom linking spirituality, ethics, and farming practices.",
-   "tradition": "Indigenous"
   }
  ]
 }
