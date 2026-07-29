@@ -1,48 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-07-29T00:44:58.327752+00:00",
+ "generatedAt": "2026-07-29T01:40:30.664677+00:00",
  "showsScanned": 400,
  "candidates": 57,
  "picks": [
-  {
-   "id": "e46c8d52-1792-439b-828d-0f83802d9bae",
-   "showID": "https://rss.amperwave.net/v2/feed/podcorn/6aedaa4af9023293eeccb7c93c30b6bd",
-   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
-   "title": "Thiaoouba Prophecy: An Alien Abduction To The 9th Planet -  Part One",
-   "summary": "Tonight, Samuel Chong joins me to discuss insights into information shared from the late alien abductee Michel Desmarquet about his extraordinary alien abduction experience. You can add this book to your collection by going to  Amazon or ordering through your local book store!Material technology, without spiritual knowledge, is leading us to a global catastrophe on Earth. Technology should ASSIST in the spiritual development and not be used (as it is used now) to confine and enslave people within a monetary system and materialistic world, which are both temporary anyway.No matter how much we d",
-   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8539698/8539698_2026-07-25-054038.128.mp3?rssID=6605",
-   "published": "Sat, 25 Jul 2026 05:24:39 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/17/cb/7117cb69-9b97-b595-8635-f03a159856ca/mza_7631777769249125333.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Alien abduction story touches on spiritual knowledge and technology.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/CPnv2bslwb-B-6UVFNn0Puk9aFNi5IH4JoicwgcrUOg",
-   "showID": "https://rss.pdrl.fm/59663c/rss.art19.com/uap-unidentified-alien-podcast",
-   "showTitle": "UAP Unidentified Alien Podcast",
-   "title": "UAP EP 217 An Introduction to Macro Psychokinesis & How it Could Explain Everything",
-   "summary": "Beings described as lighter than air. UFOs defying the known laws of physics. The mysteries behind our own consciousness abilities. These are some of the things that are discussed as Stephen Diener brings on Yale trained philosopher and author, Christopher Noel. How does something known as Macro Psychokinesis play a role in all of this and the possible changing of matter itself? Sit down and strap in for this one...See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.]]>",
-   "audioURL": "https://mgln.ai/e/345/pscrb.fm/rss/p/pdrl.fm/59663c/rss.art19.com/episodes/7a396d62-b09e-4cb9-ad52-29275fa88406.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Thu, 23 Jul 2026 04:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/85/46/0b/85460b87-87da-a462-1d27-1f8bfd738d40/mza_17424257385107162398.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Philosophical discussion on psychokinesis and consciousness mysteries.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "32c281b4-87af-11f1-8396-9fd8724b106e",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "CAMILA MENDES: \"Perfectionism Was Ruining My Life\"",
-   "summary": "Actress and producer Camila Mendes joins Jay for an honest conversation about the hidden cost of perfectionism, the pressure behind success, and what it took to finally choose herself. Camila opens up about the breaking point that forced her to confront old wounds, heal her relationship with food, reconnect with her Brazilian identity, and redefine what spirituality, self-worth, and love really mean.\n\nTogether, they explore why chasing perfection often leaves us feeling empty, how slowing down can become the greatest act of self-respect, and why true confidence isn't about having everything fi",
-   "audioURL": "https://traffic.megaphone.fm/GLT6229573348.mp3",
-   "published": "Mon, 27 Jul 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ef/9e/1f/ef9e1fa1-a331-0023-f45a-aa95f16d1b20/mza_2011943239364279494.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Conversation on perfectionism, self-worth, and spirituality with personal insight.",
-   "tradition": "Interfaith"
-  },
   {
    "id": "4dfbd69d-1ed2-4d5d-b1cd-16df24999412",
    "showID": "https://rss.libsyn.com/shows/393380/destinations/3235040.xml",
@@ -53,7 +14,7 @@
    "published": "Wed, 22 Jul 2026 11:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/be/97/3cbe97fb-f542-6271-7c4f-c986b5f4c51f/mza_8932915024380387774.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores ancient wisdom and psychology on love and interconnectedness amid crises.",
+   "reason": "Deep conversation on ancient wisdom and psychology addressing meaning and interconnectedness.",
    "tradition": "Interfaith"
   },
   {
@@ -66,7 +27,7 @@
    "published": "Thu, 23 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuroscientist and meditation teacher discuss consciousness, ethics, and self.",
+   "reason": "Neuroscientist and meditation teacher discuss consciousness, ethics, and self-understanding.",
    "tradition": "Secular"
   },
   {
@@ -79,7 +40,7 @@
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores sacred African spiritual tradition and consciousness through iboga.",
+   "reason": "Deep dive into sacred plant medicine and spiritual tradition in Gabon.",
    "tradition": "Indigenous"
   },
   {
@@ -105,7 +66,46 @@
    "published": "Fri, 24 Jul 2026 18:00:03 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former nun reflects on faith, obedience, and leaving monastic life.",
+   "reason": "A former nun reflects on faith, obedience, and personal rebellion.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "c56f9c9a-7099-11f1-955e-9f65fd3b4bf5",
+   "showID": "https://feeds.megaphone.fm/RM6294791149",
+   "showTitle": "The Dr. John Delony Show",
+   "title": "Caller: “My Husband Is a Selfish Lover”",
+   "summary": "🔥 Microhabits for a Better Marriage. Download the Together app.\n\n&nbsp;\n\nOn today’s episode, we hear about:\n\n\n  A wife whose husband is selfish during intimacy\n\n  A woman paranoid that her healthy marriage is headed for divorce\n\n  A wife who feels like she is better than her husband\n\n\n&nbsp;\n\nNext Steps:\n\n❤️ Get away with your spouse today!\n\n📞 Ask John a question! Call 844-693-3291 or send us a message.\n\n📚 Building a Non-Anxious Life\n\n📝 Anxiety Test\n\n📚 Own Your Past, Change Your Future\n\n❓ Questions for Humans Conversation Cards\n\n💭 John's Free Guided Meditation\n\n🤘🏼 The Dr. John Delony Show Merc",
+   "audioURL": "https://pdst.fm/e/mgln.ai/e/p356554/pscrb.fm/rss/p/traffic.megaphone.fm/RM5146295719.mp3",
+   "published": "Mon, 27 Jul 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/34/0f/4c/340f4c53-dc9b-9971-a94f-54c25a5d339a/mza_3848511723335763740.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Marriage struggles touching on intimacy and relational ethics.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "c3785792-7099-11f1-955e-bbeea0f415a5",
+   "showID": "https://feeds.megaphone.fm/RM6294791149",
+   "showTitle": "The Dr. John Delony Show",
+   "title": "Caller: “I Fought for Our Marriage . . . It Didn’t Work”",
+   "summary": "🔥 Microhabits for a better marriage. Download the Together app.\n\n&nbsp;\n\nOn today’s episode, we hear about:\n\n\n  A man grappling with his wife’s decision to end their marriage\n\n  A husband wondering how to choose his wife over work\n\n  A woman whose healthy choices have left her feeling isolated\n\n\n&nbsp;\n\nNext Steps:\n\n❤️ Get away with your spouse today!\n\n📞 Ask John a question! Call 844-693-3291 or send us a message.\n\n📚 Building a Non-Anxious Life\n\n📝 Anxiety Test\n\n📚 Own Your Past, Change Your Future\n\n❓ Questions for Humans Conversation Cards\n\n💭 John's Free Guided Meditation\n\n🤘🏼 The Dr. John Delon",
+   "audioURL": "https://pdst.fm/e/mgln.ai/e/p356554/pscrb.fm/rss/p/traffic.megaphone.fm/RM1970231448.mp3",
+   "published": "Fri, 24 Jul 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/34/0f/4c/340f4c53-dc9b-9971-a94f-54c25a5d339a/mza_3848511723335763740.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Personal marital crisis exploring commitment and emotional suffering.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "26a5d61a-86ce-11f1-8ed6-9ff0d63a8f90",
+   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
+   "showTitle": "Blurry Creatures",
+   "title": "EP: 447 Real Life Miracles and the Voice of God with Ryan Bethea and Abby Robertson *members only trailer",
+   "summary": "She saw the tumor months before the diagnosis. While praying over her seemingly healthy mother, Abby Robertson had a vision so disturbing she could not bring herself to write it down. Two to three months later, her mother was diagnosed with pancreatic cancer, already spreading and beyond surgery. Abby prayed with a certainty she had never felt, convinced God had prepared her to witness a healing. What happened next sent her searching for answers she is still looking for. In this episode, she and Ryan Bethea of The Exorcist Files sit down with Nate and Luke to talk about what it actually means ",
+   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW2264671278.mp3",
+   "published": "Thu, 23 Jul 2026 21:01:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores miraculous healing and searching for spiritual answers.",
    "tradition": "Christian"
   }
  ],
@@ -144,7 +144,7 @@
   "tag:soundcloud,2010:tracks/2367787106": "2026-07-28",
   "4339015b-0ff0-4bd3-85f4-c68f7bbf685c": "2026-07-28",
   "6e6858d0-6de4-4c14-84f5-92d7bd7a703e": "2026-07-28",
-  "26a5d61a-86ce-11f1-8ed6-9ff0d63a8f90": "2026-07-28",
+  "26a5d61a-86ce-11f1-8ed6-9ff0d63a8f90": "2026-07-29",
   "f52625c2-8128-11f1-9cc0-134318ed3fc7": "2026-07-28",
   "04fd19cb-44e1-4cac-b2fc-d6db837908fc": "2026-07-28",
   "1bb03c60-87ae-11f1-be31-579222d66ced": "2026-07-28",
@@ -161,6 +161,8 @@
   "tag:soundcloud,2010:tracks/2367493574": "2026-07-28",
   "e46c8d52-1792-439b-828d-0f83802d9bae": "2026-07-29",
   "gid://art19-episode-locator/V0/CPnv2bslwb-B-6UVFNn0Puk9aFNi5IH4JoicwgcrUOg": "2026-07-29",
-  "32c281b4-87af-11f1-8396-9fd8724b106e": "2026-07-29"
+  "32c281b4-87af-11f1-8396-9fd8724b106e": "2026-07-29",
+  "c56f9c9a-7099-11f1-955e-9f65fd3b4bf5": "2026-07-29",
+  "c3785792-7099-11f1-955e-bbeea0f415a5": "2026-07-29"
  }
 }
