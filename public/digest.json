@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-07-29T03:10:14.263245+00:00",
+ "generatedAt": "2026-07-29T05:11:03.143214+00:00",
  "showsScanned": 400,
- "candidates": 56,
+ "candidates": 58,
  "picks": [
   {
    "id": "4dfbd69d-1ed2-4d5d-b1cd-16df24999412",
@@ -27,8 +27,21 @@
    "published": "Thu, 23 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuroscientist and meditation teacher discuss consciousness, ethics, and self-understanding.",
+   "reason": "Neuroscientist and meditation teacher discuss consciousness and ethics deeply.",
    "tradition": "Secular"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
+   "showID": "https://rss.art19.com/the-telepathy-tapes",
+   "showTitle": "The Telepathy Tapes",
+   "title": "S2E41: Ibogaine Inquiries Part III: The Sacred Roots of Iboga",
+   "summary": "Long before ibogaine entered Western clinics and laboratories, the plant it comes from held a sacred place in Gabonese life. In Part III of Ibogaine Inquiries, we travel to Gabon to explore Bwiti, the spiritual tradition in which iboga is understood as a teacher, guide, and living presence.Gabonese practitioners and Bwiti initiates describe the preparation, community, music, mentorship, and lifelong practice that surround the medicine. They explain why Iboga cannot be separated from the larger body of knowledge developed around it. As Western interest continues to grow, this episode asks what ",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/fd973b3b-9b1d-40e3-b289-b01d4e52675f.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Mon, 27 Jul 2026 07:03:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "In-depth exploration of indigenous spiritual tradition and sacred plant medicine.",
+   "tradition": "Indigenous"
   },
   {
    "id": "afcaa99a-891a-11f1-a74c-8f895663a341",
@@ -44,6 +57,19 @@
    "tradition": "Christian"
   },
   {
+   "id": "b6f220bd-39e1-43b3-8adc-049ebe44f0ec",
+   "showID": "https://rss.libsyn.com/shows/606285/destinations/5279650.xml",
+   "showTitle": "The Deep End With Lecrae",
+   "title": "My Biggest Critic Deserves An Answer.",
+   "summary": "You've seen the clip. Before Lecrae responds to Marcus Rogers, he asks a harder question: when did we start treating Matthew 18 like a flowchart for public callouts instead of a chapter about not losing your brother? In this episode, Lecrae unpacks the viral clip from Marcus Rogers and uses it as a launching pad for something bigger than one callout: how discernment culture works, where it goes wrong, and what Scripture actually asks of us when we think someone's walking crooked. He walks through his own past failure judging an artist he'd never met, breaks down what Matthew 18 says (and what ",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/289702f0-eba6-44cb-bf7c-b7ff937eb51c/REVISED_Ep131_Marcus_Rogers_Audio.mp3?dest-id=5279650",
+   "published": "Tue, 28 Jul 2026 09:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A thoughtful Christian reflection on discernment, faith, and community ethics.",
+   "tradition": "Christian"
+  },
+  {
    "id": "87882620-93d4-44ca-99c9-9b43399fb2c2",
    "showID": "https://feeds.npr.org/381444908/podcast.xml",
    "showTitle": "Fresh Air",
@@ -53,33 +79,7 @@
    "published": "Fri, 24 Jul 2026 18:00:03 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former nun reflects deeply on faith, obedience, and leaving religious life.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
-   "showID": "https://rss.art19.com/the-telepathy-tapes",
-   "showTitle": "The Telepathy Tapes",
-   "title": "S2E41: Ibogaine Inquiries Part III: The Sacred Roots of Iboga",
-   "summary": "Long before ibogaine entered Western clinics and laboratories, the plant it comes from held a sacred place in Gabonese life. In Part III of Ibogaine Inquiries, we travel to Gabon to explore Bwiti, the spiritual tradition in which iboga is understood as a teacher, guide, and living presence.Gabonese practitioners and Bwiti initiates describe the preparation, community, music, mentorship, and lifelong practice that surround the medicine. They explain why Iboga cannot be separated from the larger body of knowledge developed around it. As Western interest continues to grow, this episode asks what ",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/fd973b3b-9b1d-40e3-b289-b01d4e52675f.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Mon, 27 Jul 2026 07:03:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores sacred African spiritual tradition and consciousness through iboga.",
-   "tradition": "Indigenous"
-  },
-  {
-   "id": "26a5d61a-86ce-11f1-8ed6-9ff0d63a8f90",
-   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
-   "showTitle": "Blurry Creatures",
-   "title": "EP: 447 Real Life Miracles and the Voice of God with Ryan Bethea and Abby Robertson *members only trailer",
-   "summary": "She saw the tumor months before the diagnosis. While praying over her seemingly healthy mother, Abby Robertson had a vision so disturbing she could not bring herself to write it down. Two to three months later, her mother was diagnosed with pancreatic cancer, already spreading and beyond surgery. Abby prayed with a certainty she had never felt, convinced God had prepared her to witness a healing. What happened next sent her searching for answers she is still looking for. In this episode, she and Ryan Bethea of The Exorcist Files sit down with Nate and Luke to talk about what it actually means ",
-   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW2264671278.mp3",
-   "published": "Thu, 23 Jul 2026 21:01:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A woman’s vision and faith tested by illness and search for healing.",
+   "reason": "A former nun's candid account of faith, doubt, and leaving religious life.",
    "tradition": "Christian"
   },
   {
@@ -92,8 +92,21 @@
    "published": "Fri, 24 Jul 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "A neurosurgeon discusses trauma, grief, and reshaping the mind after profound loss.",
+   "reason": "Neurosurgeon discusses trauma, grief, and reshaping the mind after profound loss.",
    "tradition": "Secular"
+  },
+  {
+   "id": "26a5d61a-86ce-11f1-8ed6-9ff0d63a8f90",
+   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
+   "showTitle": "Blurry Creatures",
+   "title": "EP: 447 Real Life Miracles and the Voice of God with Ryan Bethea and Abby Robertson *members only trailer",
+   "summary": "She saw the tumor months before the diagnosis. While praying over her seemingly healthy mother, Abby Robertson had a vision so disturbing she could not bring herself to write it down. Two to three months later, her mother was diagnosed with pancreatic cancer, already spreading and beyond surgery. Abby prayed with a certainty she had never felt, convinced God had prepared her to witness a healing. What happened next sent her searching for answers she is still looking for. In this episode, she and Ryan Bethea of The Exorcist Files sit down with Nate and Luke to talk about what it actually means ",
+   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW2264671278.mp3",
+   "published": "Thu, 23 Jul 2026 21:01:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Testimony of faith, healing, and searching for spiritual understanding.",
+   "tradition": "Christian"
   },
   {
    "id": "80f877b2-86bf-11f1-b26c-d7298b194531",
@@ -104,8 +117,8 @@
    "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pfx.vpixl.com/4V6da/arttrk.com/p/BLZM1/verifi.podscribe.com/rss/p/mgln.ai/e/285/pscrb.fm/rss/p/prfx.byspotify.com/e/claritaspod.com/measure/traffic.megaphone.fm/BMDC2047812334.mp3",
    "published": "Thu, 23 Jul 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/7c/46/a8/7c46a888-21dd-c3ee-8dc8-10820f0b0ae2/mza_17626472455948222894.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Discusses imposter syndrome as a spiritual issue rooted in identity and faith.",
+   "rating": 7,
+   "reason": "Discussion of imposter syndrome as a spiritual problem beyond race and identity.",
    "tradition": "Christian"
   }
  ],
@@ -163,6 +176,7 @@
   "gid://art19-episode-locator/V0/CPnv2bslwb-B-6UVFNn0Puk9aFNi5IH4JoicwgcrUOg": "2026-07-29",
   "32c281b4-87af-11f1-8396-9fd8724b106e": "2026-07-29",
   "c56f9c9a-7099-11f1-955e-9f65fd3b4bf5": "2026-07-29",
-  "c3785792-7099-11f1-955e-bbeea0f415a5": "2026-07-29"
+  "c3785792-7099-11f1-955e-bbeea0f415a5": "2026-07-29",
+  "b6f220bd-39e1-43b3-8adc-049ebe44f0ec": "2026-07-29"
  }
 }
