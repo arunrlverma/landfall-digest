@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-29T21:23:39.133498+00:00",
+ "generatedAt": "2026-07-29T22:25:01.898982+00:00",
  "showsScanned": 400,
  "candidates": 60,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Thu, 23 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep conversation on meditation, consciousness, and ethics with a neuroscientist and meditation teacher.",
+   "reason": "Neuroscientist meditates on consciousness, ethics, and the self with depth and clarity.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores sacred African spiritual tradition and consciousness through iboga.",
+   "reason": "Explores sacred indigenous spiritual tradition and consciousness through iboga.",
    "tradition": "Indigenous"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Wed, 29 Jul 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Engages seriously with faith deconstruction and doubt, relevant to questions of belief and meaning.",
+   "reason": "Engages seriously with faith deconstruction and doubt in modern Christianity.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Fri, 24 Jul 2026 18:00:03 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Former nun discusses faith, obedience, and leaving monastic life.",
+   "reason": "A former nun reflects on faith, obedience, and leaving religious life.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Wed, 22 Jul 2026 11:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/be/97/3cbe97fb-f542-6271-7c4f-c986b5f4c51f/mza_8932915024380387774.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses ancient wisdom and psychology on love and interconnectedness amid crises, thoughtful and relevant.",
+   "reason": "Discusses ancient wisdom and psychology on love and interconnectedness amid crises.",
    "tradition": "Interfaith"
   },
   {
@@ -92,7 +92,7 @@
    "published": "Thu, 23 Jul 2026 21:01:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A firsthand account of faith, suffering, and searching for meaning after a healing.",
+   "reason": "A firsthand account of faith, suffering, and searching for meaning after a cancer diagnosis.",
    "tradition": "Christian"
   },
   {
@@ -105,7 +105,7 @@
    "published": "Fri, 24 Jul 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "A neurosurgeon discusses trauma, grief, and reshaping the mind after suffering.",
+   "reason": "A neurosurgeon discusses trauma, grief, and brain plasticity with ethical implications.",
    "tradition": "Secular"
   },
   {
@@ -118,7 +118,7 @@
    "published": "Wed, 29 Jul 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores biblical prophecy and speaking God's word in different historical contexts.",
+   "reason": "Discusses biblical prophecy and speaking God's word with some spiritual depth.",
    "tradition": "Christian"
   },
   {
