@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-29T12:50:17.517771+00:00",
+ "generatedAt": "2026-07-29T13:40:22.618144+00:00",
  "showsScanned": 400,
  "candidates": 58,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Thu, 23 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "In-depth conversation on meditation, consciousness, and ethics with a neuroscientist.",
+   "reason": "Neuroscientist and meditation teacher discuss consciousness, ethics, and self-understanding.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "In-depth exploration of sacred plant medicine and spiritual tradition in Gabon.",
+   "reason": "Explores indigenous spiritual tradition and sacred plant medicine in depth.",
    "tradition": "Indigenous"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Wed, 22 Jul 2026 11:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/be/97/3cbe97fb-f542-6271-7c4f-c986b5f4c51f/mza_8932915024380387774.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Serious discussion on ancient wisdom and psychology addressing human maturity and crises.",
+   "reason": "Examines ancient wisdom and psychology on love and interconnectedness amid crises.",
    "tradition": "Interfaith"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Tue, 28 Jul 2026 09:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses discernment, brotherhood, and scriptural ethics beyond public callouts.",
+   "reason": "Discusses discernment culture and scriptural ethics on interpersonal judgment.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Fri, 24 Jul 2026 18:00:03 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former nun reflects deeply on faith, obedience, and leaving monastic life.",
+   "reason": "A former nun reflects deeply on faith, obedience, and personal doubt.",
    "tradition": "Christian"
   },
   {
@@ -92,7 +92,7 @@
    "published": "Wed, 22 Jul 2026 16:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A meditation-story hybrid focusing on mindfulness and sleep, fostering inner calm.",
+   "reason": "A meditation-story hybrid focusing on mindfulness and restful consciousness.",
    "tradition": "Secular"
   },
   {
@@ -118,7 +118,7 @@
    "published": "Thu, 23 Jul 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/7c/46/a8/7c46a888-21dd-c3ee-8dc8-10820f0b0ae2/mza_17626472455948222894.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses imposter syndrome as a spiritual fear rooted in identity and faith.",
+   "reason": "Discusses imposter syndrome as a spiritual fear rooted in identity and relationship with Christ.",
    "tradition": "Christian"
   },
   {
@@ -131,7 +131,7 @@
    "published": "Wed, 29 Jul 2026 06:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/17/cb/7117cb69-9b97-b595-8635-f03a159856ca/mza_7631777769249125333.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Covers afterlife and spiritual guides with personal psychic experiences, somewhat speculative.",
+   "reason": "Discusses afterlife and spiritual guides with psychic experiences, somewhat speculative.",
    "tradition": "Interfaith"
   },
   {
@@ -144,7 +144,7 @@
    "published": "Mon, 27 Jul 2026 11:30:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal spiritual transformation story blending mystical and ascension themes.",
+   "reason": "Shares a spiritual near-death experience crossing Muslim and other teachings.",
    "tradition": "Interfaith"
   },
   {
@@ -157,7 +157,7 @@
    "published": "Wed, 29 Jul 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Comparative biblical study on prophecy and speaking God's word.",
+   "reason": "Comparative biblical reflection on prophecy and divine consolation.",
    "tradition": "Christian"
   },
   {
@@ -170,7 +170,7 @@
    "published": "Tue, 28 Jul 2026 21:05:41 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A devotional talk emphasizing hope in Jesus but limited philosophical depth.",
+   "reason": "A devotional talk on hope centered on Jesus Christ, offering spiritual encouragement.",
    "tradition": "Christian"
   },
   {
