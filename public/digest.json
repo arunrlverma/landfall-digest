@@ -1,22 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-07-29T05:11:03.143214+00:00",
+ "generatedAt": "2026-07-29T07:04:59.392286+00:00",
  "showsScanned": 400,
- "candidates": 58,
+ "candidates": 59,
  "picks": [
-  {
-   "id": "4dfbd69d-1ed2-4d5d-b1cd-16df24999412",
-   "showID": "https://rss.libsyn.com/shows/393380/destinations/3235040.xml",
-   "showTitle": "The Great Simplification with Nate Hagens",
-   "title": "Taking Love Seriously: What Ancient Wisdom & Modern Psychology Say About Interconnectedness with John Churchill",
-   "summary": "A growing chorus of psychologists, contemplatives, and systems thinkers argue that most of us, and most of our institutions, are running an outdated psychological and spiritual \"operating system,\" one never built for the converging ecological, economic, and cultural crises we face. Technological and policy responses absorb nearly all of our attention and resources, yet the maturity of the humans making the decisions may be the most needed and least prioritized intervention of all.  Could ancient contemplative traditions, paired with modern psychology, offer a map for the kind of collective gro",
-   "audioURL": "https://traffic.libsyn.com/secure/thegreatsimplification/TGS228_JohnChurchill.mp3?dest-id=3235040",
-   "published": "Wed, 22 Jul 2026 11:30:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/be/97/3cbe97fb-f542-6271-7c4f-c986b5f4c51f/mza_8932915024380387774.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Explores ancient wisdom and psychology on love and interconnectedness amid crises.",
-   "tradition": "Interfaith"
-  },
   {
    "id": "4cce45d0-8650-11f1-bfef-b3259654b6b2",
    "showID": "https://feeds.megaphone.fm/hubermanlab",
@@ -27,7 +14,7 @@
    "published": "Thu, 23 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuroscientist and meditation teacher discuss consciousness and ethics deeply.",
+   "reason": "Neuroscientist and meditation teacher discuss consciousness, ethics, and self.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +27,7 @@
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "In-depth exploration of indigenous spiritual tradition and sacred plant medicine.",
+   "reason": "Explores sacred African spiritual tradition and consciousness through iboga.",
    "tradition": "Indigenous"
   },
   {
@@ -57,6 +44,19 @@
    "tradition": "Christian"
   },
   {
+   "id": "4dfbd69d-1ed2-4d5d-b1cd-16df24999412",
+   "showID": "https://rss.libsyn.com/shows/393380/destinations/3235040.xml",
+   "showTitle": "The Great Simplification with Nate Hagens",
+   "title": "Taking Love Seriously: What Ancient Wisdom & Modern Psychology Say About Interconnectedness with John Churchill",
+   "summary": "A growing chorus of psychologists, contemplatives, and systems thinkers argue that most of us, and most of our institutions, are running an outdated psychological and spiritual \"operating system,\" one never built for the converging ecological, economic, and cultural crises we face. Technological and policy responses absorb nearly all of our attention and resources, yet the maturity of the humans making the decisions may be the most needed and least prioritized intervention of all.  Could ancient contemplative traditions, paired with modern psychology, offer a map for the kind of collective gro",
+   "audioURL": "https://traffic.libsyn.com/secure/thegreatsimplification/TGS228_JohnChurchill.mp3?dest-id=3235040",
+   "published": "Wed, 22 Jul 2026 11:30:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/be/97/3cbe97fb-f542-6271-7c4f-c986b5f4c51f/mza_8932915024380387774.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Connects ancient wisdom and psychology on love and human maturity in crisis.",
+   "tradition": "Interfaith"
+  },
+  {
    "id": "b6f220bd-39e1-43b3-8adc-049ebe44f0ec",
    "showID": "https://rss.libsyn.com/shows/606285/destinations/5279650.xml",
    "showTitle": "The Deep End With Lecrae",
@@ -66,7 +66,7 @@
    "published": "Tue, 28 Jul 2026 09:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A thoughtful Christian reflection on discernment, faith, and community ethics.",
+   "reason": "Discusses discernment, brotherhood, and scriptural ethics beyond public callouts.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Fri, 24 Jul 2026 18:00:03 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former nun's candid account of faith, doubt, and leaving religious life.",
+   "reason": "A former nun reflects on faith, obedience, and personal rebellion.",
    "tradition": "Christian"
   },
   {
@@ -92,8 +92,34 @@
    "published": "Fri, 24 Jul 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Neurosurgeon discusses trauma, grief, and reshaping the mind after profound loss.",
+   "reason": "A neurosurgeon’s story on trauma, grief, and reshaping the mind after profound suffering.",
    "tradition": "Secular"
+  },
+  {
+   "id": "80f877b2-86bf-11f1-b26c-d7298b194531",
+   "showID": "https://feeds.megaphone.fm/fearlesswithjasonwhitlock",
+   "showTitle": "Fearless with Jason Whitlock",
+   "title": "Michelle Obama Says White Men Don't Feel Like Frauds. Here's the Truth | Jason Whitlock Harmony",
+   "summary": "Michelle Obama says she has never met a white man who has felt imposter syndrome — that only black people seem to carry that weight. Jason Whitlock says she is describing something real but diagnosing it all wrong. Imposter syndrome isn't a white problem or a black problem. It's a spiritual one. It's a fear carried by men and women wearing a résumé — the ache of anyone whose identity is built on human approval instead of a relationship with Christ. From Moses at the burning bush to the apostle Paul, Whitlock unpacks why DEI, affirmation, and \"more representation\" can't cure it — and why only k",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pfx.vpixl.com/4V6da/arttrk.com/p/BLZM1/verifi.podscribe.com/rss/p/mgln.ai/e/285/pscrb.fm/rss/p/prfx.byspotify.com/e/claritaspod.com/measure/traffic.megaphone.fm/BMDC2047812334.mp3",
+   "published": "Thu, 23 Jul 2026 21:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/7c/46/a8/7c46a888-21dd-c3ee-8dc8-10820f0b0ae2/mza_17626472455948222894.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A Christian perspective on imposter syndrome rooted in spiritual identity and faith.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "b5f2faf5-1e6b-4321-9bfc-844c3f67157b",
+   "showID": "https://rss.amperwave.net/v2/feed/podcorn/6aedaa4af9023293eeccb7c93c30b6bd",
+   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
+   "title": "Guardians of The Dead",
+   "summary": "My special guest is author and researcher Philip Kinsella who's here to discuss his book Guardians of The Dead that you can get now on Amazon.Is there an afterlife? Are such things as Angels and Spirit Guides real? Does God exist? Medium, Philip Kinsella takes the reader on a personal, psychic journey of discovery, revealing that there does indeed appear to be hidden forces assisting mankind in all areas of life. He also demonstrates how communication can be achieved through a variety of means and reveals how consciousness works. The human brain is the conduit which allows such alternate realm",
+   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8545864/8545864_2026-07-29-060004.128.mp3?rssID=6605",
+   "published": "Wed, 29 Jul 2026 06:30:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/17/cb/7117cb69-9b97-b595-8635-f03a159856ca/mza_7631777769249125333.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discusses afterlife, angels, and spiritual communication from a personal psychic view.",
+   "tradition": "Interfaith"
   },
   {
    "id": "26a5d61a-86ce-11f1-8ed6-9ff0d63a8f90",
@@ -105,21 +131,34 @@
    "published": "Thu, 23 Jul 2026 21:01:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Testimony of faith, healing, and searching for spiritual understanding.",
+   "reason": "A personal story grappling with faith, suffering, and searching for meaning after a cancer diagnosis.",
    "tradition": "Christian"
   },
   {
-   "id": "80f877b2-86bf-11f1-b26c-d7298b194531",
-   "showID": "https://feeds.megaphone.fm/fearlesswithjasonwhitlock",
-   "showTitle": "Fearless with Jason Whitlock",
-   "title": "Michelle Obama Says White Men Don't Feel Like Frauds. Here's the Truth | Jason Whitlock Harmony",
-   "summary": "Michelle Obama says she has never met a white man who has felt imposter syndrome — that only black people seem to carry that weight. Jason Whitlock says she is describing something real but diagnosing it all wrong. Imposter syndrome isn't a white problem or a black problem. It's a spiritual one. It's a fear carried by men and women wearing a résumé — the ache of anyone whose identity is built on human approval instead of a relationship with Christ. From Moses at the burning bush to the apostle Paul, Whitlock unpacks why DEI, affirmation, and \"more representation\" can't cure it — and why only k",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pfx.vpixl.com/4V6da/arttrk.com/p/BLZM1/verifi.podscribe.com/rss/p/mgln.ai/e/285/pscrb.fm/rss/p/prfx.byspotify.com/e/claritaspod.com/measure/traffic.megaphone.fm/BMDC2047812334.mp3",
-   "published": "Thu, 23 Jul 2026 21:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/7c/46/a8/7c46a888-21dd-c3ee-8dc8-10820f0b0ae2/mza_17626472455948222894.jpg/600x600bb.jpg",
+   "id": "32c281b4-87af-11f1-8396-9fd8724b106e",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "CAMILA MENDES: \"Perfectionism Was Ruining My Life\"",
+   "summary": "Actress and producer Camila Mendes joins Jay for an honest conversation about the hidden cost of perfectionism, the pressure behind success, and what it took to finally choose herself. Camila opens up about the breaking point that forced her to confront old wounds, heal her relationship with food, reconnect with her Brazilian identity, and redefine what spirituality, self-worth, and love really mean.\n\nTogether, they explore why chasing perfection often leaves us feeling empty, how slowing down can become the greatest act of self-respect, and why true confidence isn't about having everything fi",
+   "audioURL": "https://traffic.megaphone.fm/GLT6229573348.mp3",
+   "published": "Mon, 27 Jul 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ef/9e/1f/ef9e1fa1-a331-0023-f45a-aa95f16d1b20/mza_2011943239364279494.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discussion of imposter syndrome as a spiritual problem beyond race and identity.",
-   "tradition": "Christian"
+   "reason": "An actress reflects on perfectionism, identity, and spirituality honestly.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/CPnv2bslwb-B-6UVFNn0Puk9aFNi5IH4JoicwgcrUOg",
+   "showID": "https://rss.pdrl.fm/59663c/rss.art19.com/uap-unidentified-alien-podcast",
+   "showTitle": "UAP Unidentified Alien Podcast",
+   "title": "UAP EP 217 An Introduction to Macro Psychokinesis & How it Could Explain Everything",
+   "summary": "Beings described as lighter than air. UFOs defying the known laws of physics. The mysteries behind our own consciousness abilities. These are some of the things that are discussed as Stephen Diener brings on Yale trained philosopher and author, Christopher Noel. How does something known as Macro Psychokinesis play a role in all of this and the possible changing of matter itself? Sit down and strap in for this one...See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.]]>",
+   "audioURL": "https://mgln.ai/e/345/pscrb.fm/rss/p/pdrl.fm/59663c/rss.art19.com/episodes/7a396d62-b09e-4cb9-ad52-29275fa88406.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Thu, 23 Jul 2026 04:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/85/46/0b/85460b87-87da-a462-1d27-1f8bfd738d40/mza_17424257385107162398.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Philosophical talk on consciousness and psychokinesis with speculative elements.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -177,6 +216,7 @@
   "32c281b4-87af-11f1-8396-9fd8724b106e": "2026-07-29",
   "c56f9c9a-7099-11f1-955e-9f65fd3b4bf5": "2026-07-29",
   "c3785792-7099-11f1-955e-bbeea0f415a5": "2026-07-29",
-  "b6f220bd-39e1-43b3-8adc-049ebe44f0ec": "2026-07-29"
+  "b6f220bd-39e1-43b3-8adc-049ebe44f0ec": "2026-07-29",
+  "b5f2faf5-1e6b-4321-9bfc-844c3f67157b": "2026-07-29"
  }
 }
