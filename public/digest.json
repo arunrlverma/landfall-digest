@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-29T15:42:48.197634+00:00",
+ "generatedAt": "2026-07-29T16:36:13.385340+00:00",
  "showsScanned": 400,
  "candidates": 59,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Thu, 23 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuroscientist and meditation teacher deeply discuss consciousness and ethics.",
+   "reason": "Neuroscientist and meditation teacher discuss consciousness and ethics deeply.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep dive into Bwiti spiritual tradition and sacred use of iboga plant.",
+   "reason": "Explores indigenous spiritual tradition and sacred plant medicine as a guide.",
    "tradition": "Indigenous"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Wed, 22 Jul 2026 11:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/be/97/3cbe97fb-f542-6271-7c4f-c986b5f4c51f/mza_8932915024380387774.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Serious discussion on ancient wisdom and psychology addressing meaning and interconnectedness.",
+   "reason": "Examines ancient wisdom and psychology on love and interconnectedness amid crises.",
    "tradition": "Interfaith"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Tue, 28 Jul 2026 09:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses discernment culture, brotherhood, and scriptural ethics beyond public callouts.",
+   "reason": "Discusses discernment culture and scriptural ethics on community and correction.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Fri, 24 Jul 2026 18:00:03 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former nun reflects on faith, obedience, and leaving monastic life.",
+   "reason": "Former nun reflects on faith, obedience, and leaving religious life.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Thu, 23 Jul 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/7c/46/a8/7c46a888-21dd-c3ee-8dc8-10820f0b0ae2/mza_17626472455948222894.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses spiritual fear and identity rooted in relationship with Christ, addressing imposter syndrome deeply.",
+   "reason": "Discusses spiritual fear and identity rooted in relationship with Christ, addressing faith and doubt.",
    "tradition": "Christian"
   },
   {
@@ -92,34 +92,8 @@
    "published": "Fri, 24 Jul 2026 11:30:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores perception, consciousness, and ancient wisdom on reality and balance.",
+   "reason": "Discusses perception, consciousness, and ancient wisdom for a fulfilled life.",
    "tradition": "Interfaith"
-  },
-  {
-   "id": "b3957214-8030-11f1-ae52-efc6b47c35da",
-   "showID": "https://feeds.megaphone.fm/SGP8517078272",
-   "showTitle": "Get Sleepy: Sleep meditation and stories",
-   "title": "The Infinite Loop",
-   "summary": "Narrator: Thomas Jones 🇬🇧\n\nWriter: Dee Ahmed ✍️\n\n\n\nWelcome back, sleepyheads. Tonight's episode is something of a hybrid between a plotless story and a meditation. It's sure to lead you into a deep, nourishing night's sleep. 😴\n\nIncludes mentions of: Mindfulness, Little to No Plot.\n\n\n\nTo receive our FREE weekly newsletter:&nbsp;⁠JOIN OUR MAILING LIST⁠\n\n\n\nGet Sleepy Premium\n\nListen completely ad-free and access our entire catalogue of stories and meditations by subscribing to our ⁠⁠⁠⁠⁠⁠⁠premium feed.⁠⁠⁠⁠⁠⁠⁠\n\nYour support means the world to us and makes it possible to keep the show running! ❤️ \n\n",
-   "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/SGP9697523728.mp3",
-   "published": "Wed, 22 Jul 2026 16:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A meditation-story hybrid fostering mindfulness and inner calm.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "26a5d61a-86ce-11f1-8ed6-9ff0d63a8f90",
-   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
-   "showTitle": "Blurry Creatures",
-   "title": "EP: 447 Real Life Miracles and the Voice of God with Ryan Bethea and Abby Robertson *members only trailer",
-   "summary": "She saw the tumor months before the diagnosis. While praying over her seemingly healthy mother, Abby Robertson had a vision so disturbing she could not bring herself to write it down. Two to three months later, her mother was diagnosed with pancreatic cancer, already spreading and beyond surgery. Abby prayed with a certainty she had never felt, convinced God had prepared her to witness a healing. What happened next sent her searching for answers she is still looking for. In this episode, she and Ryan Bethea of The Exorcist Files sit down with Nate and Luke to talk about what it actually means ",
-   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW2264671278.mp3",
-   "published": "Thu, 23 Jul 2026 21:01:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A firsthand account of faith, suffering, and searching for meaning after a healing.",
-   "tradition": "Christian"
   },
   {
    "id": "b5f2faf5-1e6b-4321-9bfc-844c3f67157b",
@@ -131,7 +105,7 @@
    "published": "Wed, 29 Jul 2026 06:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/17/cb/7117cb69-9b97-b595-8635-f03a159856ca/mza_7631777769249125333.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Covers afterlife and spiritual guides with personal psychic experiences.",
+   "reason": "Explores afterlife and spiritual guides with psychic experiences, somewhat speculative.",
    "tradition": "Interfaith"
   },
   {
@@ -144,7 +118,7 @@
    "published": "Mon, 27 Jul 2026 11:30:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Spiritual teacher shares near-death experience insights blending multiple traditions.",
+   "reason": "Shares a near-death experience and spiritual teachings blending multiple traditions.",
    "tradition": "Interfaith"
   },
   {
@@ -157,20 +131,20 @@
    "published": "Wed, 29 Jul 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Compares prophetic messages emphasizing speaking God's word and consolation.",
+   "reason": "Bible readings comparing prophetic messages, some reflection on faith.",
    "tradition": "Christian"
   },
   {
-   "id": "04002afc-c812-4fe2-8e52-b4950159f736",
-   "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
-   "showTitle": "BYU Speeches",
-   "title": "The Need for Greater Hope | Jamal Willis | July 2026",
-   "summary": "“We must never forget who our greatest hope giver is, and that is our Savior Jesus Christ.” Jamal Willis, Assistant Director of Student Wellness at Brigham Young University, delivered this devotional address on July 28, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/04002afc-c812-4fe2-8e52-b4950159f736/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
-   "published": "Tue, 28 Jul 2026 21:05:41 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
+   "id": "26a5d61a-86ce-11f1-8ed6-9ff0d63a8f90",
+   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
+   "showTitle": "Blurry Creatures",
+   "title": "EP: 447 Real Life Miracles and the Voice of God with Ryan Bethea and Abby Robertson *members only trailer",
+   "summary": "She saw the tumor months before the diagnosis. While praying over her seemingly healthy mother, Abby Robertson had a vision so disturbing she could not bring herself to write it down. Two to three months later, her mother was diagnosed with pancreatic cancer, already spreading and beyond surgery. Abby prayed with a certainty she had never felt, convinced God had prepared her to witness a healing. What happened next sent her searching for answers she is still looking for. In this episode, she and Ryan Bethea of The Exorcist Files sit down with Nate and Luke to talk about what it actually means ",
+   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW2264671278.mp3",
+   "published": "Thu, 23 Jul 2026 21:01:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A devotional talk on hope centered on Jesus Christ, offering spiritual encouragement.",
+   "reason": "A testimony of faith and healing that raises questions about belief and suffering.",
    "tradition": "Christian"
   }
  ],
