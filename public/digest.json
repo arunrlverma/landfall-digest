@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-07-29T09:05:03.626563+00:00",
+ "generatedAt": "2026-07-29T10:57:31.529395+00:00",
  "showsScanned": 400,
- "candidates": 58,
+ "candidates": 59,
  "picks": [
   {
    "id": "4cce45d0-8650-11f1-bfef-b3259654b6b2",
@@ -14,7 +14,7 @@
    "published": "Thu, 23 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuroscientist and meditation teacher discuss consciousness and ethics deeply.",
+   "reason": "Neuroscientist and meditation teacher discuss consciousness, ethics, and self.",
    "tradition": "Secular"
   },
   {
@@ -27,34 +27,21 @@
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores sacred African spiritual tradition and consciousness through ibogaine.",
+   "reason": "Explores sacred spiritual tradition and consciousness through iboga in Bwiti practice.",
    "tradition": "Indigenous"
   },
   {
-   "id": "afcaa99a-891a-11f1-a74c-8f895663a341",
-   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
-   "showTitle": "Live Free with Josh Howerton",
-   "title": "Can a Christian LOSE Their Salvation? | Live Free with Josh Howerton",
-   "summary": "Can a Christian lose their salvation? What does the Bible actually teach about eternal security, perseverance, and genuine saving faith?\n\nIn this episode of LIVE FREE, Pastors Josh Howerton, Paul Cunningham, and Carlos Erazo tackle one of Christianity's most debated questions by walking through Scripture—not opinions. Together they examine John 10, Romans 8, Hebrews 6, Hebrews 10, James 5, and other key passages to explain the difference between genuine faith and superficial belief, why difficult warning passages matter, and how believers can have true assurance in Christ.\n\nIf you've ever stru",
-   "audioURL": "https://traffic.megaphone.fm/HAEEH1968614045.mp3",
-   "published": "Mon, 27 Jul 2026 05:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
+   "id": "https://api.spreaker.com/episode/72907678",
+   "showID": "https://www.spreaker.com/show/4858435/episodes/feed",
+   "showTitle": "Next Level Soul Podcast with Alex Ferrari",
+   "title": "How to Access Different Realms of Reality with Ibrahim Karim",
+   "summary": "FLASHBACK FRIDAYS: Ibrahim Karim explores multi-dimensional time and perception, revealing how ancient humans accessed a broader reality through balanced brain function, while modern perception is limited to sensory input. He discusses the role of life force in technology, the integration of AI with natural systems for harmony, and the wisdom needed to live a fulfilled life through understanding, balance, and respect for all beings.Become a supporter of this podcast: https://www.spreaker.com/podcast/next-level-soul-podcast-with-alex-ferrari--4858435/support.Take your spiritual journey to the n",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/72907678/24e3f440_8538_45d6_80c9_9f79b60b7730.mp3",
+   "published": "Fri, 24 Jul 2026 11:30:02 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines Christian scripture on salvation, faith, and doubt in depth.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "ff826d3e-8211-11f1-ab7c-674ce22d4f2d",
-   "showID": "https://feeds.megaphone.fm/TSF6225871961",
-   "showTitle": "No Small Endeavor with Lee C. Camp",
-   "title": "The Subtext: Deconstructing Christianity",
-   "summary": "What happens when a retired theology professor walks into a party full of deconstructing twenty-somethings? It sounds like the start of a joke. But really. How do we show up for ourselves and the people we love when doubt and deconstruction enter the chat?\n\nThis week on The Subtext, Lee and Savannah discuss one of the more defining conversations of modern faith: deconstruction. Whether you're asking big questions yourself or walking alongside someone who is, this episode is an invitation to keep showing up with curiosity, compassion, and hope.\n\n\n\nThings we mentioned in this episode:\n\nOf Gramma",
-   "audioURL": "https://mgln.ai/e/51/pscrb.fm/rss/p/tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/traffic.megaphone.fm/TSF4979298415.mp3",
-   "published": "Wed, 29 Jul 2026 09:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Engages seriously with faith deconstruction and doubt in modern Christianity.",
-   "tradition": "Christian"
+   "reason": "Explores ancient and modern views on consciousness, reality, and life wisdom.",
+   "tradition": "Interfaith"
   },
   {
    "id": "4dfbd69d-1ed2-4d5d-b1cd-16df24999412",
@@ -66,7 +53,7 @@
    "published": "Wed, 22 Jul 2026 11:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/be/97/3cbe97fb-f542-6271-7c4f-c986b5f4c51f/mza_8932915024380387774.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Connects ancient wisdom and psychology on love and interconnectedness.",
+   "reason": "Connects ancient wisdom and psychology to meaning and human maturity.",
    "tradition": "Interfaith"
   },
   {
@@ -79,7 +66,7 @@
    "published": "Tue, 28 Jul 2026 09:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses discernment, brotherhood, and scriptural ethics beyond public callouts.",
+   "reason": "Discusses discernment culture and scriptural ethics beyond surface-level callouts.",
    "tradition": "Christian"
   },
   {
@@ -92,21 +79,8 @@
    "published": "Fri, 24 Jul 2026 18:00:03 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former nun reflects on faith, obedience, and leaving monastic life.",
+   "reason": "Former nun reflects on faith, obedience, and rebellion in monastic life.",
    "tradition": "Christian"
-  },
-  {
-   "id": "3f5c5edc-7cd7-11f1-82c5-772edae009ee",
-   "showID": "https://feeds.megaphone.fm/TSF6225871961",
-   "showTitle": "No Small Endeavor with Lee C. Camp",
-   "title": "271: Unabridged Interview: Lee Warren",
-   "summary": "This is our unabridged interview with W. Lee Warren.\n\n\n\nCan you change your brain? The anxious tendencies, the recurring grief, the patterns of rumination? Our guest today says you can.\n\nDr. W. Lee Warren is a neurosurgeon and Iraq War veteran who performed 200 brain surgeries in a tent hospital during the war, came home carrying PTSD he wouldn't name for years, and later lost his 19-year-old son to murder. His book, The Life-Changing Art of Self-Brain Surgery, argues that the mind can reshape the very brain it thinks through, and that no grief, trauma, or lifelong pattern gets the final word ",
-   "audioURL": "https://mgln.ai/e/51/pscrb.fm/rss/p/tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/traffic.megaphone.fm/TSF5495445608.mp3",
-   "published": "Fri, 24 Jul 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A neurosurgeon discusses trauma, grief, and reshaping the mind after profound loss.",
-   "tradition": "Secular"
   },
   {
    "id": "80f877b2-86bf-11f1-b26c-d7298b194531",
@@ -118,21 +92,34 @@
    "published": "Thu, 23 Jul 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/7c/46/a8/7c46a888-21dd-c3ee-8dc8-10820f0b0ae2/mza_17626472455948222894.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses imposter syndrome as a spiritual fear rooted in identity and relationship with Christ.",
+   "reason": "Discusses imposter syndrome as a spiritual problem rooted in identity and faith.",
    "tradition": "Christian"
   },
   {
-   "id": "26a5d61a-86ce-11f1-8ed6-9ff0d63a8f90",
-   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
-   "showTitle": "Blurry Creatures",
-   "title": "EP: 447 Real Life Miracles and the Voice of God with Ryan Bethea and Abby Robertson *members only trailer",
-   "summary": "She saw the tumor months before the diagnosis. While praying over her seemingly healthy mother, Abby Robertson had a vision so disturbing she could not bring herself to write it down. Two to three months later, her mother was diagnosed with pancreatic cancer, already spreading and beyond surgery. Abby prayed with a certainty she had never felt, convinced God had prepared her to witness a healing. What happened next sent her searching for answers she is still looking for. In this episode, she and Ryan Bethea of The Exorcist Files sit down with Nate and Luke to talk about what it actually means ",
-   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW2264671278.mp3",
-   "published": "Thu, 23 Jul 2026 21:01:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "id": "https://api.spreaker.com/episode/73026972",
+   "showID": "https://www.spreaker.com/show/4858435/episodes/feed",
+   "showTitle": "Next Level Soul Podcast with Alex Ferrari",
+   "title": "Muslim Woman Meets Jesus in NDE with Rev. Honi Borden",
+   "summary": "BONUS MONDAYS: Rev. Honi Borden is an International Inspirational figure that assists Humanity to Its Divinity through Embodied InScension. She was consecrated by the 1st Ray of Light under the direct Guidance & Teachings of Master ElMorya of the Blue Flame Temple and the Seven Sacred Flame Temples, to embody her I AM Presence.She is a TransMedium TransChanneler, Light Language Speaker, Teacher, Activator, Transmitter of Living Krystalline Diamond Codes of Light, Ascension Alchemist, and a Messenger of The Light from the Other Side. As a Planetary Grid Activator of Kryst Consciousness, she act",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73026972/bonus_mondays_honi_borden.mp3",
+   "published": "Mon, 27 Jul 2026 11:30:02 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A firsthand account of faith, suffering, and searching for meaning after a cancer diagnosis.",
-   "tradition": "Christian"
+   "reason": "Shares a near-death experience crossing Muslim and Christian spiritual themes.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "b3957214-8030-11f1-ae52-efc6b47c35da",
+   "showID": "https://feeds.megaphone.fm/SGP8517078272",
+   "showTitle": "Get Sleepy: Sleep meditation and stories",
+   "title": "The Infinite Loop",
+   "summary": "Narrator: Thomas Jones 🇬🇧\n\nWriter: Dee Ahmed ✍️\n\n\n\nWelcome back, sleepyheads. Tonight's episode is something of a hybrid between a plotless story and a meditation. It's sure to lead you into a deep, nourishing night's sleep. 😴\n\nIncludes mentions of: Mindfulness, Little to No Plot.\n\n\n\nTo receive our FREE weekly newsletter:&nbsp;⁠JOIN OUR MAILING LIST⁠\n\n\n\nGet Sleepy Premium\n\nListen completely ad-free and access our entire catalogue of stories and meditations by subscribing to our ⁠⁠⁠⁠⁠⁠⁠premium feed.⁠⁠⁠⁠⁠⁠⁠\n\nYour support means the world to us and makes it possible to keep the show running! ❤️ \n\n",
+   "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/SGP9697523728.mp3",
+   "published": "Wed, 22 Jul 2026 16:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A meditation-story hybrid designed to induce sleep and mindfulness.",
+   "tradition": "Secular"
   },
   {
    "id": "b5f2faf5-1e6b-4321-9bfc-844c3f67157b",
@@ -144,8 +131,21 @@
    "published": "Wed, 29 Jul 2026 06:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/17/cb/7117cb69-9b97-b595-8635-f03a159856ca/mza_7631777769249125333.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses afterlife and spiritual guides with a paranormal focus.",
+   "reason": "Discusses afterlife and spiritual guides with psychic and medium perspectives.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "40c945e0-a5b6-4a42-b345-43c205b319aa",
+   "showID": "https://anchor.fm/s/104e3eb08/podcast/rss",
+   "showTitle": "Boring History for Sleep",
+   "title": "When Did Humans Start Smoking? 🚬🔥 | The Ancient Origins of Tobacco and Sacred Smoke | Boring History For Sleep",
+   "summary": "Long before cigarettes and tobacco became global commodities, ancient peoples around the world used smoke in rituals, medicine, and daily life. Archaeological discoveries reveal that humans have been smoking plants for thousands of years, often believing the rising smoke carried prayers to the gods or connected them with the spirit world.From the earliest evidence of tobacco use in the Americas to sacred ceremonies, ancient pipes, and the global spread of smoking after the Age of Exploration, this is the remarkable story of one of humanity's oldest traditions.A calm journey through prehistoric",
+   "audioURL": "https://traffic.megaphone.fm/APO2056692022.mp3",
+   "published": "Sat, 25 Jul 2026 01:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/a6/37/62a63720-ae50-b8c6-6282-b62a41e54588/mza_4071962011418281551.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Examines ancient smoking rituals linking to spirit world and prayer.",
+   "tradition": "Indigenous"
   },
   {
    "id": "6ae14f5d-aec8-459d-9a78-223fc2f773f8",
@@ -157,8 +157,47 @@
    "published": "Wed, 29 Jul 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Compares prophetic messages about faithfulness and consolation in Israel's history.",
+   "reason": "Biblical comparison of prophetic messages with focus on speaking God's word.",
    "tradition": "Christian"
+  },
+  {
+   "id": "26a5d61a-86ce-11f1-8ed6-9ff0d63a8f90",
+   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
+   "showTitle": "Blurry Creatures",
+   "title": "EP: 447 Real Life Miracles and the Voice of God with Ryan Bethea and Abby Robertson *members only trailer",
+   "summary": "She saw the tumor months before the diagnosis. While praying over her seemingly healthy mother, Abby Robertson had a vision so disturbing she could not bring herself to write it down. Two to three months later, her mother was diagnosed with pancreatic cancer, already spreading and beyond surgery. Abby prayed with a certainty she had never felt, convinced God had prepared her to witness a healing. What happened next sent her searching for answers she is still looking for. In this episode, she and Ryan Bethea of The Exorcist Files sit down with Nate and Luke to talk about what it actually means ",
+   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW2264671278.mp3",
+   "published": "Thu, 23 Jul 2026 21:01:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "A narrative about prayer, visions, and seeking meaning amid suffering.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "04002afc-c812-4fe2-8e52-b4950159f736",
+   "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
+   "showTitle": "BYU Speeches",
+   "title": "The Need for Greater Hope | Jamal Willis | July 2026",
+   "summary": "“We must never forget who our greatest hope giver is, and that is our Savior Jesus Christ.” Jamal Willis, Assistant Director of Student Wellness at Brigham Young University, delivered this devotional address on July 28, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/04002afc-c812-4fe2-8e52-b4950159f736/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
+   "published": "Tue, 28 Jul 2026 21:05:41 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "A devotional talk emphasizing hope in Jesus Christ.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "db55066a-726c-4d28-b875-b49500a0eebb",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "Ouija Boards - Best of Coast to Coast AM - 7/27/26",
+   "summary": "George Noory and Karen Dahlman discuss the myths and facts about Ouija boards, whether they are truly tools to allow people to communicate with the spirits of the dead, and how to expand your consciousness to be more receptive to messages coming from the other side.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/db55066a-726c-4d28-b875-b49500a0eebb/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Tue, 28 Jul 2026 09:52:44 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses Ouija boards and consciousness but mostly paranormal and speculative.",
+   "tradition": "Secular"
   },
   {
    "id": "gid://art19-episode-locator/V0/CPnv2bslwb-B-6UVFNn0Puk9aFNi5IH4JoicwgcrUOg",
@@ -170,7 +209,7 @@
    "published": "Thu, 23 Jul 2026 04:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/85/46/0b/85460b87-87da-a462-1d27-1f8bfd738d40/mza_17424257385107162398.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Philosophical discussion on consciousness and psychokinesis with speculative elements.",
+   "reason": "Philosophical and speculative discussion on consciousness and psychokinesis.",
    "tradition": "Secular"
   }
  ],
@@ -232,6 +271,12 @@
   "b6f220bd-39e1-43b3-8adc-049ebe44f0ec": "2026-07-29",
   "b5f2faf5-1e6b-4321-9bfc-844c3f67157b": "2026-07-29",
   "ff826d3e-8211-11f1-ab7c-674ce22d4f2d": "2026-07-29",
-  "6ae14f5d-aec8-459d-9a78-223fc2f773f8": "2026-07-29"
+  "6ae14f5d-aec8-459d-9a78-223fc2f773f8": "2026-07-29",
+  "https://api.spreaker.com/episode/72907678": "2026-07-29",
+  "https://api.spreaker.com/episode/73026972": "2026-07-29",
+  "b3957214-8030-11f1-ae52-efc6b47c35da": "2026-07-29",
+  "40c945e0-a5b6-4a42-b345-43c205b319aa": "2026-07-29",
+  "04002afc-c812-4fe2-8e52-b4950159f736": "2026-07-29",
+  "db55066a-726c-4d28-b875-b49500a0eebb": "2026-07-29"
  }
 }
