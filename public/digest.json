@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-07-29T18:27:26.587313+00:00",
+ "generatedAt": "2026-07-29T19:33:51.281731+00:00",
  "showsScanned": 400,
- "candidates": 58,
+ "candidates": 59,
  "picks": [
   {
    "id": "4cce45d0-8650-11f1-bfef-b3259654b6b2",
@@ -14,21 +14,8 @@
    "published": "Thu, 23 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuroscientist meditator discusses consciousness, ethics, and meditation's transformative power.",
+   "reason": "Deep conversation on meditation, consciousness, and ethics with neuroscientist.",
    "tradition": "Secular"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
-   "showID": "https://rss.art19.com/the-telepathy-tapes",
-   "showTitle": "The Telepathy Tapes",
-   "title": "S2E41: Ibogaine Inquiries Part III: The Sacred Roots of Iboga",
-   "summary": "Long before ibogaine entered Western clinics and laboratories, the plant it comes from held a sacred place in Gabonese life. In Part III of Ibogaine Inquiries, we travel to Gabon to explore Bwiti, the spiritual tradition in which iboga is understood as a teacher, guide, and living presence.Gabonese practitioners and Bwiti initiates describe the preparation, community, music, mentorship, and lifelong practice that surround the medicine. They explain why Iboga cannot be separated from the larger body of knowledge developed around it. As Western interest continues to grow, this episode asks what ",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/fd973b3b-9b1d-40e3-b289-b01d4e52675f.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Mon, 27 Jul 2026 07:03:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Explores sacred indigenous spiritual tradition and consciousness with iboga.",
-   "tradition": "Indigenous"
   },
   {
    "id": "ff826d3e-8211-11f1-ab7c-674ce22d4f2d",
@@ -40,7 +27,7 @@
    "published": "Wed, 29 Jul 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "A serious conversation about faith deconstruction and doubt in modern Christianity.",
+   "reason": "Engages seriously with faith deconstruction and doubt in modern Christianity.",
    "tradition": "Christian"
   },
   {
@@ -66,8 +53,21 @@
    "published": "Fri, 24 Jul 2026 18:00:03 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former nun reflects on faith, obedience, and rebellion in monastic life.",
+   "reason": "A former nun reflects on faith, obedience, and leaving religious life.",
    "tradition": "Christian"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
+   "showID": "https://rss.art19.com/the-telepathy-tapes",
+   "showTitle": "The Telepathy Tapes",
+   "title": "S2E41: Ibogaine Inquiries Part III: The Sacred Roots of Iboga",
+   "summary": "Long before ibogaine entered Western clinics and laboratories, the plant it comes from held a sacred place in Gabonese life. In Part III of Ibogaine Inquiries, we travel to Gabon to explore Bwiti, the spiritual tradition in which iboga is understood as a teacher, guide, and living presence.Gabonese practitioners and Bwiti initiates describe the preparation, community, music, mentorship, and lifelong practice that surround the medicine. They explain why Iboga cannot be separated from the larger body of knowledge developed around it. As Western interest continues to grow, this episode asks what ",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/fd973b3b-9b1d-40e3-b289-b01d4e52675f.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Mon, 27 Jul 2026 07:03:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores indigenous spiritual tradition and sacred use of iboga in Gabonese culture.",
+   "tradition": "Indigenous"
   },
   {
    "id": "3f5c5edc-7cd7-11f1-82c5-772edae009ee",
@@ -79,8 +79,21 @@
    "published": "Fri, 24 Jul 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "A neurosurgeon discusses trauma, grief, and brain plasticity with ethical and existential depth.",
+   "reason": "A neurosurgeon discusses trauma, grief, and reshaping the mind after suffering.",
    "tradition": "Secular"
+  },
+  {
+   "id": "80f877b2-86bf-11f1-b26c-d7298b194531",
+   "showID": "https://feeds.megaphone.fm/fearlesswithjasonwhitlock",
+   "showTitle": "Fearless with Jason Whitlock",
+   "title": "Michelle Obama Says White Men Don't Feel Like Frauds. Here's the Truth | Jason Whitlock Harmony",
+   "summary": "Michelle Obama says she has never met a white man who has felt imposter syndrome — that only black people seem to carry that weight. Jason Whitlock says she is describing something real but diagnosing it all wrong. Imposter syndrome isn't a white problem or a black problem. It's a spiritual one. It's a fear carried by men and women wearing a résumé — the ache of anyone whose identity is built on human approval instead of a relationship with Christ. From Moses at the burning bush to the apostle Paul, Whitlock unpacks why DEI, affirmation, and \"more representation\" can't cure it — and why only k",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pfx.vpixl.com/4V6da/arttrk.com/p/BLZM1/verifi.podscribe.com/rss/p/mgln.ai/e/285/pscrb.fm/rss/p/prfx.byspotify.com/e/claritaspod.com/measure/traffic.megaphone.fm/BMDC2047812334.mp3",
+   "published": "Thu, 23 Jul 2026 21:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/7c/46/a8/7c46a888-21dd-c3ee-8dc8-10820f0b0ae2/mza_17626472455948222894.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Discusses spiritual fear and identity through a Christian lens with biblical references.",
+   "tradition": "Christian"
   },
   {
    "id": "26a5d61a-86ce-11f1-8ed6-9ff0d63a8f90",
@@ -92,21 +105,21 @@
    "published": "Thu, 23 Jul 2026 21:01:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A firsthand account of faith, suffering, and searching for meaning through a healing experience.",
+   "reason": "A serious conversation about faith, visions, suffering, and searching for meaning.",
    "tradition": "Christian"
   },
   {
-   "id": "80f877b2-86bf-11f1-b26c-d7298b194531",
-   "showID": "https://feeds.megaphone.fm/fearlesswithjasonwhitlock",
-   "showTitle": "Fearless with Jason Whitlock",
-   "title": "Michelle Obama Says White Men Don't Feel Like Frauds. Here's the Truth | Jason Whitlock Harmony",
-   "summary": "Michelle Obama says she has never met a white man who has felt imposter syndrome — that only black people seem to carry that weight. Jason Whitlock says she is describing something real but diagnosing it all wrong. Imposter syndrome isn't a white problem or a black problem. It's a spiritual one. It's a fear carried by men and women wearing a résumé — the ache of anyone whose identity is built on human approval instead of a relationship with Christ. From Moses at the burning bush to the apostle Paul, Whitlock unpacks why DEI, affirmation, and \"more representation\" can't cure it — and why only k",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pfx.vpixl.com/4V6da/arttrk.com/p/BLZM1/verifi.podscribe.com/rss/p/mgln.ai/e/285/pscrb.fm/rss/p/prfx.byspotify.com/e/claritaspod.com/measure/traffic.megaphone.fm/BMDC2047812334.mp3",
-   "published": "Thu, 23 Jul 2026 21:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/7c/46/a8/7c46a888-21dd-c3ee-8dc8-10820f0b0ae2/mza_17626472455948222894.jpg/600x600bb.jpg",
+   "id": "gid://art19-episode-locator/V0/CPnv2bslwb-B-6UVFNn0Puk9aFNi5IH4JoicwgcrUOg",
+   "showID": "https://rss.pdrl.fm/59663c/rss.art19.com/uap-unidentified-alien-podcast",
+   "showTitle": "UAP Unidentified Alien Podcast",
+   "title": "UAP EP 217 An Introduction to Macro Psychokinesis & How it Could Explain Everything",
+   "summary": "Beings described as lighter than air. UFOs defying the known laws of physics. The mysteries behind our own consciousness abilities. These are some of the things that are discussed as Stephen Diener brings on Yale trained philosopher and author, Christopher Noel. How does something known as Macro Psychokinesis play a role in all of this and the possible changing of matter itself? Sit down and strap in for this one...See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.]]>",
+   "audioURL": "https://mgln.ai/e/345/pscrb.fm/rss/p/pdrl.fm/59663c/rss.art19.com/episodes/7a396d62-b09e-4cb9-ad52-29275fa88406.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Thu, 23 Jul 2026 04:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/85/46/0b/85460b87-87da-a462-1d27-1f8bfd738d40/mza_17424257385107162398.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses imposter syndrome as a spiritual fear rooted in identity and faith.",
-   "tradition": "Christian"
+   "reason": "Philosophical discussion on consciousness and psychokinesis with metaphysical implications.",
+   "tradition": "Secular"
   },
   {
    "id": "b5f2faf5-1e6b-4321-9bfc-844c3f67157b",
@@ -131,20 +144,59 @@
    "published": "Wed, 29 Jul 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Compares prophetic messages with some spiritual insight but mostly biblical study.",
+   "reason": "Compares prophetic messages about faith and judgment, mostly biblical study.",
    "tradition": "Christian"
   },
   {
-   "id": "gid://art19-episode-locator/V0/CPnv2bslwb-B-6UVFNn0Puk9aFNi5IH4JoicwgcrUOg",
-   "showID": "https://rss.pdrl.fm/59663c/rss.art19.com/uap-unidentified-alien-podcast",
-   "showTitle": "UAP Unidentified Alien Podcast",
-   "title": "UAP EP 217 An Introduction to Macro Psychokinesis & How it Could Explain Everything",
-   "summary": "Beings described as lighter than air. UFOs defying the known laws of physics. The mysteries behind our own consciousness abilities. These are some of the things that are discussed as Stephen Diener brings on Yale trained philosopher and author, Christopher Noel. How does something known as Macro Psychokinesis play a role in all of this and the possible changing of matter itself? Sit down and strap in for this one...See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.]]>",
-   "audioURL": "https://mgln.ai/e/345/pscrb.fm/rss/p/pdrl.fm/59663c/rss.art19.com/episodes/7a396d62-b09e-4cb9-ad52-29275fa88406.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Thu, 23 Jul 2026 04:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/85/46/0b/85460b87-87da-a462-1d27-1f8bfd738d40/mza_17424257385107162398.jpeg/600x600bb.jpg",
+   "id": "04002afc-c812-4fe2-8e52-b4950159f736",
+   "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
+   "showTitle": "BYU Speeches",
+   "title": "The Need for Greater Hope | Jamal Willis | July 2026",
+   "summary": "“We must never forget who our greatest hope giver is, and that is our Savior Jesus Christ.” Jamal Willis, Assistant Director of Student Wellness at Brigham Young University, delivered this devotional address on July 28, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/04002afc-c812-4fe2-8e52-b4950159f736/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
+   "published": "Tue, 28 Jul 2026 21:05:41 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Philosophical discussion on consciousness and psychokinesis with speculative elements.",
+   "reason": "A devotional talk focusing on hope and faith in Jesus Christ.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "https://blubrry.com/the_world_and_everything_in_it/154457686/72326-preserving-americas-past-educational-value-the-trade-in-trap-and-writing-arthurian-poetry/",
+   "showID": "https://feeds.blubrry.com/feeds/the_world_and_everything_in_it.xml",
+   "showTitle": "The World and Everything In It",
+   "title": "7.23.26 Preserving America’s past, educational value, the trade-in trap, and writing Arthurian poetry",
+   "summary": "Mission drift, the wrong measure, the trade-in trap—and a little fresh-squeezed freedom. Plus, Malcolm Guite on writing poetry one walk at a time, Daniel Suhr on election integrity, and the Thursday morning newsSupport The World and Everything in It today at wng.org/donateAdditional support comes from Ambassadors Impact Network. Christian entrepreneurs scaling their companies often struggle to find capital sources that respect, and even celebrate, their redemptive mission. Ambassadors Impact Network connects these founders with angel investors seeking both financial outcomes and spiritual frui",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/p.podderapp.com/1696013160/media.blubrry.com/the_world_and_everything_in_it/ins.blubrry.com/the_world_and_everything_in_it/TWAEII-2026-07-23-3546-72326-Preserving-Americas.mp3",
+   "published": "Thu, 23 Jul 2026 03:05:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Cultural and political topics with some poetry and reflections on mission and integrity.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "db55066a-726c-4d28-b875-b49500a0eebb",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "Ouija Boards - Best of Coast to Coast AM - 7/27/26",
+   "summary": "George Noory and Karen Dahlman discuss the myths and facts about Ouija boards, whether they are truly tools to allow people to communicate with the spirits of the dead, and how to expand your consciousness to be more receptive to messages coming from the other side.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/db55066a-726c-4d28-b875-b49500a0eebb/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Tue, 28 Jul 2026 09:52:44 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses consciousness and spirit communication but framed in paranormal context.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "32c281b4-87af-11f1-8396-9fd8724b106e",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "CAMILA MENDES: \"Perfectionism Was Ruining My Life\"",
+   "summary": "Actress and producer Camila Mendes joins Jay for an honest conversation about the hidden cost of perfectionism, the pressure behind success, and what it took to finally choose herself. Camila opens up about the breaking point that forced her to confront old wounds, heal her relationship with food, reconnect with her Brazilian identity, and redefine what spirituality, self-worth, and love really mean.\n\nTogether, they explore why chasing perfection often leaves us feeling empty, how slowing down can become the greatest act of self-respect, and why true confidence isn't about having everything fi",
+   "audioURL": "https://traffic.megaphone.fm/GLT6229573348.mp3",
+   "published": "Mon, 27 Jul 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ef/9e/1f/ef9e1fa1-a331-0023-f45a-aa95f16d1b20/mza_2011943239364279494.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Personal growth and spirituality discussed with some depth on self-worth and healing.",
    "tradition": "Secular"
   }
  ],
@@ -212,6 +264,7 @@
   "b3957214-8030-11f1-ae52-efc6b47c35da": "2026-07-29",
   "40c945e0-a5b6-4a42-b345-43c205b319aa": "2026-07-29",
   "04002afc-c812-4fe2-8e52-b4950159f736": "2026-07-29",
-  "db55066a-726c-4d28-b875-b49500a0eebb": "2026-07-29"
+  "db55066a-726c-4d28-b875-b49500a0eebb": "2026-07-29",
+  "https://blubrry.com/the_world_and_everything_in_it/154457686/72326-preserving-americas-past-educational-value-the-trade-in-trap-and-writing-arthurian-poetry/": "2026-07-29"
  }
 }
