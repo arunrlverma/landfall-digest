@@ -1,22 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-07-30T09:02:45.096923+00:00",
+ "generatedAt": "2026-07-30T10:48:31.062850+00:00",
  "showsScanned": 400,
- "candidates": 57,
+ "candidates": 56,
  "picks": [
-  {
-   "id": "f52625c2-8128-11f1-9cc0-134318ed3fc7",
-   "showID": "https://feeds.megaphone.fm/TPG1652050293",
-   "showTitle": "With and For hosted by Dr. Pam King",
-   "title": "Get really honest, with Elizabeth Oldfield",
-   "summary": "True vulnerability is a critical first step towards becoming fully alive. But it can be incredibly confronting to know how to get really honest with yourself. In this episode we have a practice centred around consolations and desolations, inviting you to review your day and answer honestly: when was I moving towards connection, and when was I moving away?\n\n Elizabeth Oldfield is a writer, coach and host of the podcast The Sacred, who has dedicated her work to exploring clarity, courage and most of all, connection. Join Pam on Substack, where we’ll be sharing and asking you: where did you turn ",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/51/tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/pscrb.fm/rss/p/traffic.megaphone.fm/TPG6463766745.mp3",
-   "published": "Mon, 27 Jul 2026 09:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores vulnerability and honest self-reflection as a path to being fully alive.",
-   "tradition": "Interfaith"
-  },
   {
    "id": "gid://art19-episode-locator/V0/BR8ODfHt4mNADpPN1llNbDLQUDLGs_QYFX_FcW1A6lo",
    "showID": "https://rss.art19.com/the-telepathy-tapes",
@@ -27,8 +14,8 @@
    "published": "Fri, 24 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores psychedelic experiences and consciousness from scientific and psychological views.",
-   "tradition": "Secular"
+   "reason": "Explores psychedelic experiences and consciousness with scientific and spiritual perspectives.",
+   "tradition": "Interfaith"
   },
   {
    "id": "tag:soundcloud,2010:tracks/2367787106",
@@ -40,7 +27,7 @@
    "published": "Sun, 26 Jul 2026 22:00:56 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Studies Esther's story emphasizing faith, courage, and divine providence.",
+   "reason": "Studies Esther's story of faith and courage, reflecting on divine providence and hope.",
    "tradition": "Christian"
   },
   {
@@ -53,8 +40,47 @@
    "published": "Sun, 26 Jul 2026 22:58:15 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A Christian pastor contrasts faith and surrender with achievement for eternal life.",
+   "reason": "Contrasts faith and surrender with achievement in receiving God's Kingdom.",
    "tradition": "Christian"
+  },
+  {
+   "id": "f52625c2-8128-11f1-9cc0-134318ed3fc7",
+   "showID": "https://feeds.megaphone.fm/TPG1652050293",
+   "showTitle": "With and For hosted by Dr. Pam King",
+   "title": "Get really honest, with Elizabeth Oldfield",
+   "summary": "True vulnerability is a critical first step towards becoming fully alive. But it can be incredibly confronting to know how to get really honest with yourself. In this episode we have a practice centred around consolations and desolations, inviting you to review your day and answer honestly: when was I moving towards connection, and when was I moving away?\n\n Elizabeth Oldfield is a writer, coach and host of the podcast The Sacred, who has dedicated her work to exploring clarity, courage and most of all, connection. Join Pam on Substack, where we’ll be sharing and asking you: where did you turn ",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/51/tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/pscrb.fm/rss/p/traffic.megaphone.fm/TPG6463766745.mp3",
+   "published": "Mon, 27 Jul 2026 09:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A practice on honest self-reflection about connection and disconnection in daily life.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "unshaken.podbean.com/167b261f-6003-3f99-a371-a85d26cb43f9",
+   "showID": "https://feed.podbean.com/unshaken/feed.xml",
+   "showTitle": "Unshaken Saints",
+   "title": "Ezra and Nehemiah - Rebuilding the Broken",
+   "summary": "When the Babylonian captivity finally ended, the returning remnant didn't find a pristine Promised Land—they found cracked foundations, burned gates, and a pile of rubble. If your faith, your marriage, or your sense of identity currently feels like a collection of broken stones, Ezra and Nehemiah provide the ultimate masterclass on how to reconstruct what has been destroyed.\nSummary: In this powerful episode, we delve into the twin narratives of Ezra and Nehemiah, books that historically stood as a single text detailing the painful, beautiful work of restoration. We map this journey onto the p",
+   "audioURL": "https://mcdn.podbean.com/mf/web/hgrn3mpaksddvuz8/Ezra-Nehemiah_full_audio_enhancedbaeff.mp3",
+   "published": "Wed, 29 Jul 2026 16:13:01 -0600",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Biblical narrative on rebuilding faith and identity after devastation.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/jArSfBRLOvIBFJQSs5KE6YQc93R2VlRYavpT8dnjOtI",
+   "showID": "https://rss.art19.com/this-is-actually-happening-podcast",
+   "showTitle": "This Is Actually Happening",
+   "title": "418: AI: A New Kind of Being Bonus Episode: A Conversation with Valerie Sizemore of StopAI",
+   "summary": "In this special episode, Whit joins Valerie Sizemore, co-leader of the grassroots organization StopAI, for a wide-ranging conversation about the growing influence of artificial intelligence and the risks they believe it poses to human life and society. Drawing on more than fifteen years of engagement with AI, Valerie explores concerns ranging from environmental impact, autonomous warfare, biosecurity, education, and the erosion of human skills and creativity to the increasingly intimate role AI plays in our relationships, psychology, and spirituality. They also discuss the possibility of incre",
+   "audioURL": "https://rss.art19.com/episodes/e7cb9b58-483a-4dc2-8159-81173007c406.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Thu, 30 Jul 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A critical conversation on AI's impact on human life and society, raising ethical concerns.",
+   "tradition": "Secular"
   },
   {
    "id": "6a4fb7a81c8f5a97d8caddcb",
@@ -66,21 +92,21 @@
    "published": "Sun, 26 Jul 2026 06:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "A thoughtful conversation on meaning, happiness, and existential questions in life.",
+   "reason": "A thoughtful conversation on meaning and happiness through philosophy and spirituality.",
    "tradition": "Interfaith"
   },
   {
-   "id": "5d06b880-89cd-11f1-ad93-f36a49c4fd98",
-   "showID": "https://feeds.megaphone.fm/YTYIE3550500328",
-   "showTitle": "The Jeremy Boreing Show",
-   "title": "Tucker's Demons, Vance's Failure, and America's Spiritual War | Ep. 46 w/ Rod Dreher",
-   "summary": "Jeremy Boreing sits down with author and cultural critic Rod Dreher for a nearly two-hour conversation about his forthcoming book, Weimar America — and the argument that the same illiberal spirit Dreher once diagnosed on the left is now rising on the right.\n\nDreher’s 2020 bestseller Live Not by Lies described wokeness as a form of soft totalitarianism, drawing on the testimony of Christians who had survived Soviet communism. Five years later, after a long stint living in Viktor Orban’s Hungary, he returned to America convinced that the warning signs of a pre-totalitarian society — what Hannah ",
-   "audioURL": "https://traffic.megaphone.fm/YTYIE1649304721.mp3",
-   "published": "Mon, 27 Jul 2026 15:10:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/f7/b3/4bf7b3d3-814e-e815-932d-cf11d4836dd6/mza_7969612942427696765.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores cultural and spiritual crises with a Christian perspective on societal ethics.",
-   "tradition": "Christian"
+   "id": "f5e88606-8724-11f1-b8bc-c79ddec03836",
+   "showID": "https://rss.introcast.io/1368888880/feeds.megaphone.fm/yap",
+   "showTitle": "Young and Profiting with Hala Taha (Entrepreneurship, Sales, Marketing)",
+   "title": "Ryan Holiday: Think Like a Stoic, Timeless Leadership Principles for Modern Entrepreneurs | Leadership | YAPClassic",
+   "summary": "Ryan Holiday's approach to leadership was shaped through patience and years of unglamorous work. After dropping out of college at 19, he apprenticed under bestselling author Robert Greene, learning writing, research, persuasion, and human nature before becoming the marketing director of American Apparel at just 21. Those experiences laid the foundation for his rise as a bestselling author and one of the world's leading voices on Stoicism. In this episode, Ryan shares how Stoicism can help entrepreneurs strengthen leadership skills, sharpen decision-making, and maintain a resilient mindset duri",
+   "audioURL": "https://prefix.up.audio/s/www.podtrac.com/pts/redirect.mp3/pdst.fm/e/s.gum.fm/s-6138e37f42bdd982ed0db66a/pscrb.fm/rss/p/cohst.app/pdcst/4B3Z7X/mgln.ai/e/697/traffic.megaphone.fm/YAP4863594186.mp3",
+   "published": "Fri, 24 Jul 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses Stoic leadership principles, touching on ethics and inner life.",
+   "tradition": "Stoic"
   },
   {
    "id": "8cd0311c-878a-11f1-992f-23b420a89153",
@@ -92,21 +118,34 @@
    "published": "Fri, 24 Jul 2026 18:06:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/1f/9c/1a1f9c6d-67fd-0e33-cdf3-4b62617ea9a6/mza_9226157347267917930.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A former Navy SEAL discusses spiritual transformation and faith.",
+   "reason": "Includes spiritual transformation and doubt amid political topics.",
    "tradition": "Christian"
   },
   {
-   "id": "f5e88606-8724-11f1-b8bc-c79ddec03836",
-   "showID": "https://rss.introcast.io/1368888880/feeds.megaphone.fm/yap",
-   "showTitle": "Young and Profiting with Hala Taha (Entrepreneurship, Sales, Marketing)",
-   "title": "Ryan Holiday: Think Like a Stoic, Timeless Leadership Principles for Modern Entrepreneurs | Leadership | YAPClassic",
-   "summary": "Ryan Holiday's approach to leadership was shaped through patience and years of unglamorous work. After dropping out of college at 19, he apprenticed under bestselling author Robert Greene, learning writing, research, persuasion, and human nature before becoming the marketing director of American Apparel at just 21. Those experiences laid the foundation for his rise as a bestselling author and one of the world's leading voices on Stoicism. In this episode, Ryan shares how Stoicism can help entrepreneurs strengthen leadership skills, sharpen decision-making, and maintain a resilient mindset duri",
-   "audioURL": "https://prefix.up.audio/s/www.podtrac.com/pts/redirect.mp3/pdst.fm/e/s.gum.fm/s-6138e37f42bdd982ed0db66a/pscrb.fm/rss/p/cohst.app/pdcst/4B3Z7X/mgln.ai/e/697/traffic.megaphone.fm/YAP4863594186.mp3",
-   "published": "Fri, 24 Jul 2026 08:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explains Stoic philosophy applied to leadership and life challenges.",
-   "tradition": "Stoic"
+   "id": "5d06b880-89cd-11f1-ad93-f36a49c4fd98",
+   "showID": "https://feeds.megaphone.fm/YTYIE3550500328",
+   "showTitle": "The Jeremy Boreing Show",
+   "title": "Tucker's Demons, Vance's Failure, and America's Spiritual War | Ep. 46 w/ Rod Dreher",
+   "summary": "Jeremy Boreing sits down with author and cultural critic Rod Dreher for a nearly two-hour conversation about his forthcoming book, Weimar America — and the argument that the same illiberal spirit Dreher once diagnosed on the left is now rising on the right.\n\nDreher’s 2020 bestseller Live Not by Lies described wokeness as a form of soft totalitarianism, drawing on the testimony of Christians who had survived Soviet communism. Five years later, after a long stint living in Viktor Orban’s Hungary, he returned to America convinced that the warning signs of a pre-totalitarian society — what Hannah ",
+   "audioURL": "https://traffic.megaphone.fm/YTYIE1649304721.mp3",
+   "published": "Mon, 27 Jul 2026 15:10:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/f7/b3/4bf7b3d3-814e-e815-932d-cf11d4836dd6/mza_7969612942427696765.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses cultural and spiritual challenges but focuses on political and social critique.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "ccad1654-87a0-11f1-af40-97f8269df6df",
+   "showID": "https://feeds.megaphone.fm/SSM2868305742",
+   "showTitle": "Nothing much happens: bedtime stories to help you sleep",
+   "title": "The Turnaround (Encore)",
+   "summary": "Originally Aired: July 26th, 2020 (Season 6 Episode 2)\n\nOur story tonight is called The Turnaround, and it’s a story about a trip down a gravel road on a summer day. It’s also about bulrushes and bonfires, family stories, and coming back to a place you know well.\n\n\n\nSubscribe to our ⁠⁠⁠Premium channel.⁠⁠⁠ The first month is on us. 💙\n\n\n\nJoin⁠ the Village of Nothing Much App!\n\nOrder Kathryn’s new book ⁠⁠⁠⁠⁠On the Street Where You Live⁠⁠⁠⁠⁠\n\n⁠⁠⁠NMH Merch, Autographed Books and More!⁠⁠⁠\n\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Listen to our daytime show&nbsp;⁠⁠⁠⁠⁠⁠Stories from the Village of Nothing Much⁠⁠⁠⁠⁠⁠\n\n⁠⁠⁠Sit Meditati",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/hQzRUk5FlBqiODHZblrZ/traffic.megaphone.fm/SSM5619746715.mp3",
+   "published": "Thu, 30 Jul 2026 04:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/f2/26/87f226c9-77ac-d4fe-6b98-4da2345de5c0/mza_5833691041544808336.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "A reflective story about family and returning home with subtle existential themes.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -177,6 +216,8 @@
   "https://blubrry.com/the_world_and_everything_in_it/154457686/72326-preserving-americas-past-educational-value-the-trade-in-trap-and-writing-arthurian-poetry/": "2026-07-29",
   "6a57d61ccebd1afd4475bb22": "2026-07-29",
   "https://api.spreaker.com/episode/73156775": "2026-07-30",
-  "ccad1654-87a0-11f1-af40-97f8269df6df": "2026-07-30"
+  "ccad1654-87a0-11f1-af40-97f8269df6df": "2026-07-30",
+  "unshaken.podbean.com/167b261f-6003-3f99-a371-a85d26cb43f9": "2026-07-30",
+  "gid://art19-episode-locator/V0/jArSfBRLOvIBFJQSs5KE6YQc93R2VlRYavpT8dnjOtI": "2026-07-30"
  }
 }
