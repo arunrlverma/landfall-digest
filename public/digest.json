@@ -1,35 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-07-30T05:09:38.300100+00:00",
+ "generatedAt": "2026-07-30T07:02:57.118687+00:00",
  "showsScanned": 400,
  "candidates": 58,
  "picks": [
-  {
-   "id": "f52625c2-8128-11f1-9cc0-134318ed3fc7",
-   "showID": "https://feeds.megaphone.fm/TPG1652050293",
-   "showTitle": "With and For hosted by Dr. Pam King",
-   "title": "Get really honest, with Elizabeth Oldfield",
-   "summary": "True vulnerability is a critical first step towards becoming fully alive. But it can be incredibly confronting to know how to get really honest with yourself. In this episode we have a practice centred around consolations and desolations, inviting you to review your day and answer honestly: when was I moving towards connection, and when was I moving away?\n\n Elizabeth Oldfield is a writer, coach and host of the podcast The Sacred, who has dedicated her work to exploring clarity, courage and most of all, connection. Join Pam on Substack, where we’ll be sharing and asking you: where did you turn ",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/51/tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/pscrb.fm/rss/p/traffic.megaphone.fm/TPG6463766745.mp3",
-   "published": "Mon, 27 Jul 2026 09:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A practice on vulnerability and honest self-reflection about connection and disconnection.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "6a4fb7a81c8f5a97d8caddcb",
-   "showID": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
-   "showTitle": "TED Talks Daily",
-   "title": "Sunday Pick: The Office’s Rainn Wilson on meaning and happiness | ReThinking with Adam Grant",
-   "summary": "Rainn Wilson was a late bloomer: he landed the role of Dwight Schrute on The Office after over a decade of struggling as an actor. But success didn’t solve all of his problems -- and it even created some new ones. In this live conversation for the Authors@Wharton series, Adam asks Rainn about his unlikely journey to stardom and how it led him into exploring the insights that philosophy, psychology, and the world’s great spiritual traditions can offer on modern life’s existential questions. They also discuss Rainn’s favorite moments from The Office and do some improv when Dunder Mifflin invites",
-   "audioURL": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a4fb7a81c8f5a97d8caddcb/media.mp3",
-   "published": "Sun, 26 Jul 2026 06:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A thoughtful conversation on meaning, happiness, and existential questions through philosophy and spirituality.",
-   "tradition": "Interfaith"
-  },
   {
    "id": "gid://art19-episode-locator/V0/BR8ODfHt4mNADpPN1llNbDLQUDLGs_QYFX_FcW1A6lo",
    "showID": "https://rss.art19.com/the-telepathy-tapes",
@@ -53,7 +27,7 @@
    "published": "Sun, 26 Jul 2026 22:00:56 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines faith and courage in adversity through the biblical story of Esther.",
+   "reason": "Examines faith and providence through the biblical story of Esther's courage and hope.",
    "tradition": "Christian"
   },
   {
@@ -66,8 +40,34 @@
    "published": "Sun, 26 Jul 2026 22:58:15 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Contrasts childlike faith and moral striving in receiving God's kingdom.",
+   "reason": "Contrasts childlike faith and moral achievement in Jesus' teaching on the Kingdom of God.",
    "tradition": "Christian"
+  },
+  {
+   "id": "f52625c2-8128-11f1-9cc0-134318ed3fc7",
+   "showID": "https://feeds.megaphone.fm/TPG1652050293",
+   "showTitle": "With and For hosted by Dr. Pam King",
+   "title": "Get really honest, with Elizabeth Oldfield",
+   "summary": "True vulnerability is a critical first step towards becoming fully alive. But it can be incredibly confronting to know how to get really honest with yourself. In this episode we have a practice centred around consolations and desolations, inviting you to review your day and answer honestly: when was I moving towards connection, and when was I moving away?\n\n Elizabeth Oldfield is a writer, coach and host of the podcast The Sacred, who has dedicated her work to exploring clarity, courage and most of all, connection. Join Pam on Substack, where we’ll be sharing and asking you: where did you turn ",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/51/tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/pscrb.fm/rss/p/traffic.megaphone.fm/TPG6463766745.mp3",
+   "published": "Mon, 27 Jul 2026 09:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A practice of honest self-reflection on connection and disconnection in daily life.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "6a4fb7a81c8f5a97d8caddcb",
+   "showID": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
+   "showTitle": "TED Talks Daily",
+   "title": "Sunday Pick: The Office’s Rainn Wilson on meaning and happiness | ReThinking with Adam Grant",
+   "summary": "Rainn Wilson was a late bloomer: he landed the role of Dwight Schrute on The Office after over a decade of struggling as an actor. But success didn’t solve all of his problems -- and it even created some new ones. In this live conversation for the Authors@Wharton series, Adam asks Rainn about his unlikely journey to stardom and how it led him into exploring the insights that philosophy, psychology, and the world’s great spiritual traditions can offer on modern life’s existential questions. They also discuss Rainn’s favorite moments from The Office and do some improv when Dunder Mifflin invites",
+   "audioURL": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a4fb7a81c8f5a97d8caddcb/media.mp3",
+   "published": "Sun, 26 Jul 2026 06:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A serious conversation about meaning, happiness, and existential questions in life.",
+   "tradition": "Interfaith"
   },
   {
    "id": "5d06b880-89cd-11f1-ad93-f36a49c4fd98",
@@ -79,21 +79,8 @@
    "published": "Mon, 27 Jul 2026 15:10:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/f7/b3/4bf7b3d3-814e-e815-932d-cf11d4836dd6/mza_7969612942427696765.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses cultural and spiritual crises with a Christian perspective on ethics and society.",
+   "reason": "Explores spiritual and cultural crises with a Christian perspective on ethics and society.",
    "tradition": "Christian"
-  },
-  {
-   "id": "ccad1654-87a0-11f1-af40-97f8269df6df",
-   "showID": "https://feeds.megaphone.fm/SSM2868305742",
-   "showTitle": "Nothing much happens: bedtime stories to help you sleep",
-   "title": "The Turnaround (Encore)",
-   "summary": "Originally Aired: July 26th, 2020 (Season 6 Episode 2)\n\nOur story tonight is called The Turnaround, and it’s a story about a trip down a gravel road on a summer day. It’s also about bulrushes and bonfires, family stories, and coming back to a place you know well.\n\n\n\nSubscribe to our ⁠⁠⁠Premium channel.⁠⁠⁠ The first month is on us. 💙\n\n\n\nJoin⁠ the Village of Nothing Much App!\n\nOrder Kathryn’s new book ⁠⁠⁠⁠⁠On the Street Where You Live⁠⁠⁠⁠⁠\n\n⁠⁠⁠NMH Merch, Autographed Books and More!⁠⁠⁠\n\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Listen to our daytime show&nbsp;⁠⁠⁠⁠⁠⁠Stories from the Village of Nothing Much⁠⁠⁠⁠⁠⁠\n\n⁠⁠⁠Sit Meditati",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/hQzRUk5FlBqiODHZblrZ/traffic.megaphone.fm/SSM5619746715.mp3",
-   "published": "Thu, 30 Jul 2026 04:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/f2/26/87f226c9-77ac-d4fe-6b98-4da2345de5c0/mza_5833691041544808336.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A contemplative story about family, place, and memory inviting quiet reflection.",
-   "tradition": "Secular"
   },
   {
    "id": "5e087b34-861b-11f1-8f50-4f35183dd4df",
@@ -107,6 +94,32 @@
    "rating": 6,
    "reason": "Discusses Catholic spiritual warfare and virtue but focuses on exorcism and theology.",
    "tradition": "Christian"
+  },
+  {
+   "id": "8cd0311c-878a-11f1-992f-23b420a89153",
+   "showID": "https://feeds.megaphone.fm/RSV1597324942",
+   "showTitle": "The Tucker Carlson Show",
+   "title": "Shawn Ryan: Trump’s Betrayal, Iran, Government Spying, Encounters With Demons, and Finding God",
+   "summary": "Shawn Ryan on Trump’s betrayal and his own spiritual transformation.&nbsp;\n\n(00:00) The Lies of Politicians\n\n(03:20) Shawn Ryan's Spiritual Transformation\n\n(18:02) How Shawn's View on Christianity Has Changed\n\n(37:34) Has America Lost Its Place as the Global Superpower?\n\n(1:20:14) How Your Phone Enslaves You\n\n\n\nShawn Ryan is a former Navy SEAL, a former CIA Contractor, owner of Vigilance Elite, and host of The Shawn Ryan Show (https://www.youtube.com/@ShawnRyanShow).\n\n\n\nPaid partnerships with:\n\nCurativa Bay:&nbsp;Take your health back into your own hands. Get 15% off at&nbsp;CurativaBay.com/Tu",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/384D27/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/traffic.megaphone.fm/TCN1969281929.mp3",
+   "published": "Fri, 24 Jul 2026 18:06:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/1f/9c/1a1f9c6d-67fd-0e33-cdf3-4b62617ea9a6/mza_9226157347267917930.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Includes spiritual transformation and encounters with demons amid political topics.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "ccad1654-87a0-11f1-af40-97f8269df6df",
+   "showID": "https://feeds.megaphone.fm/SSM2868305742",
+   "showTitle": "Nothing much happens: bedtime stories to help you sleep",
+   "title": "The Turnaround (Encore)",
+   "summary": "Originally Aired: July 26th, 2020 (Season 6 Episode 2)\n\nOur story tonight is called The Turnaround, and it’s a story about a trip down a gravel road on a summer day. It’s also about bulrushes and bonfires, family stories, and coming back to a place you know well.\n\n\n\nSubscribe to our ⁠⁠⁠Premium channel.⁠⁠⁠ The first month is on us. 💙\n\n\n\nJoin⁠ the Village of Nothing Much App!\n\nOrder Kathryn’s new book ⁠⁠⁠⁠⁠On the Street Where You Live⁠⁠⁠⁠⁠\n\n⁠⁠⁠NMH Merch, Autographed Books and More!⁠⁠⁠\n\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Listen to our daytime show&nbsp;⁠⁠⁠⁠⁠⁠Stories from the Village of Nothing Much⁠⁠⁠⁠⁠⁠\n\n⁠⁠⁠Sit Meditati",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/hQzRUk5FlBqiODHZblrZ/traffic.megaphone.fm/SSM5619746715.mp3",
+   "published": "Thu, 30 Jul 2026 04:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/f2/26/87f226c9-77ac-d4fe-6b98-4da2345de5c0/mza_5833691041544808336.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "A reflective story about family and place with subtle themes of return and belonging.",
+   "tradition": "Interfaith"
   }
  ],
  "history": {
