@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-30T14:51:11.969595+00:00",
+ "generatedAt": "2026-07-30T15:43:20.073187+00:00",
  "showsScanned": 400,
  "candidates": 56,
  "picks": [
@@ -14,7 +14,20 @@
    "published": "Mon, 27 Jul 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A practice-focused conversation on vulnerability and honest self-reflection for inner life growth.",
+   "reason": "A practice of honest self-reflection on connection and disconnection in daily life.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "6a4fb7a81c8f5a97d8caddcb",
+   "showID": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
+   "showTitle": "TED Talks Daily",
+   "title": "Sunday Pick: The Office’s Rainn Wilson on meaning and happiness | ReThinking with Adam Grant",
+   "summary": "Rainn Wilson was a late bloomer: he landed the role of Dwight Schrute on The Office after over a decade of struggling as an actor. But success didn’t solve all of his problems -- and it even created some new ones. In this live conversation for the Authors@Wharton series, Adam asks Rainn about his unlikely journey to stardom and how it led him into exploring the insights that philosophy, psychology, and the world’s great spiritual traditions can offer on modern life’s existential questions. They also discuss Rainn’s favorite moments from The Office and do some improv when Dunder Mifflin invites",
+   "audioURL": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a4fb7a81c8f5a97d8caddcb/media.mp3",
+   "published": "Sun, 26 Jul 2026 06:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Rainn Wilson reflects on meaning, happiness, and existential questions through philosophy and spirituality.",
    "tradition": "Interfaith"
   },
   {
@@ -27,7 +40,7 @@
    "published": "Fri, 24 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses Stoic philosophy applied to leadership and life, addressing ethics and inner life.",
+   "reason": "Discusses Stoic philosophy applied to leadership and life challenges.",
    "tradition": "Stoic"
   },
   {
@@ -40,7 +53,7 @@
    "published": "Fri, 24 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores psychedelic experiences and consciousness with scientific and psychological perspectives.",
+   "reason": "Explores psychedelic experiences and consciousness with scientific and spiritual voices.",
    "tradition": "Secular"
   },
   {
@@ -79,33 +92,20 @@
    "published": "Wed, 29 Jul 2026 16:13:01 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores rebuilding faith and identity after trauma through biblical narratives.",
+   "reason": "Biblical narrative on rebuilding life and faith after devastation.",
    "tradition": "Christian"
   },
   {
-   "id": "6a4fb7a81c8f5a97d8caddcb",
-   "showID": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
-   "showTitle": "TED Talks Daily",
-   "title": "Sunday Pick: The Office’s Rainn Wilson on meaning and happiness | ReThinking with Adam Grant",
-   "summary": "Rainn Wilson was a late bloomer: he landed the role of Dwight Schrute on The Office after over a decade of struggling as an actor. But success didn’t solve all of his problems -- and it even created some new ones. In this live conversation for the Authors@Wharton series, Adam asks Rainn about his unlikely journey to stardom and how it led him into exploring the insights that philosophy, psychology, and the world’s great spiritual traditions can offer on modern life’s existential questions. They also discuss Rainn’s favorite moments from The Office and do some improv when Dunder Mifflin invites",
-   "audioURL": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a4fb7a81c8f5a97d8caddcb/media.mp3",
-   "published": "Sun, 26 Jul 2026 06:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
+   "id": "cb6442ad3caad85d6330e61d63d7c4f9",
+   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
+   "showTitle": "Becoming Something with Jonathan Pokluda",
+   "title": "Episode 382: Nike, Kobe & Pointing Your Life Toward What Matters | feat. John Olinger",
+   "summary": "<p>This week we sit down with John Olinger — former global brand director for Kobe Bryant at Nike and author of Worthy Wins — to talk about what it looks like to point your life toward what actually matters most. John opens up about losing both parents, a season of unexpected career upheaval, and how God used every chapter of his story to prepare him for something he never saw coming. If you've ever wondered whether your past experiences are being wasted, this episode is for you!</p>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4LzgxZjE2Njk3LWQyMWUtNDg0OC1iODBjLWUwZDJkYzVjMWY4ZC9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=qnthm69",
+   "published": "Mon, 27 Jul 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A thoughtful conversation on meaning, happiness, and existential questions through diverse traditions.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "0be2c8e2-8787-11f1-962a-8be7b1fb5ffe",
-   "showID": "https://feeds.megaphone.fm/BVDWV4977994734",
-   "showTitle": "The Andrew Klavan Show",
-   "title": "Ep. 1288 - The Word We Cannot Say",
-   "summary": "A feeling of spiritual malaise is moving the young toward disastrous ideologies. The answer is smothered in silence.\n\n\n\nEp. 1288\n\n\n\nPre-order \"Find Me Nowhere\" here: https://dwplus.shop/FindMeNowhere\n\n\n\n- - -\n\n\n\nToday's Sponsors:\n\n\n\nDose - New customers can save 35% on your first month of subscription by going to https://dosedaily.co/KLAVAN or entering KLAVAN at checkout.\n\n\n\nBalance of Nature - Do good for yourself… and your body. Visit https://BalanceofNature.com and use promo code KLAVAN for an additional 10% off any subscription.\n\n\n\nWild Alaskan - Get $35 off your first box of wild-caught, ",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/PMRgJ/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV2676927798.mp3",
-   "published": "Fri, 24 Jul 2026 18:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c2/50/38/c25038fe-75d4-1528-465f-d8414f253a2e/mza_5254310667395992109.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses spiritual malaise and silence but in a political-cultural context.",
+   "reason": "A conversation about loss, purpose, and how life’s hardships shape meaning.",
    "tradition": "Christian"
   }
  ],
@@ -152,7 +152,7 @@
   "750f0073-9865-453e-babd-b49400e21a4f": "2026-07-28",
   "Buzzsprout-19527057": "2026-07-28",
   "8cd0311c-878a-11f1-992f-23b420a89153": "2026-07-30",
-  "cb6442ad3caad85d6330e61d63d7c4f9": "2026-07-28",
+  "cb6442ad3caad85d6330e61d63d7c4f9": "2026-07-30",
   "5e087b34-861b-11f1-8f50-4f35183dd4df": "2026-07-30",
   "gid://art19-episode-locator/V0/O5TsCb4Wl-PCgmKnidT3lUgQRGOQ4lqccbWaLRvcnE0": "2026-07-28",
   "5d06b880-89cd-11f1-ad93-f36a49c4fd98": "2026-07-30",
