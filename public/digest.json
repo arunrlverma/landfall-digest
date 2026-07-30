@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-30T20:32:51.895096+00:00",
+ "generatedAt": "2026-07-30T21:29:46.150940+00:00",
  "showsScanned": 400,
  "candidates": 57,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Mon, 27 Jul 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A practice on vulnerability and honest self-reflection about connection and inner life.",
+   "reason": "A practice on vulnerability and honest self-reflection about connection and disconnection.",
    "tradition": "Interfaith"
   },
   {
@@ -66,7 +66,20 @@
    "published": "Sun, 26 Jul 2026 22:00:56 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines courage, faith, and divine providence in Esther's story.",
+   "reason": "Examines courage, faith, and divine providence in the Book of Esther.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "cb6442ad3caad85d6330e61d63d7c4f9",
+   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
+   "showTitle": "Becoming Something with Jonathan Pokluda",
+   "title": "Episode 382: Nike, Kobe & Pointing Your Life Toward What Matters | feat. John Olinger",
+   "summary": "<p>This week we sit down with John Olinger — former global brand director for Kobe Bryant at Nike and author of Worthy Wins — to talk about what it looks like to point your life toward what actually matters most. John opens up about losing both parents, a season of unexpected career upheaval, and how God used every chapter of his story to prepare him for something he never saw coming. If you've ever wondered whether your past experiences are being wasted, this episode is for you!</p>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4LzgxZjE2Njk3LWQyMWUtNDg0OC1iODBjLWUwZDJkYzVjMWY4ZC9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=qnthm69",
+   "published": "Mon, 27 Jul 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A conversation about loss, purpose, and pointing life toward what truly matters.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +92,7 @@
    "published": "Wed, 29 Jul 2026 16:13:01 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores rebuilding faith and identity after trauma through biblical narratives.",
+   "reason": "Explores rebuilding faith and identity after devastation through biblical narratives.",
    "tradition": "Christian"
   },
   {
@@ -92,34 +105,34 @@
    "published": "Sun, 26 Jul 2026 06:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "A serious conversation on meaning, happiness, and existential questions.",
+   "reason": "A serious conversation on meaning and happiness through philosophy and spiritual traditions.",
    "tradition": "Interfaith"
   },
   {
-   "id": "8cd0311c-878a-11f1-992f-23b420a89153",
-   "showID": "https://feeds.megaphone.fm/RSV1597324942",
-   "showTitle": "The Tucker Carlson Show",
-   "title": "Shawn Ryan: Trump’s Betrayal, Iran, Government Spying, Encounters With Demons, and Finding God",
-   "summary": "Shawn Ryan on Trump’s betrayal and his own spiritual transformation.&nbsp;\n\n(00:00) The Lies of Politicians\n\n(03:20) Shawn Ryan's Spiritual Transformation\n\n(18:02) How Shawn's View on Christianity Has Changed\n\n(37:34) Has America Lost Its Place as the Global Superpower?\n\n(1:20:14) How Your Phone Enslaves You\n\n\n\nShawn Ryan is a former Navy SEAL, a former CIA Contractor, owner of Vigilance Elite, and host of The Shawn Ryan Show (https://www.youtube.com/@ShawnRyanShow).\n\n\n\nPaid partnerships with:\n\nCurativa Bay:&nbsp;Take your health back into your own hands. Get 15% off at&nbsp;CurativaBay.com/Tu",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/384D27/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/traffic.megaphone.fm/TCN1969281929.mp3",
-   "published": "Fri, 24 Jul 2026 18:06:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/1f/9c/1a1f9c6d-67fd-0e33-cdf3-4b62617ea9a6/mza_9226157347267917930.jpg/600x600bb.jpg",
+   "id": "5e087b34-861b-11f1-8f50-4f35183dd4df",
+   "showID": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
+   "showTitle": "The Shawn Ryan Show",
+   "title": "#324 Father Ripperger - The Signs of Diabolical Influence in America",
+   "summary": "Father Chad Ripperger is a Roman Catholic priest, theologian, philosopher, and exorcist serving in the Archdiocese of Denver. He is the founder and superior general of the Society of the Most Sorrowful Mother (Doloran Fathers) and is widely known for his teaching on spiritual warfare, virtue, Thomistic philosophy, and Catholic theology. A prolific author and sought-after speaker, Father Ripperger has written numerous books and lectures extensively on prayer, the spiritual life, and the Church's ministry of deliverance.\n\n\n\nDownload Glacier Today. Privacy isn't paranoia, it's protection.\n\nWebsit",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD1532540629.mp3",
+   "published": "Thu, 23 Jul 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Includes spiritual transformation amid political and personal topics.",
+   "reason": "Discusses Catholic spiritual warfare and virtue but focuses on exorcism and theology.",
    "tradition": "Christian"
   },
   {
-   "id": "cb6442ad3caad85d6330e61d63d7c4f9",
-   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
-   "showTitle": "Becoming Something with Jonathan Pokluda",
-   "title": "Episode 382: Nike, Kobe & Pointing Your Life Toward What Matters | feat. John Olinger",
-   "summary": "<p>This week we sit down with John Olinger — former global brand director for Kobe Bryant at Nike and author of Worthy Wins — to talk about what it looks like to point your life toward what actually matters most. John opens up about losing both parents, a season of unexpected career upheaval, and how God used every chapter of his story to prepare him for something he never saw coming. If you've ever wondered whether your past experiences are being wasted, this episode is for you!</p>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4LzgxZjE2Njk3LWQyMWUtNDg0OC1iODBjLWUwZDJkYzVjMWY4ZC9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=qnthm69",
-   "published": "Mon, 27 Jul 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
+   "id": "0be2c8e2-8787-11f1-962a-8be7b1fb5ffe",
+   "showID": "https://feeds.megaphone.fm/BVDWV4977994734",
+   "showTitle": "The Andrew Klavan Show",
+   "title": "Ep. 1288 - The Word We Cannot Say",
+   "summary": "A feeling of spiritual malaise is moving the young toward disastrous ideologies. The answer is smothered in silence.\n\n\n\nEp. 1288\n\n\n\nPre-order \"Find Me Nowhere\" here: https://dwplus.shop/FindMeNowhere\n\n\n\n- - -\n\n\n\nToday's Sponsors:\n\n\n\nDose - New customers can save 35% on your first month of subscription by going to https://dosedaily.co/KLAVAN or entering KLAVAN at checkout.\n\n\n\nBalance of Nature - Do good for yourself… and your body. Visit https://BalanceofNature.com and use promo code KLAVAN for an additional 10% off any subscription.\n\n\n\nWild Alaskan - Get $35 off your first box of wild-caught, ",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/PMRgJ/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV2676927798.mp3",
+   "published": "Fri, 24 Jul 2026 18:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c2/50/38/c25038fe-75d4-1528-465f-d8414f253a2e/mza_5254310667395992109.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A conversation about life direction and loss, but more practical than deeply philosophical.",
-   "tradition": "Christian"
+   "reason": "Discusses spiritual malaise and silence but in a political and cultural context.",
+   "tradition": "Secular"
   },
   {
    "id": "ccad1654-87a0-11f1-af40-97f8269df6df",
@@ -131,7 +144,7 @@
    "published": "Thu, 30 Jul 2026 04:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/f2/26/87f226c9-77ac-d4fe-6b98-4da2345de5c0/mza_5833691041544808336.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A contemplative story about family, place, and returning home.",
+   "reason": "A contemplative story about family and returning home with subtle existential themes.",
    "tradition": "Secular"
   }
  ],
