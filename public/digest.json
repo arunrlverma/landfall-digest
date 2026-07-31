@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-07-31T16:39:34.476442+00:00",
+ "generatedAt": "2026-07-31T17:36:53.282349+00:00",
  "showsScanned": 400,
- "candidates": 52,
+ "candidates": 53,
  "picks": [
   {
    "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
@@ -14,8 +14,21 @@
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores a sacred African tradition deeply connected to spiritual practice and consciousness.",
+   "reason": "Explores a sacred African tradition where a plant is a spiritual teacher and guide.",
    "tradition": "Indigenous"
+  },
+  {
+   "id": "37c1a188-82f4-46e1-a8de-13d1fd44bc16",
+   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
+   "showTitle": "Making Sense with Sam Harris",
+   "title": "#487 — Is AI Already Conscious?",
+   "summary": "Sam Harris speaks with Cameron Berg about whether AI systems are or could become conscious. They discuss self-reports in LLMs, what models say when deception is switched off, the \"bliss attractor\" state, consciousness and sentience, the hard problem of consciousness, parallels between neural networks and biological brains, the moral risk of building minds that can suffer, possible parallels to factory farming, moral patienthood, the alignment problem, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samh",
+   "audioURL": "https://traffic.libsyn.com/secure/wakingup/487_MS_Cameron_Berg_subscriber-psa.mp3?dest-id=480596",
+   "published": "Fri, 31 Jul 2026 17:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Deep discussion on consciousness, suffering, and moral implications of AI minds.",
+   "tradition": "Secular"
   },
   {
    "id": "87882620-93d4-44ca-99c9-9b43399fb2c2",
@@ -27,7 +40,7 @@
    "published": "Fri, 24 Jul 2026 18:00:03 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former nun reflects on faith, obedience, and leaving monastic life.",
+   "reason": "A former nun discusses poverty, obedience, and leaving monastic life.",
    "tradition": "Christian"
   },
   {
@@ -40,20 +53,7 @@
    "published": "Thu, 23 Jul 2026 21:01:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A testimony of faith, healing, and searching for spiritual answers.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "d4d3ff60-8a97-11f1-8a04-b74d0445750a",
-   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
-   "showTitle": "Blurry Creatures",
-   "title": "EP: 448 World Cup Dad: Bigfoot, a Demonic Attack, and a Soccer Miracle with Zach Duke",
-   "summary": "Rewind four years. Zach Duke looks in the mirror and does not like the man staring back. He is out of shape. He is chronically sick. He is a dad running on empty. So he prays a dangerous prayer. He asks God not to let him move from his chair until the fire comes back. What God says next makes no sense. Play soccer. Zach has never played. He posts his training every day to nobody. Then the internet finds him.Videos with tens of millions of views later, Zach earns a spot on a Team USA World Cup 6x6 roster at an age when most players retire. But this is not a sports story. It is the story of a mi",
-   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW9457250446.mp3",
-   "published": "Tue, 28 Jul 2026 21:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A personal story of prayer, transformation, and finding new purpose through faith.",
+   "reason": "A woman witnesses and questions a miraculous healing through prayer.",
    "tradition": "Christian"
   },
   {
@@ -65,8 +65,8 @@
    "audioURL": "https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvTkhDOEM5L2RkOThhODMwLTM1MGMtNDM4MS05MzBjLWUwYjhmNWYzNDY0MC9hdWRpby5tcDM.mp3?k=NHC8C9&amp;s=3&amp;sapid=vx4g5bh",
    "published": "Wed, 29 Jul 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/4e/30/364e308d-99c9-778e-e711-59e090408814/mza_3684559455643163671.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A biblical study on resurrection and human nature with theological depth.",
+   "rating": 8,
+   "reason": "A theological study on resurrection and human destiny grounded in scripture.",
    "tradition": "Christian"
   },
   {
@@ -78,9 +78,22 @@
    "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8545864/8545864_2026-07-29-060004.128.mp3?rssID=6605",
    "published": "Wed, 29 Jul 2026 06:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/17/cb/7117cb69-9b97-b595-8635-f03a159856ca/mza_7631777769249125333.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Explores afterlife and spiritual guides through personal psychic experience.",
+   "rating": 7,
+   "reason": "Personal psychic journey exploring afterlife and spiritual forces with some doubt and faith.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "d4d3ff60-8a97-11f1-8a04-b74d0445750a",
+   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
+   "showTitle": "Blurry Creatures",
+   "title": "EP: 448 World Cup Dad: Bigfoot, a Demonic Attack, and a Soccer Miracle with Zach Duke",
+   "summary": "Rewind four years. Zach Duke looks in the mirror and does not like the man staring back. He is out of shape. He is chronically sick. He is a dad running on empty. So he prays a dangerous prayer. He asks God not to let him move from his chair until the fire comes back. What God says next makes no sense. Play soccer. Zach has never played. He posts his training every day to nobody. Then the internet finds him.Videos with tens of millions of views later, Zach earns a spot on a Team USA World Cup 6x6 roster at an age when most players retire. But this is not a sports story. It is the story of a mi",
+   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW9457250446.mp3",
+   "published": "Tue, 28 Jul 2026 21:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A man prays for renewal and finds unexpected spiritual meaning through soccer.",
+   "tradition": "Christian"
   },
   {
    "id": "750f0073-9865-453e-babd-b49400e21a4f",
@@ -92,21 +105,8 @@
    "published": "Mon, 27 Jul 2026 13:49:01 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Near-death experiences and signs discussed with some focus on healing and afterlife.",
+   "reason": "Near-death experience data and signs discussed, touching on mortality and afterlife.",
    "tradition": "Interfaith"
-  },
-  {
-   "id": "994188a8-4999-4930-93ea-eb1b3ae9166a",
-   "showID": "https://feeds.libsyn.com/56578/rss",
-   "showTitle": "Joyce Meyer Enjoying Everyday Life® Radio Podcast",
-   "title": "Healing the Soul of a Woman – Part 4",
-   "summary": "You can be strong again—no matter what you've been through. Today on 15 Minutes in the Word, Joyce shares how God heals your heart and restores your life.",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/jmradio/JMM_Jul_28_2026.mp3?dest-id=211463",
-   "published": "Tue, 28 Jul 2026 05:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/20/5f/89205fa5-8450-d917-3f45-a5b26962a087/mza_377853489433632553.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "A Christian talk on healing and restoration of the heart after suffering.",
-   "tradition": "Christian"
   },
   {
    "id": "1bb03c60-87ae-11f1-be31-579222d66ced",
@@ -118,7 +118,7 @@
    "published": "Sun, 26 Jul 2026 14:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/eb/2b/49/eb2b49b3-16b9-8ddb-d73a-43f71d302e76/mza_18084327446382056995.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discussion on spiritual hunger and tradition in worship, with cultural insights.",
+   "reason": "Discussion on spiritual hunger and tradition in Latin Mass attracting youth.",
    "tradition": "Christian"
   }
  ],
@@ -199,6 +199,7 @@
   "4b207b4a-85ab-11f1-8902-6fce07fd8e54": "2026-07-31",
   "cda55df55054d7cbf0dc90bb3af02add": "2026-07-31",
   "fde2c3e0b6070e81b7e0824778dff15f": "2026-07-31",
-  "994188a8-4999-4930-93ea-eb1b3ae9166a": "2026-07-31"
+  "994188a8-4999-4930-93ea-eb1b3ae9166a": "2026-07-31",
+  "37c1a188-82f4-46e1-a8de-13d1fd44bc16": "2026-07-31"
  }
 }
