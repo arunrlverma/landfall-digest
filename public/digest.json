@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-31T21:27:52.168732+00:00",
+ "generatedAt": "2026-07-31T22:26:43.731955+00:00",
  "showsScanned": 400,
  "candidates": 55,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores the sacred roots and spiritual practice surrounding iboga in Gabonese Bwiti tradition.",
+   "reason": "Explores the sacred Bwiti tradition and iboga's spiritual role in Gabonese life.",
    "tradition": "Indigenous"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Fri, 31 Jul 2026 17:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Serious philosophical and scientific inquiry into AI consciousness and ethics.",
+   "reason": "In-depth discussion on AI consciousness and moral implications.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Tue, 28 Jul 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores mortality acceptance and living with purpose through death doula insights.",
+   "reason": "Explores mortality acceptance and living purposefully through death doula insights.",
    "tradition": "Interfaith"
   },
   {
@@ -53,8 +53,21 @@
    "published": "Fri, 24 Jul 2026 18:00:03 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former nun discusses her religious vows, rebellion, and leaving monastic life.",
+   "reason": "A former nun reflects on faith, obedience, and leaving religious life.",
    "tradition": "Christian"
+  },
+  {
+   "id": "b5f2faf5-1e6b-4321-9bfc-844c3f67157b",
+   "showID": "https://rss.amperwave.net/v2/feed/podcorn/6aedaa4af9023293eeccb7c93c30b6bd",
+   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
+   "title": "Guardians of The Dead",
+   "summary": "My special guest is author and researcher Philip Kinsella who's here to discuss his book Guardians of The Dead that you can get now on Amazon.Is there an afterlife? Are such things as Angels and Spirit Guides real? Does God exist? Medium, Philip Kinsella takes the reader on a personal, psychic journey of discovery, revealing that there does indeed appear to be hidden forces assisting mankind in all areas of life. He also demonstrates how communication can be achieved through a variety of means and reveals how consciousness works. The human brain is the conduit which allows such alternate realm",
+   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8545864/8545864_2026-07-29-060004.128.mp3?rssID=6605",
+   "published": "Wed, 29 Jul 2026 06:30:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/17/cb/7117cb69-9b97-b595-8635-f03a159856ca/mza_7631777769249125333.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores afterlife and spiritual guides through personal psychic experiences.",
+   "tradition": "Interfaith"
   },
   {
    "id": "4b207b4a-85ab-11f1-8902-6fce07fd8e54",
@@ -66,21 +79,8 @@
    "published": "Mon, 27 Jul 2026 16:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A Norse myth story featuring gods and moral themes from an ancient tradition.",
+   "reason": "A Norse myth story involving gods and moral themes from an ancient tradition.",
    "tradition": "Indigenous"
-  },
-  {
-   "id": "b5f2faf5-1e6b-4321-9bfc-844c3f67157b",
-   "showID": "https://rss.amperwave.net/v2/feed/podcorn/6aedaa4af9023293eeccb7c93c30b6bd",
-   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
-   "title": "Guardians of The Dead",
-   "summary": "My special guest is author and researcher Philip Kinsella who's here to discuss his book Guardians of The Dead that you can get now on Amazon.Is there an afterlife? Are such things as Angels and Spirit Guides real? Does God exist? Medium, Philip Kinsella takes the reader on a personal, psychic journey of discovery, revealing that there does indeed appear to be hidden forces assisting mankind in all areas of life. He also demonstrates how communication can be achieved through a variety of means and reveals how consciousness works. The human brain is the conduit which allows such alternate realm",
-   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8545864/8545864_2026-07-29-060004.128.mp3?rssID=6605",
-   "published": "Wed, 29 Jul 2026 06:30:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/17/cb/7117cb69-9b97-b595-8635-f03a159856ca/mza_7631777769249125333.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses afterlife and spiritual guides with personal psychic experiences.",
-   "tradition": "Interfaith"
   },
   {
    "id": "d4d3ff60-8a97-11f1-8a04-b74d0445750a",
@@ -92,7 +92,20 @@
    "published": "Tue, 28 Jul 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A personal story of prayer and transformation with some spiritual elements.",
+   "reason": "A personal story involving prayer and faith with some spiritual elements.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "standardoftruth.podbean.com/c1166a82-678c-3d17-a266-af389031d193",
+   "showID": "https://feed.podbean.com/standardoftruth/feed.xml",
+   "showTitle": "Standard of Truth",
+   "title": "S6E30 Where There's Smoke: The Bad Logic Behind Anti-Mormon Claims",
+   "summary": "In this episode, Gerrit pays a heartfelt tribute to Eric Smith, a beloved Joseph Smith Papers colleague and devoted listener who recently passed after a long battle with cancer, complete with the legendary tales of stolen break-room milk and a service missionary's knuckle-deep Oreo heist. \nThe mailbag delivers a live-show love story, a a testimony-strengthening note from Kimberly, and a listener's run-in with anti-Mormon radio. That sparks a robust discussion on how critics caricature Latter-day Saint belief without ever reading Doctrine and Covenants 76. Poor Ezra Booth gets bumped yet again.",
+   "audioURL": "https://mcdn.podbean.com/mf/web/qrwvdmdjknhie3gf/S6E30_Where_There_s_Smoke_-_The_Bad_Logic_Behind_Anti-Mormon_Claimsb2qvh.mp3",
+   "published": "Thu, 30 Jul 2026 05:51:00 -0600",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f0/6c/87/f06c8724-343c-489a-eba1-08ecd9f8fbc8/mza_9582686813093588614.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discussion on religious criticism and faith, with some personal testimony.",
    "tradition": "Christian"
   },
   {
@@ -105,7 +118,7 @@
    "published": "Sun, 26 Jul 2026 14:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/eb/2b/49/eb2b49b3-16b9-8ddb-d73a-43f71d302e76/mza_18084327446382056995.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores spiritual hunger and tradition but mainly cultural and social reasons.",
+   "reason": "Explores young people's spiritual hunger through traditional Latin Mass revival.",
    "tradition": "Christian"
   }
  ],
@@ -192,6 +205,7 @@
   "df650376-555e-4c61-9b3b-b48e00f47565": "2026-07-31",
   "ed84ab428b6708d20b75ffc3c20a2036": "2026-07-31",
   "87f15333-eff8-40f1-a1da-b495011c5625": "2026-07-31",
-  "5c04bca2-f43c-41cd-a2e5-b495003e09c2": "2026-07-31"
+  "5c04bca2-f43c-41cd-a2e5-b495003e09c2": "2026-07-31",
+  "standardoftruth.podbean.com/c1166a82-678c-3d17-a266-af389031d193": "2026-07-31"
  }
 }
