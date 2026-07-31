@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-07-31T20:34:14.860033+00:00",
+ "generatedAt": "2026-07-31T21:27:52.168732+00:00",
  "showsScanned": 400,
- "candidates": 56,
+ "candidates": 55,
  "picks": [
   {
    "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
@@ -18,6 +18,19 @@
    "tradition": "Indigenous"
   },
   {
+   "id": "37c1a188-82f4-46e1-a8de-13d1fd44bc16",
+   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
+   "showTitle": "Making Sense with Sam Harris",
+   "title": "#487 — Is AI Already Conscious?",
+   "summary": "Sam Harris speaks with Cameron Berg about whether AI systems are or could become conscious. They discuss self-reports in LLMs, what models say when deception is switched off, the \"bliss attractor\" state, consciousness and sentience, the hard problem of consciousness, parallels between neural networks and biological brains, the moral risk of building minds that can suffer, possible parallels to factory farming, moral patienthood, the alignment problem, and other topics. Annaka Harris's upcoming book: Unlocking Consciousness If the Making Sense podcast logo in your player is BLACK, you can SUBSC",
+   "audioURL": "https://traffic.libsyn.com/secure/wakingup/487_MS_Cameron_Berg_subscriber-psa.mp3?dest-id=480596",
+   "published": "Fri, 31 Jul 2026 17:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Serious philosophical and scientific inquiry into AI consciousness and ethics.",
+   "tradition": "Secular"
+  },
+  {
    "id": "5c04bca2-f43c-41cd-a2e5-b495003e09c2",
    "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
    "showTitle": "The Best of Coast to Coast AM",
@@ -27,7 +40,7 @@
    "published": "Tue, 28 Jul 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores mortality acceptance, purpose, and the human condition through death doulas.",
+   "reason": "Explores mortality acceptance and living with purpose through death doula insights.",
    "tradition": "Interfaith"
   },
   {
@@ -40,47 +53,21 @@
    "published": "Fri, 24 Jul 2026 18:00:03 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former nun reflects on faith, obedience, and rebellion in her religious life.",
+   "reason": "A former nun discusses her religious vows, rebellion, and leaving monastic life.",
    "tradition": "Christian"
   },
   {
-   "id": "26a5d61a-86ce-11f1-8ed6-9ff0d63a8f90",
-   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
-   "showTitle": "Blurry Creatures",
-   "title": "EP: 447 Real Life Miracles and the Voice of God with Ryan Bethea and Abby Robertson *members only trailer",
-   "summary": "She saw the tumor months before the diagnosis. While praying over her seemingly healthy mother, Abby Robertson had a vision so disturbing she could not bring herself to write it down. Two to three months later, her mother was diagnosed with pancreatic cancer, already spreading and beyond surgery. Abby prayed with a certainty she had never felt, convinced God had prepared her to witness a healing. What happened next sent her searching for answers she is still looking for. In this episode, she and Ryan Bethea of The Exorcist Files sit down with Nate and Luke to talk about what it actually means ",
-   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW2264671278.mp3",
-   "published": "Thu, 23 Jul 2026 21:01:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A woman shares a profound experience of prayer, vision, and searching for healing.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "37c1a188-82f4-46e1-a8de-13d1fd44bc16",
-   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
-   "showTitle": "Making Sense with Sam Harris",
-   "title": "#487 — Is AI Already Conscious?",
-   "summary": "Sam Harris speaks with Cameron Berg about whether AI systems are or could become conscious. They discuss self-reports in LLMs, what models say when deception is switched off, the \"bliss attractor\" state, consciousness and sentience, the hard problem of consciousness, parallels between neural networks and biological brains, the moral risk of building minds that can suffer, possible parallels to factory farming, moral patienthood, the alignment problem, and other topics. Annaka Harris's upcoming book: Unlocking Consciousness If the Making Sense podcast logo in your player is BLACK, you can SUBSC",
-   "audioURL": "https://traffic.libsyn.com/secure/wakingup/487_MS_Cameron_Berg_subscriber-psa.mp3?dest-id=480596",
-   "published": "Fri, 31 Jul 2026 17:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A deep discussion on consciousness, suffering, and moral risks of AI minds.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "d4d3ff60-8a97-11f1-8a04-b74d0445750a",
-   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
-   "showTitle": "Blurry Creatures",
-   "title": "EP: 448 World Cup Dad: Bigfoot, a Demonic Attack, and a Soccer Miracle with Zach Duke",
-   "summary": "Rewind four years. Zach Duke looks in the mirror and does not like the man staring back. He is out of shape. He is chronically sick. He is a dad running on empty. So he prays a dangerous prayer. He asks God not to let him move from his chair until the fire comes back. What God says next makes no sense. Play soccer. Zach has never played. He posts his training every day to nobody. Then the internet finds him.Videos with tens of millions of views later, Zach earns a spot on a Team USA World Cup 6x6 roster at an age when most players retire. But this is not a sports story. It is the story of a mi",
-   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW9457250446.mp3",
-   "published": "Tue, 28 Jul 2026 21:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "id": "4b207b4a-85ab-11f1-8902-6fce07fd8e54",
+   "showID": "https://feeds.megaphone.fm/SGP8517078272",
+   "showTitle": "Get Sleepy: Sleep meditation and stories",
+   "title": "Þrymr and the Hammer of Thor (Norse Myths #7)",
+   "summary": "Narrator: Thomas Jones 🇬🇧\n\nWriter: Frankie Regalia ✍️\n\nSound effects: crickets 🌌\n\n\n\nWelcome back, sleepyheads. Tonight's Norse myth features the story of the goddess Freyja’s false wedding. We'll see the bravery of Thor, the wiliness of Loki, and the ingenuity of Freyja come together to retrieve a precious object. 😴\n\nIncludes mentions of: Religious Traditions, Weddings.&nbsp;\n\nTo receive our FREE weekly newsletter:&nbsp;JOIN OUR MAILING LIST\n\n\n\nEnjoy various playlists&nbsp;of our stories and meditations on our&nbsp;⁠⁠⁠Slumber Studios Spotify profile⁠⁠⁠.\n\n\n\nGet Sleepy Premium\n\nListen completely",
+   "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/SGP4158751702.mp3",
+   "published": "Mon, 27 Jul 2026 16:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A personal story of prayer, faith, and transformation through a difficult life phase.",
-   "tradition": "Christian"
+   "reason": "A Norse myth story featuring gods and moral themes from an ancient tradition.",
+   "tradition": "Indigenous"
   },
   {
    "id": "b5f2faf5-1e6b-4321-9bfc-844c3f67157b",
@@ -92,34 +79,21 @@
    "published": "Wed, 29 Jul 2026 06:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/17/cb/7117cb69-9b97-b595-8635-f03a159856ca/mza_7631777769249125333.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores afterlife and spiritual guides with personal psychic experiences, blending belief and inquiry.",
+   "reason": "Discusses afterlife and spiritual guides with personal psychic experiences.",
    "tradition": "Interfaith"
   },
   {
-   "id": "4b207b4a-85ab-11f1-8902-6fce07fd8e54",
-   "showID": "https://feeds.megaphone.fm/SGP8517078272",
-   "showTitle": "Get Sleepy: Sleep meditation and stories",
-   "title": "Þrymr and the Hammer of Thor (Norse Myths #7)",
-   "summary": "Narrator: Thomas Jones 🇬🇧\n\nWriter: Frankie Regalia ✍️\n\nSound effects: crickets 🌌\n\n\n\nWelcome back, sleepyheads. Tonight's Norse myth features the story of the goddess Freyja’s false wedding. We'll see the bravery of Thor, the wiliness of Loki, and the ingenuity of Freyja come together to retrieve a precious object. 😴\n\nIncludes mentions of: Religious Traditions, Weddings.&nbsp;\n\nTo receive our FREE weekly newsletter:&nbsp;JOIN OUR MAILING LIST\n\n\n\nEnjoy various playlists&nbsp;of our stories and meditations on our&nbsp;⁠⁠⁠Slumber Studios Spotify profile⁠⁠⁠.\n\n\n\nGet Sleepy Premium\n\nListen completely",
-   "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/SGP4158751702.mp3",
-   "published": "Mon, 27 Jul 2026 16:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
+   "id": "d4d3ff60-8a97-11f1-8a04-b74d0445750a",
+   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
+   "showTitle": "Blurry Creatures",
+   "title": "EP: 448 World Cup Dad: Bigfoot, a Demonic Attack, and a Soccer Miracle with Zach Duke",
+   "summary": "Rewind four years. Zach Duke looks in the mirror and does not like the man staring back. He is out of shape. He is chronically sick. He is a dad running on empty. So he prays a dangerous prayer. He asks God not to let him move from his chair until the fire comes back. What God says next makes no sense. Play soccer. Zach has never played. He posts his training every day to nobody. Then the internet finds him.Videos with tens of millions of views later, Zach earns a spot on a Team USA World Cup 6x6 roster at an age when most players retire. But this is not a sports story. It is the story of a mi",
+   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW9457250446.mp3",
+   "published": "Tue, 28 Jul 2026 21:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A Norse myth story with themes of bravery and ingenuity, lightly touching on religious motifs.",
-   "tradition": "Indigenous"
-  },
-  {
-   "id": "b4dd32bc-4076-4538-953d-9d75fef0a958",
-   "showID": "https://feeds.simplecast.com/XYHE1JPs",
-   "showTitle": "Passion Struck with John R. Miles",
-   "title": "The Person You Become Is the Person You Practice | John R. Miles - EP 801",
-   "summary": "Most of us are waiting for the moment everything changes.\nThe breakthrough. The perfect habit. The morning you finally wake up feeling motivated enough to become the person you've always wanted to be.\nBut what if that moment never comes?\nIn this solo episode, John R. Miles challenges one of the biggest myths in personal growth: that transformation happens in an instant. Instead, he reveals why the future version of you is created through the ordinary practices you repeat every single day.\nDrawing on the timeless Zen teaching of Chop Wood, Carry Water, legendary coach John Wooden's relentless f",
-   "audioURL": "https://injector.simplecastaudio.com/0cb647de-4d3e-4036-8f2e-58ea2d655cc6/episodes/9099ae14-c56f-4d71-8825-f7497df4a2ea/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0cb647de-4d3e-4036-8f2e-58ea2d655cc6&amp;awEpisodeId=9099ae14-c56f-4d71-8825-f7497df4a2ea&amp;feed=XYHE1JPs",
-   "published": "Fri, 31 Jul 2026 04:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Explores personal transformation through daily practice, touching on identity and growth.",
-   "tradition": "Secular"
+   "reason": "A personal story of prayer and transformation with some spiritual elements.",
+   "tradition": "Christian"
   },
   {
    "id": "1bb03c60-87ae-11f1-be31-579222d66ced",
@@ -131,7 +105,7 @@
    "published": "Sun, 26 Jul 2026 14:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/eb/2b/49/eb2b49b3-16b9-8ddb-d73a-43f71d302e76/mza_18084327446382056995.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores spiritual hunger and tradition in young people's return to Latin Mass.",
+   "reason": "Explores spiritual hunger and tradition but mainly cultural and social reasons.",
    "tradition": "Christian"
   }
  ],
