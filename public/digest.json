@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-07-31T22:26:43.731955+00:00",
+ "generatedAt": "2026-07-31T23:26:17.117005+00:00",
  "showsScanned": 400,
- "candidates": 55,
+ "candidates": 59,
  "picks": [
   {
    "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
@@ -14,7 +14,7 @@
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores the sacred Bwiti tradition and iboga's spiritual role in Gabonese life.",
+   "reason": "In-depth look at a sacred African tradition linking plant medicine and spiritual practice.",
    "tradition": "Indigenous"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Fri, 31 Jul 2026 17:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "In-depth discussion on AI consciousness and moral implications.",
+   "reason": "A serious conversation on AI consciousness, suffering, and moral patienthood.",
    "tradition": "Secular"
   },
   {
@@ -40,8 +40,21 @@
    "published": "Tue, 28 Jul 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores mortality acceptance and living purposefully through death doula insights.",
+   "reason": "Explores mortality acceptance, death doulas, and living with purpose deeply.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "ff826d3e-8211-11f1-ab7c-674ce22d4f2d",
+   "showID": "https://feeds.megaphone.fm/TSF6225871961",
+   "showTitle": "No Small Endeavor with Lee C. Camp",
+   "title": "The Subtext: Deconstructing Christianity",
+   "summary": "What happens when a retired theology professor walks into a party full of deconstructing twenty-somethings? It sounds like the start of a joke. But really. How do we show up for ourselves and the people we love when doubt and deconstruction enter the chat?\n\nThis week on The Subtext, Lee and Savannah discuss one of the more defining conversations of modern faith: deconstruction. Whether you're asking big questions yourself or walking alongside someone who is, this episode is an invitation to keep showing up with curiosity, compassion, and hope.\n\n\n\nThings we mentioned in this episode:\n\nOf Gramma",
+   "audioURL": "https://mgln.ai/e/51/pscrb.fm/rss/p/tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/traffic.megaphone.fm/TSF4979298415.mp3",
+   "published": "Wed, 29 Jul 2026 09:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A serious conversation about faith deconstruction and doubt in Christianity.",
+   "tradition": "Christian"
   },
   {
    "id": "87882620-93d4-44ca-99c9-9b43399fb2c2",
@@ -53,34 +66,21 @@
    "published": "Fri, 24 Jul 2026 18:00:03 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former nun reflects on faith, obedience, and leaving religious life.",
+   "reason": "A former nun reflects deeply on faith, obedience, and leaving religious life.",
    "tradition": "Christian"
   },
   {
-   "id": "b5f2faf5-1e6b-4321-9bfc-844c3f67157b",
-   "showID": "https://rss.amperwave.net/v2/feed/podcorn/6aedaa4af9023293eeccb7c93c30b6bd",
-   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
-   "title": "Guardians of The Dead",
-   "summary": "My special guest is author and researcher Philip Kinsella who's here to discuss his book Guardians of The Dead that you can get now on Amazon.Is there an afterlife? Are such things as Angels and Spirit Guides real? Does God exist? Medium, Philip Kinsella takes the reader on a personal, psychic journey of discovery, revealing that there does indeed appear to be hidden forces assisting mankind in all areas of life. He also demonstrates how communication can be achieved through a variety of means and reveals how consciousness works. The human brain is the conduit which allows such alternate realm",
-   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8545864/8545864_2026-07-29-060004.128.mp3?rssID=6605",
-   "published": "Wed, 29 Jul 2026 06:30:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/17/cb/7117cb69-9b97-b595-8635-f03a159856ca/mza_7631777769249125333.jpg/600x600bb.jpg",
+   "id": "d4a068b5-c6ae-4719-ac58-cfaf2049c480",
+   "showID": "https://rss.libsyn.com/shows/606285/destinations/5279650.xml",
+   "showTitle": "The Deep End With Lecrae",
+   "title": "Tony Evans and Beth Moore Get Honest About the American Church",
+   "summary": "Lecrae sits down with Dr. Tony Evans, Beth Moore, and Pastor Jeffrey Johnson Sr. for a rare conversation about the state of the American church—and what it will take to move forward faithfully. Together, they address why younger generations are leaving the faith, the divide between Christianity and American politics, the role of women in ministry, navigating prolonged singleness, enduring painful seasons, and knowing when it's time to pass the mantle. With more than 140 years of combined ministry experience, these Christian leaders share hard-earned wisdom about following Jesus through every s",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/289702f0-eba6-44cb-bf7c-b7ff937eb51c/Audio_Ep131_OCBF_RoundTable_DeepEnd_FINAL.mp3?dest-id=5279650",
+   "published": "Fri, 31 Jul 2026 09:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores afterlife and spiritual guides through personal psychic experiences.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "4b207b4a-85ab-11f1-8902-6fce07fd8e54",
-   "showID": "https://feeds.megaphone.fm/SGP8517078272",
-   "showTitle": "Get Sleepy: Sleep meditation and stories",
-   "title": "Þrymr and the Hammer of Thor (Norse Myths #7)",
-   "summary": "Narrator: Thomas Jones 🇬🇧\n\nWriter: Frankie Regalia ✍️\n\nSound effects: crickets 🌌\n\n\n\nWelcome back, sleepyheads. Tonight's Norse myth features the story of the goddess Freyja’s false wedding. We'll see the bravery of Thor, the wiliness of Loki, and the ingenuity of Freyja come together to retrieve a precious object. 😴\n\nIncludes mentions of: Religious Traditions, Weddings.&nbsp;\n\nTo receive our FREE weekly newsletter:&nbsp;JOIN OUR MAILING LIST\n\n\n\nEnjoy various playlists&nbsp;of our stories and meditations on our&nbsp;⁠⁠⁠Slumber Studios Spotify profile⁠⁠⁠.\n\n\n\nGet Sleepy Premium\n\nListen completely",
-   "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/SGP4158751702.mp3",
-   "published": "Mon, 27 Jul 2026 16:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A Norse myth story involving gods and moral themes from an ancient tradition.",
-   "tradition": "Indigenous"
+   "reason": "A candid discussion on faith, doubt, and church challenges in contemporary Christianity.",
+   "tradition": "Christian"
   },
   {
    "id": "d4d3ff60-8a97-11f1-8a04-b74d0445750a",
@@ -91,22 +91,22 @@
    "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW9457250446.mp3",
    "published": "Tue, 28 Jul 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "A personal story involving prayer and faith with some spiritual elements.",
+   "rating": 7,
+   "reason": "Personal story of prayer, transformation, and faith through unexpected means.",
    "tradition": "Christian"
   },
   {
-   "id": "standardoftruth.podbean.com/c1166a82-678c-3d17-a266-af389031d193",
-   "showID": "https://feed.podbean.com/standardoftruth/feed.xml",
-   "showTitle": "Standard of Truth",
-   "title": "S6E30 Where There's Smoke: The Bad Logic Behind Anti-Mormon Claims",
-   "summary": "In this episode, Gerrit pays a heartfelt tribute to Eric Smith, a beloved Joseph Smith Papers colleague and devoted listener who recently passed after a long battle with cancer, complete with the legendary tales of stolen break-room milk and a service missionary's knuckle-deep Oreo heist. \nThe mailbag delivers a live-show love story, a a testimony-strengthening note from Kimberly, and a listener's run-in with anti-Mormon radio. That sparks a robust discussion on how critics caricature Latter-day Saint belief without ever reading Doctrine and Covenants 76. Poor Ezra Booth gets bumped yet again.",
-   "audioURL": "https://mcdn.podbean.com/mf/web/qrwvdmdjknhie3gf/S6E30_Where_There_s_Smoke_-_The_Bad_Logic_Behind_Anti-Mormon_Claimsb2qvh.mp3",
-   "published": "Thu, 30 Jul 2026 05:51:00 -0600",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f0/6c/87/f06c8724-343c-489a-eba1-08ecd9f8fbc8/mza_9582686813093588614.jpg/600x600bb.jpg",
+   "id": "4b207b4a-85ab-11f1-8902-6fce07fd8e54",
+   "showID": "https://feeds.megaphone.fm/SGP8517078272",
+   "showTitle": "Get Sleepy: Sleep meditation and stories",
+   "title": "Þrymr and the Hammer of Thor (Norse Myths #7)",
+   "summary": "Narrator: Thomas Jones 🇬🇧\n\nWriter: Frankie Regalia ✍️\n\nSound effects: crickets 🌌\n\n\n\nWelcome back, sleepyheads. Tonight's Norse myth features the story of the goddess Freyja’s false wedding. We'll see the bravery of Thor, the wiliness of Loki, and the ingenuity of Freyja come together to retrieve a precious object. 😴\n\nIncludes mentions of: Religious Traditions, Weddings.&nbsp;\n\nTo receive our FREE weekly newsletter:&nbsp;JOIN OUR MAILING LIST\n\n\n\nEnjoy various playlists&nbsp;of our stories and meditations on our&nbsp;⁠⁠⁠Slumber Studios Spotify profile⁠⁠⁠.\n\n\n\nGet Sleepy Premium\n\nListen completely",
+   "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/SGP4158751702.mp3",
+   "published": "Mon, 27 Jul 2026 16:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discussion on religious criticism and faith, with some personal testimony.",
-   "tradition": "Christian"
+   "reason": "A Norse myth story illustrating divine traits and moral themes.",
+   "tradition": "Indigenous"
   },
   {
    "id": "1bb03c60-87ae-11f1-be31-579222d66ced",
@@ -118,7 +118,7 @@
    "published": "Sun, 26 Jul 2026 14:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/eb/2b/49/eb2b49b3-16b9-8ddb-d73a-43f71d302e76/mza_18084327446382056995.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores young people's spiritual hunger through traditional Latin Mass revival.",
+   "reason": "Conversation about spiritual hunger and tradition in worship, somewhat on meaning and faith.",
    "tradition": "Christian"
   }
  ],
@@ -206,6 +206,7 @@
   "ed84ab428b6708d20b75ffc3c20a2036": "2026-07-31",
   "87f15333-eff8-40f1-a1da-b495011c5625": "2026-07-31",
   "5c04bca2-f43c-41cd-a2e5-b495003e09c2": "2026-07-31",
-  "standardoftruth.podbean.com/c1166a82-678c-3d17-a266-af389031d193": "2026-07-31"
+  "standardoftruth.podbean.com/c1166a82-678c-3d17-a266-af389031d193": "2026-07-31",
+  "d4a068b5-c6ae-4719-ac58-cfaf2049c480": "2026-07-31"
  }
 }
