@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-07-31T01:42:02.086121+00:00",
+ "generatedAt": "2026-07-31T03:11:53.871156+00:00",
  "showsScanned": 400,
  "candidates": 56,
  "picks": [
@@ -14,21 +14,8 @@
    "published": "Thu, 23 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuroscientist and meditation teacher discusses consciousness, ethics, and self-understanding.",
+   "reason": "Neuroscientist meditates on consciousness, ethics, and overcoming mental challenges.",
    "tradition": "Secular"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
-   "showID": "https://rss.art19.com/the-telepathy-tapes",
-   "showTitle": "The Telepathy Tapes",
-   "title": "S2E41: Ibogaine Inquiries Part III: The Sacred Roots of Iboga",
-   "summary": "Long before ibogaine entered Western clinics and laboratories, the plant it comes from held a sacred place in Gabonese life. In Part III of Ibogaine Inquiries, we travel to Gabon to explore Bwiti, the spiritual tradition in which iboga is understood as a teacher, guide, and living presence.Gabonese practitioners and Bwiti initiates describe the preparation, community, music, mentorship, and lifelong practice that surround the medicine. They explain why Iboga cannot be separated from the larger body of knowledge developed around it. As Western interest continues to grow, this episode asks what ",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/fd973b3b-9b1d-40e3-b289-b01d4e52675f.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Mon, 27 Jul 2026 07:03:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Deep exploration of sacred plant medicine and spiritual tradition in Gabon.",
-   "tradition": "Indigenous"
   },
   {
    "id": "ff826d3e-8211-11f1-ab7c-674ce22d4f2d",
@@ -44,6 +31,19 @@
    "tradition": "Christian"
   },
   {
+   "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
+   "showID": "https://rss.art19.com/the-telepathy-tapes",
+   "showTitle": "The Telepathy Tapes",
+   "title": "S2E41: Ibogaine Inquiries Part III: The Sacred Roots of Iboga",
+   "summary": "Long before ibogaine entered Western clinics and laboratories, the plant it comes from held a sacred place in Gabonese life. In Part III of Ibogaine Inquiries, we travel to Gabon to explore Bwiti, the spiritual tradition in which iboga is understood as a teacher, guide, and living presence.Gabonese practitioners and Bwiti initiates describe the preparation, community, music, mentorship, and lifelong practice that surround the medicine. They explain why Iboga cannot be separated from the larger body of knowledge developed around it. As Western interest continues to grow, this episode asks what ",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/fd973b3b-9b1d-40e3-b289-b01d4e52675f.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Mon, 27 Jul 2026 07:03:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores a sacred African spiritual tradition and its relationship to consciousness and healing.",
+   "tradition": "Indigenous"
+  },
+  {
    "id": "87882620-93d4-44ca-99c9-9b43399fb2c2",
    "showID": "https://feeds.npr.org/381444908/podcast.xml",
    "showTitle": "Fresh Air",
@@ -53,7 +53,20 @@
    "published": "Fri, 24 Jul 2026 18:00:03 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A former nun reflects on faith, obedience, and rebellion in religious life.",
+   "reason": "A former nun reflects on faith, obedience, and rebellion, touching on meaning and doubt.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/O5TsCb4Wl-PCgmKnidT3lUgQRGOQ4lqccbWaLRvcnE0",
+   "showID": "https://rss.art19.com/the-exorcist-files",
+   "showTitle": "The Exorcist Files",
+   "title": "Fr. Carlos Martins on Relics, Holy Curses, and How God Actually Speaks",
+   "summary": "Fr. Carlos Martins opens the mailbag. In one sitting he takes on venerating relics, praying holy curses, biblically laying off people who feel like family, staying hopeful while single at 40, and how to tell God's voice from your own. Blunt, funny, and unsparing, the exorcist without a script.Thanks to our SponsorsGet 25% Off Cowboy Colostrum with code EXFILES at https://www.cowboycolostrum.com/EXFILES.Go to wildalaskan.com/EXFILES for $35 off your first order of premium, wild-caught seafood.Live Better Longer with BUBS Naturals. For A limited time get 20% Off your entire order with code EXFIL",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/p687916/rss.art19.com/episodes/c6e3659c-781e-42b1-87de-8afcbec1510a.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Thu, 23 Jul 2026 12:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Covers Catholic relics, prayer, and discerning God's voice with some spiritual depth.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +79,7 @@
    "published": "Thu, 23 Jul 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Focuses on biblical warnings and judgment, mostly expository rather than contemplative.",
+   "reason": "Focuses on biblical warnings and judgment with some ethical reflection but mainly scriptural exposition.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +92,7 @@
    "published": "Tue, 28 Jul 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal story of prayer and transformation with some spiritual questioning.",
+   "reason": "Personal story involving prayer, transformation, and faith with some spiritual depth.",
    "tradition": "Christian"
   },
   {
@@ -93,19 +106,6 @@
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/eb/2b/49/eb2b49b3-16b9-8ddb-d73a-43f71d302e76/mza_18084327446382056995.jpg/600x600bb.jpg",
    "rating": 6,
    "reason": "Explores young people's spiritual hunger through traditional Latin Mass revival.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/O5TsCb4Wl-PCgmKnidT3lUgQRGOQ4lqccbWaLRvcnE0",
-   "showID": "https://rss.art19.com/the-exorcist-files",
-   "showTitle": "The Exorcist Files",
-   "title": "Fr. Carlos Martins on Relics, Holy Curses, and How God Actually Speaks",
-   "summary": "Fr. Carlos Martins opens the mailbag. In one sitting he takes on venerating relics, praying holy curses, biblically laying off people who feel like family, staying hopeful while single at 40, and how to tell God's voice from your own. Blunt, funny, and unsparing, the exorcist without a script.Thanks to our SponsorsGet 25% Off Cowboy Colostrum with code EXFILES at https://www.cowboycolostrum.com/EXFILES.Go to wildalaskan.com/EXFILES for $35 off your first order of premium, wild-caught seafood.Live Better Longer with BUBS Naturals. For A limited time get 20% Off your entire order with code EXFIL",
-   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/p687916/rss.art19.com/episodes/c6e3659c-781e-42b1-87de-8afcbec1510a.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Thu, 23 Jul 2026 12:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Covers Catholic relics, prayer, and discerning God's voice with practical spiritual advice.",
    "tradition": "Christian"
   }
  ],
