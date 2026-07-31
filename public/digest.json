@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-07-31T19:35:42.645704+00:00",
+ "generatedAt": "2026-07-31T20:34:14.860033+00:00",
  "showsScanned": 400,
- "candidates": 53,
+ "candidates": 56,
  "picks": [
   {
    "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
@@ -14,21 +14,21 @@
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores sacred African spiritual tradition and consciousness through iboga.",
+   "reason": "Explores the sacred roots and spiritual practice surrounding iboga in Gabonese Bwiti tradition.",
    "tradition": "Indigenous"
   },
   {
-   "id": "37c1a188-82f4-46e1-a8de-13d1fd44bc16",
-   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
-   "showTitle": "Making Sense with Sam Harris",
-   "title": "#487 — Is AI Already Conscious?",
-   "summary": "Sam Harris speaks with Cameron Berg about whether AI systems are or could become conscious. They discuss self-reports in LLMs, what models say when deception is switched off, the \"bliss attractor\" state, consciousness and sentience, the hard problem of consciousness, parallels between neural networks and biological brains, the moral risk of building minds that can suffer, possible parallels to factory farming, moral patienthood, the alignment problem, and other topics. Annaka Harris's upcoming book: Unlocking Consciousness If the Making Sense podcast logo in your player is BLACK, you can SUBSC",
-   "audioURL": "https://traffic.libsyn.com/secure/wakingup/487_MS_Cameron_Berg_subscriber-psa.mp3?dest-id=480596",
-   "published": "Fri, 31 Jul 2026 17:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
+   "id": "5c04bca2-f43c-41cd-a2e5-b495003e09c2",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "A Life Supreme",
+   "summary": "At the end of his longevity journey, Mangesh struggles to make sense of the growing belief that death can—or should—be optional. He spends time with death doula Alua Arthur, who explains how accepting mortality allows people to live with purpose, and meets a longevity researcher whose tidy economic models are complicated by a tragic loss in her own life. Then, as he weighs the optimism of young longevinauts with the fear of losing what makes us human, he confronts the question he’s really been asking all along.    Watch Alua Arthur’s TED Talk and learn more about Going with Grace Check the Aev",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/91302074-f3b9-4a98-84e0-af4e011ffabb/5c04bca2-f43c-41cd-a2e5-b495003e09c2/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Tue, 28 Jul 2026 07:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep discussion on consciousness, suffering, and moral patienthood in AI minds.",
-   "tradition": "Secular"
+   "reason": "Explores mortality acceptance, purpose, and the human condition through death doulas.",
+   "tradition": "Interfaith"
   },
   {
    "id": "87882620-93d4-44ca-99c9-9b43399fb2c2",
@@ -40,7 +40,7 @@
    "published": "Fri, 24 Jul 2026 18:00:03 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former nun reflects on faith, obedience, and rebellion in religious life.",
+   "reason": "A former nun reflects on faith, obedience, and rebellion in her religious life.",
    "tradition": "Christian"
   },
   {
@@ -53,34 +53,21 @@
    "published": "Thu, 23 Jul 2026 21:01:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A woman shares a vision and faith journey confronting illness and healing.",
+   "reason": "A woman shares a profound experience of prayer, vision, and searching for healing.",
    "tradition": "Christian"
   },
   {
-   "id": "b5f2faf5-1e6b-4321-9bfc-844c3f67157b",
-   "showID": "https://rss.amperwave.net/v2/feed/podcorn/6aedaa4af9023293eeccb7c93c30b6bd",
-   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
-   "title": "Guardians of The Dead",
-   "summary": "My special guest is author and researcher Philip Kinsella who's here to discuss his book Guardians of The Dead that you can get now on Amazon.Is there an afterlife? Are such things as Angels and Spirit Guides real? Does God exist? Medium, Philip Kinsella takes the reader on a personal, psychic journey of discovery, revealing that there does indeed appear to be hidden forces assisting mankind in all areas of life. He also demonstrates how communication can be achieved through a variety of means and reveals how consciousness works. The human brain is the conduit which allows such alternate realm",
-   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8545864/8545864_2026-07-29-060004.128.mp3?rssID=6605",
-   "published": "Wed, 29 Jul 2026 06:30:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/17/cb/7117cb69-9b97-b595-8635-f03a159856ca/mza_7631777769249125333.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores afterlife and spiritual guides through personal psychic experiences.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "750f0073-9865-453e-babd-b49400e21a4f",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
-   "showTitle": "The Best of Coast to Coast AM",
-   "title": "Episode 301: Afterlife Science & Signs",
-   "summary": "Join Sandra and explore near-death experience data with a military intelligence analyst, and meet a mom who shares how signs can help the healing process.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/750f0073-9865-453e-babd-b49400e21a4f/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
-   "published": "Mon, 27 Jul 2026 13:49:01 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Reviews near-death experiences and signs related to afterlife and healing.",
-   "tradition": "Interfaith"
+   "id": "37c1a188-82f4-46e1-a8de-13d1fd44bc16",
+   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
+   "showTitle": "Making Sense with Sam Harris",
+   "title": "#487 — Is AI Already Conscious?",
+   "summary": "Sam Harris speaks with Cameron Berg about whether AI systems are or could become conscious. They discuss self-reports in LLMs, what models say when deception is switched off, the \"bliss attractor\" state, consciousness and sentience, the hard problem of consciousness, parallels between neural networks and biological brains, the moral risk of building minds that can suffer, possible parallels to factory farming, moral patienthood, the alignment problem, and other topics. Annaka Harris's upcoming book: Unlocking Consciousness If the Making Sense podcast logo in your player is BLACK, you can SUBSC",
+   "audioURL": "https://traffic.libsyn.com/secure/wakingup/487_MS_Cameron_Berg_subscriber-psa.mp3?dest-id=480596",
+   "published": "Fri, 31 Jul 2026 17:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A deep discussion on consciousness, suffering, and moral risks of AI minds.",
+   "tradition": "Secular"
   },
   {
    "id": "d4d3ff60-8a97-11f1-8a04-b74d0445750a",
@@ -92,60 +79,21 @@
    "published": "Tue, 28 Jul 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A personal story of prayer, suffering, and transformation through faith.",
+   "reason": "A personal story of prayer, faith, and transformation through a difficult life phase.",
    "tradition": "Christian"
   },
   {
-   "id": "a623b717416746ee0e320047bc0bc016",
-   "showID": "https://podcasts.subsplash.com:443/03fe243/podcast.rss",
-   "showTitle": "Prophecy Watchers",
-   "title": "The Mystery of the Resurrection Body | Studies with Stearman",
-   "summary": "<p>How will believers be raised? What kind of body will we receive? And how does Genesis connect to the resurrection?</p><p>In this fascinating study of 1 Corinthians 15, Gary explores Paul's famous illustration of the seed, revealing God's incredible plan for the resurrection of believers. Along the way, he connects the promise of our future glorified bodies with Genesis 3, Genesis 6, the corruption of humanity before the Flood, and Christ as the \"Last Adam.\"</p>",
-   "audioURL": "https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvTkhDOEM5L2RkOThhODMwLTM1MGMtNDM4MS05MzBjLWUwYjhmNWYzNDY0MC9hdWRpby5tcDM.mp3?k=NHC8C9&amp;s=3&amp;sapid=vx4g5bh",
-   "published": "Wed, 29 Jul 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/4e/30/364e308d-99c9-778e-e711-59e090408814/mza_3684559455643163671.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores resurrection and human destiny through biblical texts, touching on mortality and hope.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "df650376-555e-4c61-9b3b-b48e00f47565",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/752ba8f1-0e9f-43cc-81d8-b45f00f9a408/6f1d99f7-4f58-4689-b4f7-b45f00f9a4e3/podcast.rss",
-   "showTitle": "Joel Osteen Podcast",
-   "title": "God Remembers You | Joel Osteen",
-   "summary": "It’s easy to feel forgotten or insignificant when we're still waiting for our dreams to come to pass. But the Scripture says God never forgets us. He sees every struggle and trial, and He's working to lead you into victory. You’re not who you were—you’re who God created you to become! Our July offer will help you renew your mind with His truth so you can begin walking in greater freedom, confidence, and purpose. Request Made By God today.  https://bit.ly/4ocn5PN See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/752ba8f1-0e9f-43cc-81d8-b45f00f9a408/df650376-555e-4c61-9b3b-b48e00f47565/audio.mp3?utm_source=Podcast&amp;in_playlist=6f1d99f7-4f58-4689-b4f7-b45f00f9a4e3",
-   "published": "Fri, 24 Jul 2026 08:20:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/f8/5a/68f85a00-06d4-fd90-7626-5161abbe0790/mza_11350406751783730444.jpg/600x600bb.jpg",
+   "id": "b5f2faf5-1e6b-4321-9bfc-844c3f67157b",
+   "showID": "https://rss.amperwave.net/v2/feed/podcorn/6aedaa4af9023293eeccb7c93c30b6bd",
+   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
+   "title": "Guardians of The Dead",
+   "summary": "My special guest is author and researcher Philip Kinsella who's here to discuss his book Guardians of The Dead that you can get now on Amazon.Is there an afterlife? Are such things as Angels and Spirit Guides real? Does God exist? Medium, Philip Kinsella takes the reader on a personal, psychic journey of discovery, revealing that there does indeed appear to be hidden forces assisting mankind in all areas of life. He also demonstrates how communication can be achieved through a variety of means and reveals how consciousness works. The human brain is the conduit which allows such alternate realm",
+   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8545864/8545864_2026-07-29-060004.128.mp3?rssID=6605",
+   "published": "Wed, 29 Jul 2026 06:30:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/17/cb/7117cb69-9b97-b595-8635-f03a159856ca/mza_7631777769249125333.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Offers encouragement based on Scripture but leans toward motivational teaching.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "ed84ab428b6708d20b75ffc3c20a2036",
-   "showID": "https://podcasts.subsplash.com:443/03fe243/podcast.rss",
-   "showTitle": "Prophecy Watchers",
-   "title": "Their Plan to Hide the Rapture | Billy Crone | The Week in Bible Prophecy | Repost",
-   "summary": "<p>As reports of UFOs, UAPs, and alleged alien encounters continue to dominate headlines, many people are asking the same question: What does the Bible say?</p><p><br></p><p>In this classic Prophecy Vault conversation, Mondo and Billy Crone examine one of the most fascinating prophetic topics of our time. Billy explains why the growing fascination with extraterrestrials may actually be preparing the world for a powerful spiritual deception—and how it could provide the perfect explanation for the Rapture in the minds of those left behind.</p>",
-   "audioURL": "https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvTkhDOEM5LzAzNDEyZmRlLWU2YjEtNDU5ZS04OGIwLWQwNDJlM2VlNTA4OC9hdWRpby5tcDM.mp3?k=NHC8C9&amp;s=3&amp;sapid=qv6g7pb",
-   "published": "Thu, 30 Jul 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/4e/30/364e308d-99c9-778e-e711-59e090408814/mza_3684559455643163671.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses Bible prophecy and UFOs with a focus on spiritual deception.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "87f15333-eff8-40f1-a1da-b495011c5625",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/752ba8f1-0e9f-43cc-81d8-b45f00f9a408/6f1d99f7-4f58-4689-b4f7-b45f00f9a4e3/podcast.rss",
-   "showTitle": "Joel Osteen Podcast",
-   "title": "Redeeming The Time | Joel Osteen",
-   "summary": "Time is one of the most valuable commodities we have. When you see each day as the gift that is, you’ll recognize the responsibility you have to pursue your God-given purpose. You have everything you need to become who He created you to be. You’re not who you were—you’re who God created you to become! Our July offer will help you renew your mind with His truth so you can begin walking in greater freedom, confidence, and purpose. Request Made By God today.  https://bit.ly/4ocn5PN See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/752ba8f1-0e9f-43cc-81d8-b45f00f9a408/87f15333-eff8-40f1-a1da-b495011c5625/audio.mp3?utm_source=Podcast&amp;in_playlist=6f1d99f7-4f58-4689-b4f7-b45f00f9a4e3",
-   "published": "Fri, 31 Jul 2026 08:20:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/f8/5a/68f85a00-06d4-fd90-7626-5161abbe0790/mza_11350406751783730444.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Motivational talk about time and purpose grounded in Christian faith.",
-   "tradition": "Christian"
+   "reason": "Explores afterlife and spiritual guides with personal psychic experiences, blending belief and inquiry.",
+   "tradition": "Interfaith"
   },
   {
    "id": "4b207b4a-85ab-11f1-8902-6fce07fd8e54",
@@ -157,8 +105,21 @@
    "published": "Mon, 27 Jul 2026 16:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A Norse myth story with spiritual themes but mainly narrative entertainment.",
+   "reason": "A Norse myth story with themes of bravery and ingenuity, lightly touching on religious motifs.",
    "tradition": "Indigenous"
+  },
+  {
+   "id": "b4dd32bc-4076-4538-953d-9d75fef0a958",
+   "showID": "https://feeds.simplecast.com/XYHE1JPs",
+   "showTitle": "Passion Struck with John R. Miles",
+   "title": "The Person You Become Is the Person You Practice | John R. Miles - EP 801",
+   "summary": "Most of us are waiting for the moment everything changes.\nThe breakthrough. The perfect habit. The morning you finally wake up feeling motivated enough to become the person you've always wanted to be.\nBut what if that moment never comes?\nIn this solo episode, John R. Miles challenges one of the biggest myths in personal growth: that transformation happens in an instant. Instead, he reveals why the future version of you is created through the ordinary practices you repeat every single day.\nDrawing on the timeless Zen teaching of Chop Wood, Carry Water, legendary coach John Wooden's relentless f",
+   "audioURL": "https://injector.simplecastaudio.com/0cb647de-4d3e-4036-8f2e-58ea2d655cc6/episodes/9099ae14-c56f-4d71-8825-f7497df4a2ea/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0cb647de-4d3e-4036-8f2e-58ea2d655cc6&amp;awEpisodeId=9099ae14-c56f-4d71-8825-f7497df4a2ea&amp;feed=XYHE1JPs",
+   "published": "Fri, 31 Jul 2026 04:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores personal transformation through daily practice, touching on identity and growth.",
+   "tradition": "Secular"
   },
   {
    "id": "1bb03c60-87ae-11f1-be31-579222d66ced",
@@ -170,7 +131,7 @@
    "published": "Sun, 26 Jul 2026 14:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/eb/2b/49/eb2b49b3-16b9-8ddb-d73a-43f71d302e76/mza_18084327446382056995.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores spiritual hunger and tradition in worship, but more cultural than philosophical.",
+   "reason": "Explores spiritual hunger and tradition in young people's return to Latin Mass.",
    "tradition": "Christian"
   }
  ],
@@ -256,6 +217,7 @@
   "a623b717416746ee0e320047bc0bc016": "2026-07-31",
   "df650376-555e-4c61-9b3b-b48e00f47565": "2026-07-31",
   "ed84ab428b6708d20b75ffc3c20a2036": "2026-07-31",
-  "87f15333-eff8-40f1-a1da-b495011c5625": "2026-07-31"
+  "87f15333-eff8-40f1-a1da-b495011c5625": "2026-07-31",
+  "5c04bca2-f43c-41cd-a2e5-b495003e09c2": "2026-07-31"
  }
 }
