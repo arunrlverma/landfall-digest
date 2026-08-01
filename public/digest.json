@@ -1,22 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-08-01T16:25:57.929299+00:00",
+ "generatedAt": "2026-08-01T17:25:51.747092+00:00",
  "showsScanned": 400,
  "candidates": 57,
  "picks": [
-  {
-   "id": "ccb59bfe-d51b-11f0-a46a-3f4122d29471",
-   "showID": "https://feeds.megaphone.fm/theezrakleinshow",
-   "showTitle": "The Gray Area with Sean Illing",
-   "title": "The illusion of the ‘self’",
-   "summary": "Sean Illing talks with neuroscientist Gregory Berns, author of The Self Delusion. Berns claims that the idea of a unified, persistent self is a kind of illusion, and that we are better understood as multiple selves at different moments in time, tied together by a story — which is what we call our identity. Sean and Greg also talk about whether the brain is a computer, how perception works, the limits of thinking too much about thinking, and what psychedelics can do to disrupt and change the stories we tell about ourselves.\n\nThis episode originally aired in November of 2022.\n\nHost: Sean Illing ",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9440765702.mp3",
-   "published": "Mon, 27 Jul 2026 08:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/25/f5/8425f5c3-ce22-db1a-3e55-1a6698cc7f03/mza_3273078451247345185.jpeg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Neuroscientist discusses the illusion of self and identity as a narrative construct.",
-   "tradition": "Secular"
-  },
   {
    "id": "https://api.spreaker.com/episode/73276790",
    "showID": "https://www.spreaker.com/show/4858435/episodes/feed",
@@ -27,7 +14,7 @@
    "published": "Sat, 01 Aug 2026 11:30:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses ancient yogic teachings on consciousness and human evolution with spiritual depth.",
+   "reason": "Discusses ancient yogic teachings on consciousness and human evolution deeply.",
    "tradition": "Hindu"
   },
   {
@@ -53,7 +40,7 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares personal struggle with depression and faith, affirming life's purpose.",
+   "reason": "Shares personal struggle with depression and faith's role in purpose.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +53,20 @@
    "published": "Mon, 27 Jul 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Guided practice on vulnerability and honest self-reflection about connection and disconnection.",
+   "reason": "Practice on honest self-reflection about connection and inner life.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "ccb59bfe-d51b-11f0-a46a-3f4122d29471",
+   "showID": "https://feeds.megaphone.fm/theezrakleinshow",
+   "showTitle": "The Gray Area with Sean Illing",
+   "title": "The illusion of the ‘self’",
+   "summary": "Sean Illing talks with neuroscientist Gregory Berns, author of The Self Delusion. Berns claims that the idea of a unified, persistent self is a kind of illusion, and that we are better understood as multiple selves at different moments in time, tied together by a story — which is what we call our identity. Sean and Greg also talk about whether the brain is a computer, how perception works, the limits of thinking too much about thinking, and what psychedelics can do to disrupt and change the stories we tell about ourselves.\n\nThis episode originally aired in November of 2022.\n\nHost: Sean Illing ",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9440765702.mp3",
+   "published": "Mon, 27 Jul 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/25/f5/8425f5c3-ce22-db1a-3e55-1a6698cc7f03/mza_3273078451247345185.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Neuroscientist discusses the illusion of self and identity, engaging deep questions of consciousness.",
    "tradition": "Secular"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Fri, 31 Jul 2026 11:30:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Covers consciousness exploration and hypnotherapy related to soul and fate.",
+   "reason": "Covers consciousness exploration and hypnotherapy with spiritual implications.",
    "tradition": "Interfaith"
   },
   {
@@ -92,7 +92,20 @@
    "published": "Wed, 29 Jul 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores biblical prophecy and faith persistence in difficult times.",
+   "reason": "Explores biblical prophecy and faith persistence in hardship.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "6f126030-86e2-11f1-b0a0-03319c74e9f5",
+   "showID": "https://feeds.megaphone.fm/BMDC3578899879",
+   "showTitle": "Steve Deace Show",
+   "title": "6,000 Years of Human History in 90 Minutes (and Where America Fits) | Guest: Bill Federer | 7/28/26",
+   "summary": "Steve welcomes historian and American Minute founder Bill Federer for a sweeping 90-minute tour of 6,000 years of recorded human history to answer one question: Where are we on the arc, and where are we headed? Federer makes the case that America was history's great polarity reversal in the flow of power, that self-government only works when citizens understand they are the king, and that silence in a republic is not neutrality.\n\n\n\nTODAY'S SPONSORS:\n\n\n\nMIRACLE MADE SHEETS: https://try.miraclebrand.co/sheets/ksp-v15?utm_source=Podcast_deace&utm_medium=Podcasting&utm_campaign=deace&color=stone\n\n",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pfx.vpixl.com/4V6da/arttrk.com/p/BLZM1/verifi.podscribe.com/rss/p/mgln.ai/e/285/pscrb.fm/rss/p/prfx.byspotify.com/e/claritaspod.com/measure/traffic.megaphone.fm/BMDC4704013499.mp3",
+   "published": "Tue, 28 Jul 2026 18:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/7e/b4/457eb41f-80b1-3dfd-f99b-589f0a85d85c/mza_1486205609452185016.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Historical overview with reflections on governance and moral responsibility.",
    "tradition": "Christian"
   },
   {
@@ -105,7 +118,7 @@
    "published": "Tue, 28 Jul 2026 21:05:41 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Offers encouragement rooted in Christian hope but is more devotional than philosophical.",
+   "reason": "Offers encouragement grounded in Christian hope but is more devotional than philosophical.",
    "tradition": "Christian"
   },
   {
@@ -118,7 +131,7 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Provides spiritual encouragement for perseverance within a Christian framework.",
+   "reason": "Provides encouragement for spiritual perseverance within a Christian scriptural context.",
    "tradition": "Christian"
   }
  ],
