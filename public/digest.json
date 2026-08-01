@@ -1,9 +1,22 @@
 {
  "version": 1,
- "generatedAt": "2026-08-01T06:58:52.439130+00:00",
+ "generatedAt": "2026-08-01T07:50:57.383950+00:00",
  "showsScanned": 400,
- "candidates": 54,
+ "candidates": 56,
  "picks": [
+  {
+   "id": "https://blubrry.com/the_world_and_everything_in_it/154535185/through-depression-and-doubt/",
+   "showID": "https://feeds.blubrry.com/feeds/the_world_and_everything_in_it.xml",
+   "showTitle": "The World and Everything In It",
+   "title": "Through depression and doubt",
+   "summary": "Author Ryan Bomberger opens up about a depression battle that tested his faith—part of a wider conversation on adoption, his birth mother, and surviving serious illness, all while maintaining his conviction that every life has purpose.The Amplified Bible, from The Lockman Foundation, is designed to bring out the full depth of meaning in Scripture by expanding key words and phrases from the original languages. Its unique amplifications and definitions add clarity for reading and study.New TwoTone editions use soft gray typography to distinguish amplified words from the main text, creating a cle",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/p.podderapp.com/1696013160/media.blubrry.com/the_world_and_everything_in_it/ins.blubrry.com/the_world_and_everything_in_it/TWAEII-2026-08-01-3554-Through-depression-and.mp3",
+   "published": "Sat, 01 Aug 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Personal story of depression, faith, suffering, and purpose with deep reflection.",
+   "tradition": "Christian"
+  },
   {
    "id": "ccb59bfe-d51b-11f0-a46a-3f4122d29471",
    "showID": "https://feeds.megaphone.fm/theezrakleinshow",
@@ -18,19 +31,6 @@
    "tradition": "Secular"
   },
   {
-   "id": "gid://art19-episode-locator/V0/BR8ODfHt4mNADpPN1llNbDLQUDLGs_QYFX_FcW1A6lo",
-   "showID": "https://rss.art19.com/the-telepathy-tapes",
-   "showTitle": "The Telepathy Tapes",
-   "title": "S2E40: Ibogaine Inquiries Part II: The Intelligence of the Medicine",
-   "summary": "People around the world describe remarkably similar experiences with ibogaine: encounters with ancestors, shared dreams, telepathic abilities, and moments that seem to transcend ordinary consciousness.Are these a coincidence, a hallucination, or something science has yet to explain?In this episode, psychologists, neuroscientists, chemists, physicians, and former patients explore why ibogaine appears unlike any other psychedelic they've studied. From blindfolded perception and shared visions to groundbreaking brain research and the search for safer treatments, we examine the growing evidence an",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/41639999-d13a-4d50-9279-16d68bbb0237.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Fri, 24 Jul 2026 07:03:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores psychedelic experiences and consciousness with scientific and spiritual perspectives.",
-   "tradition": "Secular"
-  },
-  {
    "id": "b6f220bd-39e1-43b3-8adc-049ebe44f0ec",
    "showID": "https://rss.libsyn.com/shows/606285/destinations/5279650.xml",
    "showTitle": "The Deep End With Lecrae",
@@ -40,7 +40,7 @@
    "published": "Tue, 28 Jul 2026 09:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Reflects on discernment, faith, and community ethics using Scripture.",
+   "reason": "Reflects on discernment, community, and scriptural ethics in conflict situations.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Mon, 27 Jul 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A practice on honest self-reflection and vulnerability for spiritual clarity and courage.",
+   "reason": "A practice on honest self-reflection about connection and disconnection in daily life.",
    "tradition": "Interfaith"
   },
   {
@@ -79,8 +79,21 @@
    "published": "Fri, 24 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Serious discussion of Stoic philosophy applied to leadership and life challenges.",
+   "reason": "Serious discussion of Stoicism and leadership with ethical and inner life insights.",
    "tradition": "Stoic"
+  },
+  {
+   "id": "11eea34f-aa70-41e6-90ae-83e2275930ca",
+   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
+   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
+   "title": "BONUS: If You Feel Like Giving Up (with Jeff Cavins) - 2026",
+   "summary": "As we continue through this year-long journey, Fr. Mike and Jeff Cavins offer some words of encouragement for those who might be struggling. No matter if you're listening consistently or if you're \"behind\", the Lord will meet you where you are at in Scripture.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/11eea34f-aa70-41e6-90ae-83e2275930ca.mp3",
+   "published": "Sat, 01 Aug 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Encouragement for spiritual perseverance and meeting God in Scripture during struggle.",
+   "tradition": "Christian"
   },
   {
    "id": "6f126030-86e2-11f1-b0a0-03319c74e9f5",
@@ -92,8 +105,21 @@
    "published": "Tue, 28 Jul 2026 18:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/7e/b4/457eb41f-80b1-3dfd-f99b-589f0a85d85c/mza_1486205609452185016.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A historical overview with some reflections on ethics and governance, less on inner life.",
+   "reason": "A historical overview touching on governance and morality but not deeply contemplative.",
    "tradition": "Secular"
+  },
+  {
+   "id": "tag:soundcloud,2010:tracks/2367493574",
+   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:406683825/sounds.rss",
+   "showTitle": "The Counsel of Trent",
+   "title": "#1186 - What is God's Name? (And When is it Forbidden?)",
+   "summary": "In this episode Trent talks about the name of God and when it is and isn't appropriate to say.",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2367493574-trenthornpodcast-1186-what-is-gods-name-and.mp3",
+   "published": "Mon, 27 Jul 2026 13:00:46 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "A discussion on the appropriateness of saying God's name, somewhat doctrinal.",
+   "tradition": "Christian"
   },
   {
    "id": "04002afc-c812-4fe2-8e52-b4950159f736",
@@ -105,7 +131,7 @@
    "published": "Tue, 28 Jul 2026 21:05:41 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A devotional talk emphasizing hope in Jesus Christ, somewhat inspirational.",
+   "reason": "A devotional talk affirming hope through Jesus Christ, mainly faith encouragement.",
    "tradition": "Christian"
   }
  ],
@@ -158,7 +184,7 @@
   "5d06b880-89cd-11f1-ad93-f36a49c4fd98": "2026-07-30",
   "1e945930-fdac-4409-89cd-5845dcd2fd15": "2026-07-28",
   "d4d3ff60-8a97-11f1-8a04-b74d0445750a": "2026-07-31",
-  "tag:soundcloud,2010:tracks/2367493574": "2026-07-28",
+  "tag:soundcloud,2010:tracks/2367493574": "2026-08-01",
   "e46c8d52-1792-439b-828d-0f83802d9bae": "2026-07-29",
   "gid://art19-episode-locator/V0/CPnv2bslwb-B-6UVFNn0Puk9aFNi5IH4JoicwgcrUOg": "2026-07-29",
   "32c281b4-87af-11f1-8396-9fd8724b106e": "2026-07-29",
@@ -195,6 +221,8 @@
   "5c04bca2-f43c-41cd-a2e5-b495003e09c2": "2026-07-31",
   "standardoftruth.podbean.com/c1166a82-678c-3d17-a266-af389031d193": "2026-07-31",
   "d4a068b5-c6ae-4719-ac58-cfaf2049c480": "2026-07-31",
-  "6f126030-86e2-11f1-b0a0-03319c74e9f5": "2026-08-01"
+  "6f126030-86e2-11f1-b0a0-03319c74e9f5": "2026-08-01",
+  "https://blubrry.com/the_world_and_everything_in_it/154535185/through-depression-and-doubt/": "2026-08-01",
+  "11eea34f-aa70-41e6-90ae-83e2275930ca": "2026-08-01"
  }
 }
