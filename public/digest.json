@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-01T01:41:38.774490+00:00",
+ "generatedAt": "2026-08-01T03:11:05.941418+00:00",
  "showsScanned": 400,
  "candidates": 59,
  "picks": [
@@ -14,8 +14,8 @@
    "published": "Fri, 24 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores psychedelic experiences and consciousness from scientific and spiritual views.",
-   "tradition": "Interfaith"
+   "reason": "Explores consciousness and mystical experiences with ibogaine from scientific and spiritual views.",
+   "tradition": "Secular"
   },
   {
    "id": "b6f220bd-39e1-43b3-8adc-049ebe44f0ec",
@@ -27,7 +27,20 @@
    "published": "Tue, 28 Jul 2026 09:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines Christian discernment, conflict, and brotherly love in Scripture.",
+   "reason": "Reflects on Christian ethics, discernment, and community from Scripture.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "6ae14f5d-aec8-459d-9a78-223fc2f773f8",
+   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
+   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
+   "title": "Day 210: Speaking God's Word (2026)",
+   "summary": "Fr. Mike compares the messages of Isaiah and Ezekiel, one coming from a pre-exile time and the other from a post-exile time. Even though they are coming from two very different points in salvation history, they both are persistent in speaking the Word of God, and sharing his consolation with the people of Israel. Today's readings are Isaiah 41-42, Ezekiel 2-3, and Proverbs 12:1-4.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/6ae14f5d-aec8-459d-9a78-223fc2f773f8.mp3",
+   "published": "Wed, 29 Jul 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores prophetic persistence and divine consolation in biblical texts.",
    "tradition": "Christian"
   },
   {
@@ -40,8 +53,8 @@
    "published": "Mon, 27 Jul 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A practice-focused conversation on vulnerability and honest self-reflection.",
-   "tradition": "Interfaith"
+   "reason": "Guided practice on honest self-reflection and emotional awareness.",
+   "tradition": "Secular"
   },
   {
    "id": "3f5c5edc-7cd7-11f1-82c5-772edae009ee",
@@ -53,7 +66,7 @@
    "published": "Fri, 24 Jul 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "A neurosurgeon discusses trauma, grief, and reshaping the mind after profound loss.",
+   "reason": "Neurosurgeon discusses trauma, grief, and reshaping the mind after profound loss.",
    "tradition": "Secular"
   },
   {
@@ -66,7 +79,7 @@
    "published": "Mon, 27 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/25/f5/8425f5c3-ce22-db1a-3e55-1a6698cc7f03/mza_3273078451247345185.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Neuroscientist discusses the illusion of self and identity, touching on consciousness and perception.",
+   "reason": "Neuroscientist discusses the illusion of self and consciousness, challenging identity and perception.",
    "tradition": "Secular"
   },
   {
@@ -83,19 +96,6 @@
    "tradition": "Stoic"
   },
   {
-   "id": "6ae14f5d-aec8-459d-9a78-223fc2f773f8",
-   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
-   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
-   "title": "Day 210: Speaking God's Word (2026)",
-   "summary": "Fr. Mike compares the messages of Isaiah and Ezekiel, one coming from a pre-exile time and the other from a post-exile time. Even though they are coming from two very different points in salvation history, they both are persistent in speaking the Word of God, and sharing his consolation with the people of Israel. Today's readings are Isaiah 41-42, Ezekiel 2-3, and Proverbs 12:1-4.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/6ae14f5d-aec8-459d-9a78-223fc2f773f8.mp3",
-   "published": "Wed, 29 Jul 2026 03:15:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores prophetic persistence and divine consolation in biblical texts.",
-   "tradition": "Christian"
-  },
-  {
    "id": "04002afc-c812-4fe2-8e52-b4950159f736",
    "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
    "showTitle": "BYU Speeches",
@@ -104,8 +104,8 @@
    "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/04002afc-c812-4fe2-8e52-b4950159f736/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
    "published": "Tue, 28 Jul 2026 21:05:41 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A devotional on hope centered on Jesus Christ's role in human meaning and faith.",
+   "rating": 6,
+   "reason": "A devotional talk affirming hope in Jesus but with limited philosophical depth.",
    "tradition": "Christian"
   }
  ],
