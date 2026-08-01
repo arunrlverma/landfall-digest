@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-01T05:11:27.587369+00:00",
+ "generatedAt": "2026-08-01T06:58:52.439130+00:00",
  "showsScanned": 400,
  "candidates": 54,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Mon, 27 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/25/f5/8425f5c3-ce22-db1a-3e55-1a6698cc7f03/mza_3273078451247345185.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuroscientist discusses the illusion of self and consciousness in depth.",
+   "reason": "Neuroscientific and philosophical discussion on the illusion of self and consciousness.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Fri, 24 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores consciousness and shared mystical experiences with ibogaine from scientific and spiritual views.",
+   "reason": "Explores psychedelic experiences and consciousness with scientific and spiritual perspectives.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Tue, 28 Jul 2026 09:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Reflects on discernment, faith, and community ethics through Scripture and personal critique.",
+   "reason": "Reflects on discernment, faith, and community ethics using Scripture.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Wed, 29 Jul 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A priest compares prophetic messages about faith and consolation in difficult times.",
+   "reason": "A priest compares prophetic messages about faith and consolation in Israel's history.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Mon, 27 Jul 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A practice on vulnerability and honest self-reflection for spiritual growth.",
+   "reason": "A practice on honest self-reflection and vulnerability for spiritual clarity and courage.",
    "tradition": "Interfaith"
   },
   {
@@ -92,8 +92,8 @@
    "published": "Tue, 28 Jul 2026 18:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/7e/b4/457eb41f-80b1-3dfd-f99b-589f0a85d85c/mza_1486205609452185016.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A historical overview with reflections on governance and moral responsibility.",
-   "tradition": "Christian"
+   "reason": "A historical overview with some reflections on ethics and governance, less on inner life.",
+   "tradition": "Secular"
   },
   {
    "id": "04002afc-c812-4fe2-8e52-b4950159f736",
@@ -105,7 +105,7 @@
    "published": "Tue, 28 Jul 2026 21:05:41 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A devotional talk emphasizing hope through Jesus Christ.",
+   "reason": "A devotional talk emphasizing hope in Jesus Christ, somewhat inspirational.",
    "tradition": "Christian"
   }
  ],
