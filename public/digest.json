@@ -1,21 +1,21 @@
 {
  "version": 1,
- "generatedAt": "2026-08-01T09:44:28.820639+00:00",
+ "generatedAt": "2026-08-01T10:36:40.927370+00:00",
  "showsScanned": 400,
- "candidates": 55,
+ "candidates": 53,
  "picks": [
   {
-   "id": "https://blubrry.com/the_world_and_everything_in_it/154535185/through-depression-and-doubt/",
-   "showID": "https://feeds.blubrry.com/feeds/the_world_and_everything_in_it.xml",
-   "showTitle": "The World and Everything In It",
-   "title": "Through depression and doubt",
-   "summary": "Author Ryan Bomberger opens up about a depression battle that tested his faith—part of a wider conversation on adoption, his birth mother, and surviving serious illness, all while maintaining his conviction that every life has purpose.The Amplified Bible, from The Lockman Foundation, is designed to bring out the full depth of meaning in Scripture by expanding key words and phrases from the original languages. Its unique amplifications and definitions add clarity for reading and study.New TwoTone editions use soft gray typography to distinguish amplified words from the main text, creating a cle",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/p.podderapp.com/1696013160/media.blubrry.com/the_world_and_everything_in_it/ins.blubrry.com/the_world_and_everything_in_it/TWAEII-2026-08-01-3554-Through-depression-and.mp3",
-   "published": "Sat, 01 Aug 2026 03:15:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
+   "id": "ccb59bfe-d51b-11f0-a46a-3f4122d29471",
+   "showID": "https://feeds.megaphone.fm/theezrakleinshow",
+   "showTitle": "The Gray Area with Sean Illing",
+   "title": "The illusion of the ‘self’",
+   "summary": "Sean Illing talks with neuroscientist Gregory Berns, author of The Self Delusion. Berns claims that the idea of a unified, persistent self is a kind of illusion, and that we are better understood as multiple selves at different moments in time, tied together by a story — which is what we call our identity. Sean and Greg also talk about whether the brain is a computer, how perception works, the limits of thinking too much about thinking, and what psychedelics can do to disrupt and change the stories we tell about ourselves.\n\nThis episode originally aired in November of 2022.\n\nHost: Sean Illing ",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9440765702.mp3",
+   "published": "Mon, 27 Jul 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/25/f5/8425f5c3-ce22-db1a-3e55-1a6698cc7f03/mza_3273078451247345185.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Personal story of depression and faith, addressing suffering and purpose.",
-   "tradition": "Christian"
+   "reason": "Neuroscientific and philosophical discussion on the self and consciousness.",
+   "tradition": "Secular"
   },
   {
    "id": "b6f220bd-39e1-43b3-8adc-049ebe44f0ec",
@@ -27,21 +27,21 @@
    "published": "Tue, 28 Jul 2026 09:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines discernment, faith, and community ethics through Scripture.",
+   "reason": "Examines discernment, faith, and community ethics through Scripture and personal reflection.",
    "tradition": "Christian"
   },
   {
-   "id": "ccb59bfe-d51b-11f0-a46a-3f4122d29471",
-   "showID": "https://feeds.megaphone.fm/theezrakleinshow",
-   "showTitle": "The Gray Area with Sean Illing",
-   "title": "The illusion of the ‘self’",
-   "summary": "Sean Illing talks with neuroscientist Gregory Berns, author of The Self Delusion. Berns claims that the idea of a unified, persistent self is a kind of illusion, and that we are better understood as multiple selves at different moments in time, tied together by a story — which is what we call our identity. Sean and Greg also talk about whether the brain is a computer, how perception works, the limits of thinking too much about thinking, and what psychedelics can do to disrupt and change the stories we tell about ourselves.\n\nThis episode originally aired in November of 2022.\n\nHost: Sean Illing ",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9440765702.mp3",
-   "published": "Mon, 27 Jul 2026 08:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/25/f5/8425f5c3-ce22-db1a-3e55-1a6698cc7f03/mza_3273078451247345185.jpeg/600x600bb.jpg",
+   "id": "https://blubrry.com/the_world_and_everything_in_it/154535185/through-depression-and-doubt/",
+   "showID": "https://feeds.blubrry.com/feeds/the_world_and_everything_in_it.xml",
+   "showTitle": "The World and Everything In It",
+   "title": "Through depression and doubt",
+   "summary": "Author Ryan Bomberger opens up about a depression battle that tested his faith—part of a wider conversation on adoption, his birth mother, and surviving serious illness, all while maintaining his conviction that every life has purpose.The Amplified Bible, from The Lockman Foundation, is designed to bring out the full depth of meaning in Scripture by expanding key words and phrases from the original languages. Its unique amplifications and definitions add clarity for reading and study.New TwoTone editions use soft gray typography to distinguish amplified words from the main text, creating a cle",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/p.podderapp.com/1696013160/media.blubrry.com/the_world_and_everything_in_it/ins.blubrry.com/the_world_and_everything_in_it/TWAEII-2026-08-01-3554-Through-depression-and.mp3",
+   "published": "Sat, 01 Aug 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Neuroscientific and philosophical discussion on the illusion of self and consciousness.",
-   "tradition": "Secular"
+   "reason": "Author shares struggle with depression and faith, exploring suffering and purpose deeply.",
+   "tradition": "Christian"
   },
   {
    "id": "6ae14f5d-aec8-459d-9a78-223fc2f773f8",
@@ -53,7 +53,7 @@
    "published": "Wed, 29 Jul 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores biblical prophecy and faith through Isaiah and Ezekiel readings.",
+   "reason": "A serious biblical reflection on prophetic messages and faith in hardship.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Mon, 27 Jul 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Offers a practice on honest self-reflection and emotional awareness.",
+   "reason": "Guided practice on vulnerability and honest self-reflection.",
    "tradition": "Secular"
   },
   {
@@ -92,7 +92,7 @@
    "published": "Mon, 27 Jul 2026 13:00:46 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses the sacredness of God's name with some theological depth.",
+   "reason": "Discussion on the sacredness of God's name and religious ethics.",
    "tradition": "Christian"
   },
   {
@@ -105,7 +105,7 @@
    "published": "Tue, 28 Jul 2026 21:05:41 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A devotional talk emphasizing hope through Jesus Christ.",
+   "reason": "Devotional talk on hope centered in Jesus Christ.",
    "tradition": "Christian"
   }
  ],
