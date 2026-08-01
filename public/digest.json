@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-01T21:22:38.562260+00:00",
+ "generatedAt": "2026-08-01T22:23:47.733478+00:00",
  "showsScanned": 400,
  "candidates": 54,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Mon, 27 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/25/f5/8425f5c3-ce22-db1a-3e55-1a6698cc7f03/mza_3273078451247345185.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuroscientific and philosophical discussion on the illusion of self and consciousness.",
+   "reason": "Neuroscientist discusses the illusion of self and consciousness in depth.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Tue, 28 Jul 2026 09:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Reflects on discernment, faith, and community through Scripture.",
+   "reason": "Reflects on discernment, faith, and community ethics using scripture.",
    "tradition": "Christian"
   },
   {
@@ -40,8 +40,21 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares personal struggle with depression and sustaining faith.",
+   "reason": "Shares personal struggle with depression and faith's sustaining role.",
    "tradition": "Christian"
+  },
+  {
+   "id": "f52625c2-8128-11f1-9cc0-134318ed3fc7",
+   "showID": "https://feeds.megaphone.fm/TPG1652050293",
+   "showTitle": "With and For hosted by Dr. Pam King",
+   "title": "Get really honest, with Elizabeth Oldfield",
+   "summary": "True vulnerability is a critical first step towards becoming fully alive. But it can be incredibly confronting to know how to get really honest with yourself. In this episode we have a practice centred around consolations and desolations, inviting you to review your day and answer honestly: when was I moving towards connection, and when was I moving away?\n\n Elizabeth Oldfield is a writer, coach and host of the podcast The Sacred, who has dedicated her work to exploring clarity, courage and most of all, connection. Join Pam on Substack, where we’ll be sharing and asking you: where did you turn ",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/51/tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/pscrb.fm/rss/p/traffic.megaphone.fm/TPG6463766745.mp3",
+   "published": "Mon, 27 Jul 2026 09:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A practice on vulnerability and honest self-reflection for inner life.",
+   "tradition": "Secular"
   },
   {
    "id": "https://api.spreaker.com/episode/73276790",
@@ -66,33 +79,20 @@
    "published": "Fri, 31 Jul 2026 11:30:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Covers consciousness exploration and life between lives hypnotherapy.",
+   "reason": "Covers consciousness exploration and hypnotherapy related to soul and fate.",
    "tradition": "Interfaith"
   },
   {
-   "id": "f52625c2-8128-11f1-9cc0-134318ed3fc7",
-   "showID": "https://feeds.megaphone.fm/TPG1652050293",
-   "showTitle": "With and For hosted by Dr. Pam King",
-   "title": "Get really honest, with Elizabeth Oldfield",
-   "summary": "True vulnerability is a critical first step towards becoming fully alive. But it can be incredibly confronting to know how to get really honest with yourself. In this episode we have a practice centred around consolations and desolations, inviting you to review your day and answer honestly: when was I moving towards connection, and when was I moving away?\n\n Elizabeth Oldfield is a writer, coach and host of the podcast The Sacred, who has dedicated her work to exploring clarity, courage and most of all, connection. Join Pam on Substack, where we’ll be sharing and asking you: where did you turn ",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/51/tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/pscrb.fm/rss/p/traffic.megaphone.fm/TPG6463766745.mp3",
-   "published": "Mon, 27 Jul 2026 09:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Guided practice on honest self-reflection and vulnerability for inner life growth.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "11eea34f-aa70-41e6-90ae-83e2275930ca",
+   "id": "6ae14f5d-aec8-459d-9a78-223fc2f773f8",
    "showID": "https://feeds.fireside.fm/bibleinayear/rss",
    "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
-   "title": "BONUS: If You Feel Like Giving Up (with Jeff Cavins) - 2026",
-   "summary": "As we continue through this year-long journey, Fr. Mike and Jeff Cavins offer some words of encouragement for those who might be struggling. No matter if you're listening consistently or if you're \"behind\", the Lord will meet you where you are at in Scripture.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/11eea34f-aa70-41e6-90ae-83e2275930ca.mp3",
-   "published": "Sat, 01 Aug 2026 03:15:00 -0400",
+   "title": "Day 210: Speaking God's Word (2026)",
+   "summary": "Fr. Mike compares the messages of Isaiah and Ezekiel, one coming from a pre-exile time and the other from a post-exile time. Even though they are coming from two very different points in salvation history, they both are persistent in speaking the Word of God, and sharing his consolation with the people of Israel. Today's readings are Isaiah 41-42, Ezekiel 2-3, and Proverbs 12:1-4.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/6ae14f5d-aec8-459d-9a78-223fc2f773f8.mp3",
+   "published": "Wed, 29 Jul 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Encouragement for those struggling in faith, offering spiritual support and Scripture reflection.",
+   "reason": "A thoughtful Christian reflection on prophetic messages and consolation.",
    "tradition": "Christian"
   },
   {
@@ -105,33 +105,20 @@
    "published": "Fri, 31 Jul 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/34/0f/4c/340f4c53-dc9b-9971-a94f-54c25a5d339a/mza_3848511723335763740.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Addresses personal doubts and struggles in marriage counseling with emotional and ethical depth.",
+   "reason": "Addresses marriage struggles and personal anxiety with some ethical and relational depth.",
    "tradition": "Christian"
   },
   {
-   "id": "6ae14f5d-aec8-459d-9a78-223fc2f773f8",
+   "id": "11eea34f-aa70-41e6-90ae-83e2275930ca",
    "showID": "https://feeds.fireside.fm/bibleinayear/rss",
    "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
-   "title": "Day 210: Speaking God's Word (2026)",
-   "summary": "Fr. Mike compares the messages of Isaiah and Ezekiel, one coming from a pre-exile time and the other from a post-exile time. Even though they are coming from two very different points in salvation history, they both are persistent in speaking the Word of God, and sharing his consolation with the people of Israel. Today's readings are Isaiah 41-42, Ezekiel 2-3, and Proverbs 12:1-4.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/6ae14f5d-aec8-459d-9a78-223fc2f773f8.mp3",
-   "published": "Wed, 29 Jul 2026 03:15:00 -0400",
+   "title": "BONUS: If You Feel Like Giving Up (with Jeff Cavins) - 2026",
+   "summary": "As we continue through this year-long journey, Fr. Mike and Jeff Cavins offer some words of encouragement for those who might be struggling. No matter if you're listening consistently or if you're \"behind\", the Lord will meet you where you are at in Scripture.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/11eea34f-aa70-41e6-90ae-83e2275930ca.mp3",
+   "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores biblical prophecy and faith in historical context, touching on meaning and consolation.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "04002afc-c812-4fe2-8e52-b4950159f736",
-   "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
-   "showTitle": "BYU Speeches",
-   "title": "The Need for Greater Hope | Jamal Willis | July 2026",
-   "summary": "“We must never forget who our greatest hope giver is, and that is our Savior Jesus Christ.” Jamal Willis, Assistant Director of Student Wellness at Brigham Young University, delivered this devotional address on July 28, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/04002afc-c812-4fe2-8e52-b4950159f736/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
-   "published": "Tue, 28 Jul 2026 21:05:41 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "A devotional talk on hope centered on Jesus Christ, with some spiritual encouragement.",
+   "reason": "Encouragement for spiritual perseverance with biblical grounding.",
    "tradition": "Christian"
   }
  ],
