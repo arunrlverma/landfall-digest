@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-02T19:31:05.321460+00:00",
+ "generatedAt": "2026-08-02T20:25:28.639423+00:00",
  "showsScanned": 400,
  "candidates": 56,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores the sacred African Bwiti tradition and iboga's spiritual role in life.",
+   "reason": "Deep dive into sacred African spiritual tradition and consciousness through iboga.",
    "tradition": "Indigenous"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Sun, 26 Jul 2026 06:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "A conversation on meaning, happiness, and existential questions through philosophy and spirituality.",
+   "reason": "A thoughtful conversation on meaning, happiness, and existential questions.",
    "tradition": "Interfaith"
   },
   {
@@ -54,7 +54,7 @@
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 7,
    "reason": "Bible study on Esther highlighting faith, courage, and divine providence.",
-   "tradition": "Jewish"
+   "tradition": "Christian"
   },
   {
    "id": "coe22.podbean.com/b4a11aab-b896-38bc-91da-6d295810a38c",
@@ -66,7 +66,7 @@
    "published": "Sun, 26 Jul 2026 22:58:15 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Christian sermon contrasting faith and surrender with morality and achievement.",
+   "reason": "Explores faith and surrender through Jesus' teachings on readiness for God's Kingdom.",
    "tradition": "Christian"
   },
   {
@@ -79,21 +79,8 @@
    "published": "Wed, 29 Jul 2026 16:13:01 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A Christian reflection on rebuilding faith and identity after trauma.",
+   "reason": "Uses biblical narrative to explore rebuilding faith and identity after trauma.",
    "tradition": "Christian"
-  },
-  {
-   "id": "32c281b4-87af-11f1-8396-9fd8724b106e",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "CAMILA MENDES: \"Perfectionism Was Ruining My Life\"",
-   "summary": "Actress and producer Camila Mendes joins Jay for an honest conversation about the hidden cost of perfectionism, the pressure behind success, and what it took to finally choose herself. Camila opens up about the breaking point that forced her to confront old wounds, heal her relationship with food, reconnect with her Brazilian identity, and redefine what spirituality, self-worth, and love really mean.\n\nTogether, they explore why chasing perfection often leaves us feeling empty, how slowing down can become the greatest act of self-respect, and why true confidence isn't about having everything fi",
-   "audioURL": "https://traffic.megaphone.fm/GLT6229573348.mp3",
-   "published": "Mon, 27 Jul 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Candid conversation on perfectionism, self-worth, and spirituality.",
-   "tradition": "Interfaith"
   },
   {
    "id": "ae99f5f8-d879-4f8a-9a09-7d4859da5d00",
@@ -105,7 +92,7 @@
    "published": "Sun, 02 Aug 2026 00:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A sermon on salvation and heaven with some ethical and faith challenges.",
+   "reason": "A sermon on salvation and heaven with some ethical implications but mainly doctrinal.",
    "tradition": "Christian"
   },
   {
@@ -118,7 +105,20 @@
    "published": "Thu, 30 Jul 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses AI's impact on humanity and society, touching on ethical concerns.",
+   "reason": "Discusses AI risks with some ethical implications but limited spiritual depth.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "32c281b4-87af-11f1-8396-9fd8724b106e",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "CAMILA MENDES: \"Perfectionism Was Ruining My Life\"",
+   "summary": "Actress and producer Camila Mendes joins Jay for an honest conversation about the hidden cost of perfectionism, the pressure behind success, and what it took to finally choose herself. Camila opens up about the breaking point that forced her to confront old wounds, heal her relationship with food, reconnect with her Brazilian identity, and redefine what spirituality, self-worth, and love really mean.\n\nTogether, they explore why chasing perfection often leaves us feeling empty, how slowing down can become the greatest act of self-respect, and why true confidence isn't about having everything fi",
+   "audioURL": "https://traffic.megaphone.fm/GLT6229573348.mp3",
+   "published": "Mon, 27 Jul 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Conversation about perfectionism, identity, and spirituality with some depth.",
    "tradition": "Secular"
   }
  ],
