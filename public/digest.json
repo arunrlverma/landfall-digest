@@ -1,35 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-08-02T07:01:54.517680+00:00",
+ "generatedAt": "2026-08-02T08:54:09.853607+00:00",
  "showsScanned": 400,
- "candidates": 54,
+ "candidates": 57,
  "picks": [
-  {
-   "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
-   "showID": "https://rss.art19.com/the-telepathy-tapes",
-   "showTitle": "The Telepathy Tapes",
-   "title": "S2E41: Ibogaine Inquiries Part III: The Sacred Roots of Iboga",
-   "summary": "Long before ibogaine entered Western clinics and laboratories, the plant it comes from held a sacred place in Gabonese life. In Part III of Ibogaine Inquiries, we travel to Gabon to explore Bwiti, the spiritual tradition in which iboga is understood as a teacher, guide, and living presence.Gabonese practitioners and Bwiti initiates describe the preparation, community, music, mentorship, and lifelong practice that surround the medicine. They explain why Iboga cannot be separated from the larger body of knowledge developed around it. As Western interest continues to grow, this episode asks what ",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/fd973b3b-9b1d-40e3-b289-b01d4e52675f.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Mon, 27 Jul 2026 07:03:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Deep dive into sacred African spiritual tradition and consciousness with iboga.",
-   "tradition": "Indigenous"
-  },
-  {
-   "id": "coe22.podbean.com/b4a11aab-b896-38bc-91da-6d295810a38c",
-   "showID": "https://feed.podbean.com/coe22/feed.xml",
-   "showTitle": "The Church of Eleven22",
-   "title": "Little Child vs Rich Young Ruler - Impossible to Possible - Matthew S5E9",
-   "summary": "What makes someone ready for the Kingdom of God? In Matthew 19, Jesus places two very different people side by side: little children with nothing to offer and a rich young ruler who seemingly has everything. Through these two encounters, we discover that God's Kingdom is not received through achievement, morality or self-reliance but through humble faith and complete surrender.\nIn this message, Pastor One Mokgatle unpacks the contrast between these two stories, revealing that eternal life isn't earned by what we do but received through what Christ has already done. \nThe question isn't how much",
-   "audioURL": "https://mcdn.podbean.com/mf/web/djpd6gfqny27xf5h/20260726_1122_04b6jmi.mp3",
-   "published": "Sun, 26 Jul 2026 22:58:15 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Examines faith, humility, and surrender in relation to the Kingdom of God.",
-   "tradition": "Christian"
-  },
   {
    "id": "tag:soundcloud,2010:tracks/2367787106",
    "showID": "https://feeds.soundcloud.com/users/soundcloud:users:669018539/sounds.rss",
@@ -40,21 +14,21 @@
    "published": "Sun, 26 Jul 2026 22:00:56 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Studies courage, faith, and divine providence in the Book of Esther.",
+   "reason": "Studies Esther's story focusing on faith, courage, and divine providence.",
    "tradition": "Jewish"
   },
   {
-   "id": "unshaken.podbean.com/167b261f-6003-3f99-a371-a85d26cb43f9",
-   "showID": "https://feed.podbean.com/unshaken/feed.xml",
-   "showTitle": "Unshaken Saints",
-   "title": "Ezra and Nehemiah - Rebuilding the Broken",
-   "summary": "When the Babylonian captivity finally ended, the returning remnant didn't find a pristine Promised Land—they found cracked foundations, burned gates, and a pile of rubble. If your faith, your marriage, or your sense of identity currently feels like a collection of broken stones, Ezra and Nehemiah provide the ultimate masterclass on how to reconstruct what has been destroyed.\nSummary: In this powerful episode, we delve into the twin narratives of Ezra and Nehemiah, books that historically stood as a single text detailing the painful, beautiful work of restoration. We map this journey onto the p",
-   "audioURL": "https://mcdn.podbean.com/mf/web/hgrn3mpaksddvuz8/Ezra-Nehemiah_full_audio_enhancedbaeff.mp3",
-   "published": "Wed, 29 Jul 2026 16:13:01 -0600",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
+   "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
+   "showID": "https://rss.art19.com/the-telepathy-tapes",
+   "showTitle": "The Telepathy Tapes",
+   "title": "S2E41: Ibogaine Inquiries Part III: The Sacred Roots of Iboga",
+   "summary": "Long before ibogaine entered Western clinics and laboratories, the plant it comes from held a sacred place in Gabonese life. In Part III of Ibogaine Inquiries, we travel to Gabon to explore Bwiti, the spiritual tradition in which iboga is understood as a teacher, guide, and living presence.Gabonese practitioners and Bwiti initiates describe the preparation, community, music, mentorship, and lifelong practice that surround the medicine. They explain why Iboga cannot be separated from the larger body of knowledge developed around it. As Western interest continues to grow, this episode asks what ",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/fd973b3b-9b1d-40e3-b289-b01d4e52675f.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Mon, 27 Jul 2026 07:03:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Biblical study on rebuilding faith and identity after trauma.",
-   "tradition": "Christian"
+   "reason": "Explores sacred African spiritual tradition and consciousness through iboga.",
+   "tradition": "Indigenous"
   },
   {
    "id": "6a4fb7a81c8f5a97d8caddcb",
@@ -65,9 +39,48 @@
    "audioURL": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a4fb7a81c8f5a97d8caddcb/media.mp3",
    "published": "Sun, 26 Jul 2026 06:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Conversation about meaning, happiness, and existential questions through a personal lens.",
+   "rating": 8,
+   "reason": "A thoughtful conversation on meaning, happiness, and spiritual insights from diverse traditions.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "ae99f5f8-d879-4f8a-9a09-7d4859da5d00",
+   "showID": "https://anchor.fm/s/10e5a085c/podcast/rss",
+   "showTitle": "The Mark Driscoll Podcast",
+   "title": "Why You Might Not Be Going To Heaven",
+   "summary": "Most people assume they’re going to heaven, but Jesus gave serious warnings that challenge that confidence. This sermon reveals what the Bible says about salvation and the one decision that determines where you’ll spend eternity.",
+   "audioURL": "https://traffic.megaphone.fm/APO1549942659.mp3",
+   "published": "Sun, 02 Aug 2026 00:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Examines biblical warnings about salvation and eternal destiny.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "coe22.podbean.com/b4a11aab-b896-38bc-91da-6d295810a38c",
+   "showID": "https://feed.podbean.com/coe22/feed.xml",
+   "showTitle": "The Church of Eleven22",
+   "title": "Little Child vs Rich Young Ruler - Impossible to Possible - Matthew S5E9",
+   "summary": "What makes someone ready for the Kingdom of God? In Matthew 19, Jesus places two very different people side by side: little children with nothing to offer and a rich young ruler who seemingly has everything. Through these two encounters, we discover that God's Kingdom is not received through achievement, morality or self-reliance but through humble faith and complete surrender.\nIn this message, Pastor One Mokgatle unpacks the contrast between these two stories, revealing that eternal life isn't earned by what we do but received through what Christ has already done. \nThe question isn't how much",
+   "audioURL": "https://mcdn.podbean.com/mf/web/djpd6gfqny27xf5h/20260726_1122_04b6jmi.mp3",
+   "published": "Sun, 26 Jul 2026 22:58:15 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discusses readiness for God's Kingdom through faith and surrender.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "unshaken.podbean.com/167b261f-6003-3f99-a371-a85d26cb43f9",
+   "showID": "https://feed.podbean.com/unshaken/feed.xml",
+   "showTitle": "Unshaken Saints",
+   "title": "Ezra and Nehemiah - Rebuilding the Broken",
+   "summary": "When the Babylonian captivity finally ended, the returning remnant didn't find a pristine Promised Land—they found cracked foundations, burned gates, and a pile of rubble. If your faith, your marriage, or your sense of identity currently feels like a collection of broken stones, Ezra and Nehemiah provide the ultimate masterclass on how to reconstruct what has been destroyed.\nSummary: In this powerful episode, we delve into the twin narratives of Ezra and Nehemiah, books that historically stood as a single text detailing the painful, beautiful work of restoration. We map this journey onto the p",
+   "audioURL": "https://mcdn.podbean.com/mf/web/hgrn3mpaksddvuz8/Ezra-Nehemiah_full_audio_enhancedbaeff.mp3",
+   "published": "Wed, 29 Jul 2026 16:13:01 -0600",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Biblical narrative on rebuilding faith and identity after destruction.",
+   "tradition": "Jewish"
   },
   {
    "id": "ccad1654-87a0-11f1-af40-97f8269df6df",
@@ -79,21 +92,21 @@
    "published": "Thu, 30 Jul 2026 04:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/f2/26/87f226c9-77ac-d4fe-6b98-4da2345de5c0/mza_5833691041544808336.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A contemplative story about memory, place, and returning, touching on meaning and life.",
+   "reason": "A contemplative story about memory, place, and returning home.",
    "tradition": "Secular"
   },
   {
-   "id": "gid://art19-episode-locator/V0/jArSfBRLOvIBFJQSs5KE6YQc93R2VlRYavpT8dnjOtI",
-   "showID": "https://rss.art19.com/this-is-actually-happening-podcast",
-   "showTitle": "This Is Actually Happening",
-   "title": "418: AI: A New Kind of Being Bonus Episode: A Conversation with Valerie Sizemore of StopAI",
-   "summary": "In this special episode, Whit joins Valerie Sizemore, co-leader of the grassroots organization StopAI, for a wide-ranging conversation about the growing influence of artificial intelligence and the risks they believe it poses to human life and society. Drawing on more than fifteen years of engagement with AI, Valerie explores concerns ranging from environmental impact, autonomous warfare, biosecurity, education, and the erosion of human skills and creativity to the increasingly intimate role AI plays in our relationships, psychology, and spirituality. They also discuss the possibility of incre",
-   "audioURL": "https://rss.art19.com/episodes/e7cb9b58-483a-4dc2-8159-81173007c406.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Thu, 30 Jul 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
+   "id": "db55066a-726c-4d28-b875-b49500a0eebb",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "Ouija Boards - Best of Coast to Coast AM - 7/27/26",
+   "summary": "George Noory and Karen Dahlman discuss the myths and facts about Ouija boards, whether they are truly tools to allow people to communicate with the spirits of the dead, and how to expand your consciousness to be more receptive to messages coming from the other side.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/db55066a-726c-4d28-b875-b49500a0eebb/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Tue, 28 Jul 2026 09:52:44 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses AI's societal risks, touching on human values and future ethics.",
-   "tradition": "Secular"
+   "reason": "Explores consciousness expansion and spirit communication, lightly touching mortality.",
+   "tradition": "Interfaith"
   },
   {
    "id": "32c281b4-87af-11f1-8396-9fd8724b106e",
@@ -105,7 +118,7 @@
    "published": "Mon, 27 Jul 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Conversation about perfectionism and self-worth with some spiritual and ethical elements.",
+   "reason": "Personal story on perfectionism and spirituality, with some ethical reflection.",
    "tradition": "Secular"
   }
  ],
@@ -173,7 +186,7 @@
   "b3957214-8030-11f1-ae52-efc6b47c35da": "2026-07-29",
   "40c945e0-a5b6-4a42-b345-43c205b319aa": "2026-07-29",
   "04002afc-c812-4fe2-8e52-b4950159f736": "2026-08-01",
-  "db55066a-726c-4d28-b875-b49500a0eebb": "2026-07-29",
+  "db55066a-726c-4d28-b875-b49500a0eebb": "2026-08-02",
   "https://blubrry.com/the_world_and_everything_in_it/154457686/72326-preserving-americas-past-educational-value-the-trade-in-trap-and-writing-arthurian-poetry/": "2026-07-29",
   "6a57d61ccebd1afd4475bb22": "2026-07-29",
   "https://api.spreaker.com/episode/73156775": "2026-08-02",
@@ -203,6 +216,7 @@
   "c3dd00ac-7099-11f1-955e-733de9dc74cf": "2026-08-01",
   "306209e9-90fa-488e-955e-601db048f116": "2026-08-01",
   "27eccf5a-8c65-11f1-87b0-87a771ddd09d": "2026-08-01",
-  "gid://art19-episode-locator/V0/sKP6QY61ONTVFd3EEE5ufNhUP3SJfUNVhXEeL00mz80": "2026-08-02"
+  "gid://art19-episode-locator/V0/sKP6QY61ONTVFd3EEE5ufNhUP3SJfUNVhXEeL00mz80": "2026-08-02",
+  "ae99f5f8-d879-4f8a-9a09-7d4859da5d00": "2026-08-02"
  }
 }
