@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-02T17:26:05.923052+00:00",
+ "generatedAt": "2026-08-02T18:27:14.442112+00:00",
  "showsScanned": 400,
  "candidates": 58,
  "picks": [
@@ -18,6 +18,19 @@
    "tradition": "Buddhist"
   },
   {
+   "id": "tag:soundcloud,2010:tracks/2367787106",
+   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:669018539/sounds.rss",
+   "showTitle": "Don't Miss This Study",
+   "title": "A GOOD DAY",
+   "summary": "In this episode of Don’t Miss This, Dave Butler and Grace Freeman study the book of Esther, one of the Bible's most remarkable stories of courage, faith, and redemption. Although God's name is never mentioned in the book, His hand can be seen on every page as He quietly prepares people and circumstances to bring about deliverance. Esther reminds us that even when the Lord seems absent, He is still writing a story of hope.\n\nAs Queen Vashti, Mordecai, and Esther each make courageous choices, the discussion explores how God often works through ordinary people who are willing to trust Him. From un",
+   "audioURL": "https://feeds.soundcloud.com/stream/2367787106-grace-freeman-916551846-a-good-day.mp3",
+   "published": "Sun, 26 Jul 2026 22:00:56 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Bible study on Esther focusing on faith, courage, and divine providence.",
+   "tradition": "Christian"
+  },
+  {
    "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
    "showID": "https://rss.art19.com/the-telepathy-tapes",
    "showTitle": "The Telepathy Tapes",
@@ -27,7 +40,7 @@
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "In-depth look at sacred African spiritual tradition and consciousness.",
+   "reason": "In-depth look at sacred African spiritual tradition and consciousness with iboga.",
    "tradition": "Indigenous"
   },
   {
@@ -40,7 +53,7 @@
    "published": "Sun, 26 Jul 2026 06:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "A conversation on meaning, happiness, and existential questions through philosophy and spirituality.",
+   "reason": "A conversation on meaning, happiness, and spiritual insights from philosophy and traditions.",
    "tradition": "Interfaith"
   },
   {
@@ -53,20 +66,7 @@
    "published": "Sun, 02 Aug 2026 00:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A Christian sermon challenges assumptions about salvation and eternal destiny.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "tag:soundcloud,2010:tracks/2367787106",
-   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:669018539/sounds.rss",
-   "showTitle": "Don't Miss This Study",
-   "title": "A GOOD DAY",
-   "summary": "In this episode of Don’t Miss This, Dave Butler and Grace Freeman study the book of Esther, one of the Bible's most remarkable stories of courage, faith, and redemption. Although God's name is never mentioned in the book, His hand can be seen on every page as He quietly prepares people and circumstances to bring about deliverance. Esther reminds us that even when the Lord seems absent, He is still writing a story of hope.\n\nAs Queen Vashti, Mordecai, and Esther each make courageous choices, the discussion explores how God often works through ordinary people who are willing to trust Him. From un",
-   "audioURL": "https://feeds.soundcloud.com/stream/2367787106-grace-freeman-916551846-a-good-day.mp3",
-   "published": "Sun, 26 Jul 2026 22:00:56 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Bible study on Esther highlighting faith, courage, and divine providence.",
+   "reason": "A Christian sermon on salvation and the consequences of faith decisions.",
    "tradition": "Christian"
   },
   {
@@ -104,9 +104,22 @@
    "audioURL": "https://traffic.megaphone.fm/GLT6229573348.mp3",
    "published": "Mon, 27 Jul 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A candid talk on perfectionism, identity, and redefining spirituality.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "c56f9c9a-7099-11f1-955e-9f65fd3b4bf5",
+   "showID": "https://feeds.megaphone.fm/RM6294791149",
+   "showTitle": "The Dr. John Delony Show",
+   "title": "Caller: “My Husband Is a Selfish Lover”",
+   "summary": "🔥 Microhabits for a Better Marriage. Download the Together app.\n\n&nbsp;\n\nOn today’s episode, we hear about:\n\n\n  A wife whose husband is selfish during intimacy\n\n  A woman paranoid that her healthy marriage is headed for divorce\n\n  A wife who feels like she is better than her husband\n\n\n&nbsp;\n\nNext Steps:\n\n❤️ Get away with your spouse today!\n\n📞 Ask John a question! Call 844-693-3291 or send us a message.\n\n📚 Building a Non-Anxious Life\n\n📝 Anxiety Test\n\n📚 Own Your Past, Change Your Future\n\n❓ Questions for Humans Conversation Cards\n\n💭 John's Free Guided Meditation\n\n🤘🏼 The Dr. John Delony Show Merc",
+   "audioURL": "https://pdst.fm/e/mgln.ai/e/p356554/pscrb.fm/rss/p/traffic.megaphone.fm/RM5146295719.mp3",
+   "published": "Mon, 27 Jul 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/34/0f/4c/340f4c53-dc9b-9971-a94f-54c25a5d339a/mza_3848511723335763740.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Candid talk on perfectionism, spirituality, and self-worth in personal growth.",
-   "tradition": "Interfaith"
+   "reason": "Marriage and intimacy issues discussed with psychological and ethical insight.",
+   "tradition": "Christian"
   }
  ],
  "history": {
