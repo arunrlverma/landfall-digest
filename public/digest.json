@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-02T15:28:06.388438+00:00",
+ "generatedAt": "2026-08-02T16:25:52.851257+00:00",
  "showsScanned": 400,
  "candidates": 59,
  "picks": [
@@ -27,7 +27,7 @@
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "In-depth look at sacred African spiritual tradition and consciousness.",
+   "reason": "Explores sacred African spiritual tradition and consciousness through iboga.",
    "tradition": "Indigenous"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Sun, 26 Jul 2026 06:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "A conversation about meaning, happiness, and existential questions through philosophy and spirituality.",
+   "reason": "A conversation on meaning, happiness, and spiritual insights from diverse traditions.",
    "tradition": "Interfaith"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Sun, 02 Aug 2026 00:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A Christian sermon on salvation and the consequences of faith decisions.",
+   "reason": "A Christian sermon challenging assumptions about salvation and eternal destiny.",
    "tradition": "Christian"
   },
   {
@@ -92,8 +92,34 @@
    "published": "Wed, 29 Jul 2026 16:13:01 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Christian reflection on rebuilding faith and identity after trauma.",
+   "reason": "Christian teaching on rebuilding faith and identity after trauma.",
    "tradition": "Christian"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/jArSfBRLOvIBFJQSs5KE6YQc93R2VlRYavpT8dnjOtI",
+   "showID": "https://rss.art19.com/this-is-actually-happening-podcast",
+   "showTitle": "This Is Actually Happening",
+   "title": "418: AI: A New Kind of Being Bonus Episode: A Conversation with Valerie Sizemore of StopAI",
+   "summary": "In this special episode, Whit joins Valerie Sizemore, co-leader of the grassroots organization StopAI, for a wide-ranging conversation about the growing influence of artificial intelligence and the risks they believe it poses to human life and society. Drawing on more than fifteen years of engagement with AI, Valerie explores concerns ranging from environmental impact, autonomous warfare, biosecurity, education, and the erosion of human skills and creativity to the increasingly intimate role AI plays in our relationships, psychology, and spirituality. They also discuss the possibility of incre",
+   "audioURL": "https://rss.art19.com/episodes/e7cb9b58-483a-4dc2-8159-81173007c406.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Thu, 30 Jul 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A critical conversation on AI's impact on human life and society's future.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "ccad1654-87a0-11f1-af40-97f8269df6df",
+   "showID": "https://feeds.megaphone.fm/SSM2868305742",
+   "showTitle": "Nothing much happens: bedtime stories to help you sleep",
+   "title": "The Turnaround (Encore)",
+   "summary": "Originally Aired: July 26th, 2020 (Season 6 Episode 2)\n\nOur story tonight is called The Turnaround, and it’s a story about a trip down a gravel road on a summer day. It’s also about bulrushes and bonfires, family stories, and coming back to a place you know well.\n\n\n\nSubscribe to our ⁠⁠⁠Premium channel.⁠⁠⁠ The first month is on us. 💙\n\n\n\nJoin⁠ the Village of Nothing Much App!\n\nOrder Kathryn’s new book ⁠⁠⁠⁠⁠On the Street Where You Live⁠⁠⁠⁠⁠\n\n⁠⁠⁠NMH Merch, Autographed Books and More!⁠⁠⁠\n\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Listen to our daytime show&nbsp;⁠⁠⁠⁠⁠⁠Stories from the Village of Nothing Much⁠⁠⁠⁠⁠⁠\n\n⁠⁠⁠Sit Meditati",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/hQzRUk5FlBqiODHZblrZ/traffic.megaphone.fm/SSM5619746715.mp3",
+   "published": "Thu, 30 Jul 2026 04:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/f2/26/87f226c9-77ac-d4fe-6b98-4da2345de5c0/mza_5833691041544808336.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "A bedtime story with themes of home and memory, lightly touching on meaning.",
+   "tradition": "Secular"
   },
   {
    "id": "tag:soundcloud,2010:tracks/2369415089",
@@ -105,7 +131,7 @@
    "published": "Tue, 28 Jul 2026 14:10:25 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts18/v4/37/d9/a0/37d9a0b4-64f8-70d4-722e-b3a8772f3424/mza_5335192259855381405.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A conversation touching on eschatology and interiority with some philosophical reflection.",
+   "reason": "A cultural discussion touching on eschatology and interiority, but mostly casual.",
    "tradition": "Secular"
   },
   {
@@ -118,8 +144,8 @@
    "published": "Mon, 27 Jul 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A personal story about perfectionism, identity, and spirituality.",
-   "tradition": "Interfaith"
+   "reason": "A personal story on perfectionism and spirituality with some reflection on self-worth.",
+   "tradition": "Secular"
   }
  ],
  "history": {
