@@ -1,22 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-08-02T22:23:57.090054+00:00",
+ "generatedAt": "2026-08-02T23:24:34.956049+00:00",
  "showsScanned": 400,
- "candidates": 57,
+ "candidates": 56,
  "picks": [
-  {
-   "id": "e95a4e89-3664-4284-a0dd-587206b3e9cb",
-   "showID": "https://feeds.libsyn.com/570160/rss",
-   "showTitle": "10% Happier with Dan Harris",
-   "title": "You're Gonna Be Alright No Matter What: On Facing Anger, Aging, and Loss With Humor and Grace | Sylvia Boorstein",
-   "summary": "The legendary dharma teacher on self-acceptance, the two-sentence trick she uses on her own anger, and what actually makes her happy after 90 years of living. Sylvia Boorstein, PhD, LCSW is a co-founding teacher of Spirit Rock Meditation Center in Woodacre California and the author of five books on Buddhism, Mindfulness, and particularly That's Funny, You Don't Look Buddhist: On Being a Faithful Jew and a Passionate Buddhist.  In this episode we talk about:  Why turning 90 makes the Buddha's teachings on impermanence feel real instead of theoretical The line Sylvia repeats to herself that's be",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/05620661-2103-4fe0-9ab9-92bfc4d9cf22/260724_TPHP_SylviaBoorstein_AUDIO_Mastered_AudioVersion_v1.mp3?dest-id=4933335",
-   "published": "Wed, 29 Jul 2026 07:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A Buddhist-Jewish teacher reflects on aging, anger, and happiness with spiritual depth.",
-   "tradition": "Buddhist"
-  },
   {
    "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
    "showID": "https://rss.art19.com/the-telepathy-tapes",
@@ -26,9 +13,22 @@
    "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/fd973b3b-9b1d-40e3-b289-b01d4e52675f.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores sacred African spiritual tradition and consciousness through iboga plant use.",
+   "rating": 9,
+   "reason": "Deep dive into sacred African spiritual tradition and consciousness with iboga.",
    "tradition": "Indigenous"
+  },
+  {
+   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
+   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
+   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Personal story of faith, identity, and freedom from struggle with sexuality.",
+   "tradition": "Christian"
   },
   {
    "id": "6a4fb7a81c8f5a97d8caddcb",
@@ -40,7 +40,7 @@
    "published": "Sun, 26 Jul 2026 06:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Conversation on meaning, happiness, and existential questions from philosophy and spirituality.",
+   "reason": "A thoughtful conversation on meaning, happiness, and existential questions in life.",
    "tradition": "Interfaith"
   },
   {
@@ -53,20 +53,7 @@
    "published": "Sun, 02 Aug 2026 00:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A Christian sermon on salvation and the consequences of faith decisions.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
-   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
-   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A Christian testimony on identity, faith, and freedom from struggle with sexuality.",
+   "reason": "Examines biblical salvation and eternal destiny with serious theological reflection.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +66,7 @@
    "published": "Sun, 26 Jul 2026 22:00:56 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Bible study on Esther highlighting faith, courage, and divine providence.",
+   "reason": "Studies biblical story of Esther focusing on faith, courage, and divine providence.",
    "tradition": "Christian"
   },
   {
@@ -92,7 +79,7 @@
    "published": "Sun, 26 Jul 2026 22:58:15 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Christian teaching contrasting humility and self-reliance in readiness for God's kingdom.",
+   "reason": "Explores readiness for God's kingdom through faith and surrender.",
    "tradition": "Christian"
   },
   {
@@ -105,8 +92,21 @@
    "published": "Wed, 29 Jul 2026 16:13:01 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Christian reflection on rebuilding faith and identity after trauma and loss.",
+   "reason": "Biblical narrative on rebuilding faith and identity after trauma.",
    "tradition": "Christian"
+  },
+  {
+   "id": "ccad1654-87a0-11f1-af40-97f8269df6df",
+   "showID": "https://feeds.megaphone.fm/SSM2868305742",
+   "showTitle": "Nothing much happens: bedtime stories to help you sleep",
+   "title": "The Turnaround (Encore)",
+   "summary": "Originally Aired: July 26th, 2020 (Season 6 Episode 2)\n\nOur story tonight is called The Turnaround, and it’s a story about a trip down a gravel road on a summer day. It’s also about bulrushes and bonfires, family stories, and coming back to a place you know well.\n\n\n\nSubscribe to our ⁠⁠⁠Premium channel.⁠⁠⁠ The first month is on us. 💙\n\n\n\nJoin⁠ the Village of Nothing Much App!\n\nOrder Kathryn’s new book ⁠⁠⁠⁠⁠On the Street Where You Live⁠⁠⁠⁠⁠\n\n⁠⁠⁠NMH Merch, Autographed Books and More!⁠⁠⁠\n\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Listen to our daytime show&nbsp;⁠⁠⁠⁠⁠⁠Stories from the Village of Nothing Much⁠⁠⁠⁠⁠⁠\n\n⁠⁠⁠Sit Meditati",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/hQzRUk5FlBqiODHZblrZ/traffic.megaphone.fm/SSM5619746715.mp3",
+   "published": "Thu, 30 Jul 2026 04:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/f2/26/87f226c9-77ac-d4fe-6b98-4da2345de5c0/mza_5833691041544808336.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A contemplative story about memory, place, and returning home.",
+   "tradition": "Secular"
   },
   {
    "id": "32c281b4-87af-11f1-8396-9fd8724b106e",
@@ -118,7 +118,7 @@
    "published": "Mon, 27 Jul 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Honest talk on perfectionism, identity, and redefining spirituality and self-worth.",
+   "reason": "Discusses perfectionism, self-worth, and spirituality in a personal context.",
    "tradition": "Interfaith"
   },
   {
@@ -131,8 +131,21 @@
    "published": "Thu, 30 Jul 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discussion on AI risks touching on human life and society but not deep existential themes.",
+   "reason": "Discusses AI's societal risks with some ethical implications but not deep existential focus.",
    "tradition": "Secular"
+  },
+  {
+   "id": "https://api.spreaker.com/episode/73216028",
+   "showID": "https://www.spreaker.com/show/3395068/episodes/feed",
+   "showTitle": "UFO Chronicles Podcast",
+   "title": "Ep.397 The Hudson Valley Encounters",
+   "summary": "Jay has witnessed strange phenomena throughout his life in New York’s Hudson Valley, beginning with a cylindrical craft above the trees during childhood and a blue light that flooded his family home years later. His story also includes a near-death encounter with a vast golden light, unexplained voices, geometric symbols, a shadowy grey figure and glowing objects that appeared to respond to his thoughts. More recently, his wife claims to be communicating telepathically with a mantis-like entity known as Stella.More information on this episode on the podcast website:https://ufochroniclespodcast",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73216028/ep_397_the_hudson_valley_encounters.mp3",
+   "published": "Sun, 02 Aug 2026 01:00:02 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/22/72/33/227233bf-0e7b-4d2a-d2bd-402d810dea89/mza_17727488661588768146.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Includes near-death and telepathic experiences, hinting at consciousness and mystery.",
+   "tradition": "Interfaith"
   }
  ],
  "history": {
@@ -234,6 +247,7 @@
   "e95a4e89-3664-4284-a0dd-587206b3e9cb": "2026-08-02",
   "tag:soundcloud,2010:tracks/2369415089": "2026-08-02",
   "urn:bbc:podcast:w3ct8kcr": "2026-08-02",
-  "5b9bcb1f-dd0d-4791-8b48-634038650c9e": "2026-08-02"
+  "5b9bcb1f-dd0d-4791-8b48-634038650c9e": "2026-08-02",
+  "https://api.spreaker.com/episode/73216028": "2026-08-02"
  }
 }
