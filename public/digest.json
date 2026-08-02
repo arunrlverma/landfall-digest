@@ -1,9 +1,22 @@
 {
  "version": 1,
- "generatedAt": "2026-08-02T12:30:54.590459+00:00",
+ "generatedAt": "2026-08-02T13:35:12.183677+00:00",
  "showsScanned": 400,
  "candidates": 57,
  "picks": [
+  {
+   "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
+   "showID": "https://rss.art19.com/the-telepathy-tapes",
+   "showTitle": "The Telepathy Tapes",
+   "title": "S2E41: Ibogaine Inquiries Part III: The Sacred Roots of Iboga",
+   "summary": "Long before ibogaine entered Western clinics and laboratories, the plant it comes from held a sacred place in Gabonese life. In Part III of Ibogaine Inquiries, we travel to Gabon to explore Bwiti, the spiritual tradition in which iboga is understood as a teacher, guide, and living presence.Gabonese practitioners and Bwiti initiates describe the preparation, community, music, mentorship, and lifelong practice that surround the medicine. They explain why Iboga cannot be separated from the larger body of knowledge developed around it. As Western interest continues to grow, this episode asks what ",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/fd973b3b-9b1d-40e3-b289-b01d4e52675f.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Mon, 27 Jul 2026 07:03:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "In-depth look at sacred plant medicine and spiritual tradition in Gabon.",
+   "tradition": "Indigenous"
+  },
   {
    "id": "tag:soundcloud,2010:tracks/2367787106",
    "showID": "https://feeds.soundcloud.com/users/soundcloud:users:669018539/sounds.rss",
@@ -14,21 +27,8 @@
    "published": "Sun, 26 Jul 2026 22:00:56 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Studies Esther's story focusing on faith, courage, and divine providence.",
+   "reason": "Studies the Book of Esther focusing on faith, courage, and divine providence.",
    "tradition": "Jewish"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
-   "showID": "https://rss.art19.com/the-telepathy-tapes",
-   "showTitle": "The Telepathy Tapes",
-   "title": "S2E41: Ibogaine Inquiries Part III: The Sacred Roots of Iboga",
-   "summary": "Long before ibogaine entered Western clinics and laboratories, the plant it comes from held a sacred place in Gabonese life. In Part III of Ibogaine Inquiries, we travel to Gabon to explore Bwiti, the spiritual tradition in which iboga is understood as a teacher, guide, and living presence.Gabonese practitioners and Bwiti initiates describe the preparation, community, music, mentorship, and lifelong practice that surround the medicine. They explain why Iboga cannot be separated from the larger body of knowledge developed around it. As Western interest continues to grow, this episode asks what ",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/fd973b3b-9b1d-40e3-b289-b01d4e52675f.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Mon, 27 Jul 2026 07:03:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores sacred African spiritual tradition and consciousness through iboga.",
-   "tradition": "Indigenous"
   },
   {
    "id": "6a4fb7a81c8f5a97d8caddcb",
@@ -40,7 +40,7 @@
    "published": "Sun, 26 Jul 2026 06:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "A thoughtful conversation on meaning, happiness, and existential questions from a spiritual seeker.",
+   "reason": "A thoughtful conversation on meaning, happiness, and spiritual insights from diverse traditions.",
    "tradition": "Interfaith"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Sun, 02 Aug 2026 00:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines biblical warnings about salvation and eternal destiny.",
+   "reason": "Examines biblical teachings on salvation and eternal destiny.",
    "tradition": "Christian"
   },
   {
@@ -79,20 +79,20 @@
    "published": "Wed, 29 Jul 2026 16:13:01 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Uses biblical narrative to address rebuilding faith and identity after loss.",
-   "tradition": "Jewish"
+   "reason": "Uses biblical narrative to address rebuilding faith and identity after trauma.",
+   "tradition": "Christian"
   },
   {
-   "id": "gid://art19-episode-locator/V0/jArSfBRLOvIBFJQSs5KE6YQc93R2VlRYavpT8dnjOtI",
-   "showID": "https://rss.art19.com/this-is-actually-happening-podcast",
-   "showTitle": "This Is Actually Happening",
-   "title": "418: AI: A New Kind of Being Bonus Episode: A Conversation with Valerie Sizemore of StopAI",
-   "summary": "In this special episode, Whit joins Valerie Sizemore, co-leader of the grassroots organization StopAI, for a wide-ranging conversation about the growing influence of artificial intelligence and the risks they believe it poses to human life and society. Drawing on more than fifteen years of engagement with AI, Valerie explores concerns ranging from environmental impact, autonomous warfare, biosecurity, education, and the erosion of human skills and creativity to the increasingly intimate role AI plays in our relationships, psychology, and spirituality. They also discuss the possibility of incre",
-   "audioURL": "https://rss.art19.com/episodes/e7cb9b58-483a-4dc2-8159-81173007c406.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Thu, 30 Jul 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses AI's societal risks with ethical implications but limited spiritual or existential depth.",
+   "id": "32c281b4-87af-11f1-8396-9fd8724b106e",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "CAMILA MENDES: \"Perfectionism Was Ruining My Life\"",
+   "summary": "Actress and producer Camila Mendes joins Jay for an honest conversation about the hidden cost of perfectionism, the pressure behind success, and what it took to finally choose herself. Camila opens up about the breaking point that forced her to confront old wounds, heal her relationship with food, reconnect with her Brazilian identity, and redefine what spirituality, self-worth, and love really mean.\n\nTogether, they explore why chasing perfection often leaves us feeling empty, how slowing down can become the greatest act of self-respect, and why true confidence isn't about having everything fi",
+   "audioURL": "https://traffic.megaphone.fm/GLT6229573348.mp3",
+   "published": "Mon, 27 Jul 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores perfectionism, identity, and spirituality in a personal, reflective way.",
    "tradition": "Secular"
   },
   {
@@ -105,21 +105,21 @@
    "published": "Thu, 30 Jul 2026 04:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/f2/26/87f226c9-77ac-d4fe-6b98-4da2345de5c0/mza_5833691041544808336.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A gentle story about returning home and memory, lightly touching on meaning.",
+   "reason": "A gentle story about family and place that invites quiet reflection.",
    "tradition": "Secular"
   },
   {
-   "id": "32c281b4-87af-11f1-8396-9fd8724b106e",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "CAMILA MENDES: \"Perfectionism Was Ruining My Life\"",
-   "summary": "Actress and producer Camila Mendes joins Jay for an honest conversation about the hidden cost of perfectionism, the pressure behind success, and what it took to finally choose herself. Camila opens up about the breaking point that forced her to confront old wounds, heal her relationship with food, reconnect with her Brazilian identity, and redefine what spirituality, self-worth, and love really mean.\n\nTogether, they explore why chasing perfection often leaves us feeling empty, how slowing down can become the greatest act of self-respect, and why true confidence isn't about having everything fi",
-   "audioURL": "https://traffic.megaphone.fm/GLT6229573348.mp3",
-   "published": "Mon, 27 Jul 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "id": "c56f9c9a-7099-11f1-955e-9f65fd3b4bf5",
+   "showID": "https://feeds.megaphone.fm/RM6294791149",
+   "showTitle": "The Dr. John Delony Show",
+   "title": "Caller: “My Husband Is a Selfish Lover”",
+   "summary": "🔥 Microhabits for a Better Marriage. Download the Together app.\n\n&nbsp;\n\nOn today’s episode, we hear about:\n\n\n  A wife whose husband is selfish during intimacy\n\n  A woman paranoid that her healthy marriage is headed for divorce\n\n  A wife who feels like she is better than her husband\n\n\n&nbsp;\n\nNext Steps:\n\n❤️ Get away with your spouse today!\n\n📞 Ask John a question! Call 844-693-3291 or send us a message.\n\n📚 Building a Non-Anxious Life\n\n📝 Anxiety Test\n\n📚 Own Your Past, Change Your Future\n\n❓ Questions for Humans Conversation Cards\n\n💭 John's Free Guided Meditation\n\n🤘🏼 The Dr. John Delony Show Merc",
+   "audioURL": "https://pdst.fm/e/mgln.ai/e/p356554/pscrb.fm/rss/p/traffic.megaphone.fm/RM5146295719.mp3",
+   "published": "Mon, 27 Jul 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/34/0f/4c/340f4c53-dc9b-9971-a94f-54c25a5d339a/mza_3848511723335763740.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Conversation about perfectionism, self-worth, and spirituality in life.",
-   "tradition": "Secular"
+   "reason": "Focuses on marital intimacy and personal growth with ethical considerations.",
+   "tradition": "Christian"
   }
  ],
  "history": {
