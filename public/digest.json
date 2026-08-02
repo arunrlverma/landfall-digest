@@ -1,22 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-08-02T14:36:23.974367+00:00",
+ "generatedAt": "2026-08-02T15:28:06.388438+00:00",
  "showsScanned": 400,
  "candidates": 59,
  "picks": [
-  {
-   "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
-   "showID": "https://rss.art19.com/the-telepathy-tapes",
-   "showTitle": "The Telepathy Tapes",
-   "title": "S2E41: Ibogaine Inquiries Part III: The Sacred Roots of Iboga",
-   "summary": "Long before ibogaine entered Western clinics and laboratories, the plant it comes from held a sacred place in Gabonese life. In Part III of Ibogaine Inquiries, we travel to Gabon to explore Bwiti, the spiritual tradition in which iboga is understood as a teacher, guide, and living presence.Gabonese practitioners and Bwiti initiates describe the preparation, community, music, mentorship, and lifelong practice that surround the medicine. They explain why Iboga cannot be separated from the larger body of knowledge developed around it. As Western interest continues to grow, this episode asks what ",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/fd973b3b-9b1d-40e3-b289-b01d4e52675f.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Mon, 27 Jul 2026 07:03:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "In-depth look at sacred African spiritual tradition and consciousness through iboga.",
-   "tradition": "Indigenous"
-  },
   {
    "id": "e95a4e89-3664-4284-a0dd-587206b3e9cb",
    "showID": "https://feeds.libsyn.com/570160/rss",
@@ -31,6 +18,19 @@
    "tradition": "Buddhist"
   },
   {
+   "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
+   "showID": "https://rss.art19.com/the-telepathy-tapes",
+   "showTitle": "The Telepathy Tapes",
+   "title": "S2E41: Ibogaine Inquiries Part III: The Sacred Roots of Iboga",
+   "summary": "Long before ibogaine entered Western clinics and laboratories, the plant it comes from held a sacred place in Gabonese life. In Part III of Ibogaine Inquiries, we travel to Gabon to explore Bwiti, the spiritual tradition in which iboga is understood as a teacher, guide, and living presence.Gabonese practitioners and Bwiti initiates describe the preparation, community, music, mentorship, and lifelong practice that surround the medicine. They explain why Iboga cannot be separated from the larger body of knowledge developed around it. As Western interest continues to grow, this episode asks what ",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/fd973b3b-9b1d-40e3-b289-b01d4e52675f.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Mon, 27 Jul 2026 07:03:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "In-depth look at sacred African spiritual tradition and consciousness.",
+   "tradition": "Indigenous"
+  },
+  {
    "id": "6a4fb7a81c8f5a97d8caddcb",
    "showID": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
    "showTitle": "TED Talks Daily",
@@ -40,7 +40,7 @@
    "published": "Sun, 26 Jul 2026 06:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "A conversation on meaning, happiness, and spiritual traditions with a thoughtful actor.",
+   "reason": "A conversation about meaning, happiness, and existential questions through philosophy and spirituality.",
    "tradition": "Interfaith"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Sun, 02 Aug 2026 00:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A Christian sermon on salvation and eternal destiny with serious theological reflection.",
+   "reason": "A Christian sermon on salvation and the consequences of faith decisions.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Sun, 26 Jul 2026 22:00:56 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Bible study on Esther highlighting faith, courage, and divine providence.",
+   "reason": "Bible study on Esther focusing on faith, courage, and divine providence.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Sun, 26 Jul 2026 22:58:15 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Christian teaching on faith, humility, and readiness for God's Kingdom.",
+   "reason": "Christian teaching on faith, humility, and readiness for God's kingdom.",
    "tradition": "Christian"
   },
   {
@@ -92,21 +92,8 @@
    "published": "Wed, 29 Jul 2026 16:13:01 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Christian teaching on rebuilding faith and identity after trauma.",
+   "reason": "Christian reflection on rebuilding faith and identity after trauma.",
    "tradition": "Christian"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/jArSfBRLOvIBFJQSs5KE6YQc93R2VlRYavpT8dnjOtI",
-   "showID": "https://rss.art19.com/this-is-actually-happening-podcast",
-   "showTitle": "This Is Actually Happening",
-   "title": "418: AI: A New Kind of Being Bonus Episode: A Conversation with Valerie Sizemore of StopAI",
-   "summary": "In this special episode, Whit joins Valerie Sizemore, co-leader of the grassroots organization StopAI, for a wide-ranging conversation about the growing influence of artificial intelligence and the risks they believe it poses to human life and society. Drawing on more than fifteen years of engagement with AI, Valerie explores concerns ranging from environmental impact, autonomous warfare, biosecurity, education, and the erosion of human skills and creativity to the increasingly intimate role AI plays in our relationships, psychology, and spirituality. They also discuss the possibility of incre",
-   "audioURL": "https://rss.art19.com/episodes/e7cb9b58-483a-4dc2-8159-81173007c406.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Thu, 30 Jul 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A serious conversation on AI's risks and impact on human life and society.",
-   "tradition": "Secular"
   },
   {
    "id": "tag:soundcloud,2010:tracks/2369415089",
@@ -118,20 +105,7 @@
    "published": "Tue, 28 Jul 2026 14:10:25 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts18/v4/37/d9/a0/37d9a0b4-64f8-70d4-722e-b3a8772f3424/mza_5335192259855381405.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A cultural discussion including eschatology and interiority, somewhat reflective but informal.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "urn:bbc:podcast:w3ct8kcr",
-   "showID": "https://podcasts.files.bbci.co.uk/p016tmt2.rss",
-   "showTitle": "Unexpected Elements",
-   "title": "Down The Rabbit Hole",
-   "summary": "75 years ago, Walt Disney's Alice in Wonderland hit our screens, welcoming us into a technicolour, topsy-turvy world of eccentric characters – including the Mad Hatter, the Cheshire Cat, the Queen of Hearts, the White Rabbit and many more.On Unexpected Elements, we're tumbling down the rabbit hole to uncover the strange and surprising science hidden within the classic story.We’ll find out how bizzarro land of Lewis Carroll's original novel was inspired by the real scientific discoveries of his time? Dr. Franziska Kohlt tells us how Wonderland made sense of science for children – and we learn a",
-   "audioURL": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p1r511.mp3",
-   "published": "Fri, 31 Jul 2026 09:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/87/17/61/8717611f-a0ad-dbe9-b763-59326940eec2/mza_2728337113689690539.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Explores scientific ideas through a literary lens, touching on wonder and perception.",
+   "reason": "A conversation touching on eschatology and interiority with some philosophical reflection.",
    "tradition": "Secular"
   },
   {
@@ -144,8 +118,8 @@
    "published": "Mon, 27 Jul 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A personal story about perfectionism and self-worth with spiritual themes.",
-   "tradition": "Secular"
+   "reason": "A personal story about perfectionism, identity, and spirituality.",
+   "tradition": "Interfaith"
   }
  ],
  "history": {
