@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-04T01:41:14.980277+00:00",
+ "generatedAt": "2026-08-04T03:11:08.435226+00:00",
  "showsScanned": 400,
  "candidates": 54,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Mon, 27 Jul 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "In-depth look at sacred African spiritual tradition and consciousness with iboga.",
+   "reason": "Explores sacred African spiritual tradition and consciousness through iboga medicine.",
    "tradition": "Indigenous"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Mon, 27 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/25/f5/8425f5c3-ce22-db1a-3e55-1a6698cc7f03/mza_3273078451247345185.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuroscientist examines the self as an illusion, addressing consciousness and identity deeply.",
+   "reason": "Neuroscientific and philosophical inquiry into selfhood and consciousness.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Wed, 29 Jul 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Engages seriously with faith deconstruction and doubt in a modern Christian context.",
+   "reason": "Engages deeply with doubt and faith deconstruction in modern Christianity.",
    "tradition": "Christian"
   },
   {
@@ -53,20 +53,7 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Candid discussion of depression, doubt, and faith with reflections on life's purpose.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "6ae14f5d-aec8-459d-9a78-223fc2f773f8",
-   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
-   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
-   "title": "Day 210: Speaking God's Word (2026)",
-   "summary": "Fr. Mike compares the messages of Isaiah and Ezekiel, one coming from a pre-exile time and the other from a post-exile time. Even though they are coming from two very different points in salvation history, they both are persistent in speaking the Word of God, and sharing his consolation with the people of Israel. Today's readings are Isaiah 41-42, Ezekiel 2-3, and Proverbs 12:1-4.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/6ae14f5d-aec8-459d-9a78-223fc2f773f8.mp3",
-   "published": "Wed, 29 Jul 2026 03:15:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A serious biblical study comparing prophetic messages about faith and consolation.",
+   "reason": "Shares a personal journey through depression and faith's role in purpose.",
    "tradition": "Christian"
   },
   {
@@ -78,9 +65,22 @@
    "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/51/tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/pscrb.fm/rss/p/traffic.megaphone.fm/TPG6463766745.mp3",
    "published": "Mon, 27 Jul 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Practice on vulnerability and honesty as a path to connection and aliveness.",
+   "rating": 8,
+   "reason": "Practice of honest self-reflection on connection and disconnection, exploring inner life.",
    "tradition": "Secular"
+  },
+  {
+   "id": "6ae14f5d-aec8-459d-9a78-223fc2f773f8",
+   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
+   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
+   "title": "Day 210: Speaking God's Word (2026)",
+   "summary": "Fr. Mike compares the messages of Isaiah and Ezekiel, one coming from a pre-exile time and the other from a post-exile time. Even though they are coming from two very different points in salvation history, they both are persistent in speaking the Word of God, and sharing his consolation with the people of Israel. Today's readings are Isaiah 41-42, Ezekiel 2-3, and Proverbs 12:1-4.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/6ae14f5d-aec8-459d-9a78-223fc2f773f8.mp3",
+   "published": "Wed, 29 Jul 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Biblical readings with some reflection on God's word and consolation.",
+   "tradition": "Christian"
   },
   {
    "id": "11eea34f-aa70-41e6-90ae-83e2275930ca",
@@ -91,35 +91,22 @@
    "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/11eea34f-aa70-41e6-90ae-83e2275930ca.mp3",
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Offers encouragement in faith struggles but mainly devotional and motivational.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
+   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
+   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Offers encouragement grounded in scripture for those struggling with faith and perseverance.",
+   "reason": "Shares a personal story of identity, faith, and freedom from desire.",
    "tradition": "Christian"
-  },
-  {
-   "id": "tag:soundcloud,2010:tracks/2373703811",
-   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:406683825/sounds.rss",
-   "showTitle": "The Counsel of Trent",
-   "title": "#1189 - GodLogic vs. Muslims, JW's, and \"Orthobros\"",
-   "summary": "In this episode Trent sits down with popular Christian apologist  @GodLogicApologetics  .\n\nThe Shocking Truth Behind Jehovah’s Witnesses (Living Waters): https://www.youtube.com/watch?v=cnpl6gRjNOY\n\nAnswering a Muslim Apologist: https://youtu.be/vtVW7y4r4cE?si=tHX__k1SEh9CtBv9\n\nTo support this channel: https://www.patreon.com/counseloftrent\n\n[NEW] Counsel of Trent merch: https://shop.catholic.com/apologists-alley/trent-horn-resources/\n\nBe sure to keep up with our socials!\nhttps://www.tiktok.com/@counseloftrent\nhttps://www.twitter.com/counseloftrent\nhttps://www.instagram.com/counseloftrentpodca",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2373703811-trenthornpodcast-1189-godlogic-vs-muslims-jws.mp3",
-   "published": "Mon, 03 Aug 2026 12:00:29 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Christian apologetics engaging with other faiths, some ethical and faith questions.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "b4dd32bc-4076-4538-953d-9d75fef0a958",
-   "showID": "https://feeds.simplecast.com/XYHE1JPs",
-   "showTitle": "Passion Struck with John R. Miles",
-   "title": "The Person You Become Is the Person You Practice | John R. Miles - EP 801",
-   "summary": "Most of us are waiting for the moment everything changes.\nThe breakthrough. The perfect habit. The morning you finally wake up feeling motivated enough to become the person you've always wanted to be.\nBut what if that moment never comes?\nIn this solo episode, John R. Miles challenges one of the biggest myths in personal growth: that transformation happens in an instant. Instead, he reveals why the future version of you is created through the ordinary practices you repeat every single day.\nDrawing on the timeless Zen teaching of Chop Wood, Carry Water, legendary coach John Wooden's relentless f",
-   "audioURL": "https://injector.simplecastaudio.com/0cb647de-4d3e-4036-8f2e-58ea2d655cc6/episodes/9099ae14-c56f-4d71-8825-f7497df4a2ea/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0cb647de-4d3e-4036-8f2e-58ea2d655cc6&amp;awEpisodeId=9099ae14-c56f-4d71-8825-f7497df4a2ea&amp;feed=XYHE1JPs",
-   "published": "Fri, 31 Jul 2026 04:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Talks about personal transformation through practice but lacks deeper philosophical or spiritual inquiry.",
-   "tradition": "Secular"
   }
  ],
  "history": {
@@ -221,7 +208,7 @@
   "e95a4e89-3664-4284-a0dd-587206b3e9cb": "2026-08-02",
   "tag:soundcloud,2010:tracks/2369415089": "2026-08-02",
   "urn:bbc:podcast:w3ct8kcr": "2026-08-02",
-  "5b9bcb1f-dd0d-4791-8b48-634038650c9e": "2026-08-02",
+  "5b9bcb1f-dd0d-4791-8b48-634038650c9e": "2026-08-04",
   "https://api.spreaker.com/episode/73216028": "2026-08-02",
   "coe22.podbean.com/9c568646-8efd-38fd-ac91-166d57fc5930": "2026-08-03",
   "19c603db-2797-4b53-86ba-67f0b8146513": "2026-08-03",
