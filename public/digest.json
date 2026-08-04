@@ -1,34 +1,21 @@
 {
  "version": 1,
- "generatedAt": "2026-08-04T00:47:15.009404+00:00",
+ "generatedAt": "2026-08-04T01:41:14.980277+00:00",
  "showsScanned": 400,
  "candidates": 54,
  "picks": [
   {
-   "id": "ff826d3e-8211-11f1-ab7c-674ce22d4f2d",
-   "showID": "https://feeds.megaphone.fm/TSF6225871961",
-   "showTitle": "No Small Endeavor with Lee C. Camp",
-   "title": "The Subtext: Deconstructing Christianity",
-   "summary": "What happens when a retired theology professor walks into a party full of deconstructing twenty-somethings? It sounds like the start of a joke. But really. How do we show up for ourselves and the people we love when doubt and deconstruction enter the chat?\n\nThis week on The Subtext, Lee and Savannah discuss one of the more defining conversations of modern faith: deconstruction. Whether you're asking big questions yourself or walking alongside someone who is, this episode is an invitation to keep showing up with curiosity, compassion, and hope.\n\n\n\nThings we mentioned in this episode:\n\nOf Gramma",
-   "audioURL": "https://mgln.ai/e/51/pscrb.fm/rss/p/tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/traffic.megaphone.fm/TSF4979298415.mp3",
-   "published": "Wed, 29 Jul 2026 09:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Engages deeply with faith doubt and deconstruction in modern Christianity.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "tag:soundcloud,2010:tracks/2373703811",
-   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:406683825/sounds.rss",
-   "showTitle": "The Counsel of Trent",
-   "title": "#1189 - GodLogic vs. Muslims, JW's, and \"Orthobros\"",
-   "summary": "In this episode Trent sits down with popular Christian apologist  @GodLogicApologetics  .\n\nThe Shocking Truth Behind Jehovah’s Witnesses (Living Waters): https://www.youtube.com/watch?v=cnpl6gRjNOY\n\nAnswering a Muslim Apologist: https://youtu.be/vtVW7y4r4cE?si=tHX__k1SEh9CtBv9\n\nTo support this channel: https://www.patreon.com/counseloftrent\n\n[NEW] Counsel of Trent merch: https://shop.catholic.com/apologists-alley/trent-horn-resources/\n\nBe sure to keep up with our socials!\nhttps://www.tiktok.com/@counseloftrent\nhttps://www.twitter.com/counseloftrent\nhttps://www.instagram.com/counseloftrentpodca",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2373703811-trenthornpodcast-1189-godlogic-vs-muslims-jws.mp3",
-   "published": "Mon, 03 Aug 2026 12:00:29 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Christian apologetics engaging other faiths, more doctrinal than contemplative.",
-   "tradition": "Christian"
+   "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
+   "showID": "https://rss.art19.com/the-telepathy-tapes",
+   "showTitle": "The Telepathy Tapes",
+   "title": "S2E41: Ibogaine Inquiries Part III: The Sacred Roots of Iboga",
+   "summary": "Long before ibogaine entered Western clinics and laboratories, the plant it comes from held a sacred place in Gabonese life. In Part III of Ibogaine Inquiries, we travel to Gabon to explore Bwiti, the spiritual tradition in which iboga is understood as a teacher, guide, and living presence.Gabonese practitioners and Bwiti initiates describe the preparation, community, music, mentorship, and lifelong practice that surround the medicine. They explain why Iboga cannot be separated from the larger body of knowledge developed around it. As Western interest continues to grow, this episode asks what ",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/fd973b3b-9b1d-40e3-b289-b01d4e52675f.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Mon, 27 Jul 2026 07:03:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "In-depth look at sacred African spiritual tradition and consciousness with iboga.",
+   "tradition": "Indigenous"
   },
   {
    "id": "ccb59bfe-d51b-11f0-a46a-3f4122d29471",
@@ -40,8 +27,21 @@
    "published": "Mon, 27 Jul 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/25/f5/8425f5c3-ce22-db1a-3e55-1a6698cc7f03/mza_3273078451247345185.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuroscientific and philosophical inquiry into selfhood and consciousness.",
+   "reason": "Neuroscientist examines the self as an illusion, addressing consciousness and identity deeply.",
    "tradition": "Secular"
+  },
+  {
+   "id": "ff826d3e-8211-11f1-ab7c-674ce22d4f2d",
+   "showID": "https://feeds.megaphone.fm/TSF6225871961",
+   "showTitle": "No Small Endeavor with Lee C. Camp",
+   "title": "The Subtext: Deconstructing Christianity",
+   "summary": "What happens when a retired theology professor walks into a party full of deconstructing twenty-somethings? It sounds like the start of a joke. But really. How do we show up for ourselves and the people we love when doubt and deconstruction enter the chat?\n\nThis week on The Subtext, Lee and Savannah discuss one of the more defining conversations of modern faith: deconstruction. Whether you're asking big questions yourself or walking alongside someone who is, this episode is an invitation to keep showing up with curiosity, compassion, and hope.\n\n\n\nThings we mentioned in this episode:\n\nOf Gramma",
+   "audioURL": "https://mgln.ai/e/51/pscrb.fm/rss/p/tracking.swap.fm/track/tcQd6Q6C0RUUlOHq1Ytj/traffic.megaphone.fm/TSF4979298415.mp3",
+   "published": "Wed, 29 Jul 2026 09:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ed/b6/e9/edb6e963-d891-99b5-2468-93445eb91df4/mza_13093585195860229888.png/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Engages seriously with faith deconstruction and doubt in a modern Christian context.",
+   "tradition": "Christian"
   },
   {
    "id": "https://blubrry.com/the_world_and_everything_in_it/154535185/through-depression-and-doubt/",
@@ -53,7 +53,7 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Candid discussion of depression, faith, and purpose amid suffering.",
+   "reason": "Candid discussion of depression, doubt, and faith with reflections on life's purpose.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Wed, 29 Jul 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A serious Christian reflection on biblical prophecy and God's word.",
+   "reason": "A serious biblical study comparing prophetic messages about faith and consolation.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Mon, 27 Jul 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A practice on vulnerability and honesty for personal growth and connection.",
+   "reason": "Practice on vulnerability and honesty as a path to connection and aliveness.",
    "tradition": "Secular"
   },
   {
@@ -91,22 +91,35 @@
    "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/11eea34f-aa70-41e6-90ae-83e2275930ca.mp3",
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Offers encouragement grounded in scripture but mainly motivational in tone.",
+   "rating": 7,
+   "reason": "Offers encouragement grounded in scripture for those struggling with faith and perseverance.",
    "tradition": "Christian"
   },
   {
-   "id": "gid://art19-episode-locator/V0/o2kMfNcNg0fs-dqTfwL8cLJm0ciCG26-3PUoffynVzo",
-   "showID": "https://rss.art19.com/the-telepathy-tapes",
-   "showTitle": "The Telepathy Tapes",
-   "title": "S2E41: Ibogaine Inquiries Part III: The Sacred Roots of Iboga",
-   "summary": "Long before ibogaine entered Western clinics and laboratories, the plant it comes from held a sacred place in Gabonese life. In Part III of Ibogaine Inquiries, we travel to Gabon to explore Bwiti, the spiritual tradition in which iboga is understood as a teacher, guide, and living presence.Gabonese practitioners and Bwiti initiates describe the preparation, community, music, mentorship, and lifelong practice that surround the medicine. They explain why Iboga cannot be separated from the larger body of knowledge developed around it. As Western interest continues to grow, this episode asks what ",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/fd973b3b-9b1d-40e3-b289-b01d4e52675f.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Mon, 27 Jul 2026 07:03:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Explores sacred African spiritual tradition and consciousness with iboga.",
-   "tradition": "Indigenous"
+   "id": "tag:soundcloud,2010:tracks/2373703811",
+   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:406683825/sounds.rss",
+   "showTitle": "The Counsel of Trent",
+   "title": "#1189 - GodLogic vs. Muslims, JW's, and \"Orthobros\"",
+   "summary": "In this episode Trent sits down with popular Christian apologist  @GodLogicApologetics  .\n\nThe Shocking Truth Behind Jehovah’s Witnesses (Living Waters): https://www.youtube.com/watch?v=cnpl6gRjNOY\n\nAnswering a Muslim Apologist: https://youtu.be/vtVW7y4r4cE?si=tHX__k1SEh9CtBv9\n\nTo support this channel: https://www.patreon.com/counseloftrent\n\n[NEW] Counsel of Trent merch: https://shop.catholic.com/apologists-alley/trent-horn-resources/\n\nBe sure to keep up with our socials!\nhttps://www.tiktok.com/@counseloftrent\nhttps://www.twitter.com/counseloftrent\nhttps://www.instagram.com/counseloftrentpodca",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2373703811-trenthornpodcast-1189-godlogic-vs-muslims-jws.mp3",
+   "published": "Mon, 03 Aug 2026 12:00:29 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Christian apologetics engaging with other faiths, some ethical and faith questions.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "b4dd32bc-4076-4538-953d-9d75fef0a958",
+   "showID": "https://feeds.simplecast.com/XYHE1JPs",
+   "showTitle": "Passion Struck with John R. Miles",
+   "title": "The Person You Become Is the Person You Practice | John R. Miles - EP 801",
+   "summary": "Most of us are waiting for the moment everything changes.\nThe breakthrough. The perfect habit. The morning you finally wake up feeling motivated enough to become the person you've always wanted to be.\nBut what if that moment never comes?\nIn this solo episode, John R. Miles challenges one of the biggest myths in personal growth: that transformation happens in an instant. Instead, he reveals why the future version of you is created through the ordinary practices you repeat every single day.\nDrawing on the timeless Zen teaching of Chop Wood, Carry Water, legendary coach John Wooden's relentless f",
+   "audioURL": "https://injector.simplecastaudio.com/0cb647de-4d3e-4036-8f2e-58ea2d655cc6/episodes/9099ae14-c56f-4d71-8825-f7497df4a2ea/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0cb647de-4d3e-4036-8f2e-58ea2d655cc6&amp;awEpisodeId=9099ae14-c56f-4d71-8825-f7497df4a2ea&amp;feed=XYHE1JPs",
+   "published": "Fri, 31 Jul 2026 04:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Talks about personal transformation through practice but lacks deeper philosophical or spiritual inquiry.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -182,7 +195,7 @@
   "gid://art19-episode-locator/V0/jArSfBRLOvIBFJQSs5KE6YQc93R2VlRYavpT8dnjOtI": "2026-08-02",
   "0be2c8e2-8787-11f1-962a-8be7b1fb5ffe": "2026-07-30",
   "be554ede-13e8-4b55-823c-0a107aebdea5": "2026-08-03",
-  "b4dd32bc-4076-4538-953d-9d75fef0a958": "2026-07-31",
+  "b4dd32bc-4076-4538-953d-9d75fef0a958": "2026-08-04",
   "4b207b4a-85ab-11f1-8902-6fce07fd8e54": "2026-08-03",
   "cda55df55054d7cbf0dc90bb3af02add": "2026-08-03",
   "fde2c3e0b6070e81b7e0824778dff15f": "2026-08-03",
