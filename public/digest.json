@@ -1,9 +1,22 @@
 {
  "version": 1,
- "generatedAt": "2026-08-04T16:43:12.370998+00:00",
+ "generatedAt": "2026-08-04T17:37:25.171922+00:00",
  "showsScanned": 400,
- "candidates": 43,
+ "candidates": 44,
  "picks": [
+  {
+   "id": "2f2fbd3e-8b9a-497f-a737-8750cd55a644",
+   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
+   "showTitle": "Making Sense with Sam Harris",
+   "title": "#488 — Ego, Ecstasy, and Equanimity",
+   "summary": "Sam Harris speaks with Neal Brennan about the experiences that shaped his life and work. They discuss Sam's mother's television career, growing up with an absent father, his struggles with perfectionism, his first experience with MDMA, dropping out of Stanford, meditation retreats, spiritual charisma and claims of psychic powers, the illusion of self, the limits of pacifism, deleting Twitter, Trump and the politics of shamelessness, hypocrisy and vice signaling, the future of American democracy, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to ga",
+   "audioURL": "https://traffic.libsyn.com/secure/wakingup/488_MS_Neal_Brennan_paywall.mp3?dest-id=480596",
+   "published": "Tue, 04 Aug 2026 17:10:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Deep conversation on self, consciousness, meditation, and spiritual experience.",
+   "tradition": "Secular"
+  },
   {
    "id": "gid://art19-episode-locator/V0/SnggQb245L9IblZU_oDTQeMCM59Q_Q3Kr02B0a5MPpM",
    "showID": "https://rss.art19.com/the-oprah-podcast",
@@ -14,21 +27,8 @@
    "published": "Tue, 04 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/e3/21/0fe32103-63b9-c890-308e-e8aa3b89090b/mza_17611356982334262758.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines Stoic philosophy's relevance to meaning, resilience, and purpose.",
+   "reason": "A thoughtful discussion on Stoicism's relevance to meaning and resilience today.",
    "tradition": "Stoic"
-  },
-  {
-   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
-   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
-   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Personal story of faith, identity, and freedom from desire in Christian context.",
-   "tradition": "Christian"
   },
   {
    "id": "https://blubrry.com/the_world_and_everything_in_it/154535185/through-depression-and-doubt/",
@@ -40,7 +40,20 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares a faith-tested journey through depression and suffering.",
+   "reason": "Honest Christian discussion on depression, doubt, and life's purpose.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
+   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
+   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Personal Christian testimony on identity, faith, and freedom from desire.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +66,7 @@
    "published": "Wed, 29 Jul 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores biblical prophecy and God's word in historical context.",
+   "reason": "Explores biblical prophecy and speaking God's word amid historical suffering.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +79,7 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Encouragement for spiritual struggle and perseverance in faith.",
+   "reason": "Encouragement for spiritual perseverance amid doubt and struggle.",
    "tradition": "Christian"
   },
   {
@@ -79,8 +92,8 @@
    "published": "Thu, 30 Jul 2026 04:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/f2/26/87f226c9-77ac-d4fe-6b98-4da2345de5c0/mza_5833691041544808336.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A contemplative story about family, place, and memory with subtle ethical undertones.",
-   "tradition": "Interfaith"
+   "reason": "A quiet story about family, place, and memory inviting reflection on life.",
+   "tradition": "Secular"
   },
   {
    "id": "0d6e9870-8a99-11f1-8804-c77d91e10c5e",
@@ -92,20 +105,7 @@
    "published": "Tue, 04 Aug 2026 16:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A fairy tale with themes of quest and love, lightly touching on meaning and fate.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/sKP6QY61ONTVFd3EEE5ufNhUP3SJfUNVhXEeL00mz80",
-   "showID": "https://rss.pdrl.fm/3503ba/rss.art19.com/barely-famous",
-   "showTitle": "Barely Famous",
-   "title": "Thank The Moon With Kaitlyn Bristowe",
-   "summary": "Kail sits down with Kaitlyn Bristowe for an honest and hilarious conversation about leaving reality TV identities behind, building a lasting career, and trusting where life takes you next. Kaitlyn opens up about her move to New York City, keeping her new relationship private, freezing her eggs, and her hopes of becoming a mom.They also get into public breakups, working with friends and family, protecting children in the spotlight, self-worth, body image, Botox, therapy, spirituality, and why getting older might actually be the best era yet. Plus, Kaitlyn shares the emotional experience that sh",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/claritaspod.com/measure/arttrk.com/p/PDPN1/pscrb.fm/rss/p/tracking.swap.fm/track/0rfjk5dlUYvVVB1j4JMa/rss.art19.com/episodes/4491e4a3-d7b0-4ffa-93dc-9024604a5c41.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Fri, 31 Jul 2026 08:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/98/94/fc/9894fcd5-fcae-dc35-0d38-9cb5290aa880/mza_831965047467411726.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Candid talk on spirituality and self-worth, but mostly personal life and career focused.",
+   "reason": "A fairy tale with themes of quest and love, inviting gentle reflection.",
    "tradition": "Interfaith"
   }
  ],
@@ -221,6 +221,7 @@
   "tag:soundcloud,2010:tracks/2373703811": "2026-08-04",
   "gid://art19-episode-locator/V0/SnggQb245L9IblZU_oDTQeMCM59Q_Q3Kr02B0a5MPpM": "2026-08-04",
   "https://api.spreaker.com/episode/73363182": "2026-08-04",
-  "0d6e9870-8a99-11f1-8804-c77d91e10c5e": "2026-08-04"
+  "0d6e9870-8a99-11f1-8804-c77d91e10c5e": "2026-08-04",
+  "2f2fbd3e-8b9a-497f-a737-8750cd55a644": "2026-08-04"
  }
 }
