@@ -1,9 +1,35 @@
 {
  "version": 1,
- "generatedAt": "2026-08-04T10:58:10.942241+00:00",
+ "generatedAt": "2026-08-04T11:48:48.578517+00:00",
  "showsScanned": 400,
  "candidates": 49,
  "picks": [
+  {
+   "id": "https://api.spreaker.com/episode/73276790",
+   "showID": "https://www.spreaker.com/show/4858435/episodes/feed",
+   "showTitle": "Next Level Soul Podcast with Alex Ferrari",
+   "title": "Full Disclosure: What the Ancient Texts Already Knew with Yogiraj SatGurunath Siddhanath",
+   "summary": "There comes a moment in every civilization when the old world quietly begins to dissolve, making room for something entirely new. According to renowned yogi Yogiraj SatGurunath Siddhanath, humanity is living through one of those rare moments now. In this profound conversation, he shares ancient yogic teachings on consciousness, the evolution of humanity, the mysterious year 2032, the balancing of the three gunas, extraterrestrial intelligence, higher-dimensional beings, and the spiritual transformation unfolding across our planet.Throughout this extraordinary discussion, Gurunath explores why ",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73276790/nls_713.mp3",
+   "published": "Sat, 01 Aug 2026 11:30:02 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Shares ancient yogic teachings on consciousness and spiritual transformation.",
+   "tradition": "Hindu"
+  },
+  {
+   "id": "https://api.spreaker.com/episode/73363182",
+   "showID": "https://www.spreaker.com/show/4858435/episodes/feed",
+   "showTitle": "Next Level Soul Podcast with Alex Ferrari",
+   "title": "Near Death, Meeting Jesus, and His Message to Her with Bridget Cook-Burch",
+   "summary": "What if everything you believed about Jesus, worthiness, and unconditional love changed in a single moment?In this profound conversation, Bridget Cook-Burch shares the extraordinary story of her near-death experience after a life-threatening illness in her early twenties. Meeting Yeshua transformed not only her understanding of God but also her understanding of herself. She reveals what she learned about unconditional love, why our deepest wounds often become our greatest purpose, and how the stories we tell ourselves shape every aspect of our lives.Together, we explore the true nature of Yesh",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73363182/nls_714.mp3",
+   "published": "Tue, 04 Aug 2026 11:30:02 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Near-death experience reshapes understanding of Jesus, love, and personal purpose.",
+   "tradition": "Christian"
+  },
   {
    "id": "https://blubrry.com/the_world_and_everything_in_it/154535185/through-depression-and-doubt/",
    "showID": "https://feeds.blubrry.com/feeds/the_world_and_everything_in_it.xml",
@@ -14,7 +40,7 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Honest discussion of depression, doubt, and faith's role in suffering.",
+   "reason": "Author shares struggle with depression and faith, affirming life's purpose.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +53,7 @@
    "published": "Tue, 04 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/e3/21/0fe32103-63b9-c890-308e-e8aa3b89090b/mza_17611356982334262758.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines Stoic philosophy's relevance to modern life and ethics.",
+   "reason": "Examines Stoic philosophy's relevance for resilience and purpose in modern life.",
    "tradition": "Stoic"
   },
   {
@@ -40,7 +66,7 @@
    "published": "Sun, 02 Aug 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal story of faith, identity, and freedom from struggle with sexuality.",
+   "reason": "Personal story of faith overcoming same-sex attraction and finding freedom in Christ.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +92,7 @@
    "published": "Sun, 02 Aug 2026 00:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Sermon on salvation and eternal destiny from a Christian viewpoint.",
+   "reason": "Sermon on biblical warnings about salvation and eternal destiny.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +105,7 @@
    "published": "Wed, 29 Jul 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Catholic priest compares prophetic messages with some spiritual consolation.",
+   "reason": "Catholic priest compares biblical texts on speaking God's word and consolation.",
    "tradition": "Christian"
   },
   {
@@ -92,21 +118,8 @@
    "published": "Fri, 31 Jul 2026 04:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses personal transformation through practice, touching on identity and change.",
+   "reason": "Discusses personal transformation through habits, touching on meaning but mostly self-help.",
    "tradition": "Secular"
-  },
-  {
-   "id": "https://api.spreaker.com/episode/73276790",
-   "showID": "https://www.spreaker.com/show/4858435/episodes/feed",
-   "showTitle": "Next Level Soul Podcast with Alex Ferrari",
-   "title": "Full Disclosure: What the Ancient Texts Already Knew with Yogiraj SatGurunath Siddhanath",
-   "summary": "There comes a moment in every civilization when the old world quietly begins to dissolve, making room for something entirely new. According to renowned yogi Yogiraj SatGurunath Siddhanath, humanity is living through one of those rare moments now. In this profound conversation, he shares ancient yogic teachings on consciousness, the evolution of humanity, the mysterious year 2032, the balancing of the three gunas, extraterrestrial intelligence, higher-dimensional beings, and the spiritual transformation unfolding across our planet.Throughout this extraordinary discussion, Gurunath explores why ",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73276790/nls_713.mp3",
-   "published": "Sat, 01 Aug 2026 11:30:02 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Shares ancient yogic teachings on consciousness and spiritual transformation.",
-   "tradition": "Hindu"
   }
  ],
  "history": {
@@ -219,6 +232,7 @@
   "9cf057b2-280b-4796-9845-188552bfc018": "2026-08-03",
   "Buzzsprout-19571882": "2026-08-03",
   "tag:soundcloud,2010:tracks/2373703811": "2026-08-04",
-  "gid://art19-episode-locator/V0/SnggQb245L9IblZU_oDTQeMCM59Q_Q3Kr02B0a5MPpM": "2026-08-04"
+  "gid://art19-episode-locator/V0/SnggQb245L9IblZU_oDTQeMCM59Q_Q3Kr02B0a5MPpM": "2026-08-04",
+  "https://api.spreaker.com/episode/73363182": "2026-08-04"
  }
 }
