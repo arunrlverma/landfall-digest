@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-04T17:37:25.171922+00:00",
+ "generatedAt": "2026-08-04T18:39:11.549478+00:00",
  "showsScanned": 400,
- "candidates": 44,
+ "candidates": 45,
  "picks": [
   {
    "id": "2f2fbd3e-8b9a-497f-a737-8750cd55a644",
@@ -14,7 +14,7 @@
    "published": "Tue, 04 Aug 2026 17:10:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep conversation on self, consciousness, meditation, and spiritual experience.",
+   "reason": "Deep discussion on self, consciousness, meditation, and spiritual experiences.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Tue, 04 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/e3/21/0fe32103-63b9-c890-308e-e8aa3b89090b/mza_17611356982334262758.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A thoughtful discussion on Stoicism's relevance to meaning and resilience today.",
+   "reason": "Serious conversation on Stoicism's relevance to meaning, resilience, and purpose in life.",
    "tradition": "Stoic"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Honest Christian discussion on depression, doubt, and life's purpose.",
+   "reason": "Author shares faith-tested by depression and suffering, affirming life's purpose.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Sun, 02 Aug 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal Christian testimony on identity, faith, and freedom from desire.",
+   "reason": "Personal story of faith, identity, and freedom from struggle with sexuality.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Wed, 29 Jul 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores biblical prophecy and speaking God's word amid historical suffering.",
+   "reason": "Biblical readings with reflections on God's word and consolation in hardship.",
    "tradition": "Christian"
   },
   {
@@ -79,8 +79,21 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Encouragement for spiritual perseverance amid doubt and struggle.",
+   "reason": "Encouragement for spiritual perseverance within Christian scripture context.",
    "tradition": "Christian"
+  },
+  {
+   "id": "ab7f9b32-da90-4216-936a-bf302da0c1a1",
+   "showID": "https://feeds.captivate.fm/pursuit-of-the-paranormal/",
+   "showTitle": "Pursuit of the Paranormal",
+   "title": "Sean Webb: The UFO Mystery Isn't About Aliens... It's About Consciousness",
+   "summary": "What if the biggest mystery isn't UFOs... but consciousness itself? In this fascinating episode of Pursuit of the Paranormal, Greg and Ash are joined by Sean Webb, author of NHI Connected Mind, to explore one of the most thought-provoking theories in modern consciousness research. Sean believes the phenomenon extends far beyond spacecraft and extraterrestrials. Instead, he argues that Non-Human Intelligence (NHI), consciousness, artificial intelligence, and humanity's future may all be deeply connected.During this conversation we discuss:👽 Sean's personal NHI experiences🧠 Is consciousness fund",
+   "audioURL": "https://episodes.captivate.fm/episode/ab7f9b32-da90-4216-936a-bf302da0c1a1.mp3",
+   "published": "Tue, 04 Aug 2026 18:45:00 +0100",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e9/4e/0b/e94e0b30-323e-0ddc-58c2-c4e0d5434632/mza_4797331795734686344.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores consciousness and non-human intelligence with philosophical depth.",
+   "tradition": "Interfaith"
   },
   {
    "id": "ccad1654-87a0-11f1-af40-97f8269df6df",
@@ -92,8 +105,21 @@
    "published": "Thu, 30 Jul 2026 04:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/f2/26/87f226c9-77ac-d4fe-6b98-4da2345de5c0/mza_5833691041544808336.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A quiet story about family, place, and memory inviting reflection on life.",
+   "reason": "A contemplative story about family, place, and memory.",
    "tradition": "Secular"
+  },
+  {
+   "id": "tag:soundcloud,2010:tracks/2373703811",
+   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:406683825/sounds.rss",
+   "showTitle": "The Counsel of Trent",
+   "title": "#1189 - GodLogic vs. Muslims, JW's, and \"Orthobros\"",
+   "summary": "In this episode Trent sits down with popular Christian apologist  @GodLogicApologetics  .\n\nThe Shocking Truth Behind Jehovah’s Witnesses (Living Waters): https://www.youtube.com/watch?v=cnpl6gRjNOY\n\nAnswering a Muslim Apologist: https://youtu.be/vtVW7y4r4cE?si=tHX__k1SEh9CtBv9\n\nTo support this channel: https://www.patreon.com/counseloftrent\n\n[NEW] Counsel of Trent merch: https://shop.catholic.com/apologists-alley/trent-horn-resources/\n\nBe sure to keep up with our socials!\nhttps://www.tiktok.com/@counseloftrent\nhttps://www.twitter.com/counseloftrent\nhttps://www.instagram.com/counseloftrentpodca",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2373703811-trenthornpodcast-1189-godlogic-vs-muslims-jws.mp3",
+   "published": "Mon, 03 Aug 2026 12:00:29 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Christian apologetics engaging with other faiths, focused on doctrinal debate.",
+   "tradition": "Christian"
   },
   {
    "id": "0d6e9870-8a99-11f1-8804-c77d91e10c5e",
@@ -105,7 +131,7 @@
    "published": "Tue, 04 Aug 2026 16:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A fairy tale with themes of quest and love, inviting gentle reflection.",
+   "reason": "A fairy tale with themes of quest and love, lightly touching on meaning.",
    "tradition": "Interfaith"
   }
  ],
@@ -222,6 +248,7 @@
   "gid://art19-episode-locator/V0/SnggQb245L9IblZU_oDTQeMCM59Q_Q3Kr02B0a5MPpM": "2026-08-04",
   "https://api.spreaker.com/episode/73363182": "2026-08-04",
   "0d6e9870-8a99-11f1-8804-c77d91e10c5e": "2026-08-04",
-  "2f2fbd3e-8b9a-497f-a737-8750cd55a644": "2026-08-04"
+  "2f2fbd3e-8b9a-497f-a737-8750cd55a644": "2026-08-04",
+  "ab7f9b32-da90-4216-936a-bf302da0c1a1": "2026-08-04"
  }
 }
