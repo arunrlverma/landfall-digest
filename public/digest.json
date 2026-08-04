@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-04T15:53:04.611185+00:00",
+ "generatedAt": "2026-08-04T16:43:12.370998+00:00",
  "showsScanned": 400,
- "candidates": 46,
+ "candidates": 43,
  "picks": [
   {
    "id": "gid://art19-episode-locator/V0/SnggQb245L9IblZU_oDTQeMCM59Q_Q3Kr02B0a5MPpM",
@@ -14,8 +14,21 @@
    "published": "Tue, 04 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/e3/21/0fe32103-63b9-c890-308e-e8aa3b89090b/mza_17611356982334262758.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Serious discussion on Stoicism's relevance to meaning, resilience, and purpose.",
+   "reason": "Examines Stoic philosophy's relevance to meaning, resilience, and purpose.",
    "tradition": "Stoic"
+  },
+  {
+   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
+   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
+   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Personal story of faith, identity, and freedom from desire in Christian context.",
+   "tradition": "Christian"
   },
   {
    "id": "https://blubrry.com/the_world_and_everything_in_it/154535185/through-depression-and-doubt/",
@@ -27,20 +40,7 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Candid conversation on depression, faith, and life's purpose.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
-   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
-   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Personal story of faith, identity, and freedom from sin in a Christian context.",
+   "reason": "Shares a faith-tested journey through depression and suffering.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Wed, 29 Jul 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores biblical prophecy and faithfulness amid exile, touching on divine consolation.",
+   "reason": "Explores biblical prophecy and God's word in historical context.",
    "tradition": "Christian"
   },
   {
@@ -66,47 +66,8 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Encouragement for spiritual perseverance and faith during struggle.",
+   "reason": "Encouragement for spiritual struggle and perseverance in faith.",
    "tradition": "Christian"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/jArSfBRLOvIBFJQSs5KE6YQc93R2VlRYavpT8dnjOtI",
-   "showID": "https://rss.art19.com/this-is-actually-happening-podcast",
-   "showTitle": "This Is Actually Happening",
-   "title": "418: AI: A New Kind of Being Bonus Episode: A Conversation with Valerie Sizemore of StopAI",
-   "summary": "In this special episode, Whit joins Valerie Sizemore, co-leader of the grassroots organization StopAI, for a wide-ranging conversation about the growing influence of artificial intelligence and the risks they believe it poses to human life and society. Drawing on more than fifteen years of engagement with AI, Valerie explores concerns ranging from environmental impact, autonomous warfare, biosecurity, education, and the erosion of human skills and creativity to the increasingly intimate role AI plays in our relationships, psychology, and spirituality. They also discuss the possibility of incre",
-   "audioURL": "https://rss.art19.com/episodes/e7cb9b58-483a-4dc2-8159-81173007c406.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Thu, 30 Jul 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores ethical and societal risks of AI, including human creativity and life value.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "ae99f5f8-d879-4f8a-9a09-7d4859da5d00",
-   "showID": "https://anchor.fm/s/10e5a085c/podcast/rss",
-   "showTitle": "The Mark Driscoll Podcast",
-   "title": "Why You Might Not Be Going To Heaven",
-   "summary": "Most people assume they’re going to heaven, but Jesus gave serious warnings that challenge that confidence. This sermon reveals what the Bible says about salvation and the one decision that determines where you’ll spend eternity.",
-   "audioURL": "https://traffic.megaphone.fm/APO1549942659.mp3",
-   "published": "Sun, 02 Aug 2026 00:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Focuses on biblical warnings about salvation and eternal destiny.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "b4dd32bc-4076-4538-953d-9d75fef0a958",
-   "showID": "https://feeds.simplecast.com/XYHE1JPs",
-   "showTitle": "Passion Struck with John R. Miles",
-   "title": "The Person You Become Is the Person You Practice | John R. Miles - EP 801",
-   "summary": "Most of us are waiting for the moment everything changes.\nThe breakthrough. The perfect habit. The morning you finally wake up feeling motivated enough to become the person you've always wanted to be.\nBut what if that moment never comes?\nIn this solo episode, John R. Miles challenges one of the biggest myths in personal growth: that transformation happens in an instant. Instead, he reveals why the future version of you is created through the ordinary practices you repeat every single day.\nDrawing on the timeless Zen teaching of Chop Wood, Carry Water, legendary coach John Wooden's relentless f",
-   "audioURL": "https://injector.simplecastaudio.com/0cb647de-4d3e-4036-8f2e-58ea2d655cc6/episodes/9099ae14-c56f-4d71-8825-f7497df4a2ea/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0cb647de-4d3e-4036-8f2e-58ea2d655cc6&amp;awEpisodeId=9099ae14-c56f-4d71-8825-f7497df4a2ea&amp;feed=XYHE1JPs",
-   "published": "Fri, 31 Jul 2026 04:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses personal transformation through daily practice, touching on identity and change.",
-   "tradition": "Secular"
   },
   {
    "id": "ccad1654-87a0-11f1-af40-97f8269df6df",
@@ -117,9 +78,35 @@
    "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/hQzRUk5FlBqiODHZblrZ/clrtpod.com/m/traffic.megaphone.fm/SSM5619746715.mp3",
    "published": "Thu, 30 Jul 2026 04:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/f2/26/87f226c9-77ac-d4fe-6b98-4da2345de5c0/mza_5833691041544808336.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A contemplative story about family, place, and memory with subtle ethical undertones.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "0d6e9870-8a99-11f1-8804-c77d91e10c5e",
+   "showID": "https://feeds.megaphone.fm/SGP8517078272",
+   "showTitle": "Get Sleepy: Sleep meditation and stories",
+   "title": "The Silent Princess",
+   "summary": "Narrator: Chloe de Burgh 🇬🇧\n\nWriter: Alicia Steffann ✍️\n\nSound effects: garden birdsong 🐦‍⬛&nbsp;\n\nWelcome back, sleepyheads. Tonight, we’ll be travelling hundreds of years into the past for a sleepy retelling of an old Turkish fairytale. It’s about a determined young man who goes on a quest to find a silent princess and win her heart. 😴\n\nIncludes mentions of: Birds, Family, Marriage, Romance, Curse, Fantastical Elements.&nbsp;\n\n\n\nEnjoy various playlists&nbsp;of our stories and meditations on our&nbsp;⁠⁠⁠⁠⁠⁠Slumber Studios Spotify profile⁠⁠⁠⁠⁠⁠.\n\n\n\nGet Sleepy Premium\n\nListen completely ad-free",
+   "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/SGP2249476569.mp3",
+   "published": "Tue, 04 Aug 2026 16:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A reflective story about place, memory, and returning home.",
-   "tradition": "Secular"
+   "reason": "A fairy tale with themes of quest and love, lightly touching on meaning and fate.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/sKP6QY61ONTVFd3EEE5ufNhUP3SJfUNVhXEeL00mz80",
+   "showID": "https://rss.pdrl.fm/3503ba/rss.art19.com/barely-famous",
+   "showTitle": "Barely Famous",
+   "title": "Thank The Moon With Kaitlyn Bristowe",
+   "summary": "Kail sits down with Kaitlyn Bristowe for an honest and hilarious conversation about leaving reality TV identities behind, building a lasting career, and trusting where life takes you next. Kaitlyn opens up about her move to New York City, keeping her new relationship private, freezing her eggs, and her hopes of becoming a mom.They also get into public breakups, working with friends and family, protecting children in the spotlight, self-worth, body image, Botox, therapy, spirituality, and why getting older might actually be the best era yet. Plus, Kaitlyn shares the emotional experience that sh",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/claritaspod.com/measure/arttrk.com/p/PDPN1/pscrb.fm/rss/p/tracking.swap.fm/track/0rfjk5dlUYvVVB1j4JMa/rss.art19.com/episodes/4491e4a3-d7b0-4ffa-93dc-9024604a5c41.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Fri, 31 Jul 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/98/94/fc/9894fcd5-fcae-dc35-0d38-9cb5290aa880/mza_831965047467411726.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Candid talk on spirituality and self-worth, but mostly personal life and career focused.",
+   "tradition": "Interfaith"
   }
  ],
  "history": {
@@ -216,7 +203,7 @@
   "c3dd00ac-7099-11f1-955e-733de9dc74cf": "2026-08-01",
   "306209e9-90fa-488e-955e-601db048f116": "2026-08-01",
   "27eccf5a-8c65-11f1-87b0-87a771ddd09d": "2026-08-01",
-  "gid://art19-episode-locator/V0/sKP6QY61ONTVFd3EEE5ufNhUP3SJfUNVhXEeL00mz80": "2026-08-02",
+  "gid://art19-episode-locator/V0/sKP6QY61ONTVFd3EEE5ufNhUP3SJfUNVhXEeL00mz80": "2026-08-04",
   "ae99f5f8-d879-4f8a-9a09-7d4859da5d00": "2026-08-04",
   "e95a4e89-3664-4284-a0dd-587206b3e9cb": "2026-08-02",
   "tag:soundcloud,2010:tracks/2369415089": "2026-08-02",
@@ -233,6 +220,7 @@
   "Buzzsprout-19571882": "2026-08-03",
   "tag:soundcloud,2010:tracks/2373703811": "2026-08-04",
   "gid://art19-episode-locator/V0/SnggQb245L9IblZU_oDTQeMCM59Q_Q3Kr02B0a5MPpM": "2026-08-04",
-  "https://api.spreaker.com/episode/73363182": "2026-08-04"
+  "https://api.spreaker.com/episode/73363182": "2026-08-04",
+  "0d6e9870-8a99-11f1-8804-c77d91e10c5e": "2026-08-04"
  }
 }
