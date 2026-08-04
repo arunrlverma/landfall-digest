@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-04T18:39:11.549478+00:00",
+ "generatedAt": "2026-08-04T19:36:17.259303+00:00",
  "showsScanned": 400,
  "candidates": 45,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Tue, 04 Aug 2026 17:10:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep discussion on self, consciousness, meditation, and spiritual experiences.",
+   "reason": "Deep conversation on self, consciousness, meditation, and spiritual experience.",
    "tradition": "Secular"
   },
   {
@@ -27,8 +27,21 @@
    "published": "Tue, 04 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/e3/21/0fe32103-63b9-c890-308e-e8aa3b89090b/mza_17611356982334262758.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Serious conversation on Stoicism's relevance to meaning, resilience, and purpose in life.",
+   "reason": "Examines Stoic philosophy's relevance to meaning, resilience, and purpose in life.",
    "tradition": "Stoic"
+  },
+  {
+   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
+   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
+   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Personal story of faith, identity, and freedom from struggle with sexuality.",
+   "tradition": "Christian"
   },
   {
    "id": "https://blubrry.com/the_world_and_everything_in_it/154535185/through-depression-and-doubt/",
@@ -40,20 +53,7 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Author shares faith-tested by depression and suffering, affirming life's purpose.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
-   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
-   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Personal story of faith, identity, and freedom from struggle with sexuality.",
+   "reason": "Author shares faith tested by depression and suffering, affirming life's purpose.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Wed, 29 Jul 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Biblical readings with reflections on God's word and consolation in hardship.",
+   "reason": "Biblical study comparing prophetic messages with ethical and spiritual implications.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Encouragement for spiritual perseverance within Christian scripture context.",
+   "reason": "Encouragement in faith during struggle, addressing doubt and perseverance.",
    "tradition": "Christian"
   },
   {
@@ -92,21 +92,8 @@
    "published": "Tue, 04 Aug 2026 18:45:00 +0100",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e9/4e/0b/e94e0b30-323e-0ddc-58c2-c4e0d5434632/mza_4797331795734686344.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores consciousness and non-human intelligence with philosophical depth.",
+   "reason": "Explores consciousness and non-human intelligence beyond aliens, inviting deep reflection.",
    "tradition": "Interfaith"
-  },
-  {
-   "id": "ccad1654-87a0-11f1-af40-97f8269df6df",
-   "showID": "https://feeds.megaphone.fm/SSM2868305742",
-   "showTitle": "Nothing much happens: bedtime stories to help you sleep",
-   "title": "The Turnaround (Encore)",
-   "summary": "Originally Aired: July 26th, 2020 (Season 6 Episode 2)\n\nOur story tonight is called The Turnaround, and it’s a story about a trip down a gravel road on a summer day. It’s also about bulrushes and bonfires, family stories, and coming back to a place you know well.\n\n\n\nSubscribe to our ⁠⁠⁠Premium channel.⁠⁠⁠ The first month is on us. 💙\n\n\n\nJoin⁠ the Village of Nothing Much App!\n\nOrder Kathryn’s new book ⁠⁠⁠⁠⁠On the Street Where You Live⁠⁠⁠⁠⁠\n\n⁠⁠⁠NMH Merch, Autographed Books and More!⁠⁠⁠\n\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Listen to our daytime show&nbsp;⁠⁠⁠⁠⁠⁠Stories from the Village of Nothing Much⁠⁠⁠⁠⁠⁠\n\n⁠⁠⁠Sit Meditati",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/hQzRUk5FlBqiODHZblrZ/clrtpod.com/m/traffic.megaphone.fm/SSM5619746715.mp3",
-   "published": "Thu, 30 Jul 2026 04:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/f2/26/87f226c9-77ac-d4fe-6b98-4da2345de5c0/mza_5833691041544808336.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A contemplative story about family, place, and memory.",
-   "tradition": "Secular"
   },
   {
    "id": "tag:soundcloud,2010:tracks/2373703811",
@@ -118,21 +105,8 @@
    "published": "Mon, 03 Aug 2026 12:00:29 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Christian apologetics engaging with other faiths, focused on doctrinal debate.",
+   "reason": "Christian apologetics engaging with other faiths, touching on belief and doubt.",
    "tradition": "Christian"
-  },
-  {
-   "id": "0d6e9870-8a99-11f1-8804-c77d91e10c5e",
-   "showID": "https://feeds.megaphone.fm/SGP8517078272",
-   "showTitle": "Get Sleepy: Sleep meditation and stories",
-   "title": "The Silent Princess",
-   "summary": "Narrator: Chloe de Burgh 🇬🇧\n\nWriter: Alicia Steffann ✍️\n\nSound effects: garden birdsong 🐦‍⬛&nbsp;\n\nWelcome back, sleepyheads. Tonight, we’ll be travelling hundreds of years into the past for a sleepy retelling of an old Turkish fairytale. It’s about a determined young man who goes on a quest to find a silent princess and win her heart. 😴\n\nIncludes mentions of: Birds, Family, Marriage, Romance, Curse, Fantastical Elements.&nbsp;\n\n\n\nEnjoy various playlists&nbsp;of our stories and meditations on our&nbsp;⁠⁠⁠⁠⁠⁠Slumber Studios Spotify profile⁠⁠⁠⁠⁠⁠.\n\n\n\nGet Sleepy Premium\n\nListen completely ad-free",
-   "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/SGP2249476569.mp3",
-   "published": "Tue, 04 Aug 2026 16:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "A fairy tale with themes of quest and love, lightly touching on meaning.",
-   "tradition": "Interfaith"
   }
  ],
  "history": {
