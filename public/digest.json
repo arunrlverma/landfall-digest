@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-04T21:17:25.442938+00:00",
+ "generatedAt": "2026-08-04T23:08:06.817027+00:00",
  "showsScanned": 400,
- "candidates": 46,
+ "candidates": 44,
  "picks": [
   {
    "id": "2f2fbd3e-8b9a-497f-a737-8750cd55a644",
@@ -14,7 +14,7 @@
    "published": "Tue, 04 Aug 2026 17:10:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep conversation on self, consciousness, meditation, and spiritual experience.",
+   "reason": "Deep conversation on self, consciousness, meditation, and spiritual experiences.",
    "tradition": "Secular"
   },
   {
@@ -31,6 +31,19 @@
    "tradition": "Stoic"
   },
   {
+   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
+   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
+   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Personal story of faith, identity, and freedom from struggle with sexuality.",
+   "tradition": "Christian"
+  },
+  {
    "id": "https://blubrry.com/the_world_and_everything_in_it/154535185/through-depression-and-doubt/",
    "showID": "https://feeds.blubrry.com/feeds/the_world_and_everything_in_it.xml",
    "showTitle": "The World and Everything In It",
@@ -40,33 +53,7 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Author shares struggle with depression and faith, exploring purpose and doubt.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
-   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
-   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Personal story of faith, identity, and freedom from struggle with sexuality.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "6ae14f5d-aec8-459d-9a78-223fc2f773f8",
-   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
-   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
-   "title": "Day 210: Speaking God's Word (2026)",
-   "summary": "Fr. Mike compares the messages of Isaiah and Ezekiel, one coming from a pre-exile time and the other from a post-exile time. Even though they are coming from two very different points in salvation history, they both are persistent in speaking the Word of God, and sharing his consolation with the people of Israel. Today's readings are Isaiah 41-42, Ezekiel 2-3, and Proverbs 12:1-4.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/6ae14f5d-aec8-459d-9a78-223fc2f773f8.mp3",
-   "published": "Wed, 29 Jul 2026 03:15:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Biblical study comparing prophetic messages with ethical and spiritual implications.",
+   "reason": "Author shares struggle with depression and faith, affirming life's purpose.",
    "tradition": "Christian"
   },
   {
@@ -79,33 +66,20 @@
    "published": "Tue, 04 Aug 2026 18:45:00 +0100",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e9/4e/0b/e94e0b30-323e-0ddc-58c2-c4e0d5434632/mza_4797331795734686344.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores consciousness and non-human intelligence beyond aliens.",
+   "reason": "Explores consciousness and non-human intelligence with philosophical depth.",
    "tradition": "Interfaith"
   },
   {
-   "id": "ccad1654-87a0-11f1-af40-97f8269df6df",
-   "showID": "https://feeds.megaphone.fm/SSM2868305742",
-   "showTitle": "Nothing much happens: bedtime stories to help you sleep",
-   "title": "The Turnaround (Encore)",
-   "summary": "Originally Aired: July 26th, 2020 (Season 6 Episode 2)\n\nOur story tonight is called The Turnaround, and it’s a story about a trip down a gravel road on a summer day. It’s also about bulrushes and bonfires, family stories, and coming back to a place you know well.\n\n\n\nSubscribe to our ⁠⁠⁠Premium channel.⁠⁠⁠ The first month is on us. 💙\n\n\n\nJoin⁠ the Village of Nothing Much App!\n\nOrder Kathryn’s new book ⁠⁠⁠⁠⁠On the Street Where You Live⁠⁠⁠⁠⁠\n\n⁠⁠⁠NMH Merch, Autographed Books and More!⁠⁠⁠\n\n⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Listen to our daytime show&nbsp;⁠⁠⁠⁠⁠⁠Stories from the Village of Nothing Much⁠⁠⁠⁠⁠⁠\n\n⁠⁠⁠Sit Meditati",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/hQzRUk5FlBqiODHZblrZ/clrtpod.com/m/traffic.megaphone.fm/SSM5619746715.mp3",
-   "published": "Thu, 30 Jul 2026 04:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/f2/26/87f226c9-77ac-d4fe-6b98-4da2345de5c0/mza_5833691041544808336.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A contemplative story about family, place, and memory.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "tag:soundcloud,2010:tracks/2373703811",
-   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:406683825/sounds.rss",
-   "showTitle": "The Counsel of Trent",
-   "title": "#1189 - GodLogic vs. Muslims, JW's, and \"Orthobros\"",
-   "summary": "In this episode Trent sits down with popular Christian apologist  @GodLogicApologetics  .\n\nThe Shocking Truth Behind Jehovah’s Witnesses (Living Waters): https://www.youtube.com/watch?v=cnpl6gRjNOY\n\nAnswering a Muslim Apologist: https://youtu.be/vtVW7y4r4cE?si=tHX__k1SEh9CtBv9\n\nTo support this channel: https://www.patreon.com/counseloftrent\n\n[NEW] Counsel of Trent merch: https://shop.catholic.com/apologists-alley/trent-horn-resources/\n\nBe sure to keep up with our socials!\nhttps://www.tiktok.com/@counseloftrent\nhttps://www.twitter.com/counseloftrent\nhttps://www.instagram.com/counseloftrentpodca",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2373703811-trenthornpodcast-1189-godlogic-vs-muslims-jws.mp3",
-   "published": "Mon, 03 Aug 2026 12:00:29 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
+   "id": "6ae14f5d-aec8-459d-9a78-223fc2f773f8",
+   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
+   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
+   "title": "Day 210: Speaking God's Word (2026)",
+   "summary": "Fr. Mike compares the messages of Isaiah and Ezekiel, one coming from a pre-exile time and the other from a post-exile time. Even though they are coming from two very different points in salvation history, they both are persistent in speaking the Word of God, and sharing his consolation with the people of Israel. Today's readings are Isaiah 41-42, Ezekiel 2-3, and Proverbs 12:1-4.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/6ae14f5d-aec8-459d-9a78-223fc2f773f8.mp3",
+   "published": "Wed, 29 Jul 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Christian apologetics engaging with other faiths, some theological depth.",
+   "reason": "Biblical readings with some reflection on God's word and consolation, lightly contemplative.",
    "tradition": "Christian"
   },
   {
@@ -118,8 +92,21 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Encouragement in spiritual struggle, some reflection on faith and perseverance.",
+   "reason": "Encouragement for spiritual perseverance, some reflection on struggle and faith.",
    "tradition": "Christian"
+  },
+  {
+   "id": "27eccf5a-8c65-11f1-87b0-87a771ddd09d",
+   "showID": "https://feeds.megaphone.fm/mupod",
+   "showTitle": "Mysterious Universe",
+   "title": "36.04 - MU Podcast - Contact Protocol: Janice Leslie's UFO Odyssey",
+   "summary": "Welcome back to MU! After the death of her husband, Janice Leslie enrolls in psychic Ted Owens' unusual psychic training and soon begins documenting a series of increasingly bizarre encounters involving mysterious lights, silent aerial objects, telepathic impressions, and multiple eyewitnesses. Cases like these suggest there's something more going on than simple nuts & bolts craft.\n\nWelcome to your Plus+ Extension, and thank you all for joining us on Plus+! Today we continue our epic saga with part 03 of … Visitors From Within by Lyssa Royal and Keith Priest, offering us some selections the vi",
+   "audioURL": "https://traffic.megaphone.fm/THKP6281991531.mp3",
+   "published": "Fri, 31 Jul 2026 11:40:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/1e/33/f9/1e33f91a-edfa-0e84-2c12-e9eb3e464b07/mza_4914288206950426810.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Narrative about psychic experiences hints at consciousness but is anecdotal.",
+   "tradition": "Interfaith"
   }
  ],
  "history": {
@@ -215,7 +202,7 @@
   "https://api.spreaker.com/episode/73276790": "2026-08-04",
   "c3dd00ac-7099-11f1-955e-733de9dc74cf": "2026-08-01",
   "306209e9-90fa-488e-955e-601db048f116": "2026-08-01",
-  "27eccf5a-8c65-11f1-87b0-87a771ddd09d": "2026-08-01",
+  "27eccf5a-8c65-11f1-87b0-87a771ddd09d": "2026-08-04",
   "gid://art19-episode-locator/V0/sKP6QY61ONTVFd3EEE5ufNhUP3SJfUNVhXEeL00mz80": "2026-08-04",
   "ae99f5f8-d879-4f8a-9a09-7d4859da5d00": "2026-08-04",
   "e95a4e89-3664-4284-a0dd-587206b3e9cb": "2026-08-02",
