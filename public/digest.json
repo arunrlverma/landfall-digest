@@ -1,22 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-08-05T02:53:02.464843+00:00",
+ "generatedAt": "2026-08-05T05:51:15.791608+00:00",
  "showsScanned": 400,
- "candidates": 43,
+ "candidates": 44,
  "picks": [
-  {
-   "id": "Buzzsprout-19601054",
-   "showID": "https://rss.buzzsprout.com/2466288.rss",
-   "showTitle": "GET CANCELLED PODCAST",
-   "title": "EDITED MUSIC AND RANDOM TAT WHITE GUY?! EPI 51",
-   "summary": "What happens when church becomes more about profit, platforms, and pride than people?In this episode, Bryan, Kellen, and Thad challenge some uncomfortable realities about modern faith, leadership, and ministry. They dig into what happens when pastors begin chasing prosperity, churches start operating more like corporations, and success is measured by the size of the building, the audience, or the bank account instead of the lives being changed.At what point does ministry stop being a calling and start becoming a business?The guys unpack the tension between calling and entrepreneurship, service",
-   "audioURL": "https://www.buzzsprout.com/2466288/episodes/19601054-edited-music-and-random-tat-white-guy-epi-51.mp3",
-   "published": "Tue, 04 Aug 2026 19:00:00 -0500",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/17/18/f0/1718f06a-160e-db12-819d-fed751b27581/mza_16875449492542475728.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discussion on church leadership and faith's challenges, but more about ministry culture.",
-   "tradition": "Christian"
-  },
   {
    "id": "37c1a188-82f4-46e1-a8de-13d1fd44bc16",
    "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
@@ -27,7 +14,7 @@
    "published": "Fri, 31 Jul 2026 17:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "A deep conversation on AI consciousness, suffering, and moral patienthood.",
+   "reason": "Serious philosophical discussion on AI consciousness and moral implications.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +27,7 @@
    "published": "Thu, 30 Jul 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores spiritual awakening, fear, faith, and connection in a personal narrative.",
+   "reason": "Explores spiritual awakening, fear, connection, and purpose in a personal way.",
    "tradition": "Secular"
   },
   {
@@ -53,7 +40,7 @@
    "published": "Mon, 03 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former Mormon reflects on faith loss, doubt, and healing through inner-child work.",
+   "reason": "A personal story of faith loss and healing that wrestles with belief and doubt.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +53,7 @@
    "published": "Mon, 03 Aug 2026 01:18:09 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores grace and salvation through a biblical parable, addressing entitlement and faith.",
+   "reason": "Explores grace and salvation through a parable, addressing entitlement and divine generosity.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +66,7 @@
    "published": "Mon, 03 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Focuses on practicing love and commitment as a path to thriving and spiritual health.",
+   "reason": "Offers practical loving-kindness practice to improve relationships and human thriving.",
    "tradition": "Secular"
   },
   {
@@ -96,17 +83,30 @@
    "tradition": "Christian"
   },
   {
-   "id": "91888614-8ec4-11f1-8706-f70f5dcd72b5",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "Dr Joe Dispenza: The Formula For Transforming Your Life",
-   "summary": "What if your greatest limitation is simply what you believe is possible? After witnessing thousands of people transform their lives in ways that continue to challenge conventional thinking, Dr Joe Dispenza believes we're capable of far more than we've been taught to believe. In this episode, Jay Shetty sits down with Dr Joe to explore how our thoughts, emotions, and habits shape our reality, why so many of us stay trapped in familiar patterns, and what it takes to create lasting change. Together, they unpack the science of meditation, the power of intention, and how changing your inner world m",
-   "audioURL": "https://traffic.megaphone.fm/GLT2067777931.mp3",
-   "published": "Mon, 03 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "id": "Buzzsprout-19601054",
+   "showID": "https://rss.buzzsprout.com/2466288.rss",
+   "showTitle": "GET CANCELLED PODCAST",
+   "title": "EDITED MUSIC AND RANDOM TAT WHITE GUY?! EPI 51",
+   "summary": "What happens when church becomes more about profit, platforms, and pride than people?In this episode, Bryan, Kellen, and Thad challenge some uncomfortable realities about modern faith, leadership, and ministry. They dig into what happens when pastors begin chasing prosperity, churches start operating more like corporations, and success is measured by the size of the building, the audience, or the bank account instead of the lives being changed.At what point does ministry stop being a calling and start becoming a business?The guys unpack the tension between calling and entrepreneurship, service",
+   "audioURL": "https://www.buzzsprout.com/2466288/episodes/19601054-edited-music-and-random-tat-white-guy-epi-51.mp3",
+   "published": "Tue, 04 Aug 2026 19:00:00 -0500",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/17/18/f0/1718f06a-160e-db12-819d-fed751b27581/mza_16875449492542475728.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Self-transformation and belief explored but more motivational than contemplative.",
-   "tradition": "Secular"
+   "reason": "Critiques modern church culture with some ethical and faith questions.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "d4d3ff60-8a97-11f1-8a04-b74d0445750a",
+   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
+   "showTitle": "Blurry Creatures",
+   "title": "EP: 448 World Cup Dad: Bigfoot, a Demonic Attack, and a Soccer Miracle with Zach Duke",
+   "summary": "Rewind four years. Zach Duke looks in the mirror and does not like the man staring back. He is out of shape. He is chronically sick. He is a dad running on empty. So he prays a dangerous prayer. He asks God not to let him move from his chair until the fire comes back. What God says next makes no sense. Play soccer. Zach has never played. He posts his training every day to nobody. Then the internet finds him.Videos with tens of millions of views later, Zach earns a spot on a Team USA World Cup 6x6 roster at an age when most players retire. But this is not a sports story. It is the story of a mi",
+   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW9457250446.mp3",
+   "published": "Tue, 28 Jul 2026 21:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A story of personal transformation and prayer addressing suffering and renewal.",
+   "tradition": "Christian"
   }
  ],
  "history": {
@@ -157,7 +157,7 @@
   "gid://art19-episode-locator/V0/O5TsCb4Wl-PCgmKnidT3lUgQRGOQ4lqccbWaLRvcnE0": "2026-07-31",
   "5d06b880-89cd-11f1-ad93-f36a49c4fd98": "2026-08-03",
   "1e945930-fdac-4409-89cd-5845dcd2fd15": "2026-07-28",
-  "d4d3ff60-8a97-11f1-8a04-b74d0445750a": "2026-08-03",
+  "d4d3ff60-8a97-11f1-8a04-b74d0445750a": "2026-08-05",
   "tag:soundcloud,2010:tracks/2367493574": "2026-08-01",
   "e46c8d52-1792-439b-828d-0f83802d9bae": "2026-07-29",
   "gid://art19-episode-locator/V0/CPnv2bslwb-B-6UVFNn0Puk9aFNi5IH4JoicwgcrUOg": "2026-07-29",
