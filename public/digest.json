@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-05T11:25:46.752997+00:00",
+ "generatedAt": "2026-08-05T14:21:28.915162+00:00",
  "showsScanned": 400,
- "candidates": 48,
+ "candidates": 46,
  "picks": [
   {
    "id": "https://api.spreaker.com/episode/73363182",
@@ -14,7 +14,7 @@
    "published": "Tue, 04 Aug 2026 11:30:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A near-death experience reshapes understanding of Jesus, love, and personal purpose.",
+   "reason": "Shares a near-death experience that deeply questions faith, love, and purpose.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Fri, 31 Jul 2026 17:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "In-depth philosophical discussion on AI consciousness and moral implications.",
+   "reason": "A deep conversation on AI consciousness, suffering, and moral patienthood.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Sat, 01 Aug 2026 11:30:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares ancient yogic teachings on consciousness and humanity's spiritual evolution.",
+   "reason": "Discusses ancient yogic teachings on consciousness and spiritual transformation.",
    "tradition": "Hindu"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Mon, 03 Aug 2026 01:18:09 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores grace and salvation through a parable, focusing on humility and entitlement.",
+   "reason": "Explores grace and salvation through a biblical parable, addressing meaning and faith.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Mon, 03 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Offers practical guidance on living love intentionally and ethically.",
+   "reason": "Offers practical guidance on love and thriving with spiritual health focus.",
    "tradition": "Interfaith"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Thu, 30 Jul 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A personal spiritual awakening addressing fear, faith, and inner connection.",
+   "reason": "Personal spiritual awakening addressing fear, faith, and inner connection amid chaos.",
    "tradition": "Interfaith"
   },
   {
@@ -92,7 +92,20 @@
    "published": "Mon, 03 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Reflection on faith struggles and healing after leaving Mormonism.",
+   "reason": "Artist reflects on faith challenges and healing after leaving Mormonism.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/2RyDuxk80bXfIxrAPTCj4R1HsZ6ivoaJUCSPr_v9jIE",
+   "showID": "https://rss.art19.com/the-exorcist-files",
+   "showTitle": "The Exorcist Files",
+   "title": "Father Martins Reopens The Yoga Case",
+   "summary": "It is by far the most debated and contentious episode in the canon of Exorcist Files episodes. And for good reason. For many Yoga is a lifestyle and exorcise that confers real health benefits. For others it represents a spiritual practice that cannot be separated from its roots. In a return to the case file Father Martins breaks down why he believes it is an issue for Christians. Thanks to our Sponsors:Ollie. Feed the Obsession. Go to ollie.com/exfiles and use code EXFILES to get 70% off your first box!For a limited time, our listeners get 50% off FOR LIFE, Free Shipping, AND 3 Free Gifts at M",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/p687916/rss.art19.com/episodes/47d092c7-36ec-4e4a-a0a5-28cf9730dd48.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Wed, 05 Aug 2026 06:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Debates yoga's spiritual implications from a Christian viewpoint, touching on faith and practice.",
    "tradition": "Christian"
   },
   {
@@ -105,34 +118,8 @@
    "published": "Tue, 04 Aug 2026 19:00:00 -0500",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/17/18/f0/1718f06a-160e-db12-819d-fed751b27581/mza_16875449492542475728.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Critical look at modern church culture and ministry motivations.",
+   "reason": "Critical discussion on modern church culture and faith's challenges.",
    "tradition": "Christian"
-  },
-  {
-   "id": "72eed081-61ee-4aaf-896a-b49d003c1705",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/380766c2-8ad7-4864-8184-b43200ebf321/a7cc47bd-df77-4fc9-9c77-b43200ebf76f/podcast.rss",
-   "showTitle": "Who's with Me? with W. Kamau Bell",
-   "title": "Open Mike Eagle on Life Beyond the Mainstream",
-   "summary": "The interview opens, as always, with Kamau giving Open Mike Eagle his flowers. Open Mike Eagle is someone Kamau feels a lot of kinship with, both men being somewhat outsiders in their given crafts.   After, they shift to recalling how they met during the production of Kamau’s TV show Totally Biased, and the chaotic period when the show expanded to five nights a week.   Both describe their shared “over there” feeling, being spiritually outside mainstream entertainment spaces even when physically in LA or New York, and how that shapes their careers.   Mike recounts growing up on Chicago’s South ",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/380766c2-8ad7-4864-8184-b43200ebf321/72eed081-61ee-4aaf-896a-b49d003c1705/audio.mp3?utm_source=Podcast&amp;in_playlist=a7cc47bd-df77-4fc9-9c77-b43200ebf76f",
-   "published": "Wed, 05 Aug 2026 07:30:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5b/c4/c3/5bc4c366-f77a-0d32-db68-7912e13d1daa/mza_13706613387469891530.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Conversation about feeling like an outsider and spiritual marginality in art.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "91888614-8ec4-11f1-8706-f70f5dcd72b5",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "Dr Joe Dispenza: The Formula For Transforming Your Life",
-   "summary": "What if your greatest limitation is simply what you believe is possible? After witnessing thousands of people transform their lives in ways that continue to challenge conventional thinking, Dr Joe Dispenza believes we're capable of far more than we've been taught to believe. In this episode, Jay Shetty sits down with Dr Joe to explore how our thoughts, emotions, and habits shape our reality, why so many of us stay trapped in familiar patterns, and what it takes to create lasting change. Together, they unpack the science of meditation, the power of intention, and how changing your inner world m",
-   "audioURL": "https://traffic.megaphone.fm/GLT2067777931.mp3",
-   "published": "Mon, 03 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Explores mindset and transformation but stays in motivational self-help territory.",
-   "tradition": "Secular"
   }
  ],
  "history": {
@@ -251,6 +238,7 @@
   "2f2fbd3e-8b9a-497f-a737-8750cd55a644": "2026-08-04",
   "ab7f9b32-da90-4216-936a-bf302da0c1a1": "2026-08-04",
   "Buzzsprout-19601054": "2026-08-05",
-  "72eed081-61ee-4aaf-896a-b49d003c1705": "2026-08-05"
+  "72eed081-61ee-4aaf-896a-b49d003c1705": "2026-08-05",
+  "gid://art19-episode-locator/V0/2RyDuxk80bXfIxrAPTCj4R1HsZ6ivoaJUCSPr_v9jIE": "2026-08-05"
  }
 }
