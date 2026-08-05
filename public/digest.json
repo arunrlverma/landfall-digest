@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-05T20:37:59.334598+00:00",
+ "generatedAt": "2026-08-05T22:16:50.995549+00:00",
  "showsScanned": 400,
- "candidates": 47,
+ "candidates": 44,
  "picks": [
   {
    "id": "37c1a188-82f4-46e1-a8de-13d1fd44bc16",
@@ -14,21 +14,8 @@
    "published": "Fri, 31 Jul 2026 17:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "In-depth discussion on AI consciousness, suffering, and moral patienthood.",
+   "reason": "Deep discussion on AI consciousness, suffering, and moral patienthood.",
    "tradition": "Secular"
-  },
-  {
-   "id": "9cf057b2-280b-4796-9845-188552bfc018",
-   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
-   "showTitle": "Mormon Stories Podcast",
-   "title": "Healing my Inner Child After Mormonism - Mindy Gledhill | Ep. 2178",
-   "summary": "Today on Mormon Stories, we are thrilled to welcome back singer-songwriter Mindy Gledhill, who is returning to the podcast to share the stories behind her newest collection of songs, the PhoneBooth Sessions (vol. 1 & 2), which reflect on her childhood, adolescence, and life after stepping away from Mormonism.Along the way, she opens up about some of the early questions that challenged her faith and where she stands with her belief today. Mindy will also discuss how inner-child work has helped her heal and become more in-tune with her inner voice. Other topics will also include parenting, relat",
-   "audioURL": "https://traffic.megaphone.fm/APO8432046997.mp3",
-   "published": "Mon, 03 Aug 2026 18:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Singer reflects on faith challenges and healing after leaving Mormonism.",
-   "tradition": "Christian"
   },
   {
    "id": "coe22.podbean.com/9c568646-8efd-38fd-ac91-166d57fc5930",
@@ -40,7 +27,7 @@
    "published": "Mon, 03 Aug 2026 01:18:09 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores grace and entitlement through Jesus' parable on salvation and God's generosity.",
+   "reason": "Discusses grace and salvation as gifts, addressing meaning and faith in Christian life.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +40,7 @@
    "published": "Mon, 03 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Offers practical guidance on love and thriving with spiritual health emphasis.",
+   "reason": "Offers a practice to cultivate love and thriving, grounded in spiritual health.",
    "tradition": "Interfaith"
   },
   {
@@ -66,7 +53,7 @@
    "published": "Tue, 04 Aug 2026 21:47:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A devotional on God's nature and worship focusing on covenant relationship and blessings.",
+   "reason": "Explores the nature of God and worship in a devotional academic talk.",
    "tradition": "Christian"
   },
   {
@@ -79,8 +66,21 @@
    "published": "Thu, 30 Jul 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal spiritual awakening addressing fear, disconnection, and finding inner peace.",
+   "reason": "A personal spiritual awakening addressing fear, faith, and inner connection.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "9cf057b2-280b-4796-9845-188552bfc018",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "Healing my Inner Child After Mormonism - Mindy Gledhill | Ep. 2178",
+   "summary": "Today on Mormon Stories, we are thrilled to welcome back singer-songwriter Mindy Gledhill, who is returning to the podcast to share the stories behind her newest collection of songs, the PhoneBooth Sessions (vol. 1 & 2), which reflect on her childhood, adolescence, and life after stepping away from Mormonism.Along the way, she opens up about some of the early questions that challenged her faith and where she stands with her belief today. Mindy will also discuss how inner-child work has helped her heal and become more in-tune with her inner voice. Other topics will also include parenting, relat",
+   "audioURL": "https://traffic.megaphone.fm/APO8432046997.mp3",
+   "published": "Mon, 03 Aug 2026 18:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A former believer reflects on faith doubts and healing after leaving Mormonism.",
+   "tradition": "Christian"
   },
   {
    "id": "1585b8d5-4d80-4378-b95a-438462167d28",
@@ -92,7 +92,7 @@
    "published": "Wed, 05 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/2c/a5/9b2ca564-1ce7-fae8-04fa-63d8e30bcdb8/mza_6685621244595433790.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Covers Christian denominational identity and faith expressions with some doctrinal discussion.",
+   "reason": "Talks about Christian identity and faith expressions, with some doctrinal reflection.",
    "tradition": "Christian"
   },
   {
@@ -105,47 +105,21 @@
    "published": "Wed, 05 Aug 2026 06:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Christian critique of yoga's spiritual implications, touching on faith and practice.",
+   "reason": "Debates yoga's spiritual implications from a Christian exorcist view.",
    "tradition": "Christian"
   },
   {
-   "id": "d4d3ff60-8a97-11f1-8a04-b74d0445750a",
-   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
-   "showTitle": "Blurry Creatures",
-   "title": "EP: 448 World Cup Dad: Bigfoot, a Demonic Attack, and a Soccer Miracle with Zach Duke",
-   "summary": "Rewind four years. Zach Duke looks in the mirror and does not like the man staring back. He is out of shape. He is chronically sick. He is a dad running on empty. So he prays a dangerous prayer. He asks God not to let him move from his chair until the fire comes back. What God says next makes no sense. Play soccer. Zach has never played. He posts his training every day to nobody. Then the internet finds him.Videos with tens of millions of views later, Zach earns a spot on a Team USA World Cup 6x6 roster at an age when most players retire. But this is not a sports story. It is the story of a mi",
-   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW9457250446.mp3",
-   "published": "Tue, 28 Jul 2026 21:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "id": "72eed081-61ee-4aaf-896a-b49d003c1705",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/380766c2-8ad7-4864-8184-b43200ebf321/a7cc47bd-df77-4fc9-9c77-b43200ebf76f/podcast.rss",
+   "showTitle": "Who's with Me? with W. Kamau Bell",
+   "title": "Open Mike Eagle on Life Beyond the Mainstream",
+   "summary": "The interview opens, as always, with Kamau giving Open Mike Eagle his flowers. Open Mike Eagle is someone Kamau feels a lot of kinship with, both men being somewhat outsiders in their given crafts.   After, they shift to recalling how they met during the production of Kamau’s TV show Totally Biased, and the chaotic period when the show expanded to five nights a week.   Both describe their shared “over there” feeling, being spiritually outside mainstream entertainment spaces even when physically in LA or New York, and how that shapes their careers.   Mike recounts growing up on Chicago’s South ",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/380766c2-8ad7-4864-8184-b43200ebf321/72eed081-61ee-4aaf-896a-b49d003c1705/audio.mp3?utm_source=Podcast&amp;in_playlist=a7cc47bd-df77-4fc9-9c77-b43200ebf76f",
+   "published": "Wed, 05 Aug 2026 07:30:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5b/c4/c3/5bc4c366-f77a-0d32-db68-7912e13d1daa/mza_13706613387469891530.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal story involving prayer, transformation, and faith through adversity.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "Buzzsprout-19601054",
-   "showID": "https://rss.buzzsprout.com/2466288.rss",
-   "showTitle": "GET CANCELLED PODCAST",
-   "title": "EDITED MUSIC AND RANDOM TAT WHITE GUY?! EPI 51",
-   "summary": "What happens when church becomes more about profit, platforms, and pride than people?In this episode, Bryan, Kellen, and Thad challenge some uncomfortable realities about modern faith, leadership, and ministry. They dig into what happens when pastors begin chasing prosperity, churches start operating more like corporations, and success is measured by the size of the building, the audience, or the bank account instead of the lives being changed.At what point does ministry stop being a calling and start becoming a business?The guys unpack the tension between calling and entrepreneurship, service",
-   "audioURL": "https://www.buzzsprout.com/2466288/episodes/19601054-edited-music-and-random-tat-white-guy-epi-51.mp3",
-   "published": "Tue, 04 Aug 2026 19:00:00 -0500",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/17/18/f0/1718f06a-160e-db12-819d-fed751b27581/mza_16875449492542475728.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Critical discussion on modern church issues and ministry motivations.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "04002afc-c812-4fe2-8e52-b4950159f736",
-   "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
-   "showTitle": "BYU Speeches",
-   "title": "The Need for Greater Hope | Jamal Willis | July 2026",
-   "summary": "“We must never forget who our greatest hope giver is, and that is our Savior Jesus Christ.” Jamal Willis, Assistant Director of Student Wellness at Brigham Young University, delivered this devotional address on July 28, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/04002afc-c812-4fe2-8e52-b4950159f736/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
-   "published": "Tue, 28 Jul 2026 21:05:41 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "A devotional talk affirming hope through Jesus Christ, mainly faith encouragement.",
-   "tradition": "Christian"
+   "reason": "Conversation about feeling spiritually outside mainstream culture, hints at faith and doubt.",
+   "tradition": "Interfaith"
   }
  ],
  "history": {
