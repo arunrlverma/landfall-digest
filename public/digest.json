@@ -1,9 +1,22 @@
 {
  "version": 1,
- "generatedAt": "2026-08-05T08:44:21.490986+00:00",
+ "generatedAt": "2026-08-05T11:25:46.752997+00:00",
  "showsScanned": 400,
- "candidates": 49,
+ "candidates": 48,
  "picks": [
+  {
+   "id": "https://api.spreaker.com/episode/73363182",
+   "showID": "https://www.spreaker.com/show/4858435/episodes/feed",
+   "showTitle": "Next Level Soul Podcast with Alex Ferrari",
+   "title": "Near Death, Meeting Jesus, and His Message to Her with Bridget Cook-Burch",
+   "summary": "What if everything you believed about Jesus, worthiness, and unconditional love changed in a single moment?In this profound conversation, Bridget Cook-Burch shares the extraordinary story of her near-death experience after a life-threatening illness in her early twenties. Meeting Yeshua transformed not only her understanding of God but also her understanding of herself. She reveals what she learned about unconditional love, why our deepest wounds often become our greatest purpose, and how the stories we tell ourselves shape every aspect of our lives.Together, we explore the true nature of Yesh",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73363182/nls_714.mp3",
+   "published": "Tue, 04 Aug 2026 11:30:02 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "A near-death experience reshapes understanding of Jesus, love, and personal purpose.",
+   "tradition": "Christian"
+  },
   {
    "id": "37c1a188-82f4-46e1-a8de-13d1fd44bc16",
    "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
@@ -14,20 +27,33 @@
    "published": "Fri, 31 Jul 2026 17:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "In-depth discussion on AI consciousness, suffering, and moral patienthood.",
+   "reason": "In-depth philosophical discussion on AI consciousness and moral implications.",
    "tradition": "Secular"
   },
   {
-   "id": "9cf057b2-280b-4796-9845-188552bfc018",
-   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
-   "showTitle": "Mormon Stories Podcast",
-   "title": "Healing my Inner Child After Mormonism - Mindy Gledhill | Ep. 2178",
-   "summary": "Today on Mormon Stories, we are thrilled to welcome back singer-songwriter Mindy Gledhill, who is returning to the podcast to share the stories behind her newest collection of songs, the PhoneBooth Sessions (vol. 1 & 2), which reflect on her childhood, adolescence, and life after stepping away from Mormonism.Along the way, she opens up about some of the early questions that challenged her faith and where she stands with her belief today. Mindy will also discuss how inner-child work has helped her heal and become more in-tune with her inner voice. Other topics will also include parenting, relat",
-   "audioURL": "https://traffic.megaphone.fm/APO8432046997.mp3",
-   "published": "Mon, 03 Aug 2026 18:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "id": "https://api.spreaker.com/episode/73276790",
+   "showID": "https://www.spreaker.com/show/4858435/episodes/feed",
+   "showTitle": "Next Level Soul Podcast with Alex Ferrari",
+   "title": "Full Disclosure: What the Ancient Texts Already Knew with Yogiraj SatGurunath Siddhanath",
+   "summary": "There comes a moment in every civilization when the old world quietly begins to dissolve, making room for something entirely new. According to renowned yogi Yogiraj SatGurunath Siddhanath, humanity is living through one of those rare moments now. In this profound conversation, he shares ancient yogic teachings on consciousness, the evolution of humanity, the mysterious year 2032, the balancing of the three gunas, extraterrestrial intelligence, higher-dimensional beings, and the spiritual transformation unfolding across our planet.Throughout this extraordinary discussion, Gurunath explores why ",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73276790/nls_713.mp3",
+   "published": "Sat, 01 Aug 2026 11:30:02 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores faith doubts and healing after leaving Mormonism.",
+   "reason": "Shares ancient yogic teachings on consciousness and humanity's spiritual evolution.",
+   "tradition": "Hindu"
+  },
+  {
+   "id": "coe22.podbean.com/9c568646-8efd-38fd-ac91-166d57fc5930",
+   "showID": "https://feed.podbean.com/coe22/feed.xml",
+   "showTitle": "The Church of Eleven22",
+   "title": "Laborers in the Vineyard - Impossible to Possible - Matthew S5E10",
+   "summary": "What if the greatest obstacle to experiencing God's grace isn't your past, but your sense of entitlement?\nIn Matthew 20, Jesus tells the Parable of the Workers in the Vineyard, revealing a powerful truth about the Kingdom of God. Salvation is never something we earn through our efforts. It is a gift freely given because of the generosity of our Heavenly Father. Whether you've followed Jesus for decades or surrendered your life to Him today, every believer stands on the same foundation of grace.\nIn this message, Pastor Joby Martin challenges us to trade comparison for gratitude, entitlement for",
+   "audioURL": "https://mcdn.podbean.com/mf/web/d4zg6uyfuztgxeu3/20260802_1122_089b7hb.mp3",
+   "published": "Mon, 03 Aug 2026 01:18:09 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores grace and salvation through a parable, focusing on humility and entitlement.",
    "tradition": "Christian"
   },
   {
@@ -40,7 +66,7 @@
    "published": "Mon, 03 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Offers practical guidance on love and thriving with spiritual health focus.",
+   "reason": "Offers practical guidance on living love intentionally and ethically.",
    "tradition": "Interfaith"
   },
   {
@@ -57,16 +83,16 @@
    "tradition": "Interfaith"
   },
   {
-   "id": "coe22.podbean.com/9c568646-8efd-38fd-ac91-166d57fc5930",
-   "showID": "https://feed.podbean.com/coe22/feed.xml",
-   "showTitle": "The Church of Eleven22",
-   "title": "Laborers in the Vineyard - Impossible to Possible - Matthew S5E10",
-   "summary": "What if the greatest obstacle to experiencing God's grace isn't your past, but your sense of entitlement?\nIn Matthew 20, Jesus tells the Parable of the Workers in the Vineyard, revealing a powerful truth about the Kingdom of God. Salvation is never something we earn through our efforts. It is a gift freely given because of the generosity of our Heavenly Father. Whether you've followed Jesus for decades or surrendered your life to Him today, every believer stands on the same foundation of grace.\nIn this message, Pastor Joby Martin challenges us to trade comparison for gratitude, entitlement for",
-   "audioURL": "https://mcdn.podbean.com/mf/web/d4zg6uyfuztgxeu3/20260802_1122_089b7hb.mp3",
-   "published": "Mon, 03 Aug 2026 01:18:09 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses grace and salvation from a Christian perspective using a biblical parable.",
+   "id": "9cf057b2-280b-4796-9845-188552bfc018",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "Healing my Inner Child After Mormonism - Mindy Gledhill | Ep. 2178",
+   "summary": "Today on Mormon Stories, we are thrilled to welcome back singer-songwriter Mindy Gledhill, who is returning to the podcast to share the stories behind her newest collection of songs, the PhoneBooth Sessions (vol. 1 & 2), which reflect on her childhood, adolescence, and life after stepping away from Mormonism.Along the way, she opens up about some of the early questions that challenged her faith and where she stands with her belief today. Mindy will also discuss how inner-child work has helped her heal and become more in-tune with her inner voice. Other topics will also include parenting, relat",
+   "audioURL": "https://traffic.megaphone.fm/APO8432046997.mp3",
+   "published": "Mon, 03 Aug 2026 18:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Reflection on faith struggles and healing after leaving Mormonism.",
    "tradition": "Christian"
   },
   {
@@ -83,30 +109,30 @@
    "tradition": "Christian"
   },
   {
-   "id": "https://api.spreaker.com/episode/73276790",
-   "showID": "https://www.spreaker.com/show/4858435/episodes/feed",
-   "showTitle": "Next Level Soul Podcast with Alex Ferrari",
-   "title": "Full Disclosure: What the Ancient Texts Already Knew with Yogiraj SatGurunath Siddhanath",
-   "summary": "There comes a moment in every civilization when the old world quietly begins to dissolve, making room for something entirely new. According to renowned yogi Yogiraj SatGurunath Siddhanath, humanity is living through one of those rare moments now. In this profound conversation, he shares ancient yogic teachings on consciousness, the evolution of humanity, the mysterious year 2032, the balancing of the three gunas, extraterrestrial intelligence, higher-dimensional beings, and the spiritual transformation unfolding across our planet.Throughout this extraordinary discussion, Gurunath explores why ",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73276790/nls_713.mp3",
-   "published": "Sat, 01 Aug 2026 11:30:02 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Shares ancient yogic teachings on consciousness and spiritual transformation in a Hindu context.",
-   "tradition": "Hindu"
+   "id": "72eed081-61ee-4aaf-896a-b49d003c1705",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/380766c2-8ad7-4864-8184-b43200ebf321/a7cc47bd-df77-4fc9-9c77-b43200ebf76f/podcast.rss",
+   "showTitle": "Who's with Me? with W. Kamau Bell",
+   "title": "Open Mike Eagle on Life Beyond the Mainstream",
+   "summary": "The interview opens, as always, with Kamau giving Open Mike Eagle his flowers. Open Mike Eagle is someone Kamau feels a lot of kinship with, both men being somewhat outsiders in their given crafts.   After, they shift to recalling how they met during the production of Kamau’s TV show Totally Biased, and the chaotic period when the show expanded to five nights a week.   Both describe their shared “over there” feeling, being spiritually outside mainstream entertainment spaces even when physically in LA or New York, and how that shapes their careers.   Mike recounts growing up on Chicago’s South ",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/380766c2-8ad7-4864-8184-b43200ebf321/72eed081-61ee-4aaf-896a-b49d003c1705/audio.mp3?utm_source=Podcast&amp;in_playlist=a7cc47bd-df77-4fc9-9c77-b43200ebf76f",
+   "published": "Wed, 05 Aug 2026 07:30:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5b/c4/c3/5bc4c366-f77a-0d32-db68-7912e13d1daa/mza_13706613387469891530.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Conversation about feeling like an outsider and spiritual marginality in art.",
+   "tradition": "Secular"
   },
   {
-   "id": "https://api.spreaker.com/episode/73363182",
-   "showID": "https://www.spreaker.com/show/4858435/episodes/feed",
-   "showTitle": "Next Level Soul Podcast with Alex Ferrari",
-   "title": "Near Death, Meeting Jesus, and His Message to Her with Bridget Cook-Burch",
-   "summary": "What if everything you believed about Jesus, worthiness, and unconditional love changed in a single moment?In this profound conversation, Bridget Cook-Burch shares the extraordinary story of her near-death experience after a life-threatening illness in her early twenties. Meeting Yeshua transformed not only her understanding of God but also her understanding of herself. She reveals what she learned about unconditional love, why our deepest wounds often become our greatest purpose, and how the stories we tell ourselves shape every aspect of our lives.Together, we explore the true nature of Yesh",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73363182/nls_714.mp3",
-   "published": "Tue, 04 Aug 2026 11:30:02 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Narrates a near-death experience that reshaped understanding of Jesus and unconditional love.",
-   "tradition": "Christian"
+   "id": "91888614-8ec4-11f1-8706-f70f5dcd72b5",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "Dr Joe Dispenza: The Formula For Transforming Your Life",
+   "summary": "What if your greatest limitation is simply what you believe is possible? After witnessing thousands of people transform their lives in ways that continue to challenge conventional thinking, Dr Joe Dispenza believes we're capable of far more than we've been taught to believe. In this episode, Jay Shetty sits down with Dr Joe to explore how our thoughts, emotions, and habits shape our reality, why so many of us stay trapped in familiar patterns, and what it takes to create lasting change. Together, they unpack the science of meditation, the power of intention, and how changing your inner world m",
+   "audioURL": "https://traffic.megaphone.fm/GLT2067777931.mp3",
+   "published": "Mon, 03 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores mindset and transformation but stays in motivational self-help territory.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -224,6 +250,7 @@
   "0d6e9870-8a99-11f1-8804-c77d91e10c5e": "2026-08-04",
   "2f2fbd3e-8b9a-497f-a737-8750cd55a644": "2026-08-04",
   "ab7f9b32-da90-4216-936a-bf302da0c1a1": "2026-08-04",
-  "Buzzsprout-19601054": "2026-08-05"
+  "Buzzsprout-19601054": "2026-08-05",
+  "72eed081-61ee-4aaf-896a-b49d003c1705": "2026-08-05"
  }
 }
