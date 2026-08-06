@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-06T13:00:39.286284+00:00",
+ "generatedAt": "2026-08-06T15:25:17.751966+00:00",
  "showsScanned": 400,
- "candidates": 50,
+ "candidates": 52,
  "picks": [
   {
    "id": "2f2fbd3e-8b9a-497f-a737-8750cd55a644",
@@ -14,7 +14,7 @@
    "published": "Tue, 04 Aug 2026 17:10:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep conversation on self, consciousness, meditation, and spiritual experience.",
+   "reason": "Explores self, consciousness, meditation, and spiritual experience deeply.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Fri, 31 Jul 2026 17:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "In-depth philosophical and scientific discussion on AI consciousness and moral implications.",
+   "reason": "In-depth philosophical discussion on AI consciousness and moral implications.",
    "tradition": "Secular"
   },
   {
@@ -40,8 +40,21 @@
    "published": "Tue, 04 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/e3/21/0fe32103-63b9-c890-308e-e8aa3b89090b/mza_17611356982334262758.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Serious discussion on Stoicism's relevance to meaning, resilience, and ethical living.",
+   "reason": "A thoughtful conversation on Stoicism's relevance to meaning and resilience.",
    "tradition": "Stoic"
+  },
+  {
+   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
+   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
+   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Personal Christian testimony on identity, sin, and spiritual freedom.",
+   "tradition": "Christian"
   },
   {
    "id": "https://blubrry.com/the_world_and_everything_in_it/154535185/through-depression-and-doubt/",
@@ -53,7 +66,7 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "An honest discussion of depression and doubt challenging faith and exploring life's purpose.",
+   "reason": "An author shares his struggle with depression and faith, exploring life's purpose deeply.",
    "tradition": "Christian"
   },
   {
@@ -70,17 +83,17 @@
    "tradition": "Secular"
   },
   {
-   "id": "prx_192_b2d17d79-85c3-4473-9e4d-aa46cb5dad55",
-   "showID": "https://rss.pdrl.fm/0f808e/feeds.feedburner.com/TheScienceOfHappiness",
-   "showTitle": "The Science of Happiness",
-   "title": "Happiness Break: A Body Scan for Calm and Ease",
-   "summary": "Meditation teacher Spring Washam guides us in a practice of embodied awareness, helping us use the body as an anchor during stressful or overwhelming moments.How To Do This Practice:\n\nFind a comfortable position: Sit upright in a relaxed position where you can comfortably notice the flow of your breath.\n\nBegin at the top of your body: Close your eyes and bring your attention to your head, neck, face, and jaw. Notice any tightness and allow those areas to soften.\n\nMove your awareness downward: Slowly scan through your shoulders, arms, hands, chest, and belly, noticing any sensations, emotions, ",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/dovetail.prxu.org/192/b2d17d79-85c3-4473-9e4d-aa46cb5dad55/SoH_HB_Spring_Washam_Embodiment_mix_3.mp3",
-   "published": "Thu, 06 Aug 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
+   "id": "fcec6f16-9062-11f1-95de-df782ba7b7bb",
+   "showID": "https://feeds.megaphone.fm/YMH5847489315",
+   "showTitle": "Your Mom's House with Christina P. and Tom Segura",
+   "title": "People Changes w/ Duncan Trussell | Your Mom's House Ep. 871",
+   "summary": "I want to talk about divorce. Christina P holds down the Mommy Dome with Duncan Trussell for the heaviest episode in show history, the divorce episode. Christina addresses it head-on: yes, she and Tom are divorcing after 20 years, no, you don't need to pick teams, and yes, Mommy is ripping darts, drinking wine, and surviving on one Domino's thin crust a day. From there she and Duncan spiral through cancer, TMZ breaking the story while she was in a London pub with Ari Shaffir, and Duncan's own jaw-dropping family divorce story involving a priest and a jammed shotgun.\n\nThen they unpack the Inter",
+   "audioURL": "https://pdst.fm/e/pscrb.fm/rss/p/clrtpod.com/m/pfx.vpixl.com/u8u9X/arttrk.com/p/YMH00/mgln.ai/e/1118/traffic.megaphone.fm/YMH3293708123.mp3",
+   "published": "Wed, 05 Aug 2026 12:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/07/53/68/075368af-566e-c1d0-72ca-e17295475edd/mza_10702862278529769616.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Guided meditation on embodied awareness addressing calm and presence.",
-   "tradition": "Buddhist"
+   "reason": "A candid discussion of divorce, suffering, and survival with spiritual undertones.",
+   "tradition": "Secular"
   },
   {
    "id": "coe22.podbean.com/9c568646-8efd-38fd-ac91-166d57fc5930",
@@ -92,20 +105,7 @@
    "published": "Mon, 03 Aug 2026 01:18:09 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores grace and salvation through a biblical parable, addressing meaning and faith.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
-   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
-   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Personal story of faith, identity, and freedom from desire, engaging ethical and spiritual themes.",
+   "reason": "A serious Christian reflection on grace and entitlement through a biblical parable.",
    "tradition": "Christian"
   },
   {
@@ -118,8 +118,21 @@
    "published": "Thu, 06 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores forgiveness, self-healing, and spiritual growth through personal experience.",
+   "reason": "Personal story about forgiveness, guilt, and spiritual growth.",
    "tradition": "Secular"
+  },
+  {
+   "id": "tag:soundcloud,2010:tracks/2373809753",
+   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:669018539/sounds.rss",
+   "showTitle": "Don't Miss This Study",
+   "title": "NOW I SEE GOD",
+   "summary": "NOW I SEE GOD by Grace Freeman Smith & David Butler",
+   "audioURL": "https://feeds.soundcloud.com/stream/2373809753-grace-freeman-916551846-now-i-see-god.mp3",
+   "published": "Mon, 03 Aug 2026 00:00:39 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A conversation about seeing God that likely addresses faith and doubt deeply.",
+   "tradition": "Christian"
   },
   {
    "id": "11eea34f-aa70-41e6-90ae-83e2275930ca",
@@ -131,7 +144,7 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Offers encouragement grounded in Scripture for those struggling with faith and doubt.",
+   "reason": "Offers encouragement grounded in Scripture, touching on faith and struggle.",
    "tradition": "Christian"
   },
   {
@@ -143,8 +156,47 @@
    "audioURL": "https://injector.simplecastaudio.com/0cb647de-4d3e-4036-8f2e-58ea2d655cc6/episodes/9099ae14-c56f-4d71-8825-f7497df4a2ea/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0cb647de-4d3e-4036-8f2e-58ea2d655cc6&amp;awEpisodeId=9099ae14-c56f-4d71-8825-f7497df4a2ea&amp;feed=XYHE1JPs",
    "published": "Fri, 31 Jul 2026 04:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores personal transformation through daily practice, relevant to ethics and inner life.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "thedrjoshaxeshow.podbean.com/eb768022-ec0f-3e48-9ff8-d0a7df862df5",
+   "showID": "https://feed.podbean.com/thedrjoshaxeshow/feed.xml",
+   "showTitle": "The Dr. Josh Axe Show",
+   "title": "How Worship Saved His Life (After Hitting Rock Bottom) | Michael W. Smith",
+   "summary": "In the height of a destructive season involving drugs and depression, Michael W. Smith reached a point where he believed he might lose his life. In this deeply personal conversation, he sits down with Dr. Josh Axe to share what happened the night he hit rock bottom—and why he says he was never the same afterward.\nMichael also discusses the healing power of worship, the prayer experience that preceded his son’s recovery, the lessons he learned from Billy Graham, and the daily habits helping him stay energized at 68. He also reveals the simple principle that has sustained nearly 45 years of marr",
+   "audioURL": "https://mcdn.podbean.com/mf/web/di3ib9wwrpuykkgy/DJA_260720_DrJoshAxe_Guest_MichaelWSmith.mp3",
+   "published": "Thu, 06 Aug 2026 08:53:24 -0500",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/6f/b6/fe6fb672-7817-356e-7314-2d912dd8f3ce/mza_15885076699336077.png/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Personal story of hitting rock bottom and healing through worship and faith.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "prx_192_b2d17d79-85c3-4473-9e4d-aa46cb5dad55",
+   "showID": "https://rss.pdrl.fm/0f808e/feeds.feedburner.com/TheScienceOfHappiness",
+   "showTitle": "The Science of Happiness",
+   "title": "Happiness Break: A Body Scan for Calm and Ease",
+   "summary": "Meditation teacher Spring Washam guides us in a practice of embodied awareness, helping us use the body as an anchor during stressful or overwhelming moments.How To Do This Practice:\n\nFind a comfortable position: Sit upright in a relaxed position where you can comfortably notice the flow of your breath.\n\nBegin at the top of your body: Close your eyes and bring your attention to your head, neck, face, and jaw. Notice any tightness and allow those areas to soften.\n\nMove your awareness downward: Slowly scan through your shoulders, arms, hands, chest, and belly, noticing any sensations, emotions, ",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/dovetail.prxu.org/192/b2d17d79-85c3-4473-9e4d-aa46cb5dad55/SoH_HB_Spring_Washam_Embodiment_mix_3.mp3",
+   "published": "Thu, 06 Aug 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Guides a meditation practice fostering calm and embodied awareness.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "c3dd00ac-7099-11f1-955e-733de9dc74cf",
+   "showID": "https://feeds.megaphone.fm/RM6294791149",
+   "showTitle": "The Dr. John Delony Show",
+   "title": "Caller: “Is Counseling the Kiss of Death?”",
+   "summary": "🔥 Microhabits for a Better Marriage. Download the Together app.\n\n&nbsp;\n\nOn today’s episode, we hear about:\n\n\n  A woman wondering if counseling will kill her marriage\n\n  A wife feeling rejected by her husband in their sex life\n\n  A mom worried that her job is making her a paranoid parent\n\n&nbsp;\n\n\nNext Steps:❤️ Get away with your spouse today!\n\n📞 Ask John a question! Call 844-693-3291 or send us a message.\n\n📚 Building a Non-Anxious Life\n\n📝 Anxiety Test\n\n📚 Own Your Past, Change Your Future\n\n❓ Questions for Humans Conversation Cards\n\n💭 John's Free Guided Meditation\n\n🤘🏼 The Dr. John Delony Show M",
+   "audioURL": "https://pdst.fm/e/mgln.ai/e/p356554/pscrb.fm/rss/p/traffic.megaphone.fm/RM5318397509.mp3",
+   "published": "Fri, 31 Jul 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/34/0f/4c/340f4c53-dc9b-9971-a94f-54c25a5d339a/mza_3848511723335763740.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Focuses on personal growth habits with some ethical implications but not deeply philosophical.",
+   "reason": "Addresses real-life struggles and relationships with some ethical reflection.",
    "tradition": "Secular"
   }
  ],
@@ -239,7 +291,7 @@
   "11eea34f-aa70-41e6-90ae-83e2275930ca": "2026-08-06",
   "https://api.spreaker.com/episode/73117353": "2026-08-01",
   "https://api.spreaker.com/episode/73276790": "2026-08-05",
-  "c3dd00ac-7099-11f1-955e-733de9dc74cf": "2026-08-01",
+  "c3dd00ac-7099-11f1-955e-733de9dc74cf": "2026-08-06",
   "306209e9-90fa-488e-955e-601db048f116": "2026-08-01",
   "27eccf5a-8c65-11f1-87b0-87a771ddd09d": "2026-08-04",
   "gid://art19-episode-locator/V0/sKP6QY61ONTVFd3EEE5ufNhUP3SJfUNVhXEeL00mz80": "2026-08-04",
@@ -274,6 +326,9 @@
   "gid://art19-episode-locator/V0/Hm4JA1Z0gD6qWev2lic1FgfFrCrt5VgdEQ4xp1SqiNQ": "2026-08-06",
   "gid://art19-episode-locator/V0/G2lgIFWUC5hQKef0ueMf79Ve8Q_IErKBKcEVl_8-Wbg": "2026-08-06",
   "prx_192_b2d17d79-85c3-4473-9e4d-aa46cb5dad55": "2026-08-06",
-  "Buzzsprout-19605579": "2026-08-06"
+  "Buzzsprout-19605579": "2026-08-06",
+  "fcec6f16-9062-11f1-95de-df782ba7b7bb": "2026-08-06",
+  "tag:soundcloud,2010:tracks/2373809753": "2026-08-06",
+  "thedrjoshaxeshow.podbean.com/eb768022-ec0f-3e48-9ff8-d0a7df862df5": "2026-08-06"
  }
 }
