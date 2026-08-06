@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-06T00:04:39.149608+00:00",
+ "generatedAt": "2026-08-06T04:17:57.218105+00:00",
  "showsScanned": 400,
- "candidates": 44,
+ "candidates": 50,
  "picks": [
   {
    "id": "2f2fbd3e-8b9a-497f-a737-8750cd55a644",
@@ -18,6 +18,19 @@
    "tradition": "Secular"
   },
   {
+   "id": "37c1a188-82f4-46e1-a8de-13d1fd44bc16",
+   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
+   "showTitle": "Making Sense with Sam Harris",
+   "title": "#487 — Is AI Already Conscious?",
+   "summary": "Sam Harris speaks with Cameron Berg about whether AI systems are or could become conscious. They discuss self-reports in LLMs, what models say when deception is switched off, the \"bliss attractor\" state, consciousness and sentience, the hard problem of consciousness, parallels between neural networks and biological brains, the moral risk of building minds that can suffer, possible parallels to factory farming, moral patienthood, the alignment problem, and other topics. Annaka Harris's upcoming book: Unlocking Consciousness If the Making Sense podcast logo in your player is BLACK, you can SUBSC",
+   "audioURL": "https://traffic.libsyn.com/secure/wakingup/487_MS_Cameron_Berg_subscriber-psa.mp3?dest-id=480596",
+   "published": "Fri, 31 Jul 2026 17:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Philosophical and scientific discussion on AI consciousness and moral patienthood.",
+   "tradition": "Secular"
+  },
+  {
    "id": "gid://art19-episode-locator/V0/SnggQb245L9IblZU_oDTQeMCM59Q_Q3Kr02B0a5MPpM",
    "showID": "https://rss.art19.com/the-oprah-podcast",
    "showTitle": "The Oprah Podcast",
@@ -27,21 +40,8 @@
    "published": "Tue, 04 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/e3/21/0fe32103-63b9-c890-308e-e8aa3b89090b/mza_17611356982334262758.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Serious discussion on Stoicism's relevance to meaning, resilience, and purpose in life.",
+   "reason": "Explores Stoicism's relevance to modern life, addressing ethics, resilience, and purpose.",
    "tradition": "Stoic"
-  },
-  {
-   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
-   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
-   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Personal story of faith, identity, and freedom from struggle with sexuality.",
-   "tradition": "Christian"
   },
   {
    "id": "https://blubrry.com/the_world_and_everything_in_it/154535185/through-depression-and-doubt/",
@@ -53,46 +53,20 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "An author shares his struggle with depression and faith, exploring life's purpose.",
+   "reason": "An honest account of depression challenging faith and finding purpose in suffering.",
    "tradition": "Christian"
   },
   {
-   "id": "11eea34f-aa70-41e6-90ae-83e2275930ca",
-   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
-   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
-   "title": "BONUS: If You Feel Like Giving Up (with Jeff Cavins) - 2026",
-   "summary": "As we continue through this year-long journey, Fr. Mike and Jeff Cavins offer some words of encouragement for those who might be struggling. No matter if you're listening consistently or if you're \"behind\", the Lord will meet you where you are at in Scripture.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/11eea34f-aa70-41e6-90ae-83e2275930ca.mp3",
-   "published": "Sat, 01 Aug 2026 03:15:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Offers encouragement grounded in Scripture for those struggling with faith and doubt.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "b4dd32bc-4076-4538-953d-9d75fef0a958",
+   "id": "785a02bc-a89a-4e4a-b0fd-2ac3958e7941",
    "showID": "https://feeds.simplecast.com/XYHE1JPs",
    "showTitle": "Passion Struck with John R. Miles",
-   "title": "The Person You Become Is the Person You Practice | John R. Miles - EP 801",
-   "summary": "Most of us are waiting for the moment everything changes.\nThe breakthrough. The perfect habit. The morning you finally wake up feeling motivated enough to become the person you've always wanted to be.\nBut what if that moment never comes?\nIn this solo episode, John R. Miles challenges one of the biggest myths in personal growth: that transformation happens in an instant. Instead, he reveals why the future version of you is created through the ordinary practices you repeat every single day.\nDrawing on the timeless Zen teaching of Chop Wood, Carry Water, legendary coach John Wooden's relentless f",
-   "audioURL": "https://injector.simplecastaudio.com/0cb647de-4d3e-4036-8f2e-58ea2d655cc6/episodes/9099ae14-c56f-4d71-8825-f7497df4a2ea/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0cb647de-4d3e-4036-8f2e-58ea2d655cc6&amp;awEpisodeId=9099ae14-c56f-4d71-8825-f7497df4a2ea&amp;feed=XYHE1JPs",
-   "published": "Fri, 31 Jul 2026 04:00:00 +0000",
+   "title": "You Were Born to Flourish. Here's the Science That Proves It. | Dr. Richard Davidson & Dr. Cortland Dahl – EP 803",
+   "summary": "What if you've spent your whole life believing you needed to become someone different—when the qualities you need have been inside you all along?\nMost of us think flourishing is something we earn after we've accomplished enough, healed enough, or finally have everything figured out.\nBut what if science says otherwise?\nIn this episode of Passion Struck, John R. Miles sits down with pioneering neuroscientist Dr. Richard Davidson and contemplative scholar Court Dahl to explore the groundbreaking science behind their new book, Born to Flourish. Drawing on decades of neuroscience research, contempl",
+   "audioURL": "https://injector.simplecastaudio.com/0cb647de-4d3e-4036-8f2e-58ea2d655cc6/episodes/fba71dcc-52e7-4e86-8e4b-c2e480b77a8f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0cb647de-4d3e-4036-8f2e-58ea2d655cc6&amp;awEpisodeId=fba71dcc-52e7-4e86-8e4b-c2e480b77a8f&amp;feed=XYHE1JPs",
+   "published": "Thu, 6 Aug 2026 04:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses personal transformation through daily habits, touching on identity and growth.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "37c1a188-82f4-46e1-a8de-13d1fd44bc16",
-   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
-   "showTitle": "Making Sense with Sam Harris",
-   "title": "#487 — Is AI Already Conscious?",
-   "summary": "Sam Harris speaks with Cameron Berg about whether AI systems are or could become conscious. They discuss self-reports in LLMs, what models say when deception is switched off, the \"bliss attractor\" state, consciousness and sentience, the hard problem of consciousness, parallels between neural networks and biological brains, the moral risk of building minds that can suffer, possible parallels to factory farming, moral patienthood, the alignment problem, and other topics. Annaka Harris's upcoming book: Unlocking Consciousness If the Making Sense podcast logo in your player is BLACK, you can SUBSC",
-   "audioURL": "https://traffic.libsyn.com/secure/wakingup/487_MS_Cameron_Berg_subscriber-psa.mp3?dest-id=480596",
-   "published": "Fri, 31 Jul 2026 17:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Deep conversation on AI consciousness, suffering, and moral patienthood.",
+   "rating": 8,
+   "reason": "Neuroscientist and scholar discuss flourishing and inner qualities from a contemplative perspective.",
    "tradition": "Secular"
   },
   {
@@ -105,8 +79,73 @@
    "published": "Mon, 03 Aug 2026 01:18:09 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores grace and salvation through a biblical parable, addressing meaning and faith.",
+   "reason": "Discusses grace and salvation as gifts, touching on meaning and faith in Christian life.",
    "tradition": "Christian"
+  },
+  {
+   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
+   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
+   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Personal story of faith, identity, and freedom from desire, engaging with spiritual transformation.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "11eea34f-aa70-41e6-90ae-83e2275930ca",
+   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
+   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
+   "title": "BONUS: If You Feel Like Giving Up (with Jeff Cavins) - 2026",
+   "summary": "As we continue through this year-long journey, Fr. Mike and Jeff Cavins offer some words of encouragement for those who might be struggling. No matter if you're listening consistently or if you're \"behind\", the Lord will meet you where you are at in Scripture.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/11eea34f-aa70-41e6-90ae-83e2275930ca.mp3",
+   "published": "Sat, 01 Aug 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Offers encouragement grounded in Scripture for those struggling with faith and perseverance.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/YJzyqfyVL6uyi3Qs5mKyRndo1cefR3PiLPivUpdR_l0",
+   "showID": "https://rss.pdrl.fm/a88a08/feeds.megaphone.fm/MASL6091580855/",
+   "showTitle": "Mayim Bialik's Breakdown",
+   "title": "Part Two: You Were Born Telepathic, Then You Forgot. Dr. Diane Hennacy Explains The Science Behind a Savant Telepathy Test That Scored 97% Accuracy, And Why She Thinks We All Still Have It.",
+   "summary": "What if telepathy is real and neuroscience has been looking at it the wrong way all along?In this episode of Mayim Bialik's Breakdown, Dr. Diane Hennacy, MD (neuropsychiatrist, neuroscientist, consciousness researcher known for her groundbreaking work with autistic savants and other neurodivergent individuals) shares the astonishing evidence that led her to investigate telepathy, precognition, consciousness, and the hidden capabilities of the human mind.Dr. Hennacy reveals the unbelievable things she witnessed while testing nonspeaking autistic individuals, why statistically significant psi ph",
+   "audioURL": "https://claritaspod.com/measure/pscrb.fm/rss/p/arttrk.com/p/PMMIC/prfx.byspotify.com/e/mgln.ai/e/1047/dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/c1afcb35-5849-4454-b2cc-0dec71d17494.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Wed, 29 Jul 2026 07:30:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6a/ca/b3/6acab359-0930-6578-184f-744d9f3ae278/mza_16900717249497875543.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores consciousness and telepathy with a neuroscientific perspective on mind.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/Hm4JA1Z0gD6qWev2lic1FgfFrCrt5VgdEQ4xp1SqiNQ",
+   "showID": "https://rss.pdrl.fm/a88a08/feeds.megaphone.fm/MASL6091580855/",
+   "showTitle": "Mayim Bialik's Breakdown",
+   "title": "Re-Air: Are We the Last Generation of Pure Humans? How To Maintain Our Unique Potential | Gregg Braden",
+   "summary": "This week, we’re revisiting one of our most popular episodes from last year with Gregg Braden, best-selling author, scientist and pioneer in the emerging paradigm bridging science, social policy and human potential, where we discuss humanity’s future, his theories on the transhumanist agenda, and what he considers the urgent fight to preserve our human potential.In this eye-opening conversation, Braden warns we may be the last generation of pure humans as artificial intelligence and digital surveillance race ahead, threatening to sever us from our consciousness, our DNA, and even our souls.He ",
+   "audioURL": "https://claritaspod.com/measure/pscrb.fm/rss/p/arttrk.com/p/PMMIC/prfx.byspotify.com/e/mgln.ai/e/1047/dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/542bf80a-2231-4d39-af32-b838a79a7483.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Fri, 31 Jul 2026 07:30:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6a/ca/b3/6acab359-0930-6578-184f-744d9f3ae278/mza_16900717249497875543.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses human potential and transhumanism with some spiritual-scientific overlap.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "b4dd32bc-4076-4538-953d-9d75fef0a958",
+   "showID": "https://feeds.simplecast.com/XYHE1JPs",
+   "showTitle": "Passion Struck with John R. Miles",
+   "title": "The Person You Become Is the Person You Practice | John R. Miles - EP 801",
+   "summary": "Most of us are waiting for the moment everything changes.\nThe breakthrough. The perfect habit. The morning you finally wake up feeling motivated enough to become the person you've always wanted to be.\nBut what if that moment never comes?\nIn this solo episode, John R. Miles challenges one of the biggest myths in personal growth: that transformation happens in an instant. Instead, he reveals why the future version of you is created through the ordinary practices you repeat every single day.\nDrawing on the timeless Zen teaching of Chop Wood, Carry Water, legendary coach John Wooden's relentless f",
+   "audioURL": "https://injector.simplecastaudio.com/0cb647de-4d3e-4036-8f2e-58ea2d655cc6/episodes/9099ae14-c56f-4d71-8825-f7497df4a2ea/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0cb647de-4d3e-4036-8f2e-58ea2d655cc6&amp;awEpisodeId=9099ae14-c56f-4d71-8825-f7497df4a2ea&amp;feed=XYHE1JPs",
+   "published": "Fri, 31 Jul 2026 04:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Talks about personal growth and transformation but mainly from a motivational angle.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -229,6 +268,9 @@
   "gid://art19-episode-locator/V0/2RyDuxk80bXfIxrAPTCj4R1HsZ6ivoaJUCSPr_v9jIE": "2026-08-05",
   "1585b8d5-4d80-4378-b95a-438462167d28": "2026-08-05",
   "9a986ad3-129d-4183-9c00-a76372530c69": "2026-08-05",
-  "12ba2d53-d314-4a77-aebc-b49c0163e020": "2026-08-05"
+  "12ba2d53-d314-4a77-aebc-b49c0163e020": "2026-08-05",
+  "785a02bc-a89a-4e4a-b0fd-2ac3958e7941": "2026-08-06",
+  "gid://art19-episode-locator/V0/YJzyqfyVL6uyi3Qs5mKyRndo1cefR3PiLPivUpdR_l0": "2026-08-06",
+  "gid://art19-episode-locator/V0/Hm4JA1Z0gD6qWev2lic1FgfFrCrt5VgdEQ4xp1SqiNQ": "2026-08-06"
  }
 }
