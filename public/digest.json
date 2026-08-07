@@ -1,9 +1,22 @@
 {
  "version": 1,
- "generatedAt": "2026-08-07T07:24:56.048899+00:00",
+ "generatedAt": "2026-08-07T09:06:16.009605+00:00",
  "showsScanned": 400,
- "candidates": 49,
+ "candidates": 50,
  "picks": [
+  {
+   "id": "9cf057b2-280b-4796-9845-188552bfc018",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "Healing my Inner Child After Mormonism - Mindy Gledhill | Ep. 2178",
+   "summary": "Today on Mormon Stories, we are thrilled to welcome back singer-songwriter Mindy Gledhill, who is returning to the podcast to share the stories behind her newest collection of songs, the PhoneBooth Sessions (vol. 1 & 2), which reflect on her childhood, adolescence, and life after stepping away from Mormonism.Along the way, she opens up about some of the early questions that challenged her faith and where she stands with her belief today. Mindy will also discuss how inner-child work has helped her heal and become more in-tune with her inner voice. Other topics will also include parenting, relat",
+   "audioURL": "https://traffic.megaphone.fm/APO8432046997.mp3",
+   "published": "Mon, 03 Aug 2026 18:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Personal story of faith loss and healing with inner-child work after Mormonism.",
+   "tradition": "Christian"
+  },
   {
    "id": "3be6fb50-876c-11f1-b5d9-4bdac622d6fd",
    "showID": "https://feeds.megaphone.fm/TPG1652050293",
@@ -14,7 +27,7 @@
    "published": "Mon, 03 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/86/7c/e4867c60-c77d-3017-9ddf-368fccdff0cf/mza_14207530795556101459.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Focuses on love as a practice for thriving and spiritual health.",
+   "reason": "Focuses on practicing love and human thriving with spiritual health emphasis.",
    "tradition": "Interfaith"
   },
   {
@@ -27,20 +40,20 @@
    "published": "Thu, 30 Jul 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores spiritual awakening and overcoming fear and disconnection.",
+   "reason": "Explores spiritual awakening and overcoming fear and disconnection in modern life.",
    "tradition": "Interfaith"
   },
   {
-   "id": "9cf057b2-280b-4796-9845-188552bfc018",
-   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
-   "showTitle": "Mormon Stories Podcast",
-   "title": "Healing my Inner Child After Mormonism - Mindy Gledhill | Ep. 2178",
-   "summary": "Today on Mormon Stories, we are thrilled to welcome back singer-songwriter Mindy Gledhill, who is returning to the podcast to share the stories behind her newest collection of songs, the PhoneBooth Sessions (vol. 1 & 2), which reflect on her childhood, adolescence, and life after stepping away from Mormonism.Along the way, she opens up about some of the early questions that challenged her faith and where she stands with her belief today. Mindy will also discuss how inner-child work has helped her heal and become more in-tune with her inner voice. Other topics will also include parenting, relat",
-   "audioURL": "https://traffic.megaphone.fm/APO8432046997.mp3",
-   "published": "Mon, 03 Aug 2026 18:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "id": "tag:soundcloud,2010:tracks/2373703811",
+   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:406683825/sounds.rss",
+   "showTitle": "The Counsel of Trent",
+   "title": "#1189 - GodLogic vs. Muslims, JW's, and \"Orthobros\"",
+   "summary": "In this episode Trent sits down with popular Christian apologist  @GodLogicApologetics  .\n\nThe Shocking Truth Behind Jehovah’s Witnesses (Living Waters): https://www.youtube.com/watch?v=cnpl6gRjNOY\n\nAnswering a Muslim Apologist: https://youtu.be/vtVW7y4r4cE?si=tHX__k1SEh9CtBv9\n\nTo support this channel: https://www.patreon.com/counseloftrent\n\n[NEW] Counsel of Trent merch: https://shop.catholic.com/apologists-alley/trent-horn-resources/\n\nBe sure to keep up with our socials!\nhttps://www.tiktok.com/@counseloftrent\nhttps://www.twitter.com/counseloftrent\nhttps://www.instagram.com/counseloftrentpodca",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2373703811-trenthornpodcast-1189-godlogic-vs-muslims-jws.mp3",
+   "published": "Mon, 03 Aug 2026 12:00:29 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A former Mormon reflects on faith challenges and healing, engaging with doubt and belief.",
+   "reason": "Christian apologetics addressing faith challenges from other religions.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +66,7 @@
    "published": "Wed, 05 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/2c/a5/9b2ca564-1ce7-fae8-04fa-63d8e30bcdb8/mza_6685621244595433790.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Talks about Christian identity and faith expressions with some doctrinal focus.",
+   "reason": "Covers Christian denominational identity and faith expressions with some doctrinal depth.",
    "tradition": "Christian"
   },
   {
@@ -66,34 +79,8 @@
    "published": "Mon, 03 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Christian artist discusses faith and surrender amid success, lightly touching on spiritual life.",
+   "reason": "Discussion of Christian surrender and success but mostly motivational.",
    "tradition": "Christian"
-  },
-  {
-   "id": "tag:soundcloud,2010:tracks/2373703811",
-   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:406683825/sounds.rss",
-   "showTitle": "The Counsel of Trent",
-   "title": "#1189 - GodLogic vs. Muslims, JW's, and \"Orthobros\"",
-   "summary": "In this episode Trent sits down with popular Christian apologist  @GodLogicApologetics  .\n\nThe Shocking Truth Behind Jehovah’s Witnesses (Living Waters): https://www.youtube.com/watch?v=cnpl6gRjNOY\n\nAnswering a Muslim Apologist: https://youtu.be/vtVW7y4r4cE?si=tHX__k1SEh9CtBv9\n\nTo support this channel: https://www.patreon.com/counseloftrent\n\n[NEW] Counsel of Trent merch: https://shop.catholic.com/apologists-alley/trent-horn-resources/\n\nBe sure to keep up with our socials!\nhttps://www.tiktok.com/@counseloftrent\nhttps://www.twitter.com/counseloftrent\nhttps://www.instagram.com/counseloftrentpodca",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2373703811-trenthornpodcast-1189-godlogic-vs-muslims-jws.mp3",
-   "published": "Mon, 03 Aug 2026 12:00:29 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Christian apologetics engaging with religious doubt and belief across traditions.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "688e8cc5-2f30-4276-ade9-5d6996c5f806",
-   "showID": "https://feeds.npr.org/510379/podcast.xml",
-   "showTitle": "Wild Card with Rachel Martin",
-   "title": "Brett Goldstein (Encore)",
-   "summary": "Don't be fooled by Brett Goldstein's grumpy exterior – he can't resist a big, open-hearted story. You see it in the TV shows he's acted in and helped create, \"Ted Lasso\" and \"Shrinking.\" He's about to release a new HBO standup special called \"The Second Best Night of Your Life.\" He spoke with Rachel about what Pixar knows about the afterlife and about finding ways to love annoying people.  Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our c",
-   "audioURL": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510379/npr.simplecastaudio.com/e04f4aa5-18c2-416c-93c9-7a10d525bcbf/episodes/106b8e2e-3f47-4598-91e7-bf7b7f5913ff/audio/128/default.mp3?awCollectionId=e04f4aa5-18c2-416c-93c9-7a10d525bcbf&amp;awEpisodeId=106b8e2e-3f47-4598-91e7-bf7b7f5913ff&amp;feed=9OE3hPI5&amp;t=podcast&amp;e=nx-s1-5915110&amp;p=510379&amp;d=2236&amp;size=35781530",
-   "published": "Thu, 06 Aug 2026 11:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e7/e5/1e/e7e51e20-7079-5ed2-23c4-ca8d587f8618/mza_17439789598537751202.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Conversation touches on spiritual outsider experience but not deeply on ultimate questions.",
-   "tradition": "Secular"
   },
   {
    "id": "72eed081-61ee-4aaf-896a-b49d003c1705",
@@ -105,7 +92,20 @@
    "published": "Wed, 05 Aug 2026 07:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5b/c4/c3/5bc4c366-f77a-0d32-db68-7912e13d1daa/mza_13706613387469891530.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discussion of outsider identity and spirituality in entertainment culture.",
+   "reason": "Discussion of outsider identity and spiritual alienation in entertainment.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "2f2fbd3e-8b9a-497f-a737-8750cd55a644",
+   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
+   "showTitle": "Making Sense with Sam Harris",
+   "title": "#488 — Ego, Ecstasy, and Equanimity",
+   "summary": "Sam Harris speaks with Neal Brennan about the experiences that shaped his life and work. They discuss Sam's mother's television career, growing up with an absent father, his struggles with perfectionism, his first experience with MDMA, dropping out of Stanford, meditation retreats, spiritual charisma and claims of psychic powers, the illusion of self, the limits of pacifism, deleting Twitter, Trump and the politics of shamelessness, hypocrisy and vice signaling, the future of American democracy, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to ga",
+   "audioURL": "https://traffic.libsyn.com/secure/wakingup/488_MS_Neal_Brennan_paywall__intro.mp3?dest-id=480596",
+   "published": "Tue, 04 Aug 2026 17:10:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Deep conversation on self, meditation, consciousness, and spiritual experiences.",
    "tradition": "Secular"
   }
  ],
@@ -222,7 +222,7 @@
   "gid://art19-episode-locator/V0/SnggQb245L9IblZU_oDTQeMCM59Q_Q3Kr02B0a5MPpM": "2026-08-06",
   "https://api.spreaker.com/episode/73363182": "2026-08-05",
   "0d6e9870-8a99-11f1-8804-c77d91e10c5e": "2026-08-04",
-  "2f2fbd3e-8b9a-497f-a737-8750cd55a644": "2026-08-06",
+  "2f2fbd3e-8b9a-497f-a737-8750cd55a644": "2026-08-07",
   "ab7f9b32-da90-4216-936a-bf302da0c1a1": "2026-08-07",
   "Buzzsprout-19601054": "2026-08-07",
   "72eed081-61ee-4aaf-896a-b49d003c1705": "2026-08-07",
