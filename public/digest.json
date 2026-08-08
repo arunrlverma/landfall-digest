@@ -1,9 +1,22 @@
 {
  "version": 1,
- "generatedAt": "2026-08-08T12:58:36.890011+00:00",
+ "generatedAt": "2026-08-08T13:52:17.108714+00:00",
  "showsScanned": 400,
- "candidates": 53,
+ "candidates": 54,
  "picks": [
+  {
+   "id": "https://www.ldsscriptureteachings.org/?p=34046",
+   "showID": "https://www.ldsscriptureteachings.org/feed/podcast/",
+   "showTitle": "Talking Scripture",
+   "title": "Ep 384 | Job, Come Follow Me 2026 (August 10-16)",
+   "summary": "→ Watch on YouTube\n\n\n\n→ Detailed Show Notes(00:00) An overview of the two parts of Job: the frame and the poem.(07:31) In the frame, Job is described as a just and perfect man whose property and children are destroyed, yet he praises and blesses the Lord. In the end, he receives back more than he lost.(16:53) The poem describes Job’s complaints. He even curses being born.(22:42) Three friends come to “comfort” Job. How to properly engage with someone who is suffering. Rigid orthodoxies and a lack of true empathy can destroy relationships.(34:52) Our capacity for joy is connected to pain.(40:20",
+   "audioURL": "https://media.blubrry.com/talkingscripture/www.ldsscriptureteachings.org/wp-content/uploads/2026/08/384-Job-final-mp3.mp3",
+   "published": "Thu, 06 Aug 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "In-depth discussion of Job's suffering, faith, and human response to pain.",
+   "tradition": "Christian"
+  },
   {
    "id": "37c1a188-82f4-46e1-a8de-13d1fd44bc16",
    "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
@@ -14,7 +27,7 @@
    "published": "Fri, 31 Jul 2026 17:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "In-depth discussion on AI consciousness, suffering, and moral implications.",
+   "reason": "In-depth philosophical and scientific discussion on AI consciousness and moral implications.",
    "tradition": "Secular"
   },
   {
@@ -27,21 +40,8 @@
    "published": "Tue, 04 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/e3/21/0fe32103-63b9-c890-308e-e8aa3b89090b/mza_17611356982334262758.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Serious discussion on Stoicism's relevance to meaning, resilience, and purpose.",
+   "reason": "A thoughtful conversation on Stoicism's relevance to meaning and resilience.",
    "tradition": "Stoic"
-  },
-  {
-   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
-   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
-   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Personal story of faith, identity, and freedom from desire, addressing suffering and belief.",
-   "tradition": "Christian"
   },
   {
    "id": "https://blubrry.com/the_world_and_everything_in_it/154535185/through-depression-and-doubt/",
@@ -53,7 +53,7 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Author shares faith tested by depression and doubt, exploring purpose and suffering.",
+   "reason": "An honest account of depression and faith struggles affirming life's purpose.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Thu, 6 Aug 2026 04:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Neuroscientist and scholar discuss flourishing and inner qualities from a contemplative perspective.",
+   "reason": "Neuroscientist and scholar discuss flourishing, inner qualities, and human potential with scientific depth.",
    "tradition": "Secular"
   },
   {
@@ -80,7 +80,7 @@
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 8,
    "reason": "Tribute to near-death experience researcher exploring mortality and consciousness.",
-   "tradition": "Secular"
+   "tradition": "Interfaith"
   },
   {
    "id": "coe22.podbean.com/9c568646-8efd-38fd-ac91-166d57fc5930",
@@ -92,7 +92,20 @@
    "published": "Mon, 03 Aug 2026 01:18:09 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores grace and salvation through a biblical parable, addressing meaning and faith.",
+   "reason": "A serious Christian reflection on grace and entitlement through a biblical parable.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "1e397483-4aaa-4f23-a8ef-d556757584e1",
+   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
+   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
+   "title": "Day 220: Prophecy Fulfilled (2026)",
+   "summary": "Fr. Mike points out that the prophecy from Isaiah 61 is fulfilled by Jesus (as described in Luke 4). In Ezekiel, Fr. Mike draws our attention to the importance of the Sabbath as the sign of the covenant with God. The readings are Isaiah 61-62, Ezekiel 20, and Proverbs 13:13-16.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/1e397483-4aaa-4f23-a8ef-d556757584e1.mp3",
+   "published": "Sat, 08 Aug 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A serious Christian reflection on prophecy fulfillment and covenant themes in scripture.",
    "tradition": "Christian"
   },
   {
@@ -105,20 +118,46 @@
    "published": "Sat, 08 Aug 2026 05:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/73/99/7f739968-f65e-f679-d1fd-c727118c69f0/mza_17156407142775783271.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal reflections including silent meditation retreat and thoughts on fatherhood.",
+   "reason": "Personal reflections including silent meditation retreat and health, touching on inner life and meaning.",
    "tradition": "Secular"
   },
   {
-   "id": "1e397483-4aaa-4f23-a8ef-d556757584e1",
-   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
-   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
-   "title": "Day 220: Prophecy Fulfilled (2026)",
-   "summary": "Fr. Mike points out that the prophecy from Isaiah 61 is fulfilled by Jesus (as described in Luke 4). In Ezekiel, Fr. Mike draws our attention to the importance of the Sabbath as the sign of the covenant with God. The readings are Isaiah 61-62, Ezekiel 20, and Proverbs 13:13-16.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/1e397483-4aaa-4f23-a8ef-d556757584e1.mp3",
-   "published": "Sat, 08 Aug 2026 03:15:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
+   "id": "audioboom-019fd2df-b3cc-71c6-ba3d-3118db13df0c",
+   "showID": "https://audioboom.com/channels/4943119.rss",
+   "showTitle": "The Grave Talks | Haunted, Paranormal & Supernatural",
+   "title": "Séances, Shadows, and Spirits, Part Two | Grave Talks CLASSIC",
+   "summary": "This is a Grave Talks CLASSIC EPISODE! PART TWOWhat if the spirits that haunted your childhood weren’t there to torment you—but to teach you? For Kaedrich Olsen, that haunting became a lifelong initiation into the mysteries of the unseen. Now an internationally renowned author, speaker, and spiritual guide, Kaedrich has spent more than three decades exploring the boundaries between life and death, light and shadow.Guided by ethereal entities he calls the Whisperers, he’s mastered the arts of séance, channeling, and shadow work—tools that help bridge the gap between the living and the departed.",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8936452.mp3?modified=1785949350&amp;sid=4943119&amp;source=rss",
+   "published": "Sat, 08 Aug 2026 11:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/25/2a/78/252a781e-3e4d-e2d4-7296-2b08262c23a0/mza_13587127555026008314.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores life, death, and unseen realms through personal spiritual experience.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "audioboom-019fd2db-d1c1-756d-9c93-153efbf90b83",
+   "showID": "https://audioboom.com/channels/4943119.rss",
+   "showTitle": "The Grave Talks | Haunted, Paranormal & Supernatural",
+   "title": "Séances, Shadows, and Spirits, Part One | Grave Talks CLASSIC",
+   "summary": "This is a Grave Talks CLASSIC EPISODE!What if the spirits that haunted your childhood weren’t there to torment you—but to teach you? For Kaedrich Olsen, that haunting became a lifelong initiation into the mysteries of the unseen. Now an internationally renowned author, speaker, and spiritual guide, Kaedrich has spent more than three decades exploring the boundaries between life and death, light and shadow.Guided by ethereal entities he calls the Whisperers, he’s mastered the arts of séance, channeling, and shadow work—tools that help bridge the gap between the living and the departed. His expe",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8936448.mp3?modified=1785949102&amp;sid=4943119&amp;source=rss",
+   "published": "Sat, 08 Aug 2026 05:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/25/2a/78/252a781e-3e4d-e2d4-7296-2b08262c23a0/mza_13587127555026008314.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Shares a personal journey into mysteries of life and death via spiritual encounters.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "e0c54dec66db0f52b4afd42f8c5cbfdf",
+   "showID": "https://podcasts.subsplash.com:443/03fe243/podcast.rss",
+   "showTitle": "Prophecy Watchers",
+   "title": "Grace Giving vs. Tithing | Studies with Stearman",
+   "summary": "<p>This week we complete our study of First Corinthians with some of Paul’s most practical—and powerful—instructions. In this message, Gary explores what 1 Corinthians 16 teaches about grace giving, Christian generosity, spiritual leadership, standing firm in the faith, and why love remains the defining mark of every believer.</p>",
+   "audioURL": "https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvTkhDOEM5LzgyOTAxNDNiLTdiZGItNGVjYi05NDI1LWJmZTRkN2M1NWQwZC9hdWRpby5tcDM.mp3?k=NHC8C9&amp;s=3&amp;sapid=kjp9hvp",
+   "published": "Wed, 05 Aug 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/4e/30/364e308d-99c9-778e-e711-59e090408814/mza_3684559455643163671.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A devotional reading linking prophecy and Sabbath with covenant themes.",
+   "reason": "Practical Christian teachings on generosity and faith from 1 Corinthians.",
    "tradition": "Christian"
   },
   {
@@ -131,7 +170,7 @@
    "published": "Sat, 08 Aug 2026 07:08:41 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/de/05/9cde05f7-8b77-a0a7-f19b-37d29a9dd6bc/mza_15442820465629580994.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Veteran's story includes trauma, healing, and psychedelic medicine.",
+   "reason": "Veteran's story includes trauma and healing, touching on suffering and recovery.",
    "tradition": "Secular"
   },
   {
@@ -144,47 +183,8 @@
    "published": "Sat, 08 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/a0/12/46a0122e-5011-ffbd-cd2f-3c7a2d27777e/mza_6245367014521206082.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Historical narrative touching on meaning and national struggle but not deeply philosophical.",
+   "reason": "Historical episode about the Civil War with some ethical and existential implications but mostly history.",
    "tradition": "Secular"
-  },
-  {
-   "id": "a464ce82-8c94-11f1-9241-2b4c9067e0c7",
-   "showID": "https://feeds.megaphone.fm/mark-levin-podcast",
-   "showTitle": "Mark Levin Podcast",
-   "title": "The Best Of Mark Levin - 8/1/26",
-   "summary": "This week on the Mark Levin Show, modern Western societies, enlightened and democratic, are experiencing \"soft negative power.\" Gradually, our democratic institutions are being subverted by infiltration of unelected institutions like bureaucracies, independent agencies, and the judiciary. Soft negative power leads to authoritarian democracy. One branch of government absorbs and overtakes the others. Legislatures pass tyrannical laws. Soft negative power is so effective that one of the worst tyrannies of all -- Marxism -- is now deeply ingrained in the Western psyche. If you take money from one",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/WWO9444866518.mp3",
-   "published": "Sat, 01 Aug 2026 11:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/bf/a0/46bfa07e-d13f-9635-445f-ac2578d5c755/mza_14035070316013714857.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discussion of political power and democracy with some ethical implications but not contemplative.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "audioboom-019fd2df-b3cc-71c6-ba3d-3118db13df0c",
-   "showID": "https://audioboom.com/channels/4943119.rss",
-   "showTitle": "The Grave Talks | Haunted, Paranormal & Supernatural",
-   "title": "Séances, Shadows, and Spirits, Part Two | Grave Talks CLASSIC",
-   "summary": "This is a Grave Talks CLASSIC EPISODE! PART TWOWhat if the spirits that haunted your childhood weren’t there to torment you—but to teach you? For Kaedrich Olsen, that haunting became a lifelong initiation into the mysteries of the unseen. Now an internationally renowned author, speaker, and spiritual guide, Kaedrich has spent more than three decades exploring the boundaries between life and death, light and shadow.Guided by ethereal entities he calls the Whisperers, he’s mastered the arts of séance, channeling, and shadow work—tools that help bridge the gap between the living and the departed.",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8936452.mp3?modified=1785949350&amp;sid=4943119&amp;source=rss",
-   "published": "Sat, 08 Aug 2026 11:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/25/2a/78/252a781e-3e4d-e2d4-7296-2b08262c23a0/mza_13587127555026008314.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Explores life, death, and unseen realms through personal spiritual experiences.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "audioboom-019fd2db-d1c1-756d-9c93-153efbf90b83",
-   "showID": "https://audioboom.com/channels/4943119.rss",
-   "showTitle": "The Grave Talks | Haunted, Paranormal & Supernatural",
-   "title": "Séances, Shadows, and Spirits, Part One | Grave Talks CLASSIC",
-   "summary": "This is a Grave Talks CLASSIC EPISODE!What if the spirits that haunted your childhood weren’t there to torment you—but to teach you? For Kaedrich Olsen, that haunting became a lifelong initiation into the mysteries of the unseen. Now an internationally renowned author, speaker, and spiritual guide, Kaedrich has spent more than three decades exploring the boundaries between life and death, light and shadow.Guided by ethereal entities he calls the Whisperers, he’s mastered the arts of séance, channeling, and shadow work—tools that help bridge the gap between the living and the departed. His expe",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8936448.mp3?modified=1785949102&amp;sid=4943119&amp;source=rss",
-   "published": "Sat, 08 Aug 2026 05:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/25/2a/78/252a781e-3e4d-e2d4-7296-2b08262c23a0/mza_13587127555026008314.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Personal initiation into mysteries of life and death via spirit communication.",
-   "tradition": "Interfaith"
   }
  ],
  "history": {
@@ -329,6 +329,8 @@
   "https://api.spreaker.com/episode/73638779": "2026-08-08",
   "cb4a775c-91c8-11f1-afd7-7fd3ca32aaec": "2026-08-08",
   "audioboom-019fd2df-b3cc-71c6-ba3d-3118db13df0c": "2026-08-08",
-  "a464ce82-8c94-11f1-9241-2b4c9067e0c7": "2026-08-08"
+  "a464ce82-8c94-11f1-9241-2b4c9067e0c7": "2026-08-08",
+  "https://www.ldsscriptureteachings.org/?p=34046": "2026-08-08",
+  "e0c54dec66db0f52b4afd42f8c5cbfdf": "2026-08-08"
  }
 }
