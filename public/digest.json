@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-08T10:39:30.619777+00:00",
+ "generatedAt": "2026-08-08T11:36:02.383553+00:00",
  "showsScanned": 400,
- "candidates": 53,
+ "candidates": 54,
  "picks": [
   {
    "id": "37c1a188-82f4-46e1-a8de-13d1fd44bc16",
@@ -14,7 +14,7 @@
    "published": "Fri, 31 Jul 2026 17:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "In-depth discussion on AI consciousness, suffering, and moral implications.",
+   "reason": "In-depth discussion on AI consciousness, ethics, and the hard problem of consciousness.",
    "tradition": "Secular"
   },
   {
@@ -27,8 +27,21 @@
    "published": "Tue, 04 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/e3/21/0fe32103-63b9-c890-308e-e8aa3b89090b/mza_17611356982334262758.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A serious conversation on Stoicism's relevance to meaning, resilience, and purpose.",
+   "reason": "A thoughtful conversation on Stoicism's relevance to meaning and resilience.",
    "tradition": "Stoic"
+  },
+  {
+   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
+   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
+   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Personal Christian testimony on identity, sin, and spiritual freedom.",
+   "tradition": "Christian"
   },
   {
    "id": "https://blubrry.com/the_world_and_everything_in_it/154535185/through-depression-and-doubt/",
@@ -40,7 +53,7 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of depression and doubt intertwined with faith and purpose.",
+   "reason": "Personal story of depression and faith, exploring purpose and doubt.",
    "tradition": "Christian"
   },
   {
@@ -53,8 +66,21 @@
    "published": "Sat, 08 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A Jesuit priest explains biblical prophecy and covenant, touching on faith and divine purpose.",
+   "reason": "A priest explains biblical prophecy and covenant, touching on faith and divine relationship.",
    "tradition": "Christian"
+  },
+  {
+   "id": "785a02bc-a89a-4e4a-b0fd-2ac3958e7941",
+   "showID": "https://feeds.simplecast.com/XYHE1JPs",
+   "showTitle": "Passion Struck with John R. Miles",
+   "title": "You Were Born to Flourish. Here's the Science That Proves It. | Dr. Richard Davidson & Dr. Cortland Dahl – EP 803",
+   "summary": "What if you've spent your whole life believing you needed to become someone different—when the qualities you need have been inside you all along?\nMost of us think flourishing is something we earn after we've accomplished enough, healed enough, or finally have everything figured out.\nBut what if science says otherwise?\nIn this episode of Passion Struck, John R. Miles sits down with pioneering neuroscientist Dr. Richard Davidson and contemplative scholar Court Dahl to explore the groundbreaking science behind their new book, Born to Flourish. Drawing on decades of neuroscience research, contempl",
+   "audioURL": "https://injector.simplecastaudio.com/0cb647de-4d3e-4036-8f2e-58ea2d655cc6/episodes/fba71dcc-52e7-4e86-8e4b-c2e480b77a8f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0cb647de-4d3e-4036-8f2e-58ea2d655cc6&amp;awEpisodeId=fba71dcc-52e7-4e86-8e4b-c2e480b77a8f&amp;feed=XYHE1JPs",
+   "published": "Thu, 6 Aug 2026 04:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Neuroscientist and scholar discuss flourishing, inner qualities, and human potential deeply.",
+   "tradition": "Secular"
   },
   {
    "id": "edefb774-f376-4e44-9be7-b4a0001e7f4d",
@@ -70,19 +96,6 @@
    "tradition": "Secular"
   },
   {
-   "id": "audioboom-019fd2db-d1c1-756d-9c93-153efbf90b83",
-   "showID": "https://audioboom.com/channels/4943119.rss",
-   "showTitle": "The Grave Talks | Haunted, Paranormal & Supernatural",
-   "title": "Séances, Shadows, and Spirits, Part One | Grave Talks CLASSIC",
-   "summary": "This is a Grave Talks CLASSIC EPISODE!What if the spirits that haunted your childhood weren’t there to torment you—but to teach you? For Kaedrich Olsen, that haunting became a lifelong initiation into the mysteries of the unseen. Now an internationally renowned author, speaker, and spiritual guide, Kaedrich has spent more than three decades exploring the boundaries between life and death, light and shadow.Guided by ethereal entities he calls the Whisperers, he’s mastered the arts of séance, channeling, and shadow work—tools that help bridge the gap between the living and the departed. His expe",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8936448.mp3?modified=1785949102&amp;sid=4943119&amp;source=rss",
-   "published": "Sat, 08 Aug 2026 05:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/25/2a/78/252a781e-3e4d-e2d4-7296-2b08262c23a0/mza_13587127555026008314.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores life, death, and unseen realms through personal spiritual experience.",
-   "tradition": "Interfaith"
-  },
-  {
    "id": "coe22.podbean.com/9c568646-8efd-38fd-ac91-166d57fc5930",
    "showID": "https://feed.podbean.com/coe22/feed.xml",
    "showTitle": "The Church of Eleven22",
@@ -92,20 +105,7 @@
    "published": "Mon, 03 Aug 2026 01:18:09 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A Christian parable exploring grace, entitlement, and salvation as a gift.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
-   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
-   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A Christian testimony about identity, sin, and spiritual freedom.",
+   "reason": "A serious Christian reflection on grace and entitlement through a biblical parable.",
    "tradition": "Christian"
   },
   {
@@ -118,20 +118,7 @@
    "published": "Sat, 08 Aug 2026 07:08:41 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/de/05/9cde05f7-8b77-a0a7-f19b-37d29a9dd6bc/mza_15442820465629580994.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Veteran reflects on trauma, suffering, and healing through psychedelic medicine.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "785a02bc-a89a-4e4a-b0fd-2ac3958e7941",
-   "showID": "https://feeds.simplecast.com/XYHE1JPs",
-   "showTitle": "Passion Struck with John R. Miles",
-   "title": "You Were Born to Flourish. Here's the Science That Proves It. | Dr. Richard Davidson & Dr. Cortland Dahl – EP 803",
-   "summary": "What if you've spent your whole life believing you needed to become someone different—when the qualities you need have been inside you all along?\nMost of us think flourishing is something we earn after we've accomplished enough, healed enough, or finally have everything figured out.\nBut what if science says otherwise?\nIn this episode of Passion Struck, John R. Miles sits down with pioneering neuroscientist Dr. Richard Davidson and contemplative scholar Court Dahl to explore the groundbreaking science behind their new book, Born to Flourish. Drawing on decades of neuroscience research, contempl",
-   "audioURL": "https://injector.simplecastaudio.com/0cb647de-4d3e-4036-8f2e-58ea2d655cc6/episodes/fba71dcc-52e7-4e86-8e4b-c2e480b77a8f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0cb647de-4d3e-4036-8f2e-58ea2d655cc6&amp;awEpisodeId=fba71dcc-52e7-4e86-8e4b-c2e480b77a8f&amp;feed=XYHE1JPs",
-   "published": "Thu, 6 Aug 2026 04:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Neuroscientist and scholar discuss innate human flourishing and contemplative science.",
+   "reason": "Veteran reflects on trauma, healing, and meaning through psychedelic medicine.",
    "tradition": "Secular"
   },
   {
@@ -144,7 +131,7 @@
    "published": "Sat, 08 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/a0/12/46a0122e-5011-ffbd-cd2f-3c7a2d27777e/mza_6245367014521206082.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Historical reflection on Civil War with some ethical and national meaning themes.",
+   "reason": "Historical reflection on war and freedom with some ethical and societal implications.",
    "tradition": "Secular"
   },
   {
@@ -157,8 +144,34 @@
    "published": "Sat, 08 Aug 2026 05:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/73/99/7f739968-f65e-f679-d1fd-c727118c69f0/mza_17156407142775783271.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal reflections including a silent meditation retreat but mostly lifestyle topics.",
+   "reason": "Personal reflections including meditation retreat but mostly lifestyle and health topics.",
    "tradition": "Secular"
+  },
+  {
+   "id": "audioboom-019fd2df-b3cc-71c6-ba3d-3118db13df0c",
+   "showID": "https://audioboom.com/channels/4943119.rss",
+   "showTitle": "The Grave Talks | Haunted, Paranormal & Supernatural",
+   "title": "Séances, Shadows, and Spirits, Part Two | Grave Talks CLASSIC",
+   "summary": "This is a Grave Talks CLASSIC EPISODE! PART TWOWhat if the spirits that haunted your childhood weren’t there to torment you—but to teach you? For Kaedrich Olsen, that haunting became a lifelong initiation into the mysteries of the unseen. Now an internationally renowned author, speaker, and spiritual guide, Kaedrich has spent more than three decades exploring the boundaries between life and death, light and shadow.Guided by ethereal entities he calls the Whisperers, he’s mastered the arts of séance, channeling, and shadow work—tools that help bridge the gap between the living and the departed.",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8936452.mp3?modified=1785949350&amp;sid=4943119&amp;source=rss",
+   "published": "Sat, 08 Aug 2026 11:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/25/2a/78/252a781e-3e4d-e2d4-7296-2b08262c23a0/mza_13587127555026008314.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Personal story of spirit encounters touching on life, death, and unseen mysteries.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "audioboom-019fd2db-d1c1-756d-9c93-153efbf90b83",
+   "showID": "https://audioboom.com/channels/4943119.rss",
+   "showTitle": "The Grave Talks | Haunted, Paranormal & Supernatural",
+   "title": "Séances, Shadows, and Spirits, Part One | Grave Talks CLASSIC",
+   "summary": "This is a Grave Talks CLASSIC EPISODE!What if the spirits that haunted your childhood weren’t there to torment you—but to teach you? For Kaedrich Olsen, that haunting became a lifelong initiation into the mysteries of the unseen. Now an internationally renowned author, speaker, and spiritual guide, Kaedrich has spent more than three decades exploring the boundaries between life and death, light and shadow.Guided by ethereal entities he calls the Whisperers, he’s mastered the arts of séance, channeling, and shadow work—tools that help bridge the gap between the living and the departed. His expe",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8936448.mp3?modified=1785949102&amp;sid=4943119&amp;source=rss",
+   "published": "Sat, 08 Aug 2026 05:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/25/2a/78/252a781e-3e4d-e2d4-7296-2b08262c23a0/mza_13587127555026008314.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Continues exploration of spirits and death with a spiritual guide's perspective.",
+   "tradition": "Interfaith"
   }
  ],
  "history": {
@@ -301,6 +314,7 @@
   "audioboom-019fd2db-d1c1-756d-9c93-153efbf90b83": "2026-08-08",
   "1e397483-4aaa-4f23-a8ef-d556757584e1": "2026-08-08",
   "https://api.spreaker.com/episode/73638779": "2026-08-08",
-  "cb4a775c-91c8-11f1-afd7-7fd3ca32aaec": "2026-08-08"
+  "cb4a775c-91c8-11f1-afd7-7fd3ca32aaec": "2026-08-08",
+  "audioboom-019fd2df-b3cc-71c6-ba3d-3118db13df0c": "2026-08-08"
  }
 }
