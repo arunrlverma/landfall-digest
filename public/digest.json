@@ -1,35 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-08-08T01:57:22.724688+00:00",
+ "generatedAt": "2026-08-08T03:40:33.675391+00:00",
  "showsScanned": 400,
  "candidates": 54,
  "picks": [
-  {
-   "id": "edefb774-f376-4e44-9be7-b4a0001e7f4d",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
-   "showTitle": "The Best of Coast to Coast AM",
-   "title": "Episode 303: A Tribute to NDE Researcher PMH Atwater.",
-   "summary": "Join Sandra to honor the life, legacy, and work of near-death experience research pioneer Dr. PMH Atwater. Explore her investigative protocols, her personal NDEs, and the verifiable evidence uncovered across thousands of adult and childhood NDE cases.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/edefb774-f376-4e44-9be7-b4a0001e7f4d/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
-   "published": "Sat, 08 Aug 2026 01:55:44 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Tribute to near-death experience researcher exploring mortality and consciousness.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "e282d322-8e82-11f1-950b-cb2963b6c1b5",
-   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
-   "showTitle": "Live Free with Josh Howerton",
-   "title": "SPIRITUAL WARFARE: Understanding Satan’s True Identity and How To Defeat Him | Live Free with Josh Howerton",
-   "summary": "Spiritual warfare is real—but what does the Bible actually teach about fighting it? In this episode, Pastors Josh, Carlos, and Paul break down the armor of God piece by piece and show how truth, righteousness, faith, salvation, the gospel, Scripture, and prayer help believers stand firm against the enemy’s schemes.\n\nThey also explore where Satan came from, whether he can read your thoughts, and how Christians should evaluate dramatic spiritual manifestations and deliverance ministries. This conversation offers a biblical framework that avoids both fear-driven superstition and dismissive cynici",
-   "audioURL": "https://traffic.megaphone.fm/HAEEH7209781675.mp3",
-   "published": "Mon, 03 Aug 2026 05:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses spiritual warfare through Christian scripture and prayer practices.",
-   "tradition": "Christian"
-  },
   {
    "id": "37c1a188-82f4-46e1-a8de-13d1fd44bc16",
    "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
@@ -40,7 +14,7 @@
    "published": "Fri, 31 Jul 2026 17:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "In-depth discussion on AI consciousness and moral implications of sentient minds.",
+   "reason": "In-depth discussion on AI consciousness, suffering, and moral patienthood.",
    "tradition": "Secular"
   },
   {
@@ -53,7 +27,7 @@
    "published": "Tue, 04 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/e3/21/0fe32103-63b9-c890-308e-e8aa3b89090b/mza_17611356982334262758.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Serious discussion on Stoicism's relevance to meaning, resilience, and purpose today.",
+   "reason": "A serious conversation on Stoicism and how it guides ethical living.",
    "tradition": "Stoic"
   },
   {
@@ -66,7 +40,7 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Author shares struggle with depression and faith, affirming life's purpose.",
+   "reason": "Personal story of depression and faith exploring meaning and purpose.",
    "tradition": "Christian"
   },
   {
@@ -92,7 +66,7 @@
    "published": "Mon, 03 Aug 2026 01:18:09 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores grace and salvation as gifts beyond human effort in Christian teaching.",
+   "reason": "Explores grace and salvation through a parable from the Gospels.",
    "tradition": "Christian"
   },
   {
@@ -105,7 +79,33 @@
    "published": "Sun, 02 Aug 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal testimony on faith, identity, and freedom from same-sex attraction.",
+   "reason": "Personal Christian testimony on identity, faith, and freedom from desire.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "edefb774-f376-4e44-9be7-b4a0001e7f4d",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "Episode 303: A Tribute to NDE Researcher PMH Atwater.",
+   "summary": "Join Sandra to honor the life, legacy, and work of near-death experience research pioneer Dr. PMH Atwater. Explore her investigative protocols, her personal NDEs, and the verifiable evidence uncovered across thousands of adult and childhood NDE cases.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/edefb774-f376-4e44-9be7-b4a0001e7f4d/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Sat, 08 Aug 2026 01:55:44 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Tribute to near-death experience researcher exploring mortality and consciousness.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "11eea34f-aa70-41e6-90ae-83e2275930ca",
+   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
+   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
+   "title": "BONUS: If You Feel Like Giving Up (with Jeff Cavins) - 2026",
+   "summary": "As we continue through this year-long journey, Fr. Mike and Jeff Cavins offer some words of encouragement for those who might be struggling. No matter if you're listening consistently or if you're \"behind\", the Lord will meet you where you are at in Scripture.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/11eea34f-aa70-41e6-90ae-83e2275930ca.mp3",
+   "published": "Sat, 01 Aug 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Offers encouragement grounded in scripture for those struggling with faith and doubt.",
    "tradition": "Christian"
   }
  ],
@@ -197,7 +197,7 @@
   "d4a068b5-c6ae-4719-ac58-cfaf2049c480": "2026-07-31",
   "6f126030-86e2-11f1-b0a0-03319c74e9f5": "2026-08-01",
   "https://blubrry.com/the_world_and_everything_in_it/154535185/through-depression-and-doubt/": "2026-08-08",
-  "11eea34f-aa70-41e6-90ae-83e2275930ca": "2026-08-06",
+  "11eea34f-aa70-41e6-90ae-83e2275930ca": "2026-08-08",
   "https://api.spreaker.com/episode/73117353": "2026-08-01",
   "https://api.spreaker.com/episode/73276790": "2026-08-05",
   "c3dd00ac-7099-11f1-955e-733de9dc74cf": "2026-08-06",
