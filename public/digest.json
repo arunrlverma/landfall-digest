@@ -1,21 +1,21 @@
 {
  "version": 1,
- "generatedAt": "2026-08-08T19:35:02.669164+00:00",
+ "generatedAt": "2026-08-08T20:37:00.136519+00:00",
  "showsScanned": 400,
- "candidates": 50,
+ "candidates": 51,
  "picks": [
   {
-   "id": "785a02bc-a89a-4e4a-b0fd-2ac3958e7941",
-   "showID": "https://feeds.simplecast.com/XYHE1JPs",
-   "showTitle": "Passion Struck with John R. Miles",
-   "title": "You Were Born to Flourish. Here's the Science That Proves It. | Dr. Richard Davidson & Dr. Cortland Dahl – EP 803",
-   "summary": "What if you've spent your whole life believing you needed to become someone different—when the qualities you need have been inside you all along?\nMost of us think flourishing is something we earn after we've accomplished enough, healed enough, or finally have everything figured out.\nBut what if science says otherwise?\nIn this episode of Passion Struck, John R. Miles sits down with pioneering neuroscientist Dr. Richard Davidson and contemplative scholar Court Dahl to explore the groundbreaking science behind their new book, Born to Flourish. Drawing on decades of neuroscience research, contempl",
-   "audioURL": "https://injector.simplecastaudio.com/0cb647de-4d3e-4036-8f2e-58ea2d655cc6/episodes/fba71dcc-52e7-4e86-8e4b-c2e480b77a8f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0cb647de-4d3e-4036-8f2e-58ea2d655cc6&amp;awEpisodeId=fba71dcc-52e7-4e86-8e4b-c2e480b77a8f&amp;feed=XYHE1JPs",
-   "published": "Thu, 6 Aug 2026 04:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
+   "id": "https://www.ldsscriptureteachings.org/?p=34046",
+   "showID": "https://www.ldsscriptureteachings.org/feed/podcast/",
+   "showTitle": "Talking Scripture",
+   "title": "Ep 384 | Job, Come Follow Me 2026 (August 10-16)",
+   "summary": "→ Watch on YouTube\n\n\n\n→ Detailed Show Notes(00:00) An overview of the two parts of Job: the frame and the poem.(07:31) In the frame, Job is described as a just and perfect man whose property and children are destroyed, yet he praises and blesses the Lord. In the end, he receives back more than he lost.(16:53) The poem describes Job’s complaints. He even curses being born.(22:42) Three friends come to “comfort” Job. How to properly engage with someone who is suffering. Rigid orthodoxies and a lack of true empathy can destroy relationships.(34:52) Our capacity for joy is connected to pain.(40:20",
+   "audioURL": "https://media.blubrry.com/talkingscripture/www.ldsscriptureteachings.org/wp-content/uploads/2026/08/384-Job-final-mp3.mp3",
+   "published": "Thu, 06 Aug 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuroscientist and scholar discuss flourishing, inner qualities, and contemplative science.",
-   "tradition": "Secular"
+   "reason": "In-depth biblical exploration of suffering, justice, and faith in the Book of Job.",
+   "tradition": "Christian"
   },
   {
    "id": "gid://art19-episode-locator/V0/SnggQb245L9IblZU_oDTQeMCM59Q_Q3Kr02B0a5MPpM",
@@ -40,8 +40,21 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of depression and faith tested, reflecting on life's purpose.",
+   "reason": "Personal story of depression and faith tested, affirming life's purpose.",
    "tradition": "Christian"
+  },
+  {
+   "id": "785a02bc-a89a-4e4a-b0fd-2ac3958e7941",
+   "showID": "https://feeds.simplecast.com/XYHE1JPs",
+   "showTitle": "Passion Struck with John R. Miles",
+   "title": "You Were Born to Flourish. Here's the Science That Proves It. | Dr. Richard Davidson & Dr. Cortland Dahl – EP 803",
+   "summary": "What if you've spent your whole life believing you needed to become someone different—when the qualities you need have been inside you all along?\nMost of us think flourishing is something we earn after we've accomplished enough, healed enough, or finally have everything figured out.\nBut what if science says otherwise?\nIn this episode of Passion Struck, John R. Miles sits down with pioneering neuroscientist Dr. Richard Davidson and contemplative scholar Court Dahl to explore the groundbreaking science behind their new book, Born to Flourish. Drawing on decades of neuroscience research, contempl",
+   "audioURL": "https://injector.simplecastaudio.com/0cb647de-4d3e-4036-8f2e-58ea2d655cc6/episodes/fba71dcc-52e7-4e86-8e4b-c2e480b77a8f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0cb647de-4d3e-4036-8f2e-58ea2d655cc6&amp;awEpisodeId=fba71dcc-52e7-4e86-8e4b-c2e480b77a8f&amp;feed=XYHE1JPs",
+   "published": "Thu, 6 Aug 2026 04:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Neuroscientific and contemplative discussion on flourishing and inner qualities.",
+   "tradition": "Secular"
   },
   {
    "id": "edefb774-f376-4e44-9be7-b4a0001e7f4d",
@@ -53,8 +66,8 @@
    "published": "Sat, 08 Aug 2026 01:55:44 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Honors near-death experience research exploring mortality and consciousness.",
-   "tradition": "Interfaith"
+   "reason": "Tribute to near-death experience research exploring mortality and consciousness.",
+   "tradition": "Secular"
   },
   {
    "id": "coe22.podbean.com/9c568646-8efd-38fd-ac91-166d57fc5930",
@@ -66,20 +79,7 @@
    "published": "Mon, 03 Aug 2026 01:18:09 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses grace and salvation as gifts beyond human effort in Christian teaching.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "1e397483-4aaa-4f23-a8ef-d556757584e1",
-   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
-   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
-   "title": "Day 220: Prophecy Fulfilled (2026)",
-   "summary": "Fr. Mike points out that the prophecy from Isaiah 61 is fulfilled by Jesus (as described in Luke 4). In Ezekiel, Fr. Mike draws our attention to the importance of the Sabbath as the sign of the covenant with God. The readings are Isaiah 61-62, Ezekiel 20, and Proverbs 13:13-16.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/1e397483-4aaa-4f23-a8ef-d556757584e1.mp3",
-   "published": "Sat, 08 Aug 2026 03:15:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A serious Christian reflection on prophecy, covenant, and Sabbath as ethical signs.",
+   "reason": "Discusses grace and salvation as gifts, not earned, from a Christian perspective.",
    "tradition": "Christian"
   },
   {
@@ -92,7 +92,20 @@
    "published": "Sat, 08 Aug 2026 07:08:41 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/de/05/9cde05f7-8b77-a0a7-f19b-37d29a9dd6bc/mza_15442820465629580994.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Veteran's story includes suffering, healing, and consciousness via psychedelics.",
+   "reason": "Veteran's story including trauma, healing, and psychedelic medicine's role in recovery.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "ff0a390e-2c71-11f1-9b31-7b7ff33a3c9f",
+   "showID": "https://feeds.megaphone.fm/SIXMSB5088139739",
+   "showTitle": "Modern Wisdom",
+   "title": "Q&A: Becoming A Dad, Health Update & Favourite Peptides - #1134",
+   "summary": "I hit 4.3 million YouTube subscribers! \n\nAs usual, I celebrated by collecting questions from across social media and answering them directly. \n\nExpect to learn my thoughts on having kids in the near future, what my time with the Night Wolf Hawk was like, a quick health update, why I keep changing my hairstyle, reflections from a one-week silent meditation retreat, and much more...\n\nSponsors:\n\nSee discounts for all the products I use and recommend: ⁠https://chriswillx.com/deals⁠\n\nGet 35% off your first subscription on the best supplements from Momentous at https://livemomentous.com/modernwisdom",
+   "audioURL": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB5143851852.mp3",
+   "published": "Sat, 08 Aug 2026 05:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/73/99/7f739968-f65e-f679-d1fd-c727118c69f0/mza_17156407142775783271.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Includes reflections on silent meditation retreat and personal growth.",
    "tradition": "Secular"
   },
   {
@@ -105,7 +118,7 @@
    "published": "Mon, 03 Aug 2026 05:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores spiritual warfare through Christian scripture and prayer practices.",
+   "reason": "Explores spiritual warfare through Christian scripture and faith practices.",
    "tradition": "Christian"
   },
   {
@@ -118,7 +131,20 @@
    "published": "Wed, 05 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/4e/30/364e308d-99c9-778e-e711-59e090408814/mza_3684559455643163671.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Practical Christian teachings on generosity and faith, touching on ethics.",
+   "reason": "Practical Christian teachings on generosity and faith from 1 Corinthians.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "1e397483-4aaa-4f23-a8ef-d556757584e1",
+   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
+   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
+   "title": "Day 220: Prophecy Fulfilled (2026)",
+   "summary": "Fr. Mike points out that the prophecy from Isaiah 61 is fulfilled by Jesus (as described in Luke 4). In Ezekiel, Fr. Mike draws our attention to the importance of the Sabbath as the sign of the covenant with God. The readings are Isaiah 61-62, Ezekiel 20, and Proverbs 13:13-16.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/1e397483-4aaa-4f23-a8ef-d556757584e1.mp3",
+   "published": "Sat, 08 Aug 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "A devotional reading linking prophecy and covenant with God, lightly touching faith and meaning.",
    "tradition": "Christian"
   },
   {
@@ -131,7 +157,7 @@
    "published": "Sat, 08 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/a0/12/46a0122e-5011-ffbd-cd2f-3c7a2d27777e/mza_6245367014521206082.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Historical narrative with some reflections on national meaning and sacrifice.",
+   "reason": "Historical narrative about the Civil War with some ethical and existential implications.",
    "tradition": "Secular"
   }
  ],
