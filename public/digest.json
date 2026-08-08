@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-08T03:40:33.675391+00:00",
+ "generatedAt": "2026-08-08T05:03:19.469451+00:00",
  "showsScanned": 400,
- "candidates": 54,
+ "candidates": 53,
  "picks": [
   {
    "id": "37c1a188-82f4-46e1-a8de-13d1fd44bc16",
@@ -14,7 +14,7 @@
    "published": "Fri, 31 Jul 2026 17:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "In-depth discussion on AI consciousness, suffering, and moral patienthood.",
+   "reason": "Deep philosophical conversation on AI consciousness, suffering, and moral patienthood.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Tue, 04 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/e3/21/0fe32103-63b9-c890-308e-e8aa3b89090b/mza_17611356982334262758.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A serious conversation on Stoicism and how it guides ethical living.",
+   "reason": "A thoughtful conversation on Stoicism's relevance to meaning and resilience today.",
    "tradition": "Stoic"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of depression and faith exploring meaning and purpose.",
+   "reason": "A personal account of depression and faith tested by suffering.",
    "tradition": "Christian"
   },
   {
@@ -53,8 +53,21 @@
    "published": "Thu, 6 Aug 2026 04:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Neuroscientist and scholar discuss flourishing and inner qualities from a contemplative perspective.",
+   "reason": "Neuroscientist and scholar discuss flourishing, consciousness, and inner qualities from a scientific and contemplative view.",
    "tradition": "Secular"
+  },
+  {
+   "id": "edefb774-f376-4e44-9be7-b4a0001e7f4d",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "Episode 303: A Tribute to NDE Researcher PMH Atwater.",
+   "summary": "Join Sandra to honor the life, legacy, and work of near-death experience research pioneer Dr. PMH Atwater. Explore her investigative protocols, her personal NDEs, and the verifiable evidence uncovered across thousands of adult and childhood NDE cases.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/edefb774-f376-4e44-9be7-b4a0001e7f4d/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Sat, 08 Aug 2026 01:55:44 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Honors near-death experience research and explores evidence about mortality and consciousness.",
+   "tradition": "Interfaith"
   },
   {
    "id": "coe22.podbean.com/9c568646-8efd-38fd-ac91-166d57fc5930",
@@ -66,34 +79,8 @@
    "published": "Mon, 03 Aug 2026 01:18:09 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores grace and salvation through a parable from the Gospels.",
+   "reason": "A serious Christian reflection on grace and entitlement through a biblical parable.",
    "tradition": "Christian"
-  },
-  {
-   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
-   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
-   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Personal Christian testimony on identity, faith, and freedom from desire.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "edefb774-f376-4e44-9be7-b4a0001e7f4d",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
-   "showTitle": "The Best of Coast to Coast AM",
-   "title": "Episode 303: A Tribute to NDE Researcher PMH Atwater.",
-   "summary": "Join Sandra to honor the life, legacy, and work of near-death experience research pioneer Dr. PMH Atwater. Explore her investigative protocols, her personal NDEs, and the verifiable evidence uncovered across thousands of adult and childhood NDE cases.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/edefb774-f376-4e44-9be7-b4a0001e7f4d/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
-   "published": "Sat, 08 Aug 2026 01:55:44 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Tribute to near-death experience researcher exploring mortality and consciousness.",
-   "tradition": "Secular"
   },
   {
    "id": "11eea34f-aa70-41e6-90ae-83e2275930ca",
@@ -105,8 +92,21 @@
    "published": "Sat, 01 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Offers encouragement grounded in scripture for those struggling with faith and doubt.",
+   "reason": "Offers encouragement rooted in Scripture for those struggling with faith and doubt.",
    "tradition": "Christian"
+  },
+  {
+   "id": "ff0a390e-2c71-11f1-9b31-7b7ff33a3c9f",
+   "showID": "https://feeds.megaphone.fm/SIXMSB5088139739",
+   "showTitle": "Modern Wisdom",
+   "title": "Q&A: Becoming A Dad, Health Update & Favourite Peptides - #1134",
+   "summary": "I hit 4.3 million YouTube subscribers! \n\nAs usual, I celebrated by collecting questions from across social media and answering them directly. \n\nExpect to learn my thoughts on having kids in the near future, what my time with the Night Wolf Hawk was like, a quick health update, why I keep changing my hairstyle, reflections from a one-week silent meditation retreat, and much more...\n\nSponsors:\n\nSee discounts for all the products I use and recommend: ⁠https://chriswillx.com/deals⁠\n\nGet 35% off your first subscription on the best supplements from Momentous at https://livemomentous.com/modernwisdom",
+   "audioURL": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB5143851852.mp3",
+   "published": "Sat, 08 Aug 2026 05:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/73/99/7f739968-f65e-f679-d1fd-c727118c69f0/mza_17156407142775783271.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Includes reflections on silent meditation retreat and life changes but mostly personal update.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -244,6 +244,7 @@
   "https://api.spreaker.com/episode/73586767": "2026-08-07",
   "https://api.spreaker.com/episode/73269435": "2026-08-07",
   "tbrdeepdive.podbean.com/cc29a702-21de-3fe5-8174-fe506ca105f8": "2026-08-07",
-  "edefb774-f376-4e44-9be7-b4a0001e7f4d": "2026-08-08"
+  "edefb774-f376-4e44-9be7-b4a0001e7f4d": "2026-08-08",
+  "ff0a390e-2c71-11f1-9b31-7b7ff33a3c9f": "2026-08-08"
  }
 }
