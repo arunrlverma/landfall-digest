@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-09T10:40:43.329065+00:00",
+ "generatedAt": "2026-08-09T11:34:39.353951+00:00",
  "showsScanned": 400,
- "candidates": 54,
+ "candidates": 53,
  "picks": [
   {
    "id": "https://api.spreaker.com/episode/73595962",
@@ -14,8 +14,21 @@
    "published": "Sat, 08 Aug 2026 11:30:05 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A deep conversation on consciousness, death, and identity after near-death experiences.",
+   "reason": "Explores consciousness, death, and identity through near-death experiences and altered states.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "https://api.spreaker.com/episode/73363182",
+   "showID": "https://www.spreaker.com/show/4858435/episodes/feed",
+   "showTitle": "Next Level Soul Podcast with Alex Ferrari",
+   "title": "Near Death, Meeting Jesus, and His Message to Her with Bridget Cook-Burch",
+   "summary": "What if everything you believed about Jesus, worthiness, and unconditional love changed in a single moment?In this profound conversation, Bridget Cook-Burch shares the extraordinary story of her near-death experience after a life-threatening illness in her early twenties. Meeting Yeshua transformed not only her understanding of God but also her understanding of herself. She reveals what she learned about unconditional love, why our deepest wounds often become our greatest purpose, and how the stories we tell ourselves shape every aspect of our lives.Together, we explore the true nature of Yesh",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73363182/nls_714.mp3",
+   "published": "Tue, 04 Aug 2026 11:30:02 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Near-death experience reshapes understanding of Jesus, love, and purpose deeply.",
+   "tradition": "Christian"
   },
   {
    "id": "2f2fbd3e-8b9a-497f-a737-8750cd55a644",
@@ -27,21 +40,8 @@
    "published": "Tue, 04 Aug 2026 17:10:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores self, consciousness, and spirituality through personal and philosophical lenses.",
+   "reason": "In-depth talk on self, consciousness, meditation, and spiritual experience.",
    "tradition": "Secular"
-  },
-  {
-   "id": "https://api.spreaker.com/episode/73276790",
-   "showID": "https://www.spreaker.com/show/4858435/episodes/feed",
-   "showTitle": "Next Level Soul Podcast with Alex Ferrari",
-   "title": "Full Disclosure: What the Ancient Texts Already Knew with Yogiraj SatGurunath Siddhanath",
-   "summary": "There comes a moment in every civilization when the old world quietly begins to dissolve, making room for something entirely new. According to renowned yogi Yogiraj SatGurunath Siddhanath, humanity is living through one of those rare moments now. In this profound conversation, he shares ancient yogic teachings on consciousness, the evolution of humanity, the mysterious year 2032, the balancing of the three gunas, extraterrestrial intelligence, higher-dimensional beings, and the spiritual transformation unfolding across our planet.Throughout this extraordinary discussion, Gurunath explores why ",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73276790/nls_713.mp3",
-   "published": "Sat, 01 Aug 2026 11:30:02 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Ancient yogic teachings on consciousness and humanity's spiritual evolution.",
-   "tradition": "Hindu"
   },
   {
    "id": "thedrjoshaxeshow.podbean.com/eb768022-ec0f-3e48-9ff8-d0a7df862df5",
@@ -53,7 +53,7 @@
    "published": "Thu, 06 Aug 2026 08:53:24 -0500",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/6f/b6/fe6fb672-7817-356e-7314-2d912dd8f3ce/mza_15885076699336077.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of faith, suffering, and transformation through worship.",
+   "reason": "Personal story of faith, recovery, and the healing power of worship.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Mon, 03 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal story of faith questioning and healing after leaving Mormonism.",
+   "reason": "Personal story of faith struggle and healing after leaving Mormonism.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Wed, 05 Aug 2026 00:00:00 -0500",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/a9/95/07a995c8-be85-bb61-28ff-736a0412cbb8/mza_17323749963932538168.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "Serious biblical discussion on sin, covenant, and relationship with God.",
+   "reason": "Serious Bible study on sin, covenant, and relationship with God.",
    "tradition": "Christian"
   },
   {
@@ -105,7 +105,7 @@
    "published": "Thu, 06 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Guides a meditation practice fostering calm and embodied awareness.",
+   "reason": "Guides a meditation on embodied awareness to calm stress and ease the mind.",
    "tradition": "Secular"
   }
  ],
@@ -220,7 +220,7 @@
   "Buzzsprout-19571882": "2026-08-07",
   "tag:soundcloud,2010:tracks/2373703811": "2026-08-07",
   "gid://art19-episode-locator/V0/SnggQb245L9IblZU_oDTQeMCM59Q_Q3Kr02B0a5MPpM": "2026-08-08",
-  "https://api.spreaker.com/episode/73363182": "2026-08-05",
+  "https://api.spreaker.com/episode/73363182": "2026-08-09",
   "0d6e9870-8a99-11f1-8804-c77d91e10c5e": "2026-08-04",
   "2f2fbd3e-8b9a-497f-a737-8750cd55a644": "2026-08-09",
   "ab7f9b32-da90-4216-936a-bf302da0c1a1": "2026-08-07",
