@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-09T08:51:32.285127+00:00",
+ "generatedAt": "2026-08-09T09:46:01.871591+00:00",
  "showsScanned": 400,
  "candidates": 53,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Sat, 08 Aug 2026 11:30:05 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Shares near-death insights on consciousness, death, and identity.",
+   "reason": "Deep conversation on consciousness, death, and identity after near-death experiences.",
    "tradition": "Interfaith"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Sat, 01 Aug 2026 11:30:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Ancient yogic teachings on consciousness and spiritual transformation.",
+   "reason": "Shares ancient yogic teachings on consciousness and spiritual transformation.",
    "tradition": "Hindu"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Tue, 04 Aug 2026 17:10:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses self, consciousness, and spiritual experience with a neuroscientist.",
+   "reason": "Explores self, consciousness, and spirituality through personal and philosophical dialogue.",
    "tradition": "Secular"
   },
   {
@@ -57,6 +57,19 @@
    "tradition": "Christian"
   },
   {
+   "id": "tbrdeepdive.podbean.com/cc29a702-21de-3fe5-8174-fe506ca105f8",
+   "showID": "https://feed.podbean.com/tbrdeepdive/feed.xml",
+   "showTitle": "The Bible Recap Deep Dive",
+   "title": "Week 31 (Days 211-217): Does God reject us because of our sin?",
+   "summary": "ON TODAY'S EPISODE:\n- What is the “everlasting covenant”?\n- Does God stop listening to us because of our sins? \n- What does it mean that God is a “jealous” God? \n- Why didn’t God protect Judah even after they repented?\n- How can I have a sensitive spirit before God?\n\nRECAP LINKS:\nDay 211 - Podcast / YouTube\nDay 212 - Podcast / YouTube\nDay 213 - Podcast / YouTube\nDay 214 - Podcast / YouTube\nDay 215 - Podcast / YouTube\nDay 216 - Podcast / YouTube\nDay 217 - Podcast / YouTube\n\nONLINE BIBLE RESOURCES:\n- Got Questions?\n- BibleProject\n- Blue Letter Bible\nNote: This is not necessarily an endorsement o",
+   "audioURL": "https://mcdn.podbean.com/mf/web/xqpczu5b8nqrf962/TBR_DeepDive_OTEp31_FCv1643mb.mp3",
+   "published": "Wed, 05 Aug 2026 00:00:00 -0500",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/a9/95/07a995c8-be85-bb61-28ff-736a0412cbb8/mza_17323749963932538168.png/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Serious biblical discussion on sin, covenant, and relationship with God.",
+   "tradition": "Christian"
+  },
+  {
    "id": "thedrjoshaxeshow.podbean.com/eb768022-ec0f-3e48-9ff8-d0a7df862df5",
    "showID": "https://feed.podbean.com/thedrjoshaxeshow/feed.xml",
    "showTitle": "The Dr. Josh Axe Show",
@@ -67,19 +80,6 @@
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/6f/b6/fe6fb672-7817-356e-7314-2d912dd8f3ce/mza_15885076699336077.png/600x600bb.jpg",
    "rating": 8,
    "reason": "Shares a personal story of faith, suffering, and transformation through worship.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "tbrdeepdive.podbean.com/cc29a702-21de-3fe5-8174-fe506ca105f8",
-   "showID": "https://feed.podbean.com/tbrdeepdive/feed.xml",
-   "showTitle": "The Bible Recap Deep Dive",
-   "title": "Week 31 (Days 211-217): Does God reject us because of our sin?",
-   "summary": "ON TODAY'S EPISODE:\n- What is the “everlasting covenant”?\n- Does God stop listening to us because of our sins? \n- What does it mean that God is a “jealous” God? \n- Why didn’t God protect Judah even after they repented?\n- How can I have a sensitive spirit before God?\n\nRECAP LINKS:\nDay 211 - Podcast / YouTube\nDay 212 - Podcast / YouTube\nDay 213 - Podcast / YouTube\nDay 214 - Podcast / YouTube\nDay 215 - Podcast / YouTube\nDay 216 - Podcast / YouTube\nDay 217 - Podcast / YouTube\n\nONLINE BIBLE RESOURCES:\n- Got Questions?\n- BibleProject\n- Blue Letter Bible\nNote: This is not necessarily an endorsement o",
-   "audioURL": "https://mcdn.podbean.com/mf/web/xqpczu5b8nqrf962/TBR_DeepDive_OTEp31_FCv1643mb.mp3",
-   "published": "Wed, 05 Aug 2026 00:00:00 -0500",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/a9/95/07a995c8-be85-bb61-28ff-736a0412cbb8/mza_17323749963932538168.png/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Serious biblical discussion on sin, covenant, and relationship with God.",
    "tradition": "Christian"
   },
   {
@@ -105,7 +105,7 @@
    "published": "Thu, 06 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Guides a meditation fostering calm awareness and embodied presence in daily life.",
+   "reason": "Guides a meditation practice fostering calm and embodied awareness.",
    "tradition": "Secular"
   },
   {
@@ -118,7 +118,7 @@
    "published": "Wed, 05 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/2c/a5/9b2ca564-1ce7-fae8-04fa-63d8e30bcdb8/mza_6685621244595433790.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Covers Christian doctrinal identity and faith expression with some theological depth.",
+   "reason": "Covers Christian denominational identity and faith expressions with some doctrinal discussion.",
    "tradition": "Christian"
   }
  ],
