@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-09T14:40:42.061319+00:00",
+ "generatedAt": "2026-08-09T15:37:54.781813+00:00",
  "showsScanned": 400,
  "candidates": 53,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Sat, 08 Aug 2026 11:30:05 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A near-death experience prompts deep reflections on consciousness and death.",
+   "reason": "Shares near-death insights on consciousness, death, and reality's nature.",
    "tradition": "Interfaith"
   },
   {
@@ -39,8 +39,8 @@
    "audioURL": "https://traffic.libsyn.com/secure/wakingup/488_MS_Neal_Brennan_paywall__intro.mp3?dest-id=480596",
    "published": "Tue, 04 Aug 2026 17:10:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Explores self, consciousness, and spirituality through personal and philosophical lenses.",
+   "rating": 8,
+   "reason": "Examines self, consciousness, and spirituality through personal and philosophical lens.",
    "tradition": "Secular"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Thu, 06 Aug 2026 08:53:24 -0500",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/6f/b6/fe6fb672-7817-356e-7314-2d912dd8f3ce/mza_15885076699336077.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares a personal story of faith, suffering, and transformation through worship.",
+   "reason": "Personal story of faith, suffering, and transformation through worship.",
    "tradition": "Christian"
   },
   {
@@ -92,7 +92,7 @@
    "published": "Thu, 06 Aug 2026 11:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e7/e5/1e/e7e51e20-7079-5ed2-23c4-ca8d587f8618/mza_17439789598537751202.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Actor discusses afterlife concepts and loving difficult people with emotional depth.",
+   "reason": "Actor discusses afterlife concepts and loving difficult people with emotional insight.",
    "tradition": "Secular"
   },
   {
@@ -107,6 +107,19 @@
    "rating": 7,
    "reason": "Guides a meditation practice fostering calm and embodied awareness.",
    "tradition": "Secular"
+  },
+  {
+   "id": "1585b8d5-4d80-4378-b95a-438462167d28",
+   "showID": "https://rss.libsyn.com/shows/40819/destinations/121777.xml",
+   "showTitle": "The Holy Post",
+   "title": "732: Mailbag! Prenups, \"Mere Christianity,\" and Did Jesus Help People Get Drunk?",
+   "summary": "The age of generic, non-denominational Christianity may be coming to an end. Phil, Skye, and Kaitlyn discuss why Christians are increasingly drawn to narrower theological identities, and whether the internet is turning legitimate doctrinal differences into purity tests and church fights. Then, the crew opens the mailbag to answer whether prenuptial agreements are compatible with Christian marriage and if praying in public is an authentic expression of faith or an uncomfortable performance. They also consider what Christians should read to better understand the end times and why Jesus supplied ",
+   "audioURL": "https://pscrb.fm/rss/p/claritaspod.com/measure/traffic.libsyn.com/secure/thephilvischerpodcast/HP732.mp3?dest-id=121777",
+   "published": "Wed, 05 Aug 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/2c/a5/9b2ca564-1ce7-fae8-04fa-63d8e30bcdb8/mza_6685621244595433790.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Covers Christian identity and faith expressions with some doctrinal discussion.",
+   "tradition": "Christian"
   }
  ],
  "history": {
