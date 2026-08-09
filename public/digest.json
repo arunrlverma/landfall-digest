@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-09T15:37:54.781813+00:00",
+ "generatedAt": "2026-08-09T16:42:40.987870+00:00",
  "showsScanned": 400,
- "candidates": 53,
+ "candidates": 56,
  "picks": [
   {
    "id": "https://api.spreaker.com/episode/73595962",
@@ -14,7 +14,7 @@
    "published": "Sat, 08 Aug 2026 11:30:05 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Shares near-death insights on consciousness, death, and reality's nature.",
+   "reason": "A deep conversation on consciousness, death, and identity after near-death experiences.",
    "tradition": "Interfaith"
   },
   {
@@ -39,9 +39,22 @@
    "audioURL": "https://traffic.libsyn.com/secure/wakingup/488_MS_Neal_Brennan_paywall__intro.mp3?dest-id=480596",
    "published": "Tue, 04 Aug 2026 17:10:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Examines self, consciousness, and spirituality through personal and philosophical lens.",
+   "rating": 9,
+   "reason": "Explores self, consciousness, meditation, and spiritual experiences deeply.",
    "tradition": "Secular"
+  },
+  {
+   "id": "aaad4641-2115-4367-adc4-5163ca3a87ab",
+   "showID": "https://anchor.fm/s/10e5a085c/podcast/rss",
+   "showTitle": "The Mark Driscoll Podcast",
+   "title": "Why Does God Allow Suffering and Evil?",
+   "summary": "How can a loving, all powerful God allow suffering and evil? Where does evil come from and why does God permit suffering?",
+   "audioURL": "https://traffic.megaphone.fm/APO1266004422.mp3",
+   "published": "Sun, 09 Aug 2026 00:00:01 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Directly addresses the problem of evil and suffering in relation to God’s nature.",
+   "tradition": "Christian"
   },
   {
    "id": "9cf057b2-280b-4796-9845-188552bfc018",
@@ -53,7 +66,20 @@
    "published": "Mon, 03 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A personal story of faith questioning and healing after leaving Mormonism.",
+   "reason": "Shares personal faith struggles and healing after leaving Mormonism, engaging doubt and belief.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "tbrdeepdive.podbean.com/cc29a702-21de-3fe5-8174-fe506ca105f8",
+   "showID": "https://feed.podbean.com/tbrdeepdive/feed.xml",
+   "showTitle": "The Bible Recap Deep Dive",
+   "title": "Week 31 (Days 211-217): Does God reject us because of our sin?",
+   "summary": "ON TODAY'S EPISODE:\n- What is the “everlasting covenant”?\n- Does God stop listening to us because of our sins? \n- What does it mean that God is a “jealous” God? \n- Why didn’t God protect Judah even after they repented?\n- How can I have a sensitive spirit before God?\n\nRECAP LINKS:\nDay 211 - Podcast / YouTube\nDay 212 - Podcast / YouTube\nDay 213 - Podcast / YouTube\nDay 214 - Podcast / YouTube\nDay 215 - Podcast / YouTube\nDay 216 - Podcast / YouTube\nDay 217 - Podcast / YouTube\n\nONLINE BIBLE RESOURCES:\n- Got Questions?\n- BibleProject\n- Blue Letter Bible\nNote: This is not necessarily an endorsement o",
+   "audioURL": "https://mcdn.podbean.com/mf/web/xqpczu5b8nqrf962/TBR_DeepDive_OTEp31_FCv1643mb.mp3",
+   "published": "Wed, 05 Aug 2026 00:00:00 -0500",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/a9/95/07a995c8-be85-bb61-28ff-736a0412cbb8/mza_17323749963932538168.png/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores God's covenant, sin, and human-divine relationship with theological depth.",
    "tradition": "Christian"
   },
   {
@@ -66,34 +92,21 @@
    "published": "Thu, 06 Aug 2026 08:53:24 -0500",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/6f/b6/fe6fb672-7817-356e-7314-2d912dd8f3ce/mza_15885076699336077.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of faith, suffering, and transformation through worship.",
+   "reason": "Personal story of faith, despair, and healing through worship and prayer.",
    "tradition": "Christian"
   },
   {
-   "id": "tbrdeepdive.podbean.com/cc29a702-21de-3fe5-8174-fe506ca105f8",
-   "showID": "https://feed.podbean.com/tbrdeepdive/feed.xml",
-   "showTitle": "The Bible Recap Deep Dive",
-   "title": "Week 31 (Days 211-217): Does God reject us because of our sin?",
-   "summary": "ON TODAY'S EPISODE:\n- What is the “everlasting covenant”?\n- Does God stop listening to us because of our sins? \n- What does it mean that God is a “jealous” God? \n- Why didn’t God protect Judah even after they repented?\n- How can I have a sensitive spirit before God?\n\nRECAP LINKS:\nDay 211 - Podcast / YouTube\nDay 212 - Podcast / YouTube\nDay 213 - Podcast / YouTube\nDay 214 - Podcast / YouTube\nDay 215 - Podcast / YouTube\nDay 216 - Podcast / YouTube\nDay 217 - Podcast / YouTube\n\nONLINE BIBLE RESOURCES:\n- Got Questions?\n- BibleProject\n- Blue Letter Bible\nNote: This is not necessarily an endorsement o",
-   "audioURL": "https://mcdn.podbean.com/mf/web/xqpczu5b8nqrf962/TBR_DeepDive_OTEp31_FCv1643mb.mp3",
-   "published": "Wed, 05 Aug 2026 00:00:00 -0500",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/a9/95/07a995c8-be85-bb61-28ff-736a0412cbb8/mza_17323749963932538168.png/600x600bb.jpg",
+   "id": "unshaken.podbean.com/b96f5b2e-dab0-37eb-91d3-b0614b8598e6",
+   "showID": "https://feed.podbean.com/unshaken/feed.xml",
+   "showTitle": "Unshaken Saints",
+   "title": "The Book of Esther - \"For Such a Time as This\"",
+   "summary": "The Book of Esther never once mentions the name of God—yet His fingerprints are on every page. If you are currently living in enemy territory, wondering if the Lord has forgotten you or if your faith is entirely outnumbered by modern Babylon, this visual and scriptural masterclass reveals exactly why you were held back for such a time as this.\nSummary: In this powerful and comforting episode, we explore the vibrant, high-stakes narrative of the Book of Esther. Operating as the female equivalent of Joseph in Egypt and Daniel in Babylon, Esther’s journey provides an exquisite template for how th",
+   "audioURL": "https://mcdn.podbean.com/mf/web/vvzyakgxqd2c9wkx/Esther_full_audio_enhanced70flx.mp3",
+   "published": "Sat, 08 Aug 2026 21:37:14 -0600",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Serious biblical discussion on sin, covenant, and relationship with God.",
+   "reason": "Examines the Book of Esther's themes of faith and divine purpose without explicit God naming.",
    "tradition": "Christian"
-  },
-  {
-   "id": "688e8cc5-2f30-4276-ade9-5d6996c5f806",
-   "showID": "https://feeds.npr.org/510379/podcast.xml",
-   "showTitle": "Wild Card with Rachel Martin",
-   "title": "Brett Goldstein (Encore)",
-   "summary": "Don't be fooled by Brett Goldstein's grumpy exterior – he can't resist a big, open-hearted story. You see it in the TV shows he's acted in and helped create, \"Ted Lasso\" and \"Shrinking.\" He's about to release a new HBO standup special called \"The Second Best Night of Your Life.\" He spoke with Rachel about what Pixar knows about the afterlife and about finding ways to love annoying people.  Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our c",
-   "audioURL": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510379/npr.simplecastaudio.com/e04f4aa5-18c2-416c-93c9-7a10d525bcbf/episodes/106b8e2e-3f47-4598-91e7-bf7b7f5913ff/audio/128/default.mp3?awCollectionId=e04f4aa5-18c2-416c-93c9-7a10d525bcbf&amp;awEpisodeId=106b8e2e-3f47-4598-91e7-bf7b7f5913ff&amp;feed=9OE3hPI5&amp;t=podcast&amp;e=nx-s1-5915110&amp;p=510379&amp;d=2236&amp;size=35781530",
-   "published": "Thu, 06 Aug 2026 11:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e7/e5/1e/e7e51e20-7079-5ed2-23c4-ca8d587f8618/mza_17439789598537751202.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Actor discusses afterlife concepts and loving difficult people with emotional insight.",
-   "tradition": "Secular"
   },
   {
    "id": "prx_192_b2d17d79-85c3-4473-9e4d-aa46cb5dad55",
@@ -105,21 +118,60 @@
    "published": "Thu, 06 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Guides a meditation practice fostering calm and embodied awareness.",
-   "tradition": "Secular"
+   "reason": "Guided meditation on embodied awareness to manage stress and calm the mind.",
+   "tradition": "Buddhist"
   },
   {
-   "id": "1585b8d5-4d80-4378-b95a-438462167d28",
-   "showID": "https://rss.libsyn.com/shows/40819/destinations/121777.xml",
-   "showTitle": "The Holy Post",
-   "title": "732: Mailbag! Prenups, \"Mere Christianity,\" and Did Jesus Help People Get Drunk?",
-   "summary": "The age of generic, non-denominational Christianity may be coming to an end. Phil, Skye, and Kaitlyn discuss why Christians are increasingly drawn to narrower theological identities, and whether the internet is turning legitimate doctrinal differences into purity tests and church fights. Then, the crew opens the mailbag to answer whether prenuptial agreements are compatible with Christian marriage and if praying in public is an authentic expression of faith or an uncomfortable performance. They also consider what Christians should read to better understand the end times and why Jesus supplied ",
-   "audioURL": "https://pscrb.fm/rss/p/claritaspod.com/measure/traffic.libsyn.com/secure/thephilvischerpodcast/HP732.mp3?dest-id=121777",
-   "published": "Wed, 05 Aug 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/2c/a5/9b2ca564-1ce7-fae8-04fa-63d8e30bcdb8/mza_6685621244595433790.jpg/600x600bb.jpg",
+   "id": "podcast699.podbean.com/812cbec9-2a12-33d7-977b-ff76ad88b29f",
+   "showID": "https://feed.podbean.com/podcast699/feed.xml",
+   "showTitle": "FARM STEW International",
+   "title": "The Weekly Cycle and the Sabbath: Understanding the Biblical Sabbath",
+   "summary": "The Weekly Cycle and the Sabbath: Understanding the Biblical Sabbath | Farm Stew International Podcast\nWhat is the biblical Sabbath, and how does it fit into the weekly cycle established in Scripture? In this episode of the Farm Stew International Podcast, we take a closer look at the weekly cycle and the significance of the Sabbath, exploring its biblical foundations, meaning, and relevance.\nThe weekly cycle is a fundamental pattern of time found throughout the biblical narrative. At the center of that cycle is the Sabbath—a day set apart for rest, reflection, worship, and a renewed focus on ",
+   "audioURL": "https://mcdn.podbean.com/mf/web/hxfdyzmi3s6pjm35/FL4_The_Weekly_Cycle_and_the_Sabbath9x7xq.m4a",
+   "published": "Sun, 09 Aug 2026 12:14:38 -0300",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/93/e7/f3/93e7f330-4f87-71f5-5655-85f1a48e59db/mza_13987966009511077060.png/600x600bb.jpg",
    "rating": 6,
-   "reason": "Covers Christian identity and faith expressions with some doctrinal discussion.",
+   "reason": "Examines the biblical Sabbath and its ethical and spiritual significance.",
    "tradition": "Christian"
+  },
+  {
+   "id": "ae99f5f8-d879-4f8a-9a09-7d4859da5d00",
+   "showID": "https://anchor.fm/s/10e5a085c/podcast/rss",
+   "showTitle": "The Mark Driscoll Podcast",
+   "title": "Why You Might Not Be Going To Heaven",
+   "summary": "Most people assume they’re going to heaven, but Jesus gave serious warnings that challenge that confidence. This sermon reveals what the Bible says about salvation and the one decision that determines where you’ll spend eternity.",
+   "audioURL": "https://traffic.megaphone.fm/APO1549942659.mp3",
+   "published": "Sun, 02 Aug 2026 00:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Christian sermon on salvation and eternal destiny.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "podcast699.podbean.com/69f62d87-55e9-31f8-a875-e63f44af15c3",
+   "showID": "https://feed.podbean.com/podcast699/feed.xml",
+   "showTitle": "FARM STEW International",
+   "title": "From Fear to Cheer: Finding Hope, Faith & Joy",
+   "summary": "Fear can affect every area of life—from our health and relationships to our work, decision-making, and sense of purpose. In this inspiring episode of the Farm STEW International Podcast, we explore how faith, hope, and practical daily habits can help transform fear into courage, peace, and lasting joy.\nLife is filled with uncertainty, but we don't have to be controlled by anxiety or discouragement. This episode shares timeless biblical principles, encouraging stories, and practical insights that help individuals and families replace fear with confidence and discover hope even in difficult circ",
+   "audioURL": "https://mcdn.podbean.com/mf/web/nsivcdtbc47shw8d/FL3_From_Fear_to_Cheerbarib.m4a",
+   "published": "Fri, 07 Aug 2026 16:58:12 -0300",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/93/e7/f3/93e7f330-4f87-71f5-5655-85f1a48e59db/mza_13987966009511077060.png/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Offers biblical principles to overcome fear, touching on faith and hope but mostly practical.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "688e8cc5-2f30-4276-ade9-5d6996c5f806",
+   "showID": "https://feeds.npr.org/510379/podcast.xml",
+   "showTitle": "Wild Card with Rachel Martin",
+   "title": "Brett Goldstein (Encore)",
+   "summary": "Don't be fooled by Brett Goldstein's grumpy exterior – he can't resist a big, open-hearted story. You see it in the TV shows he's acted in and helped create, \"Ted Lasso\" and \"Shrinking.\" He's about to release a new HBO standup special called \"The Second Best Night of Your Life.\" He spoke with Rachel about what Pixar knows about the afterlife and about finding ways to love annoying people.  Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our c",
+   "audioURL": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510379/npr.simplecastaudio.com/e04f4aa5-18c2-416c-93c9-7a10d525bcbf/episodes/106b8e2e-3f47-4598-91e7-bf7b7f5913ff/audio/128/default.mp3?awCollectionId=e04f4aa5-18c2-416c-93c9-7a10d525bcbf&amp;awEpisodeId=106b8e2e-3f47-4598-91e7-bf7b7f5913ff&amp;feed=9OE3hPI5&amp;t=podcast&amp;e=nx-s1-5915110&amp;p=510379&amp;d=2236&amp;size=35781530",
+   "published": "Thu, 06 Aug 2026 11:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e7/e5/1e/e7e51e20-7079-5ed2-23c4-ca8d587f8618/mza_17439789598537751202.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Actor discusses afterlife and human connection with some philosophical insight.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -217,7 +269,7 @@
   "306209e9-90fa-488e-955e-601db048f116": "2026-08-01",
   "27eccf5a-8c65-11f1-87b0-87a771ddd09d": "2026-08-04",
   "gid://art19-episode-locator/V0/sKP6QY61ONTVFd3EEE5ufNhUP3SJfUNVhXEeL00mz80": "2026-08-07",
-  "ae99f5f8-d879-4f8a-9a09-7d4859da5d00": "2026-08-04",
+  "ae99f5f8-d879-4f8a-9a09-7d4859da5d00": "2026-08-09",
   "e95a4e89-3664-4284-a0dd-587206b3e9cb": "2026-08-02",
   "tag:soundcloud,2010:tracks/2369415089": "2026-08-02",
   "urn:bbc:podcast:w3ct8kcr": "2026-08-02",
@@ -267,6 +319,10 @@
   "a464ce82-8c94-11f1-9241-2b4c9067e0c7": "2026-08-08",
   "https://www.ldsscriptureteachings.org/?p=34046": "2026-08-08",
   "e0c54dec66db0f52b4afd42f8c5cbfdf": "2026-08-08",
-  "https://api.spreaker.com/episode/73595962": "2026-08-09"
+  "https://api.spreaker.com/episode/73595962": "2026-08-09",
+  "aaad4641-2115-4367-adc4-5163ca3a87ab": "2026-08-09",
+  "unshaken.podbean.com/b96f5b2e-dab0-37eb-91d3-b0614b8598e6": "2026-08-09",
+  "podcast699.podbean.com/812cbec9-2a12-33d7-977b-ff76ad88b29f": "2026-08-09",
+  "podcast699.podbean.com/69f62d87-55e9-31f8-a875-e63f44af15c3": "2026-08-09"
  }
 }
