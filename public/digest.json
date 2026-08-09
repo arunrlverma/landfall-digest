@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-09T21:38:48.090680+00:00",
+ "generatedAt": "2026-08-09T22:37:04.216945+00:00",
  "showsScanned": 400,
- "candidates": 55,
+ "candidates": 56,
  "picks": [
   {
    "id": "https://api.spreaker.com/episode/73595962",
@@ -14,7 +14,7 @@
    "published": "Sat, 08 Aug 2026 11:30:05 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Shares near-death insights on consciousness, death, and identity beyond religious labels.",
+   "reason": "Shares near-death insights on consciousness, death, and identity.",
    "tradition": "Interfaith"
   },
   {
@@ -27,21 +27,8 @@
    "published": "Tue, 04 Aug 2026 11:30:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Near-death experience reshapes understanding of love, worthiness, and purpose deeply.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "2f2fbd3e-8b9a-497f-a737-8750cd55a644",
-   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
-   "showTitle": "Making Sense with Sam Harris",
-   "title": "#488 — Ego, Ecstasy, and Equanimity",
-   "summary": "Sam Harris speaks with Neal Brennan about the experiences that shaped his life and work. They discuss Sam's mother's television career, growing up with an absent father, his struggles with perfectionism, his first experience with MDMA, dropping out of Stanford, meditation retreats, spiritual charisma and claims of psychic powers, the illusion of self, the limits of pacifism, deleting Twitter, Trump and the politics of shamelessness, hypocrisy and vice signaling, the future of American democracy, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to ga",
-   "audioURL": "https://traffic.libsyn.com/secure/wakingup/488_MS_Neal_Brennan_paywall__intro.mp3?dest-id=480596",
-   "published": "Tue, 04 Aug 2026 17:10:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Explores self, consciousness, meditation, and ethics in a secular philosophical context.",
-   "tradition": "Secular"
+   "reason": "Near-death experience reshapes understanding of love, faith, and purpose.",
+   "tradition": "Christian"
   },
   {
    "id": "aaad4641-2115-4367-adc4-5163ca3a87ab",
@@ -53,7 +40,33 @@
    "published": "Sun, 09 Aug 2026 00:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Serious discussion on the problem of evil and suffering in relation to God’s nature.",
+   "reason": "Serious discussion on the problem of evil and suffering in relation to God.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "2f2fbd3e-8b9a-497f-a737-8750cd55a644",
+   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
+   "showTitle": "Making Sense with Sam Harris",
+   "title": "#488 — Ego, Ecstasy, and Equanimity",
+   "summary": "Sam Harris speaks with Neal Brennan about the experiences that shaped his life and work. They discuss Sam's mother's television career, growing up with an absent father, his struggles with perfectionism, his first experience with MDMA, dropping out of Stanford, meditation retreats, spiritual charisma and claims of psychic powers, the illusion of self, the limits of pacifism, deleting Twitter, Trump and the politics of shamelessness, hypocrisy and vice signaling, the future of American democracy, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to ga",
+   "audioURL": "https://traffic.libsyn.com/secure/wakingup/488_MS_Neal_Brennan_paywall__intro.mp3?dest-id=480596",
+   "published": "Tue, 04 Aug 2026 17:10:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores self, consciousness, and spirituality through meditation and psychedelics.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "coe22.podbean.com/d9f00deb-07c1-36ae-8d8b-39f5794a991b",
+   "showID": "https://feed.podbean.com/coe22/feed.xml",
+   "showTitle": "The Church of Eleven22",
+   "title": "How To Be Great - Religion to Redemption - Matthew S6E1",
+   "summary": "What does it really mean to be great in the Kingdom of God?\nIn Matthew 20, Jesus completely redefines greatness. While the world measures success by position, possessions and power, Jesus shows us a different way. True greatness begins by bending our knee to Him, enduring pain with perseverance, living under godly authority and humbling ourselves to serve others.\nThis message challenges us to examine what is truly first in our lives and reminds us that proximity to Jesus, not what we produce, determines Kingdom success. Following Jesus does not promise a life of comfort, but He faithfully walk",
+   "audioURL": "https://mcdn.podbean.com/mf/web/ub24v53wwthcc99t/20260806_722p_117cvnm.mp3",
+   "published": "Sun, 09 Aug 2026 22:29:45 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores Jesus' redefinition of greatness and humility in the Kingdom of God.",
    "tradition": "Christian"
   },
   {
@@ -66,20 +79,7 @@
    "published": "Mon, 03 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares personal faith struggles and healing after leaving Mormonism, exploring doubt and belief.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "tbrdeepdive.podbean.com/cc29a702-21de-3fe5-8174-fe506ca105f8",
-   "showID": "https://feed.podbean.com/tbrdeepdive/feed.xml",
-   "showTitle": "The Bible Recap Deep Dive",
-   "title": "Week 31 (Days 211-217): Does God reject us because of our sin?",
-   "summary": "ON TODAY'S EPISODE:\n- What is the “everlasting covenant”?\n- Does God stop listening to us because of our sins? \n- What does it mean that God is a “jealous” God? \n- Why didn’t God protect Judah even after they repented?\n- How can I have a sensitive spirit before God?\n\nRECAP LINKS:\nDay 211 - Podcast / YouTube\nDay 212 - Podcast / YouTube\nDay 213 - Podcast / YouTube\nDay 214 - Podcast / YouTube\nDay 215 - Podcast / YouTube\nDay 216 - Podcast / YouTube\nDay 217 - Podcast / YouTube\n\nONLINE BIBLE RESOURCES:\n- Got Questions?\n- BibleProject\n- Blue Letter Bible\nNote: This is not necessarily an endorsement o",
-   "audioURL": "https://mcdn.podbean.com/mf/web/xqpczu5b8nqrf962/TBR_DeepDive_OTEp31_FCv1643mb.mp3",
-   "published": "Wed, 05 Aug 2026 00:00:00 -0500",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/a9/95/07a995c8-be85-bb61-28ff-736a0412cbb8/mza_17323749963932538168.png/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores God's covenant, sin, and divine justice with thoughtful theological reflection.",
+   "reason": "Personal story of faith challenges and healing after leaving Mormonism.",
    "tradition": "Christian"
   },
   {
@@ -92,7 +92,7 @@
    "published": "Thu, 06 Aug 2026 08:53:24 -0500",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/6f/b6/fe6fb672-7817-356e-7314-2d912dd8f3ce/mza_15885076699336077.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of faith, despair, and healing through worship and prayer.",
+   "reason": "Personal story of faith, recovery, and worship addressing suffering and transformation.",
    "tradition": "Christian"
   },
   {
@@ -105,8 +105,34 @@
    "published": "Sat, 08 Aug 2026 21:37:14 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores faith and divine providence in adversity through the Book of Esther narrative.",
+   "reason": "Examines the Book of Esther's themes of faith and divine providence.",
    "tradition": "Jewish"
+  },
+  {
+   "id": "podcast699.podbean.com/69f62d87-55e9-31f8-a875-e63f44af15c3",
+   "showID": "https://feed.podbean.com/podcast699/feed.xml",
+   "showTitle": "FARM STEW International",
+   "title": "From Fear to Cheer: Finding Hope, Faith & Joy",
+   "summary": "Fear can affect every area of life—from our health and relationships to our work, decision-making, and sense of purpose. In this inspiring episode of the Farm STEW International Podcast, we explore how faith, hope, and practical daily habits can help transform fear into courage, peace, and lasting joy.\nLife is filled with uncertainty, but we don't have to be controlled by anxiety or discouragement. This episode shares timeless biblical principles, encouraging stories, and practical insights that help individuals and families replace fear with confidence and discover hope even in difficult circ",
+   "audioURL": "https://mcdn.podbean.com/mf/web/nsivcdtbc47shw8d/FL3_From_Fear_to_Cheerbarib.m4a",
+   "published": "Fri, 07 Aug 2026 16:58:12 -0300",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/93/e7/f3/93e7f330-4f87-71f5-5655-85f1a48e59db/mza_13987966009511077060.png/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discusses overcoming fear through faith, hope, and practical habits.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "tbrdeepdive.podbean.com/cc29a702-21de-3fe5-8174-fe506ca105f8",
+   "showID": "https://feed.podbean.com/tbrdeepdive/feed.xml",
+   "showTitle": "The Bible Recap Deep Dive",
+   "title": "Week 31 (Days 211-217): Does God reject us because of our sin?",
+   "summary": "ON TODAY'S EPISODE:\n- What is the “everlasting covenant”?\n- Does God stop listening to us because of our sins? \n- What does it mean that God is a “jealous” God? \n- Why didn’t God protect Judah even after they repented?\n- How can I have a sensitive spirit before God?\n\nRECAP LINKS:\nDay 211 - Podcast / YouTube\nDay 212 - Podcast / YouTube\nDay 213 - Podcast / YouTube\nDay 214 - Podcast / YouTube\nDay 215 - Podcast / YouTube\nDay 216 - Podcast / YouTube\nDay 217 - Podcast / YouTube\n\nONLINE BIBLE RESOURCES:\n- Got Questions?\n- BibleProject\n- Blue Letter Bible\nNote: This is not necessarily an endorsement o",
+   "audioURL": "https://mcdn.podbean.com/mf/web/xqpczu5b8nqrf962/TBR_DeepDive_OTEp31_FCv1643mb.mp3",
+   "published": "Wed, 05 Aug 2026 00:00:00 -0500",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/a9/95/07a995c8-be85-bb61-28ff-736a0412cbb8/mza_17323749963932538168.png/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Engages with God's nature, sin, and covenant, addressing faith and doubt seriously.",
+   "tradition": "Christian"
   },
   {
    "id": "688e8cc5-2f30-4276-ade9-5d6996c5f806",
@@ -118,7 +144,7 @@
    "published": "Thu, 06 Aug 2026 11:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e7/e5/1e/e7e51e20-7079-5ed2-23c4-ca8d587f8618/mza_17439789598537751202.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discussion on afterlife and human connection through storytelling.",
+   "reason": "Conversation about afterlife and loving difficult people, touching on meaning and mortality.",
    "tradition": "Secular"
   },
   {
@@ -131,8 +157,21 @@
    "published": "Thu, 06 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Guided meditation on embodied awareness to calm stress and cultivate presence.",
+   "reason": "Guided meditation on embodied awareness supporting calm and presence.",
    "tradition": "Secular"
+  },
+  {
+   "id": "1585b8d5-4d80-4378-b95a-438462167d28",
+   "showID": "https://rss.libsyn.com/shows/40819/destinations/121777.xml",
+   "showTitle": "The Holy Post",
+   "title": "732: Mailbag! Prenups, \"Mere Christianity,\" and Did Jesus Help People Get Drunk?",
+   "summary": "The age of generic, non-denominational Christianity may be coming to an end. Phil, Skye, and Kaitlyn discuss why Christians are increasingly drawn to narrower theological identities, and whether the internet is turning legitimate doctrinal differences into purity tests and church fights. Then, the crew opens the mailbag to answer whether prenuptial agreements are compatible with Christian marriage and if praying in public is an authentic expression of faith or an uncomfortable performance. They also consider what Christians should read to better understand the end times and why Jesus supplied ",
+   "audioURL": "https://pscrb.fm/rss/p/claritaspod.com/measure/traffic.libsyn.com/secure/thephilvischerpodcast/HP732.mp3?dest-id=121777",
+   "published": "Wed, 05 Aug 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/2c/a5/9b2ca564-1ce7-fae8-04fa-63d8e30bcdb8/mza_6685621244595433790.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Covers Christian identity and faith expression with some doctrinal discussion.",
+   "tradition": "Christian"
   },
   {
    "id": "podcast699.podbean.com/812cbec9-2a12-33d7-977b-ff76ad88b29f",
@@ -144,7 +183,7 @@
    "published": "Sun, 09 Aug 2026 12:14:38 -0300",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/93/e7/f3/93e7f330-4f87-71f5-5655-85f1a48e59db/mza_13987966009511077060.png/600x600bb.jpg",
    "rating": 6,
-   "reason": "Examines the biblical Sabbath's meaning and weekly cycle with ethical and spiritual implications.",
+   "reason": "Examines Sabbath's biblical meaning and its ethical significance.",
    "tradition": "Christian"
   },
   {
@@ -157,34 +196,8 @@
    "published": "Sun, 02 Aug 2026 00:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Addresses salvation and afterlife warnings from a Christian perspective.",
+   "reason": "Discusses salvation and afterlife warnings from a Christian perspective.",
    "tradition": "Christian"
-  },
-  {
-   "id": "podcast699.podbean.com/69f62d87-55e9-31f8-a875-e63f44af15c3",
-   "showID": "https://feed.podbean.com/podcast699/feed.xml",
-   "showTitle": "FARM STEW International",
-   "title": "From Fear to Cheer: Finding Hope, Faith & Joy",
-   "summary": "Fear can affect every area of life—from our health and relationships to our work, decision-making, and sense of purpose. In this inspiring episode of the Farm STEW International Podcast, we explore how faith, hope, and practical daily habits can help transform fear into courage, peace, and lasting joy.\nLife is filled with uncertainty, but we don't have to be controlled by anxiety or discouragement. This episode shares timeless biblical principles, encouraging stories, and practical insights that help individuals and families replace fear with confidence and discover hope even in difficult circ",
-   "audioURL": "https://mcdn.podbean.com/mf/web/nsivcdtbc47shw8d/FL3_From_Fear_to_Cheerbarib.m4a",
-   "published": "Fri, 07 Aug 2026 16:58:12 -0300",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/93/e7/f3/93e7f330-4f87-71f5-5655-85f1a48e59db/mza_13987966009511077060.png/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Offers biblical principles to overcome fear, but focuses on practical encouragement.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "https://api.spreaker.com/episode/73216028",
-   "showID": "https://www.spreaker.com/show/3395068/episodes/feed",
-   "showTitle": "UFO Chronicles Podcast",
-   "title": "Ep.397 The Hudson Valley Encounters",
-   "summary": "Jay has witnessed strange phenomena throughout his life in New York’s Hudson Valley, beginning with a cylindrical craft above the trees during childhood and a blue light that flooded his family home years later. His story also includes a near-death encounter with a vast golden light, unexplained voices, geometric symbols, a shadowy grey figure and glowing objects that appeared to respond to his thoughts. More recently, his wife claims to be communicating telepathically with a mantis-like entity known as Stella.More information on this episode on the podcast website:https://ufochroniclespodcast",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73216028/ep_397_the_hudson_valley_encounters.mp3",
-   "published": "Sun, 02 Aug 2026 01:00:02 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/22/72/33/227233bf-0e7b-4d2a-d2bd-402d810dea89/mza_17727488661588768146.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Personal UFO and near-death experiences touching on consciousness and mystery.",
-   "tradition": "Interfaith"
   }
  ],
  "history": {
@@ -336,6 +349,7 @@
   "aaad4641-2115-4367-adc4-5163ca3a87ab": "2026-08-09",
   "unshaken.podbean.com/b96f5b2e-dab0-37eb-91d3-b0614b8598e6": "2026-08-09",
   "podcast699.podbean.com/812cbec9-2a12-33d7-977b-ff76ad88b29f": "2026-08-09",
-  "podcast699.podbean.com/69f62d87-55e9-31f8-a875-e63f44af15c3": "2026-08-09"
+  "podcast699.podbean.com/69f62d87-55e9-31f8-a875-e63f44af15c3": "2026-08-09",
+  "coe22.podbean.com/d9f00deb-07c1-36ae-8d8b-39f5794a991b": "2026-08-09"
  }
 }
