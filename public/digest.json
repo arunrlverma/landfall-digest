@@ -1,22 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-08-10T22:43:27.090527+00:00",
+ "generatedAt": "2026-08-10T23:40:54.691711+00:00",
  "showsScanned": 400,
  "candidates": 54,
  "picks": [
-  {
-   "id": "edefb774-f376-4e44-9be7-b4a0001e7f4d",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
-   "showTitle": "The Best of Coast to Coast AM",
-   "title": "Episode 303: A Tribute to NDE Researcher PMH Atwater.",
-   "summary": "Join Sandra to honor the life, legacy, and work of near-death experience research pioneer Dr. PMH Atwater. Explore her investigative protocols, her personal NDEs, and the verifiable evidence uncovered across thousands of adult and childhood NDE cases.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/edefb774-f376-4e44-9be7-b4a0001e7f4d/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
-   "published": "Sat, 08 Aug 2026 01:55:44 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "In-depth tribute to near-death experience research exploring mortality and consciousness.",
-   "tradition": "Secular"
-  },
   {
    "id": "gid://art19-episode-locator/V0/SnggQb245L9IblZU_oDTQeMCM59Q_Q3Kr02B0a5MPpM",
    "showID": "https://rss.art19.com/the-oprah-podcast",
@@ -27,7 +14,7 @@
    "published": "Tue, 04 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/e3/21/0fe32103-63b9-c890-308e-e8aa3b89090b/mza_17611356982334262758.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Serious discussion on Stoicism's relevance to meaning, resilience, and purpose.",
+   "reason": "Serious discussion on Stoicism's relevance to meaning, resilience, and ethical living.",
    "tradition": "Stoic"
   },
   {
@@ -40,7 +27,7 @@
    "published": "Thu, 06 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A deep conversation on Job's suffering, faith, and how to support the suffering.",
+   "reason": "In-depth conversation on Job's suffering, faith, and how to engage with pain.",
    "tradition": "Christian"
   },
   {
@@ -53,8 +40,21 @@
    "published": "Thu, 6 Aug 2026 04:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Neuroscientist and scholar discuss flourishing, consciousness, and inner qualities.",
+   "reason": "Neuroscientist and scholar discuss flourishing, inner qualities, and human potential.",
    "tradition": "Secular"
+  },
+  {
+   "id": "edefb774-f376-4e44-9be7-b4a0001e7f4d",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "Episode 303: A Tribute to NDE Researcher PMH Atwater.",
+   "summary": "Join Sandra to honor the life, legacy, and work of near-death experience research pioneer Dr. PMH Atwater. Explore her investigative protocols, her personal NDEs, and the verifiable evidence uncovered across thousands of adult and childhood NDE cases.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/edefb774-f376-4e44-9be7-b4a0001e7f4d/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Sat, 08 Aug 2026 01:55:44 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Honors a near-death experience researcher, exploring mortality and consciousness seriously.",
+   "tradition": "Interfaith"
   },
   {
    "id": "coe22.podbean.com/9c568646-8efd-38fd-ac91-166d57fc5930",
@@ -66,7 +66,7 @@
    "published": "Mon, 03 Aug 2026 01:18:09 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses grace and salvation as gifts, challenging entitlement in faith.",
+   "reason": "Explores grace and salvation through Jesus' parable, challenging entitlement in faith.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Thu, 06 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal story of forgiveness, guilt, and spiritual growth.",
+   "reason": "Personal story on forgiveness, guilt, and spiritual growth beyond past trauma.",
    "tradition": "Interfaith"
   },
   {
@@ -92,7 +92,7 @@
    "published": "Mon, 10 Aug 2026 12:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/dc/69/bedc6946-5cd6-2637-724a-912da9dafafb/mza_15530052631320977267.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Recovery story emphasizing spiritual growth beyond addiction.",
+   "reason": "Narrative of addiction recovery as spiritual growth and personal transformation.",
    "tradition": "Interfaith"
   },
   {
@@ -105,7 +105,7 @@
    "published": "Mon, 10 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Candid conversation about faith struggles, doubt, and church hurt from a Christian artist.",
+   "reason": "Personal story of faith struggle and recovery after church hurt.",
    "tradition": "Christian"
   },
   {
@@ -118,7 +118,7 @@
    "published": "Mon, 10 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal story of tragedy and recovery with reflections on love and peace.",
+   "reason": "Shares a personal story of tragedy, addiction, and recovery with reflections on suffering and resilience.",
    "tradition": "Secular"
   },
   {
@@ -131,7 +131,7 @@
    "published": "Mon, 10 Aug 2026 04:05:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses manifestation and consciousness from a psychological perspective.",
+   "reason": "Discusses psychological science of manifestation and consciousness.",
    "tradition": "Secular"
   },
   {
@@ -144,8 +144,21 @@
    "published": "Sat, 08 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Scriptural reflections linking prophecy and covenant, with spiritual insights.",
+   "reason": "Connects biblical prophecy to Jesus with some theological reflection.",
    "tradition": "Christian"
+  },
+  {
+   "id": "91888614-8ec4-11f1-8706-f70f5dcd72b5",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "Dr Joe Dispenza: The Formula For Transforming Your Life",
+   "summary": "What if your greatest limitation is simply what you believe is possible? After witnessing thousands of people transform their lives in ways that continue to challenge conventional thinking, Dr Joe Dispenza believes we're capable of far more than we've been taught to believe. In this episode, Jay Shetty sits down with Dr Joe to explore how our thoughts, emotions, and habits shape our reality, why so many of us stay trapped in familiar patterns, and what it takes to create lasting change. Together, they unpack the science of meditation, the power of intention, and how changing your inner world m",
+   "audioURL": "https://traffic.megaphone.fm/GLT2067777931.mp3",
+   "published": "Mon, 03 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses transformation and belief with some focus on consciousness and change, less on faith or mortality.",
+   "tradition": "Secular"
   }
  ],
  "history": {
