@@ -1,9 +1,22 @@
 {
  "version": 1,
- "generatedAt": "2026-08-10T19:07:50.903609+00:00",
+ "generatedAt": "2026-08-10T20:50:54.411932+00:00",
  "showsScanned": 400,
- "candidates": 60,
+ "candidates": 55,
  "picks": [
+  {
+   "id": "edefb774-f376-4e44-9be7-b4a0001e7f4d",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "Episode 303: A Tribute to NDE Researcher PMH Atwater.",
+   "summary": "Join Sandra to honor the life, legacy, and work of near-death experience research pioneer Dr. PMH Atwater. Explore her investigative protocols, her personal NDEs, and the verifiable evidence uncovered across thousands of adult and childhood NDE cases.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/edefb774-f376-4e44-9be7-b4a0001e7f4d/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Sat, 08 Aug 2026 01:55:44 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Honors a near-death experience researcher and explores verifiable evidence on mortality.",
+   "tradition": "Interfaith"
+  },
   {
    "id": "gid://art19-episode-locator/V0/SnggQb245L9IblZU_oDTQeMCM59Q_Q3Kr02B0a5MPpM",
    "showID": "https://rss.art19.com/the-oprah-podcast",
@@ -14,7 +27,7 @@
    "published": "Tue, 04 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/e3/21/0fe32103-63b9-c890-308e-e8aa3b89090b/mza_17611356982334262758.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Serious discussion on Stoicism's relevance to meaning, resilience, and purpose in life.",
+   "reason": "Serious discussion on Stoicism's relevance for meaning, resilience, and ethical living.",
    "tradition": "Stoic"
   },
   {
@@ -27,7 +40,7 @@
    "published": "Sun, 02 Aug 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal testimony on faith, identity, and freedom from same-sex attraction.",
+   "reason": "Personal story of faith, identity, and freedom from same-sex attraction in Christian context.",
    "tradition": "Christian"
   },
   {
@@ -40,34 +53,8 @@
    "published": "Thu, 06 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores Job's suffering, faith, and complaint, offering a serious reflection on suffering and doubt.",
-   "tradition": "Jewish"
-  },
-  {
-   "id": "785a02bc-a89a-4e4a-b0fd-2ac3958e7941",
-   "showID": "https://feeds.simplecast.com/XYHE1JPs",
-   "showTitle": "Passion Struck with John R. Miles",
-   "title": "You Were Born to Flourish. Here's the Science That Proves It. | Dr. Richard Davidson & Dr. Cortland Dahl – EP 803",
-   "summary": "What if you've spent your whole life believing you needed to become someone different—when the qualities you need have been inside you all along?\nMost of us think flourishing is something we earn after we've accomplished enough, healed enough, or finally have everything figured out.\nBut what if science says otherwise?\nIn this episode of Passion Struck, John R. Miles sits down with pioneering neuroscientist Dr. Richard Davidson and contemplative scholar Court Dahl to explore the groundbreaking science behind their new book, Born to Flourish. Drawing on decades of neuroscience research, contempl",
-   "audioURL": "https://injector.simplecastaudio.com/0cb647de-4d3e-4036-8f2e-58ea2d655cc6/episodes/fba71dcc-52e7-4e86-8e4b-c2e480b77a8f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0cb647de-4d3e-4036-8f2e-58ea2d655cc6&amp;awEpisodeId=fba71dcc-52e7-4e86-8e4b-c2e480b77a8f&amp;feed=XYHE1JPs",
-   "published": "Thu, 6 Aug 2026 04:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Neuroscientist and scholar discuss flourishing and inner qualities, blending science and contemplation.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "edefb774-f376-4e44-9be7-b4a0001e7f4d",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
-   "showTitle": "The Best of Coast to Coast AM",
-   "title": "Episode 303: A Tribute to NDE Researcher PMH Atwater.",
-   "summary": "Join Sandra to honor the life, legacy, and work of near-death experience research pioneer Dr. PMH Atwater. Explore her investigative protocols, her personal NDEs, and the verifiable evidence uncovered across thousands of adult and childhood NDE cases.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/edefb774-f376-4e44-9be7-b4a0001e7f4d/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
-   "published": "Sat, 08 Aug 2026 01:55:44 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Honors near-death experience research and explores evidence of consciousness after death.",
-   "tradition": "Interfaith"
+   "reason": "A serious reflection on suffering and faith through the story of Job.",
+   "tradition": "Christian"
   },
   {
    "id": "coe22.podbean.com/9c568646-8efd-38fd-ac91-166d57fc5930",
@@ -79,8 +66,21 @@
    "published": "Mon, 03 Aug 2026 01:18:09 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores grace and salvation as gifts beyond human effort, based on a biblical parable.",
+   "reason": "Explores grace and salvation as gifts, challenging entitlement in Christian faith.",
    "tradition": "Christian"
+  },
+  {
+   "id": "2a1d1d81-97ea-48b0-9c8a-7b17346f477f",
+   "showID": "https://feeds.simplecast.com/UCwaTX1J",
+   "showTitle": "The Mel Robbins Podcast",
+   "title": "World Leading Psychologist: How to Manifest Anything & Create the Life You Want",
+   "summary": "Today, you are going to learn the science of manifestation, visualization, and imagination - and the steps you can take to start creating the life you want.\nIn this powerful episode, Mel sits down with Dr. Cassandra Vieten, PhD, a clinical psychologist, professor at UC San Diego, and one of the world’s leading researchers on imagination and consciousness.\nDr. Vieten directs the Center for Human Imagination at UC San Diego, leads the Center for Mindfulness at UC San Diego’s Centers for Integrative Health, and her research has been cited more than 5,000 times.\nTogether, Mel and Dr. Vieten unpack",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/stitcher.simplecastaudio.com/b9de9f5f-6dab-4833-b4c2-05f1d28dd998/episodes/91664d33-944f-4c53-9d4e-d963a385df93/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=b9de9f5f-6dab-4833-b4c2-05f1d28dd998&amp;awEpisodeId=91664d33-944f-4c53-9d4e-d963a385df93&amp;feed=UCwaTX1J",
+   "published": "Mon, 10 Aug 2026 04:05:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores imagination and consciousness from a psychological and scientific perspective.",
+   "tradition": "Secular"
   },
   {
    "id": "Buzzsprout-19605579",
@@ -92,8 +92,8 @@
    "published": "Thu, 06 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores self-forgiveness and spiritual growth beyond forgiving others.",
-   "tradition": "Secular"
+   "reason": "Personal and spiritual growth focusing on forgiveness and healing from trauma.",
+   "tradition": "Interfaith"
   },
   {
    "id": "fdb8761dd68e2d9df9f35216a81ee585",
@@ -105,7 +105,7 @@
    "published": "Mon, 10 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Candid conversation on faith struggles, church hurt, and sustaining belief.",
+   "reason": "Personal story of faith struggle and recovery from church hurt with honest reflection.",
    "tradition": "Christian"
   },
   {
@@ -118,59 +118,20 @@
    "published": "Sat, 08 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Connects biblical prophecy and covenant themes with Jesus' life.",
+   "reason": "Connects biblical prophecy to Jesus and covenant themes, with spiritual teaching.",
    "tradition": "Christian"
   },
   {
-   "id": "a3261d98-8dfc-4e9e-bceb-961b30ec2a41",
-   "showID": "https://rss.libsyn.com/shows/545062/destinations/4699592.xml",
-   "showTitle": "Love Factually",
-   "title": "The Drama (2026)",
-   "summary": "Does being ostracized make people aggressive? How does distrust warp perception and memory? What are the risks of seeking other people's validation for your relationship? Paul and Eli rehearse dance moves and draft wedding toasts for Kristoffer Borgli's The Drama, the twisted 2026 rom-com starring Zendaya and Robert Pattinson. For show notes, click here. Hosted, produced, and edited by Paul Eastwick and Eli Finkel. Music by Andrew Fraker and Sons Artwork by Katie Keil",
-   "audioURL": "https://traffic.libsyn.com/secure/4bfb63fb-9778-4b24-8755-17a4eff7cc39/56_TheDrama.mp3?dest-id=4699592",
-   "published": "Mon, 10 Aug 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/21/0a/b5/210ab508-6348-e70d-c77e-45cc5c7a04df/mza_16190062788685428676.png/600x600bb.jpg",
+   "id": "785a02bc-a89a-4e4a-b0fd-2ac3958e7941",
+   "showID": "https://feeds.simplecast.com/XYHE1JPs",
+   "showTitle": "Passion Struck with John R. Miles",
+   "title": "You Were Born to Flourish. Here's the Science That Proves It. | Dr. Richard Davidson & Dr. Cortland Dahl – EP 803",
+   "summary": "What if you've spent your whole life believing you needed to become someone different—when the qualities you need have been inside you all along?\nMost of us think flourishing is something we earn after we've accomplished enough, healed enough, or finally have everything figured out.\nBut what if science says otherwise?\nIn this episode of Passion Struck, John R. Miles sits down with pioneering neuroscientist Dr. Richard Davidson and contemplative scholar Court Dahl to explore the groundbreaking science behind their new book, Born to Flourish. Drawing on decades of neuroscience research, contempl",
+   "audioURL": "https://injector.simplecastaudio.com/0cb647de-4d3e-4036-8f2e-58ea2d655cc6/episodes/fba71dcc-52e7-4e86-8e4b-c2e480b77a8f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0cb647de-4d3e-4036-8f2e-58ea2d655cc6&amp;awEpisodeId=fba71dcc-52e7-4e86-8e4b-c2e480b77a8f&amp;feed=XYHE1JPs",
+   "published": "Thu, 6 Aug 2026 04:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses ostracism, distrust, and validation in relationships with psychological depth.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "95e79310-929a-11f1-a8e8-ff27f62a7b83",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "TRAVIS BARKER: \"My Biggest Fear Actually Happened\"",
-   "summary": "In this episode, Jay sits down with legendary drummer Travis Barker to talk about the discipline that built his career, the tragedy that almost ended it, and the slow, hard-won path back to peace. Travis opens up about losing his mother as a teenager, his struggles with addiction, the 2008 plane crash that changed his life, and how love, friendship, and sheer determination brought him back to himself.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Free 30-Day Trial.\n\nJAY’S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\n\nJoin 900,000+ r",
-   "audioURL": "https://traffic.megaphone.fm/GLT5605735602.mp3",
-   "published": "Mon, 10 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Personal story of tragedy, addiction, and recovery with reflections on peace.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "49a246d0-941b-11f1-9fd1-bb8e5b206608",
-   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
-   "showTitle": "Live Free with Josh Howerton",
-   "title": "Pastor Exposes DEMONIC Strategy to Replace YOU as a Parent | Live Free with Josh Howerton",
-   "summary": "Who is shaping your faith—and whose faith are you helping shape? Spiritual maturity requires more than consuming sermons and Christian content. It grows through relationships with faithful believers who can model, correct, encourage, and walk alongside us.\n\nPastors Josh, Carlos, and Paul unpack the relationship between Paul and Timothy, explain how to find or become a spiritual parent, and examine whether apostles still exist in the church today. They also respond to cultural ideas about parental authority and show why Christians must use Scripture as the lens through which they understand the",
-   "audioURL": "https://traffic.megaphone.fm/HAEEH7338767914.mp3",
-   "published": "Mon, 10 Aug 2026 05:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Considers spiritual maturity and mentorship within Christian faith communities.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "2a1d1d81-97ea-48b0-9c8a-7b17346f477f",
-   "showID": "https://feeds.simplecast.com/UCwaTX1J",
-   "showTitle": "The Mel Robbins Podcast",
-   "title": "World Leading Psychologist: How to Manifest Anything & Create the Life You Want",
-   "summary": "Today, you are going to learn the science of manifestation, visualization, and imagination - and the steps you can take to start creating the life you want.\nIn this powerful episode, Mel sits down with Dr. Cassandra Vieten, PhD, a clinical psychologist, professor at UC San Diego, and one of the world’s leading researchers on imagination and consciousness.\nDr. Vieten directs the Center for Human Imagination at UC San Diego, leads the Center for Mindfulness at UC San Diego’s Centers for Integrative Health, and her research has been cited more than 5,000 times.\nTogether, Mel and Dr. Vieten unpack",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/stitcher.simplecastaudio.com/b9de9f5f-6dab-4833-b4c2-05f1d28dd998/episodes/91664d33-944f-4c53-9d4e-d963a385df93/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=b9de9f5f-6dab-4833-b4c2-05f1d28dd998&amp;awEpisodeId=91664d33-944f-4c53-9d4e-d963a385df93&amp;feed=UCwaTX1J",
-   "published": "Mon, 10 Aug 2026 04:05:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses psychological research on imagination and consciousness related to manifestation.",
+   "reason": "Explores flourishing and inner qualities from neuroscience and contemplative views.",
    "tradition": "Secular"
   },
   {
@@ -183,21 +144,34 @@
    "published": "Mon, 10 Aug 2026 12:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/dc/69/bedc6946-5cd6-2637-724a-912da9dafafb/mza_15530052631320977267.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal story of addiction recovery with spiritual growth but limited philosophical depth.",
-   "tradition": "Secular"
+   "reason": "Story of addiction recovery with spiritual growth elements, less philosophical depth.",
+   "tradition": "Interfaith"
   },
   {
-   "id": "25065923-13b2-4fca-b4fc-bf26fe549746",
-   "showID": "https://feeds.libsyn.com/56578/rss",
-   "showTitle": "Joyce Meyer Enjoying Everyday Life® Radio Podcast",
-   "title": "Blessed in the Mess – Part 2",
-   "summary": "God never promised a problem-free life—but He did promise to be with you. Today on 15 Minutes in the Word, Joyce shares how to find peace in the middle of it all.",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/jmradio/JMM_Aug_10_2026.mp3?dest-id=211463",
-   "published": "Mon, 10 Aug 2026 05:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/20/5f/89205fa5-8450-d917-3f45-a5b26962a087/mza_377853489433632553.jpg/600x600bb.jpg",
+   "id": "tag:soundcloud,2010:tracks/2373809753",
+   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:669018539/sounds.rss",
+   "showTitle": "Don't Miss This Study",
+   "title": "NOW I SEE GOD",
+   "summary": "NOW I SEE GOD by Grace Freeman Smith & David Butler",
+   "audioURL": "https://feeds.soundcloud.com/stream/2373809753-grace-freeman-916551846-now-i-see-god.mp3",
+   "published": "Mon, 03 Aug 2026 00:00:39 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Encouragement to find peace amid problems with Christian perspective.",
+   "reason": "A personal story about seeing God, likely faith-affirming but not deeply philosophical.",
    "tradition": "Christian"
+  },
+  {
+   "id": "95e79310-929a-11f1-a8e8-ff27f62a7b83",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "TRAVIS BARKER: \"My Biggest Fear Actually Happened\"",
+   "summary": "In this episode, Jay sits down with legendary drummer Travis Barker to talk about the discipline that built his career, the tragedy that almost ended it, and the slow, hard-won path back to peace. Travis opens up about losing his mother as a teenager, his struggles with addiction, the 2008 plane crash that changed his life, and how love, friendship, and sheer determination brought him back to himself.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Free 30-Day Trial.\n\nJAY’S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\n\nJoin 900,000+ r",
+   "audioURL": "https://traffic.megaphone.fm/GLT5605735602.mp3",
+   "published": "Mon, 10 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Personal story of trauma and recovery with reflections on peace and love.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -328,7 +302,7 @@
   "prx_192_b2d17d79-85c3-4473-9e4d-aa46cb5dad55": "2026-08-09",
   "Buzzsprout-19605579": "2026-08-10",
   "fcec6f16-9062-11f1-95de-df782ba7b7bb": "2026-08-06",
-  "tag:soundcloud,2010:tracks/2373809753": "2026-08-06",
+  "tag:soundcloud,2010:tracks/2373809753": "2026-08-10",
   "thedrjoshaxeshow.podbean.com/eb768022-ec0f-3e48-9ff8-d0a7df862df5": "2026-08-09",
   "b5540066-8f30-11f1-acab-0fbd07863265": "2026-08-07",
   "688e8cc5-2f30-4276-ade9-5d6996c5f806": "2026-08-09",
