@@ -1,22 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-08-10T20:50:54.411932+00:00",
+ "generatedAt": "2026-08-10T21:48:15.403714+00:00",
  "showsScanned": 400,
- "candidates": 55,
+ "candidates": 54,
  "picks": [
-  {
-   "id": "edefb774-f376-4e44-9be7-b4a0001e7f4d",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
-   "showTitle": "The Best of Coast to Coast AM",
-   "title": "Episode 303: A Tribute to NDE Researcher PMH Atwater.",
-   "summary": "Join Sandra to honor the life, legacy, and work of near-death experience research pioneer Dr. PMH Atwater. Explore her investigative protocols, her personal NDEs, and the verifiable evidence uncovered across thousands of adult and childhood NDE cases.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/edefb774-f376-4e44-9be7-b4a0001e7f4d/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
-   "published": "Sat, 08 Aug 2026 01:55:44 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Honors a near-death experience researcher and explores verifiable evidence on mortality.",
-   "tradition": "Interfaith"
-  },
   {
    "id": "gid://art19-episode-locator/V0/SnggQb245L9IblZU_oDTQeMCM59Q_Q3Kr02B0a5MPpM",
    "showID": "https://rss.art19.com/the-oprah-podcast",
@@ -27,21 +14,8 @@
    "published": "Tue, 04 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/e3/21/0fe32103-63b9-c890-308e-e8aa3b89090b/mza_17611356982334262758.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Serious discussion on Stoicism's relevance for meaning, resilience, and ethical living.",
+   "reason": "Serious conversation on Stoicism's relevance to meaning, resilience, and purpose.",
    "tradition": "Stoic"
-  },
-  {
-   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
-   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
-   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Personal story of faith, identity, and freedom from same-sex attraction in Christian context.",
-   "tradition": "Christian"
   },
   {
    "id": "https://www.ldsscriptureteachings.org/?p=34046",
@@ -53,8 +27,34 @@
    "published": "Thu, 06 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A serious reflection on suffering and faith through the story of Job.",
+   "reason": "Engages seriously with suffering, faith, and how to respond to pain through Job's story.",
    "tradition": "Christian"
+  },
+  {
+   "id": "785a02bc-a89a-4e4a-b0fd-2ac3958e7941",
+   "showID": "https://feeds.simplecast.com/XYHE1JPs",
+   "showTitle": "Passion Struck with John R. Miles",
+   "title": "You Were Born to Flourish. Here's the Science That Proves It. | Dr. Richard Davidson & Dr. Cortland Dahl – EP 803",
+   "summary": "What if you've spent your whole life believing you needed to become someone different—when the qualities you need have been inside you all along?\nMost of us think flourishing is something we earn after we've accomplished enough, healed enough, or finally have everything figured out.\nBut what if science says otherwise?\nIn this episode of Passion Struck, John R. Miles sits down with pioneering neuroscientist Dr. Richard Davidson and contemplative scholar Court Dahl to explore the groundbreaking science behind their new book, Born to Flourish. Drawing on decades of neuroscience research, contempl",
+   "audioURL": "https://injector.simplecastaudio.com/0cb647de-4d3e-4036-8f2e-58ea2d655cc6/episodes/fba71dcc-52e7-4e86-8e4b-c2e480b77a8f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0cb647de-4d3e-4036-8f2e-58ea2d655cc6&amp;awEpisodeId=fba71dcc-52e7-4e86-8e4b-c2e480b77a8f&amp;feed=XYHE1JPs",
+   "published": "Thu, 6 Aug 2026 04:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Neuroscientist and scholar discuss flourishing, consciousness, and inner life.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "edefb774-f376-4e44-9be7-b4a0001e7f4d",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "Episode 303: A Tribute to NDE Researcher PMH Atwater.",
+   "summary": "Join Sandra to honor the life, legacy, and work of near-death experience research pioneer Dr. PMH Atwater. Explore her investigative protocols, her personal NDEs, and the verifiable evidence uncovered across thousands of adult and childhood NDE cases.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/edefb774-f376-4e44-9be7-b4a0001e7f4d/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Sat, 08 Aug 2026 01:55:44 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Honors a near-death experience researcher, exploring mortality and consciousness seriously.",
+   "tradition": "Secular"
   },
   {
    "id": "coe22.podbean.com/9c568646-8efd-38fd-ac91-166d57fc5930",
@@ -66,21 +66,8 @@
    "published": "Mon, 03 Aug 2026 01:18:09 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores grace and salvation as gifts, challenging entitlement in Christian faith.",
+   "reason": "Explores grace and salvation through Jesus' parable, challenging entitlement in faith.",
    "tradition": "Christian"
-  },
-  {
-   "id": "2a1d1d81-97ea-48b0-9c8a-7b17346f477f",
-   "showID": "https://feeds.simplecast.com/UCwaTX1J",
-   "showTitle": "The Mel Robbins Podcast",
-   "title": "World Leading Psychologist: How to Manifest Anything & Create the Life You Want",
-   "summary": "Today, you are going to learn the science of manifestation, visualization, and imagination - and the steps you can take to start creating the life you want.\nIn this powerful episode, Mel sits down with Dr. Cassandra Vieten, PhD, a clinical psychologist, professor at UC San Diego, and one of the world’s leading researchers on imagination and consciousness.\nDr. Vieten directs the Center for Human Imagination at UC San Diego, leads the Center for Mindfulness at UC San Diego’s Centers for Integrative Health, and her research has been cited more than 5,000 times.\nTogether, Mel and Dr. Vieten unpack",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/stitcher.simplecastaudio.com/b9de9f5f-6dab-4833-b4c2-05f1d28dd998/episodes/91664d33-944f-4c53-9d4e-d963a385df93/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=b9de9f5f-6dab-4833-b4c2-05f1d28dd998&amp;awEpisodeId=91664d33-944f-4c53-9d4e-d963a385df93&amp;feed=UCwaTX1J",
-   "published": "Mon, 10 Aug 2026 04:05:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores imagination and consciousness from a psychological and scientific perspective.",
-   "tradition": "Secular"
   },
   {
    "id": "Buzzsprout-19605579",
@@ -92,7 +79,20 @@
    "published": "Thu, 06 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal and spiritual growth focusing on forgiveness and healing from trauma.",
+   "reason": "Personal story on forgiveness, guilt, and spiritual growth.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "fa3c1b03-c596-4bcc-89ef-4bb8115eb83f",
+   "showID": "https://feeds.simplecast.com/0usR2qmx",
+   "showTitle": "Determined Society with Shawn French | Adversity & Mindset",
+   "title": "From Addiction to Building a $115M Recovery Empire: The Incredible Story of Eric Spofford",
+   "summary": "In this powerful episode of The Determined Society, Shawn French sits down with Eric Spofford — entrepreneur, recovery advocate, mentor, father, and founder who built and sold a recovery business for $115 million.\nEric opens up about surviving addiction, his fifth overdose, the moment of surrender that led him to sobriety on December 7, 2006, and the deeper work it took to rebuild his life. He shares how recovery became more than abstinence — it became a path of spiritual growth, personal development, service, and purpose.\nFrom opening sober houses to building treatment centers and scaling a c",
+   "audioURL": "https://jonekiri.simplecastaudio.com/52aceb10-af69-403b-b76b-4d98bd17e29b/episodes/ad98b60b-241b-4d2c-90ed-beb29ab4993e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=52aceb10-af69-403b-b76b-4d98bd17e29b&amp;awEpisodeId=ad98b60b-241b-4d2c-90ed-beb29ab4993e&amp;feed=0usR2qmx",
+   "published": "Mon, 10 Aug 2026 12:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/dc/69/bedc6946-5cd6-2637-724a-912da9dafafb/mza_15530052631320977267.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Narrative of addiction recovery as spiritual growth and personal transformation.",
    "tradition": "Interfaith"
   },
   {
@@ -105,59 +105,7 @@
    "published": "Mon, 10 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal story of faith struggle and recovery from church hurt with honest reflection.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "1e397483-4aaa-4f23-a8ef-d556757584e1",
-   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
-   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
-   "title": "Day 220: Prophecy Fulfilled (2026)",
-   "summary": "Fr. Mike points out that the prophecy from Isaiah 61 is fulfilled by Jesus (as described in Luke 4). In Ezekiel, Fr. Mike draws our attention to the importance of the Sabbath as the sign of the covenant with God. The readings are Isaiah 61-62, Ezekiel 20, and Proverbs 13:13-16.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/1e397483-4aaa-4f23-a8ef-d556757584e1.mp3",
-   "published": "Sat, 08 Aug 2026 03:15:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Connects biblical prophecy to Jesus and covenant themes, with spiritual teaching.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "785a02bc-a89a-4e4a-b0fd-2ac3958e7941",
-   "showID": "https://feeds.simplecast.com/XYHE1JPs",
-   "showTitle": "Passion Struck with John R. Miles",
-   "title": "You Were Born to Flourish. Here's the Science That Proves It. | Dr. Richard Davidson & Dr. Cortland Dahl – EP 803",
-   "summary": "What if you've spent your whole life believing you needed to become someone different—when the qualities you need have been inside you all along?\nMost of us think flourishing is something we earn after we've accomplished enough, healed enough, or finally have everything figured out.\nBut what if science says otherwise?\nIn this episode of Passion Struck, John R. Miles sits down with pioneering neuroscientist Dr. Richard Davidson and contemplative scholar Court Dahl to explore the groundbreaking science behind their new book, Born to Flourish. Drawing on decades of neuroscience research, contempl",
-   "audioURL": "https://injector.simplecastaudio.com/0cb647de-4d3e-4036-8f2e-58ea2d655cc6/episodes/fba71dcc-52e7-4e86-8e4b-c2e480b77a8f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0cb647de-4d3e-4036-8f2e-58ea2d655cc6&amp;awEpisodeId=fba71dcc-52e7-4e86-8e4b-c2e480b77a8f&amp;feed=XYHE1JPs",
-   "published": "Thu, 6 Aug 2026 04:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores flourishing and inner qualities from neuroscience and contemplative views.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "fa3c1b03-c596-4bcc-89ef-4bb8115eb83f",
-   "showID": "https://feeds.simplecast.com/0usR2qmx",
-   "showTitle": "Determined Society with Shawn French | Adversity & Mindset",
-   "title": "From Addiction to Building a $115M Recovery Empire: The Incredible Story of Eric Spofford",
-   "summary": "In this powerful episode of The Determined Society, Shawn French sits down with Eric Spofford — entrepreneur, recovery advocate, mentor, father, and founder who built and sold a recovery business for $115 million.\nEric opens up about surviving addiction, his fifth overdose, the moment of surrender that led him to sobriety on December 7, 2006, and the deeper work it took to rebuild his life. He shares how recovery became more than abstinence — it became a path of spiritual growth, personal development, service, and purpose.\nFrom opening sober houses to building treatment centers and scaling a c",
-   "audioURL": "https://jonekiri.simplecastaudio.com/52aceb10-af69-403b-b76b-4d98bd17e29b/episodes/ad98b60b-241b-4d2c-90ed-beb29ab4993e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=52aceb10-af69-403b-b76b-4d98bd17e29b&amp;awEpisodeId=ad98b60b-241b-4d2c-90ed-beb29ab4993e&amp;feed=0usR2qmx",
-   "published": "Mon, 10 Aug 2026 12:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/dc/69/bedc6946-5cd6-2637-724a-912da9dafafb/mza_15530052631320977267.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Story of addiction recovery with spiritual growth elements, less philosophical depth.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "tag:soundcloud,2010:tracks/2373809753",
-   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:669018539/sounds.rss",
-   "showTitle": "Don't Miss This Study",
-   "title": "NOW I SEE GOD",
-   "summary": "NOW I SEE GOD by Grace Freeman Smith & David Butler",
-   "audioURL": "https://feeds.soundcloud.com/stream/2373809753-grace-freeman-916551846-now-i-see-god.mp3",
-   "published": "Mon, 03 Aug 2026 00:00:39 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "A personal story about seeing God, likely faith-affirming but not deeply philosophical.",
+   "reason": "Personal story of faith struggle and recovery from church hurt.",
    "tradition": "Christian"
   },
   {
@@ -169,9 +117,35 @@
    "audioURL": "https://traffic.megaphone.fm/GLT5605735602.mp3",
    "published": "Mon, 10 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Personal story of trauma and recovery with reflections on peace and love.",
+   "rating": 7,
+   "reason": "Shares a personal story of tragedy, addiction, and recovery with reflections on suffering and peace.",
    "tradition": "Secular"
+  },
+  {
+   "id": "2a1d1d81-97ea-48b0-9c8a-7b17346f477f",
+   "showID": "https://feeds.simplecast.com/UCwaTX1J",
+   "showTitle": "The Mel Robbins Podcast",
+   "title": "World Leading Psychologist: How to Manifest Anything & Create the Life You Want",
+   "summary": "Today, you are going to learn the science of manifestation, visualization, and imagination - and the steps you can take to start creating the life you want.\nIn this powerful episode, Mel sits down with Dr. Cassandra Vieten, PhD, a clinical psychologist, professor at UC San Diego, and one of the world’s leading researchers on imagination and consciousness.\nDr. Vieten directs the Center for Human Imagination at UC San Diego, leads the Center for Mindfulness at UC San Diego’s Centers for Integrative Health, and her research has been cited more than 5,000 times.\nTogether, Mel and Dr. Vieten unpack",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/stitcher.simplecastaudio.com/b9de9f5f-6dab-4833-b4c2-05f1d28dd998/episodes/91664d33-944f-4c53-9d4e-d963a385df93/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=b9de9f5f-6dab-4833-b4c2-05f1d28dd998&amp;awEpisodeId=91664d33-944f-4c53-9d4e-d963a385df93&amp;feed=UCwaTX1J",
+   "published": "Mon, 10 Aug 2026 04:05:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses science of manifestation and consciousness with psychological insights.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "1e397483-4aaa-4f23-a8ef-d556757584e1",
+   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
+   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
+   "title": "Day 220: Prophecy Fulfilled (2026)",
+   "summary": "Fr. Mike points out that the prophecy from Isaiah 61 is fulfilled by Jesus (as described in Luke 4). In Ezekiel, Fr. Mike draws our attention to the importance of the Sabbath as the sign of the covenant with God. The readings are Isaiah 61-62, Ezekiel 20, and Proverbs 13:13-16.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/1e397483-4aaa-4f23-a8ef-d556757584e1.mp3",
+   "published": "Sat, 08 Aug 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Connects biblical prophecy to Jesus and covenant themes, moderately contemplative.",
+   "tradition": "Christian"
   }
  ],
  "history": {
