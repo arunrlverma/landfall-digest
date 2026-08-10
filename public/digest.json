@@ -1,9 +1,22 @@
 {
  "version": 1,
- "generatedAt": "2026-08-10T16:59:29.355191+00:00",
+ "generatedAt": "2026-08-10T17:57:42.746395+00:00",
  "showsScanned": 400,
- "candidates": 58,
+ "candidates": 59,
  "picks": [
+  {
+   "id": "edefb774-f376-4e44-9be7-b4a0001e7f4d",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "Episode 303: A Tribute to NDE Researcher PMH Atwater.",
+   "summary": "Join Sandra to honor the life, legacy, and work of near-death experience research pioneer Dr. PMH Atwater. Explore her investigative protocols, her personal NDEs, and the verifiable evidence uncovered across thousands of adult and childhood NDE cases.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/edefb774-f376-4e44-9be7-b4a0001e7f4d/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Sat, 08 Aug 2026 01:55:44 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Honors near-death experience research and explores mortality and consciousness.",
+   "tradition": "Secular"
+  },
   {
    "id": "gid://art19-episode-locator/V0/SnggQb245L9IblZU_oDTQeMCM59Q_Q3Kr02B0a5MPpM",
    "showID": "https://rss.art19.com/the-oprah-podcast",
@@ -14,8 +27,21 @@
    "published": "Tue, 04 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/e3/21/0fe32103-63b9-c890-308e-e8aa3b89090b/mza_17611356982334262758.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Serious discussion on Stoicism's relevance to meaning and resilience.",
+   "reason": "Serious discussion on Stoicism's relevance to meaning, resilience, and purpose.",
    "tradition": "Stoic"
+  },
+  {
+   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
+   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
+   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Personal story of faith, identity, and freedom from same-sex attraction.",
+   "tradition": "Christian"
   },
   {
    "id": "785a02bc-a89a-4e4a-b0fd-2ac3958e7941",
@@ -31,19 +57,6 @@
    "tradition": "Secular"
   },
   {
-   "id": "edefb774-f376-4e44-9be7-b4a0001e7f4d",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
-   "showTitle": "The Best of Coast to Coast AM",
-   "title": "Episode 303: A Tribute to NDE Researcher PMH Atwater.",
-   "summary": "Join Sandra to honor the life, legacy, and work of near-death experience research pioneer Dr. PMH Atwater. Explore her investigative protocols, her personal NDEs, and the verifiable evidence uncovered across thousands of adult and childhood NDE cases.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/edefb774-f376-4e44-9be7-b4a0001e7f4d/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
-   "published": "Sat, 08 Aug 2026 01:55:44 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores near-death experiences and evidence, engaging with mortality and consciousness.",
-   "tradition": "Interfaith"
-  },
-  {
    "id": "coe22.podbean.com/9c568646-8efd-38fd-ac91-166d57fc5930",
    "showID": "https://feed.podbean.com/coe22/feed.xml",
    "showTitle": "The Church of Eleven22",
@@ -53,21 +66,21 @@
    "published": "Mon, 03 Aug 2026 01:18:09 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores grace and salvation through a parable from the Gospels.",
+   "reason": "Discusses grace and entitlement through Jesus' parable on salvation and the Kingdom of God.",
    "tradition": "Christian"
   },
   {
-   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
-   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
-   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "id": "2a1d1d81-97ea-48b0-9c8a-7b17346f477f",
+   "showID": "https://feeds.simplecast.com/UCwaTX1J",
+   "showTitle": "The Mel Robbins Podcast",
+   "title": "World Leading Psychologist: How to Manifest Anything & Create the Life You Want",
+   "summary": "Today, you are going to learn the science of manifestation, visualization, and imagination - and the steps you can take to start creating the life you want.\nIn this powerful episode, Mel sits down with Dr. Cassandra Vieten, PhD, a clinical psychologist, professor at UC San Diego, and one of the world’s leading researchers on imagination and consciousness.\nDr. Vieten directs the Center for Human Imagination at UC San Diego, leads the Center for Mindfulness at UC San Diego’s Centers for Integrative Health, and her research has been cited more than 5,000 times.\nTogether, Mel and Dr. Vieten unpack",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/stitcher.simplecastaudio.com/b9de9f5f-6dab-4833-b4c2-05f1d28dd998/episodes/91664d33-944f-4c53-9d4e-d963a385df93/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=b9de9f5f-6dab-4833-b4c2-05f1d28dd998&amp;awEpisodeId=91664d33-944f-4c53-9d4e-d963a385df93&amp;feed=UCwaTX1J",
+   "published": "Mon, 10 Aug 2026 04:05:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal story of faith, identity, and spiritual freedom in a Christian context.",
-   "tradition": "Christian"
+   "reason": "Explores science of imagination and consciousness related to creating life outcomes.",
+   "tradition": "Secular"
   },
   {
    "id": "Buzzsprout-19605579",
@@ -79,8 +92,21 @@
    "published": "Thu, 06 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal spiritual growth story focusing on forgiveness and healing.",
-   "tradition": "Interfaith"
+   "reason": "Personal and spiritual growth story focusing on forgiveness and healing.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "fa3c1b03-c596-4bcc-89ef-4bb8115eb83f",
+   "showID": "https://feeds.simplecast.com/0usR2qmx",
+   "showTitle": "Determined Society with Shawn French | Adversity & Mindset",
+   "title": "From Addiction to Building a $115M Recovery Empire: The Incredible Story of Eric Spofford",
+   "summary": "In this powerful episode of The Determined Society, Shawn French sits down with Eric Spofford — entrepreneur, recovery advocate, mentor, father, and founder who built and sold a recovery business for $115 million.\nEric opens up about surviving addiction, his fifth overdose, the moment of surrender that led him to sobriety on December 7, 2006, and the deeper work it took to rebuild his life. He shares how recovery became more than abstinence — it became a path of spiritual growth, personal development, service, and purpose.\nFrom opening sober houses to building treatment centers and scaling a c",
+   "audioURL": "https://jonekiri.simplecastaudio.com/52aceb10-af69-403b-b76b-4d98bd17e29b/episodes/ad98b60b-241b-4d2c-90ed-beb29ab4993e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=52aceb10-af69-403b-b76b-4d98bd17e29b&amp;awEpisodeId=ad98b60b-241b-4d2c-90ed-beb29ab4993e&amp;feed=0usR2qmx",
+   "published": "Mon, 10 Aug 2026 12:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/dc/69/bedc6946-5cd6-2637-724a-912da9dafafb/mza_15530052631320977267.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Shares a recovery story emphasizing spiritual growth beyond addiction.",
+   "tradition": "Secular"
   },
   {
    "id": "fdb8761dd68e2d9df9f35216a81ee585",
@@ -92,7 +118,7 @@
    "published": "Mon, 10 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses church hurt, faith struggles, and resilience in a Christian context.",
+   "reason": "Candid discussion of church hurt and reclaiming faith through music.",
    "tradition": "Christian"
   },
   {
@@ -105,7 +131,7 @@
    "published": "Sat, 08 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Connects biblical prophecy to Jesus and covenant themes with spiritual reflection.",
+   "reason": "Connects Old Testament prophecy to Jesus and Sabbath significance.",
    "tradition": "Christian"
   },
   {
@@ -118,33 +144,20 @@
    "published": "Mon, 10 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses trauma, addiction, and recovery with reflections on peace and love.",
+   "reason": "Discusses trauma, recovery, and peace with focus on love and determination.",
    "tradition": "Secular"
   },
   {
-   "id": "2a1d1d81-97ea-48b0-9c8a-7b17346f477f",
-   "showID": "https://feeds.simplecast.com/UCwaTX1J",
-   "showTitle": "The Mel Robbins Podcast",
-   "title": "World Leading Psychologist: How to Manifest Anything & Create the Life You Want",
-   "summary": "Today, you are going to learn the science of manifestation, visualization, and imagination - and the steps you can take to start creating the life you want.\nIn this powerful episode, Mel sits down with Dr. Cassandra Vieten, PhD, a clinical psychologist, professor at UC San Diego, and one of the world’s leading researchers on imagination and consciousness.\nDr. Vieten directs the Center for Human Imagination at UC San Diego, leads the Center for Mindfulness at UC San Diego’s Centers for Integrative Health, and her research has been cited more than 5,000 times.\nTogether, Mel and Dr. Vieten unpack",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/stitcher.simplecastaudio.com/b9de9f5f-6dab-4833-b4c2-05f1d28dd998/episodes/91664d33-944f-4c53-9d4e-d963a385df93/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=b9de9f5f-6dab-4833-b4c2-05f1d28dd998&amp;awEpisodeId=91664d33-944f-4c53-9d4e-d963a385df93&amp;feed=UCwaTX1J",
-   "published": "Mon, 10 Aug 2026 04:05:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/600x600bb.jpg",
+   "id": "91888614-8ec4-11f1-8706-f70f5dcd72b5",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "Dr Joe Dispenza: The Formula For Transforming Your Life",
+   "summary": "What if your greatest limitation is simply what you believe is possible? After witnessing thousands of people transform their lives in ways that continue to challenge conventional thinking, Dr Joe Dispenza believes we're capable of far more than we've been taught to believe. In this episode, Jay Shetty sits down with Dr Joe to explore how our thoughts, emotions, and habits shape our reality, why so many of us stay trapped in familiar patterns, and what it takes to create lasting change. Together, they unpack the science of meditation, the power of intention, and how changing your inner world m",
+   "audioURL": "https://traffic.megaphone.fm/GLT2067777931.mp3",
+   "published": "Mon, 03 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores psychological research on imagination and consciousness.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "fa3c1b03-c596-4bcc-89ef-4bb8115eb83f",
-   "showID": "https://feeds.simplecast.com/0usR2qmx",
-   "showTitle": "Determined Society with Shawn French | Adversity & Mindset",
-   "title": "From Addiction to Building a $115M Recovery Empire: The Incredible Story of Eric Spofford",
-   "summary": "In this powerful episode of The Determined Society, Shawn French sits down with Eric Spofford — entrepreneur, recovery advocate, mentor, father, and founder who built and sold a recovery business for $115 million.\nEric opens up about surviving addiction, his fifth overdose, the moment of surrender that led him to sobriety on December 7, 2006, and the deeper work it took to rebuild his life. He shares how recovery became more than abstinence — it became a path of spiritual growth, personal development, service, and purpose.\nFrom opening sober houses to building treatment centers and scaling a c",
-   "audioURL": "https://jonekiri.simplecastaudio.com/52aceb10-af69-403b-b76b-4d98bd17e29b/episodes/ad98b60b-241b-4d2c-90ed-beb29ab4993e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=52aceb10-af69-403b-b76b-4d98bd17e29b&amp;awEpisodeId=ad98b60b-241b-4d2c-90ed-beb29ab4993e&amp;feed=0usR2qmx",
-   "published": "Mon, 10 Aug 2026 12:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/dc/69/bedc6946-5cd6-2637-724a-912da9dafafb/mza_15530052631320977267.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Shares a story of addiction recovery with spiritual growth but focuses on personal success.",
+   "reason": "Explores mind's power to change life but leans toward self-help and transformation.",
    "tradition": "Secular"
   }
  ],
