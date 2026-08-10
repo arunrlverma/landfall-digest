@@ -1,35 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-08-10T08:43:59.393232+00:00",
+ "generatedAt": "2026-08-10T10:23:01.917161+00:00",
  "showsScanned": 400,
- "candidates": 53,
+ "candidates": 56,
  "picks": [
-  {
-   "id": "gid://art19-episode-locator/V0/SnggQb245L9IblZU_oDTQeMCM59Q_Q3Kr02B0a5MPpM",
-   "showID": "https://rss.art19.com/the-oprah-podcast",
-   "showTitle": "The Oprah Podcast",
-   "title": "Is Stoicism the Secret to a Good Life?",
-   "summary": "BUY THE BOOK!The Stoic Virtues Series by Ryan Holiday https://amzn.to/4z0bLeIOprah is joined by bestselling author and Stoicism expert Ryan Holiday on her porch for a thought-provoking conversation about how the ancient philosophy of Stoicism can help us navigate modern life. Drawing from his bestselling book The Obstacle Is the Way, Ryan explains why this 3,000-year-old philosophy remains relevant today and how its timeless wisdom can help us respond with greater clarity, resilience and purpose to whatever life puts in our path. Ryan breaks down the four core virtues of Stoicism and the three",
-   "audioURL": "https://rss.art19.com/episodes/9e555e70-61c5-47f9-9908-b9257e53f17b.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Tue, 04 Aug 2026 09:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/e3/21/0fe32103-63b9-c890-308e-e8aa3b89090b/mza_17611356982334262758.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Serious conversation on Stoicism's relevance to meaning, resilience, and purpose.",
-   "tradition": "Stoic"
-  },
-  {
-   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
-   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
-   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Personal story of faith, identity, and freedom from same-sex attraction.",
-   "tradition": "Christian"
-  },
   {
    "id": "https://www.ldsscriptureteachings.org/?p=34046",
    "showID": "https://www.ldsscriptureteachings.org/feed/podcast/",
@@ -44,29 +18,42 @@
    "tradition": "Christian"
   },
   {
-   "id": "785a02bc-a89a-4e4a-b0fd-2ac3958e7941",
-   "showID": "https://feeds.simplecast.com/XYHE1JPs",
-   "showTitle": "Passion Struck with John R. Miles",
-   "title": "You Were Born to Flourish. Here's the Science That Proves It. | Dr. Richard Davidson & Dr. Cortland Dahl – EP 803",
-   "summary": "What if you've spent your whole life believing you needed to become someone different—when the qualities you need have been inside you all along?\nMost of us think flourishing is something we earn after we've accomplished enough, healed enough, or finally have everything figured out.\nBut what if science says otherwise?\nIn this episode of Passion Struck, John R. Miles sits down with pioneering neuroscientist Dr. Richard Davidson and contemplative scholar Court Dahl to explore the groundbreaking science behind their new book, Born to Flourish. Drawing on decades of neuroscience research, contempl",
-   "audioURL": "https://injector.simplecastaudio.com/0cb647de-4d3e-4036-8f2e-58ea2d655cc6/episodes/fba71dcc-52e7-4e86-8e4b-c2e480b77a8f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0cb647de-4d3e-4036-8f2e-58ea2d655cc6&amp;awEpisodeId=fba71dcc-52e7-4e86-8e4b-c2e480b77a8f&amp;feed=XYHE1JPs",
-   "published": "Thu, 6 Aug 2026 04:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
+   "id": "edefb774-f376-4e44-9be7-b4a0001e7f4d",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "Episode 303: A Tribute to NDE Researcher PMH Atwater.",
+   "summary": "Join Sandra to honor the life, legacy, and work of near-death experience research pioneer Dr. PMH Atwater. Explore her investigative protocols, her personal NDEs, and the verifiable evidence uncovered across thousands of adult and childhood NDE cases.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/edefb774-f376-4e44-9be7-b4a0001e7f4d/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Sat, 08 Aug 2026 01:55:44 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Neuroscientist and scholar discuss flourishing and inner qualities from a contemplative view.",
-   "tradition": "Secular"
+   "reason": "Explores near-death experiences and evidence, engaging with mortality and consciousness.",
+   "tradition": "Interfaith"
   },
   {
-   "id": "coe22.podbean.com/9c568646-8efd-38fd-ac91-166d57fc5930",
-   "showID": "https://feed.podbean.com/coe22/feed.xml",
-   "showTitle": "The Church of Eleven22",
-   "title": "Laborers in the Vineyard - Impossible to Possible - Matthew S5E10",
-   "summary": "What if the greatest obstacle to experiencing God's grace isn't your past, but your sense of entitlement?\nIn Matthew 20, Jesus tells the Parable of the Workers in the Vineyard, revealing a powerful truth about the Kingdom of God. Salvation is never something we earn through our efforts. It is a gift freely given because of the generosity of our Heavenly Father. Whether you've followed Jesus for decades or surrendered your life to Him today, every believer stands on the same foundation of grace.\nIn this message, Pastor Joby Martin challenges us to trade comparison for gratitude, entitlement for",
-   "audioURL": "https://mcdn.podbean.com/mf/web/d4zg6uyfuztgxeu3/20260802_1122_089b7hb.mp3",
-   "published": "Mon, 03 Aug 2026 01:18:09 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
+   "id": "gid://art19-episode-locator/V0/SnggQb245L9IblZU_oDTQeMCM59Q_Q3Kr02B0a5MPpM",
+   "showID": "https://rss.art19.com/the-oprah-podcast",
+   "showTitle": "The Oprah Podcast",
+   "title": "Is Stoicism the Secret to a Good Life?",
+   "summary": "BUY THE BOOK!The Stoic Virtues Series by Ryan Holiday https://amzn.to/4z0bLeIOprah is joined by bestselling author and Stoicism expert Ryan Holiday on her porch for a thought-provoking conversation about how the ancient philosophy of Stoicism can help us navigate modern life. Drawing from his bestselling book The Obstacle Is the Way, Ryan explains why this 3,000-year-old philosophy remains relevant today and how its timeless wisdom can help us respond with greater clarity, resilience and purpose to whatever life puts in our path. Ryan breaks down the four core virtues of Stoicism and the three",
+   "audioURL": "https://rss.art19.com/episodes/9e555e70-61c5-47f9-9908-b9257e53f17b.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Tue, 04 Aug 2026 09:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/e3/21/0fe32103-63b9-c890-308e-e8aa3b89090b/mza_17611356982334262758.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores grace and salvation through a parable, focusing on humility and entitlement.",
+   "reason": "Discusses Stoicism's relevance to modern life and ethical living with a serious philosophical approach.",
+   "tradition": "Stoic"
+  },
+  {
+   "id": "5b9bcb1f-dd0d-4791-8b48-634038650c9e",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Matthew Struggled with Same-Sex Attraction, was Excommunicated, then Found Freedom in Jesus Christ",
+   "summary": "\" When I rooted my identity in the Lord like I never have before, I realized that I am not the carnal desires of my body... \"Therefore, crucify the lusts of the flesh and walk in the spirit.\" (Gal 5:5). As I've done that, I have come to realize full-heartedly, I am not my sexuality... In the scriptures it says freedom comes where the spirit of the Lord is, and freedom comes when sin is no longer your master. I have experienced freedom from same-sex attraction. It doesn't mean that God came and removed the thorn in my side, but it means that when I walk in His Spirit, I can stand immovable and ",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/123411730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428739034-44100-2-b36d119548131.m4a",
+   "published": "Sun, 02 Aug 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Personal story of faith, identity, and transformation addressing sin and spiritual freedom.",
    "tradition": "Christian"
   },
   {
@@ -79,21 +66,34 @@
    "published": "Mon, 10 Aug 2026 04:05:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores imagination, consciousness, and manifestation from a psychological view.",
+   "reason": "Explores imagination, consciousness, and manifestation from a psychological and scientific perspective.",
    "tradition": "Secular"
   },
   {
-   "id": "edefb774-f376-4e44-9be7-b4a0001e7f4d",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
-   "showTitle": "The Best of Coast to Coast AM",
-   "title": "Episode 303: A Tribute to NDE Researcher PMH Atwater.",
-   "summary": "Join Sandra to honor the life, legacy, and work of near-death experience research pioneer Dr. PMH Atwater. Explore her investigative protocols, her personal NDEs, and the verifiable evidence uncovered across thousands of adult and childhood NDE cases.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/edefb774-f376-4e44-9be7-b4a0001e7f4d/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
-   "published": "Sat, 08 Aug 2026 01:55:44 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "id": "785a02bc-a89a-4e4a-b0fd-2ac3958e7941",
+   "showID": "https://feeds.simplecast.com/XYHE1JPs",
+   "showTitle": "Passion Struck with John R. Miles",
+   "title": "You Were Born to Flourish. Here's the Science That Proves It. | Dr. Richard Davidson & Dr. Cortland Dahl – EP 803",
+   "summary": "What if you've spent your whole life believing you needed to become someone different—when the qualities you need have been inside you all along?\nMost of us think flourishing is something we earn after we've accomplished enough, healed enough, or finally have everything figured out.\nBut what if science says otherwise?\nIn this episode of Passion Struck, John R. Miles sits down with pioneering neuroscientist Dr. Richard Davidson and contemplative scholar Court Dahl to explore the groundbreaking science behind their new book, Born to Flourish. Drawing on decades of neuroscience research, contempl",
+   "audioURL": "https://injector.simplecastaudio.com/0cb647de-4d3e-4036-8f2e-58ea2d655cc6/episodes/fba71dcc-52e7-4e86-8e4b-c2e480b77a8f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0cb647de-4d3e-4036-8f2e-58ea2d655cc6&amp;awEpisodeId=fba71dcc-52e7-4e86-8e4b-c2e480b77a8f&amp;feed=XYHE1JPs",
+   "published": "Thu, 6 Aug 2026 04:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A serious discussion on near-death experiences and mortality from a research perspective.",
+   "reason": "Neuroscientist and scholar discuss flourishing and inner qualities from science and contemplation.",
    "tradition": "Secular"
+  },
+  {
+   "id": "coe22.podbean.com/9c568646-8efd-38fd-ac91-166d57fc5930",
+   "showID": "https://feed.podbean.com/coe22/feed.xml",
+   "showTitle": "The Church of Eleven22",
+   "title": "Laborers in the Vineyard - Impossible to Possible - Matthew S5E10",
+   "summary": "What if the greatest obstacle to experiencing God's grace isn't your past, but your sense of entitlement?\nIn Matthew 20, Jesus tells the Parable of the Workers in the Vineyard, revealing a powerful truth about the Kingdom of God. Salvation is never something we earn through our efforts. It is a gift freely given because of the generosity of our Heavenly Father. Whether you've followed Jesus for decades or surrendered your life to Him today, every believer stands on the same foundation of grace.\nIn this message, Pastor Joby Martin challenges us to trade comparison for gratitude, entitlement for",
+   "audioURL": "https://mcdn.podbean.com/mf/web/d4zg6uyfuztgxeu3/20260802_1122_089b7hb.mp3",
+   "published": "Mon, 03 Aug 2026 01:18:09 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores grace and salvation through a biblical parable, focusing on Christian ethics and meaning.",
+   "tradition": "Christian"
   },
   {
    "id": "1e397483-4aaa-4f23-a8ef-d556757584e1",
@@ -105,8 +105,34 @@
    "published": "Sat, 08 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Biblical readings and reflections on prophecy and covenant, moderately contemplative.",
+   "reason": "Connects biblical prophecy to Jesus and covenant themes, with some spiritual reflection.",
    "tradition": "Christian"
+  },
+  {
+   "id": "95e79310-929a-11f1-a8e8-ff27f62a7b83",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "TRAVIS BARKER: \"My Biggest Fear Actually Happened\"",
+   "summary": "In this episode, Jay sits down with legendary drummer Travis Barker to talk about the discipline that built his career, the tragedy that almost ended it, and the slow, hard-won path back to peace. Travis opens up about losing his mother as a teenager, his struggles with addiction, the 2008 plane crash that changed his life, and how love, friendship, and sheer determination brought him back to himself.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Free 30-Day Trial.\n\nJAY’S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\n\nJoin 900,000+ r",
+   "audioURL": "https://traffic.megaphone.fm/GLT5605735602.mp3",
+   "published": "Mon, 10 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Covers trauma and recovery with some reflection on peace and love.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "91888614-8ec4-11f1-8706-f70f5dcd72b5",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "Dr Joe Dispenza: The Formula For Transforming Your Life",
+   "summary": "What if your greatest limitation is simply what you believe is possible? After witnessing thousands of people transform their lives in ways that continue to challenge conventional thinking, Dr Joe Dispenza believes we're capable of far more than we've been taught to believe. In this episode, Jay Shetty sits down with Dr Joe to explore how our thoughts, emotions, and habits shape our reality, why so many of us stay trapped in familiar patterns, and what it takes to create lasting change. Together, they unpack the science of meditation, the power of intention, and how changing your inner world m",
+   "audioURL": "https://traffic.megaphone.fm/GLT2067777931.mp3",
+   "published": "Mon, 03 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Talks about transforming life through belief and habits, more self-help than deep philosophy.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -261,6 +287,7 @@
   "podcast699.podbean.com/69f62d87-55e9-31f8-a875-e63f44af15c3": "2026-08-09",
   "coe22.podbean.com/d9f00deb-07c1-36ae-8d8b-39f5794a991b": "2026-08-09",
   "2a1d1d81-97ea-48b0-9c8a-7b17346f477f": "2026-08-10",
-  "audioboom-019fd871-a837-7ee2-b59d-94d542d7b9fe": "2026-08-10"
+  "audioboom-019fd871-a837-7ee2-b59d-94d542d7b9fe": "2026-08-10",
+  "95e79310-929a-11f1-a8e8-ff27f62a7b83": "2026-08-10"
  }
 }
