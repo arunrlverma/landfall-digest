@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-11T17:03:14.130806+00:00",
+ "generatedAt": "2026-08-11T19:09:00.767527+00:00",
  "showsScanned": 400,
- "candidates": 51,
+ "candidates": 50,
  "picks": [
   {
    "id": "2f2fbd3e-8b9a-497f-a737-8750cd55a644",
@@ -14,21 +14,8 @@
    "published": "Tue, 04 Aug 2026 17:10:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep conversation on self, consciousness, and spiritual experience.",
+   "reason": "Explores self, consciousness, meditation, and spiritual experiences deeply.",
    "tradition": "Secular"
-  },
-  {
-   "id": "aaad4641-2115-4367-adc4-5163ca3a87ab",
-   "showID": "https://anchor.fm/s/10e5a085c/podcast/rss",
-   "showTitle": "The Mark Driscoll Podcast",
-   "title": "Why Does God Allow Suffering and Evil?",
-   "summary": "How can a loving, all powerful God allow suffering and evil? Where does evil come from and why does God permit suffering?",
-   "audioURL": "https://traffic.megaphone.fm/APO1266004422.mp3",
-   "published": "Sun, 09 Aug 2026 00:00:01 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "A serious theological discussion on why a loving God allows suffering and evil.",
-   "tradition": "Christian"
   },
   {
    "id": "Buzzsprout-19628431",
@@ -40,8 +27,34 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A deep discussion on consciousness and perception questioning reality and experience.",
+   "reason": "A serious discussion on consciousness and perception's nature and meaning.",
    "tradition": "Secular"
+  },
+  {
+   "id": "b93e17e0-4e1b-4404-acde-9427e43e464a",
+   "showID": "https://feeds.simplecast.com/_puMcco6",
+   "showTitle": "Better in Person with Stephen Dubner",
+   "title": "What If Being a Stranger Is Actually Your Superpower?",
+   "summary": "Angela Buchdahl was the first Asian American to be ordained as a rabbi, and now she is among the most influential rabbis in the world. She and Stephen Dubner talk about boundary-crossing, the aftermath of October 7, and whether you can be a good Jew without believing in God.",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/dd74e7bd-f654-43a6-b249-3f071c897900/8741bbc5-0bd4-4fd2-aa97-31051cd1e8d9/episodes/audio/group/3bd79f42-d8b6-4982-9789-74e276450050/group-item/b4b3a544-b403-4acd-b23d-4288af88394e/128_extracted_from_video_default_tc.mp3?aid=rss_feed&amp;feed=_puMcco6",
+   "published": "Tue, 4 Aug 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8c/3a/cc/8c3acc05-1d0d-7ff1-121e-bc9fdb9a9705/mza_10068821893430063461.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A rabbi discusses faith, doubt, and Jewish identity after trauma.",
+   "tradition": "Jewish"
+  },
+  {
+   "id": "037cdf69-1830-430d-bf4c-d937d9e40158",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "When a Child Questions Mormonism - Annie Marie | Ep. 2180",
+   "summary": "What would cause a child to lose their LDS faith? We strive to answer this question in today's interview with TikTok star, Annie Marie. Annie is an ex-mormon content creator who has gained an audience from her satirical videos that mainly center around questions she had as a child growing up in the LDS faith. Today she sits down with John and Margi to share her full Mormon story, offer commentary on some of her most popular videos, and walk us through her creative process. Annie came from a strict Mormon upbringing, but when her parents divorced (and their temple sealing was canceled) it spark",
+   "audioURL": "https://traffic.megaphone.fm/APO8388173414.mp3",
+   "published": "Tue, 11 Aug 2026 18:00:18 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A former Mormon shares her journey of faith questioning and loss.",
+   "tradition": "Christian"
   },
   {
    "id": "coe22.podbean.com/d9f00deb-07c1-36ae-8d8b-39f5794a991b",
@@ -53,20 +66,7 @@
    "published": "Sun, 09 Aug 2026 22:29:45 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines true greatness and humility through Jesus' teachings.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "9cf057b2-280b-4796-9845-188552bfc018",
-   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
-   "showTitle": "Mormon Stories Podcast",
-   "title": "Healing my Inner Child After Mormonism - Mindy Gledhill | Ep. 2178",
-   "summary": "Today on Mormon Stories, we are thrilled to welcome back singer-songwriter Mindy Gledhill, who is returning to the podcast to share the stories behind her newest collection of songs, the PhoneBooth Sessions (vol. 1 & 2), which reflect on her childhood, adolescence, and life after stepping away from Mormonism.Along the way, she opens up about some of the early questions that challenged her faith and where she stands with her belief today. Mindy will also discuss how inner-child work has helped her heal and become more in-tune with her inner voice. Other topics will also include parenting, relat",
-   "audioURL": "https://traffic.megaphone.fm/APO8432046997.mp3",
-   "published": "Mon, 03 Aug 2026 18:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A personal story of faith loss and healing through inner-child work after Mormonism.",
+   "reason": "Examines Jesus' teaching on greatness and humility in the Kingdom of God.",
    "tradition": "Christian"
   },
   {
@@ -83,6 +83,19 @@
    "tradition": "Secular"
   },
   {
+   "id": "6e0a0e7c-9d9d-4157-9b5d-90b65077ccff",
+   "showID": "https://feeds.simplecast.com/xKJ93w_w",
+   "showTitle": "The Atlas Obscura Podcast",
+   "title": "The Legend of Kelpius",
+   "summary": "From alchemy to doomsday prophecies, we delve into the lore of Johannes Kelpius, a mystic believed to have started a cult in the Wissahickon Valley near Philadelphia. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/5c294edc-c147-416a-a4ea-dce7b040acbf/episodes/03b5d87d-c723-4ddc-b6c2-40cd3927557b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c294edc-c147-416a-a4ea-dce7b040acbf&amp;awEpisodeId=03b5d87d-c723-4ddc-b6c2-40cd3927557b&amp;feed=xKJ93w_w",
+   "published": "Fri, 7 Aug 2026 04:05:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/d7/f0/13d7f008-0e74-df72-d031-bdfa94130a4d/mza_4989854751427129286.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores mystical lore and esoteric spirituality around a cult founder.",
+   "tradition": "Interfaith"
+  },
+  {
    "id": "prx_192_b2d17d79-85c3-4473-9e4d-aa46cb5dad55",
    "showID": "https://rss.pdrl.fm/0f808e/feeds.feedburner.com/TheScienceOfHappiness",
    "showTitle": "The Science of Happiness",
@@ -92,8 +105,8 @@
    "published": "Thu, 06 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Guided meditation on embodied awareness to calm the mind and body in stress.",
-   "tradition": "Secular"
+   "reason": "Guided meditation focusing on embodied awareness and calm.",
+   "tradition": "Buddhist"
   },
   {
    "id": "90f95d62-94f6-11f1-b91d-67a2e6c1c207",
@@ -105,20 +118,7 @@
    "published": "Tue, 11 Aug 2026 06:30:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/10/5f/b8/105fb8c5-0eff-0d25-a03b-4a704972b6b6/mza_2001570157629856111.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Talks about healing, faith, and transformation with some spiritual depth.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "6e0a0e7c-9d9d-4157-9b5d-90b65077ccff",
-   "showID": "https://feeds.simplecast.com/xKJ93w_w",
-   "showTitle": "The Atlas Obscura Podcast",
-   "title": "The Legend of Kelpius",
-   "summary": "From alchemy to doomsday prophecies, we delve into the lore of Johannes Kelpius, a mystic believed to have started a cult in the Wissahickon Valley near Philadelphia. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/5c294edc-c147-416a-a4ea-dce7b040acbf/episodes/03b5d87d-c723-4ddc-b6c2-40cd3927557b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c294edc-c147-416a-a4ea-dce7b040acbf&amp;awEpisodeId=03b5d87d-c723-4ddc-b6c2-40cd3927557b&amp;feed=xKJ93w_w",
-   "published": "Fri, 7 Aug 2026 04:05:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/d7/f0/13d7f008-0e74-df72-d031-bdfa94130a4d/mza_4989854751427129286.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Explores mystical lore and cult history with some spiritual themes.",
+   "reason": "Connects healing and faith to personal transformation and identity change.",
    "tradition": "Interfaith"
   }
  ],
@@ -284,6 +284,8 @@
   "Buzzsprout-19628431": "2026-08-11",
   "unctru.podbean.com/e9a09b09-11ea-3803-bcdb-bfa86e07aac9": "2026-08-11",
   "6e0a0e7c-9d9d-4157-9b5d-90b65077ccff": "2026-08-11",
-  "90f95d62-94f6-11f1-b91d-67a2e6c1c207": "2026-08-11"
+  "90f95d62-94f6-11f1-b91d-67a2e6c1c207": "2026-08-11",
+  "b93e17e0-4e1b-4404-acde-9427e43e464a": "2026-08-11",
+  "037cdf69-1830-430d-bf4c-d937d9e40158": "2026-08-11"
  }
 }
