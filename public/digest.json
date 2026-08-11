@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-11T07:17:48.273238+00:00",
+ "generatedAt": "2026-08-11T09:05:16.972656+00:00",
  "showsScanned": 400,
- "candidates": 48,
+ "candidates": 52,
  "picks": [
   {
    "id": "2f2fbd3e-8b9a-497f-a737-8750cd55a644",
@@ -14,8 +14,21 @@
    "published": "Tue, 04 Aug 2026 17:10:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores self, consciousness, meditation, and spiritual experience in depth.",
+   "reason": "Explores self, consciousness, meditation, and spiritual experiences in depth.",
    "tradition": "Secular"
+  },
+  {
+   "id": "aaad4641-2115-4367-adc4-5163ca3a87ab",
+   "showID": "https://anchor.fm/s/10e5a085c/podcast/rss",
+   "showTitle": "The Mark Driscoll Podcast",
+   "title": "Why Does God Allow Suffering and Evil?",
+   "summary": "How can a loving, all powerful God allow suffering and evil? Where does evil come from and why does God permit suffering?",
+   "audioURL": "https://traffic.megaphone.fm/APO1266004422.mp3",
+   "published": "Sun, 09 Aug 2026 00:00:01 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "A direct discussion on the problem of evil and suffering in relation to God.",
+   "tradition": "Christian"
   },
   {
    "id": "Buzzsprout-19628431",
@@ -27,34 +40,21 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores consciousness and perception as controlled hallucination, questioning reality and experience.",
+   "reason": "Explores consciousness and perception as controlled hallucination and the nature of experience.",
    "tradition": "Secular"
   },
   {
-   "id": "9cf057b2-280b-4796-9845-188552bfc018",
-   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
-   "showTitle": "Mormon Stories Podcast",
-   "title": "Healing my Inner Child After Mormonism - Mindy Gledhill | Ep. 2178",
-   "summary": "Today on Mormon Stories, we are thrilled to welcome back singer-songwriter Mindy Gledhill, who is returning to the podcast to share the stories behind her newest collection of songs, the PhoneBooth Sessions (vol. 1 & 2), which reflect on her childhood, adolescence, and life after stepping away from Mormonism.Along the way, she opens up about some of the early questions that challenged her faith and where she stands with her belief today. Mindy will also discuss how inner-child work has helped her heal and become more in-tune with her inner voice. Other topics will also include parenting, relat",
-   "audioURL": "https://traffic.megaphone.fm/APO8432046997.mp3",
-   "published": "Mon, 03 Aug 2026 18:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "id": "unshaken.podbean.com/b96f5b2e-dab0-37eb-91d3-b0614b8598e6",
+   "showID": "https://feed.podbean.com/unshaken/feed.xml",
+   "showTitle": "Unshaken Saints",
+   "title": "The Book of Esther - \"For Such a Time as This\"",
+   "summary": "The Book of Esther never once mentions the name of God—yet His fingerprints are on every page. If you are currently living in enemy territory, wondering if the Lord has forgotten you or if your faith is entirely outnumbered by modern Babylon, this visual and scriptural masterclass reveals exactly why you were held back for such a time as this.\nSummary: In this powerful and comforting episode, we explore the vibrant, high-stakes narrative of the Book of Esther. Operating as the female equivalent of Joseph in Egypt and Daniel in Babylon, Esther’s journey provides an exquisite template for how th",
+   "audioURL": "https://mcdn.podbean.com/mf/web/vvzyakgxqd2c9wkx/Esther_full_audio_enhanced70flx.mp3",
+   "published": "Sat, 08 Aug 2026 21:37:14 -0600",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former Mormon discusses faith doubts, leaving religion, and inner healing.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "aaad4641-2115-4367-adc4-5163ca3a87ab",
-   "showID": "https://anchor.fm/s/10e5a085c/podcast/rss",
-   "showTitle": "The Mark Driscoll Podcast",
-   "title": "Why Does God Allow Suffering and Evil?",
-   "summary": "How can a loving, all powerful God allow suffering and evil? Where does evil come from and why does God permit suffering?",
-   "audioURL": "https://traffic.megaphone.fm/APO1266004422.mp3",
-   "published": "Sun, 09 Aug 2026 00:00:01 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A serious Christian exploration of why suffering and evil exist.",
-   "tradition": "Christian"
+   "reason": "Examines divine providence and faith amid adversity through the Book of Esther.",
+   "tradition": "Jewish"
   },
   {
    "id": "prx_192_b2d17d79-85c3-4473-9e4d-aa46cb5dad55",
@@ -66,7 +66,7 @@
    "published": "Thu, 06 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Guides a meditation practice fostering calm and embodied awareness of suffering and presence.",
+   "reason": "Guides a meditation practice fostering calm awareness and embodied presence.",
    "tradition": "Buddhist"
   },
   {
@@ -79,33 +79,20 @@
    "published": "Sun, 09 Aug 2026 22:29:45 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Considers true greatness through Jesus' teaching on humility and service.",
+   "reason": "Considers true greatness through Jesus' teachings on humility and service.",
    "tradition": "Christian"
   },
   {
-   "id": "tbrdeepdive.podbean.com/cc29a702-21de-3fe5-8174-fe506ca105f8",
-   "showID": "https://feed.podbean.com/tbrdeepdive/feed.xml",
-   "showTitle": "The Bible Recap Deep Dive",
-   "title": "Week 31 (Days 211-217): Does God reject us because of our sin?",
-   "summary": "ON TODAY'S EPISODE:\n- What is the “everlasting covenant”?\n- Does God stop listening to us because of our sins? \n- What does it mean that God is a “jealous” God? \n- Why didn’t God protect Judah even after they repented?\n- How can I have a sensitive spirit before God?\n\nRECAP LINKS:\nDay 211 - Podcast / YouTube\nDay 212 - Podcast / YouTube\nDay 213 - Podcast / YouTube\nDay 214 - Podcast / YouTube\nDay 215 - Podcast / YouTube\nDay 216 - Podcast / YouTube\nDay 217 - Podcast / YouTube\n\nONLINE BIBLE RESOURCES:\n- Got Questions?\n- BibleProject\n- Blue Letter Bible\nNote: This is not necessarily an endorsement o",
-   "audioURL": "https://mcdn.podbean.com/mf/web/xqpczu5b8nqrf962/TBR_DeepDive_OTEp31_FCv1643mb.mp3",
-   "published": "Wed, 05 Aug 2026 00:00:00 -0500",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/a9/95/07a995c8-be85-bb61-28ff-736a0412cbb8/mza_17323749963932538168.png/600x600bb.jpg",
+   "id": "9cf057b2-280b-4796-9845-188552bfc018",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "Healing my Inner Child After Mormonism - Mindy Gledhill | Ep. 2178",
+   "summary": "Today on Mormon Stories, we are thrilled to welcome back singer-songwriter Mindy Gledhill, who is returning to the podcast to share the stories behind her newest collection of songs, the PhoneBooth Sessions (vol. 1 & 2), which reflect on her childhood, adolescence, and life after stepping away from Mormonism.Along the way, she opens up about some of the early questions that challenged her faith and where she stands with her belief today. Mindy will also discuss how inner-child work has helped her heal and become more in-tune with her inner voice. Other topics will also include parenting, relat",
+   "audioURL": "https://traffic.megaphone.fm/APO8432046997.mp3",
+   "published": "Mon, 03 Aug 2026 18:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Bible study on sin, covenant, and God's response to human failure.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "Buzzsprout-19601054",
-   "showID": "https://rss.buzzsprout.com/2466288.rss",
-   "showTitle": "GET CANCELLED PODCAST",
-   "title": "EDITED MUSIC AND RANDOM TAT WHITE GUY?! EPI 51",
-   "summary": "What happens when church becomes more about profit, platforms, and pride than people?In this episode, Bryan, Kellen, and Thad challenge some uncomfortable realities about modern faith, leadership, and ministry. They dig into what happens when pastors begin chasing prosperity, churches start operating more like corporations, and success is measured by the size of the building, the audience, or the bank account instead of the lives being changed.At what point does ministry stop being a calling and start becoming a business?The guys unpack the tension between calling and entrepreneurship, service",
-   "audioURL": "https://www.buzzsprout.com/2466288/episodes/19601054-edited-music-and-random-tat-white-guy-epi-51.mp3",
-   "published": "Tue, 04 Aug 2026 19:00:00 -0500",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/17/18/f0/1718f06a-160e-db12-819d-fed751b27581/mza_16875449492542475728.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Critical discussion of modern church culture and ministry challenges.",
+   "reason": "A former Mormon singer shares her journey through faith challenges and healing.",
    "tradition": "Christian"
   },
   {
@@ -117,8 +104,8 @@
    "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/clrtpod.com/m/api.spreaker.com/download/episode/73638779/kenny_r_sf_to_biker_spreaker.mp3",
    "published": "Sat, 08 Aug 2026 07:08:41 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/de/05/9cde05f7-8b77-a0a7-f19b-37d29a9dd6bc/mza_15442820465629580994.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses trauma, healing, and psychedelic medicine after combat, touching on suffering and recovery.",
+   "rating": 7,
+   "reason": "Veteran reflects on trauma, recovery, and psychedelic medicine's role in healing.",
    "tradition": "Secular"
   }
  ],
