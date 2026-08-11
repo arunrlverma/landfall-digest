@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-11T15:04:37.709708+00:00",
+ "generatedAt": "2026-08-11T17:03:14.130806+00:00",
  "showsScanned": 400,
- "candidates": 50,
+ "candidates": 51,
  "picks": [
   {
    "id": "2f2fbd3e-8b9a-497f-a737-8750cd55a644",
@@ -14,20 +14,7 @@
    "published": "Tue, 04 Aug 2026 17:10:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores self, consciousness, and spiritual experience with a neuroscientist and comedian.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "Buzzsprout-19628431",
-   "showID": "https://rss.buzzsprout.com/1236866.rss",
-   "showTitle": "3 Takeaways™",
-   "title": "Your Brain Is Hiding the Truth From You (#314)",
-   "summary": "What if your brain isn’t showing you the world as it truly is?Journalist, professor, and author of \"A World Appears: A Journey into Consciousness\" Michael Pollan explores one of the deepest questions of all: why do we experience anything in the first place? He discusses:What consciousness actually isWhy the brain predicts reality instead of simply taking it inHow perception may be a kind of “controlled hallucination”Why we may see the world in the most useful way, not the most accurate wayWhat animals, plants, and AI reveal about consciousnessWhy feelings may be central to being consciousWhy a",
-   "audioURL": "https://www.buzzsprout.com/1236866/episodes/19628431-your-brain-is-hiding-the-truth-from-you-314.mp3",
-   "published": "Tue, 11 Aug 2026 01:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "A deep inquiry into consciousness and perception's nature and meaning.",
+   "reason": "Deep conversation on self, consciousness, and spiritual experience.",
    "tradition": "Secular"
   },
   {
@@ -39,9 +26,22 @@
    "audioURL": "https://traffic.megaphone.fm/APO1266004422.mp3",
    "published": "Sun, 09 Aug 2026 00:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A direct discussion on the problem of suffering and evil in relation to God.",
+   "rating": 9,
+   "reason": "A serious theological discussion on why a loving God allows suffering and evil.",
    "tradition": "Christian"
+  },
+  {
+   "id": "Buzzsprout-19628431",
+   "showID": "https://rss.buzzsprout.com/1236866.rss",
+   "showTitle": "3 Takeaways™",
+   "title": "Your Brain Is Hiding the Truth From You (#314)",
+   "summary": "What if your brain isn’t showing you the world as it truly is?Journalist, professor, and author of \"A World Appears: A Journey into Consciousness\" Michael Pollan explores one of the deepest questions of all: why do we experience anything in the first place? He discusses:What consciousness actually isWhy the brain predicts reality instead of simply taking it inHow perception may be a kind of “controlled hallucination”Why we may see the world in the most useful way, not the most accurate wayWhat animals, plants, and AI reveal about consciousnessWhy feelings may be central to being consciousWhy a",
+   "audioURL": "https://www.buzzsprout.com/1236866/episodes/19628431-your-brain-is-hiding-the-truth-from-you-314.mp3",
+   "published": "Tue, 11 Aug 2026 01:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "A deep discussion on consciousness and perception questioning reality and experience.",
+   "tradition": "Secular"
   },
   {
    "id": "coe22.podbean.com/d9f00deb-07c1-36ae-8d8b-39f5794a991b",
@@ -53,7 +53,7 @@
    "published": "Sun, 09 Aug 2026 22:29:45 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Considers true greatness through Jesus' teachings on humility and service.",
+   "reason": "Examines true greatness and humility through Jesus' teachings.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Mon, 03 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A personal story of faith loss and healing through inner-child work.",
+   "reason": "A personal story of faith loss and healing through inner-child work after Mormonism.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Sat, 08 Aug 2026 07:08:41 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/de/05/9cde05f7-8b77-a0a7-f19b-37d29a9dd6bc/mza_15442820465629580994.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Veteran shares combat trauma and healing through psychedelic medicine.",
+   "reason": "Veteran reflects on combat trauma and healing through psychedelic medicine.",
    "tradition": "Secular"
   },
   {
@@ -92,8 +92,21 @@
    "published": "Thu, 06 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Guided meditation focusing on embodied awareness and calm.",
+   "reason": "Guided meditation on embodied awareness to calm the mind and body in stress.",
    "tradition": "Secular"
+  },
+  {
+   "id": "90f95d62-94f6-11f1-b91d-67a2e6c1c207",
+   "showID": "https://rss.introcast.io/1462192400/feeds.megaphone.fm/YAP4175586993",
+   "showTitle": "Creating Confidence with Heather Monahan",
+   "title": "The Path to Lasting Health, Purpose, and Peace with Justin Roethlingshoefer",
+   "summary": "What if the life you've been praying for starts with healing the parts of yourself you've been ignoring? In this episode, I sit down with bestselling author, health expert, and performance coach Justin Roethlingshoefer to talk about the connection between healing, faith, and lasting transformation. Justin shares how overcoming an eating disorder and a life-changing health crisis led him to discover that true health starts from the inside out. We also dive into why changing your identity is more powerful than changing your habits, how to quiet the noise so you can hear the wisdom guiding your l",
+   "audioURL": "https://prefix.up.audio/s/www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/s.gum.fm/s-6245bf8d4189c473044d2320/cohst.app/pdcst/7K7K1I/traffic.megaphone.fm/YAP3775413821.mp3",
+   "published": "Tue, 11 Aug 2026 06:30:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/10/5f/b8/105fb8c5-0eff-0d25-a03b-4a704972b6b6/mza_2001570157629856111.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Talks about healing, faith, and transformation with some spiritual depth.",
+   "tradition": "Christian"
   },
   {
    "id": "6e0a0e7c-9d9d-4157-9b5d-90b65077ccff",
@@ -105,7 +118,7 @@
    "published": "Fri, 7 Aug 2026 04:05:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/d7/f0/13d7f008-0e74-df72-d031-bdfa94130a4d/mza_4989854751427129286.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores mystical lore and cult origins with spiritual themes.",
+   "reason": "Explores mystical lore and cult history with some spiritual themes.",
    "tradition": "Interfaith"
   }
  ],
@@ -270,6 +283,7 @@
   "25065923-13b2-4fca-b4fc-bf26fe549746": "2026-08-10",
   "Buzzsprout-19628431": "2026-08-11",
   "unctru.podbean.com/e9a09b09-11ea-3803-bcdb-bfa86e07aac9": "2026-08-11",
-  "6e0a0e7c-9d9d-4157-9b5d-90b65077ccff": "2026-08-11"
+  "6e0a0e7c-9d9d-4157-9b5d-90b65077ccff": "2026-08-11",
+  "90f95d62-94f6-11f1-b91d-67a2e6c1c207": "2026-08-11"
  }
 }
