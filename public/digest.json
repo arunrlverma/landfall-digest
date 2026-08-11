@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-11T04:24:21.422744+00:00",
+ "generatedAt": "2026-08-11T05:56:38.851031+00:00",
  "showsScanned": 400,
- "candidates": 51,
+ "candidates": 50,
  "picks": [
   {
    "id": "2f2fbd3e-8b9a-497f-a737-8750cd55a644",
@@ -14,7 +14,7 @@
    "published": "Tue, 04 Aug 2026 17:10:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep conversation on self, consciousness, and spiritual experience.",
+   "reason": "A nuanced conversation on self, consciousness, and spiritual experience with a neuroscientist.",
    "tradition": "Secular"
   },
   {
@@ -27,8 +27,21 @@
    "published": "Sun, 09 Aug 2026 00:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Serious engagement with the problem of evil and suffering in relation to God.",
+   "reason": "A serious theological discussion on why a loving God allows suffering and evil.",
    "tradition": "Christian"
+  },
+  {
+   "id": "Buzzsprout-19628431",
+   "showID": "https://rss.buzzsprout.com/1236866.rss",
+   "showTitle": "3 Takeaways™",
+   "title": "Your Brain Is Hiding the Truth From You (#314)",
+   "summary": "What if your brain isn’t showing you the world as it truly is?Journalist, professor, and author of \"A World Appears: A Journey into Consciousness\" Michael Pollan explores one of the deepest questions of all: why do we experience anything in the first place? He discusses:What consciousness actually isWhy the brain predicts reality instead of simply taking it inHow perception may be a kind of “controlled hallucination”Why we may see the world in the most useful way, not the most accurate wayWhat animals, plants, and AI reveal about consciousnessWhy feelings may be central to being consciousWhy a",
+   "audioURL": "https://www.buzzsprout.com/1236866/episodes/19628431-your-brain-is-hiding-the-truth-from-you-314.mp3",
+   "published": "Tue, 11 Aug 2026 01:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Explores consciousness, perception, and why we experience reality as we do.",
+   "tradition": "Secular"
   },
   {
    "id": "9cf057b2-280b-4796-9845-188552bfc018",
@@ -40,7 +53,7 @@
    "published": "Mon, 03 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares deep reflections on faith loss and healing after leaving Mormonism.",
+   "reason": "A former Mormon discusses faith challenges and healing after leaving religion.",
    "tradition": "Christian"
   },
   {
@@ -53,21 +66,8 @@
    "published": "Sun, 09 Aug 2026 22:29:45 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Christian teaching on true greatness and humility in the Kingdom of God.",
+   "reason": "Explores Jesus' redefinition of greatness focusing on humility and service.",
    "tradition": "Christian"
-  },
-  {
-   "id": "unshaken.podbean.com/b96f5b2e-dab0-37eb-91d3-b0614b8598e6",
-   "showID": "https://feed.podbean.com/unshaken/feed.xml",
-   "showTitle": "Unshaken Saints",
-   "title": "The Book of Esther - \"For Such a Time as This\"",
-   "summary": "The Book of Esther never once mentions the name of God—yet His fingerprints are on every page. If you are currently living in enemy territory, wondering if the Lord has forgotten you or if your faith is entirely outnumbered by modern Babylon, this visual and scriptural masterclass reveals exactly why you were held back for such a time as this.\nSummary: In this powerful and comforting episode, we explore the vibrant, high-stakes narrative of the Book of Esther. Operating as the female equivalent of Joseph in Egypt and Daniel in Babylon, Esther’s journey provides an exquisite template for how th",
-   "audioURL": "https://mcdn.podbean.com/mf/web/vvzyakgxqd2c9wkx/Esther_full_audio_enhanced70flx.mp3",
-   "published": "Sat, 08 Aug 2026 21:37:14 -0600",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores divine providence and faith under pressure through Esther's story.",
-   "tradition": "Jewish"
   },
   {
    "id": "tbrdeepdive.podbean.com/cc29a702-21de-3fe5-8174-fe506ca105f8",
@@ -79,33 +79,7 @@
    "published": "Wed, 05 Aug 2026 00:00:00 -0500",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/a9/95/07a995c8-be85-bb61-28ff-736a0412cbb8/mza_17323749963932538168.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "A serious Christian reflection on sin, covenant, and spiritual sensitivity.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "prx_192_b2d17d79-85c3-4473-9e4d-aa46cb5dad55",
-   "showID": "https://rss.pdrl.fm/0f808e/feeds.feedburner.com/TheScienceOfHappiness",
-   "showTitle": "The Science of Happiness",
-   "title": "Happiness Break: A Body Scan for Calm and Ease",
-   "summary": "Meditation teacher Spring Washam guides us in a practice of embodied awareness, helping us use the body as an anchor during stressful or overwhelming moments.How To Do This Practice:\n\nFind a comfortable position: Sit upright in a relaxed position where you can comfortably notice the flow of your breath.\n\nBegin at the top of your body: Close your eyes and bring your attention to your head, neck, face, and jaw. Notice any tightness and allow those areas to soften.\n\nMove your awareness downward: Slowly scan through your shoulders, arms, hands, chest, and belly, noticing any sensations, emotions, ",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/dovetail.prxu.org/192/b2d17d79-85c3-4473-9e4d-aa46cb5dad55/SoH_HB_Spring_Washam_Embodiment_mix_3.mp3",
-   "published": "Thu, 06 Aug 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Guides a meditation practice fostering calm and embodied awareness.",
-   "tradition": "Buddhist"
-  },
-  {
-   "id": "tag:soundcloud,2010:tracks/2373703811",
-   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:406683825/sounds.rss",
-   "showTitle": "The Counsel of Trent",
-   "title": "#1189 - GodLogic vs. Muslims, JW's, and \"Orthobros\"",
-   "summary": "In this episode Trent sits down with popular Christian apologist  @GodLogicApologetics  .\n\nThe Shocking Truth Behind Jehovah’s Witnesses (Living Waters): https://www.youtube.com/watch?v=cnpl6gRjNOY\n\nAnswering a Muslim Apologist: https://youtu.be/vtVW7y4r4cE?si=tHX__k1SEh9CtBv9\n\nTo support this channel: https://www.patreon.com/counseloftrent\n\n[NEW] Counsel of Trent merch: https://shop.catholic.com/apologists-alley/trent-horn-resources/\n\nBe sure to keep up with our socials!\nhttps://www.tiktok.com/@counseloftrent\nhttps://www.twitter.com/counseloftrent\nhttps://www.instagram.com/counseloftrentpodca",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2373703811-trenthornpodcast-1189-godlogic-vs-muslims-jws.mp3",
-   "published": "Mon, 03 Aug 2026 12:00:29 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Apologetics addressing religious differences with some theological depth.",
+   "reason": "Explores biblical themes of sin, covenant, and God's nature with thoughtful questions.",
    "tradition": "Christian"
   },
   {
@@ -117,9 +91,48 @@
    "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/clrtpod.com/m/api.spreaker.com/download/episode/73638779/kenny_r_sf_to_biker_spreaker.mp3",
    "published": "Sat, 08 Aug 2026 07:08:41 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/de/05/9cde05f7-8b77-a0a7-f19b-37d29a9dd6bc/mza_15442820465629580994.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Veteran's story touches on trauma and healing but focuses on career and recovery.",
+   "rating": 7,
+   "reason": "A veteran discusses trauma, healing, and psychedelic medicine's role in recovery.",
    "tradition": "Secular"
+  },
+  {
+   "id": "Buzzsprout-19601054",
+   "showID": "https://rss.buzzsprout.com/2466288.rss",
+   "showTitle": "GET CANCELLED PODCAST",
+   "title": "EDITED MUSIC AND RANDOM TAT WHITE GUY?! EPI 51",
+   "summary": "What happens when church becomes more about profit, platforms, and pride than people?In this episode, Bryan, Kellen, and Thad challenge some uncomfortable realities about modern faith, leadership, and ministry. They dig into what happens when pastors begin chasing prosperity, churches start operating more like corporations, and success is measured by the size of the building, the audience, or the bank account instead of the lives being changed.At what point does ministry stop being a calling and start becoming a business?The guys unpack the tension between calling and entrepreneurship, service",
+   "audioURL": "https://www.buzzsprout.com/2466288/episodes/19601054-edited-music-and-random-tat-white-guy-epi-51.mp3",
+   "published": "Tue, 04 Aug 2026 19:00:00 -0500",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/17/18/f0/1718f06a-160e-db12-819d-fed751b27581/mza_16875449492542475728.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Critical discussion on church culture and ministry motives with some depth.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "unctru.podbean.com/e9a09b09-11ea-3803-bcdb-bfa86e07aac9",
+   "showID": "https://feed.podbean.com/unctru/feed.xml",
+   "showTitle": "The Uncomfortable Truth",
+   "title": "When Your Church Isn’t Perfect | S7 E23",
+   "summary": "Pastor Andrew Hébert comes on the podcast with Shane and Obie to talk about church and how God actually got a hold of his life.",
+   "audioURL": "https://mcdn.podbean.com/mf/web/ju3u7zyjbi6rwkrr/UncTru_S7_E23_Audio9o8tl.mp3",
+   "published": "Mon, 03 Aug 2026 01:05:39 -0500",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/21/ab/cf/21abcf9d-88e8-0f31-9750-cf85dcf50733/mza_7600058649223005238.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Conversation about church imperfections and personal faith transformation.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "prx_192_b2d17d79-85c3-4473-9e4d-aa46cb5dad55",
+   "showID": "https://rss.pdrl.fm/0f808e/feeds.feedburner.com/TheScienceOfHappiness",
+   "showTitle": "The Science of Happiness",
+   "title": "Happiness Break: A Body Scan for Calm and Ease",
+   "summary": "Meditation teacher Spring Washam guides us in a practice of embodied awareness, helping us use the body as an anchor during stressful or overwhelming moments.How To Do This Practice:\n\nFind a comfortable position: Sit upright in a relaxed position where you can comfortably notice the flow of your breath.\n\nBegin at the top of your body: Close your eyes and bring your attention to your head, neck, face, and jaw. Notice any tightness and allow those areas to soften.\n\nMove your awareness downward: Slowly scan through your shoulders, arms, hands, chest, and belly, noticing any sensations, emotions, ",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/dovetail.prxu.org/192/b2d17d79-85c3-4473-9e4d-aa46cb5dad55/SoH_HB_Spring_Washam_Embodiment_mix_3.mp3",
+   "published": "Thu, 06 Aug 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Guided meditation on calmness, relevant to inner life but not deeply philosophical.",
+   "tradition": "Buddhist"
   }
  ],
  "history": {
@@ -237,7 +250,7 @@
   "0d6e9870-8a99-11f1-8804-c77d91e10c5e": "2026-08-04",
   "2f2fbd3e-8b9a-497f-a737-8750cd55a644": "2026-08-11",
   "ab7f9b32-da90-4216-936a-bf302da0c1a1": "2026-08-07",
-  "Buzzsprout-19601054": "2026-08-07",
+  "Buzzsprout-19601054": "2026-08-11",
   "72eed081-61ee-4aaf-896a-b49d003c1705": "2026-08-07",
   "gid://art19-episode-locator/V0/2RyDuxk80bXfIxrAPTCj4R1HsZ6ivoaJUCSPr_v9jIE": "2026-08-07",
   "1585b8d5-4d80-4378-b95a-438462167d28": "2026-08-09",
@@ -280,6 +293,8 @@
   "a3261d98-8dfc-4e9e-bceb-961b30ec2a41": "2026-08-10",
   "fdb8761dd68e2d9df9f35216a81ee585": "2026-08-10",
   "49a246d0-941b-11f1-9fd1-bb8e5b206608": "2026-08-10",
-  "25065923-13b2-4fca-b4fc-bf26fe549746": "2026-08-10"
+  "25065923-13b2-4fca-b4fc-bf26fe549746": "2026-08-10",
+  "Buzzsprout-19628431": "2026-08-11",
+  "unctru.podbean.com/e9a09b09-11ea-3803-bcdb-bfa86e07aac9": "2026-08-11"
  }
 }
