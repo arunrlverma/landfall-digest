@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-11T21:55:19.905210+00:00",
+ "generatedAt": "2026-08-11T22:51:09.425268+00:00",
  "showsScanned": 400,
- "candidates": 49,
+ "candidates": 48,
  "picks": [
   {
    "id": "2f2fbd3e-8b9a-497f-a737-8750cd55a644",
@@ -14,7 +14,7 @@
    "published": "Tue, 04 Aug 2026 17:10:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores self, consciousness, meditation, and spiritual experience in depth.",
+   "reason": "A deep conversation on self, consciousness, meditation, and spiritual experience.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A deep inquiry into consciousness and perception's nature and meaning.",
+   "reason": "Explores consciousness and perception as fundamental questions of experience.",
    "tradition": "Secular"
   },
   {
@@ -40,8 +40,34 @@
    "published": "Tue, 4 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8c/3a/cc/8c3acc05-1d0d-7ff1-121e-bc9fdb9a9705/mza_10068821893430063461.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A Jewish rabbi discusses faith, doubt, and identity after trauma.",
+   "reason": "Discusses faith, doubt, and Jewish identity beyond belief in God.",
    "tradition": "Jewish"
+  },
+  {
+   "id": "037cdf69-1830-430d-bf4c-d937d9e40158",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "When a Child Questions Mormonism - Annie Marie | Ep. 2180",
+   "summary": "What would cause a child to lose their LDS faith? We strive to answer this question in today's interview with TikTok star, Annie Marie. Annie is an ex-mormon content creator who has gained an audience from her satirical videos that mainly center around questions she had as a child growing up in the LDS faith. Today she sits down with John and Margi to share her full Mormon story, offer commentary on some of her most popular videos, and walk us through her creative process. Annie came from a strict Mormon upbringing, but when her parents divorced (and their temple sealing was canceled) it spark",
+   "audioURL": "https://traffic.megaphone.fm/APO8388173414.mp3",
+   "published": "Tue, 11 Aug 2026 18:00:18 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A personal story of losing Mormon faith and questioning religious upbringing.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "podcast699.podbean.com/812cbec9-2a12-33d7-977b-ff76ad88b29f",
+   "showID": "https://feed.podbean.com/podcast699/feed.xml",
+   "showTitle": "FARM STEW International",
+   "title": "The Weekly Cycle and the Sabbath: Understanding the Biblical Sabbath",
+   "summary": "The Weekly Cycle and the Sabbath: Understanding the Biblical Sabbath | Farm Stew International Podcast\nWhat is the biblical Sabbath, and how does it fit into the weekly cycle established in Scripture? In this episode of the Farm Stew International Podcast, we take a closer look at the weekly cycle and the significance of the Sabbath, exploring its biblical foundations, meaning, and relevance.\nThe weekly cycle is a fundamental pattern of time found throughout the biblical narrative. At the center of that cycle is the Sabbath—a day set apart for rest, reflection, worship, and a renewed focus on ",
+   "audioURL": "https://mcdn.podbean.com/mf/web/hxfdyzmi3s6pjm35/FL4_The_Weekly_Cycle_and_the_Sabbath9x7xq.m4a",
+   "published": "Sun, 09 Aug 2026 12:14:38 -0300",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/93/e7/f3/93e7f330-4f87-71f5-5655-85f1a48e59db/mza_13987966009511077060.png/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores the biblical Sabbath's meaning and relevance within Scripture's weekly cycle.",
+   "tradition": "Christian"
   },
   {
    "id": "coe22.podbean.com/d9f00deb-07c1-36ae-8d8b-39f5794a991b",
@@ -53,7 +79,7 @@
    "published": "Sun, 09 Aug 2026 22:29:45 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Considers true greatness and humility through Jesus' teachings on ethics and meaning.",
+   "reason": "Explores Jesus' redefinition of greatness through humility and service.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +92,7 @@
    "published": "Sat, 08 Aug 2026 07:08:41 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/de/05/9cde05f7-8b77-a0a7-f19b-37d29a9dd6bc/mza_15442820465629580994.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Veteran shares combat trauma and healing through psychedelic medicine.",
+   "reason": "Veteran's journey through trauma, healing, and psychedelic medicine.",
    "tradition": "Secular"
   },
   {
@@ -79,7 +105,33 @@
    "published": "Fri, 7 Aug 2026 04:05:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/d7/f0/13d7f008-0e74-df72-d031-bdfa94130a4d/mza_4989854751427129286.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores mystical lore and spiritual history with ethical and existential undertones.",
+   "reason": "Explores mystical lore and spiritual community origins.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "prx_192_b2d17d79-85c3-4473-9e4d-aa46cb5dad55",
+   "showID": "https://rss.pdrl.fm/0f808e/feeds.feedburner.com/TheScienceOfHappiness",
+   "showTitle": "The Science of Happiness",
+   "title": "Happiness Break: A Body Scan for Calm and Ease",
+   "summary": "Meditation teacher Spring Washam guides us in a practice of embodied awareness, helping us use the body as an anchor during stressful or overwhelming moments.How To Do This Practice:\n\nFind a comfortable position: Sit upright in a relaxed position where you can comfortably notice the flow of your breath.\n\nBegin at the top of your body: Close your eyes and bring your attention to your head, neck, face, and jaw. Notice any tightness and allow those areas to soften.\n\nMove your awareness downward: Slowly scan through your shoulders, arms, hands, chest, and belly, noticing any sensations, emotions, ",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/dovetail.prxu.org/192/b2d17d79-85c3-4473-9e4d-aa46cb5dad55/SoH_HB_Spring_Washam_Embodiment_mix_3.mp3",
+   "published": "Thu, 06 Aug 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Guided meditation on embodied awareness for calm and ease.",
+   "tradition": "Buddhist"
+  },
+  {
+   "id": "90f95d62-94f6-11f1-b91d-67a2e6c1c207",
+   "showID": "https://rss.introcast.io/1462192400/feeds.megaphone.fm/YAP4175586993",
+   "showTitle": "Creating Confidence with Heather Monahan",
+   "title": "The Path to Lasting Health, Purpose, and Peace with Justin Roethlingshoefer",
+   "summary": "What if the life you've been praying for starts with healing the parts of yourself you've been ignoring? In this episode, I sit down with bestselling author, health expert, and performance coach Justin Roethlingshoefer to talk about the connection between healing, faith, and lasting transformation. Justin shares how overcoming an eating disorder and a life-changing health crisis led him to discover that true health starts from the inside out. We also dive into why changing your identity is more powerful than changing your habits, how to quiet the noise so you can hear the wisdom guiding your l",
+   "audioURL": "https://prefix.up.audio/s/www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/s.gum.fm/s-6245bf8d4189c473044d2320/cohst.app/pdcst/7K7K1I/traffic.megaphone.fm/YAP3775413821.mp3",
+   "published": "Tue, 11 Aug 2026 06:30:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/10/5f/b8/105fb8c5-0eff-0d25-a03b-4a704972b6b6/mza_2001570157629856111.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Connects healing, faith, and identity change in personal transformation.",
    "tradition": "Christian"
   },
   {
@@ -92,21 +144,8 @@
    "published": "Sat, 08 Aug 2026 05:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/73/99/7f739968-f65e-f679-d1fd-c727118c69f0/mza_17156407142775783271.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Includes reflections on meditation and life but mostly personal update and Q&A.",
+   "reason": "Includes reflections on silent meditation retreat and personal growth.",
    "tradition": "Secular"
-  },
-  {
-   "id": "podcast699.podbean.com/812cbec9-2a12-33d7-977b-ff76ad88b29f",
-   "showID": "https://feed.podbean.com/podcast699/feed.xml",
-   "showTitle": "FARM STEW International",
-   "title": "The Weekly Cycle and the Sabbath: Understanding the Biblical Sabbath",
-   "summary": "The Weekly Cycle and the Sabbath: Understanding the Biblical Sabbath | Farm Stew International Podcast\nWhat is the biblical Sabbath, and how does it fit into the weekly cycle established in Scripture? In this episode of the Farm Stew International Podcast, we take a closer look at the weekly cycle and the significance of the Sabbath, exploring its biblical foundations, meaning, and relevance.\nThe weekly cycle is a fundamental pattern of time found throughout the biblical narrative. At the center of that cycle is the Sabbath—a day set apart for rest, reflection, worship, and a renewed focus on ",
-   "audioURL": "https://mcdn.podbean.com/mf/web/hxfdyzmi3s6pjm35/FL4_The_Weekly_Cycle_and_the_Sabbath9x7xq.m4a",
-   "published": "Sun, 09 Aug 2026 12:14:38 -0300",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/93/e7/f3/93e7f330-4f87-71f5-5655-85f1a48e59db/mza_13987966009511077060.png/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explains Sabbath's biblical meaning and its ethical and spiritual significance.",
-   "tradition": "Christian"
   }
  ],
  "history": {
