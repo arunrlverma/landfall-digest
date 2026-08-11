@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-11T10:55:05.710420+00:00",
+ "generatedAt": "2026-08-11T11:49:22.420722+00:00",
  "showsScanned": 400,
  "candidates": 51,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Tue, 04 Aug 2026 17:10:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores self, consciousness, meditation, and spiritual experience with nuance.",
+   "reason": "Candid talk on self, consciousness, meditation, and spiritual experiences.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Author explores consciousness and why we experience reality as we do.",
+   "reason": "Author explores consciousness as perception and the brain's role in shaping reality.",
    "tradition": "Secular"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Sun, 09 Aug 2026 22:29:45 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Considers Christian ideas of greatness and humility in ethical living.",
+   "reason": "Examines Jesus' redefinition of greatness and humility in the Kingdom of God.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Mon, 03 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A personal story of faith loss and healing through inner-child work and doubt.",
+   "reason": "A personal story of faith loss and inner healing after Mormonism.",
    "tradition": "Christian"
   },
   {
@@ -79,21 +79,8 @@
    "published": "Sat, 08 Aug 2026 21:37:14 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores divine providence and faith amid suffering through the Book of Esther.",
+   "reason": "Explores divine providence and faith amid adversity through Esther's story.",
    "tradition": "Jewish"
-  },
-  {
-   "id": "https://api.spreaker.com/episode/73638779",
-   "showID": "https://www.spreaker.com/show/5960890/episodes/feed",
-   "showTitle": "The Team House",
-   "title": "From Special Forces to an Outlaw Motorcycle Club | Kenny Robertson",
-   "summary": "Kenny Robertson reflects on his career from the Marine Corps and 101st Airborne to 5th Special Forces Group, including deployments to Iraq, Afghanistan, Lebanon, Syria, and Ukraine. He also discusses the toll of years in combat, his struggles after leaving the military, and how psychedelic medicine led him to create Waypoint 6 to help other veterans.https://www.waypoint6.com/https://www.instagram.com/waypoint_six/Today's Sponsors:Quince⬇️go to: https://www.quince.com/housefor free shipping and 365 day returns GhostBed ⬇️https://www.ghostbed.com/houseFOR 10% off! Blue Chew ⬇️https://bluechew.co",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/clrtpod.com/m/api.spreaker.com/download/episode/73638779/kenny_r_sf_to_biker_spreaker.mp3",
-   "published": "Sat, 08 Aug 2026 07:08:41 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/de/05/9cde05f7-8b77-a0a7-f19b-37d29a9dd6bc/mza_15442820465629580994.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Veteran reflects on combat trauma, recovery, and psychedelic medicine.",
-   "tradition": "Secular"
   },
   {
    "id": "prx_192_b2d17d79-85c3-4473-9e4d-aa46cb5dad55",
@@ -106,6 +93,19 @@
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 7,
    "reason": "Guided meditation on embodied awareness to calm stress and anchor attention.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "https://api.spreaker.com/episode/73638779",
+   "showID": "https://www.spreaker.com/show/5960890/episodes/feed",
+   "showTitle": "The Team House",
+   "title": "From Special Forces to an Outlaw Motorcycle Club | Kenny Robertson",
+   "summary": "Kenny Robertson reflects on his career from the Marine Corps and 101st Airborne to 5th Special Forces Group, including deployments to Iraq, Afghanistan, Lebanon, Syria, and Ukraine. He also discusses the toll of years in combat, his struggles after leaving the military, and how psychedelic medicine led him to create Waypoint 6 to help other veterans.https://www.waypoint6.com/https://www.instagram.com/waypoint_six/Today's Sponsors:Quince⬇️go to: https://www.quince.com/housefor free shipping and 365 day returns GhostBed ⬇️https://www.ghostbed.com/houseFOR 10% off! Blue Chew ⬇️https://bluechew.co",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/clrtpod.com/m/api.spreaker.com/download/episode/73638779/kenny_r_sf_to_biker_spreaker.mp3",
+   "published": "Sat, 08 Aug 2026 07:08:41 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/de/05/9cde05f7-8b77-a0a7-f19b-37d29a9dd6bc/mza_15442820465629580994.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Veteran reflects on trauma, recovery, and psychedelic medicine's role in healing.",
    "tradition": "Secular"
   }
  ],
