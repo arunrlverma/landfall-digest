@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-11T20:53:55.792335+00:00",
+ "generatedAt": "2026-08-11T21:55:19.905210+00:00",
  "showsScanned": 400,
- "candidates": 50,
+ "candidates": 49,
  "picks": [
   {
    "id": "2f2fbd3e-8b9a-497f-a737-8750cd55a644",
@@ -14,7 +14,7 @@
    "published": "Tue, 04 Aug 2026 17:10:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores self, consciousness, meditation, and spiritual experiences with philosophical depth.",
+   "reason": "Explores self, consciousness, meditation, and spiritual experience in depth.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A deep discussion on consciousness and perception questioning reality and experience.",
+   "reason": "A deep inquiry into consciousness and perception's nature and meaning.",
    "tradition": "Secular"
   },
   {
@@ -40,34 +40,8 @@
    "published": "Tue, 4 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8c/3a/cc/8c3acc05-1d0d-7ff1-121e-bc9fdb9a9705/mza_10068821893430063461.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A rabbi discusses faith, doubt, and Jewish identity after trauma.",
+   "reason": "A Jewish rabbi discusses faith, doubt, and identity after trauma.",
    "tradition": "Jewish"
-  },
-  {
-   "id": "037cdf69-1830-430d-bf4c-d937d9e40158",
-   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
-   "showTitle": "Mormon Stories Podcast",
-   "title": "When a Child Questions Mormonism - Annie Marie | Ep. 2180",
-   "summary": "What would cause a child to lose their LDS faith? We strive to answer this question in today's interview with TikTok star, Annie Marie. Annie is an ex-mormon content creator who has gained an audience from her satirical videos that mainly center around questions she had as a child growing up in the LDS faith. Today she sits down with John and Margi to share her full Mormon story, offer commentary on some of her most popular videos, and walk us through her creative process. Annie came from a strict Mormon upbringing, but when her parents divorced (and their temple sealing was canceled) it spark",
-   "audioURL": "https://traffic.megaphone.fm/APO8388173414.mp3",
-   "published": "Tue, 11 Aug 2026 18:00:18 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A former Mormon shares her journey of faith questioning and loss.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "prx_192_b2d17d79-85c3-4473-9e4d-aa46cb5dad55",
-   "showID": "https://rss.pdrl.fm/0f808e/feeds.feedburner.com/TheScienceOfHappiness",
-   "showTitle": "The Science of Happiness",
-   "title": "Happiness Break: A Body Scan for Calm and Ease",
-   "summary": "Meditation teacher Spring Washam guides us in a practice of embodied awareness, helping us use the body as an anchor during stressful or overwhelming moments.How To Do This Practice:\n\nFind a comfortable position: Sit upright in a relaxed position where you can comfortably notice the flow of your breath.\n\nBegin at the top of your body: Close your eyes and bring your attention to your head, neck, face, and jaw. Notice any tightness and allow those areas to soften.\n\nMove your awareness downward: Slowly scan through your shoulders, arms, hands, chest, and belly, noticing any sensations, emotions, ",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/dovetail.prxu.org/192/b2d17d79-85c3-4473-9e4d-aa46cb5dad55/SoH_HB_Spring_Washam_Embodiment_mix_3.mp3",
-   "published": "Thu, 06 Aug 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Guided meditation fostering calm awareness and embodied presence.",
-   "tradition": "Buddhist"
   },
   {
    "id": "coe22.podbean.com/d9f00deb-07c1-36ae-8d8b-39f5794a991b",
@@ -79,20 +53,7 @@
    "published": "Sun, 09 Aug 2026 22:29:45 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Jesus' teaching on greatness challenges worldly values with ethical and spiritual depth.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "6e0a0e7c-9d9d-4157-9b5d-90b65077ccff",
-   "showID": "https://feeds.simplecast.com/xKJ93w_w",
-   "showTitle": "The Atlas Obscura Podcast",
-   "title": "The Legend of Kelpius",
-   "summary": "From alchemy to doomsday prophecies, we delve into the lore of Johannes Kelpius, a mystic believed to have started a cult in the Wissahickon Valley near Philadelphia. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/5c294edc-c147-416a-a4ea-dce7b040acbf/episodes/03b5d87d-c723-4ddc-b6c2-40cd3927557b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c294edc-c147-416a-a4ea-dce7b040acbf&amp;awEpisodeId=03b5d87d-c723-4ddc-b6c2-40cd3927557b&amp;feed=xKJ93w_w",
-   "published": "Fri, 7 Aug 2026 04:05:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/d7/f0/13d7f008-0e74-df72-d031-bdfa94130a4d/mza_4989854751427129286.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores mystical lore and spiritual community origins with ethical and existential themes.",
+   "reason": "Considers true greatness and humility through Jesus' teachings on ethics and meaning.",
    "tradition": "Christian"
   },
   {
@@ -104,9 +65,48 @@
    "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/clrtpod.com/m/api.spreaker.com/download/episode/73638779/kenny_r_sf_to_biker_spreaker.mp3",
    "published": "Sat, 08 Aug 2026 07:08:41 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/de/05/9cde05f7-8b77-a0a7-f19b-37d29a9dd6bc/mza_15442820465629580994.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Veteran shares trauma and healing journey including psychedelic therapy.",
+   "rating": 7,
+   "reason": "Veteran shares combat trauma and healing through psychedelic medicine.",
    "tradition": "Secular"
+  },
+  {
+   "id": "6e0a0e7c-9d9d-4157-9b5d-90b65077ccff",
+   "showID": "https://feeds.simplecast.com/xKJ93w_w",
+   "showTitle": "The Atlas Obscura Podcast",
+   "title": "The Legend of Kelpius",
+   "summary": "From alchemy to doomsday prophecies, we delve into the lore of Johannes Kelpius, a mystic believed to have started a cult in the Wissahickon Valley near Philadelphia. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/5c294edc-c147-416a-a4ea-dce7b040acbf/episodes/03b5d87d-c723-4ddc-b6c2-40cd3927557b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=5c294edc-c147-416a-a4ea-dce7b040acbf&amp;awEpisodeId=03b5d87d-c723-4ddc-b6c2-40cd3927557b&amp;feed=xKJ93w_w",
+   "published": "Fri, 7 Aug 2026 04:05:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/d7/f0/13d7f008-0e74-df72-d031-bdfa94130a4d/mza_4989854751427129286.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores mystical lore and spiritual history with ethical and existential undertones.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "ff0a390e-2c71-11f1-9b31-7b7ff33a3c9f",
+   "showID": "https://feeds.megaphone.fm/SIXMSB5088139739",
+   "showTitle": "Modern Wisdom",
+   "title": "Q&A: Becoming A Dad, Health Update & Favourite Peptides - #1134",
+   "summary": "I hit 4.3 million YouTube subscribers! \n\nAs usual, I celebrated by collecting questions from across social media and answering them directly. \n\nExpect to learn my thoughts on having kids in the near future, what my time with the Night Wolf Hawk was like, a quick health update, why I keep changing my hairstyle, reflections from a one-week silent meditation retreat, and much more...\n\nSponsors:\n\nSee discounts for all the products I use and recommend: ⁠https://chriswillx.com/deals⁠\n\nGet 35% off your first subscription on the best supplements from Momentous at https://livemomentous.com/modernwisdom",
+   "audioURL": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB5143851852.mp3",
+   "published": "Sat, 08 Aug 2026 05:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/73/99/7f739968-f65e-f679-d1fd-c727118c69f0/mza_17156407142775783271.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Includes reflections on meditation and life but mostly personal update and Q&A.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "podcast699.podbean.com/812cbec9-2a12-33d7-977b-ff76ad88b29f",
+   "showID": "https://feed.podbean.com/podcast699/feed.xml",
+   "showTitle": "FARM STEW International",
+   "title": "The Weekly Cycle and the Sabbath: Understanding the Biblical Sabbath",
+   "summary": "The Weekly Cycle and the Sabbath: Understanding the Biblical Sabbath | Farm Stew International Podcast\nWhat is the biblical Sabbath, and how does it fit into the weekly cycle established in Scripture? In this episode of the Farm Stew International Podcast, we take a closer look at the weekly cycle and the significance of the Sabbath, exploring its biblical foundations, meaning, and relevance.\nThe weekly cycle is a fundamental pattern of time found throughout the biblical narrative. At the center of that cycle is the Sabbath—a day set apart for rest, reflection, worship, and a renewed focus on ",
+   "audioURL": "https://mcdn.podbean.com/mf/web/hxfdyzmi3s6pjm35/FL4_The_Weekly_Cycle_and_the_Sabbath9x7xq.m4a",
+   "published": "Sun, 09 Aug 2026 12:14:38 -0300",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/93/e7/f3/93e7f330-4f87-71f5-5655-85f1a48e59db/mza_13987966009511077060.png/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explains Sabbath's biblical meaning and its ethical and spiritual significance.",
+   "tradition": "Christian"
   }
  ],
  "history": {
@@ -245,7 +245,7 @@
   "https://api.spreaker.com/episode/73269435": "2026-08-07",
   "tbrdeepdive.podbean.com/cc29a702-21de-3fe5-8174-fe506ca105f8": "2026-08-11",
   "edefb774-f376-4e44-9be7-b4a0001e7f4d": "2026-08-10",
-  "ff0a390e-2c71-11f1-9b31-7b7ff33a3c9f": "2026-08-08",
+  "ff0a390e-2c71-11f1-9b31-7b7ff33a3c9f": "2026-08-11",
   "audioboom-019fd2db-d1c1-756d-9c93-153efbf90b83": "2026-08-08",
   "1e397483-4aaa-4f23-a8ef-d556757584e1": "2026-08-10",
   "https://api.spreaker.com/episode/73638779": "2026-08-11",
@@ -257,7 +257,7 @@
   "https://api.spreaker.com/episode/73595962": "2026-08-09",
   "aaad4641-2115-4367-adc4-5163ca3a87ab": "2026-08-11",
   "unshaken.podbean.com/b96f5b2e-dab0-37eb-91d3-b0614b8598e6": "2026-08-11",
-  "podcast699.podbean.com/812cbec9-2a12-33d7-977b-ff76ad88b29f": "2026-08-09",
+  "podcast699.podbean.com/812cbec9-2a12-33d7-977b-ff76ad88b29f": "2026-08-11",
   "podcast699.podbean.com/69f62d87-55e9-31f8-a875-e63f44af15c3": "2026-08-09",
   "coe22.podbean.com/d9f00deb-07c1-36ae-8d8b-39f5794a991b": "2026-08-11",
   "2a1d1d81-97ea-48b0-9c8a-7b17346f477f": "2026-08-10",
