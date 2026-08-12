@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-12T02:21:38.705029+00:00",
+ "generatedAt": "2026-08-12T04:52:42.910717+00:00",
  "showsScanned": 400,
  "candidates": 49,
  "picks": [
@@ -14,20 +14,59 @@
    "published": "Wed, 12 Aug 2026 00:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A rabbi discusses faith, doubt, and Jewish identity after trauma.",
+   "reason": "A rabbi discusses faith, doubt, and Jewish identity after trauma, engaging deep religious questions.",
    "tradition": "Jewish"
   },
   {
-   "id": "cb4a775c-91c8-11f1-afd7-7fd3ca32aaec",
-   "showID": "https://feeds.megaphone.fm/BMDC3567910388",
-   "showTitle": "The Glenn Beck Program",
-   "title": "New Birth of Freedom: Gettysburg, Lincoln, and the End of the Civil War | The American Story | Ep 17",
-   "summary": "America’s Civil War reaches its bloodiest turning point as Abraham Lincoln carries private grief into a national struggle for survival.  From the fields of Gettysburg and the siege of Vicksburg to the slaughter at Cold Harbor, Sherman’s march, and the desperate race to pass the Thirteenth Amendment, this episode follows Lincoln, Grant, Lee, and a nation pushed to the brink.  Hear how the Gettysburg Address redefined the war, how Union victory reshaped the 1864 election, and how Richmond’s fall led to Lee’s surrender at Appomattox.  It is a sweeping story of sacrifice, freedom, faith, and the f",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pfx.vpixl.com/4V6da/arttrk.com/p/BLZM1/verifi.podscribe.com/rss/p/mgln.ai/e/285/pscrb.fm/rss/p/prfx.byspotify.com/e/claritaspod.com/measure/traffic.megaphone.fm/BMDC3987181219.mp3",
-   "published": "Sat, 08 Aug 2026 08:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/a0/12/46a0122e-5011-ffbd-cd2f-3c7a2d27777e/mza_6245367014521206082.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Historical narrative with some ethical and existential themes around war and freedom.",
+   "id": "9c2213e3-ed1a-44b7-a27e-13c894eb0854",
+   "showID": "https://anchor.fm/s/101bcf8e8/podcast/rss",
+   "showTitle": "The Lila Rose Show",
+   "title": "E340: Why God Permits Suffering (An Honest Conversation) w/Jamey Carrington | E340 Lila Rose Show | Lila Rose Show",
+   "summary": "Jamey Carrington was diagnosed with Spinal Muscular Atrophy at age 1, and now at 19 he reflects on his life of faith, suffering, and disability. It's a beautiful message of hope, inspiration, and wrestling with God.Jamey's channel: ⁨https://youtube.com/@itsjameycarrington⁩ NEW: Check out our Merch store! https://shop.lilaroseshow.com/Join our new Patreon community! https://patreon.com/lilaroseshow - We'll have BTS footage, ad-free episodes, and early access to our upcoming guests.A big thanks to our partner, EWTN, the world’s leading religious network! Discover news, entertainment and more at ",
+   "audioURL": "https://traffic.megaphone.fm/APO6917657061.mp3",
+   "published": "Fri, 07 Aug 2026 09:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/2d/1c/bb2d1cb2-4c61-0e3d-039e-b0a474e58c51/mza_2950270099588349078.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Young man reflects on faith, suffering, and disability with honesty.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/SnggQb245L9IblZU_oDTQeMCM59Q_Q3Kr02B0a5MPpM",
+   "showID": "https://rss.art19.com/the-oprah-podcast",
+   "showTitle": "The Oprah Podcast",
+   "title": "Is Stoicism the Secret to a Good Life?",
+   "summary": "BUY THE BOOK!The Stoic Virtues Series by Ryan Holiday https://amzn.to/4z0bLeIOprah is joined by bestselling author and Stoicism expert Ryan Holiday on her porch for a thought-provoking conversation about how the ancient philosophy of Stoicism can help us navigate modern life. Drawing from his bestselling book The Obstacle Is the Way, Ryan explains why this 3,000-year-old philosophy remains relevant today and how its timeless wisdom can help us respond with greater clarity, resilience and purpose to whatever life puts in our path. Ryan breaks down the four core virtues of Stoicism and the three",
+   "audioURL": "https://rss.art19.com/episodes/9e555e70-61c5-47f9-9908-b9257e53f17b.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Tue, 04 Aug 2026 09:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/e3/21/0fe32103-63b9-c890-308e-e8aa3b89090b/mza_17611356982334262758.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A serious discussion on Stoicism's relevance to meaning and resilience in modern life.",
+   "tradition": "Stoic"
+  },
+  {
+   "id": "b5540066-8f30-11f1-acab-0fbd07863265",
+   "showID": "https://feeds.megaphone.fm/LEW6901658133",
+   "showTitle": "Undaunted.Life: A Man's Podcast by Kyle Thompson",
+   "title": "RUSLAN KD | Faith, Culture, Commentary (Ep. 953)",
+   "summary": "In this episode, we welcome Ruslan KD to the show. He is a YouTuber, author, artist, speaker. In this interview, we discuss his new very bumpy road from atheism to faith in Christ, how a Josh McDowell book helped him come to faith, his thoughts on the current state of Christian Apologetics, the future of Christian worship music outside of Christian Contemporary Music, his transition from full-time rapper to full-time YouTuber, what led to his contentious sitdown interview with Nathan Apffel, how the church has accepted its position of being downstream from culture, and much more. Let’s get int",
+   "audioURL": "https://traffic.megaphone.fm/LEW2137294424.mp3",
+   "published": "Thu, 06 Aug 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/9f/12/809f1210-c215-9d6a-5dbd-45124c012604/mza_7903026632038263183.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A journey from atheism to Christian faith with reflections on apologetics and worship.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "785a02bc-a89a-4e4a-b0fd-2ac3958e7941",
+   "showID": "https://feeds.simplecast.com/XYHE1JPs",
+   "showTitle": "Passion Struck with John R. Miles",
+   "title": "You Were Born to Flourish. Here's the Science That Proves It. | Dr. Richard Davidson & Dr. Cortland Dahl – EP 803",
+   "summary": "What if you've spent your whole life believing you needed to become someone different—when the qualities you need have been inside you all along?\nMost of us think flourishing is something we earn after we've accomplished enough, healed enough, or finally have everything figured out.\nBut what if science says otherwise?\nIn this episode of Passion Struck, John R. Miles sits down with pioneering neuroscientist Dr. Richard Davidson and contemplative scholar Court Dahl to explore the groundbreaking science behind their new book, Born to Flourish. Drawing on decades of neuroscience research, contempl",
+   "audioURL": "https://injector.simplecastaudio.com/0cb647de-4d3e-4036-8f2e-58ea2d655cc6/episodes/fba71dcc-52e7-4e86-8e4b-c2e480b77a8f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0cb647de-4d3e-4036-8f2e-58ea2d655cc6&amp;awEpisodeId=fba71dcc-52e7-4e86-8e4b-c2e480b77a8f&amp;feed=XYHE1JPs",
+   "published": "Thu, 6 Aug 2026 04:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Neuroscientist and scholar discuss innate qualities and flourishing beyond achievement.",
    "tradition": "Secular"
   },
   {
@@ -40,47 +79,8 @@
    "published": "Thu, 06 Aug 2026 08:53:24 -0500",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/6f/b6/fe6fb672-7817-356e-7314-2d912dd8f3ce/mza_15885076699336077.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal story of faith and recovery with reflections on worship and prayer.",
+   "reason": "Personal story of hitting rock bottom and finding healing through worship.",
    "tradition": "Christian"
-  },
-  {
-   "id": "podcast699.podbean.com/69f62d87-55e9-31f8-a875-e63f44af15c3",
-   "showID": "https://feed.podbean.com/podcast699/feed.xml",
-   "showTitle": "FARM STEW International",
-   "title": "From Fear to Cheer: Finding Hope, Faith & Joy",
-   "summary": "Fear can affect every area of life—from our health and relationships to our work, decision-making, and sense of purpose. In this inspiring episode of the Farm STEW International Podcast, we explore how faith, hope, and practical daily habits can help transform fear into courage, peace, and lasting joy.\nLife is filled with uncertainty, but we don't have to be controlled by anxiety or discouragement. This episode shares timeless biblical principles, encouraging stories, and practical insights that help individuals and families replace fear with confidence and discover hope even in difficult circ",
-   "audioURL": "https://mcdn.podbean.com/mf/web/nsivcdtbc47shw8d/FL3_From_Fear_to_Cheerbarib.m4a",
-   "published": "Fri, 07 Aug 2026 16:58:12 -0300",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/93/e7/f3/93e7f330-4f87-71f5-5655-85f1a48e59db/mza_13987966009511077060.png/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses biblical principles to transform fear into hope and joy.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "785a02bc-a89a-4e4a-b0fd-2ac3958e7941",
-   "showID": "https://feeds.simplecast.com/XYHE1JPs",
-   "showTitle": "Passion Struck with John R. Miles",
-   "title": "You Were Born to Flourish. Here's the Science That Proves It. | Dr. Richard Davidson & Dr. Cortland Dahl – EP 803",
-   "summary": "What if you've spent your whole life believing you needed to become someone different—when the qualities you need have been inside you all along?\nMost of us think flourishing is something we earn after we've accomplished enough, healed enough, or finally have everything figured out.\nBut what if science says otherwise?\nIn this episode of Passion Struck, John R. Miles sits down with pioneering neuroscientist Dr. Richard Davidson and contemplative scholar Court Dahl to explore the groundbreaking science behind their new book, Born to Flourish. Drawing on decades of neuroscience research, contempl",
-   "audioURL": "https://injector.simplecastaudio.com/0cb647de-4d3e-4036-8f2e-58ea2d655cc6/episodes/fba71dcc-52e7-4e86-8e4b-c2e480b77a8f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0cb647de-4d3e-4036-8f2e-58ea2d655cc6&amp;awEpisodeId=fba71dcc-52e7-4e86-8e4b-c2e480b77a8f&amp;feed=XYHE1JPs",
-   "published": "Thu, 6 Aug 2026 04:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Neuroscientist and scholar discuss flourishing and inner qualities.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/SnggQb245L9IblZU_oDTQeMCM59Q_Q3Kr02B0a5MPpM",
-   "showID": "https://rss.art19.com/the-oprah-podcast",
-   "showTitle": "The Oprah Podcast",
-   "title": "Is Stoicism the Secret to a Good Life?",
-   "summary": "BUY THE BOOK!The Stoic Virtues Series by Ryan Holiday https://amzn.to/4z0bLeIOprah is joined by bestselling author and Stoicism expert Ryan Holiday on her porch for a thought-provoking conversation about how the ancient philosophy of Stoicism can help us navigate modern life. Drawing from his bestselling book The Obstacle Is the Way, Ryan explains why this 3,000-year-old philosophy remains relevant today and how its timeless wisdom can help us respond with greater clarity, resilience and purpose to whatever life puts in our path. Ryan breaks down the four core virtues of Stoicism and the three",
-   "audioURL": "https://rss.art19.com/episodes/9e555e70-61c5-47f9-9908-b9257e53f17b.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Tue, 04 Aug 2026 09:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/e3/21/0fe32103-63b9-c890-308e-e8aa3b89090b/mza_17611356982334262758.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Discusses Stoicism's relevance to modern life and its ethical and existential insights.",
-   "tradition": "Stoic"
   },
   {
    "id": "edefb774-f376-4e44-9be7-b4a0001e7f4d",
@@ -91,9 +91,9 @@
    "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/edefb774-f376-4e44-9be7-b4a0001e7f4d/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
    "published": "Sat, 08 Aug 2026 01:55:44 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Honors near-death experience research and its implications on mortality and consciousness.",
-   "tradition": "Interfaith"
+   "rating": 7,
+   "reason": "A detailed look at near-death experiences and their implications on mortality and consciousness.",
+   "tradition": "Secular"
   },
   {
    "id": "2a1d1d81-97ea-48b0-9c8a-7b17346f477f",
@@ -104,8 +104,21 @@
    "audioURL": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/stitcher.simplecastaudio.com/b9de9f5f-6dab-4833-b4c2-05f1d28dd998/episodes/91664d33-944f-4c53-9d4e-d963a385df93/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=b9de9f5f-6dab-4833-b4c2-05f1d28dd998&amp;awEpisodeId=91664d33-944f-4c53-9d4e-d963a385df93&amp;feed=UCwaTX1J",
    "published": "Mon, 10 Aug 2026 04:05:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores imagination and consciousness with a scientific and psychological lens.",
+   "rating": 6,
+   "reason": "Explores imagination and consciousness with a psychologist, somewhat abstract.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "2314d807-8dbb-4693-a220-803d37d05cea",
+   "showID": "https://media.rss.com/inbedwiththeright/feed.xml",
+   "showTitle": "In Bed With The Right",
+   "title": "Episode 147 [PATREON PREVIEW] -- Lesbian Nuns",
+   "summary": "For this episode, Moira walks Adrian through hundreds of years of history in search of lesbian nuns -- and in search of the various meanings that were attached to the lesbian nun throughout the centuries in a patriarchal system. Walk-on cameos by the Derry Girls, nunsploitation films, Canadian immigration law and an angel named Splendatello!This is a preview for a Patreon episode! So it'll cut off at some point, and if you'd like to hear all of it, please go to https://www.patreon.com/InBedWiththeRight to join!",
+   "audioURL": "https://content.rss.com/episodes/218805/3046694/inbedwiththeright/2026_08_04_15_35_42_1d27e094-1e52-49f5-91a3-e9ea45ff5f23.mp3",
+   "published": "Tue, 04 Aug 2026 15:35:49 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/98/d5/7e/98d57e06-1e6e-c970-434b-54b3b6754a98/mza_11368269922682083659.png/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Historical and cultural exploration of lesbian nuns in patriarchal context.",
    "tradition": "Secular"
   }
  ],
@@ -215,7 +228,7 @@
   "fcec6f16-9062-11f1-95de-df782ba7b7bb": "2026-08-06",
   "tag:soundcloud,2010:tracks/2373809753": "2026-08-10",
   "thedrjoshaxeshow.podbean.com/eb768022-ec0f-3e48-9ff8-d0a7df862df5": "2026-08-12",
-  "b5540066-8f30-11f1-acab-0fbd07863265": "2026-08-07",
+  "b5540066-8f30-11f1-acab-0fbd07863265": "2026-08-12",
   "688e8cc5-2f30-4276-ade9-5d6996c5f806": "2026-08-09",
   "https://api.spreaker.com/episode/73586767": "2026-08-07",
   "https://api.spreaker.com/episode/73269435": "2026-08-07",
@@ -250,6 +263,8 @@
   "90f95d62-94f6-11f1-b91d-67a2e6c1c207": "2026-08-11",
   "b93e17e0-4e1b-4404-acde-9427e43e464a": "2026-08-11",
   "037cdf69-1830-430d-bf4c-d937d9e40158": "2026-08-11",
-  "da165428-3b02-4080-b1ce-8dcaa49c02b8": "2026-08-12"
+  "da165428-3b02-4080-b1ce-8dcaa49c02b8": "2026-08-12",
+  "9c2213e3-ed1a-44b7-a27e-13c894eb0854": "2026-08-12",
+  "2314d807-8dbb-4693-a220-803d37d05cea": "2026-08-12"
  }
 }
