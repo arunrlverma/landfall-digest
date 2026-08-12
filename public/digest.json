@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-12T21:53:04.958903+00:00",
+ "generatedAt": "2026-08-12T22:48:19.405728+00:00",
  "showsScanned": 400,
- "candidates": 55,
+ "candidates": 57,
  "picks": [
   {
    "id": "785a02bc-a89a-4e4a-b0fd-2ac3958e7941",
@@ -14,7 +14,7 @@
    "published": "Thu, 6 Aug 2026 04:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuroscientist and scholar discuss science of flourishing and inner qualities.",
+   "reason": "Neuroscientist and scholar discuss flourishing and inner qualities from science.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Wed, 12 Aug 2026 08:16:14 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/b8/07/52b807c2-52be-0d2a-bf89-6a11432e34d9/mza_13874858403550015940.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A deep conversation on consciousness, trauma, and the search for meaning through healing.",
+   "reason": "A deep conversation on consciousness, trauma, and the search for meaning beyond surface healing.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Wed, 12 Aug 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores consciousness and communication beyond language through a unique autistic connection.",
+   "reason": "Explores consciousness and communication through an extraordinary experience with autistic student.",
    "tradition": "Secular"
   },
   {
@@ -53,21 +53,21 @@
    "published": "Wed, 12 Aug 2026 00:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A rabbi discusses faith, doubt, and Jewish identity after trauma.",
+   "reason": "Rabbi discusses faith, doubt, identity, and belief without requiring God belief.",
    "tradition": "Jewish"
   },
   {
-   "id": "6a7b780bf91cd396b39c5cf4",
-   "showID": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
-   "showTitle": "TED Talks Daily",
-   "title": "The hidden power of sad songs and rainy days | Susan Cain and Min Kym",
-   "summary": "Have you ever wondered why you like sad music? Do you find comfort or inspiration in rainy days? In this profound, poetic talk, author Susan Cain invites you to embrace the feeling of longing -- or the place where joy and sorrow meet – as a gateway to creativity, connection and love. Accompanied by the splendid sounds of violinist Min Kym, Cain meditates on how heartache unexpectedly brings us closer to the sublime beauty of life. Hosted on Acast. See acast.com/privacy for more information.",
-   "audioURL": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b780bf91cd396b39c5cf4/media.mp3",
-   "published": "Wed, 12 Aug 2026 15:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
+   "id": "9c2213e3-ed1a-44b7-a27e-13c894eb0854",
+   "showID": "https://anchor.fm/s/101bcf8e8/podcast/rss",
+   "showTitle": "The Lila Rose Show",
+   "title": "E340: Why God Permits Suffering (An Honest Conversation) w/Jamey Carrington | E340 Lila Rose Show | Lila Rose Show",
+   "summary": "Jamey Carrington was diagnosed with Spinal Muscular Atrophy at age 1, and now at 19 he reflects on his life of faith, suffering, and disability. It's a beautiful message of hope, inspiration, and wrestling with God.Jamey's channel: ⁨https://youtube.com/@itsjameycarrington⁩ NEW: Check out our Merch store! https://shop.lilaroseshow.com/Join our new Patreon community! https://patreon.com/lilaroseshow - We'll have BTS footage, ad-free episodes, and early access to our upcoming guests.A big thanks to our partner, EWTN, the world’s leading religious network! Discover news, entertainment and more at ",
+   "audioURL": "https://traffic.megaphone.fm/APO6917657061.mp3",
+   "published": "Fri, 07 Aug 2026 09:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/2d/1c/bb2d1cb2-4c61-0e3d-039e-b0a474e58c51/mza_2950270099588349078.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Meditation on sorrow, longing, and creativity as gateways to connection and meaning.",
-   "tradition": "Secular"
+   "reason": "A young man with disability reflects deeply on faith, suffering, and hope.",
+   "tradition": "Christian"
   },
   {
    "id": "Buzzsprout-19605579",
@@ -79,8 +79,21 @@
    "published": "Thu, 06 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal story on forgiveness, guilt, and spiritual growth beyond forgiving others.",
+   "reason": "Personal spiritual growth story focusing on forgiveness and overcoming inner barriers.",
    "tradition": "Secular"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/fVK2trh40xMFzmKF8E56xhqqzzukXwxmJ5eOkryjdmE",
+   "showID": "https://rss.art19.com/the-exorcist-files",
+   "showTitle": "The Exorcist Files",
+   "title": "Father Martins Interviews Ryan",
+   "summary": "Three years in, Fr. Carlos Martins does something the show has never done: he puts his producer andco-host on the stand. Ryan Bethea came into this work a Protestant with a hard bias against Catholicismand a phone call he hung up on. He explains what three years in the room with exorcists actually did tohis theology, why the show refuses to answer the Gary question, what a finished hour of this podcastreally costs, and how he would answer a skeptic who thinks the whole thing is theater. He also namesthe case that got under his skin, and it is not the one listeners fight about.Thanks to Our Spo",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/p687916/rss.art19.com/episodes/9aae6ecb-96c9-43b5-b19d-2ba940382beb.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Wed, 12 Aug 2026 06:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A personal theological journey from Protestant bias to nuanced understanding of exorcism.",
+   "tradition": "Christian"
   },
   {
    "id": "thedrjoshaxeshow.podbean.com/eb768022-ec0f-3e48-9ff8-d0a7df862df5",
@@ -92,8 +105,21 @@
    "published": "Thu, 06 Aug 2026 08:53:24 -0500",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/6f/b6/fe6fb672-7817-356e-7314-2d912dd8f3ce/mza_15885076699336077.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal story of faith and recovery with reflections on worship and prayer.",
+   "reason": "Personal story of faith and recovery with reflections on worship and healing.",
    "tradition": "Christian"
+  },
+  {
+   "id": "02e38fdc-7973-11f1-9b81-ff71e29e03e3",
+   "showID": "https://feeds.megaphone.fm/CNE3630198409",
+   "showTitle": "The Political Scene | The New Yorker",
+   "title": "What Is Ibogaine and Why Is Trump Talking About It?",
+   "summary": "The journalist Michelle Lhooq joins Tyler Foggatt to discuss her reporting on ibogaine, a psychedelic that has recently been embraced by the right—including President Donald Trump. They talk about the movement to promote research into ibogaine as a treatment for mental illness, the unlikely coalition of drug advocates, including Republican politicians, the veterans who helped bring the drug into the political mainstream, and Trump’s executive order expediting the F.D.A. approval of psychedelic therapies. They also discuss how the politics of psychedelics have shifted over the years, and whethe",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/uJwtcKQUPuqBQPfusm59/traffic.megaphone.fm/CNE1736306718.mp3",
+   "published": "Wed, 12 Aug 2026 22:29:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c3/f8/12/c3f81255-45c5-89b1-65d0-a644233cbe4a/mza_2090479420500153719.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores psychedelics, mental illness, and politics with some reflection on consciousness.",
+   "tradition": "Secular"
   },
   {
    "id": "edefb774-f376-4e44-9be7-b4a0001e7f4d",
@@ -105,7 +131,7 @@
    "published": "Sat, 08 Aug 2026 01:55:44 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores near-death experiences and mortality with a pioneering researcher.",
+   "reason": "Explores near-death experiences and mortality through research and personal accounts.",
    "tradition": "Secular"
   },
   {
@@ -118,47 +144,8 @@
    "published": "Mon, 10 Aug 2026 04:05:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores imagination and consciousness with psychological research, some spiritual elements.",
+   "reason": "Explores imagination and consciousness with psychological science, lightly touching on meaning.",
    "tradition": "Secular"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/fVK2trh40xMFzmKF8E56xhqqzzukXwxmJ5eOkryjdmE",
-   "showID": "https://rss.art19.com/the-exorcist-files",
-   "showTitle": "The Exorcist Files",
-   "title": "Father Martins Interviews Ryan",
-   "summary": "Three years in, Fr. Carlos Martins does something the show has never done: he puts his producer andco-host on the stand. Ryan Bethea came into this work a Protestant with a hard bias against Catholicismand a phone call he hung up on. He explains what three years in the room with exorcists actually did tohis theology, why the show refuses to answer the Gary question, what a finished hour of this podcastreally costs, and how he would answer a skeptic who thinks the whole thing is theater. He also namesthe case that got under his skin, and it is not the one listeners fight about.Thanks to Our Spo",
-   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/p687916/rss.art19.com/episodes/9aae6ecb-96c9-43b5-b19d-2ba940382beb.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Wed, 12 Aug 2026 06:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Insights on faith and theology from an exorcism podcast co-host's perspective.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "257878ac-12ac-4edb-920e-cb687f33b892",
-   "showID": "https://feeds.libsyn.com/56578/rss",
-   "showTitle": "Joyce Meyer Enjoying Everyday Life® Radio Podcast",
-   "title": "Blessed in the Mess – Part 4",
-   "summary": "God never promised a problem-free life—but He did promise to be with you. Today on 15 Minutes in the Word, Joyce shares how to find peace in the middle of it all.",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/jmradio/JMM_Aug_12_2026.mp3?dest-id=211463",
-   "published": "Wed, 12 Aug 2026 05:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/20/5f/89205fa5-8450-d917-3f45-a5b26962a087/mza_377853489433632553.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Christian encouragement on finding peace amid life’s problems.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "da15b8cd-d376-4c0c-a790-1e3eb80d5d54",
-   "showID": "https://feeds.libsyn.com/56578/rss",
-   "showTitle": "Joyce Meyer Enjoying Everyday Life® Radio Podcast",
-   "title": "Blessed in the Mess – Part 3",
-   "summary": "God never promised a problem-free life—but He did promise to be with you. Today on 15 Minutes in the Word, Joyce shares how to find peace in the middle of it all.",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/jmradio/JMM_Aug_11_2026.mp3?dest-id=211463",
-   "published": "Tue, 11 Aug 2026 05:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/20/5f/89205fa5-8450-d917-3f45-a5b26962a087/mza_377853489433632553.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Similar to part 7, focuses on peace in difficulties from a Christian view.",
-   "tradition": "Christian"
   },
   {
    "id": "cb4a775c-91c8-11f1-afd7-7fd3ca32aaec",
@@ -170,33 +157,20 @@
    "published": "Sat, 08 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/a0/12/46a0122e-5011-ffbd-cd2f-3c7a2d27777e/mza_6245367014521206082.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Historical reflection on war and leadership with some ethical and existential implications.",
+   "reason": "Historical reflection on war and leadership with some ethical and existential undertones.",
    "tradition": "Secular"
   },
   {
-   "id": "9d07e87e-65a7-4459-a788-b7c35b2a5e10",
-   "showID": "https://mysteriousradiofeed.mysteriousradionetwork.com",
-   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
-   "title": "The Emerald Tablet 101: a modern, practical guide, plain and simple (The Ancient Egyptian Enlightenment Series)",
-   "summary": "My special guest tonight is author Mathew Barnes here to discuss his book called The Emerald Tablet 101: a modern, practical guide, plain and simple (The Ancient Egyptian Enlightenment Series).The Emerald Tablet is an Ancient Egyptian work written by Hermes Trismegistus that is believed to represent a step-by-step instruction manual for the Alchemical process of turning ordinary metals like lead into something much more valuable, like gold.The manual consists of fourteen cryptic, symbolic statements that many have tried to decipher over the course of thousands of years.I believe the fourteen s",
-   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8587697/8587697_2026-08-12-072337.128.mp3?rssID=6605",
-   "published": "Wed, 12 Aug 2026 07:54:22 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
+   "id": "6a7b780bf91cd396b39c5cf4",
+   "showID": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
+   "showTitle": "TED Talks Daily",
+   "title": "The hidden power of sad songs and rainy days | Susan Cain and Min Kym",
+   "summary": "Have you ever wondered why you like sad music? Do you find comfort or inspiration in rainy days? In this profound, poetic talk, author Susan Cain invites you to embrace the feeling of longing -- or the place where joy and sorrow meet – as a gateway to creativity, connection and love. Accompanied by the splendid sounds of violinist Min Kym, Cain meditates on how heartache unexpectedly brings us closer to the sublime beauty of life. Hosted on Acast. See acast.com/privacy for more information.",
+   "audioURL": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b780bf91cd396b39c5cf4/media.mp3",
+   "published": "Wed, 12 Aug 2026 15:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses alchemical symbolism and transformation with spiritual undertones.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "a34d4860-95ec-11f1-a6a6-c78c9c5dc2a4",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "Jim Curtis: The Secret to Stop Self-Sabotage",
-   "summary": "Jay sits down with transformational coach Jim Curtis, author of The Book of Possibility, to unpack how our subconscious beliefs, many formed before age seven, quietly shape our careers, relationships, and sense of what we think we deserve. Jim breaks down his Release, Align, Become framework, walks through the four core childhood wounds behind our biggest triggers, and shares practical tools for anxiety and self-doubt, ultimately revealing who you actually are beneath the programming.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Fre",
-   "audioURL": "https://traffic.megaphone.fm/GLT7117324191.mp3",
-   "published": "Wed, 12 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Talks about subconscious beliefs and self-sabotage with practical tools.",
+   "reason": "Reflects on sorrow's role in creativity and connection, touching on meaning and suffering.",
    "tradition": "Secular"
   }
  ],
@@ -351,6 +325,7 @@
   "6a7b780bf91cd396b39c5cf4": "2026-08-12",
   "gid://art19-episode-locator/V0/fVK2trh40xMFzmKF8E56xhqqzzukXwxmJ5eOkryjdmE": "2026-08-12",
   "257878ac-12ac-4edb-920e-cb687f33b892": "2026-08-12",
-  "da15b8cd-d376-4c0c-a790-1e3eb80d5d54": "2026-08-12"
+  "da15b8cd-d376-4c0c-a790-1e3eb80d5d54": "2026-08-12",
+  "02e38fdc-7973-11f1-9b81-ff71e29e03e3": "2026-08-12"
  }
 }
