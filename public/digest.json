@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-12T13:21:44.109239+00:00",
+ "generatedAt": "2026-08-12T15:03:05.429517+00:00",
  "showsScanned": 400,
- "candidates": 52,
+ "candidates": 53,
  "picks": [
   {
    "id": "785a02bc-a89a-4e4a-b0fd-2ac3958e7941",
@@ -14,7 +14,7 @@
    "published": "Thu, 6 Aug 2026 04:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuroscientist and scholar discuss flourishing and inner qualities scientifically.",
+   "reason": "Neuroscientific and contemplative insights on flourishing and inner qualities.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Wed, 12 Aug 2026 08:16:14 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/b8/07/52b807c2-52be-0d2a-bf89-6a11432e34d9/mza_13874858403550015940.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A deep conversation on consciousness, trauma, and the search for meaning.",
+   "reason": "A deep conversation on consciousness, trauma, and the search for meaning beyond stress relief.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Wed, 12 Aug 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares a unique story about consciousness and communication beyond words.",
+   "reason": "Shares a unique story about consciousness and communication beyond ordinary perception.",
    "tradition": "Secular"
   },
   {
@@ -53,20 +53,20 @@
    "published": "Wed, 12 Aug 2026 00:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A rabbi discusses faith, doubt, and Jewish identity beyond belief in God.",
+   "reason": "Explores faith, doubt, and Jewish identity beyond belief in God after trauma.",
    "tradition": "Jewish"
   },
   {
-   "id": "edefb774-f376-4e44-9be7-b4a0001e7f4d",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
-   "showTitle": "The Best of Coast to Coast AM",
-   "title": "Episode 303: A Tribute to NDE Researcher PMH Atwater.",
-   "summary": "Join Sandra to honor the life, legacy, and work of near-death experience research pioneer Dr. PMH Atwater. Explore her investigative protocols, her personal NDEs, and the verifiable evidence uncovered across thousands of adult and childhood NDE cases.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/edefb774-f376-4e44-9be7-b4a0001e7f4d/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
-   "published": "Sat, 08 Aug 2026 01:55:44 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "id": "6a7b780bf91cd396b39c5cf4",
+   "showID": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
+   "showTitle": "TED Talks Daily",
+   "title": "The hidden power of sad songs and rainy days | Susan Cain and Min Kym",
+   "summary": "Have you ever wondered why you like sad music? Do you find comfort or inspiration in rainy days? In this profound, poetic talk, author Susan Cain invites you to embrace the feeling of longing -- or the place where joy and sorrow meet – as a gateway to creativity, connection and love. Accompanied by the splendid sounds of violinist Min Kym, Cain meditates on how heartache unexpectedly brings us closer to the sublime beauty of life. Hosted on Acast. See acast.com/privacy for more information.",
+   "audioURL": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b780bf91cd396b39c5cf4/media.mp3",
+   "published": "Wed, 12 Aug 2026 15:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Honors near-death experience research with reflections on mortality and consciousness.",
+   "reason": "Explores the emotional power of sadness and longing as a path to creativity and connection.",
    "tradition": "Secular"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Mon, 10 Aug 2026 04:05:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines imagination and consciousness from a psychological perspective.",
+   "reason": "Examines imagination and consciousness with a scientific and psychological lens.",
    "tradition": "Secular"
   },
   {
@@ -92,7 +92,7 @@
    "published": "Thu, 06 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal story on forgiveness, guilt, and spiritual growth.",
+   "reason": "Personal story of forgiveness and spiritual growth addressing guilt and healing.",
    "tradition": "Secular"
   },
   {
@@ -105,20 +105,33 @@
    "published": "Thu, 06 Aug 2026 08:53:24 -0500",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/6f/b6/fe6fb672-7817-356e-7314-2d912dd8f3ce/mza_15885076699336077.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal story of faith and recovery with reflections on worship and spiritual transformation.",
+   "reason": "Personal story of faith, recovery, and worship addressing suffering and transformation.",
    "tradition": "Christian"
   },
   {
-   "id": "a34d4860-95ec-11f1-a6a6-c78c9c5dc2a4",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "Jim Curtis: The Secret to Stop Self-Sabotage",
-   "summary": "Jay sits down with transformational coach Jim Curtis, author of The Book of Possibility, to unpack how our subconscious beliefs, many formed before age seven, quietly shape our careers, relationships, and sense of what we think we deserve. Jim breaks down his Release, Align, Become framework, walks through the four core childhood wounds behind our biggest triggers, and shares practical tools for anxiety and self-doubt, ultimately revealing who you actually are beneath the programming.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Fre",
-   "audioURL": "https://traffic.megaphone.fm/GLT7117324191.mp3",
-   "published": "Wed, 12 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "id": "edefb774-f376-4e44-9be7-b4a0001e7f4d",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "Episode 303: A Tribute to NDE Researcher PMH Atwater.",
+   "summary": "Join Sandra to honor the life, legacy, and work of near-death experience research pioneer Dr. PMH Atwater. Explore her investigative protocols, her personal NDEs, and the verifiable evidence uncovered across thousands of adult and childhood NDE cases.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/edefb774-f376-4e44-9be7-b4a0001e7f4d/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Sat, 08 Aug 2026 01:55:44 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores subconscious beliefs shaping identity and offers tools for self-understanding.",
+   "reason": "Discusses near-death experiences and mortality with evidence and personal accounts.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "2314d807-8dbb-4693-a220-803d37d05cea",
+   "showID": "https://media.rss.com/inbedwiththeright/feed.xml",
+   "showTitle": "In Bed With The Right",
+   "title": "Episode 147 [PATREON PREVIEW] -- Lesbian Nuns",
+   "summary": "For this episode, Moira walks Adrian through hundreds of years of history in search of lesbian nuns -- and in search of the various meanings that were attached to the lesbian nun throughout the centuries in a patriarchal system. Walk-on cameos by the Derry Girls, nunsploitation films, Canadian immigration law and an angel named Splendatello!This is a preview for a Patreon episode! So it'll cut off at some point, and if you'd like to hear all of it, please go to https://www.patreon.com/InBedWiththeRight to join!",
+   "audioURL": "https://content.rss.com/episodes/218805/3046694/inbedwiththeright/2026_08_04_15_35_42_1d27e094-1e52-49f5-91a3-e9ea45ff5f23.mp3",
+   "published": "Tue, 04 Aug 2026 15:35:49 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/98/d5/7e/98d57e06-1e6e-c970-434b-54b3b6754a98/mza_11368269922682083659.png/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Historical and cultural exploration of lesbian nuns with some reflection on patriarchy.",
    "tradition": "Secular"
   },
   {
@@ -131,8 +144,8 @@
    "published": "Wed, 12 Aug 2026 07:54:22 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses ancient alchemical text symbolically linked to transformation and enlightenment.",
-   "tradition": "Interfaith"
+   "reason": "Explains alchemical symbolism related to transformation and value.",
+   "tradition": "Hindu"
   }
  ],
  "history": {
@@ -282,6 +295,7 @@
   "70faaa65-b963-4585-b69b-674b2437c535": "2026-08-12",
   "gid://art19-episode-locator/V0/enN2FfJr6CEuBWHg0f-Rzv1JDJIeJzZ1WwliLMTdoGw": "2026-08-12",
   "9d07e87e-65a7-4459-a788-b7c35b2a5e10": "2026-08-12",
-  "a34d4860-95ec-11f1-a6a6-c78c9c5dc2a4": "2026-08-12"
+  "a34d4860-95ec-11f1-a6a6-c78c9c5dc2a4": "2026-08-12",
+  "6a7b780bf91cd396b39c5cf4": "2026-08-12"
  }
 }
