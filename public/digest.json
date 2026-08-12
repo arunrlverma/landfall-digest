@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-12T22:48:19.405728+00:00",
+ "generatedAt": "2026-08-12T23:49:17.469353+00:00",
  "showsScanned": 400,
  "candidates": 57,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Thu, 6 Aug 2026 04:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuroscientist and scholar discuss flourishing and inner qualities from science.",
+   "reason": "Neuroscientist and scholar discuss flourishing and inner qualities from science and contemplation.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Wed, 12 Aug 2026 08:16:14 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/b8/07/52b807c2-52be-0d2a-bf89-6a11432e34d9/mza_13874858403550015940.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A deep conversation on consciousness, trauma, and the search for meaning beyond surface healing.",
+   "reason": "A deep conversation on consciousness, trauma, and the search for meaning through healing.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Wed, 12 Aug 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores consciousness and communication through an extraordinary experience with autistic student.",
+   "reason": "Explores consciousness and communication beyond ordinary perception.",
    "tradition": "Secular"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Wed, 12 Aug 2026 00:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Rabbi discusses faith, doubt, identity, and belief without requiring God belief.",
+   "reason": "Explores faith, doubt, and Jewish identity beyond belief in God.",
    "tradition": "Jewish"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Fri, 07 Aug 2026 09:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/2d/1c/bb2d1cb2-4c61-0e3d-039e-b0a474e58c51/mza_2950270099588349078.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A young man with disability reflects deeply on faith, suffering, and hope.",
+   "reason": "Personal story wrestling with faith, suffering, and disability.",
    "tradition": "Christian"
   },
   {
@@ -79,21 +79,8 @@
    "published": "Thu, 06 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal spiritual growth story focusing on forgiveness and overcoming inner barriers.",
+   "reason": "Personal spiritual growth story focusing on forgiveness and self-healing.",
    "tradition": "Secular"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/fVK2trh40xMFzmKF8E56xhqqzzukXwxmJ5eOkryjdmE",
-   "showID": "https://rss.art19.com/the-exorcist-files",
-   "showTitle": "The Exorcist Files",
-   "title": "Father Martins Interviews Ryan",
-   "summary": "Three years in, Fr. Carlos Martins does something the show has never done: he puts his producer andco-host on the stand. Ryan Bethea came into this work a Protestant with a hard bias against Catholicismand a phone call he hung up on. He explains what three years in the room with exorcists actually did tohis theology, why the show refuses to answer the Gary question, what a finished hour of this podcastreally costs, and how he would answer a skeptic who thinks the whole thing is theater. He also namesthe case that got under his skin, and it is not the one listeners fight about.Thanks to Our Spo",
-   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/p687916/rss.art19.com/episodes/9aae6ecb-96c9-43b5-b19d-2ba940382beb.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Wed, 12 Aug 2026 06:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A personal theological journey from Protestant bias to nuanced understanding of exorcism.",
-   "tradition": "Christian"
   },
   {
    "id": "thedrjoshaxeshow.podbean.com/eb768022-ec0f-3e48-9ff8-d0a7df862df5",
@@ -113,12 +100,12 @@
    "showID": "https://feeds.megaphone.fm/CNE3630198409",
    "showTitle": "The Political Scene | The New Yorker",
    "title": "What Is Ibogaine and Why Is Trump Talking About It?",
-   "summary": "The journalist Michelle Lhooq joins Tyler Foggatt to discuss her reporting on ibogaine, a psychedelic that has recently been embraced by the right—including President Donald Trump. They talk about the movement to promote research into ibogaine as a treatment for mental illness, the unlikely coalition of drug advocates, including Republican politicians, the veterans who helped bring the drug into the political mainstream, and Trump’s executive order expediting the F.D.A. approval of psychedelic therapies. They also discuss how the politics of psychedelics have shifted over the years, and whethe",
+   "summary": "The journalist Michelle Lhooq joins Tyler Foggatt to discuss her reporting on ibogaine, a psychedelic that has recently been embraced by the right—including President Donald Trump. They talk about the movement to promote research into ibogaine as a treatment for mental illness;&nbsp;the unlikely coalition of drug advocates, Republican politicians, and the veterans who helped bring the drug into the political mainstream;&nbsp; and Trump’s executive order expediting the F.D.A. approval of psychedelic therapies. They also discuss how the politics of psychedelics have shifted over the years, and w",
    "audioURL": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/uJwtcKQUPuqBQPfusm59/traffic.megaphone.fm/CNE1736306718.mp3",
    "published": "Wed, 12 Aug 2026 22:29:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c3/f8/12/c3f81255-45c5-89b1-65d0-a644233cbe4a/mza_2090479420500153719.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores psychedelics, mental illness, and politics with some reflection on consciousness.",
+   "reason": "Discussion of psychedelic therapy and mental illness with cultural and political context.",
    "tradition": "Secular"
   },
   {
@@ -131,7 +118,7 @@
    "published": "Sat, 08 Aug 2026 01:55:44 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores near-death experiences and mortality through research and personal accounts.",
+   "reason": "Explores near-death experiences and mortality through research and testimony.",
    "tradition": "Secular"
   },
   {
@@ -144,8 +131,21 @@
    "published": "Mon, 10 Aug 2026 04:05:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores imagination and consciousness with psychological science, lightly touching on meaning.",
+   "reason": "Explores manifestation and imagination with psychological research, lightly on consciousness.",
    "tradition": "Secular"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/fVK2trh40xMFzmKF8E56xhqqzzukXwxmJ5eOkryjdmE",
+   "showID": "https://rss.art19.com/the-exorcist-files",
+   "showTitle": "The Exorcist Files",
+   "title": "Father Martins Interviews Ryan",
+   "summary": "Three years in, Fr. Carlos Martins does something the show has never done: he puts his producer andco-host on the stand. Ryan Bethea came into this work a Protestant with a hard bias against Catholicismand a phone call he hung up on. He explains what three years in the room with exorcists actually did tohis theology, why the show refuses to answer the Gary question, what a finished hour of this podcastreally costs, and how he would answer a skeptic who thinks the whole thing is theater. He also namesthe case that got under his skin, and it is not the one listeners fight about.Thanks to Our Spo",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/p687916/rss.art19.com/episodes/9aae6ecb-96c9-43b5-b19d-2ba940382beb.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Wed, 12 Aug 2026 06:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Personal theological reflection on exorcism and faith transformation.",
+   "tradition": "Christian"
   },
   {
    "id": "cb4a775c-91c8-11f1-afd7-7fd3ca32aaec",
@@ -157,7 +157,7 @@
    "published": "Sat, 08 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/a0/12/46a0122e-5011-ffbd-cd2f-3c7a2d27777e/mza_6245367014521206082.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Historical reflection on war and leadership with some ethical and existential undertones.",
+   "reason": "Historical narrative with some ethical and existential themes but mainly historical.",
    "tradition": "Secular"
   },
   {
@@ -170,8 +170,21 @@
    "published": "Wed, 12 Aug 2026 15:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
    "rating": 6,
-   "reason": "Reflects on sorrow's role in creativity and connection, touching on meaning and suffering.",
+   "reason": "Reflects on sorrow and creativity, touching on meaning and connection.",
    "tradition": "Secular"
+  },
+  {
+   "id": "9d07e87e-65a7-4459-a788-b7c35b2a5e10",
+   "showID": "https://mysteriousradiofeed.mysteriousradionetwork.com",
+   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
+   "title": "The Emerald Tablet 101: a modern, practical guide, plain and simple (The Ancient Egyptian Enlightenment Series)",
+   "summary": "My special guest tonight is author Mathew Barnes here to discuss his book called The Emerald Tablet 101: a modern, practical guide, plain and simple (The Ancient Egyptian Enlightenment Series).The Emerald Tablet is an Ancient Egyptian work written by Hermes Trismegistus that is believed to represent a step-by-step instruction manual for the Alchemical process of turning ordinary metals like lead into something much more valuable, like gold.The manual consists of fourteen cryptic, symbolic statements that many have tried to decipher over the course of thousands of years.I believe the fourteen s",
+   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8587697/8587697_2026-08-12-072337.128.mp3?rssID=6605",
+   "published": "Wed, 12 Aug 2026 07:54:22 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses ancient alchemical text symbolically related to transformation.",
+   "tradition": "Interfaith"
   }
  ],
  "history": {
