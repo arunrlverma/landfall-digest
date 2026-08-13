@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-13T20:50:31.596465+00:00",
+ "generatedAt": "2026-08-13T21:52:44.646446+00:00",
  "showsScanned": 400,
- "candidates": 60,
+ "candidates": 61,
  "picks": [
   {
    "id": "unshaken.podbean.com/58552b92-8191-3251-b417-e753cb4b2752",
@@ -27,34 +27,21 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores consciousness and perception deeply with a neuroscientist and philosopher.",
+   "reason": "Explores consciousness and perception deeply, questioning reality and experience.",
    "tradition": "Secular"
   },
   {
-   "id": "ddad00eb-0b80-408d-a77e-a5962b9f23de",
-   "showID": "https://anchor.fm/s/10c2267dc/podcast/rss",
-   "showTitle": "The Eric Metaxas Show",
-   "title": "#177 - Victoria Jackson",
-   "summary": "Today On The Eric Metaxas Show, Saturday Night Live alum Victoria Jackson joins Eric to reflect on their recent Socrates In The City retreat in Oxford. Victoria opens up about living with cancer, facing mortality with humor and Christian faith, and why the experience has made her appreciate life even more. She and Eric also discuss C.S. Lewis, Addison’s Walk, The Kilns, John Lennox, scientist Denis Noble, the mystery of creation, and Victoria’s new book of poetry, Not Dead Yet.⭐ ORDER NOW:Revolution: The Birth of the Greatest Nation in the History of the World📕: https://a.co/d/0ir3NlapTODAY'S ",
-   "audioURL": "https://anchor.fm/s/10c2267dc/podcast/play/124044573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-10%2F429596752-44100-2-6acd06e3bafc3.mp3",
-   "published": "Mon, 10 Aug 2026 22:01:01 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
+   "id": "99717f16-9685-11f1-aa51-3b986d4766dc",
+   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
+   "showTitle": "Blurry Creatures",
+   "title": "EP: 454 That Fear You Feel Isn't Yours with Grant Pemberton *members only trailer",
+   "summary": "Fear is a control mechanism. Governments know it. The enemy knows it. And right now it hangs thick in the air. Grant Pemberton returns to Blurry Creatures to name the thing paralyzing the church and hand you the tools to break it. He walks through 2 Timothy, the power packed into the word dunamis, and why scripture commands us not to fear more than 150 times. Fear is not just a feeling. It is a scarecrow standing in a field full of food, and most of us spend our whole lives avoiding the harvest.\n\nGrant pastors in Franklin and works deliverance on the front lines, so he deals in stories rather ",
+   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW4208710586.mp3",
+   "published": "Thu, 13 Aug 2026 21:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Reflects on mortality, faith, and creation through personal illness and Christian thought.",
+   "reason": "Examines fear as a spiritual and psychological obstacle with scriptural insights.",
    "tradition": "Christian"
-  },
-  {
-   "id": "Buzzsprout-19638488",
-   "showID": "https://rss.buzzsprout.com/2547586.rss",
-   "showTitle": "We!",
-   "title": "I Feel Hurt and Afraid in a World That Holds On to Fear — The Personal and Spiritual Growth That Helped Me Let Go of Fear, Heal My Heart, and Become Part of Humanity's Healing",
-   "summary": "Have you ever felt like the person you used to be no longer fits, but you’re not quite sure who you’re becoming?In this deeply personal episode of the WE Podcast, Joe Mittiga explores what he calls “psychic death,” the emotional and spiritual process of letting go of an old identity so a new version of yourself can emerge.Joe opens up about grief, fear, addiction, divorce, the loss of his beloved dog Zeus, his mother’s death, raising his sons, and the major transformations that have shaped his spiritual journey. Through these experiences, he shares why healing isn’t about avoiding pain or simp",
-   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19638488-i-feel-hurt-and-afraid-in-a-world-that-holds-on-to-fear-the-personal-and-spiritual-growth-that-helped-me-let-go-of-fear-heal-my-heart-and-become-part-of-humanity-s-healing.mp3",
-   "published": "Thu, 13 Aug 2026 07:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Shares deep personal spiritual growth through grief, fear, and transformation.",
-   "tradition": "Secular"
   },
   {
    "id": "coe22.podbean.com/d9f00deb-07c1-36ae-8d8b-39f5794a991b",
@@ -79,8 +66,34 @@
    "published": "Mon, 10 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal faith journey through church hurt and renewal in a worship artist's story.",
+   "reason": "A candid discussion on church hurt, faith struggles, and spiritual resilience.",
    "tradition": "Christian"
+  },
+  {
+   "id": "ddad00eb-0b80-408d-a77e-a5962b9f23de",
+   "showID": "https://anchor.fm/s/10c2267dc/podcast/rss",
+   "showTitle": "The Eric Metaxas Show",
+   "title": "#177 - Victoria Jackson",
+   "summary": "Today On The Eric Metaxas Show, Saturday Night Live alum Victoria Jackson joins Eric to reflect on their recent Socrates In The City retreat in Oxford. Victoria opens up about living with cancer, facing mortality with humor and Christian faith, and why the experience has made her appreciate life even more. She and Eric also discuss C.S. Lewis, Addison’s Walk, The Kilns, John Lennox, scientist Denis Noble, the mystery of creation, and Victoria’s new book of poetry, Not Dead Yet.⭐ ORDER NOW:Revolution: The Birth of the Greatest Nation in the History of the World📕: https://a.co/d/0ir3NlapTODAY'S ",
+   "audioURL": "https://anchor.fm/s/10c2267dc/podcast/play/124044573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-10%2F429596752-44100-2-6acd06e3bafc3.mp3",
+   "published": "Mon, 10 Aug 2026 22:01:01 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Reflects on mortality, faith, and meaning through personal illness and Christian thought.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "Buzzsprout-19638488",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "I Feel Hurt and Afraid in a World That Holds On to Fear — The Personal and Spiritual Growth That Helped Me Let Go of Fear, Heal My Heart, and Become Part of Humanity's Healing",
+   "summary": "Have you ever felt like the person you used to be no longer fits, but you’re not quite sure who you’re becoming?In this deeply personal episode of the WE Podcast, Joe Mittiga explores what he calls “psychic death,” the emotional and spiritual process of letting go of an old identity so a new version of yourself can emerge.Joe opens up about grief, fear, addiction, divorce, the loss of his beloved dog Zeus, his mother’s death, raising his sons, and the major transformations that have shaped his spiritual journey. Through these experiences, he shares why healing isn’t about avoiding pain or simp",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19638488-i-feel-hurt-and-afraid-in-a-world-that-holds-on-to-fear-the-personal-and-spiritual-growth-that-helped-me-let-go-of-fear-heal-my-heart-and-become-part-of-humanity-s-healing.mp3",
+   "published": "Thu, 13 Aug 2026 07:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Shares personal spiritual growth through grief and transformation, touching on identity and suffering.",
+   "tradition": "Secular"
   },
   {
    "id": "037cdf69-1830-430d-bf4c-d937d9e40158",
@@ -92,7 +105,7 @@
    "published": "Tue, 11 Aug 2026 18:00:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores loss of faith and questioning Mormonism from a personal perspective.",
+   "reason": "Explores loss of faith and religious doubt from a personal perspective.",
    "tradition": "Christian"
   },
   {
@@ -105,7 +118,7 @@
    "published": "Thu, 13 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/3d/a5/073da59b-6bfd-04ed-da1e-af2eca0ce7ed/mza_17777249888316424415.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discussion on community, belonging, and social identity with thoughtful reflections.",
+   "reason": "A thoughtful discussion on community, belonging, and social identity.",
    "tradition": "Secular"
   },
   {
@@ -118,7 +131,7 @@
    "published": "Thu, 13 Aug 2026 09:49:12 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores afterlife beliefs and psychic mediumship with focus on mortality and consciousness.",
+   "reason": "Explores afterlife beliefs and psychic mediumship with a focus on mortality.",
    "tradition": "Interfaith"
   },
   {
@@ -131,34 +144,8 @@
    "published": "Sat, 08 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Connects biblical prophecy to Jesus and Sabbath, with some spiritual reflection.",
+   "reason": "Discusses biblical prophecy and covenant, mostly scriptural teaching rather than deep questioning.",
    "tradition": "Christian"
-  },
-  {
-   "id": "b6a11356-3c4b-4c81-9a37-b48e0167137e",
-   "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
-   "showTitle": "BYU Speeches",
-   "title": "To Those Enduring Trials with No End | Jeffrey S. Bednar | July 2026",
-   "summary": "“True disciples endure with Christ through every mortal storm—even those that may never cease in this life.” Jeffrey S. Bednar, associate professor of management at Brigham Young University, delivered this devotional address on July 21, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/b6a11356-3c4b-4c81-9a37-b48e0167137e/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
-   "published": "Wed, 12 Aug 2026 16:37:12 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Addresses enduring suffering with faith in Christ, focused on perseverance.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "b4a5ed5c-7703-4a18-8d70-1c212c6b3baa",
-   "showID": "https://rss.libsyn.com/shows/91087/destinations/454200.xml",
-   "showTitle": "The American Birding Podcast",
-   "title": "10-32: Feathered Forest with Marina Richie",
-   "summary": "Birds and trees are a natural combination, and in author Marina Richie's latest,  Feathered Forest: Aloft With Birds in Ancient Trees, she meditates on the big forests of her home in the Pacific Northwest and the birds that inhabit them. From Pacific Wrens on the forest floor, to Vaux's Swifts high above the canopy, each bird offers insights into the grandeur of these places.  Also, thought we were done with NACC taxonomy? But wait, there's more! Nate updates listeners on the  last proposal packet and the potential for a new crossbill.  Subscribe to the podcast at Apple Podcasts, Spotify, or w",
-   "audioURL": "https://pdcn.co/e/traffic.libsyn.com/secure/birding/ABP_2026_S10-E32_Richie.mp3?dest-id=454200",
-   "published": "Thu, 13 Aug 2026 05:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/32/40/bb/3240bb6b-de4b-0690-ab91-c01650b74d79/mza_5105100870224745336.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Meditation on nature and birds offering insights into life and interconnectedness.",
-   "tradition": "Indigenous"
   },
   {
    "id": "95e79310-929a-11f1-a8e8-ff27f62a7b83",
@@ -170,7 +157,7 @@
    "published": "Mon, 10 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal story of trauma and recovery with reflections on meaning and peace.",
+   "reason": "Personal story of trauma and recovery with some reflection on meaning and peace.",
    "tradition": "Secular"
   },
   {
@@ -184,7 +171,7 @@
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
    "rating": 6,
    "reason": "Sleep meditation inviting rest and relaxation without deep philosophical content.",
-   "tradition": "Buddhist"
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -341,6 +328,7 @@
   "unshaken.podbean.com/58552b92-8191-3251-b417-e753cb4b2752": "2026-08-13",
   "b4a5ed5c-7703-4a18-8d70-1c212c6b3baa": "2026-08-13",
   "9472c60e-90af-11f1-bec7-4f6529ccdc99": "2026-08-13",
-  "b6a11356-3c4b-4c81-9a37-b48e0167137e": "2026-08-13"
+  "b6a11356-3c4b-4c81-9a37-b48e0167137e": "2026-08-13",
+  "99717f16-9685-11f1-aa51-3b986d4766dc": "2026-08-13"
  }
 }
