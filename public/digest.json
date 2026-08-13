@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-13T06:21:19.848507+00:00",
+ "generatedAt": "2026-08-13T08:26:06.870583+00:00",
  "showsScanned": 400,
- "candidates": 54,
+ "candidates": 56,
  "picks": [
   {
    "id": "Buzzsprout-19628431",
@@ -14,8 +14,21 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores consciousness and perception as fundamental questions of experience.",
+   "reason": "A deep discussion on consciousness and perception questioning reality and experience.",
    "tradition": "Secular"
+  },
+  {
+   "id": "ddad00eb-0b80-408d-a77e-a5962b9f23de",
+   "showID": "https://anchor.fm/s/10c2267dc/podcast/rss",
+   "showTitle": "The Eric Metaxas Show",
+   "title": "#177 - Victoria Jackson",
+   "summary": "Today On The Eric Metaxas Show, Saturday Night Live alum Victoria Jackson joins Eric to reflect on their recent Socrates In The City retreat in Oxford. Victoria opens up about living with cancer, facing mortality with humor and Christian faith, and why the experience has made her appreciate life even more. She and Eric also discuss C.S. Lewis, Addison’s Walk, The Kilns, John Lennox, scientist Denis Noble, the mystery of creation, and Victoria’s new book of poetry, Not Dead Yet.⭐ ORDER NOW:Revolution: The Birth of the Greatest Nation in the History of the World📕: https://a.co/d/0ir3NlapTODAY'S ",
+   "audioURL": "https://anchor.fm/s/10c2267dc/podcast/play/124044573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-10%2F429596752-44100-2-6acd06e3bafc3.mp3",
+   "published": "Mon, 10 Aug 2026 22:01:01 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Reflection on mortality, faith, and appreciation of life through personal illness.",
+   "tradition": "Christian"
   },
   {
    "id": "037cdf69-1830-430d-bf4c-d937d9e40158",
@@ -27,20 +40,7 @@
    "published": "Tue, 11 Aug 2026 18:00:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former Mormon shares her journey of faith questioning and loss.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "tbrdeepdive.podbean.com/47e9ec48-48ce-3d1b-9fb1-0185acb9fa15",
-   "showID": "https://feed.podbean.com/tbrdeepdive/feed.xml",
-   "showTitle": "The Bible Recap Deep Dive",
-   "title": "Week 32 (Days 218-224): If God loves everyone, who are \"His people\"?",
-   "summary": "ON TODAY'S EPISODE:\n- How can I walk humbly but also stand up for what is true?\n- If God loves everyone, who are \"His people\"?\n- Is God telling Jeremiah to just deal with the pain?\n- How did the Israelites know the prophets were from God?\n- I’m struggling in Jeremiah! Where is the gospel in this?\n\n\nRECAP LINKS:\nDay 218 - Podcast / YouTube\nDay 219 - Podcast / YouTube\nDay 220 - Podcast / YouTube\nDay 221 - Podcast / YouTube\nDay 222 - Podcast / YouTube\nDay 223 - Podcast / YouTube\nDay 224 - Podcast / YouTube\n\n\nONLINE BIBLE RESOURCES:\n- Got Questions?\n- BibleProject\n- Blue Letter Bible\nNote: This is",
-   "audioURL": "https://mcdn.podbean.com/mf/web/6wsrx5mpb5kh623f/TBR_DeepDive_OTEp32_FCv17vvv5.mp3",
-   "published": "Wed, 12 Aug 2026 09:31:00 -0500",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/a9/95/07a995c8-be85-bb61-28ff-736a0412cbb8/mza_17323749963932538168.png/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Serious biblical discussion on God's people, faith, and suffering in Jeremiah.",
+   "reason": "A personal story of losing Mormon faith, exploring doubt and identity.",
    "tradition": "Christian"
   },
   {
@@ -66,34 +66,8 @@
    "published": "Mon, 10 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal faith journey through church hurt and renewal in worship music.",
+   "reason": "Personal faith journey through church hurt and resilience in worship music.",
    "tradition": "Christian"
-  },
-  {
-   "id": "ddad00eb-0b80-408d-a77e-a5962b9f23de",
-   "showID": "https://anchor.fm/s/10c2267dc/podcast/rss",
-   "showTitle": "The Eric Metaxas Show",
-   "title": "#177 - Victoria Jackson",
-   "summary": "Today On The Eric Metaxas Show, Saturday Night Live alum Victoria Jackson joins Eric to reflect on their recent Socrates In The City retreat in Oxford. Victoria opens up about living with cancer, facing mortality with humor and Christian faith, and why the experience has made her appreciate life even more. She and Eric also discuss C.S. Lewis, Addison’s Walk, The Kilns, John Lennox, scientist Denis Noble, the mystery of creation, and Victoria’s new book of poetry, Not Dead Yet.⭐ ORDER NOW:Revolution: The Birth of the Greatest Nation in the History of the World📕: https://a.co/d/0ir3NlapTODAY'S ",
-   "audioURL": "https://anchor.fm/s/10c2267dc/podcast/play/124044573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-10%2F429596752-44100-2-6acd06e3bafc3.mp3",
-   "published": "Mon, 10 Aug 2026 22:01:01 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A Christian reflection on mortality, faith, and appreciating life through cancer experience.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "5b727ca2-967a-11f1-bf4a-672ed2c6e43d",
-   "showID": "https://feeds.megaphone.fm/fearlesswithjasonwhitlock",
-   "showTitle": "Fearless with Jason Whitlock",
-   "title": "Mamdani Wants Your Kids for 4 Hours — Here's the Real Cost | Jason Whitlock Harmony",
-   "summary": "Zohran Mamdani's NYC is offering free government childcare on August 16th — four hours, five boroughs, kids 6–13, dinner included. They call it Parents' Night Out. Scripture calls parenting a charge you don't outsource to City Hall. Jason Whitlock and Chad Jackson break down why the state is not your babysitter, and why free pizza is a soft door to hard indoctrination. The government was built to get out of parents’ way — not replace them.\n\n\n\n➢ Show Outline\n\n00:00 The City's \"Parents Night Out\" Program\n\n01:00 Biblical Perspective on Parenting vs. the State\n\n02:31 The State as a \"Soft Parent\" a",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pfx.vpixl.com/4V6da/arttrk.com/p/BLZM1/verifi.podscribe.com/rss/p/mgln.ai/e/285/pscrb.fm/rss/p/prfx.byspotify.com/e/claritaspod.com/measure/traffic.megaphone.fm/BMDC3893494405.mp3",
-   "published": "Wed, 12 Aug 2026 21:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/7c/46/a8/7c46a888-21dd-c3ee-8dc8-10820f0b0ae2/mza_17626472455948222894.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Critique of government childcare and parenting from a cultural and ethical view.",
-   "tradition": "Secular"
   },
   {
    "id": "1e397483-4aaa-4f23-a8ef-d556757584e1",
@@ -104,9 +78,48 @@
    "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/1e397483-4aaa-4f23-a8ef-d556757584e1.mp3",
    "published": "Sat, 08 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "A devotional reading linking prophecy fulfillment and Sabbath ethics in the Bible.",
+   "rating": 7,
+   "reason": "A Christian reflection on prophecy and Sabbath covenant with ethical and spiritual implications.",
    "tradition": "Christian"
+  },
+  {
+   "id": "97709e6e-9037-4310-a135-e6af3c266bfc",
+   "showID": "https://feeds.libsyn.com/56578/rss",
+   "showTitle": "Joyce Meyer Enjoying Everyday Life® Radio Podcast",
+   "title": "Tests and Rewards",
+   "summary": "Life isn't always easy—but God is always good. Today on 15 Minutes in the Word, Joyce shares how to trust Him through trials and see His plan at work.",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/jmradio/JMM_Aug_13_2026.mp3?dest-id=211463",
+   "published": "Thu, 13 Aug 2026 05:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/20/5f/89205fa5-8450-d917-3f45-a5b26962a087/mza_377853489433632553.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Christian encouragement to trust God through trials, touching on suffering and faith.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "urn:bbc:podcast:p0p43kt4",
+   "showID": "https://podcasts.files.bbci.co.uk/p02nq0gn.rss",
+   "showTitle": "Global News Podcast",
+   "title": "Israeli settlers trap Palestinians in their West Bank homes",
+   "summary": "Two Palestinian families remain trapped in their homes by settlers who moved into their village in the occupied West Bank on Sunday. The first Israeli soldiers who arrived at the scene were filmed praying with the extremist settlers. But after clashes they left and the settlers have returned. The Palestinian families say their water and power have been cut and they have dwindling food supplies. Also, has the war in Iran eroded Donald Trump's support in one of his key strongholds?  Zhu Rongji, the former Chinese premier who championed free market reforms, has died at the age of 97. And we hear ",
+   "audioURL": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p43k4c.mp3",
+   "published": "Wed, 12 Aug 2026 15:52:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/84/57/09/8457093f-677a-d6de-5666-6514cc588a7e/mza_17083078915388787537.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Reports on conflict with some implicit ethical issues but no deep philosophical treatment.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "95e79310-929a-11f1-a8e8-ff27f62a7b83",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "TRAVIS BARKER: \"My Biggest Fear Actually Happened\"",
+   "summary": "In this episode, Jay sits down with legendary drummer Travis Barker to talk about the discipline that built his career, the tragedy that almost ended it, and the slow, hard-won path back to peace. Travis opens up about losing his mother as a teenager, his struggles with addiction, the 2008 plane crash that changed his life, and how love, friendship, and sheer determination brought him back to himself.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Free 30-Day Trial.\n\nJAY’S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\n\nJoin 900,000+ r",
+   "audioURL": "https://traffic.megaphone.fm/GLT5605735602.mp3",
+   "published": "Mon, 10 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Personal story of trauma and recovery with reflections on love and determination.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -253,6 +266,8 @@
   "02e38fdc-7973-11f1-9b81-ff71e29e03e3": "2026-08-12",
   "ddad00eb-0b80-408d-a77e-a5962b9f23de": "2026-08-13",
   "tbrdeepdive.podbean.com/47e9ec48-48ce-3d1b-9fb1-0185acb9fa15": "2026-08-13",
-  "5b727ca2-967a-11f1-bf4a-672ed2c6e43d": "2026-08-13"
+  "5b727ca2-967a-11f1-bf4a-672ed2c6e43d": "2026-08-13",
+  "97709e6e-9037-4310-a135-e6af3c266bfc": "2026-08-13",
+  "urn:bbc:podcast:p0p43kt4": "2026-08-13"
  }
 }
