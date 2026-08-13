@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-13T22:50:27.701942+00:00",
+ "generatedAt": "2026-08-13T23:48:21.507321+00:00",
  "showsScanned": 400,
  "candidates": 62,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Wed, 12 Aug 2026 20:33:04 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A thorough exploration of suffering and faith through the Book of Job.",
+   "reason": "A thorough exploration of suffering and faith through the Book of Job's narrative.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores consciousness and perception as controlled hallucination with deep questions.",
+   "reason": "Explores consciousness as perception and the brain's role in shaping reality.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Mon, 10 Aug 2026 22:01:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A cancer patient reflects on mortality, faith, and appreciation of life.",
+   "reason": "Reflects on mortality, faith, and humor through a cancer survivor's perspective.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +53,20 @@
    "published": "Thu, 13 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of spiritual transformation through grief and letting go.",
+   "reason": "Shares a deep personal and spiritual transformation involving grief and identity.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "86ddc991-7d6e-4b46-aae7-b4a500a02b3b",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "The Afterlife - Best of Coast to Coast AM - 8/12/26",
+   "summary": "George Noory and author Sandra Champlain explore her research into the afterlife and what happens to people after they die, whether psychic mediums truly can contact the spirits of the dead, and what causes ghosts to haunt the living.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/86ddc991-7d6e-4b46-aae7-b4a500a02b3b/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Thu, 13 Aug 2026 09:49:12 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores afterlife and spirit contact with a focus on death and what follows.",
    "tradition": "Interfaith"
   },
   {
@@ -66,7 +79,7 @@
    "published": "Wed, 12 Aug 2026 09:31:00 -0500",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/a9/95/07a995c8-be85-bb61-28ff-736a0412cbb8/mza_17323749963932538168.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses faith, divine truth, and struggle with scripture in Jeremiah.",
+   "reason": "Engages with faith, suffering, and identity in the context of Jeremiah's struggles.",
    "tradition": "Christian"
   },
   {
@@ -79,20 +92,7 @@
    "published": "Sun, 09 Aug 2026 22:29:45 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores true greatness and humility in the Kingdom of God.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "fdb8761dd68e2d9df9f35216a81ee585",
-   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
-   "showTitle": "Becoming Something with Jonathan Pokluda",
-   "title": "Episode 384: Reckless Love, Church Hurt & Outsinging the Angels | feat. Cory Asbury",
-   "summary": "<p>This week we sit down with worship artist Cory Asbury — live from the tour bus — to talk about his journey through church hurt, online criticism, and what it looks like to come out the other side still singing. Cory opens up about the story behind \"Reckless Love,\" his new song Prodigal God, and why he's done being cautious with his faith. If you've ever felt beaten up by the church or beaten down by the noise of social media, this episode is for you!</p>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4L2M2MDk4MDNkLTczNzYtNGQzZS1hYzc5LWM3YmM4Mjk0YWNiMC9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=rrfqtsn",
-   "published": "Mon, 10 Aug 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A worship artist reflects on faith, doubt, and healing from church hurt.",
+   "reason": "Discusses true greatness and humility from a Christian ethical perspective.",
    "tradition": "Christian"
   },
   {
@@ -105,20 +105,7 @@
    "published": "Tue, 11 Aug 2026 18:00:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A former Mormon shares her journey of questioning and losing faith.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "b6a11356-3c4b-4c81-9a37-b48e0167137e",
-   "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
-   "showTitle": "BYU Speeches",
-   "title": "To Those Enduring Trials with No End | Jeffrey S. Bednar | July 2026",
-   "summary": "“True disciples endure with Christ through every mortal storm—even those that may never cease in this life.” Jeffrey S. Bednar, associate professor of management at Brigham Young University, delivered this devotional address on July 21, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/b6a11356-3c4b-4c81-9a37-b48e0167137e/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
-   "published": "Wed, 12 Aug 2026 16:37:12 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A devotional on enduring unending trials with Christ.",
+   "reason": "Explores childhood faith doubts and loss within Mormonism.",
    "tradition": "Christian"
   },
   {
@@ -131,7 +118,7 @@
    "published": "Thu, 13 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/3d/a5/073da59b-6bfd-04ed-da1e-af2eca0ce7ed/mza_17777249888316424415.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses belonging, community, and social identity with thoughtful depth.",
+   "reason": "Discusses belonging, community, and social identity with depth.",
    "tradition": "Secular"
   },
   {
@@ -144,21 +131,8 @@
    "published": "Thu, 13 Aug 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores fear as a control mechanism with scriptural references.",
+   "reason": "Discusses fear, scripture, and spiritual paralysis with practical insight.",
    "tradition": "Christian"
-  },
-  {
-   "id": "86ddc991-7d6e-4b46-aae7-b4a500a02b3b",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
-   "showTitle": "The Best of Coast to Coast AM",
-   "title": "The Afterlife - Best of Coast to Coast AM - 8/12/26",
-   "summary": "George Noory and author Sandra Champlain explore her research into the afterlife and what happens to people after they die, whether psychic mediums truly can contact the spirits of the dead, and what causes ghosts to haunt the living.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/86ddc991-7d6e-4b46-aae7-b4a500a02b3b/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
-   "published": "Thu, 13 Aug 2026 09:49:12 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores afterlife and spirit contact from a paranormal perspective.",
-   "tradition": "Interfaith"
   },
   {
    "id": "90f95d62-94f6-11f1-b91d-67a2e6c1c207",
@@ -170,8 +144,21 @@
    "published": "Tue, 11 Aug 2026 06:30:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/10/5f/b8/105fb8c5-0eff-0d25-a03b-4a704972b6b6/mza_2001570157629856111.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Talks about healing, faith, and transformation but with a practical health focus.",
+   "reason": "Connects healing and faith to personal transformation, with some ethical reflection.",
    "tradition": "Secular"
+  },
+  {
+   "id": "fdb8761dd68e2d9df9f35216a81ee585",
+   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
+   "showTitle": "Becoming Something with Jonathan Pokluda",
+   "title": "Episode 384: Reckless Love, Church Hurt & Outsinging the Angels | feat. Cory Asbury",
+   "summary": "<p>This week we sit down with worship artist Cory Asbury — live from the tour bus — to talk about his journey through church hurt, online criticism, and what it looks like to come out the other side still singing. Cory opens up about the story behind \"Reckless Love,\" his new song Prodigal God, and why he's done being cautious with his faith. If you've ever felt beaten up by the church or beaten down by the noise of social media, this episode is for you!</p>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4L2M2MDk4MDNkLTczNzYtNGQzZS1hYzc5LWM3YmM4Mjk0YWNiMC9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=rrfqtsn",
+   "published": "Mon, 10 Aug 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "A personal faith journey through church hurt and resilience in worship music.",
+   "tradition": "Christian"
   },
   {
    "id": "1e397483-4aaa-4f23-a8ef-d556757584e1",
@@ -183,21 +170,21 @@
    "published": "Sat, 08 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Connects biblical prophecy to Jesus and Sabbath as covenant sign.",
+   "reason": "Connects biblical prophecy and covenant themes to Jesus and Sabbath observance.",
    "tradition": "Christian"
   },
   {
-   "id": "95e79310-929a-11f1-a8e8-ff27f62a7b83",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "TRAVIS BARKER: \"My Biggest Fear Actually Happened\"",
-   "summary": "In this episode, Jay sits down with legendary drummer Travis Barker to talk about the discipline that built his career, the tragedy that almost ended it, and the slow, hard-won path back to peace. Travis opens up about losing his mother as a teenager, his struggles with addiction, the 2008 plane crash that changed his life, and how love, friendship, and sheer determination brought him back to himself.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Free 30-Day Trial.\n\nJAY’S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\n\nJoin 900,000+ r",
-   "audioURL": "https://traffic.megaphone.fm/GLT5605735602.mp3",
-   "published": "Mon, 10 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "id": "b6a11356-3c4b-4c81-9a37-b48e0167137e",
+   "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
+   "showTitle": "BYU Speeches",
+   "title": "To Those Enduring Trials with No End | Jeffrey S. Bednar | July 2026",
+   "summary": "“True disciples endure with Christ through every mortal storm—even those that may never cease in this life.” Jeffrey S. Bednar, associate professor of management at Brigham Young University, delivered this devotional address on July 21, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/b6a11356-3c4b-4c81-9a37-b48e0167137e/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
+   "published": "Wed, 12 Aug 2026 16:37:12 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Candid story of trauma, loss, and recovery with reflections on peace and identity.",
-   "tradition": "Secular"
+   "reason": "Devotional on enduring ongoing trials with Christ's support.",
+   "tradition": "Christian"
   }
  ],
  "history": {
