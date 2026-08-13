@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-13T21:52:44.646446+00:00",
+ "generatedAt": "2026-08-13T22:50:27.701942+00:00",
  "showsScanned": 400,
- "candidates": 61,
+ "candidates": 62,
  "picks": [
   {
    "id": "unshaken.podbean.com/58552b92-8191-3251-b417-e753cb4b2752",
@@ -14,7 +14,7 @@
    "published": "Wed, 12 Aug 2026 20:33:04 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A thorough exploration of suffering, faith, and divine wrestling in the Book of Job.",
+   "reason": "A thorough exploration of suffering and faith through the Book of Job.",
    "tradition": "Christian"
   },
   {
@@ -27,20 +27,46 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores consciousness and perception deeply, questioning reality and experience.",
+   "reason": "Explores consciousness and perception as controlled hallucination with deep questions.",
    "tradition": "Secular"
   },
   {
-   "id": "99717f16-9685-11f1-aa51-3b986d4766dc",
-   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
-   "showTitle": "Blurry Creatures",
-   "title": "EP: 454 That Fear You Feel Isn't Yours with Grant Pemberton *members only trailer",
-   "summary": "Fear is a control mechanism. Governments know it. The enemy knows it. And right now it hangs thick in the air. Grant Pemberton returns to Blurry Creatures to name the thing paralyzing the church and hand you the tools to break it. He walks through 2 Timothy, the power packed into the word dunamis, and why scripture commands us not to fear more than 150 times. Fear is not just a feeling. It is a scarecrow standing in a field full of food, and most of us spend our whole lives avoiding the harvest.\n\nGrant pastors in Franklin and works deliverance on the front lines, so he deals in stories rather ",
-   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW4208710586.mp3",
-   "published": "Thu, 13 Aug 2026 21:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "id": "ddad00eb-0b80-408d-a77e-a5962b9f23de",
+   "showID": "https://anchor.fm/s/10c2267dc/podcast/rss",
+   "showTitle": "The Eric Metaxas Show",
+   "title": "#177 - Victoria Jackson",
+   "summary": "Today On The Eric Metaxas Show, Saturday Night Live alum Victoria Jackson joins Eric to reflect on their recent Socrates In The City retreat in Oxford. Victoria opens up about living with cancer, facing mortality with humor and Christian faith, and why the experience has made her appreciate life even more. She and Eric also discuss C.S. Lewis, Addison’s Walk, The Kilns, John Lennox, scientist Denis Noble, the mystery of creation, and Victoria’s new book of poetry, Not Dead Yet.⭐ ORDER NOW:Revolution: The Birth of the Greatest Nation in the History of the World📕: https://a.co/d/0ir3NlapTODAY'S ",
+   "audioURL": "https://anchor.fm/s/10c2267dc/podcast/play/124044573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-10%2F429596752-44100-2-6acd06e3bafc3.mp3",
+   "published": "Mon, 10 Aug 2026 22:01:01 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines fear as a spiritual and psychological obstacle with scriptural insights.",
+   "reason": "A cancer patient reflects on mortality, faith, and appreciation of life.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "Buzzsprout-19638488",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "I Feel Hurt and Afraid in a World That Holds On to Fear — The Personal and Spiritual Growth That Helped Me Let Go of Fear, Heal My Heart, and Become Part of Humanity's Healing",
+   "summary": "Have you ever felt like the person you used to be no longer fits, but you’re not quite sure who you’re becoming?In this deeply personal episode of the WE Podcast, Joe Mittiga explores what he calls “psychic death,” the emotional and spiritual process of letting go of an old identity so a new version of yourself can emerge.Joe opens up about grief, fear, addiction, divorce, the loss of his beloved dog Zeus, his mother’s death, raising his sons, and the major transformations that have shaped his spiritual journey. Through these experiences, he shares why healing isn’t about avoiding pain or simp",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19638488-i-feel-hurt-and-afraid-in-a-world-that-holds-on-to-fear-the-personal-and-spiritual-growth-that-helped-me-let-go-of-fear-heal-my-heart-and-become-part-of-humanity-s-healing.mp3",
+   "published": "Thu, 13 Aug 2026 07:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Personal story of spiritual transformation through grief and letting go.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "tbrdeepdive.podbean.com/47e9ec48-48ce-3d1b-9fb1-0185acb9fa15",
+   "showID": "https://feed.podbean.com/tbrdeepdive/feed.xml",
+   "showTitle": "The Bible Recap Deep Dive",
+   "title": "Week 32 (Days 218-224): If God loves everyone, who are \"His people\"?",
+   "summary": "ON TODAY'S EPISODE:\n- How can I walk humbly but also stand up for what is true?\n- If God loves everyone, who are \"His people\"?\n- Is God telling Jeremiah to just deal with the pain?\n- How did the Israelites know the prophets were from God?\n- I’m struggling in Jeremiah! Where is the gospel in this?\n\n\nRECAP LINKS:\nDay 218 - Podcast / YouTube\nDay 219 - Podcast / YouTube\nDay 220 - Podcast / YouTube\nDay 221 - Podcast / YouTube\nDay 222 - Podcast / YouTube\nDay 223 - Podcast / YouTube\nDay 224 - Podcast / YouTube\n\n\nONLINE BIBLE RESOURCES:\n- Got Questions?\n- BibleProject\n- Blue Letter Bible\nNote: This is",
+   "audioURL": "https://mcdn.podbean.com/mf/web/6wsrx5mpb5kh623f/TBR_DeepDive_OTEp32_FCv17vvv5.mp3",
+   "published": "Wed, 12 Aug 2026 09:31:00 -0500",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/a9/95/07a995c8-be85-bb61-28ff-736a0412cbb8/mza_17323749963932538168.png/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discusses faith, divine truth, and struggle with scripture in Jeremiah.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +79,7 @@
    "published": "Sun, 09 Aug 2026 22:29:45 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines true greatness through Jesus' teachings on humility and service.",
+   "reason": "Explores true greatness and humility in the Kingdom of God.",
    "tradition": "Christian"
   },
   {
@@ -66,34 +92,8 @@
    "published": "Mon, 10 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A candid discussion on church hurt, faith struggles, and spiritual resilience.",
+   "reason": "A worship artist reflects on faith, doubt, and healing from church hurt.",
    "tradition": "Christian"
-  },
-  {
-   "id": "ddad00eb-0b80-408d-a77e-a5962b9f23de",
-   "showID": "https://anchor.fm/s/10c2267dc/podcast/rss",
-   "showTitle": "The Eric Metaxas Show",
-   "title": "#177 - Victoria Jackson",
-   "summary": "Today On The Eric Metaxas Show, Saturday Night Live alum Victoria Jackson joins Eric to reflect on their recent Socrates In The City retreat in Oxford. Victoria opens up about living with cancer, facing mortality with humor and Christian faith, and why the experience has made her appreciate life even more. She and Eric also discuss C.S. Lewis, Addison’s Walk, The Kilns, John Lennox, scientist Denis Noble, the mystery of creation, and Victoria’s new book of poetry, Not Dead Yet.⭐ ORDER NOW:Revolution: The Birth of the Greatest Nation in the History of the World📕: https://a.co/d/0ir3NlapTODAY'S ",
-   "audioURL": "https://anchor.fm/s/10c2267dc/podcast/play/124044573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-10%2F429596752-44100-2-6acd06e3bafc3.mp3",
-   "published": "Mon, 10 Aug 2026 22:01:01 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Reflects on mortality, faith, and meaning through personal illness and Christian thought.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "Buzzsprout-19638488",
-   "showID": "https://rss.buzzsprout.com/2547586.rss",
-   "showTitle": "We!",
-   "title": "I Feel Hurt and Afraid in a World That Holds On to Fear — The Personal and Spiritual Growth That Helped Me Let Go of Fear, Heal My Heart, and Become Part of Humanity's Healing",
-   "summary": "Have you ever felt like the person you used to be no longer fits, but you’re not quite sure who you’re becoming?In this deeply personal episode of the WE Podcast, Joe Mittiga explores what he calls “psychic death,” the emotional and spiritual process of letting go of an old identity so a new version of yourself can emerge.Joe opens up about grief, fear, addiction, divorce, the loss of his beloved dog Zeus, his mother’s death, raising his sons, and the major transformations that have shaped his spiritual journey. Through these experiences, he shares why healing isn’t about avoiding pain or simp",
-   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19638488-i-feel-hurt-and-afraid-in-a-world-that-holds-on-to-fear-the-personal-and-spiritual-growth-that-helped-me-let-go-of-fear-heal-my-heart-and-become-part-of-humanity-s-healing.mp3",
-   "published": "Thu, 13 Aug 2026 07:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Shares personal spiritual growth through grief and transformation, touching on identity and suffering.",
-   "tradition": "Secular"
   },
   {
    "id": "037cdf69-1830-430d-bf4c-d937d9e40158",
@@ -105,7 +105,20 @@
    "published": "Tue, 11 Aug 2026 18:00:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores loss of faith and religious doubt from a personal perspective.",
+   "reason": "A former Mormon shares her journey of questioning and losing faith.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "b6a11356-3c4b-4c81-9a37-b48e0167137e",
+   "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
+   "showTitle": "BYU Speeches",
+   "title": "To Those Enduring Trials with No End | Jeffrey S. Bednar | July 2026",
+   "summary": "“True disciples endure with Christ through every mortal storm—even those that may never cease in this life.” Jeffrey S. Bednar, associate professor of management at Brigham Young University, delivered this devotional address on July 21, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/b6a11356-3c4b-4c81-9a37-b48e0167137e/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
+   "published": "Wed, 12 Aug 2026 16:37:12 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A devotional on enduring unending trials with Christ.",
    "tradition": "Christian"
   },
   {
@@ -118,8 +131,21 @@
    "published": "Thu, 13 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/3d/a5/073da59b-6bfd-04ed-da1e-af2eca0ce7ed/mza_17777249888316424415.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A thoughtful discussion on community, belonging, and social identity.",
+   "reason": "Discusses belonging, community, and social identity with thoughtful depth.",
    "tradition": "Secular"
+  },
+  {
+   "id": "99717f16-9685-11f1-aa51-3b986d4766dc",
+   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
+   "showTitle": "Blurry Creatures",
+   "title": "EP: 454 That Fear You Feel Isn't Yours with Grant Pemberton *members only trailer",
+   "summary": "Fear is a control mechanism. Governments know it. The enemy knows it. And right now it hangs thick in the air. Grant Pemberton returns to Blurry Creatures to name the thing paralyzing the church and hand you the tools to break it. He walks through 2 Timothy, the power packed into the word dunamis, and why scripture commands us not to fear more than 150 times. Fear is not just a feeling. It is a scarecrow standing in a field full of food, and most of us spend our whole lives avoiding the harvest.\n\nGrant pastors in Franklin and works deliverance on the front lines, so he deals in stories rather ",
+   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW4208710586.mp3",
+   "published": "Thu, 13 Aug 2026 21:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores fear as a control mechanism with scriptural references.",
+   "tradition": "Christian"
   },
   {
    "id": "86ddc991-7d6e-4b46-aae7-b4a500a02b3b",
@@ -131,8 +157,21 @@
    "published": "Thu, 13 Aug 2026 09:49:12 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores afterlife beliefs and psychic mediumship with a focus on mortality.",
+   "reason": "Explores afterlife and spirit contact from a paranormal perspective.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "90f95d62-94f6-11f1-b91d-67a2e6c1c207",
+   "showID": "https://rss.introcast.io/1462192400/feeds.megaphone.fm/YAP4175586993",
+   "showTitle": "Creating Confidence with Heather Monahan",
+   "title": "The Path to Lasting Health, Purpose, and Peace with Justin Roethlingshoefer",
+   "summary": "What if the life you've been praying for starts with healing the parts of yourself you've been ignoring? In this episode, I sit down with bestselling author, health expert, and performance coach Justin Roethlingshoefer to talk about the connection between healing, faith, and lasting transformation. Justin shares how overcoming an eating disorder and a life-changing health crisis led him to discover that true health starts from the inside out. We also dive into why changing your identity is more powerful than changing your habits, how to quiet the noise so you can hear the wisdom guiding your l",
+   "audioURL": "https://prefix.up.audio/s/www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/s.gum.fm/s-6245bf8d4189c473044d2320/cohst.app/pdcst/7K7K1I/traffic.megaphone.fm/YAP3775413821.mp3",
+   "published": "Tue, 11 Aug 2026 06:30:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/10/5f/b8/105fb8c5-0eff-0d25-a03b-4a704972b6b6/mza_2001570157629856111.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Talks about healing, faith, and transformation but with a practical health focus.",
+   "tradition": "Secular"
   },
   {
    "id": "1e397483-4aaa-4f23-a8ef-d556757584e1",
@@ -144,7 +183,7 @@
    "published": "Sat, 08 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses biblical prophecy and covenant, mostly scriptural teaching rather than deep questioning.",
+   "reason": "Connects biblical prophecy to Jesus and Sabbath as covenant sign.",
    "tradition": "Christian"
   },
   {
@@ -157,20 +196,7 @@
    "published": "Mon, 10 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal story of trauma and recovery with some reflection on meaning and peace.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "9472c60e-90af-11f1-bec7-4f6529ccdc99",
-   "showID": "https://feeds.megaphone.fm/SGP8517078272",
-   "showTitle": "Get Sleepy: Sleep meditation and stories",
-   "title": "A Body Scan Meditation for Sleep",
-   "summary": "Writer & Narrator: Nicky Branagh-Schmidt 🇬🇧\n\n\n\nWelcome back, sleepyheads. Tonight's meditation is a slow invitation for every single part of you to rest; to soften; to welcome in sleep. 😴&nbsp;\n\n\n\nTo receive our FREE weekly newsletter:&nbsp;⁠⁠⁠⁠JOIN OUR MAILING LIST⁠⁠⁠⁠\n\n\n\nEnjoy various playlists&nbsp;of our stories and meditations on our&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠Slumber Studios Spotify profile⁠⁠⁠⁠⁠⁠⁠⁠.\n\n\n\nGet Sleepy Premium\n\nListen completely ad-free and access our entire catalogue of stories and meditations by subscribing to our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠premium feed.⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\nYour support means the world to us",
-   "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/SGP3506731765.mp3",
-   "published": "Thu, 13 Aug 2026 16:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Sleep meditation inviting rest and relaxation without deep philosophical content.",
+   "reason": "Candid story of trauma, loss, and recovery with reflections on peace and identity.",
    "tradition": "Secular"
   }
  ],
