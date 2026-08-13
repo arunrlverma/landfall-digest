@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-13T10:13:39.129608+00:00",
+ "generatedAt": "2026-08-13T11:52:49.162632+00:00",
  "showsScanned": 400,
- "candidates": 57,
+ "candidates": 58,
  "picks": [
   {
    "id": "Buzzsprout-19628431",
@@ -14,7 +14,7 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A deep inquiry into consciousness and perception's role in reality and experience.",
+   "reason": "A deep conversation on consciousness and perception questioning reality and experience.",
    "tradition": "Secular"
   },
   {
@@ -27,8 +27,21 @@
    "published": "Mon, 10 Aug 2026 22:01:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Reflects on mortality, faith, and appreciation of life through personal illness.",
+   "reason": "Reflects on mortality, faith, and humor through a Christian lens and personal story.",
    "tradition": "Christian"
+  },
+  {
+   "id": "Buzzsprout-19638488",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "I Feel Hurt and Afraid in a World That Holds On to Fear — The Personal and Spiritual Growth That Helped Me Let Go of Fear, Heal My Heart, and Become Part of Humanity's Healing",
+   "summary": "Have you ever felt like the person you used to be no longer fits, but you’re not quite sure who you’re becoming?In this deeply personal episode of the WE Podcast, Joe Mittiga explores what he calls “psychic death,” the emotional and spiritual process of letting go of an old identity so a new version of yourself can emerge.Joe opens up about grief, fear, addiction, divorce, the loss of his beloved dog Zeus, his mother’s death, raising his sons, and the major transformations that have shaped his spiritual journey. Through these experiences, he shares why healing isn’t about avoiding pain or simp",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19638488-i-feel-hurt-and-afraid-in-a-world-that-holds-on-to-fear-the-personal-and-spiritual-growth-that-helped-me-let-go-of-fear-heal-my-heart-and-become-part-of-humanity-s-healing.mp3",
+   "published": "Thu, 13 Aug 2026 07:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A personal spiritual journey through grief, fear, and transformation is deeply explored.",
+   "tradition": "Interfaith"
   },
   {
    "id": "037cdf69-1830-430d-bf4c-d937d9e40158",
@@ -40,7 +53,20 @@
    "published": "Tue, 11 Aug 2026 18:00:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Ex-Mormon shares personal faith loss and questions from childhood.",
+   "reason": "An ex-Mormon shares her journey of faith loss and questioning Mormonism.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "1e397483-4aaa-4f23-a8ef-d556757584e1",
+   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
+   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
+   "title": "Day 220: Prophecy Fulfilled (2026)",
+   "summary": "Fr. Mike points out that the prophecy from Isaiah 61 is fulfilled by Jesus (as described in Luke 4). In Ezekiel, Fr. Mike draws our attention to the importance of the Sabbath as the sign of the covenant with God. The readings are Isaiah 61-62, Ezekiel 20, and Proverbs 13:13-16.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/1e397483-4aaa-4f23-a8ef-d556757584e1.mp3",
+   "published": "Sat, 08 Aug 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores biblical prophecy fulfillment and covenant themes with theological insight.",
    "tradition": "Christian"
   },
   {
@@ -52,9 +78,9 @@
    "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3314552831.mp3",
    "published": "Thu, 13 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/3d/a5/073da59b-6bfd-04ed-da1e-af2eca0ce7ed/mza_17777249888316424415.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores belonging, community, and identity with thoughtful social reflection.",
-   "tradition": "Interfaith"
+   "rating": 7,
+   "reason": "Explores community, belonging, and identity with thoughtful social and personal insight.",
+   "tradition": "Secular"
   },
   {
    "id": "coe22.podbean.com/d9f00deb-07c1-36ae-8d8b-39f5794a991b",
@@ -65,8 +91,8 @@
    "audioURL": "https://mcdn.podbean.com/mf/web/ub24v53wwthcc99t/20260806_722p_117cvnm.mp3",
    "published": "Sun, 09 Aug 2026 22:29:45 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Examines true greatness through Jesus' teachings on humility and service.",
+   "rating": 6,
+   "reason": "Explores Christian ideas of greatness and humility, focused on religious teaching.",
    "tradition": "Christian"
   },
   {
@@ -78,47 +104,8 @@
    "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4L2M2MDk4MDNkLTczNzYtNGQzZS1hYzc5LWM3YmM4Mjk0YWNiMC9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=rrfqtsn",
    "published": "Mon, 10 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A candid talk about faith struggles and healing from church hurt.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "95e79310-929a-11f1-a8e8-ff27f62a7b83",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "TRAVIS BARKER: \"My Biggest Fear Actually Happened\"",
-   "summary": "In this episode, Jay sits down with legendary drummer Travis Barker to talk about the discipline that built his career, the tragedy that almost ended it, and the slow, hard-won path back to peace. Travis opens up about losing his mother as a teenager, his struggles with addiction, the 2008 plane crash that changed his life, and how love, friendship, and sheer determination brought him back to himself.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Free 30-Day Trial.\n\nJAY’S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\n\nJoin 900,000+ r",
-   "audioURL": "https://traffic.megaphone.fm/GLT5605735602.mp3",
-   "published": "Mon, 10 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Reflects on trauma, recovery, and meaning through a musician's life story.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "ae42afb2-7df6-11f0-b513-2bc1cd1850ca",
-   "showID": "https://feeds.megaphone.fm/twogirlsoneghost",
-   "showTitle": "Two Girls One Ghost",
-   "title": "Episode 385 - Grand Canyon Mysteries (Part 1) | 1909 Egyptian Myth",
-   "summary": "It’s our anniversary! We’re celebrating nine years of Two Girls One Ghost with a two-part deep dive into one of the most mysterious places on Earth: the Grand Canyon.\n\nIn Part 1, we explore the ancient history, sacred beliefs, and legends surrounding this massive natural wonder before diving into one of the wildest mysteries ever reported. In 1909, a newspaper claimed an explorer had discovered a hidden underground cavern filled with hieroglyphics, mummies, ancient artifacts, and a mysterious idol blending Egyptian and Buddhist imagery. But if the discovery was real, why was the cave never fou",
-   "audioURL": "https://p.podderapp.com/6482611741/pscrb.fm/rss/p/pdst.fm/e/clrtpod.com/m/pscrb.fm/rss/p/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/mgln.ai/e/143/pdrl.fm/caf70e/traffic.megaphone.fm/SONY2958414572.mp3",
-   "published": "Sun, 09 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/77/07/ee/7707ee37-5a35-63a9-f5c2-1f6c8df90300/mza_3178827590310487665.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores sacred beliefs and mysteries tied to an ancient natural site.",
-   "tradition": "Indigenous"
-  },
-  {
-   "id": "1e397483-4aaa-4f23-a8ef-d556757584e1",
-   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
-   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
-   "title": "Day 220: Prophecy Fulfilled (2026)",
-   "summary": "Fr. Mike points out that the prophecy from Isaiah 61 is fulfilled by Jesus (as described in Luke 4). In Ezekiel, Fr. Mike draws our attention to the importance of the Sabbath as the sign of the covenant with God. The readings are Isaiah 61-62, Ezekiel 20, and Proverbs 13:13-16.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/1e397483-4aaa-4f23-a8ef-d556757584e1.mp3",
-   "published": "Sat, 08 Aug 2026 03:15:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Focuses on biblical prophecy fulfillment and covenant themes.",
+   "reason": "Personal faith journey through church hurt and recovery, somewhat reflective.",
    "tradition": "Christian"
   },
   {
@@ -131,8 +118,21 @@
    "published": "Thu, 13 Aug 2026 09:49:12 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores afterlife and spirits but with a paranormal focus rather than philosophical depth.",
+   "reason": "Discusses afterlife and ghosts but from a paranormal, speculative angle.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "95e79310-929a-11f1-a8e8-ff27f62a7b83",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "TRAVIS BARKER: \"My Biggest Fear Actually Happened\"",
+   "summary": "In this episode, Jay sits down with legendary drummer Travis Barker to talk about the discipline that built his career, the tragedy that almost ended it, and the slow, hard-won path back to peace. Travis opens up about losing his mother as a teenager, his struggles with addiction, the 2008 plane crash that changed his life, and how love, friendship, and sheer determination brought him back to himself.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Free 30-Day Trial.\n\nJAY’S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\n\nJoin 900,000+ r",
+   "audioURL": "https://traffic.megaphone.fm/GLT5605735602.mp3",
+   "published": "Mon, 10 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Shares trauma and recovery emphasizing discipline and love.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -284,6 +284,7 @@
   "urn:bbc:podcast:p0p43kt4": "2026-08-13",
   "b11d71a6-1f25-11f1-990b-3b55932bbc65": "2026-08-13",
   "ae42afb2-7df6-11f0-b513-2bc1cd1850ca": "2026-08-13",
-  "86ddc991-7d6e-4b46-aae7-b4a500a02b3b": "2026-08-13"
+  "86ddc991-7d6e-4b46-aae7-b4a500a02b3b": "2026-08-13",
+  "Buzzsprout-19638488": "2026-08-13"
  }
 }
