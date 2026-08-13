@@ -1,9 +1,74 @@
 {
  "version": 1,
- "generatedAt": "2026-08-13T02:24:11.929025+00:00",
+ "generatedAt": "2026-08-13T04:56:29.188770+00:00",
  "showsScanned": 400,
- "candidates": 56,
+ "candidates": 58,
  "picks": [
+  {
+   "id": "Buzzsprout-19628431",
+   "showID": "https://rss.buzzsprout.com/1236866.rss",
+   "showTitle": "3 Takeaways™",
+   "title": "Your Brain Is Hiding the Truth From You (#314)",
+   "summary": "What if your brain isn’t showing you the world as it truly is?Journalist, professor, and author of \"A World Appears: A Journey into Consciousness\" Michael Pollan explores one of the deepest questions of all: why do we experience anything in the first place? He discusses:What consciousness actually isWhy the brain predicts reality instead of simply taking it inHow perception may be a kind of “controlled hallucination”Why we may see the world in the most useful way, not the most accurate wayWhat animals, plants, and AI reveal about consciousnessWhy feelings may be central to being consciousWhy a",
+   "audioURL": "https://www.buzzsprout.com/1236866/episodes/19628431-your-brain-is-hiding-the-truth-from-you-314.mp3",
+   "published": "Tue, 11 Aug 2026 01:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Explores consciousness and perception as controlled hallucination, addressing deep questions.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "ddad00eb-0b80-408d-a77e-a5962b9f23de",
+   "showID": "https://anchor.fm/s/10c2267dc/podcast/rss",
+   "showTitle": "The Eric Metaxas Show",
+   "title": "#177 - Victoria Jackson",
+   "summary": "Today On The Eric Metaxas Show, Saturday Night Live alum Victoria Jackson joins Eric to reflect on their recent Socrates In The City retreat in Oxford. Victoria opens up about living with cancer, facing mortality with humor and Christian faith, and why the experience has made her appreciate life even more. She and Eric also discuss C.S. Lewis, Addison’s Walk, The Kilns, John Lennox, scientist Denis Noble, the mystery of creation, and Victoria’s new book of poetry, Not Dead Yet.⭐ ORDER NOW:Revolution: The Birth of the Greatest Nation in the History of the World📕: https://a.co/d/0ir3NlapTODAY'S ",
+   "audioURL": "https://anchor.fm/s/10c2267dc/podcast/play/124044573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-10%2F429596752-44100-2-6acd06e3bafc3.mp3",
+   "published": "Mon, 10 Aug 2026 22:01:01 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Reflects on mortality, faith, and appreciation of life through personal illness.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "037cdf69-1830-430d-bf4c-d937d9e40158",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "When a Child Questions Mormonism - Annie Marie | Ep. 2180",
+   "summary": "What would cause a child to lose their LDS faith? We strive to answer this question in today's interview with TikTok star, Annie Marie. Annie is an ex-mormon content creator who has gained an audience from her satirical videos that mainly center around questions she had as a child growing up in the LDS faith. Today she sits down with John and Margi to share her full Mormon story, offer commentary on some of her most popular videos, and walk us through her creative process. Annie came from a strict Mormon upbringing, but when her parents divorced (and their temple sealing was canceled) it spark",
+   "audioURL": "https://traffic.megaphone.fm/APO8388173414.mp3",
+   "published": "Tue, 11 Aug 2026 18:00:18 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Personal story of losing faith and questioning Mormonism.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "tbrdeepdive.podbean.com/47e9ec48-48ce-3d1b-9fb1-0185acb9fa15",
+   "showID": "https://feed.podbean.com/tbrdeepdive/feed.xml",
+   "showTitle": "The Bible Recap Deep Dive",
+   "title": "Week 32 (Days 218-224): If God loves everyone, who are \"His people\"?",
+   "summary": "ON TODAY'S EPISODE:\n- How can I walk humbly but also stand up for what is true?\n- If God loves everyone, who are \"His people\"?\n- Is God telling Jeremiah to just deal with the pain?\n- How did the Israelites know the prophets were from God?\n- I’m struggling in Jeremiah! Where is the gospel in this?\n\n\nRECAP LINKS:\nDay 218 - Podcast / YouTube\nDay 219 - Podcast / YouTube\nDay 220 - Podcast / YouTube\nDay 221 - Podcast / YouTube\nDay 222 - Podcast / YouTube\nDay 223 - Podcast / YouTube\nDay 224 - Podcast / YouTube\n\n\nONLINE BIBLE RESOURCES:\n- Got Questions?\n- BibleProject\n- Blue Letter Bible\nNote: This is",
+   "audioURL": "https://mcdn.podbean.com/mf/web/6wsrx5mpb5kh623f/TBR_DeepDive_OTEp32_FCv17vvv5.mp3",
+   "published": "Wed, 12 Aug 2026 09:31:00 -0500",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/a9/95/07a995c8-be85-bb61-28ff-736a0412cbb8/mza_17323749963932538168.png/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores biblical questions about God's people, humility, and suffering in Jeremiah.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "fdb8761dd68e2d9df9f35216a81ee585",
+   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
+   "showTitle": "Becoming Something with Jonathan Pokluda",
+   "title": "Episode 384: Reckless Love, Church Hurt & Outsinging the Angels | feat. Cory Asbury",
+   "summary": "<p>This week we sit down with worship artist Cory Asbury — live from the tour bus — to talk about his journey through church hurt, online criticism, and what it looks like to come out the other side still singing. Cory opens up about the story behind \"Reckless Love,\" his new song Prodigal God, and why he's done being cautious with his faith. If you've ever felt beaten up by the church or beaten down by the noise of social media, this episode is for you!</p>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4L2M2MDk4MDNkLTczNzYtNGQzZS1hYzc5LWM3YmM4Mjk0YWNiMC9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=rrfqtsn",
+   "published": "Mon, 10 Aug 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Candid discussion of faith struggles and recovery from church hurt.",
+   "tradition": "Christian"
+  },
   {
    "id": "1585b8d5-4d80-4378-b95a-438462167d28",
    "showID": "https://rss.libsyn.com/shows/40819/destinations/121777.xml",
@@ -18,45 +83,6 @@
    "tradition": "Christian"
   },
   {
-   "id": "fdb8761dd68e2d9df9f35216a81ee585",
-   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
-   "showTitle": "Becoming Something with Jonathan Pokluda",
-   "title": "Episode 384: Reckless Love, Church Hurt & Outsinging the Angels | feat. Cory Asbury",
-   "summary": "<p>This week we sit down with worship artist Cory Asbury — live from the tour bus — to talk about his journey through church hurt, online criticism, and what it looks like to come out the other side still singing. Cory opens up about the story behind \"Reckless Love,\" his new song Prodigal God, and why he's done being cautious with his faith. If you've ever felt beaten up by the church or beaten down by the noise of social media, this episode is for you!</p>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4L2M2MDk4MDNkLTczNzYtNGQzZS1hYzc5LWM3YmM4Mjk0YWNiMC9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=rrfqtsn",
-   "published": "Mon, 10 Aug 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A worship artist reflects on faith struggles and church hurt with honest vulnerability.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "fa3c1b03-c596-4bcc-89ef-4bb8115eb83f",
-   "showID": "https://feeds.simplecast.com/0usR2qmx",
-   "showTitle": "Determined Society with Shawn French | Adversity & Mindset",
-   "title": "From Fifth Overdose to $115M | Breaking Limiting Beliefs in Adversity",
-   "summary": "Eric Spofford survived five overdoses and rebuilt his entire life through discipline and spiritual growth. In this raw conversation, he reveals the moment of surrender that led to sobriety on December 7, 2006—and how the habits forged in recovery became the competitive edge that built and sold a $115 million enterprise. A masterclass in overcoming obstacles, breaking limiting beliefs, and turning adversity into actionable discipline.\nIn this episode, we dive into:\n\n Eric's fifth overdose and the reality of late-stage addiction\n Getting sober on December 7, 2006\n What surrender really meant for",
-   "audioURL": "https://jonekiri.simplecastaudio.com/52aceb10-af69-403b-b76b-4d98bd17e29b/episodes/ad98b60b-241b-4d2c-90ed-beb29ab4993e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=52aceb10-af69-403b-b76b-4d98bd17e29b&amp;awEpisodeId=ad98b60b-241b-4d2c-90ed-beb29ab4993e&amp;feed=0usR2qmx",
-   "published": "Mon, 10 Aug 2026 12:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/dc/69/bedc6946-5cd6-2637-724a-912da9dafafb/mza_15530052631320977267.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Story of overcoming adversity through discipline and spiritual growth.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "1e397483-4aaa-4f23-a8ef-d556757584e1",
-   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
-   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
-   "title": "Day 220: Prophecy Fulfilled (2026)",
-   "summary": "Fr. Mike points out that the prophecy from Isaiah 61 is fulfilled by Jesus (as described in Luke 4). In Ezekiel, Fr. Mike draws our attention to the importance of the Sabbath as the sign of the covenant with God. The readings are Isaiah 61-62, Ezekiel 20, and Proverbs 13:13-16.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/1e397483-4aaa-4f23-a8ef-d556757584e1.mp3",
-   "published": "Sat, 08 Aug 2026 03:15:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Scripture readings with some reflection, but mostly devotional and explanatory.",
-   "tradition": "Christian"
-  },
-  {
    "id": "95e79310-929a-11f1-a8e8-ff27f62a7b83",
    "showID": "https://feeds.megaphone.fm/on-purpose",
    "showTitle": "On Purpose with Jay Shetty",
@@ -66,47 +92,21 @@
    "published": "Mon, 10 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal story of tragedy and recovery with some reflection on meaning and peace.",
+   "reason": "Personal story of tragedy and recovery with reflections on discipline and peace.",
    "tradition": "Secular"
   },
   {
-   "id": "Buzzsprout-19628431",
-   "showID": "https://rss.buzzsprout.com/1236866.rss",
-   "showTitle": "3 Takeaways™",
-   "title": "Your Brain Is Hiding the Truth From You (#314)",
-   "summary": "What if your brain isn’t showing you the world as it truly is?Journalist, professor, and author of \"A World Appears: A Journey into Consciousness\" Michael Pollan explores one of the deepest questions of all: why do we experience anything in the first place? He discusses:What consciousness actually isWhy the brain predicts reality instead of simply taking it inHow perception may be a kind of “controlled hallucination”Why we may see the world in the most useful way, not the most accurate wayWhat animals, plants, and AI reveal about consciousnessWhy feelings may be central to being consciousWhy a",
-   "audioURL": "https://www.buzzsprout.com/1236866/episodes/19628431-your-brain-is-hiding-the-truth-from-you-314.mp3",
-   "published": "Tue, 11 Aug 2026 01:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "A deep exploration of consciousness and perception addressing fundamental questions of experience.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "037cdf69-1830-430d-bf4c-d937d9e40158",
-   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
-   "showTitle": "Mormon Stories Podcast",
-   "title": "When a Child Questions Mormonism - Annie Marie | Ep. 2180",
-   "summary": "What would cause a child to lose their LDS faith? We strive to answer this question in today's interview with TikTok star, Annie Marie. Annie is an ex-mormon content creator who has gained an audience from her satirical videos that mainly center around questions she had as a child growing up in the LDS faith. Today she sits down with John and Margi to share her full Mormon story, offer commentary on some of her most popular videos, and walk us through her creative process. Annie came from a strict Mormon upbringing, but when her parents divorced (and their temple sealing was canceled) it spark",
-   "audioURL": "https://traffic.megaphone.fm/APO8388173414.mp3",
-   "published": "Tue, 11 Aug 2026 18:00:18 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A former Mormon shares her journey of faith loss and questioning.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "90f95d62-94f6-11f1-b91d-67a2e6c1c207",
-   "showID": "https://rss.introcast.io/1462192400/feeds.megaphone.fm/YAP4175586993",
-   "showTitle": "Creating Confidence with Heather Monahan",
-   "title": "The Path to Lasting Health, Purpose, and Peace with Justin Roethlingshoefer",
-   "summary": "What if the life you've been praying for starts with healing the parts of yourself you've been ignoring? In this episode, I sit down with bestselling author, health expert, and performance coach Justin Roethlingshoefer to talk about the connection between healing, faith, and lasting transformation. Justin shares how overcoming an eating disorder and a life-changing health crisis led him to discover that true health starts from the inside out. We also dive into why changing your identity is more powerful than changing your habits, how to quiet the noise so you can hear the wisdom guiding your l",
-   "audioURL": "https://prefix.up.audio/s/www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/s.gum.fm/s-6245bf8d4189c473044d2320/cohst.app/pdcst/7K7K1I/traffic.megaphone.fm/YAP3775413821.mp3",
-   "published": "Tue, 11 Aug 2026 06:30:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/10/5f/b8/105fb8c5-0eff-0d25-a03b-4a704972b6b6/mza_2001570157629856111.jpeg/600x600bb.jpg",
+   "id": "coe22.podbean.com/d9f00deb-07c1-36ae-8d8b-39f5794a991b",
+   "showID": "https://feed.podbean.com/coe22/feed.xml",
+   "showTitle": "The Church of Eleven22",
+   "title": "How To Be Great - Religion to Redemption - Matthew S6E1",
+   "summary": "What does it really mean to be great in the Kingdom of God?\nIn Matthew 20, Jesus completely redefines greatness. While the world measures success by position, possessions and power, Jesus shows us a different way. True greatness begins by bending our knee to Him, enduring pain with perseverance, living under godly authority and humbling ourselves to serve others.\nThis message challenges us to examine what is truly first in our lives and reminds us that proximity to Jesus, not what we produce, determines Kingdom success. Following Jesus does not promise a life of comfort, but He faithfully walk",
+   "audioURL": "https://mcdn.podbean.com/mf/web/ub24v53wwthcc99t/20260806_722p_117cvnm.mp3",
+   "published": "Sun, 09 Aug 2026 22:29:45 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Connects healing, faith, and identity in a conversation about lasting transformation.",
-   "tradition": "Secular"
+   "reason": "Examines Jesus' teaching on greatness and humility in the Kingdom of God.",
+   "tradition": "Christian"
   }
  ],
  "history": {
@@ -224,7 +224,7 @@
   "unshaken.podbean.com/b96f5b2e-dab0-37eb-91d3-b0614b8598e6": "2026-08-11",
   "podcast699.podbean.com/812cbec9-2a12-33d7-977b-ff76ad88b29f": "2026-08-11",
   "podcast699.podbean.com/69f62d87-55e9-31f8-a875-e63f44af15c3": "2026-08-12",
-  "coe22.podbean.com/d9f00deb-07c1-36ae-8d8b-39f5794a991b": "2026-08-11",
+  "coe22.podbean.com/d9f00deb-07c1-36ae-8d8b-39f5794a991b": "2026-08-13",
   "2a1d1d81-97ea-48b0-9c8a-7b17346f477f": "2026-08-12",
   "audioboom-019fd871-a837-7ee2-b59d-94d542d7b9fe": "2026-08-10",
   "95e79310-929a-11f1-a8e8-ff27f62a7b83": "2026-08-13",
@@ -250,6 +250,8 @@
   "gid://art19-episode-locator/V0/fVK2trh40xMFzmKF8E56xhqqzzukXwxmJ5eOkryjdmE": "2026-08-12",
   "257878ac-12ac-4edb-920e-cb687f33b892": "2026-08-12",
   "da15b8cd-d376-4c0c-a790-1e3eb80d5d54": "2026-08-12",
-  "02e38fdc-7973-11f1-9b81-ff71e29e03e3": "2026-08-12"
+  "02e38fdc-7973-11f1-9b81-ff71e29e03e3": "2026-08-12",
+  "ddad00eb-0b80-408d-a77e-a5962b9f23de": "2026-08-13",
+  "tbrdeepdive.podbean.com/47e9ec48-48ce-3d1b-9fb1-0185acb9fa15": "2026-08-13"
  }
 }
