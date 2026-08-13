@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-13T11:52:49.162632+00:00",
+ "generatedAt": "2026-08-13T13:23:15.422105+00:00",
  "showsScanned": 400,
- "candidates": 58,
+ "candidates": 60,
  "picks": [
   {
    "id": "Buzzsprout-19628431",
@@ -14,7 +14,7 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A deep conversation on consciousness and perception questioning reality and experience.",
+   "reason": "Explores consciousness and perception as fundamental questions about reality and experience.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Mon, 10 Aug 2026 22:01:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Reflects on mortality, faith, and humor through a Christian lens and personal story.",
+   "reason": "Reflects on mortality, faith, and appreciation of life through a Christian lens.",
    "tradition": "Christian"
   },
   {
@@ -40,8 +40,21 @@
    "published": "Thu, 13 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A personal spiritual journey through grief, fear, and transformation is deeply explored.",
+   "reason": "A personal spiritual journey through grief, fear, and transformation.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "coe22.podbean.com/d9f00deb-07c1-36ae-8d8b-39f5794a991b",
+   "showID": "https://feed.podbean.com/coe22/feed.xml",
+   "showTitle": "The Church of Eleven22",
+   "title": "How To Be Great - Religion to Redemption - Matthew S6E1",
+   "summary": "What does it really mean to be great in the Kingdom of God?\nIn Matthew 20, Jesus completely redefines greatness. While the world measures success by position, possessions and power, Jesus shows us a different way. True greatness begins by bending our knee to Him, enduring pain with perseverance, living under godly authority and humbling ourselves to serve others.\nThis message challenges us to examine what is truly first in our lives and reminds us that proximity to Jesus, not what we produce, determines Kingdom success. Following Jesus does not promise a life of comfort, but He faithfully walk",
+   "audioURL": "https://mcdn.podbean.com/mf/web/ub24v53wwthcc99t/20260806_722p_117cvnm.mp3",
+   "published": "Sun, 09 Aug 2026 22:29:45 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Considers true greatness and humility through Jesus' teachings on the Kingdom of God.",
+   "tradition": "Christian"
   },
   {
    "id": "037cdf69-1830-430d-bf4c-d937d9e40158",
@@ -52,21 +65,8 @@
    "audioURL": "https://traffic.megaphone.fm/APO8388173414.mp3",
    "published": "Tue, 11 Aug 2026 18:00:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "An ex-Mormon shares her journey of faith loss and questioning Mormonism.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "1e397483-4aaa-4f23-a8ef-d556757584e1",
-   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
-   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
-   "title": "Day 220: Prophecy Fulfilled (2026)",
-   "summary": "Fr. Mike points out that the prophecy from Isaiah 61 is fulfilled by Jesus (as described in Luke 4). In Ezekiel, Fr. Mike draws our attention to the importance of the Sabbath as the sign of the covenant with God. The readings are Isaiah 61-62, Ezekiel 20, and Proverbs 13:13-16.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/1e397483-4aaa-4f23-a8ef-d556757584e1.mp3",
-   "published": "Sat, 08 Aug 2026 03:15:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores biblical prophecy fulfillment and covenant themes with theological insight.",
+   "reason": "A former Mormon shares her journey of faith questioning and loss.",
    "tradition": "Christian"
   },
   {
@@ -79,21 +79,21 @@
    "published": "Thu, 13 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/3d/a5/073da59b-6bfd-04ed-da1e-af2eca0ce7ed/mza_17777249888316424415.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores community, belonging, and identity with thoughtful social and personal insight.",
+   "reason": "Discussion on community, belonging, and social identity with ethical and relational depth.",
    "tradition": "Secular"
   },
   {
-   "id": "coe22.podbean.com/d9f00deb-07c1-36ae-8d8b-39f5794a991b",
-   "showID": "https://feed.podbean.com/coe22/feed.xml",
-   "showTitle": "The Church of Eleven22",
-   "title": "How To Be Great - Religion to Redemption - Matthew S6E1",
-   "summary": "What does it really mean to be great in the Kingdom of God?\nIn Matthew 20, Jesus completely redefines greatness. While the world measures success by position, possessions and power, Jesus shows us a different way. True greatness begins by bending our knee to Him, enduring pain with perseverance, living under godly authority and humbling ourselves to serve others.\nThis message challenges us to examine what is truly first in our lives and reminds us that proximity to Jesus, not what we produce, determines Kingdom success. Following Jesus does not promise a life of comfort, but He faithfully walk",
-   "audioURL": "https://mcdn.podbean.com/mf/web/ub24v53wwthcc99t/20260806_722p_117cvnm.mp3",
-   "published": "Sun, 09 Aug 2026 22:29:45 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Explores Christian ideas of greatness and humility, focused on religious teaching.",
-   "tradition": "Christian"
+   "id": "86ddc991-7d6e-4b46-aae7-b4a500a02b3b",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "The Afterlife - Best of Coast to Coast AM - 8/12/26",
+   "summary": "George Noory and author Sandra Champlain explore her research into the afterlife and what happens to people after they die, whether psychic mediums truly can contact the spirits of the dead, and what causes ghosts to haunt the living.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/86ddc991-7d6e-4b46-aae7-b4a500a02b3b/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Thu, 13 Aug 2026 09:49:12 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discusses afterlife beliefs and psychic mediumship, engaging with mortality and consciousness.",
+   "tradition": "Interfaith"
   },
   {
    "id": "fdb8761dd68e2d9df9f35216a81ee585",
@@ -105,21 +105,21 @@
    "published": "Mon, 10 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal faith journey through church hurt and recovery, somewhat reflective.",
+   "reason": "Shares personal faith struggles and church hurt with some spiritual reflection.",
    "tradition": "Christian"
   },
   {
-   "id": "86ddc991-7d6e-4b46-aae7-b4a500a02b3b",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
-   "showTitle": "The Best of Coast to Coast AM",
-   "title": "The Afterlife - Best of Coast to Coast AM - 8/12/26",
-   "summary": "George Noory and author Sandra Champlain explore her research into the afterlife and what happens to people after they die, whether psychic mediums truly can contact the spirits of the dead, and what causes ghosts to haunt the living.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/86ddc991-7d6e-4b46-aae7-b4a500a02b3b/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
-   "published": "Thu, 13 Aug 2026 09:49:12 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "id": "1e397483-4aaa-4f23-a8ef-d556757584e1",
+   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
+   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
+   "title": "Day 220: Prophecy Fulfilled (2026)",
+   "summary": "Fr. Mike points out that the prophecy from Isaiah 61 is fulfilled by Jesus (as described in Luke 4). In Ezekiel, Fr. Mike draws our attention to the importance of the Sabbath as the sign of the covenant with God. The readings are Isaiah 61-62, Ezekiel 20, and Proverbs 13:13-16.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/1e397483-4aaa-4f23-a8ef-d556757584e1.mp3",
+   "published": "Sat, 08 Aug 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses afterlife and ghosts but from a paranormal, speculative angle.",
-   "tradition": "Interfaith"
+   "reason": "Explores biblical prophecy fulfillment and covenant themes in a Christian context.",
+   "tradition": "Christian"
   },
   {
    "id": "95e79310-929a-11f1-a8e8-ff27f62a7b83",
@@ -131,7 +131,7 @@
    "published": "Mon, 10 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Shares trauma and recovery emphasizing discipline and love.",
+   "reason": "Shares trauma and recovery story with focus on discipline and love, not deep philosophy.",
    "tradition": "Secular"
   }
  ],
