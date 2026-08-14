@@ -1,22 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-08-14T13:17:45.565022+00:00",
+ "generatedAt": "2026-08-14T14:57:41.825323+00:00",
  "showsScanned": 400,
- "candidates": 59,
+ "candidates": 57,
  "picks": [
-  {
-   "id": "9c2213e3-ed1a-44b7-a27e-13c894eb0854",
-   "showID": "https://anchor.fm/s/101bcf8e8/podcast/rss",
-   "showTitle": "The Lila Rose Show",
-   "title": "E340: Why God Permits Suffering (An Honest Conversation) w/Jamey Carrington | E340 Lila Rose Show | Lila Rose Show",
-   "summary": "Jamey Carrington was diagnosed with Spinal Muscular Atrophy at age 1, and now at 19 he reflects on his life of faith, suffering, and disability. It's a beautiful message of hope, inspiration, and wrestling with God.Jamey's channel: ⁨https://youtube.com/@itsjameycarrington⁩ NEW: Check out our Merch store! https://shop.lilaroseshow.com/Join our new Patreon community! https://patreon.com/lilaroseshow - We'll have BTS footage, ad-free episodes, and early access to our upcoming guests.A big thanks to our partner, EWTN, the world’s leading religious network! Discover news, entertainment and more at ",
-   "audioURL": "https://traffic.megaphone.fm/APO6917657061.mp3",
-   "published": "Fri, 07 Aug 2026 09:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/2d/1c/bb2d1cb2-4c61-0e3d-039e-b0a474e58c51/mza_2950270099588349078.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "A young man with disability reflects deeply on faith, suffering, and hope.",
-   "tradition": "Christian"
-  },
   {
    "id": "70faaa65-b963-4585-b69b-674b2437c535",
    "showID": "https://feeds.simplecast.com/FakbDbJ7",
@@ -27,21 +14,8 @@
    "published": "Wed, 12 Aug 2026 08:16:14 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/b8/07/52b807c2-52be-0d2a-bf89-6a11432e34d9/mza_13874858403550015940.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A deep conversation on consciousness, trauma, and the search for meaning beyond stress.",
+   "reason": "A deep conversation on consciousness, trauma, and the search for meaning through healing.",
    "tradition": "Secular"
-  },
-  {
-   "id": "bdb4d022f0c93d091facae8fa60b742d",
-   "showID": "https://podcasts.subsplash.com:443/03fe243/podcast.rss",
-   "showTitle": "Prophecy Watchers",
-   "title": "Finding Comfort in Suffering | Studies with Stearman",
-   "summary": "<p>Why does God allow suffering? Why do faithful Christians endure trials, persecution, and heartbreak?</p><p>Today Gary begins an in-depth study of 2 Corinthians, one of Paul's most personal letters. Paul opens the epistle by repeatedly emphasizing one central theme: God is the God of all comfort.</p>",
-   "audioURL": "https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvTkhDOEM5LzJiNzFkNmFjLWI0ZWYtNDhkNy04Y2ViLWE1Y2RlNjIxZGQ5Mi9hdWRpby5tcDM.mp3?k=NHC8C9&amp;s=3&amp;sapid=srryyj4",
-   "published": "Wed, 12 Aug 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/4e/30/364e308d-99c9-778e-e711-59e090408814/mza_3684559455643163671.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Paul's letter on suffering and divine comfort offers a serious theological reflection.",
-   "tradition": "Christian"
   },
   {
    "id": "da165428-3b02-4080-b1ce-8dcaa49c02b8",
@@ -53,7 +27,7 @@
    "published": "Wed, 12 Aug 2026 00:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores Jewish identity, belief, and doubt in a contemporary context.",
+   "reason": "Discusses faith, doubt, identity, and belief beyond traditional theism.",
    "tradition": "Jewish"
   },
   {
@@ -66,7 +40,33 @@
    "published": "Wed, 12 Aug 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores consciousness and communication through an unusual neurodivergent experience.",
+   "reason": "Shares an unusual story about communication and consciousness beyond the ordinary.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "bdb4d022f0c93d091facae8fa60b742d",
+   "showID": "https://podcasts.subsplash.com:443/03fe243/podcast.rss",
+   "showTitle": "Prophecy Watchers",
+   "title": "Finding Comfort in Suffering | Studies with Stearman",
+   "summary": "<p>Why does God allow suffering? Why do faithful Christians endure trials, persecution, and heartbreak?</p><p>Today Gary begins an in-depth study of 2 Corinthians, one of Paul's most personal letters. Paul opens the epistle by repeatedly emphasizing one central theme: God is the God of all comfort.</p>",
+   "audioURL": "https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvTkhDOEM5LzJiNzFkNmFjLWI0ZWYtNDhkNy04Y2ViLWE1Y2RlNjIxZGQ5Mi9hdWRpby5tcDM.mp3?k=NHC8C9&amp;s=3&amp;sapid=srryyj4",
+   "published": "Wed, 12 Aug 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/4e/30/364e308d-99c9-778e-e711-59e090408814/mza_3684559455643163671.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Studies suffering and divine comfort through Paul's letter to the Corinthians.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "26419674-8f7e-11f1-b91f-0b0a3a142c86",
+   "showID": "https://rss.pdrl.fm/840819/feeds.megaphone.fm/WWO3543350987",
+   "showTitle": "Mike Drop",
+   "title": "Permission to Heal: Prime Hall on Plant Medicine, Faith, and Finding Purpose | Ep. 303 | Pt. 3",
+   "summary": "In the final part of this Mike Drop conversation, Prime Hall traces his path from military transition into deep psychological healing. He details his first 5-MeO-DMT experience, a profound \"hard reset\" that showed him both the devastating and the redemptive paths his life could take, and how it launched an unexpected connection to Mike Tyson and Tyson Ranch. Prime opens up about the harder road that followed—relapse, medication struggles, and losing two close friends to suicide within days of each other—and how ayahuasca, integration therapy, and a structured approach to plant medicine helped ",
+   "audioURL": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/WWO4750389558.mp3",
+   "published": "Fri, 07 Aug 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/97/7a/84977a07-fdc7-0a59-35d8-15ede9bd8a83/mza_15702774473364714878.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Details a transformative psychedelic experience linked to healing and purpose.",
    "tradition": "Secular"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Sat, 08 Aug 2026 21:37:14 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores faith and divine purpose amid adversity without explicit religious jargon.",
+   "reason": "Explores faith and divine presence amid suffering and exile without explicit God naming.",
    "tradition": "Jewish"
   },
   {
@@ -92,21 +92,21 @@
    "published": "Sat, 08 Aug 2026 07:08:41 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/de/05/9cde05f7-8b77-a0a7-f19b-37d29a9dd6bc/mza_15442820465629580994.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A veteran discusses trauma, healing, and psychedelic medicine's role in recovery.",
+   "reason": "A veteran reflects on trauma, healing, and psychedelic medicine's role.",
    "tradition": "Secular"
   },
   {
-   "id": "ff0a390e-2c71-11f1-9b31-7b7ff33a3c9f",
-   "showID": "https://feeds.megaphone.fm/SIXMSB5088139739",
-   "showTitle": "Modern Wisdom",
-   "title": "Q&A: Becoming A Dad, Favourite Peptides & Red Rising - #1134",
-   "summary": "I hit 4.3 million YouTube subscribers! \n\nAs usual, I celebrated by collecting questions from across social media and answering them directly. \n\nExpect to learn my thoughts on having kids in the near future, what my time with the Night Wolf Hawk was like, a quick health update, why I keep changing my hairstyle, reflections from a one-week silent meditation retreat, and much more...\n\nSponsors:\n\nSee discounts for all the products I use and recommend: ⁠https://chriswillx.com/deals⁠\n\nGet 35% off your first subscription on the best supplements from Momentous at https://livemomentous.com/modernwisdom",
-   "audioURL": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB5143851852.mp3",
-   "published": "Sat, 08 Aug 2026 05:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/73/99/7f739968-f65e-f679-d1fd-c727118c69f0/mza_17156407142775783271.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Personal reflections including silent meditation and life changes.",
-   "tradition": "Secular"
+   "id": "1d4d39ca-8fa5-11f1-9e4a-c3a58e8a9c56",
+   "showID": "https://feeds.megaphone.fm/LEW6901658133",
+   "showTitle": "Undaunted.Life: A Man's Podcast by Kyle Thompson",
+   "title": "JAY RISNER | Extending Faith (Ep. 956)",
+   "summary": "In this episode, we welcome Jay Risner to the studio. He is Lead Pastor of Faith Bible Church in Edmond, OK and the future Senior Pastor of a Faith Bible Church plant in NW Oklahoma City. In this interview, we discuss his pathway into ministry, what led him to Faith Bible Church, the challenges of doing ministry in a high income area where everyone thinks they’re a Christian, the circumstances around the rapid expansion of Faith Bible, the issues that come along with “worship-music-focused churches”, why taking people back to the text is always the best plan for a teaching pastor, and much mor",
+   "audioURL": "https://traffic.megaphone.fm/LEW7775254570.mp3",
+   "published": "Thu, 13 Aug 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/9f/12/809f1210-c215-9d6a-5dbd-45124c012604/mza_7903026632038263183.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "A pastor discusses ministry challenges and faith in a cultural context.",
+   "tradition": "Christian"
   }
  ],
  "history": {
@@ -262,6 +262,8 @@
   "9472c60e-90af-11f1-bec7-4f6529ccdc99": "2026-08-13",
   "b6a11356-3c4b-4c81-9a37-b48e0167137e": "2026-08-13",
   "99717f16-9685-11f1-aa51-3b986d4766dc": "2026-08-13",
-  "bdb4d022f0c93d091facae8fa60b742d": "2026-08-14"
+  "bdb4d022f0c93d091facae8fa60b742d": "2026-08-14",
+  "26419674-8f7e-11f1-b91f-0b0a3a142c86": "2026-08-14",
+  "1d4d39ca-8fa5-11f1-9e4a-c3a58e8a9c56": "2026-08-14"
  }
 }
