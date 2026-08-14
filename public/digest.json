@@ -1,48 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-08-14T02:21:34.641812+00:00",
+ "generatedAt": "2026-08-14T04:52:52.710262+00:00",
  "showsScanned": 400,
- "candidates": 62,
+ "candidates": 58,
  "picks": [
-  {
-   "id": "unshaken.podbean.com/b96f5b2e-dab0-37eb-91d3-b0614b8598e6",
-   "showID": "https://feed.podbean.com/unshaken/feed.xml",
-   "showTitle": "Unshaken Saints",
-   "title": "The Book of Esther - \"For Such a Time as This\"",
-   "summary": "The Book of Esther never once mentions the name of God—yet His fingerprints are on every page. If you are currently living in enemy territory, wondering if the Lord has forgotten you or if your faith is entirely outnumbered by modern Babylon, this visual and scriptural masterclass reveals exactly why you were held back for such a time as this.\nSummary: In this powerful and comforting episode, we explore the vibrant, high-stakes narrative of the Book of Esther. Operating as the female equivalent of Joseph in Egypt and Daniel in Babylon, Esther’s journey provides an exquisite template for how th",
-   "audioURL": "https://mcdn.podbean.com/mf/web/vvzyakgxqd2c9wkx/Esther_full_audio_enhanced70flx.mp3",
-   "published": "Sat, 08 Aug 2026 21:37:14 -0600",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores divine providence and faith under threat through the Book of Esther.",
-   "tradition": "Jewish"
-  },
-  {
-   "id": "https://api.spreaker.com/episode/73638779",
-   "showID": "https://www.spreaker.com/show/5960890/episodes/feed",
-   "showTitle": "The Team House",
-   "title": "From Special Forces to an Outlaw Motorcycle Club | Kenny Robertson",
-   "summary": "Kenny Robertson reflects on his career from the Marine Corps and 101st Airborne to 5th Special Forces Group, including deployments to Iraq, Afghanistan, Lebanon, Syria, and Ukraine. He also discusses the toll of years in combat, his struggles after leaving the military, and how psychedelic medicine led him to create Waypoint 6 to help other veterans.https://www.waypoint6.com/https://www.instagram.com/waypoint_six/Today's Sponsors:Quince⬇️go to: https://www.quince.com/housefor free shipping and 365 day returns GhostBed ⬇️https://www.ghostbed.com/houseFOR 10% off! Blue Chew ⬇️https://bluechew.co",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/clrtpod.com/m/api.spreaker.com/download/episode/73638779/kenny_r_sf_to_biker_spreaker.mp3",
-   "published": "Sat, 08 Aug 2026 07:08:41 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/de/05/9cde05f7-8b77-a0a7-f19b-37d29a9dd6bc/mza_15442820465629580994.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A veteran's struggle with trauma and healing through psychedelic medicine and meaning.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "prx_192_b2d17d79-85c3-4473-9e4d-aa46cb5dad55",
-   "showID": "https://rss.pdrl.fm/0f808e/feeds.feedburner.com/TheScienceOfHappiness",
-   "showTitle": "The Science of Happiness",
-   "title": "Happiness Break: A Body Scan for Calm and Ease",
-   "summary": "Meditation teacher Spring Washam guides us in a practice of embodied awareness, helping us use the body as an anchor during stressful or overwhelming moments.How To Do This Practice:\n\nFind a comfortable position: Sit upright in a relaxed position where you can comfortably notice the flow of your breath.\n\nBegin at the top of your body: Close your eyes and bring your attention to your head, neck, face, and jaw. Notice any tightness and allow those areas to soften.\n\nMove your awareness downward: Slowly scan through your shoulders, arms, hands, chest, and belly, noticing any sensations, emotions, ",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/dovetail.prxu.org/192/b2d17d79-85c3-4473-9e4d-aa46cb5dad55/SoH_HB_Spring_Washam_Embodiment_mix_3.mp3",
-   "published": "Thu, 06 Aug 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Guided meditation on body awareness to cultivate calm and ease.",
-   "tradition": "Secular"
-  },
   {
    "id": "9c2213e3-ed1a-44b7-a27e-13c894eb0854",
    "showID": "https://anchor.fm/s/101bcf8e8/podcast/rss",
@@ -53,7 +14,7 @@
    "published": "Fri, 07 Aug 2026 09:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/2d/1c/bb2d1cb2-4c61-0e3d-039e-b0a474e58c51/mza_2950270099588349078.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A young man reflects deeply on faith, suffering, and disability with honesty and hope.",
+   "reason": "A young man with disability reflects deeply on faith, suffering, and hope.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +27,7 @@
    "published": "Wed, 12 Aug 2026 08:16:14 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/b8/07/52b807c2-52be-0d2a-bf89-6a11432e34d9/mza_13874858403550015940.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A deep conversation on consciousness, trauma, and the search for meaning.",
+   "reason": "A deep conversation on consciousness, trauma, and the search for meaning through healing.",
    "tradition": "Secular"
   },
   {
@@ -79,8 +40,21 @@
    "published": "Wed, 12 Aug 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines consciousness and communication beyond ordinary perception.",
+   "reason": "Explores consciousness and communication beyond the physical in a unique way.",
    "tradition": "Secular"
+  },
+  {
+   "id": "unshaken.podbean.com/b96f5b2e-dab0-37eb-91d3-b0614b8598e6",
+   "showID": "https://feed.podbean.com/unshaken/feed.xml",
+   "showTitle": "Unshaken Saints",
+   "title": "The Book of Esther - \"For Such a Time as This\"",
+   "summary": "The Book of Esther never once mentions the name of God—yet His fingerprints are on every page. If you are currently living in enemy territory, wondering if the Lord has forgotten you or if your faith is entirely outnumbered by modern Babylon, this visual and scriptural masterclass reveals exactly why you were held back for such a time as this.\nSummary: In this powerful and comforting episode, we explore the vibrant, high-stakes narrative of the Book of Esther. Operating as the female equivalent of Joseph in Egypt and Daniel in Babylon, Esther’s journey provides an exquisite template for how th",
+   "audioURL": "https://mcdn.podbean.com/mf/web/vvzyakgxqd2c9wkx/Esther_full_audio_enhanced70flx.mp3",
+   "published": "Sat, 08 Aug 2026 21:37:14 -0600",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores faith and divine purpose amid adversity through the Book of Esther narrative.",
+   "tradition": "Jewish"
   },
   {
    "id": "da165428-3b02-4080-b1ce-8dcaa49c02b8",
@@ -91,8 +65,8 @@
    "audioURL": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/cc38bbcd-b91f-4f7f-9177-966193ee03d0/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&amp;awEpisodeId=cc38bbcd-b91f-4f7f-9177-966193ee03d0&amp;feed=Y8lFbOT4",
    "published": "Wed, 12 Aug 2026 00:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A rabbi discusses faith, doubt, and Jewish identity beyond belief in God.",
+   "rating": 7,
+   "reason": "Discusses Jewish identity, belief, and doubt in a contemporary religious context.",
    "tradition": "Jewish"
   },
   {
@@ -104,9 +78,35 @@
    "audioURL": "https://traffic.megaphone.fm/LEW2137294424.mp3",
    "published": "Thu, 06 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/9f/12/809f1210-c215-9d6a-5dbd-45124c012604/mza_7903026632038263183.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A personal journey from atheism to Christian faith with honest doubt and transformation.",
+   "rating": 7,
+   "reason": "Narrates a journey from atheism to Christian faith with cultural and apologetic insights.",
    "tradition": "Christian"
+  },
+  {
+   "id": "https://api.spreaker.com/episode/73638779",
+   "showID": "https://www.spreaker.com/show/5960890/episodes/feed",
+   "showTitle": "The Team House",
+   "title": "From Special Forces to an Outlaw Motorcycle Club | Kenny Robertson",
+   "summary": "Kenny Robertson reflects on his career from the Marine Corps and 101st Airborne to 5th Special Forces Group, including deployments to Iraq, Afghanistan, Lebanon, Syria, and Ukraine. He also discusses the toll of years in combat, his struggles after leaving the military, and how psychedelic medicine led him to create Waypoint 6 to help other veterans.https://www.waypoint6.com/https://www.instagram.com/waypoint_six/Today's Sponsors:Quince⬇️go to: https://www.quince.com/housefor free shipping and 365 day returns GhostBed ⬇️https://www.ghostbed.com/houseFOR 10% off! Blue Chew ⬇️https://bluechew.co",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/clrtpod.com/m/api.spreaker.com/download/episode/73638779/kenny_r_sf_to_biker_spreaker.mp3",
+   "published": "Sat, 08 Aug 2026 07:08:41 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/de/05/9cde05f7-8b77-a0a7-f19b-37d29a9dd6bc/mza_15442820465629580994.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A veteran's struggle with trauma and healing through psychedelic medicine and faith.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "prx_192_b2d17d79-85c3-4473-9e4d-aa46cb5dad55",
+   "showID": "https://rss.pdrl.fm/0f808e/feeds.feedburner.com/TheScienceOfHappiness",
+   "showTitle": "The Science of Happiness",
+   "title": "Happiness Break: A Body Scan for Calm and Ease",
+   "summary": "Meditation teacher Spring Washam guides us in a practice of embodied awareness, helping us use the body as an anchor during stressful or overwhelming moments.How To Do This Practice:\n\nFind a comfortable position: Sit upright in a relaxed position where you can comfortably notice the flow of your breath.\n\nBegin at the top of your body: Close your eyes and bring your attention to your head, neck, face, and jaw. Notice any tightness and allow those areas to soften.\n\nMove your awareness downward: Slowly scan through your shoulders, arms, hands, chest, and belly, noticing any sensations, emotions, ",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/dovetail.prxu.org/192/b2d17d79-85c3-4473-9e4d-aa46cb5dad55/SoH_HB_Spring_Washam_Embodiment_mix_3.mp3",
+   "published": "Thu, 06 Aug 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Guided meditation focusing on embodied awareness and calm in stressful moments.",
+   "tradition": "Secular"
   }
  ],
  "history": {
