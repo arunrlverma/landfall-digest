@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-15T21:26:19.760593+00:00",
+ "generatedAt": "2026-08-15T22:27:37.686283+00:00",
  "showsScanned": 400,
- "candidates": 57,
+ "candidates": 58,
  "picks": [
   {
    "id": "unshaken.podbean.com/58552b92-8191-3251-b417-e753cb4b2752",
@@ -27,7 +27,7 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores consciousness and perception as fundamental questions of experience.",
+   "reason": "Explores consciousness as perception and reality, questioning experience and mind deeply.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Mon, 10 Aug 2026 22:01:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Reflects on mortality, faith, and creation through a Christian lens and personal illness.",
+   "reason": "Reflects on mortality, faith, and creation through personal cancer experience and Christian thought.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Tue, 11 Aug 2026 18:00:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores loss of Mormon faith and childhood doubt with personal narrative.",
+   "reason": "A former Mormon reflects on childhood faith doubts and loss, addressing belief and identity.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Wed, 12 Aug 2026 22:29:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c3/f8/12/c3f81255-45c5-89b1-65d0-a644233cbe4a/mza_2090479420500153719.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Conversation on psychedelic treatment and mental health crossing political lines.",
+   "reason": "Conversation on psychedelic ibogaine and mental illness touches on consciousness and healing.",
    "tradition": "Secular"
   },
   {
@@ -79,21 +79,8 @@
    "published": "Wed, 12 Aug 2026 15:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "Considers how sadness and longing connect to creativity and the beauty of life.",
+   "reason": "A poetic meditation on sadness and longing as gateways to creativity and connection.",
    "tradition": "Secular"
-  },
-  {
-   "id": "9d07e87e-65a7-4459-a788-b7c35b2a5e10",
-   "showID": "https://mysteriousradiofeed.mysteriousradionetwork.com",
-   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
-   "title": "The Emerald Tablet 101: a modern, practical guide, plain and simple (The Ancient Egyptian Enlightenment Series)",
-   "summary": "My special guest tonight is author Mathew Barnes here to discuss his book called The Emerald Tablet 101: a modern, practical guide, plain and simple (The Ancient Egyptian Enlightenment Series).The Emerald Tablet is an Ancient Egyptian work written by Hermes Trismegistus that is believed to represent a step-by-step instruction manual for the Alchemical process of turning ordinary metals like lead into something much more valuable, like gold.The manual consists of fourteen cryptic, symbolic statements that many have tried to decipher over the course of thousands of years.I believe the fourteen s",
-   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8587697/8587697_2026-08-12-072337.128.mp3?rssID=6605",
-   "published": "Wed, 12 Aug 2026 07:54:22 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explains ancient alchemical text as a guide to transformation and enlightenment.",
-   "tradition": "Hermetic/Hindu"
   },
   {
    "id": "037804ff-9a1f-4184-8026-78bf8be35188",
@@ -105,7 +92,7 @@
    "published": "Sat, 15 Aug 2026 12:46:25 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses soul and metaphysical concepts but focuses on esoteric knowledge and paranormal ideas.",
+   "reason": "Discusses ancient soul concepts and astral experiences with metaphysical focus.",
    "tradition": "Interfaith"
   },
   {
@@ -118,8 +105,21 @@
    "published": "Sat, 08 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/a0/12/46a0122e-5011-ffbd-cd2f-3c7a2d27777e/mza_6245367014521206082.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Historical reflection on war and national identity with some ethical implications.",
+   "reason": "Historical narrative on Civil War with some ethical and existential implications.",
    "tradition": "Secular"
+  },
+  {
+   "id": "9d07e87e-65a7-4459-a788-b7c35b2a5e10",
+   "showID": "https://mysteriousradiofeed.mysteriousradionetwork.com",
+   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
+   "title": "The Emerald Tablet 101: a modern, practical guide, plain and simple (The Ancient Egyptian Enlightenment Series)",
+   "summary": "My special guest tonight is author Mathew Barnes here to discuss his book called The Emerald Tablet 101: a modern, practical guide, plain and simple (The Ancient Egyptian Enlightenment Series).The Emerald Tablet is an Ancient Egyptian work written by Hermes Trismegistus that is believed to represent a step-by-step instruction manual for the Alchemical process of turning ordinary metals like lead into something much more valuable, like gold.The manual consists of fourteen cryptic, symbolic statements that many have tried to decipher over the course of thousands of years.I believe the fourteen s",
+   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8587697/8587697_2026-08-12-072337.128.mp3?rssID=6605",
+   "published": "Wed, 12 Aug 2026 07:54:22 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explains an ancient alchemical text symbolically linked to transformation and enlightenment.",
+   "tradition": "Hindu"
   }
  ],
  "history": {
