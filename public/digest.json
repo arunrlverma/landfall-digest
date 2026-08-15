@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-15T14:28:25.559344+00:00",
+ "generatedAt": "2026-08-15T15:27:12.767525+00:00",
  "showsScanned": 400,
- "candidates": 56,
+ "candidates": 57,
  "picks": [
   {
    "id": "unshaken.podbean.com/58552b92-8191-3251-b417-e753cb4b2752",
@@ -27,7 +27,7 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores consciousness and perception deeply from a scientific and philosophical angle.",
+   "reason": "Explores consciousness and perception deeply, questioning reality and experience.",
    "tradition": "Secular"
   },
   {
@@ -40,20 +40,7 @@
    "published": "Mon, 10 Aug 2026 22:01:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Reflects on mortality, faith, and creation through a cancer survivor's Christian perspective.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "037cdf69-1830-430d-bf4c-d937d9e40158",
-   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
-   "showTitle": "Mormon Stories Podcast",
-   "title": "When a Child Questions Mormonism - Annie Marie | Ep. 2180",
-   "summary": "What would cause a child to lose their LDS faith? We strive to answer this question in today's interview with TikTok star, Annie Marie. Annie is an ex-mormon content creator who has gained an audience from her satirical videos that mainly center around questions she had as a child growing up in the LDS faith. Today she sits down with John and Margi to share her full Mormon story, offer commentary on some of her most popular videos, and walk us through her creative process. Annie came from a strict Mormon upbringing, but when her parents divorced (and their temple sealing was canceled) it spark",
-   "audioURL": "https://traffic.megaphone.fm/APO8388173414.mp3",
-   "published": "Tue, 11 Aug 2026 18:00:18 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A personal account of losing Mormon faith, addressing doubt and belief.",
+   "reason": "Reflects on mortality, faith, and creation through personal illness and Christian thought.",
    "tradition": "Christian"
   },
   {
@@ -65,9 +52,22 @@
    "audioURL": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b780bf91cd396b39c5cf4/media.mp3",
    "published": "Wed, 12 Aug 2026 15:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores the emotional depth of sadness and longing as pathways to meaning.",
+   "rating": 8,
+   "reason": "Explores the emotional depth of sadness and longing as pathways to creativity and connection.",
    "tradition": "Secular"
+  },
+  {
+   "id": "037cdf69-1830-430d-bf4c-d937d9e40158",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "When a Child Questions Mormonism - Annie Marie | Ep. 2180",
+   "summary": "What would cause a child to lose their LDS faith? We strive to answer this question in today's interview with TikTok star, Annie Marie. Annie is an ex-mormon content creator who has gained an audience from her satirical videos that mainly center around questions she had as a child growing up in the LDS faith. Today she sits down with John and Margi to share her full Mormon story, offer commentary on some of her most popular videos, and walk us through her creative process. Annie came from a strict Mormon upbringing, but when her parents divorced (and their temple sealing was canceled) it spark",
+   "audioURL": "https://traffic.megaphone.fm/APO8388173414.mp3",
+   "published": "Tue, 11 Aug 2026 18:00:18 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores loss of faith and doubt from a Mormon perspective with personal insight.",
+   "tradition": "Christian"
   },
   {
    "id": "037804ff-9a1f-4184-8026-78bf8be35188",
@@ -79,21 +79,8 @@
    "published": "Sat, 15 Aug 2026 12:46:25 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses soul and metaphysical concepts but framed in paranormal and esoteric terms.",
+   "reason": "Discusses ancient soul concepts and astral experiences with metaphysical framing.",
    "tradition": "Interfaith"
-  },
-  {
-   "id": "standardoftruth.podbean.com/1abecacc-c9ff-3b8d-8ae7-8560235ba0b5",
-   "showID": "https://feed.podbean.com/standardoftruth/feed.xml",
-   "showTitle": "Standard of Truth",
-   "title": "S6E32 The Great Apostate Hall of Shame - #8 Ezra Booth Part 3",
-   "summary": "This episode of the Standard of Truth continues discussing the apostasy of Ezra Booth, a former Methodist minister who joined the early Church after witnessing Joseph Smith heal Elsa Johnson’s arm. \nGerrit traces Booth’s journey to Missouri in 1831, his disillusionment upon finding the future site of Zion to be a rough frontier town, and his subsequent public renunciation of the faith through nine letters published in the Ohio Star. \nWe examine how Booth reframed Mormonism as a deliberate deception rather than sincere belief, and how anti-Mormon arguments shifted from “converts are biblically ",
-   "audioURL": "https://mcdn.podbean.com/mf/web/e8eriu9jcjcm8w3p/S6E32_The_Great_Apostate_Hall_of_Shame_-_8_Ezra_Booth_Part_36oaou.mp3",
-   "published": "Thu, 13 Aug 2026 06:03:00 -0600",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f0/6c/87/f06c8724-343c-489a-eba1-08ecd9f8fbc8/mza_9582686813093588614.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Examines apostasy and faith disillusionment in early Mormon history.",
-   "tradition": "Christian"
   },
   {
    "id": "cb4a775c-91c8-11f1-afd7-7fd3ca32aaec",
@@ -105,8 +92,8 @@
    "published": "Sat, 08 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/a0/12/46a0122e-5011-ffbd-cd2f-3c7a2d27777e/mza_6245367014521206082.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Historical narrative with some reflection on national meaning and suffering.",
-   "tradition": "Secular"
+   "reason": "Historical reflection on war and freedom with some ethical implications.",
+   "tradition": "Christian"
   },
   {
    "id": "02e38fdc-7973-11f1-9b81-ff71e29e03e3",
@@ -118,7 +105,7 @@
    "published": "Wed, 12 Aug 2026 22:29:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c3/f8/12/c3f81255-45c5-89b1-65d0-a644233cbe4a/mza_2090479420500153719.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discussion of psychedelics and mental health with political context, lightly on consciousness.",
+   "reason": "Discusses psychedelics and mental illness with some ethical and consciousness themes.",
    "tradition": "Secular"
   },
   {
@@ -131,7 +118,7 @@
    "published": "Wed, 12 Aug 2026 07:54:22 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses ancient alchemical text symbolically related to transformation and enlightenment.",
+   "reason": "Discusses ancient alchemical text symbolically but mostly practical and historical.",
    "tradition": "Interfaith"
   }
  ],
