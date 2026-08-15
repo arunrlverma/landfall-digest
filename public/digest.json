@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-15T09:31:16.371645+00:00",
+ "generatedAt": "2026-08-15T10:27:56.245482+00:00",
  "showsScanned": 400,
- "candidates": 54,
+ "candidates": 53,
  "picks": [
   {
    "id": "unshaken.podbean.com/58552b92-8191-3251-b417-e753cb4b2752",
@@ -40,7 +40,7 @@
    "published": "Mon, 10 Aug 2026 22:01:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Reflects on mortality, faith, and creation through personal cancer experience.",
+   "reason": "Reflects on mortality, faith, and creation through personal illness and Christian thought.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Tue, 11 Aug 2026 18:00:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines loss of Mormon faith from a personal and cultural perspective.",
+   "reason": "A former Mormon reflects on childhood faith doubts and loss.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Wed, 12 Aug 2026 15:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Meditates on sorrow and longing as pathways to creativity and connection.",
+   "reason": "Meditates on sadness, longing, and their creative, connective power.",
    "tradition": "Secular"
   },
   {
@@ -79,20 +79,20 @@
    "published": "Sat, 08 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/a0/12/46a0122e-5011-ffbd-cd2f-3c7a2d27777e/mza_6245367014521206082.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines Lincoln's grief and ethics during the Civil War.",
+   "reason": "Considers historical meaning, sacrifice, and national identity in Civil War.",
    "tradition": "Christian"
   },
   {
-   "id": "c1760934-9b48-4c28-a885-99c6488c0986",
-   "showID": "https://anchor.fm/s/10c2267dc/podcast/rss",
-   "showTitle": "The Eric Metaxas Show",
-   "title": "#180 - John Strand",
-   "summary": "Today On The Eric Metaxas Show, John Strand joins Eric to discuss his imprisonment following January 6, the Christian faith that carried him through suffering, and why he is now running for Congress in Florida. Strand explains his campaign to “reclaim the Republic,” his new book Patriot Plea, and why he believes the 2026 elections represent a defining moment for America. Later, Eric introduces Grace Precious Metals CEO Bill Armor to discuss transparency in the precious metals industry, gold and silver investing, inflation, the labor market, and concerns about stagflation.⭐ ORDER NOW:Revolution",
-   "audioURL": "https://traffic.megaphone.fm/APO9554247742.mp3",
-   "published": "Thu, 13 Aug 2026 20:00:01 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
+   "id": "standardoftruth.podbean.com/1abecacc-c9ff-3b8d-8ae7-8560235ba0b5",
+   "showID": "https://feed.podbean.com/standardoftruth/feed.xml",
+   "showTitle": "Standard of Truth",
+   "title": "S6E32 The Great Apostate Hall of Shame - #8 Ezra Booth Part 3",
+   "summary": "This episode of the Standard of Truth continues discussing the apostasy of Ezra Booth, a former Methodist minister who joined the early Church after witnessing Joseph Smith heal Elsa Johnson’s arm. \nGerrit traces Booth’s journey to Missouri in 1831, his disillusionment upon finding the future site of Zion to be a rough frontier town, and his subsequent public renunciation of the faith through nine letters published in the Ohio Star. \nWe examine how Booth reframed Mormonism as a deliberate deception rather than sincere belief, and how anti-Mormon arguments shifted from “converts are biblically ",
+   "audioURL": "https://mcdn.podbean.com/mf/web/e8eriu9jcjcm8w3p/S6E32_The_Great_Apostate_Hall_of_Shame_-_8_Ezra_Booth_Part_36oaou.mp3",
+   "published": "Thu, 13 Aug 2026 06:03:00 -0600",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f0/6c/87/f06c8724-343c-489a-eba1-08ecd9f8fbc8/mza_9582686813093588614.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses Christian faith through political and personal suffering.",
+   "reason": "Examines apostasy and faith disillusionment in early Mormon history.",
    "tradition": "Christian"
   },
   {
@@ -256,6 +256,7 @@
   "fc2f423c-d3f9-4a7a-9fb5-b4a6009fed28": "2026-08-14",
   "228efcde-97fc-11f1-9d38-a32497837d53": "2026-08-14",
   "fd096262-ea26-4724-90a6-28eaef8ba3ec": "2026-08-15",
-  "c1760934-9b48-4c28-a885-99c6488c0986": "2026-08-15"
+  "c1760934-9b48-4c28-a885-99c6488c0986": "2026-08-15",
+  "standardoftruth.podbean.com/1abecacc-c9ff-3b8d-8ae7-8560235ba0b5": "2026-08-15"
  }
 }
