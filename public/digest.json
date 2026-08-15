@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-15T19:25:44.548605+00:00",
+ "generatedAt": "2026-08-15T20:27:52.286906+00:00",
  "showsScanned": 400,
  "candidates": 57,
  "picks": [
@@ -27,7 +27,7 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores consciousness, perception, and the nature of reality from a scientific and philosophical view.",
+   "reason": "Explores consciousness and perception as fundamental questions of experience.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Mon, 10 Aug 2026 22:01:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Reflects on mortality, faith, and creation through a cancer survivor's Christian perspective.",
+   "reason": "Reflects on mortality, faith, and creation through personal cancer experience.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Tue, 11 Aug 2026 18:00:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines loss of faith and questioning within Mormonism from a personal perspective.",
+   "reason": "Examines childhood faith loss and questioning within Mormonism.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Wed, 12 Aug 2026 22:29:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c3/f8/12/c3f81255-45c5-89b1-65d0-a644233cbe4a/mza_2090479420500153719.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discussion on psychedelics, mental illness, and politics touching on consciousness and healing.",
+   "reason": "Conversation on psychedelics, mental illness, and political movements.",
    "tradition": "Secular"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Wed, 12 Aug 2026 15:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "A poetic meditation on sadness and longing as gateways to creativity and connection.",
+   "reason": "Considers how sadness and longing connect to creativity and life's deeper beauty.",
    "tradition": "Secular"
   },
   {
@@ -92,8 +92,21 @@
    "published": "Sat, 15 Aug 2026 12:46:25 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses ancient soul concepts and astral experiences with metaphysical focus.",
+   "reason": "Discusses soul and metaphysical concepts but focuses on esoteric and paranormal ideas.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "cb4a775c-91c8-11f1-afd7-7fd3ca32aaec",
+   "showID": "https://feeds.megaphone.fm/BMDC3567910388",
+   "showTitle": "The Glenn Beck Program",
+   "title": "New Birth of Freedom: Gettysburg, Lincoln, and the End of the Civil War | The American Story | Ep 17",
+   "summary": "America’s Civil War reaches its bloodiest turning point as Abraham Lincoln carries private grief into a national struggle for survival.  From the fields of Gettysburg and the siege of Vicksburg to the slaughter at Cold Harbor, Sherman’s march, and the desperate race to pass the Thirteenth Amendment, this episode follows Lincoln, Grant, Lee, and a nation pushed to the brink.  Hear how the Gettysburg Address redefined the war, how Union victory reshaped the 1864 election, and how Richmond’s fall led to Lee’s surrender at Appomattox.  It is a sweeping story of sacrifice, freedom, faith, and the f",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pfx.vpixl.com/4V6da/arttrk.com/p/BLZM1/verifi.podscribe.com/rss/p/mgln.ai/e/285/pscrb.fm/rss/p/prfx.byspotify.com/e/claritaspod.com/measure/traffic.megaphone.fm/BMDC3987181219.mp3",
+   "published": "Sat, 08 Aug 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/a0/12/46a0122e-5011-ffbd-cd2f-3c7a2d27777e/mza_6245367014521206082.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Historical narrative touching on sacrifice, freedom, and national meaning.",
+   "tradition": "Secular"
   },
   {
    "id": "9d07e87e-65a7-4459-a788-b7c35b2a5e10",
@@ -105,8 +118,8 @@
    "published": "Wed, 12 Aug 2026 07:54:22 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explains alchemical symbolism and transformation but mostly practical guide to ancient text.",
-   "tradition": "Hindu"
+   "reason": "Explains alchemical symbolism as a metaphor for transformation and enlightenment.",
+   "tradition": "Interfaith"
   }
  ],
  "history": {
