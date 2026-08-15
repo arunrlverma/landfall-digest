@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-15T05:29:56.242989+00:00",
+ "generatedAt": "2026-08-15T06:46:51.008803+00:00",
  "showsScanned": 400,
  "candidates": 57,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Wed, 12 Aug 2026 20:33:04 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A thorough exploration of suffering and faith through the Book of Job's narrative.",
+   "reason": "A thorough exploration of suffering and faith through the Book of Job.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores consciousness and perception as fundamental questions about reality and experience.",
+   "reason": "Explores consciousness and perception, addressing fundamental questions about experience.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Mon, 10 Aug 2026 22:01:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Reflects on mortality, faith, and creation through a cancer survivor's Christian perspective.",
+   "reason": "Reflects on mortality, faith, and creation through a personal cancer journey and Christian thought.",
    "tradition": "Christian"
   },
   {
@@ -53,21 +53,8 @@
    "published": "Tue, 11 Aug 2026 18:00:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores loss of Mormon faith from a personal and questioning perspective.",
+   "reason": "Explores loss of Mormon faith and childhood doubts with personal storytelling.",
    "tradition": "Christian"
-  },
-  {
-   "id": "6a7b780bf91cd396b39c5cf4",
-   "showID": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
-   "showTitle": "TED Talks Daily",
-   "title": "The hidden power of sad songs and rainy days | Susan Cain and Min Kym",
-   "summary": "Have you ever wondered why you like sad music? Do you find comfort or inspiration in rainy days? In this profound, poetic talk, author Susan Cain invites you to embrace the feeling of longing -- or the place where joy and sorrow meet – as a gateway to creativity, connection and love. Accompanied by the splendid sounds of violinist Min Kym, Cain meditates on how heartache unexpectedly brings us closer to the sublime beauty of life. Hosted on Acast. See acast.com/privacy for more information.",
-   "audioURL": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b780bf91cd396b39c5cf4/media.mp3",
-   "published": "Wed, 12 Aug 2026 15:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Meditates on longing, joy, sorrow, and creativity as gateways to meaning.",
-   "tradition": "Secular"
   },
   {
    "id": "cb4a775c-91c8-11f1-afd7-7fd3ca32aaec",
@@ -83,6 +70,19 @@
    "tradition": "Christian"
   },
   {
+   "id": "6a7b780bf91cd396b39c5cf4",
+   "showID": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
+   "showTitle": "TED Talks Daily",
+   "title": "The hidden power of sad songs and rainy days | Susan Cain and Min Kym",
+   "summary": "Have you ever wondered why you like sad music? Do you find comfort or inspiration in rainy days? In this profound, poetic talk, author Susan Cain invites you to embrace the feeling of longing -- or the place where joy and sorrow meet – as a gateway to creativity, connection and love. Accompanied by the splendid sounds of violinist Min Kym, Cain meditates on how heartache unexpectedly brings us closer to the sublime beauty of life. Hosted on Acast. See acast.com/privacy for more information.",
+   "audioURL": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b780bf91cd396b39c5cf4/media.mp3",
+   "published": "Wed, 12 Aug 2026 15:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Meditates on longing and the interplay of joy and sorrow as a path to connection.",
+   "tradition": "Secular"
+  },
+  {
    "id": "02e38fdc-7973-11f1-9b81-ff71e29e03e3",
    "showID": "https://feeds.megaphone.fm/CNE3630198409",
    "showTitle": "The Political Scene | The New Yorker",
@@ -92,7 +92,7 @@
    "published": "Wed, 12 Aug 2026 22:29:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c3/f8/12/c3f81255-45c5-89b1-65d0-a644233cbe4a/mza_2090479420500153719.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses psychedelics and mental health with some ethical and consciousness implications.",
+   "reason": "Discusses psychedelics and mental health with some spiritual implications but not deeply.",
    "tradition": "Secular"
   },
   {
@@ -105,7 +105,7 @@
    "published": "Wed, 12 Aug 2026 07:54:22 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses alchemical transformation metaphorically but not deeply on ethics or meaning.",
+   "reason": "Discusses alchemical symbolism and transformation but mostly practical guide.",
    "tradition": "Interfaith"
   }
  ],
