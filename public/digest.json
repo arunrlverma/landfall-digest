@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-15T22:27:37.686283+00:00",
+ "generatedAt": "2026-08-15T23:25:27.401599+00:00",
  "showsScanned": 400,
- "candidates": 58,
+ "candidates": 60,
  "picks": [
   {
    "id": "unshaken.podbean.com/58552b92-8191-3251-b417-e753cb4b2752",
@@ -14,7 +14,20 @@
    "published": "Wed, 12 Aug 2026 20:33:04 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A thorough exploration of suffering and faith through the Book of Job.",
+   "reason": "A deep, comprehensive sermon on suffering and faith from the Book of Job.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "ddad00eb-0b80-408d-a77e-a5962b9f23de",
+   "showID": "https://anchor.fm/s/10c2267dc/podcast/rss",
+   "showTitle": "The Eric Metaxas Show",
+   "title": "#177 - Victoria Jackson",
+   "summary": "Today On The Eric Metaxas Show, Saturday Night Live alum Victoria Jackson joins Eric to reflect on their recent Socrates In The City retreat in Oxford. Victoria opens up about living with cancer, facing mortality with humor and Christian faith, and why the experience has made her appreciate life even more. She and Eric also discuss C.S. Lewis, Addison’s Walk, The Kilns, John Lennox, scientist Denis Noble, the mystery of creation, and Victoria’s new book of poetry, Not Dead Yet.⭐ ORDER NOW:Revolution: The Birth of the Greatest Nation in the History of the World📕: https://a.co/d/0ir3NlapTODAY'S ",
+   "audioURL": "https://anchor.fm/s/10c2267dc/podcast/play/124044573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-10%2F429596752-44100-2-6acd06e3bafc3.mp3",
+   "published": "Mon, 10 Aug 2026 22:01:01 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Reflects on mortality, faith, and meaning through cancer experience and Christian thought.",
    "tradition": "Christian"
   },
   {
@@ -27,21 +40,8 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores consciousness as perception and reality, questioning experience and mind deeply.",
+   "reason": "Explores consciousness and perception as controlled hallucination and brain's truth.",
    "tradition": "Secular"
-  },
-  {
-   "id": "ddad00eb-0b80-408d-a77e-a5962b9f23de",
-   "showID": "https://anchor.fm/s/10c2267dc/podcast/rss",
-   "showTitle": "The Eric Metaxas Show",
-   "title": "#177 - Victoria Jackson",
-   "summary": "Today On The Eric Metaxas Show, Saturday Night Live alum Victoria Jackson joins Eric to reflect on their recent Socrates In The City retreat in Oxford. Victoria opens up about living with cancer, facing mortality with humor and Christian faith, and why the experience has made her appreciate life even more. She and Eric also discuss C.S. Lewis, Addison’s Walk, The Kilns, John Lennox, scientist Denis Noble, the mystery of creation, and Victoria’s new book of poetry, Not Dead Yet.⭐ ORDER NOW:Revolution: The Birth of the Greatest Nation in the History of the World📕: https://a.co/d/0ir3NlapTODAY'S ",
-   "audioURL": "https://anchor.fm/s/10c2267dc/podcast/play/124044573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-10%2F429596752-44100-2-6acd06e3bafc3.mp3",
-   "published": "Mon, 10 Aug 2026 22:01:01 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Reflects on mortality, faith, and creation through personal cancer experience and Christian thought.",
-   "tradition": "Christian"
   },
   {
    "id": "037cdf69-1830-430d-bf4c-d937d9e40158",
@@ -53,7 +53,33 @@
    "published": "Tue, 11 Aug 2026 18:00:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former Mormon reflects on childhood faith doubts and loss, addressing belief and identity.",
+   "reason": "A personal story of losing faith and questioning Mormonism from childhood.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "6a7b780bf91cd396b39c5cf4",
+   "showID": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
+   "showTitle": "TED Talks Daily",
+   "title": "The hidden power of sad songs and rainy days | Susan Cain and Min Kym",
+   "summary": "Have you ever wondered why you like sad music? Do you find comfort or inspiration in rainy days? In this profound, poetic talk, author Susan Cain invites you to embrace the feeling of longing -- or the place where joy and sorrow meet – as a gateway to creativity, connection and love. Accompanied by the splendid sounds of violinist Min Kym, Cain meditates on how heartache unexpectedly brings us closer to the sublime beauty of life. Hosted on Acast. See acast.com/privacy for more information.",
+   "audioURL": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b780bf91cd396b39c5cf4/media.mp3",
+   "published": "Wed, 12 Aug 2026 15:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores how sadness and longing connect to creativity and the beauty of life.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "c1760934-9b48-4c28-a885-99c6488c0986",
+   "showID": "https://anchor.fm/s/10c2267dc/podcast/rss",
+   "showTitle": "The Eric Metaxas Show",
+   "title": "#180 - John Strand",
+   "summary": "Today On The Eric Metaxas Show, John Strand joins Eric to discuss his imprisonment following January 6, the Christian faith that carried him through suffering, and why he is now running for Congress in Florida. Strand explains his campaign to “reclaim the Republic,” his new book Patriot Plea, and why he believes the 2026 elections represent a defining moment for America. Later, Eric introduces Grace Precious Metals CEO Bill Armor to discuss transparency in the precious metals industry, gold and silver investing, inflation, the labor market, and concerns about stagflation.⭐ ORDER NOW:Revolution",
+   "audioURL": "https://traffic.megaphone.fm/APO9554247742.mp3",
+   "published": "Thu, 13 Aug 2026 20:00:01 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Personal story of faith sustaining through suffering and political engagement.",
    "tradition": "Christian"
   },
   {
@@ -66,20 +92,7 @@
    "published": "Wed, 12 Aug 2026 22:29:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c3/f8/12/c3f81255-45c5-89b1-65d0-a644233cbe4a/mza_2090479420500153719.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Conversation on psychedelic ibogaine and mental illness touches on consciousness and healing.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "6a7b780bf91cd396b39c5cf4",
-   "showID": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
-   "showTitle": "TED Talks Daily",
-   "title": "The hidden power of sad songs and rainy days | Susan Cain and Min Kym",
-   "summary": "Have you ever wondered why you like sad music? Do you find comfort or inspiration in rainy days? In this profound, poetic talk, author Susan Cain invites you to embrace the feeling of longing -- or the place where joy and sorrow meet – as a gateway to creativity, connection and love. Accompanied by the splendid sounds of violinist Min Kym, Cain meditates on how heartache unexpectedly brings us closer to the sublime beauty of life. Hosted on Acast. See acast.com/privacy for more information.",
-   "audioURL": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a7b780bf91cd396b39c5cf4/media.mp3",
-   "published": "Wed, 12 Aug 2026 15:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A poetic meditation on sadness and longing as gateways to creativity and connection.",
+   "reason": "Conversation on psychedelic ibogaine's role in mental health and politics.",
    "tradition": "Secular"
   },
   {
@@ -92,7 +105,7 @@
    "published": "Sat, 15 Aug 2026 12:46:25 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses ancient soul concepts and astral experiences with metaphysical focus.",
+   "reason": "Covers ancient soul concepts and astral bodies, blending metaphysics with esoteric knowledge.",
    "tradition": "Interfaith"
   },
   {
@@ -105,8 +118,8 @@
    "published": "Sat, 08 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/a0/12/46a0122e-5011-ffbd-cd2f-3c7a2d27777e/mza_6245367014521206082.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Historical narrative on Civil War with some ethical and existential implications.",
-   "tradition": "Secular"
+   "reason": "Historical narrative on Civil War and Lincoln's leadership with some ethical reflection.",
+   "tradition": "Christian"
   },
   {
    "id": "9d07e87e-65a7-4459-a788-b7c35b2a5e10",
@@ -118,7 +131,7 @@
    "published": "Wed, 12 Aug 2026 07:54:22 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explains an ancient alchemical text symbolically linked to transformation and enlightenment.",
+   "reason": "Discusses ancient alchemical text symbolically related to transformation and enlightenment.",
    "tradition": "Hindu"
   }
  ],
