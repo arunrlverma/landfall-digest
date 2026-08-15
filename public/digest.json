@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-15T04:37:00.406955+00:00",
+ "generatedAt": "2026-08-15T05:29:56.242989+00:00",
  "showsScanned": 400,
  "candidates": 57,
  "picks": [
@@ -27,7 +27,7 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores consciousness and perception deeply, questioning reality and experience.",
+   "reason": "Explores consciousness and perception as fundamental questions about reality and experience.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Mon, 10 Aug 2026 22:01:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Reflects on mortality, faith, and creation through personal illness and Christian thought.",
+   "reason": "Reflects on mortality, faith, and creation through a cancer survivor's Christian perspective.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Tue, 11 Aug 2026 18:00:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores loss of faith and questioning within Mormonism from a personal perspective.",
+   "reason": "Explores loss of Mormon faith from a personal and questioning perspective.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Wed, 12 Aug 2026 15:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Reflects on longing, sorrow, and beauty as gateways to creativity and connection.",
+   "reason": "Meditates on longing, joy, sorrow, and creativity as gateways to meaning.",
    "tradition": "Secular"
   },
   {
@@ -80,20 +80,7 @@
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/a0/12/46a0122e-5011-ffbd-cd2f-3c7a2d27777e/mza_6245367014521206082.jpg/600x600bb.jpg",
    "rating": 7,
    "reason": "Historical reflection on war, leadership, and national meaning with ethical undertones.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "fd096262-ea26-4724-90a6-28eaef8ba3ec",
-   "showID": "https://rss.art19.com/notes-from-the-edge",
-   "showTitle": "Notes from the Edge",
-   "title": "Kitchen Design, Home & Reinvention: Building a Life You Love with Marvin W. Towler",
-   "summary": "What if designing a kitchen and designing a life have more in common than we think?\nIn this episode of Notes From the Edge, Lisa Lacy sits down with kitchen designer and longtime construction professional Marvin Towler for a conversation that begins with kitchen remodeling, budgets, and beautiful spaces, then takes the kind of unexpected rabbit holes we love around here.\nMarvin shares why a dream isn’t enough when you’re renovating a home. You need a plan. From kitchen layouts and cabinetry to flooring, appliances, construction costs, and the unexpected expenses that can derail a remodel, Marv",
-   "audioURL": "https://mgln.ai/e/345/rss.art19.com/episodes/f0ee8241-0709-49dd-a113-4642988e70c6.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Fri, 07 Aug 2026 12:55:14 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/97/92/32979257-5c6e-67bf-6903-bafc7e6be33f/mza_14341890291190171930.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Connects home design to life planning, touching on meaning and reinvention.",
-   "tradition": "Secular"
+   "tradition": "Christian"
   },
   {
    "id": "02e38fdc-7973-11f1-9b81-ff71e29e03e3",
@@ -105,7 +92,7 @@
    "published": "Wed, 12 Aug 2026 22:29:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c3/f8/12/c3f81255-45c5-89b1-65d0-a644233cbe4a/mza_2090479420500153719.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses psychedelics and mental health with some spiritual implications.",
+   "reason": "Discusses psychedelics and mental health with some ethical and consciousness implications.",
    "tradition": "Secular"
   },
   {
@@ -118,7 +105,7 @@
    "published": "Wed, 12 Aug 2026 07:54:22 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses alchemical symbolism and transformation but mostly practical guide.",
+   "reason": "Discusses alchemical transformation metaphorically but not deeply on ethics or meaning.",
    "tradition": "Interfaith"
   }
  ],
