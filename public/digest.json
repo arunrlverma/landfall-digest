@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-15T02:56:46.806168+00:00",
+ "generatedAt": "2026-08-15T03:45:51.699580+00:00",
  "showsScanned": 400,
  "candidates": 57,
  "picks": [
@@ -27,7 +27,7 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores consciousness, perception, and the nature of experience in depth.",
+   "reason": "Examines consciousness and perception as fundamental questions of experience.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,20 @@
    "published": "Mon, 10 Aug 2026 22:01:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Reflects on mortality, suffering, and faith through personal cancer experience and Christian thought.",
+   "reason": "A cancer survivor reflects on mortality, faith, and appreciation of life with humor.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "037cdf69-1830-430d-bf4c-d937d9e40158",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "When a Child Questions Mormonism - Annie Marie | Ep. 2180",
+   "summary": "What would cause a child to lose their LDS faith? We strive to answer this question in today's interview with TikTok star, Annie Marie. Annie is an ex-mormon content creator who has gained an audience from her satirical videos that mainly center around questions she had as a child growing up in the LDS faith. Today she sits down with John and Margi to share her full Mormon story, offer commentary on some of her most popular videos, and walk us through her creative process. Annie came from a strict Mormon upbringing, but when her parents divorced (and their temple sealing was canceled) it spark",
+   "audioURL": "https://traffic.megaphone.fm/APO8388173414.mp3",
+   "published": "Tue, 11 Aug 2026 18:00:18 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A former Mormon shares her journey of faith questioning and loss from childhood.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +66,20 @@
    "published": "Wed, 12 Aug 2026 15:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "Meditates on longing and sorrow as gateways to creativity and connection.",
+   "reason": "Meditates on longing, joy, sorrow, and creativity as gateways to deeper life meaning.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "2a1d1d81-97ea-48b0-9c8a-7b17346f477f",
+   "showID": "https://feeds.simplecast.com/UCwaTX1J",
+   "showTitle": "The Mel Robbins Podcast",
+   "title": "World Leading Psychologist: How to Manifest Anything & Create the Life You Want",
+   "summary": "Today, you are going to learn the science of manifestation, visualization, and imagination - and the steps you can take to start creating the life you want.\nIn this powerful episode, Mel sits down with Dr. Cassandra Vieten, PhD, a clinical psychologist, professor at UC San Diego, and one of the world’s leading researchers on imagination and consciousness.\nDr. Vieten directs the Center for Human Imagination at UC San Diego, leads the Center for Mindfulness at UC San Diego’s Centers for Integrative Health, and her research has been cited more than 5,000 times.\nTogether, Mel and Dr. Vieten unpack",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/stitcher.simplecastaudio.com/b9de9f5f-6dab-4833-b4c2-05f1d28dd998/episodes/91664d33-944f-4c53-9d4e-d963a385df93/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=b9de9f5f-6dab-4833-b4c2-05f1d28dd998&amp;awEpisodeId=91664d33-944f-4c53-9d4e-d963a385df93&amp;feed=UCwaTX1J",
+   "published": "Mon, 10 Aug 2026 04:05:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Covers manifestation and imagination with psychological insights, lightly on meaning.",
    "tradition": "Secular"
   },
   {
@@ -66,7 +92,7 @@
    "published": "Sat, 08 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/a0/12/46a0122e-5011-ffbd-cd2f-3c7a2d27777e/mza_6245367014521206082.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Historical narrative touches on national struggle and survival but not deep philosophy.",
+   "reason": "Historical reflection on war, leadership, and national meaning.",
    "tradition": "Secular"
   },
   {
@@ -79,7 +105,7 @@
    "published": "Wed, 12 Aug 2026 22:29:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c3/f8/12/c3f81255-45c5-89b1-65d0-a644233cbe4a/mza_2090479420500153719.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discussion of psychedelic drug politics with some mental health and faith implications.",
+   "reason": "Discusses psychedelics and mental health with political and cultural angles.",
    "tradition": "Secular"
   },
   {
@@ -92,21 +118,8 @@
    "published": "Wed, 12 Aug 2026 07:54:22 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses ancient alchemical text symbolically but not deeply on ethics or meaning.",
+   "reason": "Discusses ancient alchemical text symbolically but mostly practical and historical.",
    "tradition": "Interfaith"
-  },
-  {
-   "id": "037cdf69-1830-430d-bf4c-d937d9e40158",
-   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
-   "showTitle": "Mormon Stories Podcast",
-   "title": "When a Child Questions Mormonism - Annie Marie | Ep. 2180",
-   "summary": "What would cause a child to lose their LDS faith? We strive to answer this question in today's interview with TikTok star, Annie Marie. Annie is an ex-mormon content creator who has gained an audience from her satirical videos that mainly center around questions she had as a child growing up in the LDS faith. Today she sits down with John and Margi to share her full Mormon story, offer commentary on some of her most popular videos, and walk us through her creative process. Annie came from a strict Mormon upbringing, but when her parents divorced (and their temple sealing was canceled) it spark",
-   "audioURL": "https://traffic.megaphone.fm/APO8388173414.mp3",
-   "published": "Tue, 11 Aug 2026 18:00:18 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores loss of faith and questioning Mormonism from a personal perspective.",
-   "tradition": "Christian"
   }
  ],
  "history": {
