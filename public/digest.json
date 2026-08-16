@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-16T20:28:48.894404+00:00",
+ "generatedAt": "2026-08-16T21:25:38.794095+00:00",
  "showsScanned": 400,
  "candidates": 57,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Sun, 09 Aug 2026 00:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Directly addresses the problem of suffering and evil in relation to God and faith.",
+   "reason": "A serious theological inquiry into the problem of evil and suffering in relation to God.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Wed, 12 Aug 2026 08:16:14 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/97/92/32979257-5c6e-67bf-6903-bafc7e6be33f/mza_14341890291190171930.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses consciousness, trauma, identity, and meaning with a meditation teacher and counselor.",
+   "reason": "Discusses consciousness, trauma, identity, and the search for meaning with a spiritual and psychological lens.",
    "tradition": "Secular"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Mon, 10 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Applies Stoic philosophy to living well and accepting roles assigned by life.",
+   "reason": "Applies Stoic philosophy to living ethically and meaningfully in assigned roles.",
    "tradition": "Stoic"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Sun, 16 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Considers Stoic philosophy on struggle and freedom through a life shaped by hardship.",
+   "reason": "Discusses Stoic philosophy on struggle and freedom with practical application.",
    "tradition": "Stoic"
   },
   {
@@ -118,7 +118,7 @@
    "published": "Sun, 16 Aug 2026 00:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores the problem of suffering and God's presence in hardship.",
+   "reason": "Explores why God allows suffering and how to cope with hardship.",
    "tradition": "Christian"
   },
   {
@@ -148,6 +148,19 @@
    "tradition": "Christian"
   },
   {
+   "id": "95e79310-929a-11f1-a8e8-ff27f62a7b83",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "TRAVIS BARKER: \"My Biggest Fear Actually Happened\"",
+   "summary": "In this episode, Jay sits down with legendary drummer Travis Barker to talk about the discipline that built his career, the tragedy that almost ended it, and the slow, hard-won path back to peace. Travis opens up about losing his mother as a teenager, his struggles with addiction, the 2008 plane crash that changed his life, and how love, friendship, and sheer determination brought him back to himself.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Free 30-Day Trial.\n\nJAY’S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\n\nJoin 900,000+ r",
+   "audioURL": "https://traffic.megaphone.fm/GLT5605735602.mp3",
+   "published": "Mon, 10 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Personal story of trauma, addiction, and recovery with reflections on peace and love.",
+   "tradition": "Secular"
+  },
+  {
    "id": "https://api.spreaker.com/episode/73067329",
    "showID": "https://www.spreaker.com/show/3395068/episodes/feed",
    "showTitle": "UFO Chronicles Podcast",
@@ -159,6 +172,19 @@
    "rating": 6,
    "reason": "Personal spiritual experiences with higher beings and quest for understanding.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "a34d4860-95ec-11f1-a6a6-c78c9c5dc2a4",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "Jim Curtis: The Secret to Stop Self-Sabotage",
+   "summary": "Jay sits down with transformational coach Jim Curtis, author of The Book of Possibility, to unpack how our subconscious beliefs, many formed before age seven, quietly shape our careers, relationships, and sense of what we think we deserve. Jim breaks down his Release, Align, Become framework, walks through the four core childhood wounds behind our biggest triggers, and shares practical tools for anxiety and self-doubt, ultimately revealing who you actually are beneath the programming.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Fre",
+   "audioURL": "https://traffic.megaphone.fm/GLT7117324191.mp3",
+   "published": "Wed, 12 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Self-help style discussion on subconscious beliefs and personal growth.",
+   "tradition": "Secular"
   }
  ],
  "history": {
