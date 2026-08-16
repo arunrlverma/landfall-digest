@@ -1,21 +1,21 @@
 {
  "version": 1,
- "generatedAt": "2026-08-16T16:31:22.544360+00:00",
+ "generatedAt": "2026-08-16T17:24:01.781570+00:00",
  "showsScanned": 400,
- "candidates": 56,
+ "candidates": 55,
  "picks": [
   {
-   "id": "95e79310-929a-11f1-a8e8-ff27f62a7b83",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "TRAVIS BARKER: \"My Biggest Fear Actually Happened\"",
-   "summary": "In this episode, Jay sits down with legendary drummer Travis Barker to talk about the discipline that built his career, the tragedy that almost ended it, and the slow, hard-won path back to peace. Travis opens up about losing his mother as a teenager, his struggles with addiction, the 2008 plane crash that changed his life, and how love, friendship, and sheer determination brought him back to himself.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Free 30-Day Trial.\n\nJAY’S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\n\nJoin 900,000+ r",
-   "audioURL": "https://traffic.megaphone.fm/GLT5605735602.mp3",
-   "published": "Mon, 10 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "id": "gid://art19-episode-locator/V0/x6jkjQZQLj28rKMxJPxdyWgzjz_t6zndoHDqjykZEiQ",
+   "showID": "https://rss.art19.com/the-daily-stoic",
+   "showTitle": "The Daily Stoic",
+   "title": "Who Was Marcus Aurelius' Favorite Stoic?",
+   "summary": "Most philosophers wrote about struggle, freedom, and resilience from a place of privilege. But one Stoic’s story raises a fascinating question: what can a life shaped by hardship teach us about what it really means to be free?💡 We designed our How To Read Epictetus (A Daily Stoic Guide) as a personal field guide —part book club, part masterclass, part daily practice. It’s designed to help you not just read the words of Epictetus, but live them—to turn his timeless wisdom into real change in your own life and the lives of those around you.And if you get the guide before August 27th, you’ll rece",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/0da4a6fc-10ea-4695-ad1c-341210a64ad5.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Sun, 16 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of trauma, addiction, and recovery with reflections on fear and peace.",
-   "tradition": "Secular"
+   "reason": "Examines Stoic philosophy on freedom and resilience grounded in hardship.",
+   "tradition": "Stoic"
   },
   {
    "id": "gid://art19-episode-locator/V0/cCodx4wrNuyB_1IoXFNSF-k79DJEAPIiVR0oGh5KPis",
@@ -27,7 +27,7 @@
    "published": "Mon, 10 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Applies Stoic philosophy to living well and controlling one’s role in life.",
+   "reason": "Applies Stoic philosophy to living ethically and meaningfully in daily life.",
    "tradition": "Stoic"
   },
   {
@@ -40,21 +40,8 @@
    "published": "Sun, 09 Aug 2026 22:29:45 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines true greatness through Jesus’ teachings on humility and service.",
+   "reason": "Explores Christian ideas of greatness, humility, and service in Jesus' teachings.",
    "tradition": "Christian"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/x6jkjQZQLj28rKMxJPxdyWgzjz_t6zndoHDqjykZEiQ",
-   "showID": "https://rss.art19.com/the-daily-stoic",
-   "showTitle": "The Daily Stoic",
-   "title": "Who Was Marcus Aurelius' Favorite Stoic?",
-   "summary": "Most philosophers wrote about struggle, freedom, and resilience from a place of privilege. But one Stoic’s story raises a fascinating question: what can a life shaped by hardship teach us about what it really means to be free?💡 We designed our How To Read Epictetus (A Daily Stoic Guide) as a personal field guide —part book club, part masterclass, part daily practice. It’s designed to help you not just read the words of Epictetus, but live them—to turn his timeless wisdom into real change in your own life and the lives of those around you.And if you get the guide before August 27th, you’ll rece",
-   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/0da4a6fc-10ea-4695-ad1c-341210a64ad5.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Sun, 16 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Considers freedom and resilience through Stoic philosophy and hardship.",
-   "tradition": "Stoic"
   },
   {
    "id": "b6a11356-3c4b-4c81-9a37-b48e0167137e",
@@ -66,7 +53,7 @@
    "published": "Wed, 12 Aug 2026 16:37:12 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A devotional talk on enduring suffering with Christ, addressing mortality and faith.",
+   "reason": "A devotional on enduring suffering with faith, addressing mortality and meaning.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +66,7 @@
    "published": "Thu, 13 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/3d/a5/073da59b-6bfd-04ed-da1e-af2eca0ce7ed/mza_17777249888316424415.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Conversation on community, belonging, and social identity with ethical undertones.",
+   "reason": "Conversation on community, belonging, and social identity with ethical implications.",
    "tradition": "Secular"
   },
   {
@@ -92,20 +79,33 @@
    "published": "Thu, 13 Aug 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses fear, scripture, and spiritual paralysis with practical tools from a Christian perspective.",
+   "reason": "Discusses fear and scripture's ethical guidance on courage and faith.",
    "tradition": "Christian"
   },
   {
-   "id": "a34d4860-95ec-11f1-a6a6-c78c9c5dc2a4",
+   "id": "flightcast:01KZEFZPGDJB5379E59DBHB5Y7",
+   "showID": "https://rss2.flightcast.com/t73f4jg65ilunnoyzfdsnikd.xml",
+   "showTitle": "Worldview Matters With David Fiorazo",
+   "title": "Gary McKibben: Resist The Devil, Trust God's Sovereignty In Life’s Trials",
+   "summary": "Gary McKibben is the pastor of Victory Church Belfast and shares his personal testimonies of needing to trust God amidst life’s trials.\nVictory Church Belfast: https://www.victorychurchbelfast.com/\nGary McKibben Substack: https://pastorgarymckibben.substack.com\nVictory Church on FB: https://www.facebook.com/VictoryChurchBelfast/ \nGary McKibben on YouTube: https://www.youtube.com/@prgarymckibbenatvictory7038 (https://www.youtube.com/@prgarymckibbenatvictory7038/videos)\nwww.worldviewmatters.tv\n© FreedomProject 2026",
+   "audioURL": "https://episode.flightcast.com/01KZEFZPGDCWVSDMS5MZT7AJ8B.mp3",
+   "published": "Mon, 10 Aug 2026 13:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/73/4b/a3/734ba3b5-45d5-a741-7606-0d2fdc735887/mza_11459030094087694567.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Personal testimony about trusting God in trials, somewhat reflective on faith and suffering.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "95e79310-929a-11f1-a8e8-ff27f62a7b83",
    "showID": "https://feeds.megaphone.fm/on-purpose",
    "showTitle": "On Purpose with Jay Shetty",
-   "title": "Jim Curtis: The Secret to Stop Self-Sabotage",
-   "summary": "Jay sits down with transformational coach Jim Curtis, author of The Book of Possibility, to unpack how our subconscious beliefs, many formed before age seven, quietly shape our careers, relationships, and sense of what we think we deserve. Jim breaks down his Release, Align, Become framework, walks through the four core childhood wounds behind our biggest triggers, and shares practical tools for anxiety and self-doubt, ultimately revealing who you actually are beneath the programming.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Fre",
-   "audioURL": "https://traffic.megaphone.fm/GLT7117324191.mp3",
-   "published": "Wed, 12 Aug 2026 07:00:00 -0000",
+   "title": "TRAVIS BARKER: \"My Biggest Fear Actually Happened\"",
+   "summary": "In this episode, Jay sits down with legendary drummer Travis Barker to talk about the discipline that built his career, the tragedy that almost ended it, and the slow, hard-won path back to peace. Travis opens up about losing his mother as a teenager, his struggles with addiction, the 2008 plane crash that changed his life, and how love, friendship, and sheer determination brought him back to himself.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Free 30-Day Trial.\n\nJAY’S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\n\nJoin 900,000+ r",
+   "audioURL": "https://traffic.megaphone.fm/GLT5605735602.mp3",
+   "published": "Mon, 10 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Examines subconscious beliefs and childhood wounds shaping self-identity and anxiety.",
+   "rating": 6,
+   "reason": "Personal story of trauma and recovery touching on meaning and resilience.",
    "tradition": "Secular"
   }
  ],
