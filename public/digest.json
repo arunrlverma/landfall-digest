@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-16T09:32:31.906877+00:00",
+ "generatedAt": "2026-08-16T10:28:17.712167+00:00",
  "showsScanned": 400,
- "candidates": 57,
+ "candidates": 54,
  "picks": [
   {
    "id": "gid://art19-episode-locator/V0/x6jkjQZQLj28rKMxJPxdyWgzjz_t6zndoHDqjykZEiQ",
@@ -27,7 +27,7 @@
    "published": "Thu, 13 Aug 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores fear, scripture, and spiritual paralysis with practical tools to overcome it.",
+   "reason": "Examines fear's role in life and faith with scriptural depth and practical insight.",
    "tradition": "Christian"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Mon, 10 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Applies Stoic philosophy to living well and controlling one's role in life.",
+   "reason": "Applies Stoic philosophy to living well and controlling responses to circumstance.",
    "tradition": "Stoic"
   },
   {
@@ -53,20 +53,20 @@
    "published": "Sun, 09 Aug 2026 22:29:45 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores true greatness through Jesus' teachings on humility and service.",
+   "reason": "Examines biblical redefinition of greatness and humility in Christian life.",
    "tradition": "Christian"
   },
   {
-   "id": "fdb8761dd68e2d9df9f35216a81ee585",
-   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
-   "showTitle": "Becoming Something with Jonathan Pokluda",
-   "title": "Episode 384: Reckless Love, Church Hurt & Outsinging the Angels | feat. Cory Asbury",
-   "summary": "<p>This week we sit down with worship artist Cory Asbury — live from the tour bus — to talk about his journey through church hurt, online criticism, and what it looks like to come out the other side still singing. Cory opens up about the story behind \"Reckless Love,\" his new song Prodigal God, and why he's done being cautious with his faith. If you've ever felt beaten up by the church or beaten down by the noise of social media, this episode is for you!</p>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4L2M2MDk4MDNkLTczNzYtNGQzZS1hYzc5LWM3YmM4Mjk0YWNiMC9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=rrfqtsn",
-   "published": "Mon, 10 Aug 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
+   "id": "b6a11356-3c4b-4c81-9a37-b48e0167137e",
+   "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
+   "showTitle": "BYU Speeches",
+   "title": "To Those Enduring Trials with No End | Jeffrey S. Bednar | July 2026",
+   "summary": "“True disciples endure with Christ through every mortal storm—even those that may never cease in this life.” Jeffrey S. Bednar, associate professor of management at Brigham Young University, delivered this devotional address on July 21, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/b6a11356-3c4b-4c81-9a37-b48e0167137e/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
+   "published": "Wed, 12 Aug 2026 16:37:12 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Candid discussion of church hurt, faith struggles, and resilience in spiritual life.",
+   "reason": "A devotional on enduring suffering with faith, addressing mortality and doubt seriously.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +79,20 @@
    "published": "Thu, 13 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/3d/a5/073da59b-6bfd-04ed-da1e-af2eca0ce7ed/mza_17777249888316424415.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Conversation on community, belonging, and identity with ethical and social depth.",
+   "reason": "Explores community, belonging, and identity with thoughtful reflection.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/bbpMlHaNDQyRxxuniRUecB-nRPVd2zsoNHmVrX4VUO0",
+   "showID": "https://rss.art19.com/dear-hank-john",
+   "showTitle": "Dear Hank & John",
+   "title": "462: Socialist Ants",
+   "summary": "How do I make my sea anemones fight each other? Do I have a personality? Will I be reincarnated as an alien? How should I support my author friend? How do I fight imposter syndrome? How can I help Sierra Leone? Which Premier League team should I support? Can I still enjoy reading with a newborn baby? …Hank and John Green have answers!This episode was recorded July 22nd!If you're in need of dubious advice, email us at hankandjohn@gmail.comJoin us for monthly livestreams at patreon.com/dearhankandjohnProduced for Hank and John Green by ComplexlySee Privacy Policy at https://art19.com/privacy and",
+   "audioURL": "https://s.gum.fm/s-60e858131e222f001d9bcc97/rss.art19.com/episodes/7f08deb9-1bef-4d05-af14-4b892deb9120.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Wed, 12 Aug 2026 12:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2f/73/a2/2f73a255-e4a8-49e4-53a7-f1ae1211169b/mza_8948836678873619830.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Lighthearted answers to personal and existential questions, some reflection on identity.",
    "tradition": "Secular"
   },
   {
@@ -91,8 +104,8 @@
    "audioURL": "https://traffic.megaphone.fm/GLT7117324191.mp3",
    "published": "Wed, 12 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores subconscious beliefs and childhood wounds shaping identity and anxiety.",
+   "rating": 6,
+   "reason": "Discusses subconscious beliefs and self-sabotage with practical tools.",
    "tradition": "Secular"
   },
   {
@@ -104,22 +117,9 @@
    "audioURL": "https://traffic.megaphone.fm/GLT5605735602.mp3",
    "published": "Mon, 10 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Personal story of trauma, addiction, and recovery with reflections on fear and peace.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "b6a11356-3c4b-4c81-9a37-b48e0167137e",
-   "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
-   "showTitle": "BYU Speeches",
-   "title": "To Those Enduring Trials with No End | Jeffrey S. Bednar | July 2026",
-   "summary": "“True disciples endure with Christ through every mortal storm—even those that may never cease in this life.” Jeffrey S. Bednar, associate professor of management at Brigham Young University, delivered this devotional address on July 21, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/b6a11356-3c4b-4c81-9a37-b48e0167137e/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
-   "published": "Wed, 12 Aug 2026 16:37:12 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Devotional talk on enduring suffering with Christ, touching on mortality and faith.",
-   "tradition": "Christian"
+   "reason": "Personal story of trauma and recovery with some insight on resilience.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -268,6 +268,7 @@
   "gid://art19-episode-locator/V0/cCodx4wrNuyB_1IoXFNSF-k79DJEAPIiVR0oGh5KPis": "2026-08-16",
   "gid://art19-episode-locator/V0/uCfMF20ojHn9Fa_5H5-Bw_TpXruWHFR9qIqKjAYPSb0": "2026-08-16",
   "a5bf955e7fc36e4f31f942293f8e47a2": "2026-08-16",
-  "gid://art19-episode-locator/V0/x6jkjQZQLj28rKMxJPxdyWgzjz_t6zndoHDqjykZEiQ": "2026-08-16"
+  "gid://art19-episode-locator/V0/x6jkjQZQLj28rKMxJPxdyWgzjz_t6zndoHDqjykZEiQ": "2026-08-16",
+  "gid://art19-episode-locator/V0/bbpMlHaNDQyRxxuniRUecB-nRPVd2zsoNHmVrX4VUO0": "2026-08-16"
  }
 }
