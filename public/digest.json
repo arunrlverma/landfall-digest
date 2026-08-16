@@ -1,21 +1,34 @@
 {
  "version": 1,
- "generatedAt": "2026-08-16T06:47:47.438885+00:00",
+ "generatedAt": "2026-08-16T07:36:05.143841+00:00",
  "showsScanned": 400,
- "candidates": 57,
+ "candidates": 55,
  "picks": [
   {
-   "id": "86ddc991-7d6e-4b46-aae7-b4a500a02b3b",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
-   "showTitle": "The Best of Coast to Coast AM",
-   "title": "The Afterlife - Best of Coast to Coast AM - 8/12/26",
-   "summary": "George Noory and author Sandra Champlain explore her research into the afterlife and what happens to people after they die, whether psychic mediums truly can contact the spirits of the dead, and what causes ghosts to haunt the living.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/86ddc991-7d6e-4b46-aae7-b4a500a02b3b/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
-   "published": "Thu, 13 Aug 2026 09:49:12 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "id": "gid://art19-episode-locator/V0/x6jkjQZQLj28rKMxJPxdyWgzjz_t6zndoHDqjykZEiQ",
+   "showID": "https://rss.art19.com/the-daily-stoic",
+   "showTitle": "The Daily Stoic",
+   "title": "Who Was Marcus Aurelius' Favorite Stoic?",
+   "summary": "Most philosophers wrote about struggle, freedom, and resilience from a place of privilege. But one Stoic’s story raises a fascinating question: what can a life shaped by hardship teach us about what it really means to be free?💡 We designed our How To Read Epictetus (A Daily Stoic Guide) as a personal field guide —part book club, part masterclass, part daily practice. It’s designed to help you not just read the words of Epictetus, but live them—to turn his timeless wisdom into real change in your own life and the lives of those around you.And if you get the guide before August 27th, you’ll rece",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/0da4a6fc-10ea-4695-ad1c-341210a64ad5.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Sun, 16 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Investigates afterlife and death with psychic medium perspectives.",
-   "tradition": "Interfaith"
+   "reason": "Considers Stoic philosophy on struggle, freedom, and resilience from hardship.",
+   "tradition": "Stoic"
+  },
+  {
+   "id": "99717f16-9685-11f1-aa51-3b986d4766dc",
+   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
+   "showTitle": "Blurry Creatures",
+   "title": "EP: 454 That Fear You Feel Isn't Yours with Grant Pemberton *members only trailer",
+   "summary": "Fear is a control mechanism. Governments know it. The enemy knows it. And right now it hangs thick in the air. Grant Pemberton returns to Blurry Creatures to name the thing paralyzing the church and hand you the tools to break it. He walks through 2 Timothy, the power packed into the word dunamis, and why scripture commands us not to fear more than 150 times. Fear is not just a feeling. It is a scarecrow standing in a field full of food, and most of us spend our whole lives avoiding the harvest.\n\nGrant pastors in Franklin and works deliverance on the front lines, so he deals in stories rather ",
+   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW4208710586.mp3",
+   "published": "Thu, 13 Aug 2026 21:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Discusses fear, scripture, and spiritual paralysis with practical and scriptural insights.",
+   "tradition": "Christian"
   },
   {
    "id": "gid://art19-episode-locator/V0/cCodx4wrNuyB_1IoXFNSF-k79DJEAPIiVR0oGh5KPis",
@@ -27,20 +40,7 @@
    "published": "Mon, 10 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Practical Stoic wisdom on living well through roles assigned by circumstance.",
-   "tradition": "Stoic"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/uCfMF20ojHn9Fa_5H5-Bw_TpXruWHFR9qIqKjAYPSb0",
-   "showID": "https://rss.art19.com/the-daily-stoic",
-   "showTitle": "The Daily Stoic",
-   "title": "BONUS | The Daily Routine That Built Marcus Aurelius",
-   "summary": "Marcus Aurelius’ life looked nothing like ours, but the habits that kept him grounded still work today. In this episode, Ryan breaks down the daily practices Marcus used to stay focused, disciplined, humble, and present, and how you can apply them to your own life.🎟️ DAILY STOIC LIVE | Ryan Holiday is coming to a city near you! Grab tickets here |  https://www.dailystoiclive.com/🎙️ AD-FREE | Support the podcast and go deeper into Stoicism by subscribing to The Daily Stoic Premium - unlock ad-free listening, early access, and bonus content: https://dailystoic.supercast.com/✉️ FREE STOIC WISDOM ",
-   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/f9df3870-a288-4cad-b5e0-d1cdf725dae9.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Mon, 10 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Details Marcus Aurelius' daily practices for focus, humility, and presence.",
+   "reason": "Serious discussion of Stoic philosophy and living according to Epictetus' teachings.",
    "tradition": "Stoic"
   },
   {
@@ -53,20 +53,7 @@
    "published": "Sun, 09 Aug 2026 22:29:45 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores Jesus' redefinition of greatness through humility and service.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "fdb8761dd68e2d9df9f35216a81ee585",
-   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
-   "showTitle": "Becoming Something with Jonathan Pokluda",
-   "title": "Episode 384: Reckless Love, Church Hurt & Outsinging the Angels | feat. Cory Asbury",
-   "summary": "<p>This week we sit down with worship artist Cory Asbury — live from the tour bus — to talk about his journey through church hurt, online criticism, and what it looks like to come out the other side still singing. Cory opens up about the story behind \"Reckless Love,\" his new song Prodigal God, and why he's done being cautious with his faith. If you've ever felt beaten up by the church or beaten down by the noise of social media, this episode is for you!</p>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4L2M2MDk4MDNkLTczNzYtNGQzZS1hYzc5LWM3YmM4Mjk0YWNiMC9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=rrfqtsn",
-   "published": "Mon, 10 Aug 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Shares journey through church hurt and faith renewal.",
+   "reason": "Examines Christian ideas of greatness and humility with ethical implications.",
    "tradition": "Christian"
   },
   {
@@ -79,20 +66,7 @@
    "published": "Wed, 12 Aug 2026 16:37:12 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Devotional talk on enduring suffering with faith in Christ.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "99717f16-9685-11f1-aa51-3b986d4766dc",
-   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
-   "showTitle": "Blurry Creatures",
-   "title": "EP: 454 That Fear You Feel Isn't Yours with Grant Pemberton *members only trailer",
-   "summary": "Fear is a control mechanism. Governments know it. The enemy knows it. And right now it hangs thick in the air. Grant Pemberton returns to Blurry Creatures to name the thing paralyzing the church and hand you the tools to break it. He walks through 2 Timothy, the power packed into the word dunamis, and why scripture commands us not to fear more than 150 times. Fear is not just a feeling. It is a scarecrow standing in a field full of food, and most of us spend our whole lives avoiding the harvest.\n\nGrant pastors in Franklin and works deliverance on the front lines, so he deals in stories rather ",
-   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW4208710586.mp3",
-   "published": "Thu, 13 Aug 2026 21:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores fear and scripture with a focus on spiritual paralysis and overcoming it.",
+   "reason": "A devotional on enduring suffering with faith, addressing mortality and doubt.",
    "tradition": "Christian"
   },
   {
@@ -104,8 +78,34 @@
    "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3314552831.mp3",
    "published": "Thu, 13 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/3d/a5/073da59b-6bfd-04ed-da1e-af2eca0ce7ed/mza_17777249888316424415.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses community and belonging but not deeply on ultimate questions.",
+   "rating": 7,
+   "reason": "Conversation on community, belonging, and identity with ethical reflection.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "86ddc991-7d6e-4b46-aae7-b4a500a02b3b",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "The Afterlife - Best of Coast to Coast AM - 8/12/26",
+   "summary": "George Noory and author Sandra Champlain explore her research into the afterlife and what happens to people after they die, whether psychic mediums truly can contact the spirits of the dead, and what causes ghosts to haunt the living.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/86ddc991-7d6e-4b46-aae7-b4a500a02b3b/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Thu, 13 Aug 2026 09:49:12 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores afterlife and spirit communication, engaging with mortality and consciousness.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "a34d4860-95ec-11f1-a6a6-c78c9c5dc2a4",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "Jim Curtis: The Secret to Stop Self-Sabotage",
+   "summary": "Jay sits down with transformational coach Jim Curtis, author of The Book of Possibility, to unpack how our subconscious beliefs, many formed before age seven, quietly shape our careers, relationships, and sense of what we think we deserve. Jim breaks down his Release, Align, Become framework, walks through the four core childhood wounds behind our biggest triggers, and shares practical tools for anxiety and self-doubt, ultimately revealing who you actually are beneath the programming.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Fre",
+   "audioURL": "https://traffic.megaphone.fm/GLT7117324191.mp3",
+   "published": "Wed, 12 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Examines subconscious beliefs and childhood wounds shaping self-sabotage and identity.",
    "tradition": "Secular"
   },
   {
@@ -117,9 +117,35 @@
    "audioURL": "https://traffic.megaphone.fm/GLT5605735602.mp3",
    "published": "Mon, 10 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Personal story of trauma and recovery with reflections on peace and love.",
+   "rating": 7,
+   "reason": "Personal story of trauma, addiction, and recovery with reflections on peace and love.",
    "tradition": "Secular"
+  },
+  {
+   "id": "https://api.spreaker.com/episode/73797570",
+   "showID": "https://www.spreaker.com/show/4858435/episodes/feed",
+   "showTitle": "Next Level Soul Podcast with Alex Ferrari",
+   "title": "The Soul's Awakening: Messages from Joshua, Channeled by Gary Temple Bodley",
+   "summary": "What if the life waiting for you is greater than anything you currently have the ability to imagine?In this fascinating conversation, channeler Gary Temple Bodley shares his extraordinary journey from losing everything during the 2008 financial crash to unexpectedly connecting with a non-physical collective known as Joshua. What began as meditation and intuitive writing eventually became hundreds of channeled conversations exploring fear, limiting beliefs, manifestation, purpose, consciousness, and the hidden mechanics behind our human experience.Then Gary brings Joshua into the conversation. ",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73797570/nls_716.mp3",
+   "published": "Tue, 11 Aug 2026 11:30:02 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Covers consciousness and purpose via channeling, somewhat speculative and less grounded.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "fdb8761dd68e2d9df9f35216a81ee585",
+   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
+   "showTitle": "Becoming Something with Jonathan Pokluda",
+   "title": "Episode 384: Reckless Love, Church Hurt & Outsinging the Angels | feat. Cory Asbury",
+   "summary": "<p>This week we sit down with worship artist Cory Asbury — live from the tour bus — to talk about his journey through church hurt, online criticism, and what it looks like to come out the other side still singing. Cory opens up about the story behind \"Reckless Love,\" his new song Prodigal God, and why he's done being cautious with his faith. If you've ever felt beaten up by the church or beaten down by the noise of social media, this episode is for you!</p>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4L2M2MDk4MDNkLTczNzYtNGQzZS1hYzc5LWM3YmM4Mjk0YWNiMC9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=rrfqtsn",
+   "published": "Mon, 10 Aug 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses faith struggles and recovery from church hurt, with some spiritual depth.",
+   "tradition": "Christian"
   }
  ],
  "history": {
@@ -267,6 +293,7 @@
   "https://api.spreaker.com/episode/73797570": "2026-08-16",
   "gid://art19-episode-locator/V0/cCodx4wrNuyB_1IoXFNSF-k79DJEAPIiVR0oGh5KPis": "2026-08-16",
   "gid://art19-episode-locator/V0/uCfMF20ojHn9Fa_5H5-Bw_TpXruWHFR9qIqKjAYPSb0": "2026-08-16",
-  "a5bf955e7fc36e4f31f942293f8e47a2": "2026-08-16"
+  "a5bf955e7fc36e4f31f942293f8e47a2": "2026-08-16",
+  "gid://art19-episode-locator/V0/x6jkjQZQLj28rKMxJPxdyWgzjz_t6zndoHDqjykZEiQ": "2026-08-16"
  }
 }
