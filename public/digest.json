@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-16T21:25:38.794095+00:00",
+ "generatedAt": "2026-08-16T22:27:20.257969+00:00",
  "showsScanned": 400,
- "candidates": 57,
+ "candidates": 58,
  "picks": [
   {
    "id": "aaad4641-2115-4367-adc4-5163ca3a87ab",
@@ -14,7 +14,7 @@
    "published": "Sun, 09 Aug 2026 00:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A serious theological inquiry into the problem of evil and suffering in relation to God.",
+   "reason": "A serious theological inquiry into the problem of suffering and evil.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Wed, 12 Aug 2026 08:16:14 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/97/92/32979257-5c6e-67bf-6903-bafc7e6be33f/mza_14341890291190171930.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses consciousness, trauma, identity, and the search for meaning with a spiritual and psychological lens.",
+   "reason": "Discusses consciousness, trauma, identity, and meaning with a meditation teacher and counselor.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,20 @@
    "published": "Sun, 16 Aug 2026 20:22:54 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines authentic faith and discipleship through Jesus' teachings in Matthew.",
+   "reason": "Examines authentic faith and obedience through Jesus' teachings in Matthew.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "99717f16-9685-11f1-aa51-3b986d4766dc",
+   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
+   "showTitle": "Blurry Creatures",
+   "title": "EP: 454 That Fear You Feel Isn't Yours with Grant Pemberton *members only trailer",
+   "summary": "Fear is a control mechanism. Governments know it. The enemy knows it. And right now it hangs thick in the air. Grant Pemberton returns to Blurry Creatures to name the thing paralyzing the church and hand you the tools to break it. He walks through 2 Timothy, the power packed into the word dunamis, and why scripture commands us not to fear more than 150 times. Fear is not just a feeling. It is a scarecrow standing in a field full of food, and most of us spend our whole lives avoiding the harvest.\n\nGrant pastors in Franklin and works deliverance on the front lines, so he deals in stories rather ",
+   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW4208710586.mp3",
+   "published": "Thu, 13 Aug 2026 21:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores fear, scripture, and spiritual paralysis with practical tools to overcome it.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +66,7 @@
    "published": "Mon, 10 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Applies Stoic philosophy to living ethically and meaningfully in assigned roles.",
+   "reason": "Applies Stoic philosophy to living well and accepting roles assigned by life.",
    "tradition": "Stoic"
   },
   {
@@ -66,7 +79,7 @@
    "published": "Sun, 09 Aug 2026 22:29:45 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Considers true greatness through Jesus' teachings on humility and service.",
+   "reason": "Explores true greatness through Jesus' teachings on humility and service.",
    "tradition": "Christian"
   },
   {
@@ -79,34 +92,8 @@
    "published": "Sun, 16 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses Stoic philosophy on struggle and freedom with practical application.",
+   "reason": "Explores Stoic philosophy on struggle, freedom, and resilience in hardship.",
    "tradition": "Stoic"
-  },
-  {
-   "id": "flightcast:01KZEFZPGDJB5379E59DBHB5Y7",
-   "showID": "https://rss2.flightcast.com/t73f4jg65ilunnoyzfdsnikd.xml",
-   "showTitle": "Worldview Matters With David Fiorazo",
-   "title": "Gary McKibben: Resist The Devil, Trust God's Sovereignty In Life’s Trials",
-   "summary": "Gary McKibben is the pastor of Victory Church Belfast and shares his personal testimonies of needing to trust God amidst life’s trials.\nVictory Church Belfast: https://www.victorychurchbelfast.com/\nGary McKibben Substack: https://pastorgarymckibben.substack.com\nVictory Church on FB: https://www.facebook.com/VictoryChurchBelfast/ \nGary McKibben on YouTube: https://www.youtube.com/@prgarymckibbenatvictory7038 (https://www.youtube.com/@prgarymckibbenatvictory7038/videos)\nwww.worldviewmatters.tv\n© FreedomProject 2026",
-   "audioURL": "https://episode.flightcast.com/01KZEFZPGDCWVSDMS5MZT7AJ8B.mp3",
-   "published": "Mon, 10 Aug 2026 13:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/73/4b/a3/734ba3b5-45d5-a741-7606-0d2fdc735887/mza_11459030094087694567.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A pastor shares personal faith struggles and trust in God during life trials.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "b6a11356-3c4b-4c81-9a37-b48e0167137e",
-   "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
-   "showTitle": "BYU Speeches",
-   "title": "To Those Enduring Trials with No End | Jeffrey S. Bednar | July 2026",
-   "summary": "“True disciples endure with Christ through every mortal storm—even those that may never cease in this life.” Jeffrey S. Bednar, associate professor of management at Brigham Young University, delivered this devotional address on July 21, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/b6a11356-3c4b-4c81-9a37-b48e0167137e/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
-   "published": "Wed, 12 Aug 2026 16:37:12 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A devotional talk on enduring suffering with faith in Christ.",
-   "tradition": "Christian"
   },
   {
    "id": "963dcfbd-3300-4f7b-9e2a-fb483ab79d9f",
@@ -118,7 +105,7 @@
    "published": "Sun, 16 Aug 2026 00:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores why God allows suffering and how to cope with hardship.",
+   "reason": "Addresses the problem of suffering and God's presence during hardship.",
    "tradition": "Christian"
   },
   {
@@ -131,34 +118,34 @@
    "published": "Thu, 13 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/3d/a5/073da59b-6bfd-04ed-da1e-af2eca0ce7ed/mza_17777249888316424415.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Conversation on community, belonging, and social identity.",
+   "reason": "Explores community, belonging, and identity with psychological and social insight.",
    "tradition": "Secular"
   },
   {
-   "id": "99717f16-9685-11f1-aa51-3b986d4766dc",
-   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
-   "showTitle": "Blurry Creatures",
-   "title": "EP: 454 That Fear You Feel Isn't Yours with Grant Pemberton *members only trailer",
-   "summary": "Fear is a control mechanism. Governments know it. The enemy knows it. And right now it hangs thick in the air. Grant Pemberton returns to Blurry Creatures to name the thing paralyzing the church and hand you the tools to break it. He walks through 2 Timothy, the power packed into the word dunamis, and why scripture commands us not to fear more than 150 times. Fear is not just a feeling. It is a scarecrow standing in a field full of food, and most of us spend our whole lives avoiding the harvest.\n\nGrant pastors in Franklin and works deliverance on the front lines, so he deals in stories rather ",
-   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW4208710586.mp3",
-   "published": "Thu, 13 Aug 2026 21:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Discusses fear, scripture, and spiritual paralysis with practical tools from a Christian perspective.",
+   "id": "flightcast:01KZEFZPGDJB5379E59DBHB5Y7",
+   "showID": "https://rss2.flightcast.com/t73f4jg65ilunnoyzfdsnikd.xml",
+   "showTitle": "Worldview Matters With David Fiorazo",
+   "title": "Gary McKibben: Resist The Devil, Trust God's Sovereignty In Life’s Trials",
+   "summary": "Gary McKibben is the pastor of Victory Church Belfast and shares his personal testimonies of needing to trust God amidst life’s trials.\nVictory Church Belfast: https://www.victorychurchbelfast.com/\nGary McKibben Substack: https://pastorgarymckibben.substack.com\nVictory Church on FB: https://www.facebook.com/VictoryChurchBelfast/ \nGary McKibben on YouTube: https://www.youtube.com/@prgarymckibbenatvictory7038 (https://www.youtube.com/@prgarymckibbenatvictory7038/videos)\nwww.worldviewmatters.tv\n© FreedomProject 2026",
+   "audioURL": "https://episode.flightcast.com/01KZEFZPGDCWVSDMS5MZT7AJ8B.mp3",
+   "published": "Mon, 10 Aug 2026 13:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/73/4b/a3/734ba3b5-45d5-a741-7606-0d2fdc735887/mza_11459030094087694567.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Shares personal faith struggles and trust in God during trials from a Christian pastor.",
    "tradition": "Christian"
   },
   {
-   "id": "95e79310-929a-11f1-a8e8-ff27f62a7b83",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "TRAVIS BARKER: \"My Biggest Fear Actually Happened\"",
-   "summary": "In this episode, Jay sits down with legendary drummer Travis Barker to talk about the discipline that built his career, the tragedy that almost ended it, and the slow, hard-won path back to peace. Travis opens up about losing his mother as a teenager, his struggles with addiction, the 2008 plane crash that changed his life, and how love, friendship, and sheer determination brought him back to himself.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Free 30-Day Trial.\n\nJAY’S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\n\nJoin 900,000+ r",
-   "audioURL": "https://traffic.megaphone.fm/GLT5605735602.mp3",
-   "published": "Mon, 10 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Personal story of trauma, addiction, and recovery with reflections on peace and love.",
-   "tradition": "Secular"
+   "id": "b6a11356-3c4b-4c81-9a37-b48e0167137e",
+   "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
+   "showTitle": "BYU Speeches",
+   "title": "To Those Enduring Trials with No End | Jeffrey S. Bednar | July 2026",
+   "summary": "“True disciples endure with Christ through every mortal storm—even those that may never cease in this life.” Jeffrey S. Bednar, associate professor of management at Brigham Young University, delivered this devotional address on July 21, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/b6a11356-3c4b-4c81-9a37-b48e0167137e/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
+   "published": "Wed, 12 Aug 2026 16:37:12 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Talks about enduring life's trials with faith and discipleship.",
+   "tradition": "Christian"
   },
   {
    "id": "https://api.spreaker.com/episode/73067329",
@@ -170,20 +157,20 @@
    "published": "Thu, 13 Aug 2026 01:00:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/22/72/33/227233bf-0e7b-4d2a-d2bd-402d810dea89/mza_17727488661588768146.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal spiritual experiences with higher beings and quest for understanding.",
+   "reason": "Personal spiritual experiences and growth with higher beings, somewhat reflective.",
    "tradition": "Interfaith"
   },
   {
-   "id": "a34d4860-95ec-11f1-a6a6-c78c9c5dc2a4",
+   "id": "95e79310-929a-11f1-a8e8-ff27f62a7b83",
    "showID": "https://feeds.megaphone.fm/on-purpose",
    "showTitle": "On Purpose with Jay Shetty",
-   "title": "Jim Curtis: The Secret to Stop Self-Sabotage",
-   "summary": "Jay sits down with transformational coach Jim Curtis, author of The Book of Possibility, to unpack how our subconscious beliefs, many formed before age seven, quietly shape our careers, relationships, and sense of what we think we deserve. Jim breaks down his Release, Align, Become framework, walks through the four core childhood wounds behind our biggest triggers, and shares practical tools for anxiety and self-doubt, ultimately revealing who you actually are beneath the programming.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Fre",
-   "audioURL": "https://traffic.megaphone.fm/GLT7117324191.mp3",
-   "published": "Wed, 12 Aug 2026 07:00:00 -0000",
+   "title": "TRAVIS BARKER: \"My Biggest Fear Actually Happened\"",
+   "summary": "In this episode, Jay sits down with legendary drummer Travis Barker to talk about the discipline that built his career, the tragedy that almost ended it, and the slow, hard-won path back to peace. Travis opens up about losing his mother as a teenager, his struggles with addiction, the 2008 plane crash that changed his life, and how love, friendship, and sheer determination brought him back to himself.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Free 30-Day Trial.\n\nJAY’S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\n\nJoin 900,000+ r",
+   "audioURL": "https://traffic.megaphone.fm/GLT5605735602.mp3",
+   "published": "Mon, 10 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Self-help style discussion on subconscious beliefs and personal growth.",
+   "reason": "Personal story of trauma and recovery with reflections on peace and love.",
    "tradition": "Secular"
   }
  ],
