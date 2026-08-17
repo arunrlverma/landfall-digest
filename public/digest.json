@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-17T12:53:45.746471+00:00",
+ "generatedAt": "2026-08-17T13:43:31.666897+00:00",
  "showsScanned": 400,
- "candidates": 52,
+ "candidates": 55,
  "picks": [
   {
    "id": "unshaken.podbean.com/58552b92-8191-3251-b417-e753cb4b2752",
@@ -13,8 +13,8 @@
    "audioURL": "https://mcdn.podbean.com/mf/web/v4zimcb47k52qfhd/Job_full_audio_enhanced98zzp.mp3",
    "published": "Wed, 12 Aug 2026 20:33:04 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Deep dive into suffering and faith through the Book of Job.",
+   "rating": 10,
+   "reason": "Deep theological and existential exploration of suffering and faith in the Book of Job.",
    "tradition": "Jewish"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores consciousness and perception as controlled hallucinations.",
+   "reason": "Deep discussion on consciousness and perception from a scientific and philosophical angle.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Wed, 12 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/4e/30/364e308d-99c9-778e-e711-59e090408814/mza_3684559455643163671.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A serious Christian study on suffering and divine comfort in trials.",
+   "reason": "A serious Christian reflection on suffering and divine comfort from Paul's letter.",
    "tradition": "Christian"
   },
   {
@@ -57,32 +57,6 @@
    "tradition": "Jewish"
   },
   {
-   "id": "gid://art19-episode-locator/V0/enN2FfJr6CEuBWHg0f-Rzv1JDJIeJzZ1WwliLMTdoGw",
-   "showID": "https://rss.art19.com/the-telepathy-tapes",
-   "showTitle": "The Telepathy Tapes",
-   "title": "S2E45: Casey Carter: The Teacher Who Started Hearing Her Student’s Thoughts | Talk Tracks",
-   "summary": "When neurodevelopmental teacher Casey Carter began working with a 12-year-old nonspeaking autistic student named Jed, she quickly realized there was far more happening beneath the surface than others could see. After helping him communicate through typing, Casey says she discovered that Jed could read her thoughts. Soon, she began hearing his thoughts back.In this episode, Casey shares the extraordinary connection that transformed her understanding of communication, consciousness, and reality. She and Ky explore telepathy, bilocation, altered experiences of time, spiritual realms, and what Jed",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/70901f92-5fb5-4442-9119-791a259617b9.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Wed, 12 Aug 2026 07:03:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Shares a story about consciousness and communication beyond the physical.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "d6866618-d610-11f0-a49b-c31f19cbdde7",
-   "showID": "https://feeds.megaphone.fm/VMP1684715893",
-   "showTitle": "On with Kara Swisher",
-   "title": "Ryan Holiday on the Case for Stoicism in an Age of Distraction",
-   "summary": "While the Greek and Roman philosophy of Stoicism has been around for millennia, author and media strategist Ryan Holiday is bringing its teachings to a modern audience by way of his popular books and his podcast, “The Daily Stoic.” He says ancient writings by the likes of Seneca, Marcus Aurelius, and Epictetus resonate in times that feel especially chaotic. \n\n\n\nKara and Ryan talk about why young men in particular seem drawn to Stoicism and what powerful figures in the worlds of tech, MAGA politics, and the man-o-sphere get wrong about its teachings. He tells Kara their actions frequently run c",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5141333450.mp3",
-   "published": "Mon, 17 Aug 2026 09:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Discusses Stoicism's relevance today and its appeal in chaotic times.",
-   "tradition": "Stoic"
-  },
-  {
    "id": "037cdf69-1830-430d-bf4c-d937d9e40158",
    "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
    "showTitle": "Mormon Stories Podcast",
@@ -91,22 +65,9 @@
    "audioURL": "https://traffic.megaphone.fm/APO8388173414.mp3",
    "published": "Tue, 11 Aug 2026 18:00:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A former Mormon reflects on childhood doubts and faith loss.",
+   "rating": 8,
+   "reason": "Explores a child's loss of Mormon faith and related doubts.",
    "tradition": "Christian"
-  },
-  {
-   "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "PARIS JACKSON: “No Intervention Could Have Gotten Me Sober”",
-   "summary": "Musician and artist Paris Jackson joins Jay for an extraordinarily raw, courageous, and deeply honest conversation on addiction, recovery, and the messy, non-linear journey of healing. Paris reflects on her unconventional childhood, the chronic loneliness that shadowed her early years, and the dark reality of substance abuse that nearly cost her her life and her voice. She opens up about the trauma of adolescent rehab centers, surviving severe mental health crises, and why true recovery requires moving beyond symptom-focused treatment to embrace holistic health, self-grace, and spiritual surre",
-   "audioURL": "https://traffic.megaphone.fm/GLT2253684611.mp3",
-   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A raw conversation on addiction, recovery, and healing with existential depth.",
-   "tradition": "Secular"
   },
   {
    "id": "gid://art19-episode-locator/V0/xGYlwHlw23B60xWnet9QpwFEjilXIwuJ-rP28CxhANA",
@@ -117,8 +78,8 @@
    "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/c7a81854-161a-4846-a64b-774f13471978.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
    "published": "Mon, 17 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Covers Stoic practices and ethics but in a brief, practical format.",
+   "rating": 7,
+   "reason": "Offers practical Stoic wisdom on behavior and ethics relevant to inner life.",
    "tradition": "Stoic"
   },
   {
@@ -130,8 +91,21 @@
    "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/b7a35026-8c7c-4937-a579-02b7598e069e.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
    "published": "Mon, 17 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Explores Stoic ideas about freedom and addiction in a practical way.",
+   "rating": 7,
+   "reason": "Explores Stoic ideas about freedom and addiction with philosophical insight.",
+   "tradition": "Stoic"
+  },
+  {
+   "id": "d6866618-d610-11f0-a49b-c31f19cbdde7",
+   "showID": "https://feeds.megaphone.fm/VMP1684715893",
+   "showTitle": "On with Kara Swisher",
+   "title": "Ryan Holiday on the Case for Stoicism in an Age of Distraction",
+   "summary": "While the Greek and Roman philosophy of Stoicism has been around for millennia, author and media strategist Ryan Holiday is bringing its teachings to a modern audience by way of his popular books and his podcast, “The Daily Stoic.” He says ancient writings by the likes of Seneca, Marcus Aurelius, and Epictetus resonate in times that feel especially chaotic. \n\n\n\nKara and Ryan talk about why young men in particular seem drawn to Stoicism and what powerful figures in the worlds of tech, MAGA politics, and the man-o-sphere get wrong about its teachings. He tells Kara their actions frequently run c",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5141333450.mp3",
+   "published": "Mon, 17 Aug 2026 09:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discusses Stoicism’s relevance today and its appeal in chaotic times.",
    "tradition": "Stoic"
   },
   {
@@ -143,21 +117,8 @@
    "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/124235699/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-14%2F429860327-44100-2-be1d12fb3cb9.m4a",
    "published": "Sun, 16 Aug 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "A personal redemption story involving faith but focused on recovery and hope.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "fa177f20-9999-11f1-9f84-13c49c0a07dc",
-   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
-   "showTitle": "Live Free with Josh Howerton",
-   "title": "Is the BAPTISM of the Holy Spirit a REAL Thing?! (What the Bible ACTUALLY Says) | Live Free with Josh Howerton",
-   "summary": "Pastors Josh, Carlos, and Paul unpack Paul’s words to Timothy in 2 Timothy 1 and trace his transformation from a fearful young leader into a faithful, courageous pastor. They also compare the major Christian views of baptism in the Holy Spirit, explain what changed between the old and new covenants, and discuss why every believer should continually seek the Spirit’s filling.\n\n\n\nIn this episode, you’ll learn:\n\n\n  How Christians should respond to wars, disasters, and uncertainty\n\n  Why fear should never become the controlling force in your decisions\n\n  How Scripture—not feelings—helps you discer",
-   "audioURL": "https://traffic.megaphone.fm/HAEEH6263341021.mp3",
-   "published": "Mon, 17 Aug 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discussion on Holy Spirit baptism with theological detail, somewhat doctrinal.",
+   "rating": 7,
+   "reason": "A personal story of addiction and faith transformation with honest spiritual struggle.",
    "tradition": "Christian"
   },
   {
@@ -169,9 +130,87 @@
    "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8587697/8587697_2026-08-12-072337.128.mp3?rssID=6605",
    "published": "Wed, 12 Aug 2026 07:54:22 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Explores ancient alchemical text symbolically, touching on transformation and meaning.",
+   "rating": 7,
+   "reason": "Examines ancient alchemical text symbolically, offering practical spiritual insights.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "PARIS JACKSON: “No Intervention Could Have Gotten Me Sober”",
+   "summary": "Musician and artist Paris Jackson joins Jay for an extraordinarily raw, courageous, and deeply honest conversation on addiction, recovery, and the messy, non-linear journey of healing. Paris reflects on her unconventional childhood, the chronic loneliness that shadowed her early years, and the dark reality of substance abuse that nearly cost her her life and her voice. She opens up about the trauma of adolescent rehab centers, surviving severe mental health crises, and why true recovery requires moving beyond symptom-focused treatment to embrace holistic health, self-grace, and spiritual surre",
+   "audioURL": "https://traffic.megaphone.fm/GLT2253684611.mp3",
+   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Candid discussion of addiction and recovery, addressing suffering and healing honestly.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/enN2FfJr6CEuBWHg0f-Rzv1JDJIeJzZ1WwliLMTdoGw",
+   "showID": "https://rss.art19.com/the-telepathy-tapes",
+   "showTitle": "The Telepathy Tapes",
+   "title": "S2E45: Casey Carter: The Teacher Who Started Hearing Her Student’s Thoughts | Talk Tracks",
+   "summary": "When neurodevelopmental teacher Casey Carter began working with a 12-year-old nonspeaking autistic student named Jed, she quickly realized there was far more happening beneath the surface than others could see. After helping him communicate through typing, Casey says she discovered that Jed could read her thoughts. Soon, she began hearing his thoughts back.In this episode, Casey shares the extraordinary connection that transformed her understanding of communication, consciousness, and reality. She and Ky explore telepathy, bilocation, altered experiences of time, spiritual realms, and what Jed",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/70901f92-5fb5-4442-9119-791a259617b9.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Wed, 12 Aug 2026 07:03:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Shares unusual experiences about consciousness and communication, lightly philosophical.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "fa177f20-9999-11f1-9f84-13c49c0a07dc",
+   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
+   "showTitle": "Live Free with Josh Howerton",
+   "title": "Is the BAPTISM of the Holy Spirit a REAL Thing?! (What the Bible ACTUALLY Says) | Live Free with Josh Howerton",
+   "summary": "Pastors Josh, Carlos, and Paul unpack Paul’s words to Timothy in 2 Timothy 1 and trace his transformation from a fearful young leader into a faithful, courageous pastor. They also compare the major Christian views of baptism in the Holy Spirit, explain what changed between the old and new covenants, and discuss why every believer should continually seek the Spirit’s filling.\n\n\n\nIn this episode, you’ll learn:\n\n\n  How Christians should respond to wars, disasters, and uncertainty\n\n  Why fear should never become the controlling force in your decisions\n\n  How Scripture—not feelings—helps you discer",
+   "audioURL": "https://traffic.megaphone.fm/HAEEH6263341021.mp3",
+   "published": "Mon, 17 Aug 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores Christian views on Spirit baptism and faith but mostly doctrinal explanation.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "53529313-1dc3-4dc0-8819-0bf41b57365e",
+   "showID": "https://feeds.libsyn.com/56578/rss",
+   "showTitle": "Joyce Meyer Enjoying Everyday Life® Radio Podcast",
+   "title": "Hearing from God – Part 3",
+   "summary": "God speaks in the middle of everyday life. Today on 15 Minutes in the Word, Joyce shares how to recognize His voice and follow His leading.",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/jmradio/JMM_Aug_16_2026.mp3?dest-id=211463",
+   "published": "Sun, 16 Aug 2026 05:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/20/5f/89205fa5-8450-d917-3f45-a5b26962a087/mza_377853489433632553.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses recognizing divine communication in daily life with a Christian perspective.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "838636be-76e8-11f0-a663-53b899889e1a",
+   "showID": "https://rss.amperwave.net/v2/feed/audacynetwork/4cbf0abf775be3cab2bd61a739939f1b",
+   "showTitle": "60 Minutes",
+   "title": "08/16/2026: A Psychedelic Journey, The Mardi Gras Indians, The Indomitable Margaret Atwood",
+   "summary": "The Veterans Administration announced it would begin funding clinical trials to explore the use of psychedelic drugs for treating post-traumatic stress disorder, depression and addiction. However, these trials are small, and even if successful, it will likely be years before veterans can access psychedelics at the VA. Many U.S. veterans struggling with PTSD aren’t waiting. Thousands of them are traveling overseas seeking relief at psychedelic retreats where these substances are legal to use, mostly in indigenous ceremonies. Correspondent Anderson Cooper follows nine veterans on a psychedelic j",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/serve.castfire.com/audio/8229704/8229704_2026-04-13-185904.192.mp3?rssID=5945",
+   "published": "Mon, 17 Aug 2026 01:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ac/31/27/ac31272d-bb62-fcc3-979a-54b63c691dc5/mza_5493651264753178068.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses psychedelic therapy for PTSD, touching on suffering and healing but not deeply philosophical.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "ba3554e7-4eb7-4e7d-850e-f5933bcf2bda",
+   "showID": "https://feeds.libsyn.com/570160/rss",
+   "showTitle": "10% Happier with Dan Harris",
+   "title": "The Non-BS Science of Manifestation: How Your Imagination Can Help With Pain, Anxiety, Conflict, and Recovery | Cassi Vieten",
+   "summary": "How elite athletes use visualization to improve performance, why visualization can turbo-charge physical recovery, and the mental trick that can make your nervous system feel safe. Cassi Vieten, PhD, is a licensed clinical psychologist and director of research at the Arthur C. Clarke Center for Human Imagination at the University of California, San Diego, where she also directs the Center for Mindfulness. She is the author  Imagine That: Transform How You Think, Feel, and Live with the Science of Imagination. In this episode we talk about:  Why imagination is the oldest human technology The VI",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/05620661-2103-4fe0-9ab9-92bfc4d9cf22/20260810_TPHP_CassiVieten_Mastered_AudioVersion.mp3?dest-id=4933335",
+   "published": "Wed, 12 Aug 2026 07:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores visualization's effects on mind and body, blending science with mental well-being.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -324,6 +363,8 @@
   "53529313-1dc3-4dc0-8819-0bf41b57365e": "2026-08-17",
   "d6866618-d610-11f0-a49b-c31f19cbdde7": "2026-08-17",
   "62ea14f9-df09-4650-8a7b-827282ff5c52": "2026-08-17",
-  "fa177f20-9999-11f1-9f84-13c49c0a07dc": "2026-08-17"
+  "fa177f20-9999-11f1-9f84-13c49c0a07dc": "2026-08-17",
+  "838636be-76e8-11f0-a663-53b899889e1a": "2026-08-17",
+  "ba3554e7-4eb7-4e7d-850e-f5933bcf2bda": "2026-08-17"
  }
 }
