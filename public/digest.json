@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-17T17:32:33.523956+00:00",
+ "generatedAt": "2026-08-17T18:47:26.600196+00:00",
  "showsScanned": 400,
- "candidates": 55,
+ "candidates": 56,
  "picks": [
   {
    "id": "unshaken.podbean.com/58552b92-8191-3251-b417-e753cb4b2752",
@@ -14,7 +14,7 @@
    "published": "Wed, 12 Aug 2026 20:33:04 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A thorough theological reflection on suffering and faith from the Book of Job.",
+   "reason": "A thorough exploration of suffering and faith through the Book of Job's narrative.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Mon, 17 Aug 2026 15:27:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/6c/4a/2a6c4a61-4ae0-809b-ca09-ce2adede4cef/mza_13635592988277147456.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Philosophical and scientific inquiry into consciousness and alien minds.",
+   "reason": "Philosophical and scientific exploration of consciousness in alien minds.",
    "tradition": "Secular"
   },
   {
@@ -40,8 +40,34 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A deep secular inquiry into consciousness, perception, and the nature of experience.",
+   "reason": "Deep exploration of consciousness and perception from a scientific perspective.",
    "tradition": "Secular"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/enN2FfJr6CEuBWHg0f-Rzv1JDJIeJzZ1WwliLMTdoGw",
+   "showID": "https://rss.art19.com/the-telepathy-tapes",
+   "showTitle": "The Telepathy Tapes",
+   "title": "S2E45: Casey Carter: The Teacher Who Started Hearing Her Student’s Thoughts | Talk Tracks",
+   "summary": "When neurodevelopmental teacher Casey Carter began working with a 12-year-old nonspeaking autistic student named Jed, she quickly realized there was far more happening beneath the surface than others could see. After helping him communicate through typing, Casey says she discovered that Jed could read her thoughts. Soon, she began hearing his thoughts back.In this episode, Casey shares the extraordinary connection that transformed her understanding of communication, consciousness, and reality. She and Ky explore telepathy, bilocation, altered experiences of time, spiritual realms, and what Jed",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/70901f92-5fb5-4442-9119-791a259617b9.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Wed, 12 Aug 2026 07:03:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Shares a unique story on consciousness and communication beyond ordinary perception.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "bdb4d022f0c93d091facae8fa60b742d",
+   "showID": "https://podcasts.subsplash.com:443/03fe243/podcast.rss",
+   "showTitle": "Prophecy Watchers",
+   "title": "Finding Comfort in Suffering | Studies with Stearman",
+   "summary": "<p>Why does God allow suffering? Why do faithful Christians endure trials, persecution, and heartbreak?</p><p>Today Gary begins an in-depth study of 2 Corinthians, one of Paul's most personal letters. Paul opens the epistle by repeatedly emphasizing one central theme: God is the God of all comfort.</p>",
+   "audioURL": "https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvTkhDOEM5LzJiNzFkNmFjLWI0ZWYtNDhkNy04Y2ViLWE1Y2RlNjIxZGQ5Mi9hdWRpby5tcDM.mp3?k=NHC8C9&amp;s=3&amp;sapid=srryyj4",
+   "published": "Wed, 12 Aug 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/4e/30/364e308d-99c9-778e-e711-59e090408814/mza_3684559455643163671.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "An in-depth Christian study on suffering and divine comfort from 2 Corinthians.",
+   "tradition": "Christian"
   },
   {
    "id": "Buzzsprout-19638488",
@@ -53,7 +79,7 @@
    "published": "Thu, 13 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal spiritual growth story addressing fear, grief, and identity transformation.",
+   "reason": "Personal spiritual growth story about grief, fear, and transformation.",
    "tradition": "Interfaith"
   },
   {
@@ -66,7 +92,7 @@
    "published": "Wed, 12 Aug 2026 00:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A Jewish rabbi discusses faith, doubt, and identity in a complex modern context.",
+   "reason": "A rabbi discusses faith, doubt, and identity beyond belief in God.",
    "tradition": "Jewish"
   },
   {
@@ -79,8 +105,21 @@
    "published": "Tue, 11 Aug 2026 18:00:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "An ex-Mormon reflects on childhood doubts and losing faith in LDS tradition.",
+   "reason": "Ex-Mormon reflects on childhood doubts and loss of faith in LDS tradition.",
    "tradition": "Christian"
+  },
+  {
+   "id": "838636be-76e8-11f0-a663-53b899889e1a",
+   "showID": "https://rss.amperwave.net/v2/feed/audacynetwork/4cbf0abf775be3cab2bd61a739939f1b",
+   "showTitle": "60 Minutes",
+   "title": "08/16/2026: A Psychedelic Journey, The Mardi Gras Indians, The Indomitable Margaret Atwood",
+   "summary": "The Veterans Administration announced it would begin funding clinical trials to explore the use of psychedelic drugs for treating post-traumatic stress disorder, depression and addiction. However, these trials are small, and even if successful, it will likely be years before veterans can access psychedelics at the VA. Many U.S. veterans struggling with PTSD aren’t waiting. Thousands of them are traveling overseas seeking relief at psychedelic retreats where these substances are legal to use, mostly in indigenous ceremonies. Correspondent Anderson Cooper follows nine veterans on a psychedelic j",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/serve.castfire.com/audio/8229704/8229704_2026-04-13-185904.192.mp3?rssID=5945",
+   "published": "Mon, 17 Aug 2026 01:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ac/31/27/ac31272d-bb62-fcc3-979a-54b63c691dc5/mza_5493651264753178068.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores psychedelic therapy for PTSD and suffering, touching on healing and consciousness.",
+   "tradition": "Secular"
   },
   {
    "id": "gid://art19-episode-locator/V0/xGYlwHlw23B60xWnet9QpwFEjilXIwuJ-rP28CxhANA",
@@ -92,7 +131,7 @@
    "published": "Mon, 17 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Presents practical Stoic wisdom on behavior and ethics for daily life.",
+   "reason": "Shares practical Stoic wisdom on behaviors to avoid for a virtuous life.",
    "tradition": "Stoic"
   },
   {
@@ -105,46 +144,33 @@
    "published": "Mon, 17 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explains Stoicism's relevance today and its ethical teachings.",
+   "reason": "Discusses Stoicism's relevance today and its appeal to modern audiences.",
    "tradition": "Stoic"
   },
   {
-   "id": "gid://art19-episode-locator/V0/enN2FfJr6CEuBWHg0f-Rzv1JDJIeJzZ1WwliLMTdoGw",
-   "showID": "https://rss.art19.com/the-telepathy-tapes",
-   "showTitle": "The Telepathy Tapes",
-   "title": "S2E45: Casey Carter: The Teacher Who Started Hearing Her Student’s Thoughts | Talk Tracks",
-   "summary": "When neurodevelopmental teacher Casey Carter began working with a 12-year-old nonspeaking autistic student named Jed, she quickly realized there was far more happening beneath the surface than others could see. After helping him communicate through typing, Casey says she discovered that Jed could read her thoughts. Soon, she began hearing his thoughts back.In this episode, Casey shares the extraordinary connection that transformed her understanding of communication, consciousness, and reality. She and Ky explore telepathy, bilocation, altered experiences of time, spiritual realms, and what Jed",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/70901f92-5fb5-4442-9119-791a259617b9.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Wed, 12 Aug 2026 07:03:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
+   "id": "c1e443f9-3911-417a-ae18-f7c259760ba1",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Kiaya was a Heroin Addict for 10 Years...A Cop Made Her a Promise, and Jesus did the Rest",
+   "summary": "\"No matter where you're at or what you're doing or what you feel about yourself, I promise you that you can have a bright and better future for yourself. All you have to do is decide wherever you are or wherever you're at spiritually, physically, mentally, emotionally, that you can choose for yourself to have a better day. That this could be the best day of your life, that this day you can choose to do something different with your life. Whatever you're struggling with, it doesn't have to be as serious as what I've struggled with, you can choose better for yourself, and that's exactly what you",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/124235699/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-14%2F429860327-44100-2-be1d12fb3cb9.m4a",
+   "published": "Sun, 16 Aug 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Shares an unusual story about communication and consciousness in autism.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "fa177f20-9999-11f1-9f84-13c49c0a07dc",
-   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
-   "showTitle": "Live Free with Josh Howerton",
-   "title": "Is the BAPTISM of the Holy Spirit a REAL Thing?! (What the Bible ACTUALLY Says) | Live Free with Josh Howerton",
-   "summary": "Pastors Josh, Carlos, and Paul unpack Paul’s words to Timothy in 2 Timothy 1 and trace his transformation from a fearful young leader into a faithful, courageous pastor. They also compare the major Christian views of baptism in the Holy Spirit, explain what changed between the old and new covenants, and discuss why every believer should continually seek the Spirit’s filling.\n\n\n\nIn this episode, you’ll learn:\n\n\n  How Christians should respond to wars, disasters, and uncertainty\n\n  Why fear should never become the controlling force in your decisions\n\n  How Scripture—not feelings—helps you discer",
-   "audioURL": "https://traffic.megaphone.fm/HAEEH6263341021.mp3",
-   "published": "Mon, 17 Aug 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores Christian views on the Holy Spirit and spiritual transformation.",
+   "reason": "A personal story of addiction and faith transformation centered on Jesus.",
    "tradition": "Christian"
   },
   {
-   "id": "838636be-76e8-11f0-a663-53b899889e1a",
-   "showID": "https://rss.amperwave.net/v2/feed/audacynetwork/4cbf0abf775be3cab2bd61a739939f1b",
-   "showTitle": "60 Minutes",
-   "title": "08/16/2026: A Psychedelic Journey, The Mardi Gras Indians, The Indomitable Margaret Atwood",
-   "summary": "The Veterans Administration announced it would begin funding clinical trials to explore the use of psychedelic drugs for treating post-traumatic stress disorder, depression and addiction. However, these trials are small, and even if successful, it will likely be years before veterans can access psychedelics at the VA. Many U.S. veterans struggling with PTSD aren’t waiting. Thousands of them are traveling overseas seeking relief at psychedelic retreats where these substances are legal to use, mostly in indigenous ceremonies. Correspondent Anderson Cooper follows nine veterans on a psychedelic j",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/serve.castfire.com/audio/8229704/8229704_2026-04-13-185904.192.mp3?rssID=5945",
-   "published": "Mon, 17 Aug 2026 01:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ac/31/27/ac31272d-bb62-fcc3-979a-54b63c691dc5/mza_5493651264753178068.jpg/600x600bb.jpg",
+   "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "PARIS JACKSON: “No Intervention Could Have Gotten Me Sober”",
+   "summary": "Musician and artist Paris Jackson joins Jay for an extraordinarily raw, courageous, and deeply honest conversation on addiction, recovery, and the messy, non-linear journey of healing. Paris reflects on her unconventional childhood, the chronic loneliness that shadowed her early years, and the dark reality of substance abuse that nearly cost her her life and her voice. She opens up about the trauma of adolescent rehab centers, surviving severe mental health crises, and why true recovery requires moving beyond symptom-focused treatment to embrace holistic health, self-grace, and spiritual surre",
+   "audioURL": "https://traffic.megaphone.fm/GLT2253684611.mp3",
+   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores psychedelic therapy for PTSD, touching on suffering and healing.",
+   "reason": "Honest conversation on addiction, recovery, and healing journey.",
    "tradition": "Secular"
   },
   {
@@ -157,7 +183,7 @@
    "published": "Mon, 17 Aug 2026 14:44:27 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses afterlife and presence of loved ones from multiple perspectives.",
+   "reason": "Discusses afterlife and presence of loved ones through mediumship and medical research.",
    "tradition": "Interfaith"
   },
   {
@@ -170,21 +196,21 @@
    "published": "Wed, 12 Aug 2026 07:54:22 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explains alchemical text as spiritual transformation guide.",
-   "tradition": "Interfaith"
+   "reason": "Explains alchemical symbolism and transformation from an ancient spiritual text.",
+   "tradition": "Hermetic/Hindu"
   },
   {
-   "id": "9472c60e-90af-11f1-bec7-4f6529ccdc99",
-   "showID": "https://feeds.megaphone.fm/SGP8517078272",
-   "showTitle": "Get Sleepy: Sleep meditation and stories",
-   "title": "A Body Scan Meditation for Sleep",
-   "summary": "Writer & Narrator: Nicky Branagh-Schmidt 🇬🇧\n\n\n\nWelcome back, sleepyheads. Tonight's meditation is a slow invitation for every single part of you to rest; to soften; to welcome in sleep. 😴&nbsp;\n\n\n\nTo receive our FREE weekly newsletter:&nbsp;⁠⁠⁠⁠JOIN OUR MAILING LIST⁠⁠⁠⁠\n\n\n\nEnjoy various playlists&nbsp;of our stories and meditations on our&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠Slumber Studios Spotify profile⁠⁠⁠⁠⁠⁠⁠⁠.\n\n\n\nGet Sleepy Premium\n\nListen completely ad-free and access our entire catalogue of stories and meditations by subscribing to our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠premium feed.⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\nYour support means the world to us",
-   "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/SGP3506731765.mp3",
-   "published": "Thu, 13 Aug 2026 16:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Guided meditation invites rest and presence, fostering inner peace.",
-   "tradition": "Secular"
+   "id": "tag:soundcloud,2010:tracks/2373839324",
+   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:669018539/sounds.rss",
+   "showTitle": "Don't Miss This Study",
+   "title": "DON'T GIVE UP",
+   "summary": "The Psalms!  by Grace Freeman and David Butler. These are some of the most hopeful chapters of scripture.  This week Psalms 1-46",
+   "audioURL": "https://feeds.soundcloud.com/stream/2373839324-grace-freeman-916551846-dont-give-up.mp3",
+   "published": "Mon, 10 Aug 2026 00:00:49 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Focuses on hope and faith through Psalms, offering spiritual encouragement.",
+   "tradition": "Christian"
   },
   {
    "id": "gid://art19-episode-locator/V0/wunOMAskfMlXmwFJnoXSXM3Y0oy_nsVN31dox6go5xk",
@@ -196,20 +222,33 @@
    "published": "Mon, 17 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Reflects on freedom and addiction through Stoic philosophy but mostly practical.",
+   "reason": "Examines freedom and addiction through a Stoic philosophical lens.",
    "tradition": "Stoic"
   },
   {
-   "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "PARIS JACKSON: “No Intervention Could Have Gotten Me Sober”",
-   "summary": "Musician and artist Paris Jackson joins Jay for an extraordinarily raw, courageous, and deeply honest conversation on addiction, recovery, and the messy, non-linear journey of healing. Paris reflects on her unconventional childhood, the chronic loneliness that shadowed her early years, and the dark reality of substance abuse that nearly cost her her life and her voice. She opens up about the trauma of adolescent rehab centers, surviving severe mental health crises, and why true recovery requires moving beyond symptom-focused treatment to embrace holistic health, self-grace, and spiritual surre",
-   "audioURL": "https://traffic.megaphone.fm/GLT2253684611.mp3",
-   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "id": "fa177f20-9999-11f1-9f84-13c49c0a07dc",
+   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
+   "showTitle": "Live Free with Josh Howerton",
+   "title": "Is the BAPTISM of the Holy Spirit a REAL Thing?! (What the Bible ACTUALLY Says) | Live Free with Josh Howerton",
+   "summary": "Pastors Josh, Carlos, and Paul unpack Paul’s words to Timothy in 2 Timothy 1 and trace his transformation from a fearful young leader into a faithful, courageous pastor. They also compare the major Christian views of baptism in the Holy Spirit, explain what changed between the old and new covenants, and discuss why every believer should continually seek the Spirit’s filling.\n\n\n\nIn this episode, you’ll learn:\n\n\n  How Christians should respond to wars, disasters, and uncertainty\n\n  Why fear should never become the controlling force in your decisions\n\n  How Scripture—not feelings—helps you discer",
+   "audioURL": "https://traffic.megaphone.fm/HAEEH6263341021.mp3",
+   "published": "Mon, 17 Aug 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A personal story of addiction and recovery, touching on suffering and healing.",
+   "reason": "Explains Christian views on Holy Spirit baptism with some theological depth.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "9472c60e-90af-11f1-bec7-4f6529ccdc99",
+   "showID": "https://feeds.megaphone.fm/SGP8517078272",
+   "showTitle": "Get Sleepy: Sleep meditation and stories",
+   "title": "A Body Scan Meditation for Sleep",
+   "summary": "Writer & Narrator: Nicky Branagh-Schmidt 🇬🇧\n\n\n\nWelcome back, sleepyheads. Tonight's meditation is a slow invitation for every single part of you to rest; to soften; to welcome in sleep. 😴&nbsp;\n\n\n\nTo receive our FREE weekly newsletter:&nbsp;⁠⁠⁠⁠JOIN OUR MAILING LIST⁠⁠⁠⁠\n\n\n\nEnjoy various playlists&nbsp;of our stories and meditations on our&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠Slumber Studios Spotify profile⁠⁠⁠⁠⁠⁠⁠⁠.\n\n\n\nGet Sleepy Premium\n\nListen completely ad-free and access our entire catalogue of stories and meditations by subscribing to our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠premium feed.⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\nYour support means the world to us",
+   "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/SGP3506731765.mp3",
+   "published": "Thu, 13 Aug 2026 16:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Guided meditation invites rest and relaxation, lightly touching on consciousness.",
    "tradition": "Secular"
   }
  ],
@@ -367,6 +406,7 @@
   "838636be-76e8-11f0-a663-53b899889e1a": "2026-08-17",
   "ba3554e7-4eb7-4e7d-850e-f5933bcf2bda": "2026-08-17",
   "fc44fac2-974e-11f1-b6f4-13c5730757b2": "2026-08-17",
-  "28fa0123-1cd1-42f5-85cc-b4a900f0c5b2": "2026-08-17"
+  "28fa0123-1cd1-42f5-85cc-b4a900f0c5b2": "2026-08-17",
+  "tag:soundcloud,2010:tracks/2373839324": "2026-08-17"
  }
 }
