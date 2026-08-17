@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-17T18:47:26.600196+00:00",
+ "generatedAt": "2026-08-17T19:32:59.186705+00:00",
  "showsScanned": 400,
  "candidates": 56,
  "picks": [
@@ -14,21 +14,8 @@
    "published": "Wed, 12 Aug 2026 20:33:04 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A thorough exploration of suffering and faith through the Book of Job's narrative.",
+   "reason": "A thorough exploration of suffering and faith through the Book of Job.",
    "tradition": "Christian"
-  },
-  {
-   "id": "fc44fac2-974e-11f1-b6f4-13c5730757b2",
-   "showID": "https://feeds.megaphone.fm/TOE4643226064",
-   "showTitle": "Theories of Everything with Curt Jaimungal",
-   "title": "Peter Godfrey-Smith: This Scientist Found Earth’s “Alien” Minds",
-   "summary": "SPONSORS:\n- Take Cheers Restore after your last drink or before going to bed and wake up feeling at least 50% better — or your money back. For a limited time our listeners are getting 20% off their entire order at https://cheershealth.com/TOE\n- I personally subscribe to The Economist. TOE listeners get 35% off the annual subscription. No other podcast has this! https://economist.com/TOE\n\nPeter Godfrey-Smith, professor at the University of Sydney and author of Other Minds: The Octopus and the Deep Origins of Consciousness, joins to explain why he thinks meeting an octopus is the closest we'll g",
-   "audioURL": "https://s.gum.fm/s-62d83916a854b1cc0031878d/pscrb.fm/rss/p/traffic.megaphone.fm/TEMI4996650257.mp3",
-   "published": "Mon, 17 Aug 2026 15:27:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/6c/4a/2a6c4a61-4ae0-809b-ca09-ce2adede4cef/mza_13635592988277147456.jpeg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Philosophical and scientific exploration of consciousness in alien minds.",
-   "tradition": "Secular"
   },
   {
    "id": "Buzzsprout-19628431",
@@ -40,7 +27,7 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep exploration of consciousness and perception from a scientific perspective.",
+   "reason": "Philosophical and scientific exploration of consciousness and perception.",
    "tradition": "Secular"
   },
   {
@@ -53,7 +40,7 @@
    "published": "Wed, 12 Aug 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares a unique story on consciousness and communication beyond ordinary perception.",
+   "reason": "Shares an extraordinary story about consciousness and communication.",
    "tradition": "Secular"
   },
   {
@@ -105,7 +92,7 @@
    "published": "Tue, 11 Aug 2026 18:00:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Ex-Mormon reflects on childhood doubts and loss of faith in LDS tradition.",
+   "reason": "A former Mormon reflects on losing faith and childhood doubts within Mormonism.",
    "tradition": "Christian"
   },
   {
@@ -118,7 +105,7 @@
    "published": "Mon, 17 Aug 2026 01:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ac/31/27/ac31272d-bb62-fcc3-979a-54b63c691dc5/mza_5493651264753178068.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores psychedelic therapy for PTSD and suffering, touching on healing and consciousness.",
+   "reason": "Explores psychedelic therapy for PTSD, touching on suffering and healing.",
    "tradition": "Secular"
   },
   {
@@ -131,7 +118,20 @@
    "published": "Mon, 17 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Shares practical Stoic wisdom on behaviors to avoid for a virtuous life.",
+   "reason": "Serious discussion of Stoic ethics and behaviors to avoid.",
+   "tradition": "Stoic"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/wunOMAskfMlXmwFJnoXSXM3Y0oy_nsVN31dox6go5xk",
+   "showID": "https://rss.art19.com/the-daily-stoic",
+   "showTitle": "The Daily Stoic",
+   "title": "Oh, You’re Free, Are You? | Only Fools Rush In",
+   "summary": "We are prickly about our freedom…as we willingly submit to all sorts of addictions. 📚 Books Mentioned: Zero to One by Peter ThielLives of the Stoics by Ryan HolidayBlue Ocean Strategy by W. Chan KimThe Daily Stoic by Ryan Holiday🎟️ DAILY STOIC LIVE | Ryan Holiday is coming to a city near you! Grab tickets here |  https://www.dailystoiclive.com/🎙️ AD-FREE | Support the podcast and go deeper into Stoicism by subscribing to The Daily Stoic Premium - unlock ad-free listening, early access, and bonus content: https://dailystoic.supercast.com/🎥 VIDEO EPISODES| Watch the video episodes on The Daily S",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/b7a35026-8c7c-4937-a579-02b7598e069e.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Examines freedom and addiction through Stoic philosophy.",
    "tradition": "Stoic"
   },
   {
@@ -144,7 +144,7 @@
    "published": "Mon, 17 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses Stoicism's relevance today and its appeal to modern audiences.",
+   "reason": "Discusses Stoicism's relevance in modern chaotic times.",
    "tradition": "Stoic"
   },
   {
@@ -161,6 +161,19 @@
    "tradition": "Christian"
   },
   {
+   "id": "fc44fac2-974e-11f1-b6f4-13c5730757b2",
+   "showID": "https://feeds.megaphone.fm/TOE4643226064",
+   "showTitle": "Theories of Everything with Curt Jaimungal",
+   "title": "Peter Godfrey-Smith: This Scientist Found Earth’s “Alien” Minds",
+   "summary": "SPONSORS:\n- Take Cheers Restore after your last drink or before going to bed and wake up feeling at least 50% better — or your money back. For a limited time our listeners are getting 20% off their entire order at https://cheershealth.com/TOE\n- I personally subscribe to The Economist. TOE listeners get 35% off the annual subscription. No other podcast has this! https://economist.com/TOE\n\nPeter Godfrey-Smith, professor at the University of Sydney and author of Other Minds: The Octopus and the Deep Origins of Consciousness, joins to explain why he thinks meeting an octopus is the closest we'll g",
+   "audioURL": "https://s.gum.fm/s-62d83916a854b1cc0031878d/pscrb.fm/rss/p/traffic.megaphone.fm/TEMI4996650257.mp3",
+   "published": "Mon, 17 Aug 2026 15:27:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/6c/4a/2a6c4a61-4ae0-809b-ca09-ce2adede4cef/mza_13635592988277147456.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Philosopher-scientist discusses consciousness and alien minds.",
+   "tradition": "Secular"
+  },
+  {
    "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
    "showID": "https://feeds.megaphone.fm/on-purpose",
    "showTitle": "On Purpose with Jay Shetty",
@@ -170,7 +183,7 @@
    "published": "Mon, 17 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Honest conversation on addiction, recovery, and healing journey.",
+   "reason": "Honest conversation on addiction, recovery, and healing with reflections on suffering.",
    "tradition": "Secular"
   },
   {
@@ -183,7 +196,7 @@
    "published": "Mon, 17 Aug 2026 14:44:27 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses afterlife and presence of loved ones through mediumship and medical research.",
+   "reason": "Discusses afterlife and presence of loved ones from multiple perspectives.",
    "tradition": "Interfaith"
   },
   {
@@ -196,8 +209,8 @@
    "published": "Wed, 12 Aug 2026 07:54:22 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explains alchemical symbolism and transformation from an ancient spiritual text.",
-   "tradition": "Hermetic/Hindu"
+   "reason": "Explains ancient alchemical text with spiritual and transformative themes.",
+   "tradition": "Interfaith"
   },
   {
    "id": "tag:soundcloud,2010:tracks/2373839324",
@@ -209,21 +222,21 @@
    "published": "Mon, 10 Aug 2026 00:00:49 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Focuses on hope and faith through Psalms, offering spiritual encouragement.",
+   "reason": "Focuses on hope and faith through Psalms but mainly scriptural encouragement.",
    "tradition": "Christian"
   },
   {
-   "id": "gid://art19-episode-locator/V0/wunOMAskfMlXmwFJnoXSXM3Y0oy_nsVN31dox6go5xk",
-   "showID": "https://rss.art19.com/the-daily-stoic",
-   "showTitle": "The Daily Stoic",
-   "title": "Oh, You’re Free, Are You? | Only Fools Rush In",
-   "summary": "We are prickly about our freedom…as we willingly submit to all sorts of addictions. 📚 Books Mentioned: Zero to One by Peter ThielLives of the Stoics by Ryan HolidayBlue Ocean Strategy by W. Chan KimThe Daily Stoic by Ryan Holiday🎟️ DAILY STOIC LIVE | Ryan Holiday is coming to a city near you! Grab tickets here |  https://www.dailystoiclive.com/🎙️ AD-FREE | Support the podcast and go deeper into Stoicism by subscribing to The Daily Stoic Premium - unlock ad-free listening, early access, and bonus content: https://dailystoic.supercast.com/🎥 VIDEO EPISODES| Watch the video episodes on The Daily S",
-   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/b7a35026-8c7c-4937-a579-02b7598e069e.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
+   "id": "90f95d62-94f6-11f1-b91d-67a2e6c1c207",
+   "showID": "https://rss.introcast.io/1462192400/feeds.megaphone.fm/YAP4175586993",
+   "showTitle": "Creating Confidence with Heather Monahan",
+   "title": "The Path to Lasting Health, Purpose, and Peace with Justin Roethlingshoefer",
+   "summary": "What if the life you've been praying for starts with healing the parts of yourself you've been ignoring? In this episode, I sit down with bestselling author, health expert, and performance coach Justin Roethlingshoefer to talk about the connection between healing, faith, and lasting transformation. Justin shares how overcoming an eating disorder and a life-changing health crisis led him to discover that true health starts from the inside out. We also dive into why changing your identity is more powerful than changing your habits, how to quiet the noise so you can hear the wisdom guiding your l",
+   "audioURL": "https://prefix.up.audio/s/www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/s.gum.fm/s-6245bf8d4189c473044d2320/cohst.app/pdcst/7K7K1I/traffic.megaphone.fm/YAP3775413821.mp3",
+   "published": "Tue, 11 Aug 2026 06:30:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/10/5f/b8/105fb8c5-0eff-0d25-a03b-4a704972b6b6/mza_2001570157629856111.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Examines freedom and addiction through a Stoic philosophical lens.",
-   "tradition": "Stoic"
+   "reason": "Connects healing and faith to lasting transformation and identity change.",
+   "tradition": "Secular"
   },
   {
    "id": "fa177f20-9999-11f1-9f84-13c49c0a07dc",
@@ -235,21 +248,8 @@
    "published": "Mon, 17 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explains Christian views on Holy Spirit baptism with some theological depth.",
+   "reason": "Explains Christian views on Spirit baptism and faith development.",
    "tradition": "Christian"
-  },
-  {
-   "id": "9472c60e-90af-11f1-bec7-4f6529ccdc99",
-   "showID": "https://feeds.megaphone.fm/SGP8517078272",
-   "showTitle": "Get Sleepy: Sleep meditation and stories",
-   "title": "A Body Scan Meditation for Sleep",
-   "summary": "Writer & Narrator: Nicky Branagh-Schmidt 🇬🇧\n\n\n\nWelcome back, sleepyheads. Tonight's meditation is a slow invitation for every single part of you to rest; to soften; to welcome in sleep. 😴&nbsp;\n\n\n\nTo receive our FREE weekly newsletter:&nbsp;⁠⁠⁠⁠JOIN OUR MAILING LIST⁠⁠⁠⁠\n\n\n\nEnjoy various playlists&nbsp;of our stories and meditations on our&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠Slumber Studios Spotify profile⁠⁠⁠⁠⁠⁠⁠⁠.\n\n\n\nGet Sleepy Premium\n\nListen completely ad-free and access our entire catalogue of stories and meditations by subscribing to our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠premium feed.⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\nYour support means the world to us",
-   "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/SGP3506731765.mp3",
-   "published": "Thu, 13 Aug 2026 16:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Guided meditation invites rest and relaxation, lightly touching on consciousness.",
-   "tradition": "Secular"
   }
  ],
  "history": {
