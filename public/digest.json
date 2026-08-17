@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-17T10:37:07.379943+00:00",
+ "generatedAt": "2026-08-17T11:31:29.887273+00:00",
  "showsScanned": 400,
- "candidates": 51,
+ "candidates": 53,
  "picks": [
   {
    "id": "unshaken.podbean.com/58552b92-8191-3251-b417-e753cb4b2752",
@@ -13,8 +13,8 @@
    "audioURL": "https://mcdn.podbean.com/mf/web/v4zimcb47k52qfhd/Job_full_audio_enhanced98zzp.mp3",
    "published": "Wed, 12 Aug 2026 20:33:04 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
-   "rating": 10,
-   "reason": "Deep dive into the Book of Job's wrestling with suffering and faith.",
+   "rating": 9,
+   "reason": "Deep theological and existential exploration of suffering in the Book of Job.",
    "tradition": "Jewish"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores consciousness and perception deeply from a secular scientific perspective.",
+   "reason": "Explores consciousness and perception as fundamental questions of experience.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Wed, 12 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/4e/30/364e308d-99c9-778e-e711-59e090408814/mza_3684559455643163671.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A serious Christian study on suffering and divine comfort in trials.",
+   "reason": "Explores suffering and divine comfort through Paul's letter to the Corinthians.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Wed, 12 Aug 2026 00:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A Jewish leader discusses faith, doubt, and identity beyond belief in God.",
+   "reason": "Conversation on faith, doubt, and Jewish identity beyond belief in God.",
    "tradition": "Jewish"
   },
   {
@@ -66,8 +66,47 @@
    "published": "Tue, 11 Aug 2026 18:00:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A personal story of losing faith and questioning Mormonism from childhood.",
+   "reason": "A former believer reflects on childhood doubts and loss of faith in Mormonism.",
    "tradition": "Christian"
+  },
+  {
+   "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "PARIS JACKSON: “No Intervention Could Have Gotten Me Sober”",
+   "summary": "Musician and artist Paris Jackson joins Jay for an extraordinarily raw, courageous, and deeply honest conversation on addiction, recovery, and the messy, non-linear journey of healing. Paris reflects on her unconventional childhood, the chronic loneliness that shadowed her early years, and the dark reality of substance abuse that nearly cost her her life and her voice. She opens up about the trauma of adolescent rehab centers, surviving severe mental health crises, and why true recovery requires moving beyond symptom-focused treatment to embrace holistic health, self-grace, and spiritual surre",
+   "audioURL": "https://traffic.megaphone.fm/GLT2253684611.mp3",
+   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Raw conversation on addiction, recovery, and healing with existential honesty.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/xGYlwHlw23B60xWnet9QpwFEjilXIwuJ-rP28CxhANA",
+   "showID": "https://rss.art19.com/the-daily-stoic",
+   "showTitle": "The Daily Stoic",
+   "title": "BONUS | 11 Things Stoics Never Do",
+   "summary": "Which of these do you struggle with the most?🎟️ DAILY STOIC LIVE | Ryan Holiday is coming to a city near you! Grab tickets here |  https://www.dailystoiclive.com/🎙️ AD-FREE | Support the podcast and go deeper into Stoicism by subscribing to The Daily Stoic Premium - unlock ad-free listening, early access, and bonus content: https://dailystoic.supercast.com/🎥 VIDEO EPISODES| Watch the video episodes on The Daily Stoic YouTube channel: https://www.youtube.com/@DailyStoic/videos✉️ FREE STOIC WISDOM | Want Stoic wisdom delivered to your inbox daily? Sign up for the FREE Daily Stoic email at https:",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/c7a81854-161a-4846-a64b-774f13471978.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Serious discussion of Stoic ethics and character development.",
+   "tradition": "Stoic"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/wunOMAskfMlXmwFJnoXSXM3Y0oy_nsVN31dox6go5xk",
+   "showID": "https://rss.art19.com/the-daily-stoic",
+   "showTitle": "The Daily Stoic",
+   "title": "Oh, You’re Free, Are You? | Only Fools Rush In",
+   "summary": "We are prickly about our freedom…as we willingly submit to all sorts of addictions. 📚 Books Mentioned: Zero to One by Peter ThielLives of the Stoics by Ryan HolidayBlue Ocean Strategy by W. Chan KimThe Daily Stoic by Ryan Holiday🎟️ DAILY STOIC LIVE | Ryan Holiday is coming to a city near you! Grab tickets here |  https://www.dailystoiclive.com/🎙️ AD-FREE | Support the podcast and go deeper into Stoicism by subscribing to The Daily Stoic Premium - unlock ad-free listening, early access, and bonus content: https://dailystoic.supercast.com/🎥 VIDEO EPISODES| Watch the video episodes on The Daily S",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/b7a35026-8c7c-4937-a579-02b7598e069e.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores Stoic ideas about freedom and self-discipline.",
+   "tradition": "Stoic"
   },
   {
    "id": "gid://art19-episode-locator/V0/enN2FfJr6CEuBWHg0f-Rzv1JDJIeJzZ1WwliLMTdoGw",
@@ -79,7 +118,7 @@
    "published": "Wed, 12 Aug 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores consciousness and communication through extraordinary autistic experience.",
+   "reason": "Shares a unique story on consciousness and communication beyond the physical.",
    "tradition": "Secular"
   },
   {
@@ -92,60 +131,21 @@
    "published": "Mon, 17 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses Stoicism's relevance today and its appeal to young men.",
+   "reason": "Discusses Stoicism's relevance in modern chaos and distraction.",
    "tradition": "Stoic"
   },
   {
-   "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "PARIS JACKSON: “No Intervention Could Have Gotten Me Sober”",
-   "summary": "Musician and artist Paris Jackson joins Jay for an extraordinarily raw, courageous, and deeply honest conversation on addiction, recovery, and the messy, non-linear journey of healing. Paris reflects on her unconventional childhood, the chronic loneliness that shadowed her early years, and the dark reality of substance abuse that nearly cost her her life and her voice. She opens up about the trauma of adolescent rehab centers, surviving severe mental health crises, and why true recovery requires moving beyond symptom-focused treatment to embrace holistic health, self-grace, and spiritual surre",
-   "audioURL": "https://traffic.megaphone.fm/GLT2253684611.mp3",
-   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Candid discussion of addiction, trauma, and recovery touching on suffering and healing.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/xGYlwHlw23B60xWnet9QpwFEjilXIwuJ-rP28CxhANA",
-   "showID": "https://rss.art19.com/the-daily-stoic",
-   "showTitle": "The Daily Stoic",
-   "title": "BONUS | 11 Things Stoics Never Do",
-   "summary": "Which of these do you struggle with the most?🎟️ DAILY STOIC LIVE | Ryan Holiday is coming to a city near you! Grab tickets here |  https://www.dailystoiclive.com/🎙️ AD-FREE | Support the podcast and go deeper into Stoicism by subscribing to The Daily Stoic Premium - unlock ad-free listening, early access, and bonus content: https://dailystoic.supercast.com/🎥 VIDEO EPISODES| Watch the video episodes on The Daily Stoic YouTube channel: https://www.youtube.com/@DailyStoic/videos✉️ FREE STOIC WISDOM | Want Stoic wisdom delivered to your inbox daily? Sign up for the FREE Daily Stoic email at https:",
-   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/c7a81854-161a-4846-a64b-774f13471978.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
+   "id": "c1e443f9-3911-417a-ae18-f7c259760ba1",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Kiaya was a Heroin Addict for 10 Years...A Cop Made Her a Promise, and Jesus did the Rest",
+   "summary": "\"No matter where you're at or what you're doing or what you feel about yourself, I promise you that you can have a bright and better future for yourself. All you have to do is decide wherever you are or wherever you're at spiritually, physically, mentally, emotionally, that you can choose for yourself to have a better day. That this could be the best day of your life, that this day you can choose to do something different with your life. Whatever you're struggling with, it doesn't have to be as serious as what I've struggled with, you can choose better for yourself, and that's exactly what you",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/124235699/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-14%2F429860327-44100-2-be1d12fb3cb9.m4a",
+   "published": "Sun, 16 Aug 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Shares Stoic advice on behavior, lightly touching on ethics and inner life.",
-   "tradition": "Stoic"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/wunOMAskfMlXmwFJnoXSXM3Y0oy_nsVN31dox6go5xk",
-   "showID": "https://rss.art19.com/the-daily-stoic",
-   "showTitle": "The Daily Stoic",
-   "title": "Oh, You’re Free, Are You? | Only Fools Rush In",
-   "summary": "We are prickly about our freedom…as we willingly submit to all sorts of addictions. 📚 Books Mentioned: Zero to One by Peter ThielLives of the Stoics by Ryan HolidayBlue Ocean Strategy by W. Chan KimThe Daily Stoic by Ryan Holiday🎟️ DAILY STOIC LIVE | Ryan Holiday is coming to a city near you! Grab tickets here |  https://www.dailystoiclive.com/🎙️ AD-FREE | Support the podcast and go deeper into Stoicism by subscribing to The Daily Stoic Premium - unlock ad-free listening, early access, and bonus content: https://dailystoic.supercast.com/🎥 VIDEO EPISODES| Watch the video episodes on The Daily S",
-   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/b7a35026-8c7c-4937-a579-02b7598e069e.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Reflects on freedom and addiction through Stoic lens, modest philosophical depth.",
-   "tradition": "Stoic"
-  },
-  {
-   "id": "62ea14f9-df09-4650-8a7b-827282ff5c52",
-   "showID": "https://anchor.fm/s/104e3eb08/podcast/rss",
-   "showTitle": "Boring History for Sleep",
-   "title": "The Truth About the Druids 🌿🔮 | Myths, Magic & the Lost World of the Celts | Boring History For Sleep",
-   "summary": "The Druids have long been surrounded by mystery, remembered as powerful priests, wise judges, and masters of ancient magic. But how much of what we know comes from historical evidence, and how much was created by Roman writers, medieval legends, and modern imagination?Who were the Druids really? Did they perform mysterious rituals, make human sacrifices, or possess hidden knowledge of the natural world? And why has so much of their history been lost to time?Discover the fascinating reality behind one of history's most enigmatic peoples, exploring Celtic traditions, sacred forests, forgotten be",
-   "audioURL": "https://traffic.megaphone.fm/APO9991700958.mp3",
-   "published": "Mon, 17 Aug 2026 01:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/a6/37/62a63720-ae50-b8c6-6282-b62a41e54588/mza_4071962011418281551.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Historical exploration of Druids touching on ancient spiritual knowledge.",
-   "tradition": "Indigenous"
+   "reason": "A personal redemption story with spiritual elements but mainly motivational.",
+   "tradition": "Christian"
   },
   {
    "id": "fa177f20-9999-11f1-9f84-13c49c0a07dc",
@@ -157,7 +157,7 @@
    "published": "Mon, 17 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discussion on Holy Spirit baptism with some theological depth.",
+   "reason": "Explains baptism of the Holy Spirit and Christian courage, mostly doctrinal.",
    "tradition": "Christian"
   },
   {
@@ -170,7 +170,7 @@
    "published": "Wed, 12 Aug 2026 07:54:22 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores ancient alchemical text symbolically linked to transformation and meaning.",
+   "reason": "Explores ancient alchemical text symbolically, touching on transformation and meaning.",
    "tradition": "Interfaith"
   }
  ],
