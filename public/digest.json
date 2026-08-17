@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-17T16:33:28.035466+00:00",
+ "generatedAt": "2026-08-17T17:32:33.523956+00:00",
  "showsScanned": 400,
- "candidates": 56,
+ "candidates": 55,
  "picks": [
   {
    "id": "unshaken.podbean.com/58552b92-8191-3251-b417-e753cb4b2752",
@@ -13,9 +13,9 @@
    "audioURL": "https://mcdn.podbean.com/mf/web/v4zimcb47k52qfhd/Job_full_audio_enhanced98zzp.mp3",
    "published": "Wed, 12 Aug 2026 20:33:04 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
-   "rating": 10,
-   "reason": "Deep theological and existential exploration of suffering through the Book of Job.",
-   "tradition": "Jewish"
+   "rating": 9,
+   "reason": "A thorough theological reflection on suffering and faith from the Book of Job.",
+   "tradition": "Christian"
   },
   {
    "id": "fc44fac2-974e-11f1-b6f4-13c5730757b2",
@@ -27,7 +27,7 @@
    "published": "Mon, 17 Aug 2026 15:27:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/6c/4a/2a6c4a61-4ae0-809b-ca09-ce2adede4cef/mza_13635592988277147456.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Philosopher discusses consciousness and alien minds in a scientific context.",
+   "reason": "Philosophical and scientific inquiry into consciousness and alien minds.",
    "tradition": "Secular"
   },
   {
@@ -40,21 +40,21 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep philosophical discussion on consciousness and perception of reality.",
+   "reason": "A deep secular inquiry into consciousness, perception, and the nature of experience.",
    "tradition": "Secular"
   },
   {
-   "id": "bdb4d022f0c93d091facae8fa60b742d",
-   "showID": "https://podcasts.subsplash.com:443/03fe243/podcast.rss",
-   "showTitle": "Prophecy Watchers",
-   "title": "Finding Comfort in Suffering | Studies with Stearman",
-   "summary": "<p>Why does God allow suffering? Why do faithful Christians endure trials, persecution, and heartbreak?</p><p>Today Gary begins an in-depth study of 2 Corinthians, one of Paul's most personal letters. Paul opens the epistle by repeatedly emphasizing one central theme: God is the God of all comfort.</p>",
-   "audioURL": "https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvTkhDOEM5LzJiNzFkNmFjLWI0ZWYtNDhkNy04Y2ViLWE1Y2RlNjIxZGQ5Mi9hdWRpby5tcDM.mp3?k=NHC8C9&amp;s=3&amp;sapid=srryyj4",
-   "published": "Wed, 12 Aug 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/4e/30/364e308d-99c9-778e-e711-59e090408814/mza_3684559455643163671.jpg/600x600bb.jpg",
+   "id": "Buzzsprout-19638488",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "I Feel Hurt and Afraid in a World That Holds On to Fear — The Personal and Spiritual Growth That Helped Me Let Go of Fear, Heal My Heart, and Become Part of Humanity's Healing",
+   "summary": "Have you ever felt like the person you used to be no longer fits, but you’re not quite sure who you’re becoming?In this deeply personal episode of the WE Podcast, Joe Mittiga explores what he calls “psychic death,” the emotional and spiritual process of letting go of an old identity so a new version of yourself can emerge.Joe opens up about grief, fear, addiction, divorce, the loss of his beloved dog Zeus, his mother’s death, raising his sons, and the major transformations that have shaped his spiritual journey. Through these experiences, he shares why healing isn’t about avoiding pain or simp",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19638488-i-feel-hurt-and-afraid-in-a-world-that-holds-on-to-fear-the-personal-and-spiritual-growth-that-helped-me-let-go-of-fear-heal-my-heart-and-become-part-of-humanity-s-healing.mp3",
+   "published": "Thu, 13 Aug 2026 07:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A serious Christian reflection on suffering and divine comfort in 2 Corinthians.",
-   "tradition": "Christian"
+   "reason": "Personal spiritual growth story addressing fear, grief, and identity transformation.",
+   "tradition": "Interfaith"
   },
   {
    "id": "da165428-3b02-4080-b1ce-8dcaa49c02b8",
@@ -66,7 +66,7 @@
    "published": "Wed, 12 Aug 2026 00:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores Jewish identity, belief, and doubt through a leading rabbi's perspective.",
+   "reason": "A Jewish rabbi discusses faith, doubt, and identity in a complex modern context.",
    "tradition": "Jewish"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Tue, 11 Aug 2026 18:00:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores a personal journey of losing and questioning Mormon faith in depth.",
+   "reason": "An ex-Mormon reflects on childhood doubts and losing faith in LDS tradition.",
    "tradition": "Christian"
   },
   {
@@ -92,20 +92,20 @@
    "published": "Mon, 17 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Offers practical Stoic wisdom on ethical living and character development.",
+   "reason": "Presents practical Stoic wisdom on behavior and ethics for daily life.",
    "tradition": "Stoic"
   },
   {
-   "id": "gid://art19-episode-locator/V0/wunOMAskfMlXmwFJnoXSXM3Y0oy_nsVN31dox6go5xk",
-   "showID": "https://rss.art19.com/the-daily-stoic",
-   "showTitle": "The Daily Stoic",
-   "title": "Oh, You’re Free, Are You? | Only Fools Rush In",
-   "summary": "We are prickly about our freedom…as we willingly submit to all sorts of addictions. 📚 Books Mentioned: Zero to One by Peter ThielLives of the Stoics by Ryan HolidayBlue Ocean Strategy by W. Chan KimThe Daily Stoic by Ryan Holiday🎟️ DAILY STOIC LIVE | Ryan Holiday is coming to a city near you! Grab tickets here |  https://www.dailystoiclive.com/🎙️ AD-FREE | Support the podcast and go deeper into Stoicism by subscribing to The Daily Stoic Premium - unlock ad-free listening, early access, and bonus content: https://dailystoic.supercast.com/🎥 VIDEO EPISODES| Watch the video episodes on The Daily S",
-   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/b7a35026-8c7c-4937-a579-02b7598e069e.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
+   "id": "d6866618-d610-11f0-a49b-c31f19cbdde7",
+   "showID": "https://feeds.megaphone.fm/VMP1684715893",
+   "showTitle": "On with Kara Swisher",
+   "title": "Ryan Holiday on the Case for Stoicism in an Age of Distraction",
+   "summary": "While the Greek and Roman philosophy of Stoicism has been around for millennia, author and media strategist Ryan Holiday is bringing its teachings to a modern audience by way of his popular books and his podcast, “The Daily Stoic.” He says ancient writings by the likes of Seneca, Marcus Aurelius, and Epictetus resonate in times that feel especially chaotic. \n\n\n\nKara and Ryan talk about why young men in particular seem drawn to Stoicism and what powerful figures in the worlds of tech, MAGA politics, and the man-o-sphere get wrong about its teachings. He tells Kara their actions frequently run c",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5141333450.mp3",
+   "published": "Mon, 17 Aug 2026 09:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores Stoic ideas about freedom and self-discipline in daily life.",
+   "reason": "Explains Stoicism's relevance today and its ethical teachings.",
    "tradition": "Stoic"
   },
   {
@@ -118,72 +118,7 @@
    "published": "Wed, 12 Aug 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Shares a unique story about consciousness and communication beyond words.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "d6866618-d610-11f0-a49b-c31f19cbdde7",
-   "showID": "https://feeds.megaphone.fm/VMP1684715893",
-   "showTitle": "On with Kara Swisher",
-   "title": "Ryan Holiday on the Case for Stoicism in an Age of Distraction",
-   "summary": "While the Greek and Roman philosophy of Stoicism has been around for millennia, author and media strategist Ryan Holiday is bringing its teachings to a modern audience by way of his popular books and his podcast, “The Daily Stoic.” He says ancient writings by the likes of Seneca, Marcus Aurelius, and Epictetus resonate in times that feel especially chaotic. \n\n\n\nKara and Ryan talk about why young men in particular seem drawn to Stoicism and what powerful figures in the worlds of tech, MAGA politics, and the man-o-sphere get wrong about its teachings. He tells Kara their actions frequently run c",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5141333450.mp3",
-   "published": "Mon, 17 Aug 2026 09:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Discusses Stoicism's relevance today and its ethical teachings.",
-   "tradition": "Stoic"
-  },
-  {
-   "id": "c1e443f9-3911-417a-ae18-f7c259760ba1",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "Kiaya was a Heroin Addict for 10 Years...A Cop Made Her a Promise, and Jesus did the Rest",
-   "summary": "\"No matter where you're at or what you're doing or what you feel about yourself, I promise you that you can have a bright and better future for yourself. All you have to do is decide wherever you are or wherever you're at spiritually, physically, mentally, emotionally, that you can choose for yourself to have a better day. That this could be the best day of your life, that this day you can choose to do something different with your life. Whatever you're struggling with, it doesn't have to be as serious as what I've struggled with, you can choose better for yourself, and that's exactly what you",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/124235699/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-14%2F429860327-44100-2-be1d12fb3cb9.m4a",
-   "published": "Sun, 16 Aug 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A personal story of addiction and faith transformation centered on Jesus.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "9d07e87e-65a7-4459-a788-b7c35b2a5e10",
-   "showID": "https://mysteriousradiofeed.mysteriousradionetwork.com",
-   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
-   "title": "The Emerald Tablet 101: a modern, practical guide, plain and simple (The Ancient Egyptian Enlightenment Series)",
-   "summary": "My special guest tonight is author Mathew Barnes here to discuss his book called The Emerald Tablet 101: a modern, practical guide, plain and simple (The Ancient Egyptian Enlightenment Series).The Emerald Tablet is an Ancient Egyptian work written by Hermes Trismegistus that is believed to represent a step-by-step instruction manual for the Alchemical process of turning ordinary metals like lead into something much more valuable, like gold.The manual consists of fourteen cryptic, symbolic statements that many have tried to decipher over the course of thousands of years.I believe the fourteen s",
-   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8587697/8587697_2026-08-12-072337.128.mp3?rssID=6605",
-   "published": "Wed, 12 Aug 2026 07:54:22 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explains the Emerald Tablet as a guide to transformation and alchemy.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "PARIS JACKSON: “No Intervention Could Have Gotten Me Sober”",
-   "summary": "Musician and artist Paris Jackson joins Jay for an extraordinarily raw, courageous, and deeply honest conversation on addiction, recovery, and the messy, non-linear journey of healing. Paris reflects on her unconventional childhood, the chronic loneliness that shadowed her early years, and the dark reality of substance abuse that nearly cost her her life and her voice. She opens up about the trauma of adolescent rehab centers, surviving severe mental health crises, and why true recovery requires moving beyond symptom-focused treatment to embrace holistic health, self-grace, and spiritual surre",
-   "audioURL": "https://traffic.megaphone.fm/GLT2253684611.mp3",
-   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Raw conversation on addiction, recovery, and healing journeys.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "ba3554e7-4eb7-4e7d-850e-f5933bcf2bda",
-   "showID": "https://feeds.libsyn.com/570160/rss",
-   "showTitle": "10% Happier with Dan Harris",
-   "title": "The Non-BS Science of Manifestation: How Your Imagination Can Help With Pain, Anxiety, Conflict, and Recovery | Cassi Vieten",
-   "summary": "How elite athletes use visualization to improve performance, why visualization can turbo-charge physical recovery, and the mental trick that can make your nervous system feel safe. Cassi Vieten, PhD, is a licensed clinical psychologist and director of research at the Arthur C. Clarke Center for Human Imagination at the University of California, San Diego, where she also directs the Center for Mindfulness. She is the author  Imagine That: Transform How You Think, Feel, and Live with the Science of Imagination. In this episode we talk about:  Why imagination is the oldest human technology The VI",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/05620661-2103-4fe0-9ab9-92bfc4d9cf22/20260810_TPHP_CassiVieten_Mastered_AudioVersion.mp3?dest-id=4933335",
-   "published": "Wed, 12 Aug 2026 07:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Science-based discussion on visualization to aid healing and mental health.",
+   "reason": "Shares an unusual story about communication and consciousness in autism.",
    "tradition": "Secular"
   },
   {
@@ -195,8 +130,8 @@
    "audioURL": "https://traffic.megaphone.fm/HAEEH6263341021.mp3",
    "published": "Mon, 17 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Explains Christian views on Holy Spirit baptism with some spiritual guidance.",
+   "rating": 7,
+   "reason": "Explores Christian views on the Holy Spirit and spiritual transformation.",
    "tradition": "Christian"
   },
   {
@@ -208,8 +143,73 @@
    "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/serve.castfire.com/audio/8229704/8229704_2026-04-13-185904.192.mp3?rssID=5945",
    "published": "Mon, 17 Aug 2026 01:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ac/31/27/ac31272d-bb62-fcc3-979a-54b63c691dc5/mza_5493651264753178068.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores psychedelic therapy for PTSD, touching on suffering and healing.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "28fa0123-1cd1-42f5-85cc-b4a900f0c5b2",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "Episode 304: Tims, Twins & the Afterlife",
+   "summary": "Join Sandra as she brings together medium Tim Southwell, filmmaker Tim Coleman, psychiatrist Dr. Tim Read, and medical twin research to show how our loved ones remain actively present in our lives.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/28fa0123-1cd1-42f5-85cc-b4a900f0c5b2/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Mon, 17 Aug 2026 14:44:27 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discusses afterlife and presence of loved ones from multiple perspectives.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "9d07e87e-65a7-4459-a788-b7c35b2a5e10",
+   "showID": "https://mysteriousradiofeed.mysteriousradionetwork.com",
+   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
+   "title": "The Emerald Tablet 101: a modern, practical guide, plain and simple (The Ancient Egyptian Enlightenment Series)",
+   "summary": "My special guest tonight is author Mathew Barnes here to discuss his book called The Emerald Tablet 101: a modern, practical guide, plain and simple (The Ancient Egyptian Enlightenment Series).The Emerald Tablet is an Ancient Egyptian work written by Hermes Trismegistus that is believed to represent a step-by-step instruction manual for the Alchemical process of turning ordinary metals like lead into something much more valuable, like gold.The manual consists of fourteen cryptic, symbolic statements that many have tried to decipher over the course of thousands of years.I believe the fourteen s",
+   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8587697/8587697_2026-08-12-072337.128.mp3?rssID=6605",
+   "published": "Wed, 12 Aug 2026 07:54:22 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explains alchemical text as spiritual transformation guide.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "9472c60e-90af-11f1-bec7-4f6529ccdc99",
+   "showID": "https://feeds.megaphone.fm/SGP8517078272",
+   "showTitle": "Get Sleepy: Sleep meditation and stories",
+   "title": "A Body Scan Meditation for Sleep",
+   "summary": "Writer & Narrator: Nicky Branagh-Schmidt 🇬🇧\n\n\n\nWelcome back, sleepyheads. Tonight's meditation is a slow invitation for every single part of you to rest; to soften; to welcome in sleep. 😴&nbsp;\n\n\n\nTo receive our FREE weekly newsletter:&nbsp;⁠⁠⁠⁠JOIN OUR MAILING LIST⁠⁠⁠⁠\n\n\n\nEnjoy various playlists&nbsp;of our stories and meditations on our&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠Slumber Studios Spotify profile⁠⁠⁠⁠⁠⁠⁠⁠.\n\n\n\nGet Sleepy Premium\n\nListen completely ad-free and access our entire catalogue of stories and meditations by subscribing to our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠premium feed.⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\nYour support means the world to us",
+   "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/SGP3506731765.mp3",
+   "published": "Thu, 13 Aug 2026 16:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Guided meditation invites rest and presence, fostering inner peace.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/wunOMAskfMlXmwFJnoXSXM3Y0oy_nsVN31dox6go5xk",
+   "showID": "https://rss.art19.com/the-daily-stoic",
+   "showTitle": "The Daily Stoic",
+   "title": "Oh, You’re Free, Are You? | Only Fools Rush In",
+   "summary": "We are prickly about our freedom…as we willingly submit to all sorts of addictions. 📚 Books Mentioned: Zero to One by Peter ThielLives of the Stoics by Ryan HolidayBlue Ocean Strategy by W. Chan KimThe Daily Stoic by Ryan Holiday🎟️ DAILY STOIC LIVE | Ryan Holiday is coming to a city near you! Grab tickets here |  https://www.dailystoiclive.com/🎙️ AD-FREE | Support the podcast and go deeper into Stoicism by subscribing to The Daily Stoic Premium - unlock ad-free listening, early access, and bonus content: https://dailystoic.supercast.com/🎥 VIDEO EPISODES| Watch the video episodes on The Daily S",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/b7a35026-8c7c-4937-a579-02b7598e069e.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses psychedelic therapy for PTSD, touching on healing and suffering.",
+   "reason": "Reflects on freedom and addiction through Stoic philosophy but mostly practical.",
+   "tradition": "Stoic"
+  },
+  {
+   "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "PARIS JACKSON: “No Intervention Could Have Gotten Me Sober”",
+   "summary": "Musician and artist Paris Jackson joins Jay for an extraordinarily raw, courageous, and deeply honest conversation on addiction, recovery, and the messy, non-linear journey of healing. Paris reflects on her unconventional childhood, the chronic loneliness that shadowed her early years, and the dark reality of substance abuse that nearly cost her her life and her voice. She opens up about the trauma of adolescent rehab centers, surviving severe mental health crises, and why true recovery requires moving beyond symptom-focused treatment to embrace holistic health, self-grace, and spiritual surre",
+   "audioURL": "https://traffic.megaphone.fm/GLT2253684611.mp3",
+   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "A personal story of addiction and recovery, touching on suffering and healing.",
    "tradition": "Secular"
   }
  ],
@@ -330,7 +330,7 @@
   "b11d71a6-1f25-11f1-990b-3b55932bbc65": "2026-08-16",
   "ae42afb2-7df6-11f0-b513-2bc1cd1850ca": "2026-08-13",
   "86ddc991-7d6e-4b46-aae7-b4a500a02b3b": "2026-08-16",
-  "Buzzsprout-19638488": "2026-08-13",
+  "Buzzsprout-19638488": "2026-08-17",
   "unshaken.podbean.com/58552b92-8191-3251-b417-e753cb4b2752": "2026-08-17",
   "b4a5ed5c-7703-4a18-8d70-1c212c6b3baa": "2026-08-13",
   "9472c60e-90af-11f1-bec7-4f6529ccdc99": "2026-08-17",
@@ -366,6 +366,7 @@
   "fa177f20-9999-11f1-9f84-13c49c0a07dc": "2026-08-17",
   "838636be-76e8-11f0-a663-53b899889e1a": "2026-08-17",
   "ba3554e7-4eb7-4e7d-850e-f5933bcf2bda": "2026-08-17",
-  "fc44fac2-974e-11f1-b6f4-13c5730757b2": "2026-08-17"
+  "fc44fac2-974e-11f1-b6f4-13c5730757b2": "2026-08-17",
+  "28fa0123-1cd1-42f5-85cc-b4a900f0c5b2": "2026-08-17"
  }
 }
