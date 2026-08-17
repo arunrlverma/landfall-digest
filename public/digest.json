@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-17T07:04:56.910783+00:00",
+ "generatedAt": "2026-08-17T08:50:35.837595+00:00",
  "showsScanned": 400,
  "candidates": 50,
  "picks": [
@@ -13,8 +13,8 @@
    "audioURL": "https://mcdn.podbean.com/mf/web/v4zimcb47k52qfhd/Job_full_audio_enhanced98zzp.mp3",
    "published": "Wed, 12 Aug 2026 20:33:04 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
-   "rating": 10,
-   "reason": "Deep theological and existential exploration of suffering through the Book of Job.",
+   "rating": 9,
+   "reason": "Deep dive into suffering, faith, and divine revelation in the Book of Job.",
    "tradition": "Jewish"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Tue, 11 Aug 2026 01:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/0f/52/fa0f52a1-b4b7-f8cc-3504-cfb00fdf8668/mza_8714663391479120517.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores consciousness and perception deeply from a scientific and philosophical view.",
+   "reason": "A deep secular inquiry into consciousness and perception of reality.",
    "tradition": "Secular"
   },
   {
@@ -40,8 +40,21 @@
    "published": "Tue, 11 Aug 2026 18:00:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of losing Mormon faith, exploring doubt and belief.",
+   "reason": "A former Mormon reflects on childhood faith loss and doubt with thoughtful critique.",
    "tradition": "Christian"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/xGYlwHlw23B60xWnet9QpwFEjilXIwuJ-rP28CxhANA",
+   "showID": "https://rss.art19.com/the-daily-stoic",
+   "showTitle": "The Daily Stoic",
+   "title": "BONUS | 11 Things Stoics Never Do",
+   "summary": "Which of these do you struggle with the most?🎟️ DAILY STOIC LIVE | Ryan Holiday is coming to a city near you! Grab tickets here |  https://www.dailystoiclive.com/🎙️ AD-FREE | Support the podcast and go deeper into Stoicism by subscribing to The Daily Stoic Premium - unlock ad-free listening, early access, and bonus content: https://dailystoic.supercast.com/🎥 VIDEO EPISODES| Watch the video episodes on The Daily Stoic YouTube channel: https://www.youtube.com/@DailyStoic/videos✉️ FREE STOIC WISDOM | Want Stoic wisdom delivered to your inbox daily? Sign up for the FREE Daily Stoic email at https:",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/c7a81854-161a-4846-a64b-774f13471978.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Serious discussion of Stoic ethics and character through practical advice.",
+   "tradition": "Stoic"
   },
   {
    "id": "gid://art19-episode-locator/V0/enN2FfJr6CEuBWHg0f-Rzv1JDJIeJzZ1WwliLMTdoGw",
@@ -53,7 +66,7 @@
    "published": "Wed, 12 Aug 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Shares a unique story on consciousness and communication beyond the physical.",
+   "reason": "Examines consciousness and communication through an unusual neurodevelopmental case.",
    "tradition": "Secular"
   },
   {
@@ -79,7 +92,7 @@
    "published": "Wed, 12 Aug 2026 00:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Jewish rabbi discusses faith, doubt, and identity in a contemporary context.",
+   "reason": "A Jewish rabbi discusses faith, doubt, and identity in a contemporary context.",
    "tradition": "Jewish"
   },
   {
@@ -92,7 +105,7 @@
    "published": "Wed, 12 Aug 2026 07:54:22 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses ancient alchemical text with symbolic meaning about transformation and enlightenment.",
+   "reason": "Discusses ancient alchemical text with symbolic meaning about transformation and value.",
    "tradition": "Interfaith"
   },
   {
@@ -105,21 +118,8 @@
    "published": "Mon, 17 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A candid conversation on addiction, recovery, trauma, and healing's complexity.",
+   "reason": "Raw conversation on addiction, recovery, trauma, and healing's non-linear path.",
    "tradition": "Secular"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/xGYlwHlw23B60xWnet9QpwFEjilXIwuJ-rP28CxhANA",
-   "showID": "https://rss.art19.com/the-daily-stoic",
-   "showTitle": "The Daily Stoic",
-   "title": "BONUS | 11 Things Stoics Never Do",
-   "summary": "Which of these do you struggle with the most?🎟️ DAILY STOIC LIVE | Ryan Holiday is coming to a city near you! Grab tickets here |  https://www.dailystoiclive.com/🎙️ AD-FREE | Support the podcast and go deeper into Stoicism by subscribing to The Daily Stoic Premium - unlock ad-free listening, early access, and bonus content: https://dailystoic.supercast.com/🎥 VIDEO EPISODES| Watch the video episodes on The Daily Stoic YouTube channel: https://www.youtube.com/@DailyStoic/videos✉️ FREE STOIC WISDOM | Want Stoic wisdom delivered to your inbox daily? Sign up for the FREE Daily Stoic email at https:",
-   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/c7a81854-161a-4846-a64b-774f13471978.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Offers practical Stoic advice, touching on ethics and inner life but not deeply philosophical.",
-   "tradition": "Stoic"
   },
   {
    "id": "gid://art19-episode-locator/V0/wunOMAskfMlXmwFJnoXSXM3Y0oy_nsVN31dox6go5xk",
@@ -131,7 +131,7 @@
    "published": "Mon, 17 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores Stoic views on freedom and addiction, moderately philosophical.",
+   "reason": "Explores Stoic ideas about freedom and addiction with philosophical insight.",
    "tradition": "Stoic"
   },
   {
@@ -144,7 +144,7 @@
    "published": "Mon, 17 Aug 2026 05:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/20/5f/89205fa5-8450-d917-3f45-a5b26962a087/mza_377853489433632553.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Christian teaching on recognizing God's voice in daily life.",
+   "reason": "Christian teaching on recognizing God's voice in daily life with practical guidance.",
    "tradition": "Christian"
   },
   {
@@ -157,7 +157,7 @@
    "published": "Sun, 16 Aug 2026 05:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/20/5f/89205fa5-8450-d917-3f45-a5b26962a087/mza_377853489433632553.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Continuation of Christian guidance on hearing and following God.",
+   "reason": "Continues practical Christian advice on hearing God, focusing on spiritual awareness.",
    "tradition": "Christian"
   }
  ],
