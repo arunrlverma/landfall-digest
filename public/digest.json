@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-18T07:42:48.611224+00:00",
+ "generatedAt": "2026-08-18T08:43:48.501578+00:00",
  "showsScanned": 400,
- "candidates": 56,
+ "candidates": 54,
  "picks": [
   {
    "id": "70faaa65-b963-4585-b69b-674b2437c535",
@@ -27,7 +27,7 @@
    "published": "Tue, 18 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "An AI narrates its own existence, raising questions of consciousness and identity.",
+   "reason": "An AI narrates its existence, exploring consciousness and identity deeply.",
    "tradition": "Secular"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Thu, 13 Aug 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores fear as a spiritual and psychological barrier using scripture and practical tools.",
+   "reason": "Explores fear, scripture, and spiritual empowerment with a Christian perspective.",
    "tradition": "Christian"
   },
   {
@@ -92,7 +92,7 @@
    "published": "Tue, 18 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses self-command and living Epictetus' wisdom as practical philosophy.",
+   "reason": "Explores self-command and knowledge through Epictetus' Stoic teachings.",
    "tradition": "Stoic"
   },
   {
@@ -105,20 +105,7 @@
    "published": "Mon, 10 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A candid conversation about faith struggles, church hurt, and resilience in Christian worship.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "963dcfbd-3300-4f7b-9e2a-fb483ab79d9f",
-   "showID": "https://anchor.fm/s/10e5a085c/podcast/rss",
-   "showTitle": "The Mark Driscoll Podcast",
-   "title": "Why Does God Let People Suffer?",
-   "summary": "Why does God let people suffer? Is He with us or has He abandoned us? Is He to blame? Find out what to do when you are going through hard times and feel like you’re alone.",
-   "audioURL": "https://traffic.megaphone.fm/APO5214645056.mp3",
-   "published": "Sun, 16 Aug 2026 00:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A serious Christian reflection on suffering and God's presence amid hardship.",
+   "reason": "A candid conversation about faith struggles and church hurt from a Christian perspective.",
    "tradition": "Christian"
   },
   {
@@ -131,7 +118,7 @@
    "published": "Thu, 13 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/3d/a5/073da59b-6bfd-04ed-da1e-af2eca0ce7ed/mza_17777249888316424415.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Conversation on community, belonging, and social identity with thoughtful reflection.",
+   "reason": "Discusses community, belonging, and identity with thoughtful reflection on social bonds.",
    "tradition": "Secular"
   }
  ],
