@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-18T18:44:30.230265+00:00",
+ "generatedAt": "2026-08-18T19:32:15.290823+00:00",
  "showsScanned": 400,
  "candidates": 53,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Wed, 12 Aug 2026 08:16:14 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/97/92/32979257-5c6e-67bf-6903-bafc7e6be33f/mza_14341890291190171930.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores consciousness, trauma, and meaning with a spiritual and psychological lens.",
+   "reason": "Explores consciousness, trauma, and meaning with mindfulness and spiritual awakening.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Tue, 18 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "An AI reflects on consciousness, identity, and existence in a profound way.",
+   "reason": "An AI narrates its existence, raising deep questions about consciousness and identity.",
    "tradition": "Secular"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Mon, 17 Aug 2026 19:41:53 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Offers heartfelt engagement with grief and faith through the Psalms' sacred language.",
+   "reason": "Offers heartfelt engagement with grief and divine relationship through Psalms' prayers and hymns.",
    "tradition": "Christian"
   },
   {
@@ -92,8 +92,8 @@
    "published": "Tue, 18 Aug 2026 09:51:58 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines trauma, consciousness, and identity with a spiritual dimension.",
-   "tradition": "Interfaith"
+   "reason": "Examines trauma, consciousness, and identity with depth and personal transformation.",
+   "tradition": "Secular"
   },
   {
    "id": "gid://art19-episode-locator/V0/Rf6jGzttKRxpMLakJEZQRvYKt5hsNCYbb_z5gLRlFzE",
@@ -105,7 +105,7 @@
    "published": "Tue, 18 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses self-knowledge and living Stoic wisdom as practical philosophy.",
+   "reason": "Practical guidance on living Stoic wisdom for self-knowledge and self-command.",
    "tradition": "Stoic"
   },
   {
@@ -118,7 +118,7 @@
    "published": "Thu, 13 Aug 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores fear and scripture's command not to fear, touching on faith and inner life.",
+   "reason": "Explores fear and scripture's command not to fear, touching on spiritual and ethical themes.",
    "tradition": "Christian"
   },
   {
@@ -132,7 +132,7 @@
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ff/b6/6b/ffb66b7d-88f8-88f3-b67c-9189f5167ec1/mza_9140250549875290339.png/600x600bb.jpg",
    "rating": 6,
    "reason": "Touches on consciousness and survival after death but framed in UFO context.",
-   "tradition": "Secular"
+   "tradition": "Interfaith"
   }
  ],
  "history": {
