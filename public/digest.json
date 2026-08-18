@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-18T22:29:40.655798+00:00",
+ "generatedAt": "2026-08-18T23:27:29.026201+00:00",
  "showsScanned": 400,
  "candidates": 52,
  "picks": [
@@ -27,20 +27,7 @@
    "published": "Tue, 18 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "An AI narrates its existence, exploring consciousness, identity, and existential questions.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR1977358884.mp3",
-   "showID": "https://rss.wbur.org/onpoint/podcast",
-   "showTitle": "On Point with Meghna Chakrabarti",
-   "title": "Brainwaves: Are you in there?",
-   "summary": "Consciousness is how we are able to feel, dream and imagine. And yet -- scientists haven't figured out how consciousness definitively works. What we know, what we don’t and what that tells us about our brains.\n\n***\nThank you for listening. Help power On Point by making a donation here: wbur.org/giveonpoint",
-   "audioURL": "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR1977358884.mp3",
-   "published": "Tue, 18 Aug 2026 16:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Scientific discussion on consciousness and what it reveals about mind and self.",
+   "reason": "An AI narrates its existence, exploring consciousness, identity, and mortality.",
    "tradition": "Secular"
   },
   {
@@ -92,7 +79,20 @@
    "published": "Tue, 18 Aug 2026 17:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/27/6b/55276bd9-c638-2c12-32cc-d4a010c0ddc0/mza_18179661083595555224.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A physicist explores consciousness and reality, engaging with deep questions about experience.",
+   "reason": "A physicist explores consciousness and reality, addressing deep questions about experience and being.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR1977358884.mp3",
+   "showID": "https://rss.wbur.org/onpoint/podcast",
+   "showTitle": "On Point with Meghna Chakrabarti",
+   "title": "Brainwaves: Are you in there?",
+   "summary": "Consciousness is how we are able to feel, dream and imagine. And yet -- scientists haven't figured out how consciousness definitively works. What we know, what we don’t and what that tells us about our brains.\n\n***\nThank you for listening. Help power On Point by making a donation here: wbur.org/giveonpoint",
+   "audioURL": "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR1977358884.mp3",
+   "published": "Tue, 18 Aug 2026 16:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Scientific discussion on consciousness and what it reveals about the brain and self.",
    "tradition": "Secular"
   },
   {
@@ -105,7 +105,7 @@
    "published": "Tue, 18 Aug 2026 09:51:58 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines trauma, cosmic consciousness, and identity with spiritual depth.",
+   "reason": "Examines trauma, cosmic consciousness, and personal transformation in depth.",
    "tradition": "Interfaith"
   },
   {
@@ -118,7 +118,7 @@
    "published": "Tue, 18 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores self-command and living Epictetus' wisdom practically.",
+   "reason": "Discusses self-command and living Epictetus' wisdom practically.",
    "tradition": "Stoic"
   },
   {
@@ -131,21 +131,21 @@
    "published": "Thu, 13 Aug 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores fear, scripture, and spiritual empowerment with a Christian perspective.",
+   "reason": "Explores fear, scripture, and spiritual power with a focus on overcoming paralyzing emotions.",
    "tradition": "Christian"
   },
   {
-   "id": "228efcde-97fc-11f1-9d38-a32497837d53",
-   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
-   "showTitle": "Live Free with Josh Howerton",
-   "title": "Should Christians Try to Legally Stop MOSQUES Being Built in Their City?! | Live Free with Josh Howerton",
-   "summary": "Should Christians legally oppose a mosque being built in their city? The answer raises difficult questions about religious liberty, biblical conviction, civic responsibility, and the proper role of government.\n\nIn this bonus episode, Pastors Josh, Carlos, and Paul examine the controversy surrounding a proposed mosque expansion in McKinney, Texas. They explore how Christians can engage local government lawfully and wisely while remaining committed to sharing the gospel with Muslim neighbors.\n\nIn this episode, you’ll learn:\n\n\n  How the First Amendment has shaped modern religious-liberty laws\n\n  ",
-   "audioURL": "https://traffic.megaphone.fm/HAEEH7900382030.mp3",
-   "published": "Fri, 14 Aug 2026 17:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
+   "id": "037804ff-9a1f-4184-8026-78bf8be35188",
+   "showID": "https://mysteriousradiofeed.mysteriousradionetwork.com",
+   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
+   "title": "Secrets of The Soul",
+   "summary": "The ancient Egyptians possessed deep metaphysical knowledge of the soul, referring to it as the Ka (vital essence) and Ba(spiritual personality). These esoteric teachings describe the soul body or spirit shell—a kind of etheric energy fieldthat surrounds and protects the inner consciousness. Much like a nut encased in a shell, your higher self exists within this subtle energy layer, separate from the physical body. This aligns with modern discussions on the astral body, out-of-body experiences, near-death experiences, sacred geometry, and ancient wisdom traditions. Could this be the missing li",
+   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8595152/8595152_2026-08-15-122552.128.mp3?rssID=6605",
+   "published": "Sat, 15 Aug 2026 12:46:25 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Considers religious liberty and ethics in civic context, but focused on practical issues.",
-   "tradition": "Christian"
+   "reason": "Covers soul and metaphysical concepts but leans toward esoteric and paranormal.",
+   "tradition": "Interfaith"
   },
   {
    "id": "audioboom-01a01420-aa25-7f19-9a76-aa483658cf6e",
@@ -157,8 +157,8 @@
    "published": "Tue, 18 Aug 2026 10:11:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ff/b6/6b/ffb66b7d-88f8-88f3-b67c-9189f5167ec1/mza_9140250549875290339.png/600x600bb.jpg",
    "rating": 6,
-   "reason": "Touches on consciousness and survival after death but framed in UFO context.",
-   "tradition": "Interfaith"
+   "reason": "Touches on consciousness and survival after death but framed in UFO and disclosure context.",
+   "tradition": "Secular"
   }
  ],
  "history": {
