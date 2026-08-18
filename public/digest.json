@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-18T03:53:22.411595+00:00",
+ "generatedAt": "2026-08-18T04:40:56.921767+00:00",
  "showsScanned": 400,
  "candidates": 54,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Wed, 12 Aug 2026 08:16:14 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/97/92/32979257-5c6e-67bf-6903-bafc7e6be33f/mza_14341890291190171930.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Serious conversation on consciousness, trauma, and the search for meaning.",
+   "reason": "Explores consciousness, trauma, and meaning with a spiritual and psychological lens.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Mon, 17 Aug 2026 19:41:53 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Deep engagement with Psalms as a sacred language for grief and awe.",
+   "reason": "Offers heartfelt engagement with grief and faith through the Psalms' sacred language.",
    "tradition": "Christian"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Sun, 16 Aug 2026 20:22:54 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores authentic Christian faith beyond religious formality.",
+   "reason": "Examines authentic faith and obedience through Jesus' teachings in Matthew.",
    "tradition": "Christian"
   },
   {
@@ -53,21 +53,21 @@
    "published": "Thu, 13 Aug 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores fear, scripture, and spiritual power in a Christian context.",
+   "reason": "Explores fear, scripture, and spiritual power with a focus on overcoming paralysis.",
    "tradition": "Christian"
   },
   {
-   "id": "2a1d1d81-97ea-48b0-9c8a-7b17346f477f",
-   "showID": "https://feeds.simplecast.com/UCwaTX1J",
-   "showTitle": "The Mel Robbins Podcast",
-   "title": "World Leading Psychologist: How to Manifest Anything & Create the Life You Want",
-   "summary": "Today, you are going to learn the science of manifestation, visualization, and imagination - and the steps you can take to start creating the life you want.\nIn this powerful episode, Mel sits down with Dr. Cassandra Vieten, PhD, a clinical psychologist, professor at UC San Diego, and one of the world’s leading researchers on imagination and consciousness.\nDr. Vieten directs the Center for Human Imagination at UC San Diego, leads the Center for Mindfulness at UC San Diego’s Centers for Integrative Health, and her research has been cited more than 5,000 times.\nTogether, Mel and Dr. Vieten unpack",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/stitcher.simplecastaudio.com/b9de9f5f-6dab-4833-b4c2-05f1d28dd998/episodes/91664d33-944f-4c53-9d4e-d963a385df93/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=b9de9f5f-6dab-4833-b4c2-05f1d28dd998&amp;awEpisodeId=91664d33-944f-4c53-9d4e-d963a385df93&amp;feed=UCwaTX1J",
-   "published": "Mon, 10 Aug 2026 04:05:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/600x600bb.jpg",
+   "id": "fdb8761dd68e2d9df9f35216a81ee585",
+   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
+   "showTitle": "Becoming Something with Jonathan Pokluda",
+   "title": "Episode 384: Reckless Love, Church Hurt & Outsinging the Angels | feat. Cory Asbury",
+   "summary": "<p>This week we sit down with worship artist Cory Asbury — live from the tour bus — to talk about his journey through church hurt, online criticism, and what it looks like to come out the other side still singing. Cory opens up about the story behind \"Reckless Love,\" his new song Prodigal God, and why he's done being cautious with his faith. If you've ever felt beaten up by the church or beaten down by the noise of social media, this episode is for you!</p>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4L2M2MDk4MDNkLTczNzYtNGQzZS1hYzc5LWM3YmM4Mjk0YWNiMC9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=rrfqtsn",
+   "published": "Mon, 10 Aug 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Scientific and psychological look at imagination and consciousness.",
-   "tradition": "Secular"
+   "reason": "A worship artist discusses faith struggles and church hurt with honest reflection.",
+   "tradition": "Christian"
   },
   {
    "id": "963dcfbd-3300-4f7b-9e2a-fb483ab79d9f",
@@ -79,7 +79,7 @@
    "published": "Sun, 16 Aug 2026 00:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Christian reflection on why God allows suffering and how to cope with hardship.",
+   "reason": "A serious Christian reflection on suffering and God's presence in hardship.",
    "tradition": "Christian"
   },
   {
@@ -92,34 +92,21 @@
    "published": "Thu, 13 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/3d/a5/073da59b-6bfd-04ed-da1e-af2eca0ce7ed/mza_17777249888316424415.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Conversation on community, belonging, and social identity.",
+   "reason": "Discusses community, belonging, and social identity with thoughtful reflection.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "037804ff-9a1f-4184-8026-78bf8be35188",
+   "showID": "https://mysteriousradiofeed.mysteriousradionetwork.com",
+   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
+   "title": "Secrets of The Soul",
+   "summary": "The ancient Egyptians possessed deep metaphysical knowledge of the soul, referring to it as the Ka (vital essence) and Ba(spiritual personality). These esoteric teachings describe the soul body or spirit shell—a kind of etheric energy fieldthat surrounds and protects the inner consciousness. Much like a nut encased in a shell, your higher self exists within this subtle energy layer, separate from the physical body. This aligns with modern discussions on the astral body, out-of-body experiences, near-death experiences, sacred geometry, and ancient wisdom traditions. Could this be the missing li",
+   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8595152/8595152_2026-08-15-122552.128.mp3?rssID=6605",
+   "published": "Sat, 15 Aug 2026 12:46:25 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses soul and metaphysical concepts but leans toward esoteric and paranormal.",
    "tradition": "Interfaith"
-  },
-  {
-   "id": "fdb8761dd68e2d9df9f35216a81ee585",
-   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
-   "showTitle": "Becoming Something with Jonathan Pokluda",
-   "title": "Episode 384: Reckless Love, Church Hurt & Outsinging the Angels | feat. Cory Asbury",
-   "summary": "<p>This week we sit down with worship artist Cory Asbury — live from the tour bus — to talk about his journey through church hurt, online criticism, and what it looks like to come out the other side still singing. Cory opens up about the story behind \"Reckless Love,\" his new song Prodigal God, and why he's done being cautious with his faith. If you've ever felt beaten up by the church or beaten down by the noise of social media, this episode is for you!</p>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4L2M2MDk4MDNkLTczNzYtNGQzZS1hYzc5LWM3YmM4Mjk0YWNiMC9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=rrfqtsn",
-   "published": "Mon, 10 Aug 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Faith journey through church hurt and doubt with a worship artist.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "flightcast:01KZEFZPGDJB5379E59DBHB5Y7",
-   "showID": "https://rss2.flightcast.com/t73f4jg65ilunnoyzfdsnikd.xml",
-   "showTitle": "Worldview Matters With David Fiorazo",
-   "title": "Gary McKibben: Resist The Devil, Trust God's Sovereignty In Life’s Trials",
-   "summary": "Gary McKibben is the pastor of Victory Church Belfast and shares his personal testimonies of needing to trust God amidst life’s trials.\nVictory Church Belfast: https://www.victorychurchbelfast.com/\nGary McKibben Substack: https://pastorgarymckibben.substack.com\nVictory Church on FB: https://www.facebook.com/VictoryChurchBelfast/ \nGary McKibben on YouTube: https://www.youtube.com/@prgarymckibbenatvictory7038 (https://www.youtube.com/@prgarymckibbenatvictory7038/videos)\nwww.worldviewmatters.tv\n© FreedomProject 2026",
-   "audioURL": "https://episode.flightcast.com/01KZEFZPGDCWVSDMS5MZT7AJ8B.mp3",
-   "published": "Mon, 10 Aug 2026 13:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/73/4b/a3/734ba3b5-45d5-a741-7606-0d2fdc735887/mza_11459030094087694567.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Pastor shares personal trust in God amid trials, engaging with faith and suffering.",
-   "tradition": "Christian"
   }
  ],
  "history": {
@@ -242,7 +229,7 @@
   "fd096262-ea26-4724-90a6-28eaef8ba3ec": "2026-08-15",
   "c1760934-9b48-4c28-a885-99c6488c0986": "2026-08-15",
   "standardoftruth.podbean.com/1abecacc-c9ff-3b8d-8ae7-8560235ba0b5": "2026-08-15",
-  "037804ff-9a1f-4184-8026-78bf8be35188": "2026-08-15",
+  "037804ff-9a1f-4184-8026-78bf8be35188": "2026-08-18",
   "https://api.spreaker.com/episode/73797570": "2026-08-16",
   "gid://art19-episode-locator/V0/cCodx4wrNuyB_1IoXFNSF-k79DJEAPIiVR0oGh5KPis": "2026-08-16",
   "gid://art19-episode-locator/V0/uCfMF20ojHn9Fa_5H5-Bw_TpXruWHFR9qIqKjAYPSb0": "2026-08-16",
