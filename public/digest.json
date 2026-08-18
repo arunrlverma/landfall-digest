@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-18T05:35:01.259142+00:00",
+ "generatedAt": "2026-08-18T06:52:32.092037+00:00",
  "showsScanned": 400,
  "candidates": 54,
  "picks": [
@@ -27,7 +27,7 @@
    "published": "Mon, 17 Aug 2026 19:41:53 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores the Psalms as a sacred language for grief, awe, and faith's emotional depth.",
+   "reason": "Explores the Psalms as a sacred language for expressing grief, awe, and faith.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Sun, 16 Aug 2026 00:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A serious discussion on the problem of suffering and God's presence in hardship.",
+   "reason": "A serious Christian reflection on suffering and God's presence in hardship.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Thu, 13 Aug 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores fear, scripture, and spiritual paralysis with biblical references.",
+   "reason": "Explores fear, scripture, and spiritual empowerment with a Christian perspective.",
    "tradition": "Christian"
   },
   {
@@ -79,20 +79,7 @@
    "published": "Mon, 10 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A Christian worship artist discusses faith struggles and church hurt honestly.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "flightcast:01KZEFZPGDJB5379E59DBHB5Y7",
-   "showID": "https://rss2.flightcast.com/t73f4jg65ilunnoyzfdsnikd.xml",
-   "showTitle": "Worldview Matters With David Fiorazo",
-   "title": "Gary McKibben: Resist The Devil, Trust God's Sovereignty In Life’s Trials",
-   "summary": "Gary McKibben is the pastor of Victory Church Belfast and shares his personal testimonies of needing to trust God amidst life’s trials.\nVictory Church Belfast: https://www.victorychurchbelfast.com/\nGary McKibben Substack: https://pastorgarymckibben.substack.com\nVictory Church on FB: https://www.facebook.com/VictoryChurchBelfast/ \nGary McKibben on YouTube: https://www.youtube.com/@prgarymckibbenatvictory7038 (https://www.youtube.com/@prgarymckibbenatvictory7038/videos)\nwww.worldviewmatters.tv\n© FreedomProject 2026",
-   "audioURL": "https://episode.flightcast.com/01KZEFZPGDCWVSDMS5MZT7AJ8B.mp3",
-   "published": "Mon, 10 Aug 2026 13:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/73/4b/a3/734ba3b5-45d5-a741-7606-0d2fdc735887/mza_11459030094087694567.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Pastor shares personal faith struggles and trusting God through suffering.",
+   "reason": "A candid conversation about faith, doubt, and church hurt from a Christian musician.",
    "tradition": "Christian"
   },
   {
@@ -105,7 +92,7 @@
    "published": "Thu, 13 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/3d/a5/073da59b-6bfd-04ed-da1e-af2eca0ce7ed/mza_17777249888316424415.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses community, belonging, and identity with thoughtful reflection.",
+   "reason": "Discusses community, belonging, and social identity with thoughtful reflection.",
    "tradition": "Secular"
   },
   {
@@ -118,8 +105,21 @@
    "published": "Sat, 15 Aug 2026 12:46:25 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Covers ancient soul concepts and astral experiences, more metaphysical than ethical.",
+   "reason": "Covers ancient Egyptian soul concepts and astral experiences with metaphysical focus.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "flightcast:01KZEFZPGDJB5379E59DBHB5Y7",
+   "showID": "https://rss2.flightcast.com/t73f4jg65ilunnoyzfdsnikd.xml",
+   "showTitle": "Worldview Matters With David Fiorazo",
+   "title": "Gary McKibben: Resist The Devil, Trust God's Sovereignty In Life’s Trials",
+   "summary": "Gary McKibben is the pastor of Victory Church Belfast and shares his personal testimonies of needing to trust God amidst life’s trials.\nVictory Church Belfast: https://www.victorychurchbelfast.com/\nGary McKibben Substack: https://pastorgarymckibben.substack.com\nVictory Church on FB: https://www.facebook.com/VictoryChurchBelfast/ \nGary McKibben on YouTube: https://www.youtube.com/@prgarymckibbenatvictory7038 (https://www.youtube.com/@prgarymckibbenatvictory7038/videos)\nwww.worldviewmatters.tv\n© FreedomProject 2026",
+   "audioURL": "https://episode.flightcast.com/01KZEFZPGDCWVSDMS5MZT7AJ8B.mp3",
+   "published": "Mon, 10 Aug 2026 13:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/73/4b/a3/734ba3b5-45d5-a741-7606-0d2fdc735887/mza_11459030094087694567.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Personal Christian testimony about trusting God in suffering, touching on faith and trials.",
+   "tradition": "Christian"
   }
  ],
  "history": {
