@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-18T04:40:56.921767+00:00",
+ "generatedAt": "2026-08-18T05:35:01.259142+00:00",
  "showsScanned": 400,
  "candidates": 54,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Wed, 12 Aug 2026 08:16:14 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/97/92/32979257-5c6e-67bf-6903-bafc7e6be33f/mza_14341890291190171930.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores consciousness, trauma, and meaning with a spiritual and psychological lens.",
+   "reason": "A deep conversation on consciousness, trauma, identity, and the search for meaning.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Mon, 17 Aug 2026 19:41:53 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Offers heartfelt engagement with grief and faith through the Psalms' sacred language.",
+   "reason": "Explores the Psalms as a sacred language for grief, awe, and faith's emotional depth.",
    "tradition": "Christian"
   },
   {
@@ -40,7 +40,20 @@
    "published": "Sun, 16 Aug 2026 20:22:54 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines authentic faith and obedience through Jesus' teachings in Matthew.",
+   "reason": "Examines authentic Christian faith through Jesus' teachings on obedience and devotion.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "963dcfbd-3300-4f7b-9e2a-fb483ab79d9f",
+   "showID": "https://anchor.fm/s/10e5a085c/podcast/rss",
+   "showTitle": "The Mark Driscoll Podcast",
+   "title": "Why Does God Let People Suffer?",
+   "summary": "Why does God let people suffer? Is He with us or has He abandoned us? Is He to blame? Find out what to do when you are going through hard times and feel like you’re alone.",
+   "audioURL": "https://traffic.megaphone.fm/APO5214645056.mp3",
+   "published": "Sun, 16 Aug 2026 00:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A serious discussion on the problem of suffering and God's presence in hardship.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +66,7 @@
    "published": "Thu, 13 Aug 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores fear, scripture, and spiritual power with a focus on overcoming paralysis.",
+   "reason": "Explores fear, scripture, and spiritual paralysis with biblical references.",
    "tradition": "Christian"
   },
   {
@@ -66,20 +79,20 @@
    "published": "Mon, 10 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A worship artist discusses faith struggles and church hurt with honest reflection.",
+   "reason": "A Christian worship artist discusses faith struggles and church hurt honestly.",
    "tradition": "Christian"
   },
   {
-   "id": "963dcfbd-3300-4f7b-9e2a-fb483ab79d9f",
-   "showID": "https://anchor.fm/s/10e5a085c/podcast/rss",
-   "showTitle": "The Mark Driscoll Podcast",
-   "title": "Why Does God Let People Suffer?",
-   "summary": "Why does God let people suffer? Is He with us or has He abandoned us? Is He to blame? Find out what to do when you are going through hard times and feel like you’re alone.",
-   "audioURL": "https://traffic.megaphone.fm/APO5214645056.mp3",
-   "published": "Sun, 16 Aug 2026 00:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
+   "id": "flightcast:01KZEFZPGDJB5379E59DBHB5Y7",
+   "showID": "https://rss2.flightcast.com/t73f4jg65ilunnoyzfdsnikd.xml",
+   "showTitle": "Worldview Matters With David Fiorazo",
+   "title": "Gary McKibben: Resist The Devil, Trust God's Sovereignty In Life’s Trials",
+   "summary": "Gary McKibben is the pastor of Victory Church Belfast and shares his personal testimonies of needing to trust God amidst life’s trials.\nVictory Church Belfast: https://www.victorychurchbelfast.com/\nGary McKibben Substack: https://pastorgarymckibben.substack.com\nVictory Church on FB: https://www.facebook.com/VictoryChurchBelfast/ \nGary McKibben on YouTube: https://www.youtube.com/@prgarymckibbenatvictory7038 (https://www.youtube.com/@prgarymckibbenatvictory7038/videos)\nwww.worldviewmatters.tv\n© FreedomProject 2026",
+   "audioURL": "https://episode.flightcast.com/01KZEFZPGDCWVSDMS5MZT7AJ8B.mp3",
+   "published": "Mon, 10 Aug 2026 13:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/73/4b/a3/734ba3b5-45d5-a741-7606-0d2fdc735887/mza_11459030094087694567.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A serious Christian reflection on suffering and God's presence in hardship.",
+   "reason": "Pastor shares personal faith struggles and trusting God through suffering.",
    "tradition": "Christian"
   },
   {
@@ -92,7 +105,7 @@
    "published": "Thu, 13 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/3d/a5/073da59b-6bfd-04ed-da1e-af2eca0ce7ed/mza_17777249888316424415.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses community, belonging, and social identity with thoughtful reflection.",
+   "reason": "Discusses community, belonging, and identity with thoughtful reflection.",
    "tradition": "Secular"
   },
   {
@@ -105,7 +118,7 @@
    "published": "Sat, 15 Aug 2026 12:46:25 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses soul and metaphysical concepts but leans toward esoteric and paranormal.",
+   "reason": "Covers ancient soul concepts and astral experiences, more metaphysical than ethical.",
    "tradition": "Interfaith"
   }
  ],
