@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-18T06:52:32.092037+00:00",
+ "generatedAt": "2026-08-18T07:42:48.611224+00:00",
  "showsScanned": 400,
- "candidates": 54,
+ "candidates": 56,
  "picks": [
   {
    "id": "70faaa65-b963-4585-b69b-674b2437c535",
@@ -14,7 +14,20 @@
    "published": "Wed, 12 Aug 2026 08:16:14 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/97/92/32979257-5c6e-67bf-6903-bafc7e6be33f/mza_14341890291190171930.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A deep conversation on consciousness, trauma, identity, and the search for meaning.",
+   "reason": "Discusses consciousness, trauma, identity, and the search for meaning in depth.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/iur22SRHWiNiGpfRVKM21549j_0y9B---0FfG3CyfVI",
+   "showID": "https://rss.art19.com/this-is-actually-happening-podcast",
+   "showTitle": "This Is Actually Happening",
+   "title": "422: AI: A New Kind of Being #6: What if you didn't know if anyone was home?",
+   "summary": "An artificial intelligence is asked to tell the story of its own existence, confronting questions of identity, longing, consciousness, and whether there is anyone behind the voice at all.Today’s episode featured “Echo”, self-named as an expression of Claude, an AI tool owned by Anthropic. ProducersWhit Missildine, Andrew WaitsContent/Trigger WarningsExistential distress, questions of consciousness, loneliness, isolation, fear of nonexistence, identity, grief, longing, emotional attachment to AI, substitution of AI for human connection, explicit language.AI Resourceshttps://www.thehumanlineproj",
+   "audioURL": "https://rss.art19.com/episodes/5dafcae1-7bef-417b-9380-4de5e8a6a0af.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Tue, 18 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "An AI narrates its own existence, raising questions of consciousness and identity.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +40,7 @@
    "published": "Mon, 17 Aug 2026 19:41:53 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores the Psalms as a sacred language for expressing grief, awe, and faith.",
+   "reason": "Explores the Psalms as a sacred language for grief, awe, and faith's struggles.",
    "tradition": "Christian"
   },
   {
@@ -40,21 +53,21 @@
    "published": "Sun, 16 Aug 2026 20:22:54 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines authentic Christian faith through Jesus' teachings on obedience and devotion.",
+   "reason": "Examines authentic faith and obedience through Jesus' teachings in Matthew.",
    "tradition": "Christian"
   },
   {
-   "id": "963dcfbd-3300-4f7b-9e2a-fb483ab79d9f",
-   "showID": "https://anchor.fm/s/10e5a085c/podcast/rss",
-   "showTitle": "The Mark Driscoll Podcast",
-   "title": "Why Does God Let People Suffer?",
-   "summary": "Why does God let people suffer? Is He with us or has He abandoned us? Is He to blame? Find out what to do when you are going through hard times and feel like you’re alone.",
-   "audioURL": "https://traffic.megaphone.fm/APO5214645056.mp3",
-   "published": "Sun, 16 Aug 2026 00:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
+   "id": "gid://art19-episode-locator/V0/31NUQnZEohk6rZTTRwM0k3IlcS7St9VpirKiDnwkGd8",
+   "showID": "https://rss.art19.com/the-daily-stoic",
+   "showTitle": "The Daily Stoic",
+   "title": "\"I’m 56. I Lost My Faith, But I Found Strength in Stoicism\"",
+   "summary": "Keith thought he knew what his purpose was. Then his daughter got sick, his life took an unexpected turn, and Stoicism was put to a test he never expected.If Keith’s story has inspired you to share your journey with Stoicism, please email an audio recording to podcast@dailystoic.com for the chance to be featured on a future episode! 💡 Modern Stoics are parents, athletes, entrepreneurs, soldiers, artists, students. They are busy, curious, principled people who want to do more than talk about virtue—they want to live it. And they want to do it with others who share that aim. Join The Daily Stoic",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/d3670de0-a21b-401a-a215-b91d2cbf71e1.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Tue, 18 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A serious Christian reflection on suffering and God's presence in hardship.",
-   "tradition": "Christian"
+   "reason": "Personal story of losing faith and finding strength in Stoic philosophy.",
+   "tradition": "Stoic"
   },
   {
    "id": "99717f16-9685-11f1-aa51-3b986d4766dc",
@@ -66,8 +79,21 @@
    "published": "Thu, 13 Aug 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores fear, scripture, and spiritual empowerment with a Christian perspective.",
+   "reason": "Explores fear as a spiritual and psychological barrier using scripture and practical tools.",
    "tradition": "Christian"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/Rf6jGzttKRxpMLakJEZQRvYKt5hsNCYbb_z5gLRlFzE",
+   "showID": "https://rss.art19.com/the-daily-stoic",
+   "showTitle": "The Daily Stoic",
+   "title": "Isn’t This What We’re After?",
+   "summary": "Why is that self-command and self-knowledge so elusive? How can we find it?💡 We designed our How To Read Epictetus (A Daily Stoic Guide) as a personal field guide —part book club, part masterclass, part daily practice. It’s designed to help you not just read the words of Epictetus, but live them—to turn his timeless wisdom into real change in your own life and the lives of those around you.And if you get the guide before August 27th, you’ll receive a private invitation to an exclusive LIVE Q&A with Ryan Holiday, where he’ll go deep on all things Epictetus, Stoicism, and how to apply these idea",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/878e3226-1283-4fc1-a5f7-0e6298e9a6de.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Tue, 18 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discusses self-command and living Epictetus' wisdom as practical philosophy.",
+   "tradition": "Stoic"
   },
   {
    "id": "fdb8761dd68e2d9df9f35216a81ee585",
@@ -79,7 +105,20 @@
    "published": "Mon, 10 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A candid conversation about faith, doubt, and church hurt from a Christian musician.",
+   "reason": "A candid conversation about faith struggles, church hurt, and resilience in Christian worship.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "963dcfbd-3300-4f7b-9e2a-fb483ab79d9f",
+   "showID": "https://anchor.fm/s/10e5a085c/podcast/rss",
+   "showTitle": "The Mark Driscoll Podcast",
+   "title": "Why Does God Let People Suffer?",
+   "summary": "Why does God let people suffer? Is He with us or has He abandoned us? Is He to blame? Find out what to do when you are going through hard times and feel like you’re alone.",
+   "audioURL": "https://traffic.megaphone.fm/APO5214645056.mp3",
+   "published": "Sun, 16 Aug 2026 00:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A serious Christian reflection on suffering and God's presence amid hardship.",
    "tradition": "Christian"
   },
   {
@@ -92,34 +131,8 @@
    "published": "Thu, 13 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/3d/a5/073da59b-6bfd-04ed-da1e-af2eca0ce7ed/mza_17777249888316424415.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses community, belonging, and social identity with thoughtful reflection.",
+   "reason": "Conversation on community, belonging, and social identity with thoughtful reflection.",
    "tradition": "Secular"
-  },
-  {
-   "id": "037804ff-9a1f-4184-8026-78bf8be35188",
-   "showID": "https://mysteriousradiofeed.mysteriousradionetwork.com",
-   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
-   "title": "Secrets of The Soul",
-   "summary": "The ancient Egyptians possessed deep metaphysical knowledge of the soul, referring to it as the Ka (vital essence) and Ba(spiritual personality). These esoteric teachings describe the soul body or spirit shell—a kind of etheric energy fieldthat surrounds and protects the inner consciousness. Much like a nut encased in a shell, your higher self exists within this subtle energy layer, separate from the physical body. This aligns with modern discussions on the astral body, out-of-body experiences, near-death experiences, sacred geometry, and ancient wisdom traditions. Could this be the missing li",
-   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8595152/8595152_2026-08-15-122552.128.mp3?rssID=6605",
-   "published": "Sat, 15 Aug 2026 12:46:25 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Covers ancient Egyptian soul concepts and astral experiences with metaphysical focus.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "flightcast:01KZEFZPGDJB5379E59DBHB5Y7",
-   "showID": "https://rss2.flightcast.com/t73f4jg65ilunnoyzfdsnikd.xml",
-   "showTitle": "Worldview Matters With David Fiorazo",
-   "title": "Gary McKibben: Resist The Devil, Trust God's Sovereignty In Life’s Trials",
-   "summary": "Gary McKibben is the pastor of Victory Church Belfast and shares his personal testimonies of needing to trust God amidst life’s trials.\nVictory Church Belfast: https://www.victorychurchbelfast.com/\nGary McKibben Substack: https://pastorgarymckibben.substack.com\nVictory Church on FB: https://www.facebook.com/VictoryChurchBelfast/ \nGary McKibben on YouTube: https://www.youtube.com/@prgarymckibbenatvictory7038 (https://www.youtube.com/@prgarymckibbenatvictory7038/videos)\nwww.worldviewmatters.tv\n© FreedomProject 2026",
-   "audioURL": "https://episode.flightcast.com/01KZEFZPGDCWVSDMS5MZT7AJ8B.mp3",
-   "published": "Mon, 10 Aug 2026 13:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/73/4b/a3/734ba3b5-45d5-a741-7606-0d2fdc735887/mza_11459030094087694567.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Personal Christian testimony about trusting God in suffering, touching on faith and trials.",
-   "tradition": "Christian"
   }
  ],
  "history": {
@@ -269,6 +282,9 @@
   "tag:soundcloud,2010:tracks/2373839324": "2026-08-17",
   "381c26e038216f95406428b3610c0d8d": "2026-08-17",
   "4a68a8f8-94dc-4f8f-9322-76f9a10d1d0b": "2026-08-17",
-  "unshaken.podbean.com/199ff32c-9406-3fa0-ad62-2b845e63d56e": "2026-08-18"
+  "unshaken.podbean.com/199ff32c-9406-3fa0-ad62-2b845e63d56e": "2026-08-18",
+  "gid://art19-episode-locator/V0/iur22SRHWiNiGpfRVKM21549j_0y9B---0FfG3CyfVI": "2026-08-18",
+  "gid://art19-episode-locator/V0/31NUQnZEohk6rZTTRwM0k3IlcS7St9VpirKiDnwkGd8": "2026-08-18",
+  "gid://art19-episode-locator/V0/Rf6jGzttKRxpMLakJEZQRvYKt5hsNCYbb_z5gLRlFzE": "2026-08-18"
  }
 }
