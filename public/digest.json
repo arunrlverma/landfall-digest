@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-18T15:37:18.833325+00:00",
+ "generatedAt": "2026-08-18T16:37:38.402845+00:00",
  "showsScanned": 400,
  "candidates": 53,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Wed, 12 Aug 2026 08:16:14 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/97/92/32979257-5c6e-67bf-6903-bafc7e6be33f/mza_14341890291190171930.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Discusses consciousness, trauma, identity, and the search for meaning in depth.",
+   "reason": "Explores consciousness, trauma, and meaning with a meditation teacher and counselor.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Tue, 18 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "An AI narrates its existence, raising questions of consciousness and identity.",
+   "reason": "An AI narrates its existence, confronting consciousness, identity, and loneliness.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Mon, 17 Aug 2026 19:41:53 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores the Psalms as a sacred language for grief, awe, and faith wrestling.",
+   "reason": "Offers heartfelt engagement with grief and divine relationship through Psalms.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Tue, 18 Aug 2026 09:51:58 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores trauma, consciousness, and identity with a focus on suffering and recovery.",
+   "reason": "Examines trauma, consciousness, and identity with a focus on suffering and recovery.",
    "tradition": "Secular"
   },
   {
@@ -92,21 +92,8 @@
    "published": "Tue, 18 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Offers practical guidance on living Stoic wisdom and self-knowledge.",
+   "reason": "Discusses self-knowledge and living Epictetus' wisdom practically.",
    "tradition": "Stoic"
-  },
-  {
-   "id": "b11d71a6-1f25-11f1-990b-3b55932bbc65",
-   "showID": "https://feeds.megaphone.fm/daretolead",
-   "showTitle": "The Curiosity Shop with Brené Brown and Adam Grant",
-   "title": "Can We Build an “Us” Without a “Them”? with John Green",
-   "summary": "Is it possible to build a community without a 'them'? Author, YouTuber, and podcaster John Green joins Brené Brown and Adam Grant for a wide-ranging conversation on belonging, friendship, and the systems that shape our lives. Together, they explore why sports can create such powerful communities, whether it’s possible to build an “us” without needing a “them,” and why shared projects can help relationships last for decades. John reflects on the challenges of young adulthood, what he learned from working as a hospital chaplain, and why supporting someone in pain sometimes means resisting the ur",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3314552831.mp3",
-   "published": "Thu, 13 Aug 2026 09:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/3d/a5/073da59b-6bfd-04ed-da1e-af2eca0ce7ed/mza_17777249888316424415.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Conversation on community, belonging, and social identity with ethical reflection.",
-   "tradition": "Secular"
   },
   {
    "id": "99717f16-9685-11f1-aa51-3b986d4766dc",
@@ -118,8 +105,34 @@
    "published": "Thu, 13 Aug 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses fear, scripture, and spiritual paralysis with serious ethical and faith implications.",
+   "reason": "Explores fear through scripture and spiritual power, addressing inner life and faith.",
    "tradition": "Christian"
+  },
+  {
+   "id": "037804ff-9a1f-4184-8026-78bf8be35188",
+   "showID": "https://mysteriousradiofeed.mysteriousradionetwork.com",
+   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
+   "title": "Secrets of The Soul",
+   "summary": "The ancient Egyptians possessed deep metaphysical knowledge of the soul, referring to it as the Ka (vital essence) and Ba(spiritual personality). These esoteric teachings describe the soul body or spirit shell—a kind of etheric energy fieldthat surrounds and protects the inner consciousness. Much like a nut encased in a shell, your higher self exists within this subtle energy layer, separate from the physical body. This aligns with modern discussions on the astral body, out-of-body experiences, near-death experiences, sacred geometry, and ancient wisdom traditions. Could this be the missing li",
+   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8595152/8595152_2026-08-15-122552.128.mp3?rssID=6605",
+   "published": "Sat, 15 Aug 2026 12:46:25 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses soul concepts and astral bodies but leans toward esoteric lore.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "audioboom-01a01420-aa25-7f19-9a76-aa483658cf6e",
+   "showID": "https://audioboom.com/channels/5024014.rss",
+   "showTitle": "That UFO Podcast",
+   "title": "David Grusch Goes Further, Bigelow’s Big Questions & Pressure on Trump",
+   "summary": "Andy and Pavel break down another huge week in the UAP conversation, beginning with part two of Robert Bigelow’s new series with George Knapp.Why has Bigelow returned to the spotlight now, and what is he ultimately building towards? The discussion gets into his claims around consciousness and survival after death, the connection between consciousness and the UFO phenomenon, private aerospace contractors, amnesty and what Bigelow appears to believe disclosure should actually look like.Then, David Grusch sits down with Dr. Phil and makes some of his strongest public claims yet: 25–100 recovered ",
+   "audioURL": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8942430.mp3?modified=1787044265&amp;sid=5024014&amp;source=rss",
+   "published": "Tue, 18 Aug 2026 10:11:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ff/b6/6b/ffb66b7d-88f8-88f3-b67c-9189f5167ec1/mza_9140250549875290339.png/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Touches on consciousness and survival after death but mainly UFO and political topics.",
+   "tradition": "Secular"
   }
  ],
  "history": {
