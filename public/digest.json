@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-19T03:02:40.546036+00:00",
+ "generatedAt": "2026-08-19T04:42:33.011837+00:00",
  "showsScanned": 400,
  "candidates": 51,
  "picks": [
@@ -14,20 +14,7 @@
    "published": "Wed, 12 Aug 2026 20:33:04 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep dive into suffering and faith wrestling in the Book of Job.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "4a68a8f8-94dc-4f8f-9322-76f9a10d1d0b",
-   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
-   "showTitle": "Mormon Stories Podcast",
-   "title": "Bishop and Stake President Conflict After a Mormon Faith Crisis - Coy Johnston | Ep. 2182",
-   "summary": "Today we sit down with Coy Johnston, a longtime active member of the LDS Church, to explore what it looks like to question Mormonism without completely walking away.Coy grew up in Mesa, Arizona, served a mission in England, became a doctor, and spent his life deeply involved in the church. His faith began to shift as he studied scripture and biblical scholarship, and issues with early Mormon church history. He shares how learning more about church history changed his understanding of Mormonism and led him into a faith crisis that affected his family, callings, and relationship with church lead",
-   "audioURL": "https://traffic.megaphone.fm/APO1040401719.mp3",
-   "published": "Mon, 17 Aug 2026 18:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores faith crisis and doubt within Mormonism from a personal perspective.",
+   "reason": "Deep dive into suffering, faith, and divine wrestling in the Book of Job.",
    "tradition": "Christian"
   },
   {
@@ -40,7 +27,7 @@
    "published": "Wed, 12 Aug 2026 00:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A rabbi discusses faith, doubt, and Jewish identity beyond belief in God.",
+   "reason": "Conversation about Jewish identity, belief, and doubt in God.",
    "tradition": "Jewish"
   },
   {
@@ -53,8 +40,21 @@
    "published": "Mon, 17 Aug 2026 15:27:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/6c/4a/2a6c4a61-4ae0-809b-ca09-ce2adede4cef/mza_13635592988277147456.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Philosopher discusses consciousness and alien minds, engaging with deep questions.",
+   "reason": "Philosophical and scientific discussion on consciousness and alien minds.",
    "tradition": "Secular"
+  },
+  {
+   "id": "4a68a8f8-94dc-4f8f-9322-76f9a10d1d0b",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "Bishop and Stake President Conflict After a Mormon Faith Crisis - Coy Johnston | Ep. 2182",
+   "summary": "Today we sit down with Coy Johnston, a longtime active member of the LDS Church, to explore what it looks like to question Mormonism without completely walking away.Coy grew up in Mesa, Arizona, served a mission in England, became a doctor, and spent his life deeply involved in the church. His faith began to shift as he studied scripture and biblical scholarship, and issues with early Mormon church history. He shares how learning more about church history changed his understanding of Mormonism and led him into a faith crisis that affected his family, callings, and relationship with church lead",
+   "audioURL": "https://traffic.megaphone.fm/APO1040401719.mp3",
+   "published": "Mon, 17 Aug 2026 18:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Shares a faith crisis and questioning within Mormonism without abandoning belief.",
+   "tradition": "Christian"
   },
   {
    "id": "d6866618-d610-11f0-a49b-c31f19cbdde7",
@@ -79,7 +79,7 @@
    "published": "Sun, 16 Aug 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A personal story of addiction and faith transformation centered on spiritual choice.",
+   "reason": "A personal story of addiction and faith transformation involving Jesus.",
    "tradition": "Christian"
   },
   {
@@ -106,6 +106,19 @@
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
    "reason": "Personal story of addiction and recovery touches on suffering and healing but not deeply philosophical.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "02e38fdc-7973-11f1-9b81-ff71e29e03e3",
+   "showID": "https://feeds.megaphone.fm/CNE3630198409",
+   "showTitle": "The Political Scene | The New Yorker",
+   "title": "What Is Ibogaine and Why Is Trump Talking About It?",
+   "summary": "The journalist Michelle Lhooq joins Tyler Foggatt to discuss her reporting on ibogaine, a psychedelic that has recently been embraced by the right—including President Donald Trump. They talk about the movement to promote research into ibogaine as a treatment for mental illness;&nbsp;the unlikely coalition of drug advocates, Republican politicians, and veterans who helped bring the drug into the political mainstream;&nbsp; and Trump’s executive order expediting the F.D.A. approval of psychedelic therapies. They also discuss how the politics of psychedelics have shifted over the years, and wheth",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/uJwtcKQUPuqBQPfusm59/traffic.megaphone.fm/CNE1736306718.mp3",
+   "published": "Wed, 12 Aug 2026 22:29:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c3/f8/12/c3f81255-45c5-89b1-65d0-a644233cbe4a/mza_2090479420500153719.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discussion of psychedelic treatment and mental illness with some spiritual undertones.",
    "tradition": "Secular"
   }
  ],
@@ -196,7 +209,7 @@
   "gid://art19-episode-locator/V0/fVK2trh40xMFzmKF8E56xhqqzzukXwxmJ5eOkryjdmE": "2026-08-12",
   "257878ac-12ac-4edb-920e-cb687f33b892": "2026-08-12",
   "da15b8cd-d376-4c0c-a790-1e3eb80d5d54": "2026-08-12",
-  "02e38fdc-7973-11f1-9b81-ff71e29e03e3": "2026-08-15",
+  "02e38fdc-7973-11f1-9b81-ff71e29e03e3": "2026-08-19",
   "ddad00eb-0b80-408d-a77e-a5962b9f23de": "2026-08-17",
   "tbrdeepdive.podbean.com/47e9ec48-48ce-3d1b-9fb1-0185acb9fa15": "2026-08-13",
   "5b727ca2-967a-11f1-bf4a-672ed2c6e43d": "2026-08-13",
