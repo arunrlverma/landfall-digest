@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-19T19:31:00.903002+00:00",
+ "generatedAt": "2026-08-19T20:34:42.870845+00:00",
  "showsScanned": 400,
  "candidates": 56,
  "picks": [
@@ -13,9 +13,22 @@
    "audioURL": "https://mcdn.podbean.com/mf/web/v4zimcb47k52qfhd/Job_full_audio_enhanced98zzp.mp3",
    "published": "Wed, 12 Aug 2026 20:33:04 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Comprehensive study of Job on suffering, faith, and divine revelation.",
+   "rating": 10,
+   "reason": "Comprehensive study of Job on suffering, faith, and divine wrestling.",
    "tradition": "Christian"
+  },
+  {
+   "id": "8f3e966a-3a71-4092-9b8b-e8dc82968913",
+   "showID": "https://feeds.libsyn.com/570160/rss",
+   "showTitle": "10% Happier with Dan Harris",
+   "title": "You Can Stop Fixing Yourself: Buddhist Advice on Boundaries, Rituals, and Dropping Your Self-Aggression | Susan Piver",
+   "summary": "Plus: Why you're a \"mystic\" even though you don't know it, how to find the \"magic\" in meditation, and the power of simple apologies (and cleaning the dishes). Susan Piver is a 30 year student of Tibetan Buddhism, New York Times bestselling author, and founder of The Open Heart Project, an online meditation community with close to 20,000 members. Her latest book is  Inexplicable Magic: Meditation for Mystics.  In this episode we talk about:  Why meditation's real payoff can't be explained The crucial difference between mindfulness and awareness Why you can't think your way into oneness The seve",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/05620661-2103-4fe0-9ab9-92bfc4d9cf22/260812_TPH_SusanPiver_Master_AudioVersion_v2.mp3?dest-id=4933335",
+   "published": "Wed, 19 Aug 2026 07:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Offers Buddhist insights on meditation, boundaries, and self-acceptance with depth and nuance.",
+   "tradition": "Buddhist"
   },
   {
    "id": "4a68a8f8-94dc-4f8f-9322-76f9a10d1d0b",
@@ -27,7 +40,7 @@
    "published": "Mon, 17 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares a Mormon faith crisis and nuanced questioning of belief.",
+   "reason": "Shares a nuanced faith crisis and evolving belief within Mormonism.",
    "tradition": "Christian"
   },
   {
@@ -40,20 +53,33 @@
    "published": "Wed, 12 Aug 2026 00:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A rabbi discusses faith, doubt, and identity in a complex modern context.",
+   "reason": "Conversation on faith, doubt, identity, and belief without God.",
    "tradition": "Jewish"
   },
   {
-   "id": "8f3e966a-3a71-4092-9b8b-e8dc82968913",
-   "showID": "https://feeds.libsyn.com/570160/rss",
-   "showTitle": "10% Happier with Dan Harris",
-   "title": "You Can Stop Fixing Yourself: Buddhist Advice on Boundaries, Rituals, and Dropping Your Self-Aggression | Susan Piver",
-   "summary": "Plus: Why you're a \"mystic\" even though you don't know it, how to find the \"magic\" in meditation, and the power of simple apologies (and cleaning the dishes). Susan Piver is a 30 year student of Tibetan Buddhism, New York Times bestselling author, and founder of The Open Heart Project, an online meditation community with close to 20,000 members. Her latest book is  Inexplicable Magic: Meditation for Mystics.  In this episode we talk about:  Why meditation's real payoff can't be explained The crucial difference between mindfulness and awareness Why you can't think your way into oneness The seve",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/05620661-2103-4fe0-9ab9-92bfc4d9cf22/260812_TPH_SusanPiver_Master_AudioVersion_v2.mp3?dest-id=4933335",
-   "published": "Wed, 19 Aug 2026 07:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Offers Buddhist insights on meditation, boundaries, and self-acceptance with depth.",
+   "id": "0d56870b-6ce2-42fd-be40-aac9ce0ed188",
+   "showID": "https://rss.wbur.org/onpoint/podcast",
+   "showTitle": "On Point with Meghna Chakrabarti",
+   "title": "Brainwaves: Are you in there?",
+   "summary": "Consciousness is how we are able to feel, dream and imagine. And yet -- scientists haven't figured out how consciousness definitively works. What we know, what we don’t and what that tells us about our brains.\n\n***\nThank you for listening. Help power On Point by making a donation here: wbur.org/giveonpoint",
+   "audioURL": "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR1977358884.mp3",
+   "published": "Tue, 18 Aug 2026 16:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Serious scientific discussion on consciousness and what it reveals about the mind.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "6a7b3e941549db32d4316af7",
+   "showID": "https://feeds.acast.com/public/shows/69ca82d28fc1c62479fa987b",
+   "showTitle": "Oprah's Super Soul",
+   "title": "Jon Kabat-Zinn: Mindfulness 101",
+   "summary": "This episode is a re-release; it originally aired on April 12, 2015. With the demands of modern times, it can be difficult to live a life that feels truly balanced. Jon Kabat-Zinn, author and professor emeritus of medicine, says mindfulness can be a vital tool in cutting through the noise of daily life. Jon, the founding executive director of the Center for Mindfulness in Medicine, Health Care, and Society at the University of Massachusetts Medical School, offers an introduction to the practice of mindfulness and reveals how it can be used to help manage stress, anxiety, pain and chronic illne",
+   "audioURL": "https://sphinx.acast.com/p/open/s/69ca82d28fc1c62479fa987b/e/6a7b3e941549db32d4316af7/media.mp3",
+   "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/7a/a6/dd/7aa6ddb9-ba7c-e7df-fd29-a8e875be8871/mza_5854921686815900498.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Introduction to mindfulness as a tool for living a balanced life and inner awareness.",
    "tradition": "Buddhist"
   },
   {
@@ -66,7 +92,7 @@
    "published": "Mon, 17 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses Stoicism's relevance to modern life and distraction.",
+   "reason": "Discusses Stoicism's relevance today and its ethical teachings.",
    "tradition": "Stoic"
   },
   {
@@ -79,7 +105,7 @@
    "published": "Tue, 18 Aug 2026 22:02:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A devotional talk on worth, love, and peace from a Christian leader.",
+   "reason": "A devotional on worth and divine love beyond achievement.",
    "tradition": "Christian"
   },
   {
@@ -92,8 +118,34 @@
    "published": "Mon, 17 Aug 2026 15:27:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/6c/4a/2a6c4a61-4ae0-809b-ca09-ce2adede4cef/mza_13635592988277147456.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Scientist discusses consciousness and alien minds, touching on deep questions.",
+   "reason": "Scientist discusses alien minds and consciousness in nonhuman life.",
    "tradition": "Secular"
+  },
+  {
+   "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "PARIS JACKSON: “No Intervention Could Have Gotten Me Sober”",
+   "summary": "Musician and artist Paris Jackson joins Jay for an extraordinarily raw, courageous, and deeply honest conversation on addiction, recovery, and the messy, non-linear journey of healing. Paris reflects on her unconventional childhood, the chronic loneliness that shadowed her early years, and the dark reality of substance abuse that nearly cost her her life and her voice. She opens up about the trauma of adolescent rehab centers, surviving severe mental health crises, and why true recovery requires moving beyond symptom-focused treatment to embrace holistic health, self-grace, and spiritual surre",
+   "audioURL": "https://traffic.megaphone.fm/GLT2253684611.mp3",
+   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Raw conversation on addiction, recovery, and healing with reflections on suffering.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/EtIdiv-1ShmB7mj0_gP8rq_G0NtAo7MocGGM-Cg7WcM",
+   "showID": "https://rss.art19.com/the-telepathy-tapes",
+   "showTitle": "The Telepathy Tapes",
+   "title": "S2E46: The Languages of Intuition",
+   "summary": "What if intuition isn’t a rare gift, but a capacity we all possess in different ways?This week, Ky sits down with intuitive teacher Anna Naturalista, who says her own psychic experiences began in early childhood and were encouraged rather than dismissed by the family and spiritual traditions around her.Anna introduces what she calls the six languages of intuition. From clairvoyance and clairaudience to the lesser-known experiences of intuitive knowing, feeling, taste, and smell - and shares practical ways she believes we can become more aware of the signals already showing up in our lives.Toge",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/69befa29-d112-4311-b7ba-87d4d24361b9.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Wed, 19 Aug 2026 07:03:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores intuition as a universal capacity with spiritual and experiential insights.",
+   "tradition": "Interfaith"
   },
   {
    "id": "efe2d212-9b4b-11f1-b48e-935d4d44c329",
@@ -105,7 +157,20 @@
    "published": "Tue, 18 Aug 2026 21:39:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/f7/b3/4bf7b3d3-814e-e815-932d-cf11d4836dd6/mza_7969612942427696765.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Engages with faith, AI, and the soul, addressing belief and doubt in a cultural context.",
+   "reason": "Conversation on faith, AI, and the soul with a focus on belief and doubt.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/Dsg17Pkzi_guP_0aF87Ich-AvpX84gMYOLCwikxGLXQ",
+   "showID": "https://rss.art19.com/the-exorcist-files",
+   "showTitle": "The Exorcist Files",
+   "title": "Spiritual Authority, Purgatory and Praying Against The Demonic",
+   "summary": "\"Don't try to be an on the spot exorcist\". In a new interview of Vault questions, Father Martins shines some light on the role of spiritual authority, how to trust in God with our finances, and whether entire locations could experience genrational cursing.Thank you to our sponsors for today's episodeExodus90- Men, if you want to grow closer to God, then sign up for their St. Michael's Lent Challenge today. It's not too late! https://exodus90.com/exfilesCowboy Colostrum- Get 25% Off Cowboy Colostrum with code EXFILES at https://www.cowboycolostrum.com/EXFILES.Magnesium, multiplied. 10 forms for",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/p687916/rss.art19.com/episodes/700d16d7-5883-488d-8ff6-0a2a73f7e97a.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Wed, 19 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Talks about spiritual authority and demonic forces, more religious practice than philosophy.",
    "tradition": "Christian"
   },
   {
@@ -118,20 +183,20 @@
    "published": "Mon, 17 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores baptism and Spirit filling, mostly doctrinal and practical Christian teaching.",
+   "reason": "Explores baptism and Spirit filling with some ethical implications.",
    "tradition": "Christian"
   },
   {
-   "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
+   "id": "a34d4860-95ec-11f1-a6a6-c78c9c5dc2a4",
    "showID": "https://feeds.megaphone.fm/on-purpose",
    "showTitle": "On Purpose with Jay Shetty",
-   "title": "PARIS JACKSON: “No Intervention Could Have Gotten Me Sober”",
-   "summary": "Musician and artist Paris Jackson joins Jay for an extraordinarily raw, courageous, and deeply honest conversation on addiction, recovery, and the messy, non-linear journey of healing. Paris reflects on her unconventional childhood, the chronic loneliness that shadowed her early years, and the dark reality of substance abuse that nearly cost her her life and her voice. She opens up about the trauma of adolescent rehab centers, surviving severe mental health crises, and why true recovery requires moving beyond symptom-focused treatment to embrace holistic health, self-grace, and spiritual surre",
-   "audioURL": "https://traffic.megaphone.fm/GLT2253684611.mp3",
-   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
+   "title": "Jim Curtis: The Secret to Stop Self-Sabotage",
+   "summary": "Jay sits down with transformational coach Jim Curtis, author of The Book of Possibility, to unpack how our subconscious beliefs, many formed before age seven, quietly shape our careers, relationships, and sense of what we think we deserve. Jim breaks down his Release, Align, Become framework, walks through the four core childhood wounds behind our biggest triggers, and shares practical tools for anxiety and self-doubt, ultimately revealing who you actually are beneath the programming.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Fre",
+   "audioURL": "https://traffic.megaphone.fm/GLT7117324191.mp3",
+   "published": "Wed, 12 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal story of addiction and recovery touching on suffering and healing.",
+   "reason": "Discusses subconscious beliefs and self-sabotage with practical tools, lightly ethical.",
    "tradition": "Secular"
   }
  ],
@@ -284,6 +349,9 @@
   "6a169d3b-6753-4b80-bead-b4aa0155a669": "2026-08-19",
   "8f3e966a-3a71-4092-9b8b-e8dc82968913": "2026-08-19",
   "gid://art19-episode-locator/V0/EtIdiv-1ShmB7mj0_gP8rq_G0NtAo7MocGGM-Cg7WcM": "2026-08-19",
-  "efe2d212-9b4b-11f1-b48e-935d4d44c329": "2026-08-19"
+  "efe2d212-9b4b-11f1-b48e-935d4d44c329": "2026-08-19",
+  "0d56870b-6ce2-42fd-be40-aac9ce0ed188": "2026-08-19",
+  "6a7b3e941549db32d4316af7": "2026-08-19",
+  "gid://art19-episode-locator/V0/Dsg17Pkzi_guP_0aF87Ich-AvpX84gMYOLCwikxGLXQ": "2026-08-19"
  }
 }
