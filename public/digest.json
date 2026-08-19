@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-19T20:34:42.870845+00:00",
+ "generatedAt": "2026-08-19T21:30:27.118606+00:00",
  "showsScanned": 400,
  "candidates": 56,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Wed, 12 Aug 2026 20:33:04 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 10,
-   "reason": "Comprehensive study of Job on suffering, faith, and divine wrestling.",
+   "reason": "Deep dive into suffering, faith crisis, and divine revelation in Job.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Wed, 19 Aug 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Offers Buddhist insights on meditation, boundaries, and self-acceptance with depth and nuance.",
+   "reason": "Offers Buddhist insights on meditation, self-acceptance, and mystical experience.",
    "tradition": "Buddhist"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Mon, 17 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares a nuanced faith crisis and evolving belief within Mormonism.",
+   "reason": "Shares a Mormon faith crisis and nuanced questioning of belief.",
    "tradition": "Christian"
   },
   {
@@ -53,8 +53,21 @@
    "published": "Wed, 12 Aug 2026 00:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Conversation on faith, doubt, identity, and belief without God.",
+   "reason": "A rabbi discusses faith, doubt, and identity after trauma, engaging deep religious questions.",
    "tradition": "Jewish"
+  },
+  {
+   "id": "fc44fac2-974e-11f1-b6f4-13c5730757b2",
+   "showID": "https://feeds.megaphone.fm/TOE4643226064",
+   "showTitle": "Theories of Everything with Curt Jaimungal",
+   "title": "Peter Godfrey-Smith: This Scientist Found Earth’s “Alien” Minds",
+   "summary": "SPONSORS:\n- Take Cheers Restore after your last drink or before going to bed and wake up feeling at least 50% better — or your money back. For a limited time our listeners are getting 20% off their entire order at https://cheershealth.com/TOE\n- I personally subscribe to The Economist. TOE listeners get 35% off the annual subscription. No other podcast has this! https://economist.com/TOE\n\nPeter Godfrey-Smith, professor at the University of Sydney and author of Other Minds: The Octopus and the Deep Origins of Consciousness, joins to explain why he thinks meeting an octopus is the closest we'll g",
+   "audioURL": "https://s.gum.fm/s-62d83916a854b1cc0031878d/pscrb.fm/rss/p/traffic.megaphone.fm/TEMI4996650257.mp3",
+   "published": "Mon, 17 Aug 2026 15:27:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/6c/4a/2a6c4a61-4ae0-809b-ca09-ce2adede4cef/mza_13635592988277147456.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Scientist discusses consciousness and alien minds, probing questions of mind and otherness.",
+   "tradition": "Secular"
   },
   {
    "id": "0d56870b-6ce2-42fd-be40-aac9ce0ed188",
@@ -66,7 +79,7 @@
    "published": "Tue, 18 Aug 2026 16:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Serious scientific discussion on consciousness and what it reveals about the mind.",
+   "reason": "Explores scientific and philosophical questions about consciousness and self-awareness.",
    "tradition": "Secular"
   },
   {
@@ -79,7 +92,7 @@
    "published": "Wed, 19 Aug 2026 07:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/7a/a6/dd/7aa6ddb9-ba7c-e7df-fd29-a8e875be8871/mza_5854921686815900498.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Introduction to mindfulness as a tool for living a balanced life and inner awareness.",
+   "reason": "Offers a foundational introduction to mindfulness as a tool for inner life and balance.",
    "tradition": "Buddhist"
   },
   {
@@ -92,7 +105,7 @@
    "published": "Mon, 17 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses Stoicism's relevance today and its ethical teachings.",
+   "reason": "Discusses Stoicism's relevance to meaning and distraction today.",
    "tradition": "Stoic"
   },
   {
@@ -105,21 +118,8 @@
    "published": "Tue, 18 Aug 2026 22:02:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A devotional on worth and divine love beyond achievement.",
+   "reason": "A devotional on worth, love, and rest that addresses meaning and self-understanding.",
    "tradition": "Christian"
-  },
-  {
-   "id": "fc44fac2-974e-11f1-b6f4-13c5730757b2",
-   "showID": "https://feeds.megaphone.fm/TOE4643226064",
-   "showTitle": "Theories of Everything with Curt Jaimungal",
-   "title": "Peter Godfrey-Smith: This Scientist Found Earth’s “Alien” Minds",
-   "summary": "SPONSORS:\n- Take Cheers Restore after your last drink or before going to bed and wake up feeling at least 50% better — or your money back. For a limited time our listeners are getting 20% off their entire order at https://cheershealth.com/TOE\n- I personally subscribe to The Economist. TOE listeners get 35% off the annual subscription. No other podcast has this! https://economist.com/TOE\n\nPeter Godfrey-Smith, professor at the University of Sydney and author of Other Minds: The Octopus and the Deep Origins of Consciousness, joins to explain why he thinks meeting an octopus is the closest we'll g",
-   "audioURL": "https://s.gum.fm/s-62d83916a854b1cc0031878d/pscrb.fm/rss/p/traffic.megaphone.fm/TEMI4996650257.mp3",
-   "published": "Mon, 17 Aug 2026 15:27:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/6c/4a/2a6c4a61-4ae0-809b-ca09-ce2adede4cef/mza_13635592988277147456.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Scientist discusses alien minds and consciousness in nonhuman life.",
-   "tradition": "Secular"
   },
   {
    "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
@@ -131,7 +131,7 @@
    "published": "Mon, 17 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Raw conversation on addiction, recovery, and healing with reflections on suffering.",
+   "reason": "Raw conversation on addiction, recovery, and healing with reflections on suffering and self.",
    "tradition": "Secular"
   },
   {
@@ -144,7 +144,7 @@
    "published": "Wed, 19 Aug 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores intuition as a universal capacity with spiritual and experiential insights.",
+   "reason": "Explores intuition as a universal capacity, discussing spiritual experience and inner knowing.",
    "tradition": "Interfaith"
   },
   {
@@ -157,7 +157,7 @@
    "published": "Tue, 18 Aug 2026 21:39:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/f7/b3/4bf7b3d3-814e-e815-932d-cf11d4836dd6/mza_7969612942427696765.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Conversation on faith, AI, and the soul with a focus on belief and doubt.",
+   "reason": "Engages seriously with faith, AI, and the soul, touching on ultimate questions.",
    "tradition": "Christian"
   },
   {
@@ -170,7 +170,7 @@
    "published": "Wed, 19 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Talks about spiritual authority and demonic forces, more religious practice than philosophy.",
+   "reason": "Covers spiritual authority and demonic topics with a Christian lens.",
    "tradition": "Christian"
   },
   {
@@ -183,7 +183,7 @@
    "published": "Mon, 17 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores baptism and Spirit filling with some ethical implications.",
+   "reason": "Explains baptism of the Holy Spirit and faith, with some ethical and spiritual content.",
    "tradition": "Christian"
   },
   {
@@ -196,7 +196,7 @@
    "published": "Wed, 12 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses subconscious beliefs and self-sabotage with practical tools, lightly ethical.",
+   "reason": "Discusses subconscious beliefs and self-sabotage with practical tools, lightly touching ethics.",
    "tradition": "Secular"
   }
  ],
