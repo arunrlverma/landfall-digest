@@ -1,22 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-08-19T01:36:01.858896+00:00",
+ "generatedAt": "2026-08-19T03:02:40.546036+00:00",
  "showsScanned": 400,
  "candidates": 51,
  "picks": [
-  {
-   "id": "a34d4860-95ec-11f1-a6a6-c78c9c5dc2a4",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "Jim Curtis: The Secret to Stop Self-Sabotage",
-   "summary": "Jay sits down with transformational coach Jim Curtis, author of The Book of Possibility, to unpack how our subconscious beliefs, many formed before age seven, quietly shape our careers, relationships, and sense of what we think we deserve. Jim breaks down his Release, Align, Become framework, walks through the four core childhood wounds behind our biggest triggers, and shares practical tools for anxiety and self-doubt, ultimately revealing who you actually are beneath the programming.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Fre",
-   "audioURL": "https://traffic.megaphone.fm/GLT7117324191.mp3",
-   "published": "Wed, 12 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses subconscious beliefs and self-sabotage with some ethical and psychological insights.",
-   "tradition": "Secular"
-  },
   {
    "id": "unshaken.podbean.com/58552b92-8191-3251-b417-e753cb4b2752",
    "showID": "https://feed.podbean.com/unshaken/feed.xml",
@@ -27,7 +14,7 @@
    "published": "Wed, 12 Aug 2026 20:33:04 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep dive into suffering, faith, and divine wrestling in the Book of Job.",
+   "reason": "Deep dive into suffering and faith wrestling in the Book of Job.",
    "tradition": "Christian"
   },
   {
@@ -40,7 +27,7 @@
    "published": "Mon, 17 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores faith crisis and doubt within Mormonism with nuance and depth.",
+   "reason": "Explores faith crisis and doubt within Mormonism from a personal perspective.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +40,7 @@
    "published": "Wed, 12 Aug 2026 00:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Conversation about Jewish identity, belief, and doubt after trauma.",
+   "reason": "A rabbi discusses faith, doubt, and Jewish identity beyond belief in God.",
    "tradition": "Jewish"
   },
   {
@@ -66,7 +53,7 @@
    "published": "Mon, 17 Aug 2026 15:27:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/6c/4a/2a6c4a61-4ae0-809b-ca09-ce2adede4cef/mza_13635592988277147456.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Philosophical discussion on consciousness and alien minds.",
+   "reason": "Philosopher discusses consciousness and alien minds, engaging with deep questions.",
    "tradition": "Secular"
   },
   {
@@ -79,7 +66,7 @@
    "published": "Mon, 17 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses Stoicism's relevance today and its appeal in chaotic times.",
+   "reason": "Discusses Stoicism's relevance today and its appeal to modern seekers.",
    "tradition": "Stoic"
   },
   {
@@ -92,7 +79,7 @@
    "published": "Sun, 16 Aug 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A personal story of addiction and spiritual transformation involving Jesus.",
+   "reason": "A personal story of addiction and faith transformation centered on spiritual choice.",
    "tradition": "Christian"
   },
   {
@@ -105,8 +92,21 @@
    "published": "Mon, 17 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discussion on baptism of the Holy Spirit and Christian faith with ethical implications.",
+   "reason": "Detailed Christian theological discussion on baptism and spiritual transformation.",
    "tradition": "Christian"
+  },
+  {
+   "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "PARIS JACKSON: “No Intervention Could Have Gotten Me Sober”",
+   "summary": "Musician and artist Paris Jackson joins Jay for an extraordinarily raw, courageous, and deeply honest conversation on addiction, recovery, and the messy, non-linear journey of healing. Paris reflects on her unconventional childhood, the chronic loneliness that shadowed her early years, and the dark reality of substance abuse that nearly cost her her life and her voice. She opens up about the trauma of adolescent rehab centers, surviving severe mental health crises, and why true recovery requires moving beyond symptom-focused treatment to embrace holistic health, self-grace, and spiritual surre",
+   "audioURL": "https://traffic.megaphone.fm/GLT2253684611.mp3",
+   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Personal story of addiction and recovery touches on suffering and healing but not deeply philosophical.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -231,7 +231,7 @@
   "https://api.spreaker.com/episode/73067329": "2026-08-16",
   "coe22.podbean.com/e6f6bf13-3da4-30e1-bbb8-ce6a461dc81a": "2026-08-18",
   "c1e443f9-3911-417a-ae18-f7c259760ba1": "2026-08-19",
-  "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f": "2026-08-17",
+  "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f": "2026-08-19",
   "gid://art19-episode-locator/V0/xGYlwHlw23B60xWnet9QpwFEjilXIwuJ-rP28CxhANA": "2026-08-17",
   "gid://art19-episode-locator/V0/wunOMAskfMlXmwFJnoXSXM3Y0oy_nsVN31dox6go5xk": "2026-08-17",
   "cacd03c8-3ee9-4423-94fe-c90ff04adff7": "2026-08-17",
