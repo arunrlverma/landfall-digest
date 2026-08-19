@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-19T18:42:23.036472+00:00",
+ "generatedAt": "2026-08-19T19:31:00.903002+00:00",
  "showsScanned": 400,
- "candidates": 55,
+ "candidates": 56,
  "picks": [
   {
    "id": "unshaken.podbean.com/58552b92-8191-3251-b417-e753cb4b2752",
@@ -13,22 +13,9 @@
    "audioURL": "https://mcdn.podbean.com/mf/web/v4zimcb47k52qfhd/Job_full_audio_enhanced98zzp.mp3",
    "published": "Wed, 12 Aug 2026 20:33:04 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
-   "rating": 10,
-   "reason": "Deep dive into the Book of Job on suffering, faith, and divine revelation.",
+   "rating": 9,
+   "reason": "Comprehensive study of Job on suffering, faith, and divine revelation.",
    "tradition": "Christian"
-  },
-  {
-   "id": "8f3e966a-3a71-4092-9b8b-e8dc82968913",
-   "showID": "https://feeds.libsyn.com/570160/rss",
-   "showTitle": "10% Happier with Dan Harris",
-   "title": "You Can Stop Fixing Yourself: Buddhist Advice on Boundaries, Rituals, and Dropping Your Self-Aggression | Susan Piver",
-   "summary": "Plus: Why you're a \"mystic\" even though you don't know it, how to find the \"magic\" in meditation, and the power of simple apologies (and cleaning the dishes). Susan Piver is a 30 year student of Tibetan Buddhism, New York Times bestselling author, and founder of The Open Heart Project, an online meditation community with close to 20,000 members. Her latest book is  Inexplicable Magic: Meditation for Mystics.  In this episode we talk about:  Why meditation's real payoff can't be explained The crucial difference between mindfulness and awareness Why you can't think your way into oneness The seve",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/05620661-2103-4fe0-9ab9-92bfc4d9cf22/260812_TPH_SusanPiver_Master_AudioVersion_v2.mp3?dest-id=4933335",
-   "published": "Wed, 19 Aug 2026 07:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Offers Buddhist insights on meditation, self-acceptance, and mystical experience.",
-   "tradition": "Buddhist"
   },
   {
    "id": "4a68a8f8-94dc-4f8f-9322-76f9a10d1d0b",
@@ -40,7 +27,7 @@
    "published": "Mon, 17 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores faith crisis and doubt within Mormonism with personal narrative.",
+   "reason": "Shares a Mormon faith crisis and nuanced questioning of belief.",
    "tradition": "Christian"
   },
   {
@@ -57,17 +44,17 @@
    "tradition": "Jewish"
   },
   {
-   "id": "fc44fac2-974e-11f1-b6f4-13c5730757b2",
-   "showID": "https://feeds.megaphone.fm/TOE4643226064",
-   "showTitle": "Theories of Everything with Curt Jaimungal",
-   "title": "Peter Godfrey-Smith: This Scientist Found Earth’s “Alien” Minds",
-   "summary": "SPONSORS:\n- Take Cheers Restore after your last drink or before going to bed and wake up feeling at least 50% better — or your money back. For a limited time our listeners are getting 20% off their entire order at https://cheershealth.com/TOE\n- I personally subscribe to The Economist. TOE listeners get 35% off the annual subscription. No other podcast has this! https://economist.com/TOE\n\nPeter Godfrey-Smith, professor at the University of Sydney and author of Other Minds: The Octopus and the Deep Origins of Consciousness, joins to explain why he thinks meeting an octopus is the closest we'll g",
-   "audioURL": "https://s.gum.fm/s-62d83916a854b1cc0031878d/pscrb.fm/rss/p/traffic.megaphone.fm/TEMI4996650257.mp3",
-   "published": "Mon, 17 Aug 2026 15:27:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/6c/4a/2a6c4a61-4ae0-809b-ca09-ce2adede4cef/mza_13635592988277147456.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Scientist discusses consciousness and alien minds, engaging with questions of mind and life.",
-   "tradition": "Secular"
+   "id": "8f3e966a-3a71-4092-9b8b-e8dc82968913",
+   "showID": "https://feeds.libsyn.com/570160/rss",
+   "showTitle": "10% Happier with Dan Harris",
+   "title": "You Can Stop Fixing Yourself: Buddhist Advice on Boundaries, Rituals, and Dropping Your Self-Aggression | Susan Piver",
+   "summary": "Plus: Why you're a \"mystic\" even though you don't know it, how to find the \"magic\" in meditation, and the power of simple apologies (and cleaning the dishes). Susan Piver is a 30 year student of Tibetan Buddhism, New York Times bestselling author, and founder of The Open Heart Project, an online meditation community with close to 20,000 members. Her latest book is  Inexplicable Magic: Meditation for Mystics.  In this episode we talk about:  Why meditation's real payoff can't be explained The crucial difference between mindfulness and awareness Why you can't think your way into oneness The seve",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/05620661-2103-4fe0-9ab9-92bfc4d9cf22/260812_TPH_SusanPiver_Master_AudioVersion_v2.mp3?dest-id=4933335",
+   "published": "Wed, 19 Aug 2026 07:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Offers Buddhist insights on meditation, boundaries, and self-acceptance with depth.",
+   "tradition": "Buddhist"
   },
   {
    "id": "d6866618-d610-11f0-a49b-c31f19cbdde7",
@@ -96,6 +83,19 @@
    "tradition": "Christian"
   },
   {
+   "id": "fc44fac2-974e-11f1-b6f4-13c5730757b2",
+   "showID": "https://feeds.megaphone.fm/TOE4643226064",
+   "showTitle": "Theories of Everything with Curt Jaimungal",
+   "title": "Peter Godfrey-Smith: This Scientist Found Earth’s “Alien” Minds",
+   "summary": "SPONSORS:\n- Take Cheers Restore after your last drink or before going to bed and wake up feeling at least 50% better — or your money back. For a limited time our listeners are getting 20% off their entire order at https://cheershealth.com/TOE\n- I personally subscribe to The Economist. TOE listeners get 35% off the annual subscription. No other podcast has this! https://economist.com/TOE\n\nPeter Godfrey-Smith, professor at the University of Sydney and author of Other Minds: The Octopus and the Deep Origins of Consciousness, joins to explain why he thinks meeting an octopus is the closest we'll g",
+   "audioURL": "https://s.gum.fm/s-62d83916a854b1cc0031878d/pscrb.fm/rss/p/traffic.megaphone.fm/TEMI4996650257.mp3",
+   "published": "Mon, 17 Aug 2026 15:27:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/6c/4a/2a6c4a61-4ae0-809b-ca09-ce2adede4cef/mza_13635592988277147456.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Scientist discusses consciousness and alien minds, touching on deep questions.",
+   "tradition": "Secular"
+  },
+  {
    "id": "efe2d212-9b4b-11f1-b48e-935d4d44c329",
    "showID": "https://feeds.megaphone.fm/YTYIE3550500328",
    "showTitle": "The Jeremy Boreing Show",
@@ -105,7 +105,7 @@
    "published": "Tue, 18 Aug 2026 21:39:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/f7/b3/4bf7b3d3-814e-e815-932d-cf11d4836dd6/mza_7969612942427696765.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Considers faith, AI, and the soul with a philosophical and theological lens.",
+   "reason": "Engages with faith, AI, and the soul, addressing belief and doubt in a cultural context.",
    "tradition": "Christian"
   },
   {
@@ -118,7 +118,7 @@
    "published": "Mon, 17 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores baptism and spiritual transformation, somewhat focused on faith and inner life.",
+   "reason": "Explores baptism and Spirit filling, mostly doctrinal and practical Christian teaching.",
    "tradition": "Christian"
   },
   {
@@ -131,7 +131,7 @@
    "published": "Mon, 17 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Candid conversation on addiction and recovery touching on suffering and healing.",
+   "reason": "Personal story of addiction and recovery touching on suffering and healing.",
    "tradition": "Secular"
   }
  ],
