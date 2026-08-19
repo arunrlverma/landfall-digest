@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-19T10:34:06.384179+00:00",
+ "generatedAt": "2026-08-19T11:30:19.400188+00:00",
  "showsScanned": 400,
  "candidates": 53,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Wed, 12 Aug 2026 20:33:04 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 10,
-   "reason": "Deep dive into the Book of Job's exploration of suffering and faith.",
+   "reason": "Deep dive into the Book of Job on suffering, faith, and divine revelation.",
    "tradition": "Christian"
   },
   {
@@ -40,21 +40,8 @@
    "published": "Mon, 17 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares a Mormon faith crisis and nuanced questioning of belief.",
+   "reason": "Explores faith crisis and doubt within Mormonism with nuance and personal struggle.",
    "tradition": "Christian"
-  },
-  {
-   "id": "da165428-3b02-4080-b1ce-8dcaa49c02b8",
-   "showID": "https://feeds.simplecast.com/Y8lFbOT4",
-   "showTitle": "Freakonomics Radio",
-   "title": "What if Being a Stranger Is Actually Your Superpower? | Better in Person",
-   "summary": "Angela Buchdahl was the first Asian American to be ordained as a rabbi, and now she is among the most influential rabbis in the world. She and Stephen Dubner talk about boundary-crossing, the aftermath of October 7, and whether you can be a good Jew without believing in God. \n \nIf you'd like to see the video version of Better in Person, you can watch it on YouTube or Apple Podcasts. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-   "audioURL": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/cc38bbcd-b91f-4f7f-9177-966193ee03d0/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&amp;awEpisodeId=cc38bbcd-b91f-4f7f-9177-966193ee03d0&amp;feed=Y8lFbOT4",
-   "published": "Wed, 12 Aug 2026 00:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A rabbi discusses faith, doubt, and Jewish identity beyond belief in God.",
-   "tradition": "Jewish"
   },
   {
    "id": "fc44fac2-974e-11f1-b6f4-13c5730757b2",
@@ -66,7 +53,7 @@
    "published": "Mon, 17 Aug 2026 15:27:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/6c/4a/2a6c4a61-4ae0-809b-ca09-ce2adede4cef/mza_13635592988277147456.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Philosopher explores consciousness and alien minds through octopus study.",
+   "reason": "Scientist discusses consciousness and alien minds, touching on deep questions.",
    "tradition": "Secular"
   },
   {
@@ -79,7 +66,7 @@
    "published": "Mon, 17 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses Stoicism's relevance to meaning and ethics in modern life.",
+   "reason": "Discusses Stoicism's relevance to modern life and ethical living.",
    "tradition": "Stoic"
   },
   {
@@ -92,8 +79,21 @@
    "published": "Tue, 18 Aug 2026 22:02:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A devotional talk on worth, faith, and rest beyond achievements.",
+   "reason": "A devotional on worth, faith, and rest beyond achievements and fear.",
    "tradition": "Christian"
+  },
+  {
+   "id": "da165428-3b02-4080-b1ce-8dcaa49c02b8",
+   "showID": "https://feeds.simplecast.com/Y8lFbOT4",
+   "showTitle": "Freakonomics Radio",
+   "title": "What if Being a Stranger Is Actually Your Superpower? | Better in Person",
+   "summary": "Angela Buchdahl was the first Asian American to be ordained as a rabbi, and now she is among the most influential rabbis in the world. She and Stephen Dubner talk about boundary-crossing, the aftermath of October 7, and whether you can be a good Jew without believing in God. \n \nIf you'd like to see the video version of Better in Person, you can watch it on YouTube or Apple Podcasts. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+   "audioURL": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/cc38bbcd-b91f-4f7f-9177-966193ee03d0/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&amp;awEpisodeId=cc38bbcd-b91f-4f7f-9177-966193ee03d0&amp;feed=Y8lFbOT4",
+   "published": "Wed, 12 Aug 2026 00:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Conversation on Jewish identity, belief, and faith beyond God.",
+   "tradition": "Jewish"
   },
   {
    "id": "gid://art19-episode-locator/V0/EtIdiv-1ShmB7mj0_gP8rq_G0NtAo7MocGGM-Cg7WcM",
@@ -105,7 +105,7 @@
    "published": "Wed, 19 Aug 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores intuition as a universal capacity, discussing inner knowing and spiritual senses.",
+   "reason": "Explores intuition as a universal capacity, discussing inner knowing and perception.",
    "tradition": "Interfaith"
   },
   {
@@ -118,7 +118,7 @@
    "published": "Mon, 17 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discussion on baptism and Spirit, with some ethical and faith elements.",
+   "reason": "Discussion of baptism and Spirit with some faith and courage themes but mostly doctrinal.",
    "tradition": "Christian"
   },
   {
