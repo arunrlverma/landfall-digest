@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-19T13:50:10.968225+00:00",
+ "generatedAt": "2026-08-19T14:39:27.613112+00:00",
  "showsScanned": 400,
- "candidates": 53,
+ "candidates": 52,
  "picks": [
   {
    "id": "unshaken.podbean.com/58552b92-8191-3251-b417-e753cb4b2752",
@@ -14,7 +14,7 @@
    "published": "Wed, 12 Aug 2026 20:33:04 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 10,
-   "reason": "Deep dive into suffering, faith, and divine revelation in the Book of Job.",
+   "reason": "Comprehensive study of Job on suffering, faith, and divine revelation.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Wed, 19 Aug 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Offers Buddhist insights on meditation, self-acceptance, and mystical experience.",
+   "reason": "Offers Buddhist meditation insights on self-acceptance, boundaries, and mystical experience.",
    "tradition": "Buddhist"
   },
   {
@@ -40,21 +40,8 @@
    "published": "Mon, 17 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares a personal faith crisis and questioning within Mormonism.",
+   "reason": "Shares a Mormon's faith crisis and nuanced questioning of church history.",
    "tradition": "Christian"
-  },
-  {
-   "id": "d6866618-d610-11f0-a49b-c31f19cbdde7",
-   "showID": "https://feeds.megaphone.fm/VMP1684715893",
-   "showTitle": "On with Kara Swisher",
-   "title": "Ryan Holiday on the Case for Stoicism in an Age of Distraction",
-   "summary": "While the Greek and Roman philosophy of Stoicism has been around for millennia, author and media strategist Ryan Holiday is bringing its teachings to a modern audience by way of his popular books and his podcast, “The Daily Stoic.” He says ancient writings by the likes of Seneca, Marcus Aurelius, and Epictetus resonate in times that feel especially chaotic. \n\n\n\nKara and Ryan talk about why young men in particular seem drawn to Stoicism and what powerful figures in the worlds of tech, MAGA politics, and the man-o-sphere get wrong about its teachings. He tells Kara their actions frequently run c",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5141333450.mp3",
-   "published": "Mon, 17 Aug 2026 09:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Discusses Stoicism's relevance to modern life and ethical challenges.",
-   "tradition": "Stoic"
   },
   {
    "id": "da165428-3b02-4080-b1ce-8dcaa49c02b8",
@@ -66,21 +53,21 @@
    "published": "Wed, 12 Aug 2026 00:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Conversation on Jewish identity, belief, and doubt after trauma.",
+   "reason": "Conversation on faith, doubt, and Jewish identity beyond belief in God.",
    "tradition": "Jewish"
   },
   {
-   "id": "fc44fac2-974e-11f1-b6f4-13c5730757b2",
-   "showID": "https://feeds.megaphone.fm/TOE4643226064",
-   "showTitle": "Theories of Everything with Curt Jaimungal",
-   "title": "Peter Godfrey-Smith: This Scientist Found Earth’s “Alien” Minds",
-   "summary": "SPONSORS:\n- Take Cheers Restore after your last drink or before going to bed and wake up feeling at least 50% better — or your money back. For a limited time our listeners are getting 20% off their entire order at https://cheershealth.com/TOE\n- I personally subscribe to The Economist. TOE listeners get 35% off the annual subscription. No other podcast has this! https://economist.com/TOE\n\nPeter Godfrey-Smith, professor at the University of Sydney and author of Other Minds: The Octopus and the Deep Origins of Consciousness, joins to explain why he thinks meeting an octopus is the closest we'll g",
-   "audioURL": "https://s.gum.fm/s-62d83916a854b1cc0031878d/pscrb.fm/rss/p/traffic.megaphone.fm/TEMI4996650257.mp3",
-   "published": "Mon, 17 Aug 2026 15:27:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/6c/4a/2a6c4a61-4ae0-809b-ca09-ce2adede4cef/mza_13635592988277147456.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Scientist discusses consciousness and alien minds, probing deep questions of mind.",
-   "tradition": "Secular"
+   "id": "d6866618-d610-11f0-a49b-c31f19cbdde7",
+   "showID": "https://feeds.megaphone.fm/VMP1684715893",
+   "showTitle": "On with Kara Swisher",
+   "title": "Ryan Holiday on the Case for Stoicism in an Age of Distraction",
+   "summary": "While the Greek and Roman philosophy of Stoicism has been around for millennia, author and media strategist Ryan Holiday is bringing its teachings to a modern audience by way of his popular books and his podcast, “The Daily Stoic.” He says ancient writings by the likes of Seneca, Marcus Aurelius, and Epictetus resonate in times that feel especially chaotic. \n\n\n\nKara and Ryan talk about why young men in particular seem drawn to Stoicism and what powerful figures in the worlds of tech, MAGA politics, and the man-o-sphere get wrong about its teachings. He tells Kara their actions frequently run c",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5141333450.mp3",
+   "published": "Mon, 17 Aug 2026 09:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discusses Stoicism's relevance for meaning and focus in modern life.",
+   "tradition": "Stoic"
   },
   {
    "id": "6a169d3b-6753-4b80-bead-b4aa0155a669",
@@ -92,8 +79,34 @@
    "published": "Tue, 18 Aug 2026 22:02:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A devotional talk on worth, faith, and rest beyond achievements.",
+   "reason": "A devotional talk on self-worth and divine love beyond achievements.",
    "tradition": "Christian"
+  },
+  {
+   "id": "fc44fac2-974e-11f1-b6f4-13c5730757b2",
+   "showID": "https://feeds.megaphone.fm/TOE4643226064",
+   "showTitle": "Theories of Everything with Curt Jaimungal",
+   "title": "Peter Godfrey-Smith: This Scientist Found Earth’s “Alien” Minds",
+   "summary": "SPONSORS:\n- Take Cheers Restore after your last drink or before going to bed and wake up feeling at least 50% better — or your money back. For a limited time our listeners are getting 20% off their entire order at https://cheershealth.com/TOE\n- I personally subscribe to The Economist. TOE listeners get 35% off the annual subscription. No other podcast has this! https://economist.com/TOE\n\nPeter Godfrey-Smith, professor at the University of Sydney and author of Other Minds: The Octopus and the Deep Origins of Consciousness, joins to explain why he thinks meeting an octopus is the closest we'll g",
+   "audioURL": "https://s.gum.fm/s-62d83916a854b1cc0031878d/pscrb.fm/rss/p/traffic.megaphone.fm/TEMI4996650257.mp3",
+   "published": "Mon, 17 Aug 2026 15:27:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/6c/4a/2a6c4a61-4ae0-809b-ca09-ce2adede4cef/mza_13635592988277147456.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Scientist discusses consciousness and alien minds with philosophical insight.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "PARIS JACKSON: “No Intervention Could Have Gotten Me Sober”",
+   "summary": "Musician and artist Paris Jackson joins Jay for an extraordinarily raw, courageous, and deeply honest conversation on addiction, recovery, and the messy, non-linear journey of healing. Paris reflects on her unconventional childhood, the chronic loneliness that shadowed her early years, and the dark reality of substance abuse that nearly cost her her life and her voice. She opens up about the trauma of adolescent rehab centers, surviving severe mental health crises, and why true recovery requires moving beyond symptom-focused treatment to embrace holistic health, self-grace, and spiritual surre",
+   "audioURL": "https://traffic.megaphone.fm/GLT2253684611.mp3",
+   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A raw conversation on addiction, recovery, and healing's complexities.",
+   "tradition": "Secular"
   },
   {
    "id": "gid://art19-episode-locator/V0/EtIdiv-1ShmB7mj0_gP8rq_G0NtAo7MocGGM-Cg7WcM",
@@ -105,7 +118,7 @@
    "published": "Wed, 19 Aug 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores intuition as a universal capacity, discussing inner knowing and psychic experiences.",
+   "reason": "Explores intuition as a universal capacity with spiritual and practical insights.",
    "tradition": "Interfaith"
   },
   {
@@ -118,21 +131,8 @@
    "published": "Mon, 17 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discussion of Holy Spirit baptism touches faith but focuses on doctrine and practice.",
+   "reason": "Discussion on baptism and Spirit with some theological depth but mostly doctrinal.",
    "tradition": "Christian"
-  },
-  {
-   "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "PARIS JACKSON: “No Intervention Could Have Gotten Me Sober”",
-   "summary": "Musician and artist Paris Jackson joins Jay for an extraordinarily raw, courageous, and deeply honest conversation on addiction, recovery, and the messy, non-linear journey of healing. Paris reflects on her unconventional childhood, the chronic loneliness that shadowed her early years, and the dark reality of substance abuse that nearly cost her her life and her voice. She opens up about the trauma of adolescent rehab centers, surviving severe mental health crises, and why true recovery requires moving beyond symptom-focused treatment to embrace holistic health, self-grace, and spiritual surre",
-   "audioURL": "https://traffic.megaphone.fm/GLT2253684611.mp3",
-   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "A raw conversation on addiction and healing touches on suffering and recovery.",
-   "tradition": "Secular"
   }
  ],
  "history": {
