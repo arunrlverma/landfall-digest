@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-19T16:38:21.133778+00:00",
+ "generatedAt": "2026-08-19T17:30:57.509641+00:00",
  "showsScanned": 400,
  "candidates": 55,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Wed, 12 Aug 2026 20:33:04 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 10,
-   "reason": "Deep dive into suffering, faith, and divine revelation in the Book of Job.",
+   "reason": "A thorough study of Job addressing suffering, faith, and divine revelation.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Wed, 19 Aug 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Offers Buddhist insights on meditation, boundaries, and self-acceptance.",
+   "reason": "Offers Buddhist insights on meditation, boundaries, and self-acceptance with depth and nuance.",
    "tradition": "Buddhist"
   },
   {
@@ -40,8 +40,21 @@
    "published": "Mon, 17 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares a Mormon faith crisis and evolving understanding of scripture.",
+   "reason": "Shares a nuanced faith crisis and evolving understanding within Mormonism.",
    "tradition": "Christian"
+  },
+  {
+   "id": "d6866618-d610-11f0-a49b-c31f19cbdde7",
+   "showID": "https://feeds.megaphone.fm/VMP1684715893",
+   "showTitle": "On with Kara Swisher",
+   "title": "Ryan Holiday on the Case for Stoicism in an Age of Distraction",
+   "summary": "While the Greek and Roman philosophy of Stoicism has been around for millennia, author and media strategist Ryan Holiday is bringing its teachings to a modern audience by way of his popular books and his podcast, “The Daily Stoic.” He says ancient writings by the likes of Seneca, Marcus Aurelius, and Epictetus resonate in times that feel especially chaotic. \n\n\n\nKara and Ryan talk about why young men in particular seem drawn to Stoicism and what powerful figures in the worlds of tech, MAGA politics, and the man-o-sphere get wrong about its teachings. He tells Kara their actions frequently run c",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5141333450.mp3",
+   "published": "Mon, 17 Aug 2026 09:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Discusses Stoicism's relevance to modern life and distraction with philosophical depth.",
+   "tradition": "Stoic"
   },
   {
    "id": "da165428-3b02-4080-b1ce-8dcaa49c02b8",
@@ -53,21 +66,8 @@
    "published": "Wed, 12 Aug 2026 00:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A rabbi discusses belief, doubt, and identity in Judaism, including faith without God.",
+   "reason": "A rabbi discusses belief, doubt, and identity in Judaism with thoughtful nuance.",
    "tradition": "Jewish"
-  },
-  {
-   "id": "d6866618-d610-11f0-a49b-c31f19cbdde7",
-   "showID": "https://feeds.megaphone.fm/VMP1684715893",
-   "showTitle": "On with Kara Swisher",
-   "title": "Ryan Holiday on the Case for Stoicism in an Age of Distraction",
-   "summary": "While the Greek and Roman philosophy of Stoicism has been around for millennia, author and media strategist Ryan Holiday is bringing its teachings to a modern audience by way of his popular books and his podcast, “The Daily Stoic.” He says ancient writings by the likes of Seneca, Marcus Aurelius, and Epictetus resonate in times that feel especially chaotic. \n\n\n\nKara and Ryan talk about why young men in particular seem drawn to Stoicism and what powerful figures in the worlds of tech, MAGA politics, and the man-o-sphere get wrong about its teachings. He tells Kara their actions frequently run c",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5141333450.mp3",
-   "published": "Mon, 17 Aug 2026 09:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Discusses Stoicism's relevance to modern life and distraction.",
-   "tradition": "Stoic"
   },
   {
    "id": "6a169d3b-6753-4b80-bead-b4aa0155a669",
@@ -79,7 +79,7 @@
    "published": "Tue, 18 Aug 2026 22:02:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Offers reassurance about worth and divine love, addressing meaning and faith.",
+   "reason": "Addresses worth, love, and rest with spiritual depth from a Christian perspective.",
    "tradition": "Christian"
   },
   {
@@ -92,7 +92,20 @@
    "published": "Mon, 17 Aug 2026 15:27:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/6c/4a/2a6c4a61-4ae0-809b-ca09-ce2adede4cef/mza_13635592988277147456.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Scientist discusses alien minds, consciousness, and otherness.",
+   "reason": "Scientist discusses alien minds, consciousness, and the nature of other beings.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "PARIS JACKSON: “No Intervention Could Have Gotten Me Sober”",
+   "summary": "Musician and artist Paris Jackson joins Jay for an extraordinarily raw, courageous, and deeply honest conversation on addiction, recovery, and the messy, non-linear journey of healing. Paris reflects on her unconventional childhood, the chronic loneliness that shadowed her early years, and the dark reality of substance abuse that nearly cost her her life and her voice. She opens up about the trauma of adolescent rehab centers, surviving severe mental health crises, and why true recovery requires moving beyond symptom-focused treatment to embrace holistic health, self-grace, and spiritual surre",
+   "audioURL": "https://traffic.megaphone.fm/GLT2253684611.mp3",
+   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Raw conversation on addiction, recovery, and healing with reflections on suffering.",
    "tradition": "Secular"
   },
   {
@@ -118,20 +131,20 @@
    "published": "Mon, 17 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores baptism and Spirit filling, touching on faith and transformation.",
+   "reason": "Explores baptism and spiritual transformation, with some ethical and faith elements.",
    "tradition": "Christian"
   },
   {
-   "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
+   "id": "a34d4860-95ec-11f1-a6a6-c78c9c5dc2a4",
    "showID": "https://feeds.megaphone.fm/on-purpose",
    "showTitle": "On Purpose with Jay Shetty",
-   "title": "PARIS JACKSON: “No Intervention Could Have Gotten Me Sober”",
-   "summary": "Musician and artist Paris Jackson joins Jay for an extraordinarily raw, courageous, and deeply honest conversation on addiction, recovery, and the messy, non-linear journey of healing. Paris reflects on her unconventional childhood, the chronic loneliness that shadowed her early years, and the dark reality of substance abuse that nearly cost her her life and her voice. She opens up about the trauma of adolescent rehab centers, surviving severe mental health crises, and why true recovery requires moving beyond symptom-focused treatment to embrace holistic health, self-grace, and spiritual surre",
-   "audioURL": "https://traffic.megaphone.fm/GLT2253684611.mp3",
-   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
+   "title": "Jim Curtis: The Secret to Stop Self-Sabotage",
+   "summary": "Jay sits down with transformational coach Jim Curtis, author of The Book of Possibility, to unpack how our subconscious beliefs, many formed before age seven, quietly shape our careers, relationships, and sense of what we think we deserve. Jim breaks down his Release, Align, Become framework, walks through the four core childhood wounds behind our biggest triggers, and shares practical tools for anxiety and self-doubt, ultimately revealing who you actually are beneath the programming.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Fre",
+   "audioURL": "https://traffic.megaphone.fm/GLT7117324191.mp3",
+   "published": "Wed, 12 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal story of addiction and recovery touching on suffering and healing.",
+   "reason": "Discusses subconscious beliefs and self-sabotage with practical tools, lightly ethical.",
    "tradition": "Secular"
   }
  ],
