@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-19T22:29:53.922458+00:00",
+ "generatedAt": "2026-08-19T23:28:04.841868+00:00",
  "showsScanned": 400,
  "candidates": 56,
  "picks": [
@@ -14,8 +14,21 @@
    "published": "Wed, 12 Aug 2026 20:33:04 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 10,
-   "reason": "Deep dive into suffering, faith, and divine revelation in the Book of Job.",
+   "reason": "A thorough study of Job on suffering, faith, and divine revelation.",
    "tradition": "Christian"
+  },
+  {
+   "id": "0d56870b-6ce2-42fd-be40-aac9ce0ed188",
+   "showID": "https://rss.wbur.org/onpoint/podcast",
+   "showTitle": "On Point with Meghna Chakrabarti",
+   "title": "Brainwaves: Are you in there?",
+   "summary": "Consciousness is how we are able to feel, dream and imagine. And yet -- scientists haven't figured out how consciousness definitively works. What we know, what we don’t and what that tells us about our brains.\n\n***\nThank you for listening. Help power On Point by making a donation here: wbur.org/giveonpoint",
+   "audioURL": "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR1977358884.mp3",
+   "published": "Tue, 18 Aug 2026 16:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Explores scientific and philosophical questions about consciousness and self-awareness.",
+   "tradition": "Secular"
   },
   {
    "id": "8f3e966a-3a71-4092-9b8b-e8dc82968913",
@@ -27,7 +40,7 @@
    "published": "Wed, 19 Aug 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Offers Buddhist insights on meditation, self-acceptance, and mystical experience.",
+   "reason": "Offers Buddhist insights on meditation, boundaries, and self-acceptance with depth and nuance.",
    "tradition": "Buddhist"
   },
   {
@@ -40,21 +53,8 @@
    "published": "Mon, 17 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares a Mormon faith crisis and evolving understanding of scripture and history.",
+   "reason": "Shares a Mormon faith crisis and evolving belief with honesty and complexity.",
    "tradition": "Christian"
-  },
-  {
-   "id": "d6866618-d610-11f0-a49b-c31f19cbdde7",
-   "showID": "https://feeds.megaphone.fm/VMP1684715893",
-   "showTitle": "On with Kara Swisher",
-   "title": "Ryan Holiday on the Case for Stoicism in an Age of Distraction",
-   "summary": "While the Greek and Roman philosophy of Stoicism has been around for millennia, author and media strategist Ryan Holiday is bringing its teachings to a modern audience by way of his popular books and his podcast, “The Daily Stoic.” He says ancient writings by the likes of Seneca, Marcus Aurelius, and Epictetus resonate in times that feel especially chaotic. \n\n\n\nKara and Ryan talk about why young men in particular seem drawn to Stoicism and what powerful figures in the worlds of tech, MAGA politics, and the man-o-sphere get wrong about its teachings. He tells Kara their actions frequently run c",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5141333450.mp3",
-   "published": "Mon, 17 Aug 2026 09:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Discusses Stoicism's relevance to meaning and ethics in modern life.",
-   "tradition": "Stoic"
   },
   {
    "id": "da165428-3b02-4080-b1ce-8dcaa49c02b8",
@@ -66,21 +66,8 @@
    "published": "Wed, 12 Aug 2026 00:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Conversation about faith, doubt, identity, and belief in God from a leading rabbi.",
+   "reason": "Conversation about faith, doubt, identity, and being Jewish without belief in God.",
    "tradition": "Jewish"
-  },
-  {
-   "id": "0d56870b-6ce2-42fd-be40-aac9ce0ed188",
-   "showID": "https://rss.wbur.org/onpoint/podcast",
-   "showTitle": "On Point with Meghna Chakrabarti",
-   "title": "Brainwaves: Are you in there?",
-   "summary": "Consciousness is how we are able to feel, dream and imagine. And yet -- scientists haven't figured out how consciousness definitively works. What we know, what we don’t and what that tells us about our brains.\n\n***\nThank you for listening. Help power On Point by making a donation here: wbur.org/giveonpoint",
-   "audioURL": "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR1977358884.mp3",
-   "published": "Tue, 18 Aug 2026 16:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores scientific and philosophical questions about consciousness and self-awareness.",
-   "tradition": "Secular"
   },
   {
    "id": "6a7b3e941549db32d4316af7",
@@ -92,8 +79,21 @@
    "published": "Wed, 19 Aug 2026 07:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/7a/a6/dd/7aa6ddb9-ba7c-e7df-fd29-a8e875be8871/mza_5854921686815900498.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Introduction to mindfulness as a tool for balanced living and inner life.",
+   "reason": "Introduction to mindfulness as a tool for living a balanced life and inner awareness.",
    "tradition": "Buddhist"
+  },
+  {
+   "id": "d6866618-d610-11f0-a49b-c31f19cbdde7",
+   "showID": "https://feeds.megaphone.fm/VMP1684715893",
+   "showTitle": "On with Kara Swisher",
+   "title": "Ryan Holiday on the Case for Stoicism in an Age of Distraction",
+   "summary": "While the Greek and Roman philosophy of Stoicism has been around for millennia, author and media strategist Ryan Holiday is bringing its teachings to a modern audience by way of his popular books and his podcast, “The Daily Stoic.” He says ancient writings by the likes of Seneca, Marcus Aurelius, and Epictetus resonate in times that feel especially chaotic. \n\n\n\nKara and Ryan talk about why young men in particular seem drawn to Stoicism and what powerful figures in the worlds of tech, MAGA politics, and the man-o-sphere get wrong about its teachings. He tells Kara their actions frequently run c",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5141333450.mp3",
+   "published": "Mon, 17 Aug 2026 09:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discusses Stoicism's relevance today, focusing on ethics and inner life.",
+   "tradition": "Stoic"
   },
   {
    "id": "6a169d3b-6753-4b80-bead-b4aa0155a669",
@@ -105,7 +105,7 @@
    "published": "Tue, 18 Aug 2026 22:02:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Devotional talk on worth, love, and peace from a Christian apostle.",
+   "reason": "A devotional talk on worth, love, and peace that addresses meaning and faith.",
    "tradition": "Christian"
   },
   {
@@ -118,7 +118,7 @@
    "published": "Mon, 17 Aug 2026 15:27:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/6c/4a/2a6c4a61-4ae0-809b-ca09-ce2adede4cef/mza_13635592988277147456.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Scientist discusses alien minds and consciousness, touching on deep questions.",
+   "reason": "Scientist discusses alien minds, consciousness, and cognition in nonhuman beings.",
    "tradition": "Secular"
   },
   {
@@ -131,7 +131,7 @@
    "published": "Mon, 17 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Raw conversation on addiction, recovery, and healing with reflections on suffering and growth.",
+   "reason": "Raw conversation on addiction, recovery, and healing with reflections on suffering and self.",
    "tradition": "Secular"
   },
   {
@@ -144,7 +144,7 @@
    "published": "Wed, 19 Aug 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores intuition as a universal capacity, engaging with spiritual experience and perception.",
+   "reason": "Explores intuition as a universal capacity, discussing spiritual experience and perception.",
    "tradition": "Interfaith"
   },
   {
@@ -157,7 +157,7 @@
    "published": "Tue, 18 Aug 2026 21:39:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/f7/b3/4bf7b3d3-814e-e815-932d-cf11d4836dd6/mza_7969612942427696765.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Conversation on faith, AI, and the soul with a Christian perspective.",
+   "reason": "Conversation on faith, AI, and the soul with a focus on belief and doubt.",
    "tradition": "Christian"
   },
   {
@@ -170,7 +170,7 @@
    "published": "Mon, 17 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores baptism and Spirit filling with some ethical and faith implications.",
+   "reason": "Explains Christian views on Spirit baptism, touching on faith but mostly doctrinal.",
    "tradition": "Christian"
   },
   {
@@ -183,7 +183,7 @@
    "published": "Wed, 12 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses subconscious beliefs and self-sabotage with practical tools, lightly touching on identity.",
+   "reason": "Discusses subconscious beliefs and self-sabotage with practical tools, lightly touching ethics.",
    "tradition": "Secular"
   }
  ],
