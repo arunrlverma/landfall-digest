@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-19T08:43:39.538531+00:00",
+ "generatedAt": "2026-08-19T09:39:20.881137+00:00",
  "showsScanned": 400,
  "candidates": 52,
  "picks": [
@@ -13,8 +13,8 @@
    "audioURL": "https://mcdn.podbean.com/mf/web/v4zimcb47k52qfhd/Job_full_audio_enhanced98zzp.mp3",
    "published": "Wed, 12 Aug 2026 20:33:04 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
-   "rating": 10,
-   "reason": "A thorough exploration of suffering and faith through the Book of Job.",
+   "rating": 9,
+   "reason": "In-depth study of Job on suffering, faith, and divine revelation.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Wed, 19 Aug 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Offers Buddhist insights on meditation, boundaries, and self-acceptance.",
+   "reason": "Offers Buddhist insights on meditation, self-acceptance, and mystical experience.",
    "tradition": "Buddhist"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Mon, 17 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares a personal faith crisis and evolving understanding of Mormonism.",
+   "reason": "Shares a Mormon faith crisis and evolving understanding of scripture and history.",
    "tradition": "Christian"
   },
   {
@@ -53,8 +53,21 @@
    "published": "Wed, 12 Aug 2026 00:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A rabbi discusses faith, doubt, and Jewish identity in a contemporary context.",
+   "reason": "A rabbi discusses faith, doubt, and Jewish identity beyond belief in God.",
    "tradition": "Jewish"
+  },
+  {
+   "id": "fc44fac2-974e-11f1-b6f4-13c5730757b2",
+   "showID": "https://feeds.megaphone.fm/TOE4643226064",
+   "showTitle": "Theories of Everything with Curt Jaimungal",
+   "title": "Peter Godfrey-Smith: This Scientist Found Earth’s “Alien” Minds",
+   "summary": "SPONSORS:\n- Take Cheers Restore after your last drink or before going to bed and wake up feeling at least 50% better — or your money back. For a limited time our listeners are getting 20% off their entire order at https://cheershealth.com/TOE\n- I personally subscribe to The Economist. TOE listeners get 35% off the annual subscription. No other podcast has this! https://economist.com/TOE\n\nPeter Godfrey-Smith, professor at the University of Sydney and author of Other Minds: The Octopus and the Deep Origins of Consciousness, joins to explain why he thinks meeting an octopus is the closest we'll g",
+   "audioURL": "https://s.gum.fm/s-62d83916a854b1cc0031878d/pscrb.fm/rss/p/traffic.megaphone.fm/TEMI4996650257.mp3",
+   "published": "Mon, 17 Aug 2026 15:27:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/6c/4a/2a6c4a61-4ae0-809b-ca09-ce2adede4cef/mza_13635592988277147456.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Philosophical scientist explores consciousness and alien minds through octopus cognition.",
+   "tradition": "Secular"
   },
   {
    "id": "d6866618-d610-11f0-a49b-c31f19cbdde7",
@@ -66,7 +79,7 @@
    "published": "Mon, 17 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Introduces Stoicism's relevance to modern life and distraction.",
+   "reason": "Explains Stoicism's relevance today and its ethical teachings.",
    "tradition": "Stoic"
   },
   {
@@ -79,21 +92,8 @@
    "published": "Tue, 18 Aug 2026 22:02:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A devotional talk on self-worth and divine love addressing spiritual meaning and rest.",
+   "reason": "A devotional talk emphasizing self-worth and divine love, addressing spiritual identity and peace.",
    "tradition": "Christian"
-  },
-  {
-   "id": "fc44fac2-974e-11f1-b6f4-13c5730757b2",
-   "showID": "https://feeds.megaphone.fm/TOE4643226064",
-   "showTitle": "Theories of Everything with Curt Jaimungal",
-   "title": "Peter Godfrey-Smith: This Scientist Found Earth’s “Alien” Minds",
-   "summary": "SPONSORS:\n- Take Cheers Restore after your last drink or before going to bed and wake up feeling at least 50% better — or your money back. For a limited time our listeners are getting 20% off their entire order at https://cheershealth.com/TOE\n- I personally subscribe to The Economist. TOE listeners get 35% off the annual subscription. No other podcast has this! https://economist.com/TOE\n\nPeter Godfrey-Smith, professor at the University of Sydney and author of Other Minds: The Octopus and the Deep Origins of Consciousness, joins to explain why he thinks meeting an octopus is the closest we'll g",
-   "audioURL": "https://s.gum.fm/s-62d83916a854b1cc0031878d/pscrb.fm/rss/p/traffic.megaphone.fm/TEMI4996650257.mp3",
-   "published": "Mon, 17 Aug 2026 15:27:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/6c/4a/2a6c4a61-4ae0-809b-ca09-ce2adede4cef/mza_13635592988277147456.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Philosopher discusses consciousness and alien minds, touching on deep questions of mind.",
-   "tradition": "Secular"
   },
   {
    "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
@@ -105,8 +105,8 @@
    "published": "Mon, 17 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A raw conversation on addiction, recovery, and healing with personal faith elements.",
-   "tradition": "Interfaith"
+   "reason": "A raw conversation on addiction, recovery, and healing's difficult journey.",
+   "tradition": "Secular"
   },
   {
    "id": "gid://art19-episode-locator/V0/EtIdiv-1ShmB7mj0_gP8rq_G0NtAo7MocGGM-Cg7WcM",
@@ -122,6 +122,19 @@
    "tradition": "Interfaith"
   },
   {
+   "id": "fa177f20-9999-11f1-9f84-13c49c0a07dc",
+   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
+   "showTitle": "Live Free with Josh Howerton",
+   "title": "Is the BAPTISM of the Holy Spirit a REAL Thing?! (What the Bible ACTUALLY Says) | Live Free with Josh Howerton",
+   "summary": "Pastors Josh, Carlos, and Paul unpack Paul’s words to Timothy in 2 Timothy 1 and trace his transformation from a fearful young leader into a faithful, courageous pastor. They also compare the major Christian views of baptism in the Holy Spirit, explain what changed between the old and new covenants, and discuss why every believer should continually seek the Spirit’s filling.\n\n\n\nIn this episode, you’ll learn:\n\n\n  How Christians should respond to wars, disasters, and uncertainty\n\n  Why fear should never become the controlling force in your decisions\n\n  How Scripture—not feelings—helps you discer",
+   "audioURL": "https://traffic.megaphone.fm/HAEEH6263341021.mp3",
+   "published": "Mon, 17 Aug 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discussion of Holy Spirit baptism with biblical interpretation, touching on faith and courage.",
+   "tradition": "Christian"
+  },
+  {
    "id": "a34d4860-95ec-11f1-a6a6-c78c9c5dc2a4",
    "showID": "https://feeds.megaphone.fm/on-purpose",
    "showTitle": "On Purpose with Jay Shetty",
@@ -131,8 +144,8 @@
    "published": "Wed, 12 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discussion on subconscious beliefs and self-sabotage with practical tools, lightly spiritual.",
-   "tradition": "Interfaith"
+   "reason": "Talk on subconscious beliefs and self-sabotage with practical tools, lightly touching inner life.",
+   "tradition": "Secular"
   }
  ],
  "history": {
