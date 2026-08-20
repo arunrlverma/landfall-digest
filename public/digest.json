@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-20T14:41:25.575614+00:00",
+ "generatedAt": "2026-08-20T15:39:33.144818+00:00",
  "showsScanned": 400,
  "candidates": 54,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Mon, 17 Aug 2026 19:41:53 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores the Psalms as a sacred language for grief, praise, and awe in human experience.",
+   "reason": "Deeply engages with the Psalms as a sacred language for grief, praise, and awe.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Tue, 18 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Examines AI consciousness, identity, and existence with profound existential questions.",
+   "reason": "An AI narrates its existence, raising profound questions about consciousness and identity.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Tue, 18 Aug 2026 17:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/27/6b/55276bd9-c638-2c12-32cc-d4a010c0ddc0/mza_18179661083595555224.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores consciousness and reality from a physicist's perspective, engaging ultimate questions.",
+   "reason": "Explores consciousness and reality from a physicist's perspective on ultimate questions.",
    "tradition": "Secular"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Wed, 12 Aug 2026 16:37:12 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Devotional on enduring trials with Christ, addressing suffering and faith seriously.",
+   "reason": "Devotional on enduring trials with Christ, addressing suffering and faith deeply.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Thu, 20 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Serious discussion on creativity, presence, and uncertainty with some ethical reflection.",
+   "reason": "Talks about creativity, presence, and uncertainty with some philosophical depth.",
    "tradition": "Secular"
   },
   {
@@ -92,7 +92,7 @@
    "published": "Thu, 20 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Guided trauma-informed mindfulness practice addressing stress and resilience.",
+   "reason": "Guided mindful movement practice addressing stress and resilience.",
    "tradition": "Secular"
   },
   {
@@ -105,7 +105,7 @@
    "published": "Thu, 13 Aug 2026 20:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Covers Christian faith through political and personal suffering, but with a current events focus.",
+   "reason": "Talks about Christian faith through suffering and political engagement, with some spiritual reflection.",
    "tradition": "Christian"
   }
  ],
