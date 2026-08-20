@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-20T21:34:19.445471+00:00",
+ "generatedAt": "2026-08-20T22:32:48.263393+00:00",
  "showsScanned": 400,
- "candidates": 58,
+ "candidates": 57,
  "picks": [
   {
    "id": "unshaken.podbean.com/199ff32c-9406-3fa0-ad62-2b845e63d56e",
@@ -27,7 +27,7 @@
    "published": "Tue, 18 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "AI's story raises profound questions about consciousness and identity.",
+   "reason": "AI's self-narrative raises deep questions about consciousness and identity.",
    "tradition": "Secular"
   },
   {
@@ -40,8 +40,8 @@
    "published": "Thu, 20 Aug 2026 16:00:01 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores near-death experiences and what they reveal about life, death, and consciousness.",
-   "tradition": "Interfaith"
+   "reason": "Explores near-death experiences and what they reveal about life and death.",
+   "tradition": "Secular"
   },
   {
    "id": "coe22.podbean.com/e6f6bf13-3da4-30e1-bbb8-ce6a461dc81a",
@@ -66,7 +66,7 @@
    "published": "Thu, 20 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal spiritual awakening and purpose in a changing world.",
+   "reason": "Personal spiritual awakening and purpose connected to healing and change.",
    "tradition": "Interfaith"
   },
   {
@@ -79,34 +79,8 @@
    "published": "Tue, 18 Aug 2026 17:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/27/6b/55276bd9-c638-2c12-32cc-d4a010c0ddc0/mza_18179661083595555224.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A physicist discusses consciousness and reality, engaging with deep questions about existence.",
+   "reason": "Physicist discusses consciousness and reality, engaging with deep questions about existence.",
    "tradition": "Secular"
-  },
-  {
-   "id": "5565a244-9c51-11f1-b8ea-e308145cac46",
-   "showID": "https://feeds.megaphone.fm/hubermanlab",
-   "showTitle": "Huberman Lab",
-   "title": "Essentials: How to Access Your Creativity | Rick Rubin",
-   "summary": "In this Huberman Lab Essentials episode, my guest Rick Rubin, world-renowned music producer and author of The Creative Act: A Way of Being, and I discuss how to access creativity by noticing ideas, trusting your taste and staying fully present with the work. Rick explains the phases of the creative process and how focus, disengagement, self-doubt, deadlines and meditation can support original work. We also explore perception, pro wrestling and why remaining open to uncertainty can help anyone create more authentically.\n\nThank you to our sponsors\n\nAG1: https://drinkag1.com/huberman\n\nLMNT: https",
-   "audioURL": "https://traffic.megaphone.fm/SCIM7816635332.mp3",
-   "published": "Thu, 20 Aug 2026 08:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores creativity, presence, and uncertainty with philosophical and psychological insights.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "28fa0123-1cd1-42f5-85cc-b4a900f0c5b2",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
-   "showTitle": "The Best of Coast to Coast AM",
-   "title": "Episode 304: Tims, Twins & the Afterlife",
-   "summary": "Join Sandra as she brings together medium Tim Southwell, filmmaker Tim Coleman, psychiatrist Dr. Tim Read, and medical twin research to show how our loved ones remain actively present in our lives.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/28fa0123-1cd1-42f5-85cc-b4a900f0c5b2/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
-   "published": "Mon, 17 Aug 2026 14:44:27 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Discusses afterlife and presence of loved ones from a medium and scientific view.",
-   "tradition": "Interfaith"
   },
   {
    "id": "prx_192_a44af6cc-b1a2-416d-9c43-e5c5f11279f7",
@@ -118,20 +92,33 @@
    "published": "Thu, 20 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Guided mindful movement practice to manage stress and build resilience.",
+   "reason": "Guides a trauma-informed mindfulness practice to manage stress and build resilience.",
+   "tradition": "Buddhist"
+  },
+  {
+   "id": "5565a244-9c51-11f1-b8ea-e308145cac46",
+   "showID": "https://feeds.megaphone.fm/hubermanlab",
+   "showTitle": "Huberman Lab",
+   "title": "Essentials: How to Access Your Creativity | Rick Rubin",
+   "summary": "In this Huberman Lab Essentials episode, my guest Rick Rubin, world-renowned music producer and author of The Creative Act: A Way of Being, and I discuss how to access creativity by noticing ideas, trusting your taste and staying fully present with the work. Rick explains the phases of the creative process and how focus, disengagement, self-doubt, deadlines and meditation can support original work. We also explore perception, pro wrestling and why remaining open to uncertainty can help anyone create more authentically.\n\nThank you to our sponsors\n\nAG1: https://drinkag1.com/huberman\n\nLMNT: https",
+   "audioURL": "https://traffic.megaphone.fm/SCIM7816635332.mp3",
+   "published": "Thu, 20 Aug 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores creativity, presence, and uncertainty with some philosophical depth.",
    "tradition": "Secular"
   },
   {
-   "id": "5931ddf0-a1a6-48e6-9b89-e90be38b5990",
-   "showID": "https://mysteriousradiofeed.mysteriousradionetwork.com",
-   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
-   "title": "Haunted: A Paranormal Awakening",
-   "summary": "My special guest is author Julie Coons who's here to discuss the reality of paranormal activity after moving into her brand new home. Get her book Haunted: A Paranormal Awakening from Amazon.For two decades, the spirits left her alone. This is the true story of when they return with something chilling to prove.Julie Coons’s troubling near-death event altered her life forever. After twenty years, she thought she’d escaped the ghosts that clung to her after her out-of-body incident. But when she moves to a new home, she’s horrified to discover the angry entities are back… with a vengeance.As the",
-   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8602296/8602296_2026-08-19-183336.128.mp3?rssID=6605",
-   "published": "Wed, 19 Aug 2026 18:40:33 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
+   "id": "28fa0123-1cd1-42f5-85cc-b4a900f0c5b2",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "Episode 304: Tims, Twins & the Afterlife",
+   "summary": "Join Sandra as she brings together medium Tim Southwell, filmmaker Tim Coleman, psychiatrist Dr. Tim Read, and medical twin research to show how our loved ones remain actively present in our lives.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/28fa0123-1cd1-42f5-85cc-b4a900f0c5b2/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Mon, 17 Aug 2026 14:44:27 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal paranormal experience story touching on death and spirit presence.",
+   "reason": "Considers afterlife and presence of loved ones with mediumship and medical research.",
    "tradition": "Interfaith"
   }
  ],
