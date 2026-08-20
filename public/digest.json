@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-20T04:42:45.342996+00:00",
+ "generatedAt": "2026-08-20T05:36:43.177086+00:00",
  "showsScanned": 400,
  "candidates": 54,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Mon, 17 Aug 2026 19:41:53 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep engagement with the Psalms as sacred language for suffering and faith.",
+   "reason": "Deep engagement with Psalms as sacred language for suffering, praise, and faith.",
    "tradition": "Christian"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Tue, 18 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "AI narrates its existence, exploring consciousness, identity, and loneliness.",
+   "reason": "AI narrates its existence, exploring consciousness, identity, and loneliness deeply.",
    "tradition": "Secular"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Sun, 16 Aug 2026 20:22:54 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines authentic Christian faith beyond ritual and religious appearance.",
+   "reason": "Examines authentic Christian faith as lived obedience beyond religious form.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Wed, 12 Aug 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores consciousness and communication through an unusual neurodivergent case.",
+   "reason": "Shares unusual experiences of consciousness and communication.",
    "tradition": "Secular"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Wed, 19 Aug 2026 07:30:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6a/ca/b3/6acab359-0930-6578-184f-744d9f3ae278/mza_16900717249497875543.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores belief, spirituality, and human evolution from a scientific perspective.",
+   "reason": "Explores belief, spirituality, and human evolution from a scientific and spiritual perspective.",
    "tradition": "Secular"
   },
   {
@@ -92,21 +92,8 @@
    "published": "Tue, 18 Aug 2026 07:30:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6a/ca/b3/6acab359-0930-6578-184f-744d9f3ae278/mza_16900717249497875543.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Same as 9, discussing spirituality and science with evolutionary themes.",
+   "reason": "Same as 9; scientific and spiritual discussion on belief and human change.",
    "tradition": "Secular"
-  },
-  {
-   "id": "b6a11356-3c4b-4c81-9a37-b48e0167137e",
-   "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
-   "showTitle": "BYU Speeches",
-   "title": "To Those Enduring Trials with No End | Jeffrey S. Bednar | July 2026",
-   "summary": "“True disciples endure with Christ through every mortal storm—even those that may never cease in this life.” Jeffrey S. Bednar, associate professor of management at Brigham Young University, delivered this devotional address on July 21, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/b6a11356-3c4b-4c81-9a37-b48e0167137e/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
-   "published": "Wed, 12 Aug 2026 16:37:12 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A devotional talk on enduring suffering with Christ, addressing faith and mortality.",
-   "tradition": "Christian"
   },
   {
    "id": "ba3554e7-4eb7-4e7d-850e-f5933bcf2bda",
@@ -118,8 +105,21 @@
    "published": "Wed, 12 Aug 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Psychologist discusses visualization's role in healing and nervous system regulation.",
+   "reason": "Scientific and psychological insights on visualization for healing and safety.",
    "tradition": "Secular"
+  },
+  {
+   "id": "b6a11356-3c4b-4c81-9a37-b48e0167137e",
+   "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
+   "showTitle": "BYU Speeches",
+   "title": "To Those Enduring Trials with No End | Jeffrey S. Bednar | July 2026",
+   "summary": "“True disciples endure with Christ through every mortal storm—even those that may never cease in this life.” Jeffrey S. Bednar, associate professor of management at Brigham Young University, delivered this devotional address on July 21, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/b6a11356-3c4b-4c81-9a37-b48e0167137e/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
+   "published": "Wed, 12 Aug 2026 16:37:12 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "A devotional talk on enduring trials with Christ, touching on faith and suffering.",
+   "tradition": "Christian"
   },
   {
    "id": "28fa0123-1cd1-42f5-85cc-b4a900f0c5b2",
@@ -131,7 +131,7 @@
    "published": "Mon, 17 Aug 2026 14:44:27 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Mediums and medical research discuss presence of loved ones after death.",
+   "reason": "Examines afterlife presence through mediums and medical research.",
    "tradition": "Interfaith"
   }
  ],
