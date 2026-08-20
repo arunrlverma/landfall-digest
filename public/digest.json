@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-20T11:32:05.077290+00:00",
+ "generatedAt": "2026-08-20T12:58:42.383297+00:00",
  "showsScanned": 400,
  "candidates": 51,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Mon, 17 Aug 2026 19:41:53 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores the Psalms as sacred prayers addressing grief, awe, and faith in God.",
+   "reason": "Explores the Psalms as a sacred language for grief, praise, and awe in a heartfelt way.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +27,20 @@
    "published": "Tue, 18 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "AI narrates its existence, exploring consciousness, identity, and loneliness.",
+   "reason": "AI narrates its existence, raising deep questions about consciousness and identity.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "792ba37c-9a99-11f1-802d-6faff96a5ef8",
+   "showID": "https://feeds.megaphone.fm/GLT1412515089",
+   "showTitle": "The Joe Rogan Experience",
+   "title": "#2541 - Thomas Campbell",
+   "summary": "Thomas Campbell is a physicist, consciousness researcher,&nbsp;and&nbsp;author of the&nbsp;\"My Big TOE\" trilogy.\n\nwww.youtube.com/@twcjr44\n\nwww.my-big-toe.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/rogan or through my promo code ROGAN.\n\n\n\nOrder ALDI on Uber Eats: https://earn.sng.link/A99vk/i2fm/okid\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+   "audioURL": "https://traffic.megaphone.fm/GLT7603949559.mp3",
+   "published": "Tue, 18 Aug 2026 17:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/27/6b/55276bd9-c638-2c12-32cc-d4a010c0ddc0/mza_18179661083595555224.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Physicist discusses consciousness and reality from a scientific and philosophical view.",
    "tradition": "Secular"
   },
   {
@@ -39,7 +52,7 @@
    "audioURL": "https://mcdn.podbean.com/mf/web/qxdmpt6zkfenemds/20260816_922_17b7pdw.mp3",
    "published": "Sun, 16 Aug 2026 20:22:54 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
-   "rating": 8,
+   "rating": 7,
    "reason": "Examines authentic Christian faith through Jesus' actions and teachings in Matthew 21.",
    "tradition": "Christian"
   },
@@ -53,7 +66,7 @@
    "published": "Wed, 12 Aug 2026 16:37:12 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Talk on enduring trials with Christ, addressing suffering and faith.",
+   "reason": "Devotional on enduring suffering with Christ, addressing mortality and faith.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +79,7 @@
    "published": "Thu, 20 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores creativity, presence, and uncertainty with a spiritual artist.",
+   "reason": "Explores creativity, focus, doubt, and presence as aspects of inner life.",
    "tradition": "Secular"
   },
   {
@@ -79,7 +92,7 @@
    "published": "Thu, 13 Aug 2026 20:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal faith story amid political events, with some reflection on suffering.",
+   "reason": "Discussion of faith through political and personal suffering, but mixed with politics.",
    "tradition": "Christian"
   },
   {
@@ -92,20 +105,7 @@
    "published": "Mon, 17 Aug 2026 14:44:27 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses afterlife presence and medical research on twins, blending science and spirituality.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "792ba37c-9a99-11f1-802d-6faff96a5ef8",
-   "showID": "https://feeds.megaphone.fm/GLT1412515089",
-   "showTitle": "The Joe Rogan Experience",
-   "title": "#2541 - Thomas Campbell",
-   "summary": "Thomas Campbell is a physicist, consciousness researcher,&nbsp;and&nbsp;author of the&nbsp;\"My Big TOE\" trilogy.\n\nwww.youtube.com/@twcjr44\n\nwww.my-big-toe.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/rogan or through my promo code ROGAN.\n\n\n\nOrder ALDI on Uber Eats: https://earn.sng.link/A99vk/i2fm/okid\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-   "audioURL": "https://traffic.megaphone.fm/GLT7603949559.mp3",
-   "published": "Tue, 18 Aug 2026 17:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/27/6b/55276bd9-c638-2c12-32cc-d4a010c0ddc0/mza_18179661083595555224.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Physicist explores consciousness and reality from a metaphysical viewpoint.",
+   "reason": "Considers afterlife presence through mediumship and medical research.",
    "tradition": "Secular"
   }
  ],
