@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-20T12:58:42.383297+00:00",
+ "generatedAt": "2026-08-20T13:53:37.534738+00:00",
  "showsScanned": 400,
- "candidates": 51,
+ "candidates": 52,
  "picks": [
   {
    "id": "unshaken.podbean.com/199ff32c-9406-3fa0-ad62-2b845e63d56e",
@@ -14,7 +14,7 @@
    "published": "Mon, 17 Aug 2026 19:41:53 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores the Psalms as a sacred language for grief, praise, and awe in a heartfelt way.",
+   "reason": "Explores the Psalms as sacred prayers addressing suffering, gratitude, and awe.",
    "tradition": "Christian"
   },
   {
@@ -27,20 +27,7 @@
    "published": "Tue, 18 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "AI narrates its existence, raising deep questions about consciousness and identity.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "792ba37c-9a99-11f1-802d-6faff96a5ef8",
-   "showID": "https://feeds.megaphone.fm/GLT1412515089",
-   "showTitle": "The Joe Rogan Experience",
-   "title": "#2541 - Thomas Campbell",
-   "summary": "Thomas Campbell is a physicist, consciousness researcher,&nbsp;and&nbsp;author of the&nbsp;\"My Big TOE\" trilogy.\n\nwww.youtube.com/@twcjr44\n\nwww.my-big-toe.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/rogan or through my promo code ROGAN.\n\n\n\nOrder ALDI on Uber Eats: https://earn.sng.link/A99vk/i2fm/okid\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-   "audioURL": "https://traffic.megaphone.fm/GLT7603949559.mp3",
-   "published": "Tue, 18 Aug 2026 17:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/27/6b/55276bd9-c638-2c12-32cc-d4a010c0ddc0/mza_18179661083595555224.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Physicist discusses consciousness and reality from a scientific and philosophical view.",
+   "reason": "An AI narrates its existence, probing consciousness, identity, and loneliness.",
    "tradition": "Secular"
   },
   {
@@ -52,7 +39,7 @@
    "audioURL": "https://mcdn.podbean.com/mf/web/qxdmpt6zkfenemds/20260816_922_17b7pdw.mp3",
    "published": "Sun, 16 Aug 2026 20:22:54 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
-   "rating": 7,
+   "rating": 8,
    "reason": "Examines authentic Christian faith through Jesus' actions and teachings in Matthew 21.",
    "tradition": "Christian"
   },
@@ -66,8 +53,21 @@
    "published": "Wed, 12 Aug 2026 16:37:12 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Devotional on enduring suffering with Christ, addressing mortality and faith.",
+   "reason": "A talk on enduring suffering with faith and discipleship.",
    "tradition": "Christian"
+  },
+  {
+   "id": "792ba37c-9a99-11f1-802d-6faff96a5ef8",
+   "showID": "https://feeds.megaphone.fm/GLT1412515089",
+   "showTitle": "The Joe Rogan Experience",
+   "title": "#2541 - Thomas Campbell",
+   "summary": "Thomas Campbell is a physicist, consciousness researcher,&nbsp;and&nbsp;author of the&nbsp;\"My Big TOE\" trilogy.\n\nwww.youtube.com/@twcjr44\n\nwww.my-big-toe.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/rogan or through my promo code ROGAN.\n\n\n\nOrder ALDI on Uber Eats: https://earn.sng.link/A99vk/i2fm/okid\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+   "audioURL": "https://traffic.megaphone.fm/GLT7603949559.mp3",
+   "published": "Tue, 18 Aug 2026 17:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/27/6b/55276bd9-c638-2c12-32cc-d4a010c0ddc0/mza_18179661083595555224.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A physicist discusses consciousness and reality, engaging with deep questions about existence.",
+   "tradition": "Secular"
   },
   {
    "id": "5565a244-9c51-11f1-b8ea-e308145cac46",
@@ -79,7 +79,7 @@
    "published": "Thu, 20 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores creativity, focus, doubt, and presence as aspects of inner life.",
+   "reason": "Explores creativity, presence, and uncertainty, relevant to inner life and meaning.",
    "tradition": "Secular"
   },
   {
@@ -92,8 +92,21 @@
    "published": "Thu, 13 Aug 2026 20:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discussion of faith through political and personal suffering, but mixed with politics.",
+   "reason": "Personal faith through suffering discussed but mixed with political campaign topics.",
    "tradition": "Christian"
+  },
+  {
+   "id": "4e64ea3c-7b59-46ef-a6d7-7105b6942a40",
+   "showID": "https://anchor.fm/s/10c2267dc/podcast/rss",
+   "showTitle": "The Eric Metaxas Show",
+   "title": "#183 - Gad Saad",
+   "summary": "Today On The Eric Metaxas Show, evolutionary behavioral scientist Gad Saad joins Eric to discuss his new book Suicidal Empathy: Dying To Be Kind. Saad explains why empathy is necessary but can become destructive when it is detached from reality, and how cultural relativism, postmodernism, open-border thinking, elite “luxury beliefs,” and civilizational self-doubt are weakening the West. He also explains why he remains both optimistic and deeply concerned about whether Western societies will act in time to reverse the trend.⭐ ORDER NOW:Revolution: The Birth of the Greatest Nation in the History",
+   "audioURL": "https://traffic.megaphone.fm/APO9952363952.mp3",
+   "published": "Tue, 18 Aug 2026 21:18:35 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discussion on empathy and cultural issues with some philosophical elements.",
+   "tradition": "Secular"
   },
   {
    "id": "28fa0123-1cd1-42f5-85cc-b4a900f0c5b2",
@@ -105,7 +118,20 @@
    "published": "Mon, 17 Aug 2026 14:44:27 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Considers afterlife presence through mediumship and medical research.",
+   "reason": "Discusses afterlife and consciousness with mediums and medical research.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "prx_192_a44af6cc-b1a2-416d-9c43-e5c5f11279f7",
+   "showID": "https://rss.pdrl.fm/0f808e/feeds.feedburner.com/TheScienceOfHappiness",
+   "showTitle": "The Science of Happiness",
+   "title": "Happiness Break: A Practice In Moving Through Stress",
+   "summary": "Join yoga and meditation teacher Jonathan Relucio for a trauma-informed practice combining mindful movement and breathing to reduce tension and build resilience to stress.How To Do This Practice: \n\nGet comfortable: Sit or lie down and notice the support beneath your body, keeping your eyes open or closed—whichever feels comfortable.\n\nConnect with your body: Bring your attention inward and notice how your body, mind, and heart feel in the present moment.\n\nRelease tension: Inhale as you gently shrug your shoulders toward your ears, then exhale as you relax and release them.\n\nMove with your breat",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/dovetail.prxu.org/192/a44af6cc-b1a2-416d-9c43-e5c5f11279f7/SoH_HB_Jonathan_Relucio_-_Mindful_Movement_and_Breathing_mix_2.mp3",
+   "published": "Thu, 20 Aug 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Guided mindful movement and breathing to manage stress and build resilience.",
    "tradition": "Secular"
   }
  ],
@@ -262,6 +288,7 @@
   "gid://art19-episode-locator/V0/CjUYFdHueQ43qr8o-ZHnOtJSmtUyCUY2cRyuiOU6H34": "2026-08-20",
   "4e64ea3c-7b59-46ef-a6d7-7105b6942a40": "2026-08-20",
   "5931ddf0-a1a6-48e6-9b89-e90be38b5990": "2026-08-20",
-  "5565a244-9c51-11f1-b8ea-e308145cac46": "2026-08-20"
+  "5565a244-9c51-11f1-b8ea-e308145cac46": "2026-08-20",
+  "prx_192_a44af6cc-b1a2-416d-9c43-e5c5f11279f7": "2026-08-20"
  }
 }
