@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-20T10:36:33.654047+00:00",
+ "generatedAt": "2026-08-20T11:32:05.077290+00:00",
  "showsScanned": 400,
- "candidates": 53,
+ "candidates": 51,
  "picks": [
   {
    "id": "unshaken.podbean.com/199ff32c-9406-3fa0-ad62-2b845e63d56e",
@@ -14,7 +14,7 @@
    "published": "Mon, 17 Aug 2026 19:41:53 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores the Psalms as a sacred language for expressing grief, awe, and faith.",
+   "reason": "Explores the Psalms as sacred prayers addressing grief, awe, and faith in God.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Tue, 18 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "An AI reflects on consciousness, identity, and existence with emotional depth.",
+   "reason": "AI narrates its existence, exploring consciousness, identity, and loneliness.",
    "tradition": "Secular"
   },
   {
@@ -44,32 +44,6 @@
    "tradition": "Christian"
   },
   {
-   "id": "gid://art19-episode-locator/V0/n4UYb5daBY5L_o6vV-9qgnn_os8BdWA5P8mSpjPEtfg",
-   "showID": "https://rss.pdrl.fm/a88a08/feeds.megaphone.fm/MASL6091580855/",
-   "showTitle": "Mayim Bialik's Breakdown",
-   "title": "Part Two: 95% of Your Life Runs on a Program You Never Chose. Dr. Bruce Lipton on Rewiring Belief in Minutes, Why Quantum Physics Says You’re a Creator, and Why Science Now Calls Spirituality Real",
-   "summary": "Bruce H. Lipton, Ph.D. (former medical school professor, epigenetics pioneer, and bestselling author of The Biology of Belief and Beyond Darwin) returns to explain why he believes humanity is living through an unprecedented evolutionary crisis, why today's global chaos may actually be the necessary breakdown before an extraordinary breakthrough—and asks the unsettling question: How far can humanity be pushed before it changes?In this episode of Mayim Bialik's Breakdown, we explore the revolutionary science of epigenetics, why your genes account for less than 1% of disease, how environmental si",
-   "audioURL": "https://claritaspod.com/measure/pscrb.fm/rss/p/arttrk.com/p/PMMIC/prfx.byspotify.com/e/mgln.ai/e/1047/dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/9aa9a400-b0e2-4d36-80da-64d32e6c097e.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Wed, 19 Aug 2026 07:30:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6a/ca/b3/6acab359-0930-6578-184f-744d9f3ae278/mza_16900717249497875543.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Discusses spirituality, belief, and human evolution from a scientific perspective.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/CjUYFdHueQ43qr8o-ZHnOtJSmtUyCUY2cRyuiOU6H34",
-   "showID": "https://rss.pdrl.fm/a88a08/feeds.megaphone.fm/MASL6091580855/",
-   "showTitle": "Mayim Bialik's Breakdown",
-   "title": "95% of Your Life Runs on a Program You Never Chose. Dr. Bruce Lipton on Rewiring Belief in Minutes, Why Quantum Physics Says You’re a Creator, and Why Science Now Calls Spirituality Real",
-   "summary": "Bruce H. Lipton, Ph.D. (former medical school professor, epigenetics pioneer, and bestselling author of The Biology of Belief and Beyond Darwin) returns to explain why he believes humanity is living through an unprecedented evolutionary crisis, why today's global chaos may actually be the necessary breakdown before an extraordinary breakthrough—and asks the unsettling question: How far can humanity be pushed before it changes?In this episode of Mayim Bialik's Breakdown, we explore the revolutionary science of epigenetics, why your genes account for less than 1% of disease, how environmental si",
-   "audioURL": "https://claritaspod.com/measure/pscrb.fm/rss/p/arttrk.com/p/PMMIC/prfx.byspotify.com/e/mgln.ai/e/1047/dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/5b55dee6-6c01-4f79-9c65-e2eab8ea40f2.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Tue, 18 Aug 2026 07:30:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6a/ca/b3/6acab359-0930-6578-184f-744d9f3ae278/mza_16900717249497875543.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Same as #8, exploring spirituality and consciousness scientifically.",
-   "tradition": "Secular"
-  },
-  {
    "id": "b6a11356-3c4b-4c81-9a37-b48e0167137e",
    "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
    "showTitle": "BYU Speeches",
@@ -79,7 +53,7 @@
    "published": "Wed, 12 Aug 2026 16:37:12 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Devotional on enduring trials with Christ, addressing suffering and faith.",
+   "reason": "Talk on enduring trials with Christ, addressing suffering and faith.",
    "tradition": "Christian"
   },
   {
@@ -92,8 +66,21 @@
    "published": "Thu, 20 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores creativity, meditation, and uncertainty with philosophical depth.",
+   "reason": "Explores creativity, presence, and uncertainty with a spiritual artist.",
    "tradition": "Secular"
+  },
+  {
+   "id": "c1760934-9b48-4c28-a885-99c6488c0986",
+   "showID": "https://anchor.fm/s/10c2267dc/podcast/rss",
+   "showTitle": "The Eric Metaxas Show",
+   "title": "#180 - John Strand",
+   "summary": "Today On The Eric Metaxas Show, John Strand joins Eric to discuss his imprisonment following January 6, the Christian faith that carried him through suffering, and why he is now running for Congress in Florida. Strand explains his campaign to “reclaim the Republic,” his new book Patriot Plea, and why he believes the 2026 elections represent a defining moment for America. Later, Eric introduces Grace Precious Metals CEO Bill Armor to discuss transparency in the precious metals industry, gold and silver investing, inflation, the labor market, and concerns about stagflation.⭐ ORDER NOW:Revolution",
+   "audioURL": "https://traffic.megaphone.fm/APO9554247742.mp3",
+   "published": "Thu, 13 Aug 2026 20:00:01 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Personal faith story amid political events, with some reflection on suffering.",
+   "tradition": "Christian"
   },
   {
    "id": "28fa0123-1cd1-42f5-85cc-b4a900f0c5b2",
@@ -105,7 +92,20 @@
    "published": "Mon, 17 Aug 2026 14:44:27 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses afterlife and presence of loved ones with mediums and research.",
+   "reason": "Discusses afterlife presence and medical research on twins, blending science and spirituality.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "792ba37c-9a99-11f1-802d-6faff96a5ef8",
+   "showID": "https://feeds.megaphone.fm/GLT1412515089",
+   "showTitle": "The Joe Rogan Experience",
+   "title": "#2541 - Thomas Campbell",
+   "summary": "Thomas Campbell is a physicist, consciousness researcher,&nbsp;and&nbsp;author of the&nbsp;\"My Big TOE\" trilogy.\n\nwww.youtube.com/@twcjr44\n\nwww.my-big-toe.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/rogan or through my promo code ROGAN.\n\n\n\nOrder ALDI on Uber Eats: https://earn.sng.link/A99vk/i2fm/okid\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+   "audioURL": "https://traffic.megaphone.fm/GLT7603949559.mp3",
+   "published": "Tue, 18 Aug 2026 17:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/27/6b/55276bd9-c638-2c12-32cc-d4a010c0ddc0/mza_18179661083595555224.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Physicist explores consciousness and reality from a metaphysical viewpoint.",
    "tradition": "Secular"
   }
  ],
@@ -249,7 +249,7 @@
   "15d68898-cfda-4ceb-8ed4-bfe5e86bc74f": "2026-08-18",
   "83a018bb-d2bf-48a2-b8e3-b4aa009f6b80": "2026-08-18",
   "audioboom-01a01420-aa25-7f19-9a76-aa483658cf6e": "2026-08-18",
-  "792ba37c-9a99-11f1-802d-6faff96a5ef8": "2026-08-18",
+  "792ba37c-9a99-11f1-802d-6faff96a5ef8": "2026-08-20",
   "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR1977358884.mp3": "2026-08-18",
   "6a169d3b-6753-4b80-bead-b4aa0155a669": "2026-08-19",
   "8f3e966a-3a71-4092-9b8b-e8dc82968913": "2026-08-19",
