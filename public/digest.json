@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-21T05:37:29.549497+00:00",
+ "generatedAt": "2026-08-21T06:55:49.287528+00:00",
  "showsScanned": 400,
  "candidates": 55,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Tue, 18 Aug 2026 16:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores consciousness and its mysteries from a scientific and philosophical angle.",
+   "reason": "Explores the mystery of consciousness and what science reveals and misses.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Sun, 16 Aug 2026 00:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Direct engagement with the problem of suffering and God's presence.",
+   "reason": "Addresses suffering and divine presence in hardship seriously.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Thu, 13 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/3d/a5/073da59b-6bfd-04ed-da1e-af2eca0ce7ed/mza_17777249888316424415.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores belonging, community, and social identity with thoughtful reflection.",
+   "reason": "Explores community, belonging, and social identity with thoughtful reflection on relationships.",
    "tradition": "Secular"
   },
   {
@@ -66,21 +66,8 @@
    "published": "Thu, 13 Aug 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines fear through scripture and its impact on life and faith.",
+   "reason": "Examines fear through scripture and its impact on life and faith with practical spiritual insight.",
    "tradition": "Christian"
-  },
-  {
-   "id": "83a018bb-d2bf-48a2-b8e3-b4aa009f6b80",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
-   "showTitle": "The Best of Coast to Coast AM",
-   "title": "Trauma - Best of Coast to Coast AM - 8/17/26",
-   "summary": "George Noory and author RJ Spina explore the nature of trauma and how to overcome it, how he gained cosmic consciousness to regain movement when his body was paralyzed by an infection, and why many people intentionally cling to their traumatic experiences as part of their personality instead of letting them go.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/83a018bb-d2bf-48a2-b8e3-b4aa009f6b80/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
-   "published": "Tue, 18 Aug 2026 09:51:58 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Considers trauma, consciousness, and personal transformation in depth.",
-   "tradition": "Secular"
   },
   {
    "id": "113cef73-5bae-40e9-a028-59c1ac232c20",
@@ -92,8 +79,34 @@
    "published": "Thu, 20 Aug 2026 14:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ef/16/02/ef1602c0-5b22-4697-8164-76d1a61d71c3/mza_11976549683956134854.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Focuses on near-death experiences and afterlife claims with some spiritual and scientific discussion.",
+   "reason": "Discussion of near-death experiences with religious and scientific perspectives.",
    "tradition": "Christian"
+  },
+  {
+   "id": "62ea14f9-df09-4650-8a7b-827282ff5c52",
+   "showID": "https://anchor.fm/s/104e3eb08/podcast/rss",
+   "showTitle": "Boring History for Sleep",
+   "title": "The Truth About the Druids 🌿🔮 | Myths, Magic & the Lost World of the Celts | Boring History For Sleep",
+   "summary": "The Druids have long been surrounded by mystery, remembered as powerful priests, wise judges, and masters of ancient magic. But how much of what we know comes from historical evidence, and how much was created by Roman writers, medieval legends, and modern imagination?Who were the Druids really? Did they perform mysterious rituals, make human sacrifices, or possess hidden knowledge of the natural world? And why has so much of their history been lost to time?Discover the fascinating reality behind one of history's most enigmatic peoples, exploring Celtic traditions, sacred forests, forgotten be",
+   "audioURL": "https://traffic.megaphone.fm/APO9991700958.mp3",
+   "published": "Mon, 17 Aug 2026 01:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/a6/37/62a63720-ae50-b8c6-6282-b62a41e54588/mza_4071962011418281551.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Historical exploration of Druids mixing myth and fact, lightly philosophical.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "83a018bb-d2bf-48a2-b8e3-b4aa009f6b80",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "Trauma - Best of Coast to Coast AM - 8/17/26",
+   "summary": "George Noory and author RJ Spina explore the nature of trauma and how to overcome it, how he gained cosmic consciousness to regain movement when his body was paralyzed by an infection, and why many people intentionally cling to their traumatic experiences as part of their personality instead of letting them go.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/83a018bb-d2bf-48a2-b8e3-b4aa009f6b80/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Tue, 18 Aug 2026 09:51:58 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Considers trauma and consciousness with some spiritual elements but mainly personal recovery.",
+   "tradition": "Secular"
   },
   {
    "id": "audioboom-01a01420-aa25-7f19-9a76-aa483658cf6e",
@@ -105,7 +118,7 @@
    "published": "Tue, 18 Aug 2026 10:11:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ff/b6/6b/ffb66b7d-88f8-88f3-b67c-9189f5167ec1/mza_9140250549875290339.png/600x600bb.jpg",
    "rating": 6,
-   "reason": "Talks about consciousness and survival after death in UFO context.",
+   "reason": "Touches on consciousness and survival after death amid UFO and disclosure topics.",
    "tradition": "Interfaith"
   }
  ],
@@ -227,7 +240,7 @@
   "cacd03c8-3ee9-4423-94fe-c90ff04adff7": "2026-08-17",
   "53529313-1dc3-4dc0-8819-0bf41b57365e": "2026-08-17",
   "d6866618-d610-11f0-a49b-c31f19cbdde7": "2026-08-19",
-  "62ea14f9-df09-4650-8a7b-827282ff5c52": "2026-08-17",
+  "62ea14f9-df09-4650-8a7b-827282ff5c52": "2026-08-21",
   "fa177f20-9999-11f1-9f84-13c49c0a07dc": "2026-08-19",
   "838636be-76e8-11f0-a663-53b899889e1a": "2026-08-17",
   "ba3554e7-4eb7-4e7d-850e-f5933bcf2bda": "2026-08-20",
