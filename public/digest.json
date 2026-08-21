@@ -1,21 +1,21 @@
 {
  "version": 1,
- "generatedAt": "2026-08-21T03:08:38.453997+00:00",
+ "generatedAt": "2026-08-21T04:44:12.083427+00:00",
  "showsScanned": 400,
- "candidates": 57,
+ "candidates": 56,
  "picks": [
   {
-   "id": "Buzzsprout-19638488",
-   "showID": "https://rss.buzzsprout.com/2547586.rss",
-   "showTitle": "We!",
-   "title": "I Feel Hurt and Afraid in a World That Holds On to Fear — The Personal and Spiritual Growth That Helped Me Let Go of Fear, Heal My Heart, and Become Part of Humanity's Healing",
-   "summary": "Have you ever felt like the person you used to be no longer fits, but you’re not quite sure who you’re becoming?In this deeply personal episode of the WE Podcast, Joe Mittiga explores what he calls “psychic death,” the emotional and spiritual process of letting go of an old identity so a new version of yourself can emerge.Joe opens up about grief, fear, addiction, divorce, the loss of his beloved dog Zeus, his mother’s death, raising his sons, and the major transformations that have shaped his spiritual journey. Through these experiences, he shares why healing isn’t about avoiding pain or simp",
-   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19638488-i-feel-hurt-and-afraid-in-a-world-that-holds-on-to-fear-the-personal-and-spiritual-growth-that-helped-me-let-go-of-fear-heal-my-heart-and-become-part-of-humanity-s-healing.mp3",
-   "published": "Thu, 13 Aug 2026 07:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Deep personal account of grief, transformation, and spiritual growth.",
-   "tradition": "Interfaith"
+   "id": "0d56870b-6ce2-42fd-be40-aac9ce0ed188",
+   "showID": "https://rss.wbur.org/onpoint/podcast",
+   "showTitle": "On Point with Meghna Chakrabarti",
+   "title": "Brainwaves: Are you in there?",
+   "summary": "Consciousness is how we are able to feel, dream and imagine. And yet -- scientists haven't figured out how consciousness definitively works. What we know, what we don’t and what that tells us about our brains.\n\n***\nThank you for listening. Help power On Point by making a donation here: wbur.org/giveonpoint",
+   "audioURL": "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR1977358884.mp3",
+   "published": "Tue, 18 Aug 2026 16:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Explores the mystery of consciousness and what science reveals and cannot explain.",
+   "tradition": "Secular"
   },
   {
    "id": "963dcfbd-3300-4f7b-9e2a-fb483ab79d9f",
@@ -27,8 +27,21 @@
    "published": "Sun, 16 Aug 2026 00:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Addresses suffering and God's presence in hardship with existential depth.",
+   "reason": "Addresses the problem of suffering and God's presence during hardship.",
    "tradition": "Christian"
+  },
+  {
+   "id": "Buzzsprout-19638488",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "I Feel Hurt and Afraid in a World That Holds On to Fear — The Personal and Spiritual Growth That Helped Me Let Go of Fear, Heal My Heart, and Become Part of Humanity's Healing",
+   "summary": "Have you ever felt like the person you used to be no longer fits, but you’re not quite sure who you’re becoming?In this deeply personal episode of the WE Podcast, Joe Mittiga explores what he calls “psychic death,” the emotional and spiritual process of letting go of an old identity so a new version of yourself can emerge.Joe opens up about grief, fear, addiction, divorce, the loss of his beloved dog Zeus, his mother’s death, raising his sons, and the major transformations that have shaped his spiritual journey. Through these experiences, he shares why healing isn’t about avoiding pain or simp",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19638488-i-feel-hurt-and-afraid-in-a-world-that-holds-on-to-fear-the-personal-and-spiritual-growth-that-helped-me-let-go-of-fear-heal-my-heart-and-become-part-of-humanity-s-healing.mp3",
+   "published": "Thu, 13 Aug 2026 07:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores grief, fear, and transformation through a spiritual and emotional lens.",
+   "tradition": "Interfaith"
   },
   {
    "id": "b11d71a6-1f25-11f1-990b-3b55932bbc65",
@@ -40,7 +53,7 @@
    "published": "Thu, 13 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/3d/a5/073da59b-6bfd-04ed-da1e-af2eca0ce7ed/mza_17777249888316424415.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores community, belonging, and social identity with thoughtful reflection on relationships.",
+   "reason": "Explores community, belonging, and social identity with thoughtful reflection.",
    "tradition": "Secular"
   },
   {
@@ -53,21 +66,8 @@
    "published": "Thu, 13 Aug 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines fear through scripture and its impact on life and faith, offering spiritual insight.",
+   "reason": "Examines fear through scripture and its impact on life and faith.",
    "tradition": "Christian"
-  },
-  {
-   "id": "037804ff-9a1f-4184-8026-78bf8be35188",
-   "showID": "https://mysteriousradiofeed.mysteriousradionetwork.com",
-   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
-   "title": "Secrets of The Soul",
-   "summary": "The ancient Egyptians possessed deep metaphysical knowledge of the soul, referring to it as the Ka (vital essence) and Ba(spiritual personality). These esoteric teachings describe the soul body or spirit shell—a kind of etheric energy fieldthat surrounds and protects the inner consciousness. Much like a nut encased in a shell, your higher self exists within this subtle energy layer, separate from the physical body. This aligns with modern discussions on the astral body, out-of-body experiences, near-death experiences, sacred geometry, and ancient wisdom traditions. Could this be the missing li",
-   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8595152/8595152_2026-08-15-122552.128.mp3?rssID=6605",
-   "published": "Sat, 15 Aug 2026 12:46:25 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Explores ancient soul concepts and astral experiences, blending metaphysics and consciousness.",
-   "tradition": "Interfaith"
   },
   {
    "id": "83a018bb-d2bf-48a2-b8e3-b4aa009f6b80",
@@ -78,9 +78,9 @@
    "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/83a018bb-d2bf-48a2-b8e3-b4aa009f6b80/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
    "published": "Tue, 18 Aug 2026 09:51:58 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses trauma and consciousness with some spiritual elements but mainly personal recovery.",
-   "tradition": "Interfaith"
+   "rating": 7,
+   "reason": "Considers trauma, consciousness, and personal transformation.",
+   "tradition": "Secular"
   },
   {
    "id": "audioboom-01a01420-aa25-7f19-9a76-aa483658cf6e",
@@ -91,22 +91,22 @@
    "audioURL": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8942430.mp3?modified=1787044265&amp;sid=5024014&amp;source=rss",
    "published": "Tue, 18 Aug 2026 10:11:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ff/b6/6b/ffb66b7d-88f8-88f3-b67c-9189f5167ec1/mza_9140250549875290339.png/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Touches on consciousness and survival after death in UFO context but lacks depth on ethics.",
-   "tradition": "Interfaith"
+   "rating": 7,
+   "reason": "Discusses consciousness and survival after death linked to UFO phenomena.",
+   "tradition": "Secular"
   },
   {
-   "id": "0d56870b-6ce2-42fd-be40-aac9ce0ed188",
-   "showID": "https://rss.wbur.org/onpoint/podcast",
-   "showTitle": "On Point with Meghna Chakrabarti",
-   "title": "Brainwaves: Are you in there?",
-   "summary": "Consciousness is how we are able to feel, dream and imagine. And yet -- scientists haven't figured out how consciousness definitively works. What we know, what we don’t and what that tells us about our brains.\n\n***\nThank you for listening. Help power On Point by making a donation here: wbur.org/giveonpoint",
-   "audioURL": "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR1977358884.mp3",
-   "published": "Tue, 18 Aug 2026 16:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Examines consciousness and the mystery of subjective experience scientifically.",
-   "tradition": "Secular"
+   "id": "113cef73-5bae-40e9-a028-59c1ac232c20",
+   "showID": "https://rss.libsyn.com/shows/615750/destinations/5370830.xml",
+   "showTitle": "Hang Out with Sean Hannity",
+   "title": "Near Death Experiences: Real Proof Of The Afterlife | Hang Out with Sean Hannity",
+   "summary": "Did 2 men actually die, visit Heaven, and return with detailed, overlapping proof? In this episode of Hang Out with Sean Hannity, Heaven Is for Real author Colton Burpo , NDE survivor Randy Kay , and researcher John Burke (Imagine Heaven) sit down to reveal what the afterlife actually looks like, how prayers function in the throne room, and the overwhelming scientific and biblical consistency behind near-death experiences. In this exclusive interview, Colton Burpo breaks down sitting on Jesus's lap, meeting the miscarried sister he never knew existed on Earth, and what God the Father actually ",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/e17d8dbf-1c2a-4227-b6e0-6a36bd145a3c/Howh_Burpo_Kay_Burke_Apple_BUG_NEW_AD_READ.mp4?dest-id=5370830",
+   "published": "Thu, 20 Aug 2026 14:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ef/16/02/ef1602c0-5b22-4697-8164-76d1a61d71c3/mza_11976549683956134854.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Focuses on near-death experiences and afterlife claims with some spiritual reflection.",
+   "tradition": "Christian"
   }
  ],
  "history": {
@@ -259,6 +259,7 @@
   "5565a244-9c51-11f1-b8ea-e308145cac46": "2026-08-20",
   "prx_192_a44af6cc-b1a2-416d-9c43-e5c5f11279f7": "2026-08-20",
   "Buzzsprout-19670818": "2026-08-20",
-  "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR4155866960.mp3": "2026-08-20"
+  "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR4155866960.mp3": "2026-08-20",
+  "113cef73-5bae-40e9-a028-59c1ac232c20": "2026-08-21"
  }
 }
