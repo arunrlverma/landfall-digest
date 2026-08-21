@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-21T01:39:31.726993+00:00",
+ "generatedAt": "2026-08-21T03:08:38.453997+00:00",
  "showsScanned": 400,
- "candidates": 59,
+ "candidates": 57,
  "picks": [
   {
    "id": "Buzzsprout-19638488",
@@ -14,7 +14,7 @@
    "published": "Thu, 13 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of grief and transformation, deeply engaging suffering and identity.",
+   "reason": "Deep personal account of grief, transformation, and spiritual growth.",
    "tradition": "Interfaith"
   },
   {
@@ -26,8 +26,8 @@
    "audioURL": "https://traffic.megaphone.fm/APO5214645056.mp3",
    "published": "Sun, 16 Aug 2026 00:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A Christian perspective on suffering and God's presence in hardship.",
+   "rating": 8,
+   "reason": "Addresses suffering and God's presence in hardship with existential depth.",
    "tradition": "Christian"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Thu, 13 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/3d/a5/073da59b-6bfd-04ed-da1e-af2eca0ce7ed/mza_17777249888316424415.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Conversation on community, belonging, and social ethics with thoughtful reflection.",
+   "reason": "Explores community, belonging, and social identity with thoughtful reflection on relationships.",
    "tradition": "Secular"
   },
   {
@@ -53,21 +53,8 @@
    "published": "Thu, 13 Aug 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines fear from a scriptural and psychological perspective with practical tools.",
+   "reason": "Examines fear through scripture and its impact on life and faith, offering spiritual insight.",
    "tradition": "Christian"
-  },
-  {
-   "id": "83a018bb-d2bf-48a2-b8e3-b4aa009f6b80",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
-   "showTitle": "The Best of Coast to Coast AM",
-   "title": "Trauma - Best of Coast to Coast AM - 8/17/26",
-   "summary": "George Noory and author RJ Spina explore the nature of trauma and how to overcome it, how he gained cosmic consciousness to regain movement when his body was paralyzed by an infection, and why many people intentionally cling to their traumatic experiences as part of their personality instead of letting them go.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/83a018bb-d2bf-48a2-b8e3-b4aa009f6b80/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
-   "published": "Tue, 18 Aug 2026 09:51:58 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores trauma, suffering, and consciousness with personal and cosmic dimensions.",
-   "tradition": "Secular"
   },
   {
    "id": "037804ff-9a1f-4184-8026-78bf8be35188",
@@ -79,7 +66,20 @@
    "published": "Sat, 15 Aug 2026 12:46:25 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores ancient Egyptian soul concepts and astral experiences with metaphysical focus.",
+   "reason": "Explores ancient soul concepts and astral experiences, blending metaphysics and consciousness.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "83a018bb-d2bf-48a2-b8e3-b4aa009f6b80",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "Trauma - Best of Coast to Coast AM - 8/17/26",
+   "summary": "George Noory and author RJ Spina explore the nature of trauma and how to overcome it, how he gained cosmic consciousness to regain movement when his body was paralyzed by an infection, and why many people intentionally cling to their traumatic experiences as part of their personality instead of letting them go.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/83a018bb-d2bf-48a2-b8e3-b4aa009f6b80/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Tue, 18 Aug 2026 09:51:58 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses trauma and consciousness with some spiritual elements but mainly personal recovery.",
    "tradition": "Interfaith"
   },
   {
@@ -92,21 +92,21 @@
    "published": "Tue, 18 Aug 2026 10:11:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ff/b6/6b/ffb66b7d-88f8-88f3-b67c-9189f5167ec1/mza_9140250549875290339.png/600x600bb.jpg",
    "rating": 6,
-   "reason": "Talks about consciousness and survival after death in UFO context, speculative.",
-   "tradition": "Secular"
+   "reason": "Touches on consciousness and survival after death in UFO context but lacks depth on ethics.",
+   "tradition": "Interfaith"
   },
   {
-   "id": "unshaken.podbean.com/58552b92-8191-3251-b417-e753cb4b2752",
-   "showID": "https://feed.podbean.com/unshaken/feed.xml",
-   "showTitle": "Unshaken Saints",
-   "title": "The Book of Job - A Sermon on Suffering",
-   "summary": "What do you do when you’ve kept your covenants, guarded your heart, served the poor, and lived with absolute integrity—yet your whole world collapses anyway? In this complete, deep-dive masterclass on the Book of Job, we trace the entire arc of human suffering, theological wrestling, and divine revelation, discovering how a man sitting in ashes moved from raw questioning to the ultimate witness: \"I know that my Redeemer liveth.\"\nSummary of the Video: This comprehensive guide walks step-by-step through the 42 chapters of the Book of Job. We begin in the pre-mortal council, exploring why God all",
-   "audioURL": "https://mcdn.podbean.com/mf/web/v4zimcb47k52qfhd/Job_full_audio_enhanced98zzp.mp3",
-   "published": "Wed, 12 Aug 2026 20:33:04 -0600",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
-   "rating": 10,
-   "reason": "A comprehensive, contemplative study of Job's suffering and faith wrestling.",
-   "tradition": "Christian"
+   "id": "0d56870b-6ce2-42fd-be40-aac9ce0ed188",
+   "showID": "https://rss.wbur.org/onpoint/podcast",
+   "showTitle": "On Point with Meghna Chakrabarti",
+   "title": "Brainwaves: Are you in there?",
+   "summary": "Consciousness is how we are able to feel, dream and imagine. And yet -- scientists haven't figured out how consciousness definitively works. What we know, what we don’t and what that tells us about our brains.\n\n***\nThank you for listening. Help power On Point by making a donation here: wbur.org/giveonpoint",
+   "audioURL": "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR1977358884.mp3",
+   "published": "Tue, 18 Aug 2026 16:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Examines consciousness and the mystery of subjective experience scientifically.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -249,7 +249,7 @@
   "8f3e966a-3a71-4092-9b8b-e8dc82968913": "2026-08-19",
   "gid://art19-episode-locator/V0/EtIdiv-1ShmB7mj0_gP8rq_G0NtAo7MocGGM-Cg7WcM": "2026-08-19",
   "efe2d212-9b4b-11f1-b48e-935d4d44c329": "2026-08-19",
-  "0d56870b-6ce2-42fd-be40-aac9ce0ed188": "2026-08-19",
+  "0d56870b-6ce2-42fd-be40-aac9ce0ed188": "2026-08-21",
   "6a7b3e941549db32d4316af7": "2026-08-19",
   "gid://art19-episode-locator/V0/Dsg17Pkzi_guP_0aF87Ich-AvpX84gMYOLCwikxGLXQ": "2026-08-19",
   "gid://art19-episode-locator/V0/n4UYb5daBY5L_o6vV-9qgnn_os8BdWA5P8mSpjPEtfg": "2026-08-20",
