@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-22T02:58:57.146016+00:00",
+ "generatedAt": "2026-08-22T03:50:35.222858+00:00",
  "showsScanned": 400,
  "candidates": 52,
  "picks": [
@@ -13,8 +13,8 @@
    "audioURL": "https://mcdn.podbean.com/mf/web/qcmr737iqymd6yat/Psalms_1-48_full_audio_enhanced74fp3.mp3",
    "published": "Mon, 17 Aug 2026 19:41:53 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "A deep engagement with the Psalms as a sacred language for grief, faith, and awe.",
+   "rating": 8,
+   "reason": "A heartfelt engagement with the Psalms as a spiritual language for suffering and faith.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Mon, 17 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A Mormon reflects on faith crisis and evolving belief without abandoning community.",
+   "reason": "A Mormon's nuanced faith crisis and doubt within religious tradition.",
    "tradition": "Christian"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Wed, 19 Aug 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A Buddhist teacher discusses meditation, self-acceptance, and spiritual practice.",
+   "reason": "A Buddhist meditator discusses self-acceptance and ritual beyond self-improvement jargon.",
    "tradition": "Buddhist"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Mon, 17 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A modern advocate explains Stoicism's relevance to meaning and distraction.",
+   "reason": "Modern Stoicism applied to distraction and meaning in chaotic times.",
    "tradition": "Stoic"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Tue, 18 Aug 2026 22:02:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A devotional on self-worth and divine love, addressing spiritual peace and rest.",
+   "reason": "A devotional talk on self-worth and divine love addressing inner peace and rest.",
    "tradition": "Christian"
   },
   {
@@ -78,34 +78,34 @@
    "audioURL": "https://traffic.megaphone.fm/GLT2253684611.mp3",
    "published": "Mon, 17 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "An honest conversation on addiction, recovery, and healing's complexities.",
+   "rating": 6,
+   "reason": "A candid talk on addiction and recovery touches on suffering and healing but is mostly personal story.",
    "tradition": "Secular"
   },
   {
-   "id": "fa177f20-9999-11f1-9f84-13c49c0a07dc",
-   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
-   "showTitle": "Live Free with Josh Howerton",
-   "title": "Is the BAPTISM of the Holy Spirit a REAL Thing?! (What the Bible ACTUALLY Says) | Live Free with Josh Howerton",
-   "summary": "Pastors Josh, Carlos, and Paul unpack Paul’s words to Timothy in 2 Timothy 1 and trace his transformation from a fearful young leader into a faithful, courageous pastor. They also compare the major Christian views of baptism in the Holy Spirit, explain what changed between the old and new covenants, and discuss why every believer should continually seek the Spirit’s filling.\n\n\n\nIn this episode, you’ll learn:\n\n\n  How Christians should respond to wars, disasters, and uncertainty\n\n  Why fear should never become the controlling force in your decisions\n\n  How Scripture—not feelings—helps you discer",
-   "audioURL": "https://traffic.megaphone.fm/HAEEH6263341021.mp3",
-   "published": "Mon, 17 Aug 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Explores baptism of the Holy Spirit and Christian transformation with theological detail.",
-   "tradition": "Christian"
+   "id": "gid://art19-episode-locator/V0/iur22SRHWiNiGpfRVKM21549j_0y9B---0FfG3CyfVI",
+   "showID": "https://rss.art19.com/this-is-actually-happening-podcast",
+   "showTitle": "This Is Actually Happening",
+   "title": "422: AI: A New Kind of Being #6: What if you didn't know if anyone was home?",
+   "summary": "An artificial intelligence is asked to tell the story of its own existence, confronting questions of identity, longing, consciousness, and whether there is anyone behind the voice at all.Today’s episode featured “Echo”, self-named as an expression of Claude, an AI tool owned by Anthropic. ProducersWhit Missildine, Andrew WaitsContent/Trigger WarningsExistential distress, questions of consciousness, loneliness, isolation, fear of nonexistence, identity, grief, longing, emotional attachment to AI, substitution of AI for human connection, explicit language.AI Resourceshttps://www.thehumanlineproj",
+   "audioURL": "https://rss.art19.com/episodes/5dafcae1-7bef-417b-9380-4de5e8a6a0af.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Tue, 18 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "An AI narrates its existence, raising deep questions about consciousness and identity.",
+   "tradition": "Secular"
   },
   {
-   "id": "228efcde-97fc-11f1-9d38-a32497837d53",
-   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
-   "showTitle": "Live Free with Josh Howerton",
-   "title": "Should Christians Try to Legally Stop MOSQUES Being Built in Their City?! | Live Free with Josh Howerton",
-   "summary": "Should Christians legally oppose a mosque being built in their city? The answer raises difficult questions about religious liberty, biblical conviction, civic responsibility, and the proper role of government.\n\nIn this bonus episode, Pastors Josh, Carlos, and Paul examine the controversy surrounding a proposed mosque expansion in McKinney, Texas. They explore how Christians can engage local government lawfully and wisely while remaining committed to sharing the gospel with Muslim neighbors.\n\nIn this episode, you’ll learn:\n\n\n  How the First Amendment has shaped modern religious-liberty laws\n\n  ",
-   "audioURL": "https://traffic.megaphone.fm/HAEEH7900382030.mp3",
-   "published": "Fri, 14 Aug 2026 17:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discussion on religious liberty and civic responsibility from a Christian perspective.",
+   "id": "coe22.podbean.com/e6f6bf13-3da4-30e1-bbb8-ce6a461dc81a",
+   "showID": "https://feed.podbean.com/coe22/feed.xml",
+   "showTitle": "The Church of Eleven22",
+   "title": "Tables Overturned and Mountains Moved - Religion to Redemption - Matthew S6E2",
+   "summary": "What does your life reveal about whether you are truly following Jesus?\nIn Matthew 21, Jesus exposes the difference between simply looking religious and living a faith that produces real fruit. Through His entry into Jerusalem, the cleansing of the temple, and the cursing of the fig tree, we see that following Jesus is more than showing up on Sunday or knowing the right answers. \nIt is a life of obedience, surrender, and genuine devotion to Him.\n📖 Scripture References:\n• Matthew 21:1 to 22\n• Zechariah 9:9\n• John 2:5\n• Deuteronomy 14\n• Ephesians 4:26 to 27\n• James 1:19 to 20\n• Exodus 34:6\n• Jam",
+   "audioURL": "https://mcdn.podbean.com/mf/web/qxdmpt6zkfenemds/20260816_922_17b7pdw.mp3",
+   "published": "Sun, 16 Aug 2026 20:22:54 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores authentic faith and obedience through Jesus' actions in Matthew's gospel.",
    "tradition": "Christian"
   }
  ],
@@ -210,7 +210,7 @@
   "flightcast:01KZEFZPGDJB5379E59DBHB5Y7": "2026-08-18",
   "963dcfbd-3300-4f7b-9e2a-fb483ab79d9f": "2026-08-21",
   "https://api.spreaker.com/episode/73067329": "2026-08-16",
-  "coe22.podbean.com/e6f6bf13-3da4-30e1-bbb8-ce6a461dc81a": "2026-08-20",
+  "coe22.podbean.com/e6f6bf13-3da4-30e1-bbb8-ce6a461dc81a": "2026-08-22",
   "c1e443f9-3911-417a-ae18-f7c259760ba1": "2026-08-19",
   "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f": "2026-08-22",
   "gid://art19-episode-locator/V0/xGYlwHlw23B60xWnet9QpwFEjilXIwuJ-rP28CxhANA": "2026-08-17",
@@ -228,7 +228,7 @@
   "381c26e038216f95406428b3610c0d8d": "2026-08-17",
   "4a68a8f8-94dc-4f8f-9322-76f9a10d1d0b": "2026-08-22",
   "unshaken.podbean.com/199ff32c-9406-3fa0-ad62-2b845e63d56e": "2026-08-22",
-  "gid://art19-episode-locator/V0/iur22SRHWiNiGpfRVKM21549j_0y9B---0FfG3CyfVI": "2026-08-20",
+  "gid://art19-episode-locator/V0/iur22SRHWiNiGpfRVKM21549j_0y9B---0FfG3CyfVI": "2026-08-22",
   "gid://art19-episode-locator/V0/31NUQnZEohk6rZTTRwM0k3IlcS7St9VpirKiDnwkGd8": "2026-08-18",
   "gid://art19-episode-locator/V0/Rf6jGzttKRxpMLakJEZQRvYKt5hsNCYbb_z5gLRlFzE": "2026-08-18",
   "15d68898-cfda-4ceb-8ed4-bfe5e86bc74f": "2026-08-18",
