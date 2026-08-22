@@ -1,22 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-08-22T05:32:36.928644+00:00",
+ "generatedAt": "2026-08-22T06:48:49.769343+00:00",
  "showsScanned": 400,
  "candidates": 54,
  "picks": [
-  {
-   "id": "unshaken.podbean.com/199ff32c-9406-3fa0-ad62-2b845e63d56e",
-   "showID": "https://feed.podbean.com/unshaken/feed.xml",
-   "showTitle": "Unshaken Saints",
-   "title": "The Book of Psalms (1-48) - The Lord Is My Shepherd",
-   "summary": "When life hits you with grief, disorientation, or feeling utterly forsaken by God, prose often falls short. The Book of Psalms gives us a sacred language to pour out our hearts—whether we are crying out \"Help!\", singing \"Thanks!\", or standing in awe of \"Wow!\"\nSummary: In this inspiring study of Psalms 1–48, we step out of historical analysis and into the sanctuary of the heart. Often called the \"Preface of Jesus Christ,\" the Psalter offers a timeless collection of prayers, hymns, and prophecies that directly mirror the Savior's life, death, and resurrection.\nMusic as a Lowest and Highest Gear:",
-   "audioURL": "https://mcdn.podbean.com/mf/web/qcmr737iqymd6yat/Psalms_1-48_full_audio_enhanced74fp3.mp3",
-   "published": "Mon, 17 Aug 2026 19:41:53 -0600",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "A deep engagement with the Psalms as a sacred language for grief, faith, and awe.",
-   "tradition": "Christian"
-  },
   {
    "id": "gid://art19-episode-locator/V0/iur22SRHWiNiGpfRVKM21549j_0y9B---0FfG3CyfVI",
    "showID": "https://rss.art19.com/this-is-actually-happening-podcast",
@@ -27,8 +14,21 @@
    "published": "Tue, 18 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "An AI narrates its existence, raising questions of consciousness, identity, and loneliness.",
+   "reason": "AI narrates its existence, raising deep questions of consciousness and identity.",
    "tradition": "Secular"
+  },
+  {
+   "id": "unshaken.podbean.com/199ff32c-9406-3fa0-ad62-2b845e63d56e",
+   "showID": "https://feed.podbean.com/unshaken/feed.xml",
+   "showTitle": "Unshaken Saints",
+   "title": "The Book of Psalms (1-48) - The Lord Is My Shepherd",
+   "summary": "When life hits you with grief, disorientation, or feeling utterly forsaken by God, prose often falls short. The Book of Psalms gives us a sacred language to pour out our hearts—whether we are crying out \"Help!\", singing \"Thanks!\", or standing in awe of \"Wow!\"\nSummary: In this inspiring study of Psalms 1–48, we step out of historical analysis and into the sanctuary of the heart. Often called the \"Preface of Jesus Christ,\" the Psalter offers a timeless collection of prayers, hymns, and prophecies that directly mirror the Savior's life, death, and resurrection.\nMusic as a Lowest and Highest Gear:",
+   "audioURL": "https://mcdn.podbean.com/mf/web/qcmr737iqymd6yat/Psalms_1-48_full_audio_enhanced74fp3.mp3",
+   "published": "Mon, 17 Aug 2026 19:41:53 -0600",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A heartfelt engagement with the Psalms as a sacred language for grief, praise, and awe.",
+   "tradition": "Christian"
   },
   {
    "id": "4a68a8f8-94dc-4f8f-9322-76f9a10d1d0b",
@@ -70,19 +70,6 @@
    "tradition": "Christian"
   },
   {
-   "id": "https://www.ldsscriptureteachings.org/?p=34111",
-   "showID": "https://www.ldsscriptureteachings.org/feed/podcast/",
-   "showTitle": "Talking Scripture",
-   "title": "Ep 385 | Psalms 1-46, Come Follow Me 2026 (August 17-23)",
-   "summary": "→ Watch on YouTube\n\n\n\n→ Detailed Show Notes\n\n\n\n(00:00) The historical background and purpose of the Psalms.(02:14) Many scholars assert that several of the Psalms were used in Israel’s temple worship, especially during the first temple period. They can be divided into hymns of praise, pleas for help or laments, and thanksgiving songs.(08:44) Some LDS scholars see the setting of the Psalms directly connected to the temple.(15:13) In Psalm 1 the Tree of Life is seen, similar to Nephi’s dream in 1 Nephi 8-11.(17:14) Psalm 2 is an enthronement Psalm. The king is set on a holy hill in Zion and is a",
-   "audioURL": "https://media.blubrry.com/talkingscripture/www.ldsscriptureteachings.org/wp-content/uploads/2026/08/385-Psalm-1-46-final-mp3.mp3",
-   "published": "Fri, 21 Aug 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A study of Psalms with historical and spiritual insights for personal reflection.",
-   "tradition": "Christian"
-  },
-  {
    "id": "d6866618-d610-11f0-a49b-c31f19cbdde7",
    "showID": "https://feeds.megaphone.fm/VMP1684715893",
    "showTitle": "On with Kara Swisher",
@@ -92,7 +79,7 @@
    "published": "Mon, 17 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A modern advocate explains Stoicism's relevance to ethics and inner life today.",
+   "reason": "A modern advocate explains Stoicism's relevance for ethics and inner life in chaotic times.",
    "tradition": "Stoic"
   },
   {
@@ -105,7 +92,7 @@
    "published": "Tue, 18 Aug 2026 22:02:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A devotional talk on worth, love, and peace from a Latter-day Saint leader.",
+   "reason": "Devotional talk on worth, love, and peace from a Latter-day Saint leader.",
    "tradition": "Christian"
   },
   {
@@ -118,8 +105,34 @@
    "published": "Mon, 17 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A raw conversation on addiction, recovery, and healing with spiritual undertones.",
-   "tradition": "Interfaith"
+   "reason": "Raw conversation on addiction, recovery, and healing with reflections on suffering and growth.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "https://www.ldsscriptureteachings.org/?p=34111",
+   "showID": "https://www.ldsscriptureteachings.org/feed/podcast/",
+   "showTitle": "Talking Scripture",
+   "title": "Ep 385 | Psalms 1-46, Come Follow Me 2026 (August 17-23)",
+   "summary": "→ Watch on YouTube\n\n\n\n→ Detailed Show Notes\n\n\n\n(00:00) The historical background and purpose of the Psalms.(02:14) Many scholars assert that several of the Psalms were used in Israel’s temple worship, especially during the first temple period. They can be divided into hymns of praise, pleas for help or laments, and thanksgiving songs.(08:44) Some LDS scholars see the setting of the Psalms directly connected to the temple.(15:13) In Psalm 1 the Tree of Life is seen, similar to Nephi’s dream in 1 Nephi 8-11.(17:14) Psalm 2 is an enthronement Psalm. The king is set on a holy hill in Zion and is a",
+   "audioURL": "https://media.blubrry.com/talkingscripture/www.ldsscriptureteachings.org/wp-content/uploads/2026/08/385-Psalm-1-46-final-mp3.mp3",
+   "published": "Fri, 21 Aug 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "A scholarly look at Psalms with some spiritual insights but mainly historical and liturgical.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "fa177f20-9999-11f1-9f84-13c49c0a07dc",
+   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
+   "showTitle": "Live Free with Josh Howerton",
+   "title": "Is the BAPTISM of the Holy Spirit a REAL Thing?! (What the Bible ACTUALLY Says) | Live Free with Josh Howerton",
+   "summary": "Pastors Josh, Carlos, and Paul unpack Paul’s words to Timothy in 2 Timothy 1 and trace his transformation from a fearful young leader into a faithful, courageous pastor. They also compare the major Christian views of baptism in the Holy Spirit, explain what changed between the old and new covenants, and discuss why every believer should continually seek the Spirit’s filling.\n\n\n\nIn this episode, you’ll learn:\n\n\n  How Christians should respond to wars, disasters, and uncertainty\n\n  Why fear should never become the controlling force in your decisions\n\n  How Scripture—not feelings—helps you discer",
+   "audioURL": "https://traffic.megaphone.fm/HAEEH6263341021.mp3",
+   "published": "Mon, 17 Aug 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discussion of baptism in the Holy Spirit with theological explanations.",
+   "tradition": "Christian"
   },
   {
    "id": "228efcde-97fc-11f1-9d38-a32497837d53",
@@ -131,7 +144,7 @@
    "published": "Fri, 14 Aug 2026 17:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Christian pastors debate religious liberty and ethics around mosque construction.",
+   "reason": "Explores religious liberty and ethics in a contemporary Christian context.",
    "tradition": "Christian"
   }
  ],
