@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-22T15:27:06.684732+00:00",
+ "generatedAt": "2026-08-22T16:30:32.700834+00:00",
  "showsScanned": 400,
- "candidates": 51,
+ "candidates": 50,
  "picks": [
   {
    "id": "gid://art19-episode-locator/V0/iur22SRHWiNiGpfRVKM21549j_0y9B---0FfG3CyfVI",
@@ -27,7 +27,7 @@
    "published": "Wed, 19 Aug 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A longtime Buddhist meditator discusses meditation's deeper meaning and self-acceptance.",
+   "reason": "A longtime Buddhist meditator discusses meditation's deeper meaning and mystical experience.",
    "tradition": "Buddhist"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Sun, 16 Aug 2026 20:22:54 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A Christian reflection on authentic faith and obedience to Jesus.",
+   "reason": "A Christian reflection on authentic faith versus mere religiosity through Jesus' actions.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Mon, 17 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A modern advocate explains Stoicism's relevance to meaning and ethics.",
+   "reason": "A modern advocate explains Stoicism's relevance to ethics and inner life today.",
    "tradition": "Stoic"
   },
   {
@@ -83,6 +83,19 @@
    "tradition": "Christian"
   },
   {
+   "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "PARIS JACKSON: “No Intervention Could Have Gotten Me Sober”",
+   "summary": "Musician and artist Paris Jackson joins Jay for an extraordinarily raw, courageous, and deeply honest conversation on addiction, recovery, and the messy, non-linear journey of healing. Paris reflects on her unconventional childhood, the chronic loneliness that shadowed her early years, and the dark reality of substance abuse that nearly cost her her life and her voice. She opens up about the trauma of adolescent rehab centers, surviving severe mental health crises, and why true recovery requires moving beyond symptom-focused treatment to embrace holistic health, self-grace, and spiritual surre",
+   "audioURL": "https://traffic.megaphone.fm/GLT2253684611.mp3",
+   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Raw discussion of addiction, recovery, and healing with personal faith struggles.",
+   "tradition": "Interfaith"
+  },
+  {
    "id": "https://www.ldsscriptureteachings.org/?p=34111",
    "showID": "https://www.ldsscriptureteachings.org/feed/podcast/",
    "showTitle": "Talking Scripture",
@@ -92,7 +105,7 @@
    "published": "Fri, 21 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A Christian study of Psalms focusing on worship and spiritual themes.",
+   "reason": "A Christian scriptural study of Psalms with historical and worship context.",
    "tradition": "Christian"
   },
   {
@@ -105,21 +118,8 @@
    "published": "Mon, 17 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses baptism of the Holy Spirit and Christian transformation with some theology.",
+   "reason": "Discusses baptism of the Holy Spirit and Christian transformation.",
    "tradition": "Christian"
-  },
-  {
-   "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "PARIS JACKSON: “No Intervention Could Have Gotten Me Sober”",
-   "summary": "Musician and artist Paris Jackson joins Jay for an extraordinarily raw, courageous, and deeply honest conversation on addiction, recovery, and the messy, non-linear journey of healing. Paris reflects on her unconventional childhood, the chronic loneliness that shadowed her early years, and the dark reality of substance abuse that nearly cost her her life and her voice. She opens up about the trauma of adolescent rehab centers, surviving severe mental health crises, and why true recovery requires moving beyond symptom-focused treatment to embrace holistic health, self-grace, and spiritual surre",
-   "audioURL": "https://traffic.megaphone.fm/GLT2253684611.mp3",
-   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "A personal story of addiction and recovery touching on suffering and healing.",
-   "tradition": "Secular"
   }
  ],
  "history": {
