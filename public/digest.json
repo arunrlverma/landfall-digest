@@ -1,20 +1,20 @@
 {
  "version": 1,
- "generatedAt": "2026-08-22T01:27:44.359386+00:00",
+ "generatedAt": "2026-08-22T02:58:57.146016+00:00",
  "showsScanned": 400,
- "candidates": 53,
+ "candidates": 52,
  "picks": [
   {
-   "id": "228efcde-97fc-11f1-9d38-a32497837d53",
-   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
-   "showTitle": "Live Free with Josh Howerton",
-   "title": "Should Christians Try to Legally Stop MOSQUES Being Built in Their City?! | Live Free with Josh Howerton",
-   "summary": "Should Christians legally oppose a mosque being built in their city? The answer raises difficult questions about religious liberty, biblical conviction, civic responsibility, and the proper role of government.\n\nIn this bonus episode, Pastors Josh, Carlos, and Paul examine the controversy surrounding a proposed mosque expansion in McKinney, Texas. They explore how Christians can engage local government lawfully and wisely while remaining committed to sharing the gospel with Muslim neighbors.\n\nIn this episode, you’ll learn:\n\n\n  How the First Amendment has shaped modern religious-liberty laws\n\n  ",
-   "audioURL": "https://traffic.megaphone.fm/HAEEH7900382030.mp3",
-   "published": "Fri, 14 Aug 2026 17:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discussion on religious liberty and civic ethics from a Christian perspective.",
+   "id": "unshaken.podbean.com/199ff32c-9406-3fa0-ad62-2b845e63d56e",
+   "showID": "https://feed.podbean.com/unshaken/feed.xml",
+   "showTitle": "Unshaken Saints",
+   "title": "The Book of Psalms (1-48) - The Lord Is My Shepherd",
+   "summary": "When life hits you with grief, disorientation, or feeling utterly forsaken by God, prose often falls short. The Book of Psalms gives us a sacred language to pour out our hearts—whether we are crying out \"Help!\", singing \"Thanks!\", or standing in awe of \"Wow!\"\nSummary: In this inspiring study of Psalms 1–48, we step out of historical analysis and into the sanctuary of the heart. Often called the \"Preface of Jesus Christ,\" the Psalter offers a timeless collection of prayers, hymns, and prophecies that directly mirror the Savior's life, death, and resurrection.\nMusic as a Lowest and Highest Gear:",
+   "audioURL": "https://mcdn.podbean.com/mf/web/qcmr737iqymd6yat/Psalms_1-48_full_audio_enhanced74fp3.mp3",
+   "published": "Mon, 17 Aug 2026 19:41:53 -0600",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "A deep engagement with the Psalms as a sacred language for grief, faith, and awe.",
    "tradition": "Christian"
   },
   {
@@ -27,21 +27,8 @@
    "published": "Mon, 17 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A Mormon shares his faith crisis and evolving understanding of church history.",
+   "reason": "A Mormon reflects on faith crisis and evolving belief without abandoning community.",
    "tradition": "Christian"
-  },
-  {
-   "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "PARIS JACKSON: “No Intervention Could Have Gotten Me Sober”",
-   "summary": "Musician and artist Paris Jackson joins Jay for an extraordinarily raw, courageous, and deeply honest conversation on addiction, recovery, and the messy, non-linear journey of healing. Paris reflects on her unconventional childhood, the chronic loneliness that shadowed her early years, and the dark reality of substance abuse that nearly cost her her life and her voice. She opens up about the trauma of adolescent rehab centers, surviving severe mental health crises, and why true recovery requires moving beyond symptom-focused treatment to embrace holistic health, self-grace, and spiritual surre",
-   "audioURL": "https://traffic.megaphone.fm/GLT2253684611.mp3",
-   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A raw conversation on addiction, recovery, trauma, and healing's spiritual dimensions.",
-   "tradition": "Interfaith"
   },
   {
    "id": "8f3e966a-3a71-4092-9b8b-e8dc82968913",
@@ -53,7 +40,7 @@
    "published": "Wed, 19 Aug 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A Buddhist teacher discusses meditation, self-acceptance, and mystical experience.",
+   "reason": "A Buddhist teacher discusses meditation, self-acceptance, and spiritual practice.",
    "tradition": "Buddhist"
   },
   {
@@ -79,8 +66,21 @@
    "published": "Tue, 18 Aug 2026 22:02:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A devotional talk on worth, love, and spiritual peace from a Christian leader.",
+   "reason": "A devotional on self-worth and divine love, addressing spiritual peace and rest.",
    "tradition": "Christian"
+  },
+  {
+   "id": "a101e8f6-9865-11f1-ba21-ab3ec1c2cf3f",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "PARIS JACKSON: “No Intervention Could Have Gotten Me Sober”",
+   "summary": "Musician and artist Paris Jackson joins Jay for an extraordinarily raw, courageous, and deeply honest conversation on addiction, recovery, and the messy, non-linear journey of healing. Paris reflects on her unconventional childhood, the chronic loneliness that shadowed her early years, and the dark reality of substance abuse that nearly cost her her life and her voice. She opens up about the trauma of adolescent rehab centers, surviving severe mental health crises, and why true recovery requires moving beyond symptom-focused treatment to embrace holistic health, self-grace, and spiritual surre",
+   "audioURL": "https://traffic.megaphone.fm/GLT2253684611.mp3",
+   "published": "Mon, 17 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "An honest conversation on addiction, recovery, and healing's complexities.",
+   "tradition": "Secular"
   },
   {
    "id": "fa177f20-9999-11f1-9f84-13c49c0a07dc",
@@ -92,20 +92,20 @@
    "published": "Mon, 17 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores baptism of the Holy Spirit and Christian transformation.",
+   "reason": "Explores baptism of the Holy Spirit and Christian transformation with theological detail.",
    "tradition": "Christian"
   },
   {
-   "id": "unshaken.podbean.com/199ff32c-9406-3fa0-ad62-2b845e63d56e",
-   "showID": "https://feed.podbean.com/unshaken/feed.xml",
-   "showTitle": "Unshaken Saints",
-   "title": "The Book of Psalms (1-48) - The Lord Is My Shepherd",
-   "summary": "When life hits you with grief, disorientation, or feeling utterly forsaken by God, prose often falls short. The Book of Psalms gives us a sacred language to pour out our hearts—whether we are crying out \"Help!\", singing \"Thanks!\", or standing in awe of \"Wow!\"\nSummary: In this inspiring study of Psalms 1–48, we step out of historical analysis and into the sanctuary of the heart. Often called the \"Preface of Jesus Christ,\" the Psalter offers a timeless collection of prayers, hymns, and prophecies that directly mirror the Savior's life, death, and resurrection.\nMusic as a Lowest and Highest Gear:",
-   "audioURL": "https://mcdn.podbean.com/mf/web/qcmr737iqymd6yat/Psalms_1-48_full_audio_enhanced74fp3.mp3",
-   "published": "Mon, 17 Aug 2026 19:41:53 -0600",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "A deep engagement with the Psalms as a sacred language for grief, faith, and awe.",
+   "id": "228efcde-97fc-11f1-9d38-a32497837d53",
+   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
+   "showTitle": "Live Free with Josh Howerton",
+   "title": "Should Christians Try to Legally Stop MOSQUES Being Built in Their City?! | Live Free with Josh Howerton",
+   "summary": "Should Christians legally oppose a mosque being built in their city? The answer raises difficult questions about religious liberty, biblical conviction, civic responsibility, and the proper role of government.\n\nIn this bonus episode, Pastors Josh, Carlos, and Paul examine the controversy surrounding a proposed mosque expansion in McKinney, Texas. They explore how Christians can engage local government lawfully and wisely while remaining committed to sharing the gospel with Muslim neighbors.\n\nIn this episode, you’ll learn:\n\n\n  How the First Amendment has shaped modern religious-liberty laws\n\n  ",
+   "audioURL": "https://traffic.megaphone.fm/HAEEH7900382030.mp3",
+   "published": "Fri, 14 Aug 2026 17:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discussion on religious liberty and civic responsibility from a Christian perspective.",
    "tradition": "Christian"
   }
  ],
