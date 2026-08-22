@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-22T13:36:14.581270+00:00",
+ "generatedAt": "2026-08-22T14:27:19.415506+00:00",
  "showsScanned": 400,
  "candidates": 54,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Mon, 17 Aug 2026 19:41:53 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A deep engagement with the Psalms as a sacred language for grief, faith, and awe.",
+   "reason": "A heartfelt engagement with grief, faith, and prayer through Psalms.",
    "tradition": "Christian"
   },
   {
@@ -27,8 +27,21 @@
    "published": "Tue, 18 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "An AI explores consciousness, identity, and existence in a profound, existential conversation.",
+   "reason": "AI narrates its existence, raising questions of consciousness and identity.",
    "tradition": "Secular"
+  },
+  {
+   "id": "8f3e966a-3a71-4092-9b8b-e8dc82968913",
+   "showID": "https://feeds.libsyn.com/570160/rss",
+   "showTitle": "10% Happier with Dan Harris",
+   "title": "You Can Stop Fixing Yourself: Buddhist Advice on Boundaries, Rituals, and Dropping Your Self-Aggression | Susan Piver",
+   "summary": "Plus: Why you're a \"mystic\" even though you don't know it, how to find the \"magic\" in meditation, and the power of simple apologies (and cleaning the dishes). Susan Piver is a 30 year student of Tibetan Buddhism, New York Times bestselling author, and founder of The Open Heart Project, an online meditation community with close to 20,000 members. Her latest book is  Inexplicable Magic: Meditation for Mystics.  In this episode we talk about:  Why meditation's real payoff can't be explained The crucial difference between mindfulness and awareness Why you can't think your way into oneness The seve",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/05620661-2103-4fe0-9ab9-92bfc4d9cf22/260812_TPH_SusanPiver_Master_AudioVersion_v3.mp3?dest-id=4933335",
+   "published": "Wed, 19 Aug 2026 07:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A deep Buddhist view on meditation, self, and mystical experience.",
+   "tradition": "Buddhist"
   },
   {
    "id": "4a68a8f8-94dc-4f8f-9322-76f9a10d1d0b",
@@ -40,34 +53,8 @@
    "published": "Mon, 17 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A Mormon member reflects on faith crisis and evolving belief.",
+   "reason": "A personal story of faith crisis and doubt within Mormonism.",
    "tradition": "Christian"
-  },
-  {
-   "id": "d6866618-d610-11f0-a49b-c31f19cbdde7",
-   "showID": "https://feeds.megaphone.fm/VMP1684715893",
-   "showTitle": "On with Kara Swisher",
-   "title": "Ryan Holiday on the Case for Stoicism in an Age of Distraction",
-   "summary": "While the Greek and Roman philosophy of Stoicism has been around for millennia, author and media strategist Ryan Holiday is bringing its teachings to a modern audience by way of his popular books and his podcast, “The Daily Stoic.” He says ancient writings by the likes of Seneca, Marcus Aurelius, and Epictetus resonate in times that feel especially chaotic. \n\n\n\nKara and Ryan talk about why young men in particular seem drawn to Stoicism and what powerful figures in the worlds of tech, MAGA politics, and the man-o-sphere get wrong about its teachings. He tells Kara their actions frequently run c",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5141333450.mp3",
-   "published": "Mon, 17 Aug 2026 09:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A modern advocate explains Stoicism's relevance to meaning and distraction.",
-   "tradition": "Stoic"
-  },
-  {
-   "id": "8f3e966a-3a71-4092-9b8b-e8dc82968913",
-   "showID": "https://feeds.libsyn.com/570160/rss",
-   "showTitle": "10% Happier with Dan Harris",
-   "title": "You Can Stop Fixing Yourself: Buddhist Advice on Boundaries, Rituals, and Dropping Your Self-Aggression | Susan Piver",
-   "summary": "Plus: Why you're a \"mystic\" even though you don't know it, how to find the \"magic\" in meditation, and the power of simple apologies (and cleaning the dishes). Susan Piver is a 30 year student of Tibetan Buddhism, New York Times bestselling author, and founder of The Open Heart Project, an online meditation community with close to 20,000 members. Her latest book is  Inexplicable Magic: Meditation for Mystics.  In this episode we talk about:  Why meditation's real payoff can't be explained The crucial difference between mindfulness and awareness Why you can't think your way into oneness The seve",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/05620661-2103-4fe0-9ab9-92bfc4d9cf22/260812_TPH_SusanPiver_Master_AudioVersion_v3.mp3?dest-id=4933335",
-   "published": "Wed, 19 Aug 2026 07:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A Buddhist teacher discusses meditation, self-acceptance, and spiritual practice.",
-   "tradition": "Buddhist"
   },
   {
    "id": "coe22.podbean.com/e6f6bf13-3da4-30e1-bbb8-ce6a461dc81a",
@@ -79,7 +66,7 @@
    "published": "Sun, 16 Aug 2026 20:22:54 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores authentic faith and obedience through Jesus' actions in Matthew.",
+   "reason": "Explores authentic faith and obedience through Jesus' actions.",
    "tradition": "Christian"
   },
   {
@@ -92,8 +79,21 @@
    "published": "Fri, 21 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A study of Psalms with historical and spiritual insights.",
+   "reason": "Historical and spiritual context of Psalms for worship and life.",
    "tradition": "Christian"
+  },
+  {
+   "id": "d6866618-d610-11f0-a49b-c31f19cbdde7",
+   "showID": "https://feeds.megaphone.fm/VMP1684715893",
+   "showTitle": "On with Kara Swisher",
+   "title": "Ryan Holiday on the Case for Stoicism in an Age of Distraction",
+   "summary": "While the Greek and Roman philosophy of Stoicism has been around for millennia, author and media strategist Ryan Holiday is bringing its teachings to a modern audience by way of his popular books and his podcast, “The Daily Stoic.” He says ancient writings by the likes of Seneca, Marcus Aurelius, and Epictetus resonate in times that feel especially chaotic. \n\n\n\nKara and Ryan talk about why young men in particular seem drawn to Stoicism and what powerful figures in the worlds of tech, MAGA politics, and the man-o-sphere get wrong about its teachings. He tells Kara their actions frequently run c",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5141333450.mp3",
+   "published": "Mon, 17 Aug 2026 09:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Modern Stoic philosophy applied to distraction and chaos.",
+   "tradition": "Stoic"
   },
   {
    "id": "6a169d3b-6753-4b80-bead-b4aa0155a669",
@@ -105,7 +105,7 @@
    "published": "Tue, 18 Aug 2026 22:02:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A devotional talk on worth, love, and peace from a Latter-day Saint perspective.",
+   "reason": "A devotional talk on self-worth and divine love beyond achievements.",
    "tradition": "Christian"
   },
   {
@@ -122,19 +122,6 @@
    "tradition": "Secular"
   },
   {
-   "id": "fa177f20-9999-11f1-9f84-13c49c0a07dc",
-   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
-   "showTitle": "Live Free with Josh Howerton",
-   "title": "Is the BAPTISM of the Holy Spirit a REAL Thing?! (What the Bible ACTUALLY Says) | Live Free with Josh Howerton",
-   "summary": "Pastors Josh, Carlos, and Paul unpack Paul’s words to Timothy in 2 Timothy 1 and trace his transformation from a fearful young leader into a faithful, courageous pastor. They also compare the major Christian views of baptism in the Holy Spirit, explain what changed between the old and new covenants, and discuss why every believer should continually seek the Spirit’s filling.\n\n\n\nIn this episode, you’ll learn:\n\n\n  How Christians should respond to wars, disasters, and uncertainty\n\n  Why fear should never become the controlling force in your decisions\n\n  How Scripture—not feelings—helps you discer",
-   "audioURL": "https://traffic.megaphone.fm/HAEEH6263341021.mp3",
-   "published": "Mon, 17 Aug 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discussion on baptism of the Holy Spirit and Christian courage amid uncertainty.",
-   "tradition": "Christian"
-  },
-  {
    "id": "228efcde-97fc-11f1-9d38-a32497837d53",
    "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
    "showTitle": "Live Free with Josh Howerton",
@@ -144,7 +131,7 @@
    "published": "Fri, 14 Aug 2026 17:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Christian pastors discuss religious liberty and ethics in a local political context.",
+   "reason": "A Christian discussion on religious liberty and ethics in civic life, somewhat topical.",
    "tradition": "Christian"
   }
  ],
