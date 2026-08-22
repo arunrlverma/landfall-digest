@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-22T04:38:15.518860+00:00",
+ "generatedAt": "2026-08-22T05:32:36.928644+00:00",
  "showsScanned": 400,
- "candidates": 52,
+ "candidates": 54,
  "picks": [
   {
    "id": "unshaken.podbean.com/199ff32c-9406-3fa0-ad62-2b845e63d56e",
@@ -14,7 +14,7 @@
    "published": "Mon, 17 Aug 2026 19:41:53 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A deep engagement with the Psalms as sacred prayers addressing suffering and faith.",
+   "reason": "A deep engagement with the Psalms as a sacred language for grief, faith, and awe.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Tue, 18 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "An AI narrates its existence, raising deep questions about consciousness and identity.",
+   "reason": "An AI narrates its existence, raising questions of consciousness, identity, and loneliness.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Mon, 17 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A Mormon member's honest struggle with faith and church history.",
+   "reason": "A Mormon member reflects on faith crisis and evolving belief with nuance and honesty.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Wed, 19 Aug 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A Buddhist teacher discusses meditation, self-acceptance, and spiritual practice.",
+   "reason": "A Buddhist teacher discusses meditation, self-acceptance, and spiritual practice beyond self-improvement.",
    "tradition": "Buddhist"
   },
   {
@@ -66,7 +66,20 @@
    "published": "Sun, 16 Aug 2026 20:22:54 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores authentic Christian faith through Jesus' teachings on obedience and devotion.",
+   "reason": "Explores authentic faith and obedience through Jesus' actions in Matthew's gospel.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "https://www.ldsscriptureteachings.org/?p=34111",
+   "showID": "https://www.ldsscriptureteachings.org/feed/podcast/",
+   "showTitle": "Talking Scripture",
+   "title": "Ep 385 | Psalms 1-46, Come Follow Me 2026 (August 17-23)",
+   "summary": "→ Watch on YouTube\n\n\n\n→ Detailed Show Notes\n\n\n\n(00:00) The historical background and purpose of the Psalms.(02:14) Many scholars assert that several of the Psalms were used in Israel’s temple worship, especially during the first temple period. They can be divided into hymns of praise, pleas for help or laments, and thanksgiving songs.(08:44) Some LDS scholars see the setting of the Psalms directly connected to the temple.(15:13) In Psalm 1 the Tree of Life is seen, similar to Nephi’s dream in 1 Nephi 8-11.(17:14) Psalm 2 is an enthronement Psalm. The king is set on a holy hill in Zion and is a",
+   "audioURL": "https://media.blubrry.com/talkingscripture/www.ldsscriptureteachings.org/wp-content/uploads/2026/08/385-Psalm-1-46-final-mp3.mp3",
+   "published": "Fri, 21 Aug 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A study of Psalms with historical and spiritual insights for personal reflection.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +92,7 @@
    "published": "Mon, 17 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A modern advocate explains Stoicism's relevance to meaning and distraction.",
+   "reason": "A modern advocate explains Stoicism's relevance to ethics and inner life today.",
    "tradition": "Stoic"
   },
   {
@@ -92,7 +105,7 @@
    "published": "Tue, 18 Aug 2026 22:02:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A devotional talk on worth, love, and spiritual peace from a Christian leader.",
+   "reason": "A devotional talk on worth, love, and peace from a Latter-day Saint leader.",
    "tradition": "Christian"
   },
   {
@@ -104,9 +117,22 @@
    "audioURL": "https://traffic.megaphone.fm/GLT2253684611.mp3",
    "published": "Mon, 17 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A raw conversation on addiction, recovery, and healing with spiritual undertones.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "228efcde-97fc-11f1-9d38-a32497837d53",
+   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
+   "showTitle": "Live Free with Josh Howerton",
+   "title": "Should Christians Try to Legally Stop MOSQUES Being Built in Their City?! | Live Free with Josh Howerton",
+   "summary": "Should Christians legally oppose a mosque being built in their city? The answer raises difficult questions about religious liberty, biblical conviction, civic responsibility, and the proper role of government.\n\nIn this bonus episode, Pastors Josh, Carlos, and Paul examine the controversy surrounding a proposed mosque expansion in McKinney, Texas. They explore how Christians can engage local government lawfully and wisely while remaining committed to sharing the gospel with Muslim neighbors.\n\nIn this episode, you’ll learn:\n\n\n  How the First Amendment has shaped modern religious-liberty laws\n\n  ",
+   "audioURL": "https://traffic.megaphone.fm/HAEEH7900382030.mp3",
+   "published": "Fri, 14 Aug 2026 17:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "An honest conversation on addiction and healing touching on suffering and recovery.",
-   "tradition": "Secular"
+   "reason": "Christian pastors debate religious liberty and ethics around mosque construction.",
+   "tradition": "Christian"
   }
  ],
  "history": {
@@ -266,6 +292,7 @@
   "687d7cc0-9cf2-11f1-a10b-436692614587": "2026-08-21",
   "1a450273-ed58-4678-9e68-b6d130944a56": "2026-08-21",
   "4b9a4649-10b5-46a0-b3a7-b4ad00d8550e": "2026-08-21",
-  "https://api.spreaker.com/episode/74412472": "2026-08-21"
+  "https://api.spreaker.com/episode/74412472": "2026-08-21",
+  "https://www.ldsscriptureteachings.org/?p=34111": "2026-08-22"
  }
 }
