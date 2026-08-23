@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-23T20:29:12.469239+00:00",
+ "generatedAt": "2026-08-23T21:26:46.111959+00:00",
  "showsScanned": 400,
  "candidates": 51,
  "picks": [
@@ -27,7 +27,7 @@
    "published": "Thu, 20 Aug 2026 16:00:01 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores near-death experiences and their common features about life and death.",
+   "reason": "Examines near-death experiences and their common features about life and death.",
    "tradition": "Interfaith"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Tue, 18 Aug 2026 16:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Examines scientific and philosophical questions about consciousness and self.",
+   "reason": "Serious scientific and philosophical inquiry into consciousness and its mysteries.",
    "tradition": "Secular"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Fri, 21 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Neuroscientific and Buddhist insights on suffering, happiness, and mindfulness practice.",
+   "reason": "Connects neuroscience and mindfulness with suffering and happiness.",
    "tradition": "Buddhist"
   },
   {
@@ -79,8 +79,21 @@
    "published": "Wed, 19 Aug 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores intuition as a universal capacity with spiritual and psychological insights.",
+   "reason": "Discusses intuition as a universal capacity with spiritual and psychological insights.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "5565a244-9c51-11f1-b8ea-e308145cac46",
+   "showID": "https://feeds.megaphone.fm/hubermanlab",
+   "showTitle": "Huberman Lab",
+   "title": "Essentials: How to Access Your Creativity | Rick Rubin",
+   "summary": "In this Huberman Lab Essentials episode, my guest Rick Rubin, world-renowned music producer and author of The Creative Act: A Way of Being, and I discuss how to access creativity by noticing ideas, trusting your taste and staying fully present with the work. Rick explains the phases of the creative process and how focus, disengagement, self-doubt, deadlines and meditation can support original work. We also explore perception, pro wrestling and why remaining open to uncertainty can help anyone create more authentically.\n\nThank you to our sponsors\n\nAG1: https://drinkag1.com/huberman\n\nLMNT: https",
+   "audioURL": "https://traffic.megaphone.fm/SCIM7816635332.mp3",
+   "published": "Thu, 20 Aug 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discussion on creativity, presence, and uncertainty with philosophical undertones.",
+   "tradition": "Secular"
   },
   {
    "id": "Buzzsprout-19670818",
@@ -92,7 +105,7 @@
    "published": "Thu, 20 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal spiritual awakening story emphasizing healing and purpose.",
+   "reason": "A spiritual awakening story about healing and purpose in a global context.",
    "tradition": "Interfaith"
   },
   {
@@ -105,7 +118,7 @@
    "published": "Tue, 18 Aug 2026 17:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/d9/fe/acd9fef8-5b5a-1720-6426-e27c98a01e74/mza_11018966765269685189.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A physicist discusses consciousness and reality but with a speculative, scientific focus.",
+   "reason": "Discusses consciousness and physics but with a speculative, broad approach.",
    "tradition": "Secular"
   },
   {
@@ -118,7 +131,7 @@
    "published": "Sun, 23 Aug 2026 19:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6e/44/98/6e4498e0-f689-a43b-0594-ffb7f2a787eb/mza_3521021896468381939.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A personal account of spirit communication that raises questions about life after death.",
+   "reason": "Personal experience of spirits leading to reflections on life and death, with some depth.",
    "tradition": "Interfaith"
   },
   {
@@ -131,21 +144,8 @@
    "published": "Sun, 23 Aug 2026 17:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6e/44/98/6e4498e0-f689-a43b-0594-ffb7f2a787eb/mza_3521021896468381939.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores personal and scientific perspectives on spirits and what may lie beyond death.",
+   "reason": "Personal connection to spirits and energy, exploring existence beyond physical life.",
    "tradition": "Interfaith"
-  },
-  {
-   "id": "5565a244-9c51-11f1-b8ea-e308145cac46",
-   "showID": "https://feeds.megaphone.fm/hubermanlab",
-   "showTitle": "Huberman Lab",
-   "title": "Essentials: How to Access Your Creativity | Rick Rubin",
-   "summary": "In this Huberman Lab Essentials episode, my guest Rick Rubin, world-renowned music producer and author of The Creative Act: A Way of Being, and I discuss how to access creativity by noticing ideas, trusting your taste and staying fully present with the work. Rick explains the phases of the creative process and how focus, disengagement, self-doubt, deadlines and meditation can support original work. We also explore perception, pro wrestling and why remaining open to uncertainty can help anyone create more authentically.\n\nThank you to our sponsors\n\nAG1: https://drinkag1.com/huberman\n\nLMNT: https",
-   "audioURL": "https://traffic.megaphone.fm/SCIM7816635332.mp3",
-   "published": "Thu, 20 Aug 2026 08:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discussion on creativity, presence, and uncertainty with some philosophical depth.",
-   "tradition": "Secular"
   }
  ],
  "history": {
