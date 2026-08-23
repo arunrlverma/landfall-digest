@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-23T21:26:46.111959+00:00",
+ "generatedAt": "2026-08-23T22:27:40.041339+00:00",
  "showsScanned": 400,
- "candidates": 51,
+ "candidates": 52,
  "picks": [
   {
    "id": "https://api.spreaker.com/episode/74247548",
@@ -14,7 +14,7 @@
    "published": "Sat, 22 Aug 2026 11:30:03 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A physicist deeply examines consciousness, reality, and existence beyond materialism.",
+   "reason": "A deep discussion on consciousness, reality, and AI from a physicist and consciousness researcher.",
    "tradition": "Secular"
   },
   {
@@ -27,8 +27,8 @@
    "published": "Thu, 20 Aug 2026 16:00:01 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Examines near-death experiences and their common features about life and death.",
-   "tradition": "Interfaith"
+   "reason": "Examines near-death experiences and what they reveal about life and death.",
+   "tradition": "Secular"
   },
   {
    "id": "0d56870b-6ce2-42fd-be40-aac9ce0ed188",
@@ -40,8 +40,21 @@
    "published": "Tue, 18 Aug 2026 16:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Serious scientific and philosophical inquiry into consciousness and its mysteries.",
+   "reason": "A scientific inquiry into consciousness and its mysteries.",
    "tradition": "Secular"
+  },
+  {
+   "id": "9431e642-37ba-48f6-ade8-6cabd3a8915b",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Marley's Faith Crisis Pulled Her Away from the Church....and Why She Decided to Stay",
+   "summary": "\" The answer to every question or concern that anybody ever has is that it will all be okay because of the atonement of Jesus Christ. That is what it's for. That is why they say the first principle of the gospel is faith in the Lord Jesus Christ. It is real life. It's not just something that we tell Primary kids because it's cute, and we turned it into a cute little story and song. It is real. Start there. I came to really love my Savior, and He came to really help me.\"Purchase Come Back to Christ Event 2026 Tickets Here: www.comebackpodcast.orgMemor Jewelry code COMEBACK for 10% offhttps://me",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/124356171/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-17%2F430024294-44100-2-cc0cf2d640ba1.m4a",
+   "published": "Sun, 23 Aug 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Honest discussion of faith crisis and return grounded in personal experience.",
+   "tradition": "Christian"
   },
   {
    "id": "6ac351b3-4f9c-49e6-beb1-6cc0a89ca861",
@@ -53,8 +66,21 @@
    "published": "Sun, 23 Aug 2026 00:15:48 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A Christian perspective on suffering as a path to faith and character growth.",
+   "reason": "Explores suffering as a spiritual and character-building process in Christian faith.",
    "tradition": "Christian"
+  },
+  {
+   "id": "792ba37c-9a99-11f1-802d-6faff96a5ef8",
+   "showID": "https://feeds.megaphone.fm/GLT1412515089",
+   "showTitle": "The Joe Rogan Experience",
+   "title": "#2541 - Thomas Campbell",
+   "summary": "Thomas Campbell is a physicist, consciousness researcher,&nbsp;and&nbsp;author of the&nbsp;\"My Big TOE\" trilogy.\n\nwww.youtube.com/@twcjr44\n\nwww.my-big-toe.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/rogan or through my promo code ROGAN.\n\n\n\nOrder ALDI on Uber Eats: https://earn.sng.link/A99vk/i2fm/okid\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+   "audioURL": "https://traffic.megaphone.fm/GLT7603949559.mp3",
+   "published": "Tue, 18 Aug 2026 17:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/d9/fe/acd9fef8-5b5a-1720-6426-e27c98a01e74/mza_11018966765269685189.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A physicist discusses consciousness and reality from a scientific and philosophical view.",
+   "tradition": "Secular"
   },
   {
    "id": "429f28b2-9d21-11f1-b05c-53764e11cd27",
@@ -66,8 +92,21 @@
    "published": "Fri, 21 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Connects neuroscience and mindfulness with suffering and happiness.",
+   "reason": "Neuroscientist links mindfulness and brain health with Buddhist insights on suffering.",
    "tradition": "Buddhist"
+  },
+  {
+   "id": "Buzzsprout-19670818",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "I chose to Live My Purpose in a World that is creating the Generation of Change - The Spiritual Awakening That Inspired Me to Help Heal Humanity, One Smile at a Time",
+   "summary": "What if healing yourself isn’t the destination, but the beginning of something much greater?In this episode of the WE Podcast, Joe Mittiga shares the spiritual awakening that helped him realize his healing was preparing him to live his purpose. He explores what he calls the Generation of Change, a time when people around the world are searching for deeper meaning, authentic connection, and a life that goes beyond traditional definitions of success. Joe shares how his experiences in Africa opened his eyes to the global water crisis and inspired Project Smile, connecting his personal healing jou",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19670818-i-chose-to-live-my-purpose-in-a-world-that-is-creating-the-generation-of-change-the-spiritual-awakening-that-inspired-me-to-help-heal-humanity-one-smile-at-a-time.mp3",
+   "published": "Thu, 20 Aug 2026 07:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Spiritual awakening and purpose discussed with a focus on healing and meaning.",
+   "tradition": "Interfaith"
   },
   {
    "id": "gid://art19-episode-locator/V0/EtIdiv-1ShmB7mj0_gP8rq_G0NtAo7MocGGM-Cg7WcM",
@@ -79,7 +118,7 @@
    "published": "Wed, 19 Aug 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses intuition as a universal capacity with spiritual and psychological insights.",
+   "reason": "Discusses intuition as a universal human capacity with spiritual dimensions.",
    "tradition": "Interfaith"
   },
   {
@@ -92,60 +131,34 @@
    "published": "Thu, 20 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discussion on creativity, presence, and uncertainty with philosophical undertones.",
+   "reason": "Explores creativity, presence, and uncertainty with philosophical depth.",
    "tradition": "Secular"
   },
   {
-   "id": "Buzzsprout-19670818",
-   "showID": "https://rss.buzzsprout.com/2547586.rss",
-   "showTitle": "We!",
-   "title": "I chose to Live My Purpose in a World that is creating the Generation of Change - The Spiritual Awakening That Inspired Me to Help Heal Humanity, One Smile at a Time",
-   "summary": "What if healing yourself isn’t the destination, but the beginning of something much greater?In this episode of the WE Podcast, Joe Mittiga shares the spiritual awakening that helped him realize his healing was preparing him to live his purpose. He explores what he calls the Generation of Change, a time when people around the world are searching for deeper meaning, authentic connection, and a life that goes beyond traditional definitions of success. Joe shares how his experiences in Africa opened his eyes to the global water crisis and inspired Project Smile, connecting his personal healing jou",
-   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19670818-i-chose-to-live-my-purpose-in-a-world-that-is-creating-the-generation-of-change-the-spiritual-awakening-that-inspired-me-to-help-heal-humanity-one-smile-at-a-time.mp3",
-   "published": "Thu, 20 Aug 2026 07:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
+   "id": "c1e443f9-3911-417a-ae18-f7c259760ba1",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Kiaya was a Heroin Addict for 10 Years...A Cop Made Her a Promise, and Jesus did the Rest",
+   "summary": "\"No matter where you're at or what you're doing or what you feel about yourself, I promise you that you can have a bright and better future for yourself. All you have to do is decide wherever you are or wherever you're at spiritually, physically, mentally, emotionally, that you can choose for yourself to have a better day. That this could be the best day of your life, that this day you can choose to do something different with your life. Whatever you're struggling with, it doesn't have to be as serious as what I've struggled with, you can choose better for yourself, and that's exactly what you",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/124235699/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-14%2F429860327-44100-2-be1d12fb3cb9.m4a",
+   "published": "Sun, 16 Aug 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A spiritual awakening story about healing and purpose in a global context.",
-   "tradition": "Interfaith"
+   "reason": "Personal recovery story with Christian faith but more testimonial than philosophical.",
+   "tradition": "Christian"
   },
   {
-   "id": "792ba37c-9a99-11f1-802d-6faff96a5ef8",
-   "showID": "https://feeds.megaphone.fm/GLT1412515089",
-   "showTitle": "The Joe Rogan Experience",
-   "title": "#2541 - Thomas Campbell",
-   "summary": "Thomas Campbell is a physicist, consciousness researcher,&nbsp;and&nbsp;author of the&nbsp;\"My Big TOE\" trilogy.\n\nwww.youtube.com/@twcjr44\n\nwww.my-big-toe.com\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nDon’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/rogan or through my promo code ROGAN.\n\n\n\nOrder ALDI on Uber Eats: https://earn.sng.link/A99vk/i2fm/okid\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-   "audioURL": "https://traffic.megaphone.fm/GLT7603949559.mp3",
-   "published": "Tue, 18 Aug 2026 17:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/d9/fe/acd9fef8-5b5a-1720-6426-e27c98a01e74/mza_11018966765269685189.jpg/600x600bb.jpg",
+   "id": "prx_192_a44af6cc-b1a2-416d-9c43-e5c5f11279f7",
+   "showID": "https://rss.pdrl.fm/0f808e/feeds.feedburner.com/TheScienceOfHappiness",
+   "showTitle": "The Science of Happiness",
+   "title": "Happiness Break: A Practice In Moving Through Stress",
+   "summary": "Join yoga and meditation teacher Jonathan Relucio for a trauma-informed practice combining mindful movement and breathing to reduce tension and build resilience to stress.How To Do This Practice: \n\nGet comfortable: Sit or lie down and notice the support beneath your body, keeping your eyes open or closed—whichever feels comfortable.\n\nConnect with your body: Bring your attention inward and notice how your body, mind, and heart feel in the present moment.\n\nRelease tension: Inhale as you gently shrug your shoulders toward your ears, then exhale as you relax and release them.\n\nMove with your breat",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/dovetail.prxu.org/192/a44af6cc-b1a2-416d-9c43-e5c5f11279f7/SoH_HB_Jonathan_Relucio_-_Mindful_Movement_and_Breathing_mix_2.mp3",
+   "published": "Thu, 20 Aug 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses consciousness and physics but with a speculative, broad approach.",
+   "reason": "Guided mindful movement and breathing practice addressing stress and resilience.",
    "tradition": "Secular"
-  },
-  {
-   "id": "audioboom-01a01783-4e8e-752d-aa52-3e481e4f2c25",
-   "showID": "https://audioboom.com/channels/4567086.rss",
-   "showTitle": "Real Ghost Stories Online",
-   "title": "Academic Afterlife: Studying Spirits with Science, Part Two | The Grave Talks",
-   "summary": "This is a Grave Talks CLASSIC EPISODE! PART TWOFor Heather Leigh Landon, the paranormal didn’t begin as a curiosity—it began as a connection. In this episode of The Grave Talks, she shares how hearing the voice of her grandfather after his passing opened a door that never fully closed.What started as a deeply personal experience gradually expanded into a lifelong awareness of spirits and energy, shaping both her path and her understanding of what may exist beyond the physical world. Over time, that connection led her to formally study the paranormal, earning a Ph.D. in Metaphysical and Humanis",
-   "audioURL": "https://pdst.fm/e/clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8942783.mp3?modified=1787100919&amp;sid=4567086&amp;source=rss",
-   "published": "Sun, 23 Aug 2026 19:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6e/44/98/6e4498e0-f689-a43b-0594-ffb7f2a787eb/mza_3521021896468381939.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Personal experience of spirits leading to reflections on life and death, with some depth.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "audioboom-01a0177f-c884-7bdb-b592-ddf2bac58f67",
-   "showID": "https://audioboom.com/channels/4567086.rss",
-   "showTitle": "Real Ghost Stories Online",
-   "title": "Academic Afterlife: Studying Spirits with Science, Part One | The Grave Talks",
-   "summary": "This is a Grave Talks CLASSIC EPISODE!For Heather Leigh Landon, the paranormal didn’t begin as a curiosity—it began as a connection. In this episode of The Grave Talks, she shares how hearing the voice of her grandfather after his passing opened a door that never fully closed.What started as a deeply personal experience gradually expanded into a lifelong awareness of spirits and energy, shaping both her path and her understanding of what may exist beyond the physical world. Over time, that connection led her to formally study the paranormal, earning a Ph.D. in Metaphysical and Humanistic Studi",
-   "audioURL": "https://pdst.fm/e/clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8942782.mp3?modified=1787100694&amp;sid=4567086&amp;source=rss",
-   "published": "Sun, 23 Aug 2026 17:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6e/44/98/6e4498e0-f689-a43b-0594-ffb7f2a787eb/mza_3521021896468381939.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Personal connection to spirits and energy, exploring existence beyond physical life.",
-   "tradition": "Interfaith"
   }
  ],
  "history": {
@@ -305,6 +318,7 @@
   "6ac351b3-4f9c-49e6-beb1-6cc0a89ca861": "2026-08-23",
   "audioboom-01a0177f-c884-7bdb-b592-ddf2bac58f67": "2026-08-23",
   "https://api.spreaker.com/episode/73530185": "2026-08-23",
-  "audioboom-01a01783-4e8e-752d-aa52-3e481e4f2c25": "2026-08-23"
+  "audioboom-01a01783-4e8e-752d-aa52-3e481e4f2c25": "2026-08-23",
+  "9431e642-37ba-48f6-ade8-6cabd3a8915b": "2026-08-23"
  }
 }
