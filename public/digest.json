@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-23T14:28:21.996604+00:00",
+ "generatedAt": "2026-08-23T15:28:07.829529+00:00",
  "showsScanned": 400,
- "candidates": 51,
+ "candidates": 50,
  "picks": [
   {
    "id": "https://api.spreaker.com/episode/74247548",
@@ -27,7 +27,7 @@
    "published": "Thu, 20 Aug 2026 16:00:01 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Investigates near-death experiences and what they reveal about life and death.",
+   "reason": "Examines near-death experiences and what they reveal about life and death.",
    "tradition": "Secular"
   },
   {
@@ -66,7 +66,20 @@
    "published": "Tue, 18 Aug 2026 17:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/d9/fe/acd9fef8-5b5a-1720-6426-e27c98a01e74/mza_11018966765269685189.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A physicist discusses consciousness and reality from a secular, scientific viewpoint.",
+   "reason": "A physicist discusses consciousness and reality from a scientific and philosophical view.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "5565a244-9c51-11f1-b8ea-e308145cac46",
+   "showID": "https://feeds.megaphone.fm/hubermanlab",
+   "showTitle": "Huberman Lab",
+   "title": "Essentials: How to Access Your Creativity | Rick Rubin",
+   "summary": "In this Huberman Lab Essentials episode, my guest Rick Rubin, world-renowned music producer and author of The Creative Act: A Way of Being, and I discuss how to access creativity by noticing ideas, trusting your taste and staying fully present with the work. Rick explains the phases of the creative process and how focus, disengagement, self-doubt, deadlines and meditation can support original work. We also explore perception, pro wrestling and why remaining open to uncertainty can help anyone create more authentically.\n\nThank you to our sponsors\n\nAG1: https://drinkag1.com/huberman\n\nLMNT: https",
+   "audioURL": "https://traffic.megaphone.fm/SCIM7816635332.mp3",
+   "published": "Thu, 20 Aug 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Discusses creativity, presence, self-doubt, and meditation with a focus on inner life.",
    "tradition": "Secular"
   },
   {
@@ -118,7 +131,7 @@
    "published": "Wed, 19 Aug 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores intuition as a universal capacity beyond rare psychic gifts.",
+   "reason": "Discusses intuition as a universal capacity with spiritual and practical insights.",
    "tradition": "Interfaith"
   },
   {
@@ -131,21 +144,8 @@
    "published": "Thu, 20 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Guides a trauma-informed mindful practice to reduce stress and build resilience.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "5565a244-9c51-11f1-b8ea-e308145cac46",
-   "showID": "https://feeds.megaphone.fm/hubermanlab",
-   "showTitle": "Huberman Lab",
-   "title": "Essentials: How to Access Your Creativity | Rick Rubin",
-   "summary": "In this Huberman Lab Essentials episode, my guest Rick Rubin, world-renowned music producer and author of The Creative Act: A Way of Being, and I discuss how to access creativity by noticing ideas, trusting your taste and staying fully present with the work. Rick explains the phases of the creative process and how focus, disengagement, self-doubt, deadlines and meditation can support original work. We also explore perception, pro wrestling and why remaining open to uncertainty can help anyone create more authentically.\n\nThank you to our sponsors\n\nAG1: https://drinkag1.com/huberman\n\nLMNT: https",
-   "audioURL": "https://traffic.megaphone.fm/SCIM7816635332.mp3",
-   "published": "Thu, 20 Aug 2026 08:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Explores creativity, presence, and uncertainty with some philosophical depth.",
-   "tradition": "Secular"
+   "reason": "Guides mindful movement and breath to build resilience and reduce stress.",
+   "tradition": "Buddhist"
   }
  ],
  "history": {
