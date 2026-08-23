@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-23T04:42:24.587988+00:00",
+ "generatedAt": "2026-08-23T05:34:14.815416+00:00",
  "showsScanned": 400,
- "candidates": 53,
+ "candidates": 54,
  "picks": [
   {
    "id": "1a450273-ed58-4678-9e68-b6d130944a56",
@@ -27,20 +27,7 @@
    "published": "Tue, 18 Aug 2026 16:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Scientific and philosophical inquiry into consciousness and its mysteries.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "fc44fac2-974e-11f1-b6f4-13c5730757b2",
-   "showID": "https://feeds.megaphone.fm/TOE4643226064",
-   "showTitle": "Theories of Everything with Curt Jaimungal",
-   "title": "Peter Godfrey-Smith: This Scientist Found Earth’s “Alien” Minds",
-   "summary": "SPONSORS:\n- Take Cheers Restore after your last drink or before going to bed and wake up feeling at least 50% better — or your money back. For a limited time our listeners are getting 20% off their entire order at https://cheershealth.com/TOE\n- I personally subscribe to The Economist. TOE listeners get 35% off the annual subscription. No other podcast has this! https://economist.com/TOE\n\nPeter Godfrey-Smith, professor at the University of Sydney and author of Other Minds: The Octopus and the Deep Origins of Consciousness, joins to explain why he thinks meeting an octopus is the closest we'll g",
-   "audioURL": "https://s.gum.fm/s-62d83916a854b1cc0031878d/pscrb.fm/rss/p/traffic.megaphone.fm/TEMI4996650257.mp3",
-   "published": "Mon, 17 Aug 2026 15:27:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/6c/4a/2a6c4a61-4ae0-809b-ca09-ce2adede4cef/mza_13635592988277147456.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Philosophical and scientific discussion on consciousness and alien minds.",
+   "reason": "Deep scientific and philosophical discussion on consciousness and its mysteries.",
    "tradition": "Secular"
   },
   {
@@ -57,30 +44,17 @@
    "tradition": "Secular"
   },
   {
-   "id": "c1e443f9-3911-417a-ae18-f7c259760ba1",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "Kiaya was a Heroin Addict for 10 Years...A Cop Made Her a Promise, and Jesus did the Rest",
-   "summary": "\"No matter where you're at or what you're doing or what you feel about yourself, I promise you that you can have a bright and better future for yourself. All you have to do is decide wherever you are or wherever you're at spiritually, physically, mentally, emotionally, that you can choose for yourself to have a better day. That this could be the best day of your life, that this day you can choose to do something different with your life. Whatever you're struggling with, it doesn't have to be as serious as what I've struggled with, you can choose better for yourself, and that's exactly what you",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/124235699/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-14%2F429860327-44100-2-be1d12fb3cb9.m4a",
-   "published": "Sun, 16 Aug 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "id": "fc44fac2-974e-11f1-b6f4-13c5730757b2",
+   "showID": "https://feeds.megaphone.fm/TOE4643226064",
+   "showTitle": "Theories of Everything with Curt Jaimungal",
+   "title": "Peter Godfrey-Smith: This Scientist Found Earth’s “Alien” Minds",
+   "summary": "SPONSORS:\n- Take Cheers Restore after your last drink or before going to bed and wake up feeling at least 50% better — or your money back. For a limited time our listeners are getting 20% off their entire order at https://cheershealth.com/TOE\n- I personally subscribe to The Economist. TOE listeners get 35% off the annual subscription. No other podcast has this! https://economist.com/TOE\n\nPeter Godfrey-Smith, professor at the University of Sydney and author of Other Minds: The Octopus and the Deep Origins of Consciousness, joins to explain why he thinks meeting an octopus is the closest we'll g",
+   "audioURL": "https://s.gum.fm/s-62d83916a854b1cc0031878d/pscrb.fm/rss/p/traffic.megaphone.fm/TEMI4996650257.mp3",
+   "published": "Mon, 17 Aug 2026 15:27:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/6c/4a/2a6c4a61-4ae0-809b-ca09-ce2adede4cef/mza_13635592988277147456.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A personal story of addiction and faith transformation centered on Jesus.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "Buzzsprout-19670818",
-   "showID": "https://rss.buzzsprout.com/2547586.rss",
-   "showTitle": "We!",
-   "title": "I chose to Live My Purpose in a World that is creating the Generation of Change - The Spiritual Awakening That Inspired Me to Help Heal Humanity, One Smile at a Time",
-   "summary": "What if healing yourself isn’t the destination, but the beginning of something much greater?In this episode of the WE Podcast, Joe Mittiga shares the spiritual awakening that helped him realize his healing was preparing him to live his purpose. He explores what he calls the Generation of Change, a time when people around the world are searching for deeper meaning, authentic connection, and a life that goes beyond traditional definitions of success. Joe shares how his experiences in Africa opened his eyes to the global water crisis and inspired Project Smile, connecting his personal healing jou",
-   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19670818-i-chose-to-live-my-purpose-in-a-world-that-is-creating-the-generation-of-change-the-spiritual-awakening-that-inspired-me-to-help-heal-humanity-one-smile-at-a-time.mp3",
-   "published": "Thu, 20 Aug 2026 07:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A spiritual awakening story about healing and living purposefully.",
-   "tradition": "Interfaith"
+   "reason": "Philosophical discussion on alien minds and consciousness in nature.",
+   "tradition": "Secular"
   },
   {
    "id": "5565a244-9c51-11f1-b8ea-e308145cac46",
@@ -92,8 +66,34 @@
    "published": "Thu, 20 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores creativity, presence, and uncertainty with philosophical depth.",
+   "reason": "Discusses creativity, presence, and uncertainty with philosophical undertones.",
    "tradition": "Secular"
+  },
+  {
+   "id": "c1e443f9-3911-417a-ae18-f7c259760ba1",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Kiaya was a Heroin Addict for 10 Years...A Cop Made Her a Promise, and Jesus did the Rest",
+   "summary": "\"No matter where you're at or what you're doing or what you feel about yourself, I promise you that you can have a bright and better future for yourself. All you have to do is decide wherever you are or wherever you're at spiritually, physically, mentally, emotionally, that you can choose for yourself to have a better day. That this could be the best day of your life, that this day you can choose to do something different with your life. Whatever you're struggling with, it doesn't have to be as serious as what I've struggled with, you can choose better for yourself, and that's exactly what you",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/124235699/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-14%2F429860327-44100-2-be1d12fb3cb9.m4a",
+   "published": "Sun, 16 Aug 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Personal story of addiction and faith, touching on transformation and hope.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "Buzzsprout-19670818",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "I chose to Live My Purpose in a World that is creating the Generation of Change - The Spiritual Awakening That Inspired Me to Help Heal Humanity, One Smile at a Time",
+   "summary": "What if healing yourself isn’t the destination, but the beginning of something much greater?In this episode of the WE Podcast, Joe Mittiga shares the spiritual awakening that helped him realize his healing was preparing him to live his purpose. He explores what he calls the Generation of Change, a time when people around the world are searching for deeper meaning, authentic connection, and a life that goes beyond traditional definitions of success. Joe shares how his experiences in Africa opened his eyes to the global water crisis and inspired Project Smile, connecting his personal healing jou",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19670818-i-chose-to-live-my-purpose-in-a-world-that-is-creating-the-generation-of-change-the-spiritual-awakening-that-inspired-me-to-help-heal-humanity-one-smile-at-a-time.mp3",
+   "published": "Thu, 20 Aug 2026 07:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Personal spiritual awakening story about healing and purpose, with broad spiritual themes.",
+   "tradition": "Interfaith"
   },
   {
    "id": "prx_192_a44af6cc-b1a2-416d-9c43-e5c5f11279f7",
@@ -105,7 +105,7 @@
    "published": "Thu, 20 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Offers a trauma-informed mindfulness practice addressing stress and resilience.",
+   "reason": "Offers mindful movement to manage stress, touching on inner life but not deeply.",
    "tradition": "Secular"
   }
  ],
