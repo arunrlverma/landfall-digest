@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-23T05:34:14.815416+00:00",
+ "generatedAt": "2026-08-23T06:49:52.878059+00:00",
  "showsScanned": 400,
  "candidates": 54,
  "picks": [
@@ -27,7 +27,7 @@
    "published": "Tue, 18 Aug 2026 16:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep scientific and philosophical discussion on consciousness and its mysteries.",
+   "reason": "Serious scientific and philosophical discussion on consciousness and self.",
    "tradition": "Secular"
   },
   {
@@ -44,6 +44,19 @@
    "tradition": "Secular"
   },
   {
+   "id": "c1e443f9-3911-417a-ae18-f7c259760ba1",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Kiaya was a Heroin Addict for 10 Years...A Cop Made Her a Promise, and Jesus did the Rest",
+   "summary": "\"No matter where you're at or what you're doing or what you feel about yourself, I promise you that you can have a bright and better future for yourself. All you have to do is decide wherever you are or wherever you're at spiritually, physically, mentally, emotionally, that you can choose for yourself to have a better day. That this could be the best day of your life, that this day you can choose to do something different with your life. Whatever you're struggling with, it doesn't have to be as serious as what I've struggled with, you can choose better for yourself, and that's exactly what you",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/124235699/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-14%2F429860327-44100-2-be1d12fb3cb9.m4a",
+   "published": "Sun, 16 Aug 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Personal story of addiction and spiritual transformation involving Jesus.",
+   "tradition": "Christian"
+  },
+  {
    "id": "fc44fac2-974e-11f1-b6f4-13c5730757b2",
    "showID": "https://feeds.megaphone.fm/TOE4643226064",
    "showTitle": "Theories of Everything with Curt Jaimungal",
@@ -53,7 +66,7 @@
    "published": "Mon, 17 Aug 2026 15:27:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2a/6c/4a/2a6c4a61-4ae0-809b-ca09-ce2adede4cef/mza_13635592988277147456.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Philosophical discussion on alien minds and consciousness in nature.",
+   "reason": "Philosophical discussion on alien minds and consciousness in octopuses.",
    "tradition": "Secular"
   },
   {
@@ -66,21 +79,8 @@
    "published": "Thu, 20 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses creativity, presence, and uncertainty with philosophical undertones.",
+   "reason": "Discusses creativity, presence, and uncertainty with a focus on original work.",
    "tradition": "Secular"
-  },
-  {
-   "id": "c1e443f9-3911-417a-ae18-f7c259760ba1",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "Kiaya was a Heroin Addict for 10 Years...A Cop Made Her a Promise, and Jesus did the Rest",
-   "summary": "\"No matter where you're at or what you're doing or what you feel about yourself, I promise you that you can have a bright and better future for yourself. All you have to do is decide wherever you are or wherever you're at spiritually, physically, mentally, emotionally, that you can choose for yourself to have a better day. That this could be the best day of your life, that this day you can choose to do something different with your life. Whatever you're struggling with, it doesn't have to be as serious as what I've struggled with, you can choose better for yourself, and that's exactly what you",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/124235699/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-14%2F429860327-44100-2-be1d12fb3cb9.m4a",
-   "published": "Sun, 16 Aug 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Personal story of addiction and faith, touching on transformation and hope.",
-   "tradition": "Christian"
   },
   {
    "id": "Buzzsprout-19670818",
@@ -92,21 +92,21 @@
    "published": "Thu, 20 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal spiritual awakening story about healing and purpose, with broad spiritual themes.",
+   "reason": "Personal spiritual awakening story about healing and purpose.",
    "tradition": "Interfaith"
   },
   {
-   "id": "prx_192_a44af6cc-b1a2-416d-9c43-e5c5f11279f7",
-   "showID": "https://rss.pdrl.fm/0f808e/feeds.feedburner.com/TheScienceOfHappiness",
-   "showTitle": "The Science of Happiness",
-   "title": "Happiness Break: A Practice In Moving Through Stress",
-   "summary": "Join yoga and meditation teacher Jonathan Relucio for a trauma-informed practice combining mindful movement and breathing to reduce tension and build resilience to stress.How To Do This Practice: \n\nGet comfortable: Sit or lie down and notice the support beneath your body, keeping your eyes open or closed—whichever feels comfortable.\n\nConnect with your body: Bring your attention inward and notice how your body, mind, and heart feel in the present moment.\n\nRelease tension: Inhale as you gently shrug your shoulders toward your ears, then exhale as you relax and release them.\n\nMove with your breat",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/dovetail.prxu.org/192/a44af6cc-b1a2-416d-9c43-e5c5f11279f7/SoH_HB_Jonathan_Relucio_-_Mindful_Movement_and_Breathing_mix_2.mp3",
-   "published": "Thu, 20 Aug 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
+   "id": "gid://art19-episode-locator/V0/EtIdiv-1ShmB7mj0_gP8rq_G0NtAo7MocGGM-Cg7WcM",
+   "showID": "https://rss.art19.com/the-telepathy-tapes",
+   "showTitle": "The Telepathy Tapes",
+   "title": "S2E46: The Languages of Intuition | Talk Tracks",
+   "summary": "What if intuition isn’t a rare gift, but a capacity we all possess in different ways?This week, Ky sits down with intuitive teacher Anna Naturalista, who says her own psychic experiences began in early childhood and were encouraged rather than dismissed by the family and spiritual traditions around her.Anna introduces what she calls the six languages of intuition. From clairvoyance and clairaudience to the lesser-known experiences of intuitive knowing, feeling, taste, and smell - and shares practical ways she believes we can become more aware of the signals already showing up in our lives.Toge",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/69befa29-d112-4311-b7ba-87d4d24361b9.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Wed, 19 Aug 2026 07:03:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Offers mindful movement to manage stress, touching on inner life but not deeply.",
-   "tradition": "Secular"
+   "reason": "Discusses intuition as a universal capacity, touching on inner knowing and perception.",
+   "tradition": "Interfaith"
   }
  ],
  "history": {
@@ -230,7 +230,7 @@
   "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR1977358884.mp3": "2026-08-18",
   "6a169d3b-6753-4b80-bead-b4aa0155a669": "2026-08-22",
   "8f3e966a-3a71-4092-9b8b-e8dc82968913": "2026-08-22",
-  "gid://art19-episode-locator/V0/EtIdiv-1ShmB7mj0_gP8rq_G0NtAo7MocGGM-Cg7WcM": "2026-08-19",
+  "gid://art19-episode-locator/V0/EtIdiv-1ShmB7mj0_gP8rq_G0NtAo7MocGGM-Cg7WcM": "2026-08-23",
   "efe2d212-9b4b-11f1-b48e-935d4d44c329": "2026-08-19",
   "0d56870b-6ce2-42fd-be40-aac9ce0ed188": "2026-08-23",
   "6a7b3e941549db32d4316af7": "2026-08-19",
