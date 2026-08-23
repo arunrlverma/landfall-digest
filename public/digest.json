@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-23T18:36:34.998955+00:00",
+ "generatedAt": "2026-08-23T19:26:11.788467+00:00",
  "showsScanned": 400,
- "candidates": 53,
+ "candidates": 54,
  "picks": [
   {
    "id": "https://api.spreaker.com/episode/74247548",
@@ -14,7 +14,7 @@
    "published": "Sat, 22 Aug 2026 11:30:03 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A physicist deeply explores consciousness, reality, and ultimate questions of existence.",
+   "reason": "A physicist deeply discusses consciousness, reality, and existence beyond materialism.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Tue, 18 Aug 2026 17:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/d9/fe/acd9fef8-5b5a-1720-6426-e27c98a01e74/mza_11018966765269685189.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A physicist discusses consciousness and reality, engaging ultimate questions of existence.",
+   "reason": "A physicist discusses consciousness and reality from a scientific and philosophical view.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Tue, 18 Aug 2026 16:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A deep dive into consciousness, its mysteries, and scientific understanding.",
+   "reason": "A scientific and philosophical inquiry into the nature of consciousness.",
    "tradition": "Secular"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Sun, 23 Aug 2026 00:15:48 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses suffering's role in shaping faith, character, and spiritual growth.",
+   "reason": "Explores suffering's role in faith and character from a Christian perspective.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Thu, 20 Aug 2026 16:00:01 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines near-death experiences and their implications for life and death.",
+   "reason": "Examines near-death experiences and their common features.",
    "tradition": "Secular"
   },
   {
@@ -79,8 +79,8 @@
    "published": "Fri, 21 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Serious discussion on mindfulness, suffering, and brain change from a neuroscience and Buddhist view.",
-   "tradition": "Buddhist"
+   "reason": "Examines neuroscience and mindfulness to understand suffering and happiness.",
+   "tradition": "Secular"
   },
   {
    "id": "Buzzsprout-19670818",
@@ -92,7 +92,7 @@
    "published": "Thu, 20 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Shares a spiritual awakening and purpose focused on healing and meaning.",
+   "reason": "Discusses spiritual awakening and purpose with a focus on healing and meaning.",
    "tradition": "Interfaith"
   },
   {
@@ -105,20 +105,7 @@
    "published": "Wed, 19 Aug 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses intuition as a universal capacity, blending spiritual and psychological insights.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "https://api.spreaker.com/episode/73530185",
-   "showID": "https://www.spreaker.com/show/4858435/episodes/feed",
-   "showTitle": "Next Level Soul Podcast with Alex Ferrari",
-   "title": "Spirit Guide Warning About Humanity's Future with Connie H. Deutsch",
-   "summary": "FLASHBACK FRIDAYS: On today's episode, we welcome back the wise and insightful Connie H. Deutsch. A trusted spiritual guide and channel, Connie brings her extraordinary ability to connect with higher realms while maintaining a grounded and conscious presence. Our conversation delves deep into the energetic and spiritual shifts that are already shaping our world, providing an outlook not just for 2024 but beyond.As the world grows increasingly chaotic, Connie reminds us of the profound shifts happening all around us, many of which are invisible to the naked eye but deeply felt by the soul. She ",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73530185/flashback_fridays_nls_500.mp3",
-   "published": "Fri, 21 Aug 2026 11:30:02 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Spiritual channeling about global shifts, offering broad spiritual perspectives.",
+   "reason": "Discusses intuition as a universal capacity with spiritual and psychological insights.",
    "tradition": "Interfaith"
   },
   {
@@ -131,8 +118,34 @@
    "published": "Sun, 16 Aug 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal recovery story with Christian faith but more testimonial than contemplative.",
+   "reason": "Personal recovery story with Christian faith, but more testimonial than philosophical.",
    "tradition": "Christian"
+  },
+  {
+   "id": "prx_192_a44af6cc-b1a2-416d-9c43-e5c5f11279f7",
+   "showID": "https://rss.pdrl.fm/0f808e/feeds.feedburner.com/TheScienceOfHappiness",
+   "showTitle": "The Science of Happiness",
+   "title": "Happiness Break: A Practice In Moving Through Stress",
+   "summary": "Join yoga and meditation teacher Jonathan Relucio for a trauma-informed practice combining mindful movement and breathing to reduce tension and build resilience to stress.How To Do This Practice: \n\nGet comfortable: Sit or lie down and notice the support beneath your body, keeping your eyes open or closed—whichever feels comfortable.\n\nConnect with your body: Bring your attention inward and notice how your body, mind, and heart feel in the present moment.\n\nRelease tension: Inhale as you gently shrug your shoulders toward your ears, then exhale as you relax and release them.\n\nMove with your breat",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/dovetail.prxu.org/192/a44af6cc-b1a2-416d-9c43-e5c5f11279f7/SoH_HB_Jonathan_Relucio_-_Mindful_Movement_and_Breathing_mix_2.mp3",
+   "published": "Thu, 20 Aug 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Offers a trauma-informed mindful movement practice to reduce stress.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "audioboom-01a01783-4e8e-752d-aa52-3e481e4f2c25",
+   "showID": "https://audioboom.com/channels/4567086.rss",
+   "showTitle": "Real Ghost Stories Online",
+   "title": "Academic Afterlife: Studying Spirits with Science, Part Two | The Grave Talks",
+   "summary": "This is a Grave Talks CLASSIC EPISODE! PART TWOFor Heather Leigh Landon, the paranormal didn’t begin as a curiosity—it began as a connection. In this episode of The Grave Talks, she shares how hearing the voice of her grandfather after his passing opened a door that never fully closed.What started as a deeply personal experience gradually expanded into a lifelong awareness of spirits and energy, shaping both her path and her understanding of what may exist beyond the physical world. Over time, that connection led her to formally study the paranormal, earning a Ph.D. in Metaphysical and Humanis",
+   "audioURL": "https://pdst.fm/e/clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8942783.mp3?modified=1787100919&amp;sid=4567086&amp;source=rss",
+   "published": "Sun, 23 Aug 2026 19:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6e/44/98/6e4498e0-f689-a43b-0594-ffb7f2a787eb/mza_3521021896468381939.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores personal connection to spirits and energy beyond physical life.",
+   "tradition": "Secular"
   },
   {
    "id": "audioboom-01a0177f-c884-7bdb-b592-ddf2bac58f67",
@@ -144,8 +157,8 @@
    "published": "Sun, 23 Aug 2026 17:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6e/44/98/6e4498e0-f689-a43b-0594-ffb7f2a787eb/mza_3521021896468381939.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores personal and scientific perspectives on spirits and afterlife.",
-   "tradition": "Interfaith"
+   "reason": "Personal story about hearing a deceased relative and paranormal awareness.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -304,6 +317,7 @@
   "https://api.spreaker.com/episode/74247548": "2026-08-23",
   "6ac351b3-4f9c-49e6-beb1-6cc0a89ca861": "2026-08-23",
   "audioboom-01a0177f-c884-7bdb-b592-ddf2bac58f67": "2026-08-23",
-  "https://api.spreaker.com/episode/73530185": "2026-08-23"
+  "https://api.spreaker.com/episode/73530185": "2026-08-23",
+  "audioboom-01a01783-4e8e-752d-aa52-3e481e4f2c25": "2026-08-23"
  }
 }
