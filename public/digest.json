@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-23T16:32:37.612462+00:00",
+ "generatedAt": "2026-08-23T17:25:23.755867+00:00",
  "showsScanned": 400,
- "candidates": 51,
+ "candidates": 53,
  "picks": [
   {
    "id": "https://api.spreaker.com/episode/74247548",
@@ -14,7 +14,7 @@
    "published": "Sat, 22 Aug 2026 11:30:03 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A physicist deeply explores consciousness, reality, and ultimate questions beyond religion.",
+   "reason": "A physicist deeply explores consciousness, reality, and ultimate questions.",
    "tradition": "Secular"
   },
   {
@@ -27,20 +27,7 @@
    "published": "Tue, 18 Aug 2026 17:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/d9/fe/acd9fef8-5b5a-1720-6426-e27c98a01e74/mza_11018966765269685189.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "In-depth discussion on consciousness and reality from a physicist and consciousness researcher.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "1a450273-ed58-4678-9e68-b6d130944a56",
-   "showID": "https://rss.wbur.org/onpoint/podcast",
-   "showTitle": "On Point with Meghna Chakrabarti",
-   "title": "Brainwaves: What happens between life and death?",
-   "summary": "A tunnel. A bright light. Reuniting with deceased loved ones. Many people who have near-death experiences have remarkably similar stories. Why?\n\n***\nThank you for listening. Help power On Point by making a donation here: wbur.org/giveonpoint",
-   "audioURL": "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR4155866960.mp3",
-   "published": "Thu, 20 Aug 2026 16:00:01 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Explores near-death experiences and questions about life, death, and consciousness.",
+   "reason": "A physicist discusses consciousness and reality, engaging ultimate questions of existence.",
    "tradition": "Secular"
   },
   {
@@ -53,7 +40,7 @@
    "published": "Tue, 18 Aug 2026 16:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Examines scientific and philosophical aspects of consciousness and self-awareness.",
+   "reason": "A scientific and philosophical look at consciousness and its mysteries.",
    "tradition": "Secular"
   },
   {
@@ -70,6 +57,19 @@
    "tradition": "Christian"
   },
   {
+   "id": "1a450273-ed58-4678-9e68-b6d130944a56",
+   "showID": "https://rss.wbur.org/onpoint/podcast",
+   "showTitle": "On Point with Meghna Chakrabarti",
+   "title": "Brainwaves: What happens between life and death?",
+   "summary": "A tunnel. A bright light. Reuniting with deceased loved ones. Many people who have near-death experiences have remarkably similar stories. Why?\n\n***\nThank you for listening. Help power On Point by making a donation here: wbur.org/giveonpoint",
+   "audioURL": "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR4155866960.mp3",
+   "published": "Thu, 20 Aug 2026 16:00:01 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Examines near-death experiences and their common features about life and death.",
+   "tradition": "Secular"
+  },
+  {
    "id": "429f28b2-9d21-11f1-b05c-53764e11cd27",
    "showID": "https://rss.introcast.io/1368888880/feeds.megaphone.fm/yap",
    "showTitle": "Young and Profiting (YAP) with Hala Taha: Entrepreneurship and Self-Improvement Podcast",
@@ -79,8 +79,8 @@
    "published": "Fri, 21 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines neuroscience and mindfulness to understand suffering and happiness.",
-   "tradition": "Secular"
+   "reason": "Neuroscientific and Buddhist insights on mindfulness and brain change for resilience.",
+   "tradition": "Buddhist"
   },
   {
    "id": "Buzzsprout-19670818",
@@ -92,7 +92,7 @@
    "published": "Thu, 20 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores spiritual awakening and purpose with a focus on healing and meaning.",
+   "reason": "Shares a spiritual awakening and search for meaning beyond success.",
    "tradition": "Interfaith"
   },
   {
@@ -105,21 +105,8 @@
    "published": "Wed, 19 Aug 2026 07:03:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discussion on intuition as a universal capacity with spiritual and experiential insights.",
+   "reason": "Discusses intuition as a universal capacity with spiritual and psychological insights.",
    "tradition": "Interfaith"
-  },
-  {
-   "id": "5565a244-9c51-11f1-b8ea-e308145cac46",
-   "showID": "https://feeds.megaphone.fm/hubermanlab",
-   "showTitle": "Huberman Lab",
-   "title": "Essentials: How to Access Your Creativity | Rick Rubin",
-   "summary": "In this Huberman Lab Essentials episode, my guest Rick Rubin, world-renowned music producer and author of The Creative Act: A Way of Being, and I discuss how to access creativity by noticing ideas, trusting your taste and staying fully present with the work. Rick explains the phases of the creative process and how focus, disengagement, self-doubt, deadlines and meditation can support original work. We also explore perception, pro wrestling and why remaining open to uncertainty can help anyone create more authentically.\n\nThank you to our sponsors\n\nAG1: https://drinkag1.com/huberman\n\nLMNT: https",
-   "audioURL": "https://traffic.megaphone.fm/SCIM7816635332.mp3",
-   "published": "Thu, 20 Aug 2026 08:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores creativity, presence, and uncertainty with a focus on original work.",
-   "tradition": "Secular"
   },
   {
    "id": "c1e443f9-3911-417a-ae18-f7c259760ba1",
@@ -131,7 +118,7 @@
    "published": "Sun, 16 Aug 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal recovery story with Christian faith, but more testimonial than contemplative.",
+   "reason": "Personal redemption story with Christian faith but more testimonial than philosophical.",
    "tradition": "Christian"
   },
   {
@@ -144,7 +131,20 @@
    "published": "Thu, 20 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Guided mindful movement and breathing to reduce stress and build resilience.",
+   "reason": "Guided mindful movement and breathing to manage stress and build resilience.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "audioboom-01a0177f-c884-7bdb-b592-ddf2bac58f67",
+   "showID": "https://audioboom.com/channels/4567086.rss",
+   "showTitle": "Real Ghost Stories Online",
+   "title": "Academic Afterlife: Studying Spirits with Science, Part One | The Grave Talks",
+   "summary": "This is a Grave Talks CLASSIC EPISODE!For Heather Leigh Landon, the paranormal didn’t begin as a curiosity—it began as a connection. In this episode of The Grave Talks, she shares how hearing the voice of her grandfather after his passing opened a door that never fully closed.What started as a deeply personal experience gradually expanded into a lifelong awareness of spirits and energy, shaping both her path and her understanding of what may exist beyond the physical world. Over time, that connection led her to formally study the paranormal, earning a Ph.D. in Metaphysical and Humanistic Studi",
+   "audioURL": "https://pdst.fm/e/clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8942782.mp3?modified=1787100694&amp;sid=4567086&amp;source=rss",
+   "published": "Sun, 23 Aug 2026 17:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6e/44/98/6e4498e0-f689-a43b-0594-ffb7f2a787eb/mza_3521021896468381939.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores personal connection to spirits and energy beyond physical life.",
    "tradition": "Secular"
   }
  ],
@@ -302,6 +302,7 @@
   "Buzzsprout-19673474": "2026-08-22",
   "8f02edc4-47ea-40ec-aab3-f1a00602a368": "2026-08-23",
   "https://api.spreaker.com/episode/74247548": "2026-08-23",
-  "6ac351b3-4f9c-49e6-beb1-6cc0a89ca861": "2026-08-23"
+  "6ac351b3-4f9c-49e6-beb1-6cc0a89ca861": "2026-08-23",
+  "audioboom-01a0177f-c884-7bdb-b592-ddf2bac58f67": "2026-08-23"
  }
 }
