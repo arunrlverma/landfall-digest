@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-24T07:08:33.568440+00:00",
+ "generatedAt": "2026-08-24T08:54:27.241141+00:00",
  "showsScanned": 400,
- "candidates": 50,
+ "candidates": 51,
  "picks": [
   {
    "id": "gid://art19-episode-locator/V0/iur22SRHWiNiGpfRVKM21549j_0y9B---0FfG3CyfVI",
@@ -27,7 +27,7 @@
    "published": "Mon, 17 Aug 2026 19:41:53 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Uses Psalms to express raw human emotions about suffering and divine presence.",
+   "reason": "Uses Psalms to express raw human emotions and spiritual connection in suffering.",
    "tradition": "Jewish"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Mon, 17 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares a personal faith crisis and evolving understanding within Mormonism.",
+   "reason": "Shares a personal faith crisis and evolving belief within Mormonism.",
    "tradition": "Christian"
   },
   {
@@ -53,21 +53,8 @@
    "published": "Fri, 21 Aug 2026 08:48:39 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/68/ba/9268bae8-1bd5-2a15-7f1b-7e265d4773bd/mza_10204374987848109193.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "A serious inquiry into AI and consciousness, exploring what it means to be aware.",
+   "reason": "Explores AI and consciousness, addressing ancient questions about mind and awareness.",
    "tradition": "Secular"
-  },
-  {
-   "id": "4b9a4649-10b5-46a0-b3a7-b4ad00d8550e",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
-   "showTitle": "The Best of Coast to Coast AM",
-   "title": "Episode 305: Final Hours & Near-Death Experiences",
-   "summary": "Join Sandra and filmmaker Makai Elias Calles to explore medically verified NDE accounts from the film ‘Final Hours,’ and a journaling practice to receive direct comfort from your loved ones in spirit.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/4b9a4649-10b5-46a0-b3a7-b4ad00d8550e/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
-   "published": "Fri, 21 Aug 2026 16:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores near-death experiences with medically verified accounts and spiritual comfort.",
-   "tradition": "Interfaith"
   },
   {
    "id": "coe22.podbean.com/f8888dc9-1d43-3a16-84ad-2cd6f5c77254",
@@ -83,30 +70,56 @@
    "tradition": "Christian"
   },
   {
-   "id": "113cef73-5bae-40e9-a028-59c1ac232c20",
-   "showID": "https://rss.libsyn.com/shows/615750/destinations/5370830.xml",
-   "showTitle": "Hang Out with Sean Hannity",
-   "title": "Near Death Experiences: Real Proof Of The Afterlife | Hang Out with Sean Hannity",
-   "summary": "Did 2 men actually die, visit Heaven, and return with detailed, overlapping proof? In this episode of Hang Out with Sean Hannity, Heaven Is for Real author Colton Burpo , NDE survivor Randy Kay , and researcher John Burke (Imagine Heaven) sit down to reveal what the afterlife actually looks like, how prayers function in the throne room, and the overwhelming scientific and biblical consistency behind near-death experiences. In this exclusive interview, Colton Burpo breaks down sitting on Jesus's lap, meeting the miscarried sister he never knew existed on Earth, and what God the Father actually ",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/e17d8dbf-1c2a-4227-b6e0-6a36bd145a3c/Howh_Burpo_Kay_Burke_Apple_BUG_NEW_AD_READ.mp4?dest-id=5370830",
-   "published": "Thu, 20 Aug 2026 14:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ef/16/02/ef1602c0-5b22-4697-8164-76d1a61d71c3/mza_11976549683956134854.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses near-death experiences and afterlife claims with some spiritual and scientific overlap.",
-   "tradition": "Christian"
+   "id": "4b9a4649-10b5-46a0-b3a7-b4ad00d8550e",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "Episode 305: Final Hours & Near-Death Experiences",
+   "summary": "Join Sandra and filmmaker Makai Elias Calles to explore medically verified NDE accounts from the film ‘Final Hours,’ and a journaling practice to receive direct comfort from your loved ones in spirit.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/4b9a4649-10b5-46a0-b3a7-b4ad00d8550e/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Fri, 21 Aug 2026 16:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores near-death experiences and spiritual comfort through journaling practices.",
+   "tradition": "Interfaith"
   },
   {
-   "id": "https://blubrry.com/the_world_and_everything_in_it/155070673/82126-lindsay-clancys-trial-the-magic-faraway-tree-and-a-conversation-with-michael-milton/",
-   "showID": "https://feeds.blubrry.com/feeds/the_world_and_everything_in_it.xml",
-   "showTitle": "The World and Everything In It",
-   "title": "8.21.26 Lindsay Clancy’s trial, The Magic Faraway Tree, and a conversation with Michael Milton",
-   "summary": "On Culture Friday: John Stonestreet considers what the Lindsay Clancy trial is being made to say about motherhood. The Magic Faraway Tree invites families to rediscover wonder. Plus: theologian and artist Michael Milton shares three books that shaped his calling, and the Friday morning news.Support The World and Everything in It today at wng.org/donate.Additional support comes from Ascend by Unbound. A higher education program focused on practical skill development and career preparation.  beunbound.us/worldFrom World Watch, a 10-minute daily news program that explores current events for stude",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/p.podderapp.com/1696013160/media.blubrry.com/the_world_and_everything_in_it/ins.blubrry.com/the_world_and_everything_in_it/TWAEII-2026-08-21-3573-82126-Lindsay-Clancys.mp3",
-   "published": "Fri, 21 Aug 2026 03:05:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
+   "id": "bd2895d2-7ce7-4ef8-8a66-33b703779495",
+   "showID": "https://feeds.simplecast.com/kC8PV5p6",
+   "showTitle": "So Supernatural",
+   "title": "DARK WEB: Reality Shifting",
+   "summary": "A strange trend has been spreading across TikTok and social media known as “Reality Shifting”. Thousands of people claim they’ve discovered a way to leave this world and transport their consciousness into alternate realities through meditation, scripted rituals, and sleep techniques. Believers insist the experiences are real. Skeptics dismiss it as a mass internet-fueled fantasy. But the question remains: is this psychology at work… or something science can’t yet explain?\n \nFor a full list of sources, please visit: https://sosupernaturalpodcast.com/dark-web-reality-shifting\n \nDid you know you ",
+   "audioURL": "https://tracking.swap.fm/track/fxUKVg2nSMaPSHLeKNKH/dts.podtrac.com/redirect.mp3/rsv.simplecastaudio.com/dc5e12bc-80d7-44cd-a728-8dcbfeac3a26/episodes/e3c8cacd-2af6-4e35-a013-91919a010f77/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=dc5e12bc-80d7-44cd-a728-8dcbfeac3a26&amp;awEpisodeId=e3c8cacd-2af6-4e35-a013-91919a010f77&amp;feed=kC8PV5p6",
+   "published": "Fri, 21 Aug 2026 07:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/64/18/78/6418787e-81c2-c8e0-1fa1-f23ce0d15ad7/mza_17753266621966864966.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Includes a theologian discussing books shaping his calling, touching on vocation and meaning.",
-   "tradition": "Christian"
+   "reason": "Considers consciousness and alternate realities but remains speculative and anecdotal.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "345993ae-9cf5-11f1-963e-13ca2dba5259",
+   "showID": "https://www.scientificamerican.com/sciam/xml/iTunes.cfm?id=science-quickly",
+   "showTitle": "Science Quickly",
+   "title": "Can magic mushrooms help treat anorexia?",
+   "summary": "A small clinical trial suggests that psilocybin, the psychedelic compound in magic mushrooms, may help some people with anorexia when combined with intensive therapy. Science Quickly host Rachel Feltman speaks with health journalist Alexandra Pattillo about what early research has found, why scientists think psychedelics could help loosen the rigid thought patterns associated with eating disorders, and why experts say larger studies are needed before the treatment can be considered a proven option\n\nRecommended Reading:\n\nCould psilocybin be the key to treating anorexia?&nbsp;\n\nAmericans are inc",
+   "audioURL": "https://traffic.megaphone.fm/SAM5598124292.mp3",
+   "published": "Fri, 21 Aug 2026 09:55:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/14/01/90/140190a6-f86e-f0b5-8d22-33e4d3728638/mza_11503669622119701029.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores psychedelics' potential to treat anorexia, touching on consciousness and healing.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "audioboom-01a01420-aa25-7f19-9a76-aa483658cf6e",
+   "showID": "https://audioboom.com/channels/5024014.rss",
+   "showTitle": "That UFO Podcast",
+   "title": "David Grusch Goes Further, Bigelow’s Big Questions & Pressure on Trump",
+   "summary": "Andy and Pavel break down another huge week in the UAP conversation, beginning with part two of Robert Bigelow’s new series with George Knapp.Why has Bigelow returned to the spotlight now, and what is he ultimately building towards? The discussion gets into his claims around consciousness and survival after death, the connection between consciousness and the UFO phenomenon, private aerospace contractors, amnesty and what Bigelow appears to believe disclosure should actually look like.Then, David Grusch sits down with Dr. Phil and makes some of his strongest public claims yet: 25–100 recovered ",
+   "audioURL": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8942430.mp3?modified=1787044265&amp;sid=5024014&amp;source=rss",
+   "published": "Tue, 18 Aug 2026 10:11:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ff/b6/6b/ffb66b7d-88f8-88f3-b67c-9189f5167ec1/mza_9140250549875290339.png/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses consciousness and survival after death in the context of UFO phenomena.",
+   "tradition": "Secular"
   }
  ],
  "history": {
