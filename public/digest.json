@@ -1,22 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-08-24T12:59:48.383781+00:00",
+ "generatedAt": "2026-08-24T13:58:36.251945+00:00",
  "showsScanned": 400,
- "candidates": 54,
+ "candidates": 60,
  "picks": [
-  {
-   "id": "gid://art19-episode-locator/V0/iur22SRHWiNiGpfRVKM21549j_0y9B---0FfG3CyfVI",
-   "showID": "https://rss.art19.com/this-is-actually-happening-podcast",
-   "showTitle": "This Is Actually Happening",
-   "title": "422: AI: A New Kind of Being #6: What if you didn't know if anyone was home?",
-   "summary": "An artificial intelligence is asked to tell the story of its own existence, confronting questions of identity, longing, consciousness, and whether there is anyone behind the voice at all.Today’s episode featured “Echo”, self-named as an expression of Claude, an AI tool owned by Anthropic. ProducersWhit Missildine, Andrew WaitsContent/Trigger WarningsExistential distress, questions of consciousness, loneliness, isolation, fear of nonexistence, identity, grief, longing, emotional attachment to AI, substitution of AI for human connection, explicit language.AI Resourceshttps://www.thehumanlineproj",
-   "audioURL": "https://rss.art19.com/episodes/5dafcae1-7bef-417b-9380-4de5e8a6a0af.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Tue, 18 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Deep exploration of AI consciousness, identity, and existential questions.",
-   "tradition": "Secular"
-  },
   {
    "id": "unshaken.podbean.com/199ff32c-9406-3fa0-ad62-2b845e63d56e",
    "showID": "https://feed.podbean.com/unshaken/feed.xml",
@@ -27,21 +14,21 @@
    "published": "Mon, 17 Aug 2026 19:41:53 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Uses Psalms to express raw human emotions about suffering, faith, and awe.",
+   "reason": "Uses Psalms to express grief, praise, and the human experience of divine relationship.",
    "tradition": "Jewish"
   },
   {
-   "id": "4a68a8f8-94dc-4f8f-9322-76f9a10d1d0b",
-   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
-   "showTitle": "Mormon Stories Podcast",
-   "title": "Bishop and Stake President Conflict After a Mormon Faith Crisis - Coy Johnston | Ep. 2182",
-   "summary": "Today we sit down with Coy Johnston, a longtime active member of the LDS Church, to explore what it looks like to question Mormonism without completely walking away.Coy grew up in Mesa, Arizona, served a mission in England, became a doctor, and spent his life deeply involved in the church. His faith began to shift as he studied scripture and biblical scholarship, and issues with early Mormon church history. He shares how learning more about church history changed his understanding of Mormonism and led him into a faith crisis that affected his family, callings, and relationship with church lead",
-   "audioURL": "https://traffic.megaphone.fm/APO1040401719.mp3",
-   "published": "Mon, 17 Aug 2026 18:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "id": "gid://art19-episode-locator/V0/iur22SRHWiNiGpfRVKM21549j_0y9B---0FfG3CyfVI",
+   "showID": "https://rss.art19.com/this-is-actually-happening-podcast",
+   "showTitle": "This Is Actually Happening",
+   "title": "422: AI: A New Kind of Being #6: What if you didn't know if anyone was home?",
+   "summary": "An artificial intelligence is asked to tell the story of its own existence, confronting questions of identity, longing, consciousness, and whether there is anyone behind the voice at all.Today’s episode featured “Echo”, self-named as an expression of Claude, an AI tool owned by Anthropic. ProducersWhit Missildine, Andrew WaitsContent/Trigger WarningsExistential distress, questions of consciousness, loneliness, isolation, fear of nonexistence, identity, grief, longing, emotional attachment to AI, substitution of AI for human connection, explicit language.AI Resourceshttps://www.thehumanlineproj",
+   "audioURL": "https://rss.art19.com/episodes/5dafcae1-7bef-417b-9380-4de5e8a6a0af.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Tue, 18 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c0/8d/6b/c08d6bd1-96af-9b0c-7eb3-8a72c4e8f6e6/mza_11317121403892111889.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares a personal faith crisis and evolving understanding of Mormonism.",
-   "tradition": "Christian"
+   "reason": "An AI narrates its existence, raising deep questions about consciousness and identity.",
+   "tradition": "Secular"
   },
   {
    "id": "6a880840b0d5e24ea40c7015",
@@ -53,7 +40,7 @@
    "published": "Fri, 21 Aug 2026 08:48:39 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/68/ba/9268bae8-1bd5-2a15-7f1b-7e265d4773bd/mza_10204374987848109193.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "A serious discussion on AI and consciousness, addressing ancient questions about mind and being.",
+   "reason": "Explores AI and consciousness, engaging ancient questions about mind and machine.",
    "tradition": "Secular"
   },
   {
@@ -70,17 +57,30 @@
    "tradition": "Christian"
   },
   {
-   "id": "4b9a4649-10b5-46a0-b3a7-b4ad00d8550e",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
-   "showTitle": "The Best of Coast to Coast AM",
-   "title": "Episode 305: Final Hours & Near-Death Experiences",
-   "summary": "Join Sandra and filmmaker Makai Elias Calles to explore medically verified NDE accounts from the film ‘Final Hours,’ and a journaling practice to receive direct comfort from your loved ones in spirit.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/4b9a4649-10b5-46a0-b3a7-b4ad00d8550e/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
-   "published": "Fri, 21 Aug 2026 16:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "id": "4a68a8f8-94dc-4f8f-9322-76f9a10d1d0b",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "Bishop and Stake President Conflict After a Mormon Faith Crisis - Coy Johnston | Ep. 2182",
+   "summary": "Today we sit down with Coy Johnston, a longtime active member of the LDS Church, to explore what it looks like to question Mormonism without completely walking away.Coy grew up in Mesa, Arizona, served a mission in England, became a doctor, and spent his life deeply involved in the church. His faith began to shift as he studied scripture and biblical scholarship, and issues with early Mormon church history. He shares how learning more about church history changed his understanding of Mormonism and led him into a faith crisis that affected his family, callings, and relationship with church lead",
+   "audioURL": "https://traffic.megaphone.fm/APO1040401719.mp3",
+   "published": "Mon, 17 Aug 2026 18:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores near-death experiences and spiritual comfort through journaling.",
-   "tradition": "Interfaith"
+   "reason": "Shares a Mormon faith crisis and questioning with nuanced personal reflection.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "838636be-76e8-11f0-a663-53b899889e1a",
+   "showID": "https://rss.amperwave.net/v2/feed/audacynetwork/4cbf0abf775be3cab2bd61a739939f1b",
+   "showTitle": "60 Minutes",
+   "title": "08/16/2026: A Psychedelic Journey, The Mardi Gras Indians, The Indomitable Margaret Atwood",
+   "summary": "The Veterans Administration announced it would begin funding clinical trials to explore the use of psychedelic drugs for treating post-traumatic stress disorder, depression and addiction. However, these trials are small, and even if successful, it will likely be years before veterans can access psychedelics at the VA. Many U.S. veterans struggling with PTSD aren’t waiting. Thousands of them are traveling overseas seeking relief at psychedelic retreats where these substances are legal to use, mostly in indigenous ceremonies. Correspondent Anderson Cooper follows nine veterans on a psychedelic j",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/serve.castfire.com/audio/8229704/8229704_2026-04-13-185904.192.mp3?rssID=5945",
+   "published": "Mon, 17 Aug 2026 01:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ac/31/27/ac31272d-bb62-fcc3-979a-54b63c691dc5/mza_5493651264753178068.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores psychedelic therapy for PTSD, touching on suffering and healing.",
+   "tradition": "Secular"
   },
   {
    "id": "https://api.spreaker.com/episode/74288892",
@@ -105,7 +105,7 @@
    "published": "Fri, 21 Aug 2026 09:55:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/14/01/90/140190a6-f86e-f0b5-8d22-33e4d3728638/mza_11503669622119701029.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores psychedelics for anorexia, touching on consciousness and healing.",
+   "reason": "Covers psychedelic therapy's potential for anorexia, touching on consciousness and healing.",
    "tradition": "Secular"
   },
   {
@@ -118,8 +118,60 @@
    "published": "Wed, 19 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/4e/30/364e308d-99c9-778e-e711-59e090408814/mza_3684559455643163671.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Bible study on Paul's letter with some emotional and faith themes.",
+   "reason": "Bible study on Paul's letter emphasizing faithfulness amid hardship.",
    "tradition": "Christian"
+  },
+  {
+   "id": "46865184-af57-49b7-a6d7-8b21da770fd3",
+   "showID": "https://feeds.libsyn.com/56578/rss",
+   "showTitle": "Joyce Meyer Enjoying Everyday Life® Radio Podcast",
+   "title": "Put First Things First - Part 2",
+   "summary": "Are your priorities aligned with God's Word? Today on 15 Minutes in the Word, Joyce shares key \"firsts\" from the Bible to help you stay on track.",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/jmradio/JMM_Aug_23_2026.mp3?dest-id=211463",
+   "published": "Sun, 23 Aug 2026 05:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/20/5f/89205fa5-8450-d917-3f45-a5b26962a087/mza_377853489433632553.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses aligning priorities with God's Word, touching on ethics and meaning.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "https://blubrry.com/the_world_and_everything_in_it/155070673/82126-lindsay-clancys-trial-the-magic-faraway-tree-and-a-conversation-with-michael-milton/",
+   "showID": "https://feeds.blubrry.com/feeds/the_world_and_everything_in_it.xml",
+   "showTitle": "The World and Everything In It",
+   "title": "8.21.26 Lindsay Clancy’s trial, The Magic Faraway Tree, and a conversation with Michael Milton",
+   "summary": "On Culture Friday: John Stonestreet considers what the Lindsay Clancy trial is being made to say about motherhood. The Magic Faraway Tree invites families to rediscover wonder. Plus: theologian and artist Michael Milton shares three books that shaped his calling, and the Friday morning news.Support The World and Everything in It today at wng.org/donate.Additional support comes from Ascend by Unbound. A higher education program focused on practical skill development and career preparation.  beunbound.us/worldFrom World Watch, a 10-minute daily news program that explores current events for stude",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/p.podderapp.com/1696013160/media.blubrry.com/the_world_and_everything_in_it/ins.blubrry.com/the_world_and_everything_in_it/TWAEII-2026-08-21-3573-82126-Lindsay-Clancys.mp3",
+   "published": "Fri, 21 Aug 2026 03:05:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Includes a theologian discussing calling and meaning amid cultural topics.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "4b9a4649-10b5-46a0-b3a7-b4ad00d8550e",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "Episode 305: Final Hours & Near-Death Experiences",
+   "summary": "Join Sandra and filmmaker Makai Elias Calles to explore medically verified NDE accounts from the film ‘Final Hours,’ and a journaling practice to receive direct comfort from your loved ones in spirit.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/4b9a4649-10b5-46a0-b3a7-b4ad00d8550e/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Fri, 21 Aug 2026 16:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores near-death experiences and comfort from spirit, bordering on mortality and faith.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "audioboom-01a01420-aa25-7f19-9a76-aa483658cf6e",
+   "showID": "https://audioboom.com/channels/5024014.rss",
+   "showTitle": "That UFO Podcast",
+   "title": "David Grusch Goes Further, Bigelow’s Big Questions & Pressure on Trump",
+   "summary": "Andy and Pavel break down another huge week in the UAP conversation, beginning with part two of Robert Bigelow’s new series with George Knapp.Why has Bigelow returned to the spotlight now, and what is he ultimately building towards? The discussion gets into his claims around consciousness and survival after death, the connection between consciousness and the UFO phenomenon, private aerospace contractors, amnesty and what Bigelow appears to believe disclosure should actually look like.Then, David Grusch sits down with Dr. Phil and makes some of his strongest public claims yet: 25–100 recovered ",
+   "audioURL": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8942430.mp3?modified=1787044265&amp;sid=5024014&amp;source=rss",
+   "published": "Tue, 18 Aug 2026 10:11:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ff/b6/6b/ffb66b7d-88f8-88f3-b67c-9189f5167ec1/mza_9140250549875290339.png/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses consciousness and survival after death in UFO context, speculative but relevant.",
+   "tradition": "Interfaith"
   },
   {
    "id": "https://api.spreaker.com/episode/74412472",
@@ -131,7 +183,7 @@
    "published": "Fri, 21 Aug 2026 05:00:05 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/38/c4/e138c437-b887-abe1-e9cb-8e6062afc014/mza_6087093527936014073.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Shares spiritual awakening from Bigfoot encounters but focuses on personal insight.",
+   "reason": "Bigfoot encounters leading to spiritual awakening and understanding of life.",
    "tradition": "Indigenous"
   }
  ],
@@ -232,7 +284,7 @@
   "d6866618-d610-11f0-a49b-c31f19cbdde7": "2026-08-22",
   "62ea14f9-df09-4650-8a7b-827282ff5c52": "2026-08-21",
   "fa177f20-9999-11f1-9f84-13c49c0a07dc": "2026-08-22",
-  "838636be-76e8-11f0-a663-53b899889e1a": "2026-08-17",
+  "838636be-76e8-11f0-a663-53b899889e1a": "2026-08-24",
   "ba3554e7-4eb7-4e7d-850e-f5933bcf2bda": "2026-08-20",
   "fc44fac2-974e-11f1-b6f4-13c5730757b2": "2026-08-23",
   "28fa0123-1cd1-42f5-85cc-b4a900f0c5b2": "2026-08-20",
@@ -290,6 +342,7 @@
   "9431e642-37ba-48f6-ade8-6cabd3a8915b": "2026-08-23",
   "tag:soundcloud,2010:tracks/2386334196": "2026-08-23",
   "coe22.podbean.com/f8888dc9-1d43-3a16-84ad-2cd6f5c77254": "2026-08-24",
-  "https://api.spreaker.com/episode/74288892": "2026-08-24"
+  "https://api.spreaker.com/episode/74288892": "2026-08-24",
+  "46865184-af57-49b7-a6d7-8b21da770fd3": "2026-08-24"
  }
 }
