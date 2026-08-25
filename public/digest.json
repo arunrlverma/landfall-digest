@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-25T21:34:24.579261+00:00",
+ "generatedAt": "2026-08-25T22:33:30.009377+00:00",
  "showsScanned": 400,
  "candidates": 61,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Wed, 19 Aug 2026 17:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/fa/fb/a5fafb92-923d-4d30-5efd-e5027ad626bb/mza_14585418034078207545.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep discussion on consciousness, identity, and spiritual awakening.",
+   "reason": "Deep conversation on consciousness, identity, and spiritual awakening.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Tue, 18 Aug 2026 17:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/d9/fe/acd9fef8-5b5a-1720-6426-e27c98a01e74/mza_11018966765269685189.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A physicist explores consciousness and reality, engaging ultimate questions seriously.",
+   "reason": "A physicist explores consciousness and reality from a scientific and philosophical view.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Wed, 19 Aug 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A Buddhist teacher discusses meditation, self-acceptance, and mystical experience.",
+   "reason": "Shares Buddhist insights on meditation, self-acceptance, and dropping self-aggression.",
    "tradition": "Buddhist"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Mon, 24 Aug 2026 20:36:28 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Continues deep engagement with Psalms on suffering, justice, and healing.",
+   "reason": "Addresses suffering, injustice, and healing through Psalms' raw emotional prayers.",
    "tradition": "Jewish"
   },
   {
@@ -66,21 +66,8 @@
    "published": "Tue, 25 Aug 2026 13:00:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former agnostic's return to faith and wrestling with belief.",
+   "reason": "A former agnostic's thoughtful return to Catholic faith and doubt.",
    "tradition": "Christian"
-  },
-  {
-   "id": "dylangemelli.podbean.com/fcfca9d9-c147-3f31-882d-d1d2736840f6",
-   "showID": "https://feed.podbean.com/dylangemelli/feed.xml",
-   "showTitle": "The Dylan Gemelli Podcast",
-   "title": "Episode #156:  Featuring Dr. Stefanie Kleine!  From Human Doing to Human Being: A New Approach to Wellness",
-   "summary": "Episode #156:  Featuring Dr. Stefanie Kleine!  From Human Doing to Human Being: A New Approach to Wellness \n \nIn this conversation, I speak with Dr. Stefanie Kleine, a psychologist and psycho-spiritual coach, about the importance of shifting from a mindset of 'doing' to 'being' in order to achieve true transformation and fulfillment. They discuss the common patterns of burnout among high performers, the role of the nervous system in health, and the impact of emotional wounds on performance. Dr. Kleine also shares insights on how psychedelics can aid in healing and personal growth as well as th",
-   "audioURL": "https://pscrb.fm/rss/p/mcdn.podbean.com/mf/web/b6cqnzihipnupgap/Episode_156_Featuring_Dr_Stefanie_Kleinebc5ya.mp3",
-   "published": "Mon, 24 Aug 2026 18:01:34 -0700",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/4a/f4/654af4a7-d5cd-2317-91a1-b5913de83e6f/mza_12950421134232165951.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Psychologist discusses shifting from doing to being for wellness and transformation.",
-   "tradition": "Secular"
   },
   {
    "id": "9f115dec-a053-11f1-b1ab-e32e141bb6a5",
@@ -92,7 +79,7 @@
    "published": "Tue, 25 Aug 2026 07:17:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/f6/5a/9cf65abb-f8db-fb7b-984f-b4276a1e8c85/mza_2107148709996282347.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Conversation includes meditation and peacebuilding with a spiritual leader.",
+   "reason": "Discusses meditation's real effects and peacebuilding beyond spiritual labels.",
    "tradition": "Hindu"
   },
   {
@@ -105,7 +92,7 @@
    "published": "Tue, 25 Aug 2026 13:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/73/4b/a3/734ba3b5-45d5-a741-7606-0d2fdc735887/mza_11459030094087694567.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses spreading the Gospel to marginalized groups with ethical focus.",
+   "reason": "Focuses on spreading the Gospel to marginalized groups, engaging faith and outreach.",
    "tradition": "Christian"
   },
   {
@@ -118,7 +105,7 @@
    "published": "Tue, 18 Aug 2026 22:02:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Devotional on self-worth and divine love beyond achievements.",
+   "reason": "Devotional on self-worth, divine love, and peace in life's struggles.",
    "tradition": "Christian"
   },
   {
@@ -131,8 +118,21 @@
    "published": "Tue, 25 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores emotional healing and spiritual growth as transformative life processes.",
+   "reason": "Explores emotional healing and spiritual growth with personal responsibility.",
    "tradition": "Christian"
+  },
+  {
+   "id": "dylangemelli.podbean.com/fcfca9d9-c147-3f31-882d-d1d2736840f6",
+   "showID": "https://feed.podbean.com/dylangemelli/feed.xml",
+   "showTitle": "The Dylan Gemelli Podcast",
+   "title": "Episode #156:  Featuring Dr. Stefanie Kleine!  From Human Doing to Human Being: A New Approach to Wellness",
+   "summary": "Episode #156:  Featuring Dr. Stefanie Kleine!  From Human Doing to Human Being: A New Approach to Wellness \n \nIn this conversation, I speak with Dr. Stefanie Kleine, a psychologist and psycho-spiritual coach, about the importance of shifting from a mindset of 'doing' to 'being' in order to achieve true transformation and fulfillment. They discuss the common patterns of burnout among high performers, the role of the nervous system in health, and the impact of emotional wounds on performance. Dr. Kleine also shares insights on how psychedelics can aid in healing and personal growth as well as th",
+   "audioURL": "https://pscrb.fm/rss/p/mcdn.podbean.com/mf/web/b6cqnzihipnupgap/Episode_156_Featuring_Dr_Stefanie_Kleinebc5ya.mp3",
+   "published": "Mon, 24 Aug 2026 18:01:34 -0700",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/4a/f4/654af4a7-d5cd-2317-91a1-b5913de83e6f/mza_12950421134232165951.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses psychological and spiritual wellness focusing on being over doing.",
+   "tradition": "Secular"
   },
   {
    "id": "97af8de1-7475-4daf-930a-8136584452f5",
@@ -144,7 +144,7 @@
    "published": "Fri, 21 Aug 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores belief in paranormal and afterlife with investigative skepticism.",
+   "reason": "Examines belief in paranormal and afterlife with investigative skepticism.",
    "tradition": "Secular"
   },
   {
@@ -157,7 +157,7 @@
    "published": "Fri, 21 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Talk on overcoming unhappiness with practical psychological and spiritual advice.",
+   "reason": "Offers practical shifts on unhappiness with some spiritual and psychological insight.",
    "tradition": "Secular"
   },
   {
@@ -170,7 +170,7 @@
    "published": "Thu, 20 Aug 2026 09:07:32 -0500",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/6f/b6/fe6fb672-7817-356e-7314-2d912dd8f3ce/mza_15885076699336077.png/600x600bb.jpg",
    "rating": 6,
-   "reason": "Claims anxiety roots in spirituality, linking body and spirit but lacks deep philosophical depth.",
+   "reason": "Claims anxiety is a spiritual battle, linking body and spirit but lacks depth.",
    "tradition": "Christian"
   }
  ],
