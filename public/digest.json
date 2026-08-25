@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-25T15:49:12.649132+00:00",
+ "generatedAt": "2026-08-25T16:43:14.197580+00:00",
  "showsScanned": 400,
  "candidates": 63,
  "picks": [
@@ -15,7 +15,7 @@
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/fa/fb/a5fafb92-923d-4d30-5efd-e5027ad626bb/mza_14585418034078207545.jpg/600x600bb.jpg",
    "rating": 9,
    "reason": "Philosophical conversation on consciousness and identity after spiritual awakening.",
-   "tradition": "Interfaith"
+   "tradition": "Secular"
   },
   {
    "id": "792ba37c-9a99-11f1-802d-6faff96a5ef8",
@@ -27,7 +27,7 @@
    "published": "Tue, 18 Aug 2026 17:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/d9/fe/acd9fef8-5b5a-1720-6426-e27c98a01e74/mza_11018966765269685189.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A physicist explores consciousness and reality in a comprehensive theory.",
+   "reason": "A physicist discusses consciousness and reality from a scientific and philosophical view.",
    "tradition": "Secular"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Tue, 25 Aug 2026 07:17:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/f6/5a/9cf65abb-f8db-fb7b-984f-b4276a1e8c85/mza_2107148709996282347.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Covers meditation's impact and peacebuilding from a spiritual leader's perspective.",
+   "reason": "Covers meditation, peacebuilding, and spiritual leadership with practical insights.",
    "tradition": "Hindu"
   },
   {
@@ -66,21 +66,8 @@
    "published": "Tue, 25 Aug 2026 13:00:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former agnostic's return to faith, discussing doubt and belief.",
+   "reason": "A former agnostic's return to Catholic faith, discussing doubt and belief.",
    "tradition": "Christian"
-  },
-  {
-   "id": "Buzzsprout-19694812",
-   "showID": "https://rss.buzzsprout.com/2547586.rss",
-   "showTitle": "We!",
-   "title": "Life Can Feel Hard and Scary Because I Never Realized How Much I Had to Change — The Emotional Healing That Prepared Me to Become the Person My Higher Power Created Me to Be",
-   "summary": "What if life feels hard and scary not because something is going wrong, but because you are changing?In this milestone 50th episode of WE, Joe Mittiga explores the uncomfortable side of emotional healing and spiritual growth. He shares how true healing doesn’t simply help us feel better. It can change what we want, what we accept, our relationships, and ultimately the direction of our lives. Joe opens up about learning to take responsibility for his own emotions, recognizing codependent patterns, letting go of the need to fix other people, and finding the courage to look at his own side of the",
-   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19694812-life-can-feel-hard-and-scary-because-i-never-realized-how-much-i-had-to-change-the-emotional-healing-that-prepared-me-to-become-the-person-my-higher-power-created-me-to-be.mp3",
-   "published": "Tue, 25 Aug 2026 07:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores emotional healing and spiritual growth as transformative life changes.",
-   "tradition": "Interfaith"
   },
   {
    "id": "dylangemelli.podbean.com/fcfca9d9-c147-3f31-882d-d1d2736840f6",
@@ -92,7 +79,7 @@
    "published": "Mon, 24 Aug 2026 18:01:34 -0700",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/4a/f4/654af4a7-d5cd-2317-91a1-b5913de83e6f/mza_12950421134232165951.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores transformation from doing to being, addressing burnout and emotional health.",
+   "reason": "Explores transformation from doing to being and the role of the nervous system in wellness.",
    "tradition": "Secular"
   },
   {
@@ -105,7 +92,7 @@
    "published": "Fri, 21 Aug 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Investigates belief in the paranormal and afterlife with journalistic skepticism.",
+   "reason": "Investigates paranormal beliefs and human need for transcendence with journalistic rigor.",
    "tradition": "Secular"
   },
   {
@@ -118,21 +105,21 @@
    "published": "Tue, 18 Aug 2026 22:02:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Devotional on worth, love, and peace from a Latter-day Saint leader.",
+   "reason": "Addresses self-worth and divine love in a devotional talk.",
    "tradition": "Christian"
   },
   {
-   "id": "thedrjoshaxeshow.podbean.com/6d1f954a-3328-3c5e-be11-5c8788770697",
-   "showID": "https://feed.podbean.com/thedrjoshaxeshow/feed.xml",
-   "showTitle": "The Dr. Josh Axe Show",
-   "title": "The Spiritual Root of Anxiety Nobody Is Talking About | Madison Prewett Troutt",
-   "summary": "Most people treating anxiety are starting in the wrong place. Madison Prewett Troutt — author, speaker, and podcast host — makes the case that anxiety, loneliness, and chronic exhaustion are primarily spiritual battles, and that no supplement or protocol will produce lasting freedom until the foundation is addressed first.\n**In this episode:**\n- Why your body is a temple and what it actually means to steward it well — physically, spiritually, and relationally\n- The three things every human needs to be truly healthy: connection to God, connection to people, and connection to the earth\n- Satan's",
-   "audioURL": "https://mcdn.podbean.com/mf/web/5m4akwie4qejtccy/DJAS_MADI_PREWETT_TROUT_20260819_FINALbq3qq.mp3",
-   "published": "Thu, 20 Aug 2026 09:07:32 -0500",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/6f/b6/fe6fb672-7817-356e-7314-2d912dd8f3ce/mza_15885076699336077.png/600x600bb.jpg",
+   "id": "Buzzsprout-19694812",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "Life Can Feel Hard and Scary Because I Never Realized How Much I Had to Change — The Emotional Healing That Prepared Me to Become the Person My Higher Power Created Me to Be",
+   "summary": "What if life feels hard and scary not because something is going wrong, but because you are changing?In this milestone 50th episode of WE, Joe Mittiga explores the uncomfortable side of emotional healing and spiritual growth. He shares how true healing doesn’t simply help us feel better. It can change what we want, what we accept, our relationships, and ultimately the direction of our lives. Joe opens up about learning to take responsibility for his own emotions, recognizing codependent patterns, letting go of the need to fix other people, and finding the courage to look at his own side of the",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19694812-life-can-feel-hard-and-scary-because-i-never-realized-how-much-i-had-to-change-the-emotional-healing-that-prepared-me-to-become-the-person-my-higher-power-created-me-to-be.mp3",
+   "published": "Tue, 25 Aug 2026 07:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses anxiety as a spiritual battle requiring holistic stewardship of body and soul.",
-   "tradition": "Christian"
+   "reason": "Explores emotional healing and spiritual growth as transformative life processes.",
+   "tradition": "Interfaith"
   },
   {
    "id": "687d7cc0-9cf2-11f1-a10b-436692614587",
@@ -144,8 +131,21 @@
    "published": "Fri, 21 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Offers practical advice on happiness and self-transcendence, not deep philosophy.",
+   "reason": "Offers practical advice on overcoming unhappiness with some spiritual elements.",
    "tradition": "Secular"
+  },
+  {
+   "id": "thedrjoshaxeshow.podbean.com/6d1f954a-3328-3c5e-be11-5c8788770697",
+   "showID": "https://feed.podbean.com/thedrjoshaxeshow/feed.xml",
+   "showTitle": "The Dr. Josh Axe Show",
+   "title": "The Spiritual Root of Anxiety Nobody Is Talking About | Madison Prewett Troutt",
+   "summary": "Most people treating anxiety are starting in the wrong place. Madison Prewett Troutt — author, speaker, and podcast host — makes the case that anxiety, loneliness, and chronic exhaustion are primarily spiritual battles, and that no supplement or protocol will produce lasting freedom until the foundation is addressed first.\n**In this episode:**\n- Why your body is a temple and what it actually means to steward it well — physically, spiritually, and relationally\n- The three things every human needs to be truly healthy: connection to God, connection to people, and connection to the earth\n- Satan's",
+   "audioURL": "https://mcdn.podbean.com/mf/web/5m4akwie4qejtccy/DJAS_MADI_PREWETT_TROUT_20260819_FINALbq3qq.mp3",
+   "published": "Thu, 20 Aug 2026 09:07:32 -0500",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/6f/b6/fe6fb672-7817-356e-7314-2d912dd8f3ce/mza_15885076699336077.png/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses anxiety as a spiritual battle, linking body, spirit, and relationships.",
+   "tradition": "Christian"
   },
   {
    "id": "c14969a0-9a8a-11f1-8e4b-fbeb9f403e2e",
@@ -157,7 +157,7 @@
    "published": "Tue, 25 Aug 2026 07:30:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b6/c6/72/b6c6727f-1bcd-b5ba-adca-ab55343eeeec/mza_7574625153787460905.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal psychedelic experiences touching on spiritual insights but mostly anecdotal.",
+   "reason": "Shares psychedelic experiences touching on spiritual insight and transformation.",
    "tradition": "Interfaith"
   }
  ],
