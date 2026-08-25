@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-25T18:46:16.462765+00:00",
+ "generatedAt": "2026-08-25T19:36:54.288313+00:00",
  "showsScanned": 400,
- "candidates": 59,
+ "candidates": 60,
  "picks": [
   {
    "id": "Buzzsprout-19673474",
@@ -14,7 +14,7 @@
    "published": "Wed, 19 Aug 2026 17:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/fa/fb/a5fafb92-923d-4d30-5efd-e5027ad626bb/mza_14585418034078207545.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A philosopher deeply examines consciousness, identity, and perception.",
+   "reason": "Deep conversation on consciousness, identity, and spiritual awakening.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Tue, 18 Aug 2026 17:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/d9/fe/acd9fef8-5b5a-1720-6426-e27c98a01e74/mza_11018966765269685189.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A physicist explores consciousness and reality, engaging ultimate questions seriously.",
+   "reason": "Physicist explores consciousness and reality in a profound, contemplative way.",
    "tradition": "Secular"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Mon, 24 Aug 2026 20:36:28 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses Psalms addressing suffering, injustice, and healing in faith.",
+   "reason": "Addresses suffering, injustice, and healing through Psalms' raw emotional prayers.",
    "tradition": "Jewish"
   },
   {
@@ -66,20 +66,7 @@
    "published": "Tue, 25 Aug 2026 13:00:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former agnostic shares his journey back to Catholic faith.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "Buzzsprout-19694812",
-   "showID": "https://rss.buzzsprout.com/2547586.rss",
-   "showTitle": "We!",
-   "title": "Life Can Feel Hard and Scary Because I Never Realized How Much I Had to Change — The Emotional Healing That Prepared Me to Become the Person My Higher Power Created Me to Be",
-   "summary": "What if life feels hard and scary not because something is going wrong, but because you are changing?In this milestone 50th episode of WE, Joe Mittiga explores the uncomfortable side of emotional healing and spiritual growth. He shares how true healing doesn’t simply help us feel better. It can change what we want, what we accept, our relationships, and ultimately the direction of our lives. Joe opens up about learning to take responsibility for his own emotions, recognizing codependent patterns, letting go of the need to fix other people, and finding the courage to look at his own side of the",
-   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19694812-life-can-feel-hard-and-scary-because-i-never-realized-how-much-i-had-to-change-the-emotional-healing-that-prepared-me-to-become-the-person-my-higher-power-created-me-to-be.mp3",
-   "published": "Tue, 25 Aug 2026 07:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Discusses emotional healing and spiritual growth as transformative life processes.",
+   "reason": "A former agnostic's thoughtful return to faith and grappling with belief.",
    "tradition": "Christian"
   },
   {
@@ -92,7 +79,7 @@
    "published": "Tue, 25 Aug 2026 07:17:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/f6/5a/9cf65abb-f8db-fb7b-984f-b4276a1e8c85/mza_2107148709996282347.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A spiritual leader discusses meditation and peace with real-world impact.",
+   "reason": "Discusses meditation's real effects and peacebuilding beyond spiritual labels.",
    "tradition": "Hindu"
   },
   {
@@ -105,7 +92,20 @@
    "published": "Tue, 18 Aug 2026 22:02:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A devotional on self-worth and divine love beyond achievement.",
+   "reason": "Devotional on self-worth, divine love, and peace in life.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "Buzzsprout-19694812",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "Life Can Feel Hard and Scary Because I Never Realized How Much I Had to Change — The Emotional Healing That Prepared Me to Become the Person My Higher Power Created Me to Be",
+   "summary": "What if life feels hard and scary not because something is going wrong, but because you are changing?In this milestone 50th episode of WE, Joe Mittiga explores the uncomfortable side of emotional healing and spiritual growth. He shares how true healing doesn’t simply help us feel better. It can change what we want, what we accept, our relationships, and ultimately the direction of our lives. Joe opens up about learning to take responsibility for his own emotions, recognizing codependent patterns, letting go of the need to fix other people, and finding the courage to look at his own side of the",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19694812-life-can-feel-hard-and-scary-because-i-never-realized-how-much-i-had-to-change-the-emotional-healing-that-prepared-me-to-become-the-person-my-higher-power-created-me-to-be.mp3",
+   "published": "Tue, 25 Aug 2026 07:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores emotional healing and spiritual growth with honest self-reflection.",
    "tradition": "Christian"
   },
   {
@@ -118,8 +118,8 @@
    "published": "Tue, 25 Aug 2026 07:30:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b6/c6/72/b6c6727f-1bcd-b5ba-adca-ab55343eeeec/mza_7574625153787460905.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Shares personal psychedelic experiences reflecting on spirit guides and inner revelations.",
-   "tradition": "Interfaith"
+   "reason": "Shares personal psychedelic experiences that raise questions about consciousness.",
+   "tradition": "Secular"
   },
   {
    "id": "dylangemelli.podbean.com/fcfca9d9-c147-3f31-882d-d1d2736840f6",
@@ -144,8 +144,8 @@
    "published": "Fri, 21 Aug 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Investigates paranormal beliefs and human need for transcendence.",
-   "tradition": "Interfaith"
+   "reason": "Explores belief in extraordinary phenomena and human need for meaning.",
+   "tradition": "Secular"
   },
   {
    "id": "flightcast:01M0T9KTESMC3QKX83RSPVY0Y7",
@@ -157,7 +157,7 @@
    "published": "Tue, 25 Aug 2026 13:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/73/4b/a3/734ba3b5-45d5-a741-7606-0d2fdc735887/mza_11459030094087694567.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses gospel translation efforts for the deaf, touching on faith outreach.",
+   "reason": "Focuses on gospel outreach and communication, with some ethical implications.",
    "tradition": "Christian"
   },
   {
@@ -170,7 +170,7 @@
    "published": "Fri, 21 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores psychological shifts toward happiness and purpose.",
+   "reason": "Discusses psychological patterns and purpose with some spiritual elements.",
    "tradition": "Secular"
   }
  ],
