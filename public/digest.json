@@ -1,35 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-08-25T01:36:03.835069+00:00",
+ "generatedAt": "2026-08-25T03:04:15.380440+00:00",
  "showsScanned": 400,
- "candidates": 62,
+ "candidates": 61,
  "picks": [
-  {
-   "id": "dylangemelli.podbean.com/fcfca9d9-c147-3f31-882d-d1d2736840f6",
-   "showID": "https://feed.podbean.com/dylangemelli/feed.xml",
-   "showTitle": "The Dylan Gemelli Podcast",
-   "title": "Episode #156:  Featuring Dr. Stefanie Kleine!  From Human Doing to Human Being: A New Approach to Wellness",
-   "summary": "Episode #156:  Featuring Dr. Stefanie Kleine!  From Human Doing to Human Being: A New Approach to Wellness \n \nIn this conversation, I speak with Dr. Stefanie Kleine, a psychologist and psycho-spiritual coach, about the importance of shifting from a mindset of 'doing' to 'being' in order to achieve true transformation and fulfillment. They discuss the common patterns of burnout among high performers, the role of the nervous system in health, and the impact of emotional wounds on performance. Dr. Kleine also shares insights on how psychedelics can aid in healing and personal growth as well as th",
-   "audioURL": "https://pscrb.fm/rss/p/mcdn.podbean.com/mf/web/b6cqnzihipnupgap/Episode_156_Featuring_Dr_Stefanie_Kleinebc5ya.mp3",
-   "published": "Mon, 24 Aug 2026 18:01:34 -0700",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/4a/f4/654af4a7-d5cd-2317-91a1-b5913de83e6f/mza_12950421134232165951.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses shifting from doing to being and emotional health but not deeply on ultimate questions.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "thedrjoshaxeshow.podbean.com/6d1f954a-3328-3c5e-be11-5c8788770697",
-   "showID": "https://feed.podbean.com/thedrjoshaxeshow/feed.xml",
-   "showTitle": "The Dr. Josh Axe Show",
-   "title": "The Spiritual Root of Anxiety Nobody Is Talking About | Madison Prewett Troutt",
-   "summary": "Most people treating anxiety are starting in the wrong place. Madison Prewett Troutt — author, speaker, and podcast host — makes the case that anxiety, loneliness, and chronic exhaustion are primarily spiritual battles, and that no supplement or protocol will produce lasting freedom until the foundation is addressed first.\n**In this episode:**\n- Why your body is a temple and what it actually means to steward it well — physically, spiritually, and relationally\n- The three things every human needs to be truly healthy: connection to God, connection to people, and connection to the earth\n- Satan's",
-   "audioURL": "https://mcdn.podbean.com/mf/web/5m4akwie4qejtccy/DJAS_MADI_PREWETT_TROUT_20260819_FINALbq3qq.mp3",
-   "published": "Thu, 20 Aug 2026 09:07:32 -0500",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/6f/b6/fe6fb672-7817-356e-7314-2d912dd8f3ce/mza_15885076699336077.png/600x600bb.jpg",
-   "rating": 6,
-   "reason": "A spiritual perspective on anxiety linking body, spirit, and human needs.",
-   "tradition": "Christian"
-  },
   {
    "id": "Buzzsprout-19673474",
    "showID": "https://rss.buzzsprout.com/2615825.rss",
@@ -40,7 +14,7 @@
    "published": "Wed, 19 Aug 2026 17:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/fa/fb/a5fafb92-923d-4d30-5efd-e5027ad626bb/mza_14585418034078207545.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Philosophical conversation on consciousness, identity, and the nature of mind and reality.",
+   "reason": "Deep conversation on consciousness, identity, and perception as ultimate questions.",
    "tradition": "Interfaith"
   },
   {
@@ -53,7 +27,7 @@
    "published": "Mon, 17 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/19/31/db/1931db86-ed0a-e638-ced5-87c64f6e0959/mza_9202206376827126130.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores Stoicism's relevance to meaning and ethics in chaotic times with a modern lens.",
+   "reason": "Explores Stoic philosophy's relevance to meaning and ethics in modern chaotic life.",
    "tradition": "Stoic"
   },
   {
@@ -66,7 +40,7 @@
    "published": "Tue, 18 Aug 2026 22:02:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Devotional talk on worth, love, and peace grounded in faith and identity.",
+   "reason": "Devotional talk on worth, love, and rest with spiritual depth.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +53,7 @@
    "published": "Mon, 17 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "An honest conversation on addiction, recovery, and healing with spiritual undertones.",
+   "reason": "A raw conversation on addiction, recovery, and healing with spiritual undertones.",
    "tradition": "Interfaith"
   },
   {
@@ -92,8 +66,21 @@
    "published": "Fri, 21 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores Psalms' historical and spiritual context with some scriptural analysis.",
+   "reason": "Studies Psalms with historical and spiritual insights.",
    "tradition": "Christian"
+  },
+  {
+   "id": "dylangemelli.podbean.com/fcfca9d9-c147-3f31-882d-d1d2736840f6",
+   "showID": "https://feed.podbean.com/dylangemelli/feed.xml",
+   "showTitle": "The Dylan Gemelli Podcast",
+   "title": "Episode #156:  Featuring Dr. Stefanie Kleine!  From Human Doing to Human Being: A New Approach to Wellness",
+   "summary": "Episode #156:  Featuring Dr. Stefanie Kleine!  From Human Doing to Human Being: A New Approach to Wellness \n \nIn this conversation, I speak with Dr. Stefanie Kleine, a psychologist and psycho-spiritual coach, about the importance of shifting from a mindset of 'doing' to 'being' in order to achieve true transformation and fulfillment. They discuss the common patterns of burnout among high performers, the role of the nervous system in health, and the impact of emotional wounds on performance. Dr. Kleine also shares insights on how psychedelics can aid in healing and personal growth as well as th",
+   "audioURL": "https://pscrb.fm/rss/p/mcdn.podbean.com/mf/web/b6cqnzihipnupgap/Episode_156_Featuring_Dr_Stefanie_Kleinebc5ya.mp3",
+   "published": "Mon, 24 Aug 2026 18:01:34 -0700",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/4a/f4/654af4a7-d5cd-2317-91a1-b5913de83e6f/mza_12950421134232165951.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses burnout and transformation but focuses on wellness coaching more than deep existential questions.",
+   "tradition": "Secular"
   },
   {
    "id": "fa177f20-9999-11f1-9f84-13c49c0a07dc",
@@ -105,7 +92,20 @@
    "published": "Mon, 17 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores baptism of the Holy Spirit and Christian responses to fear and uncertainty.",
+   "reason": "Explores baptism of the Holy Spirit with biblical interpretation and faith implications.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "thedrjoshaxeshow.podbean.com/6d1f954a-3328-3c5e-be11-5c8788770697",
+   "showID": "https://feed.podbean.com/thedrjoshaxeshow/feed.xml",
+   "showTitle": "The Dr. Josh Axe Show",
+   "title": "The Spiritual Root of Anxiety Nobody Is Talking About | Madison Prewett Troutt",
+   "summary": "Most people treating anxiety are starting in the wrong place. Madison Prewett Troutt — author, speaker, and podcast host — makes the case that anxiety, loneliness, and chronic exhaustion are primarily spiritual battles, and that no supplement or protocol will produce lasting freedom until the foundation is addressed first.\n**In this episode:**\n- Why your body is a temple and what it actually means to steward it well — physically, spiritually, and relationally\n- The three things every human needs to be truly healthy: connection to God, connection to people, and connection to the earth\n- Satan's",
+   "audioURL": "https://mcdn.podbean.com/mf/web/5m4akwie4qejtccy/DJAS_MADI_PREWETT_TROUT_20260819_FINALbq3qq.mp3",
+   "published": "Thu, 20 Aug 2026 09:07:32 -0500",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/6f/b6/fe6fb672-7817-356e-7314-2d912dd8f3ce/mza_15885076699336077.png/600x600bb.jpg",
+   "rating": 6,
+   "reason": "A spiritual perspective on anxiety linking body, spirit, and relational needs.",
    "tradition": "Christian"
   }
  ],
