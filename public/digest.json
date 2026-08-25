@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-25T16:43:14.197580+00:00",
+ "generatedAt": "2026-08-25T17:36:07.360530+00:00",
  "showsScanned": 400,
- "candidates": 63,
+ "candidates": 60,
  "picks": [
   {
    "id": "Buzzsprout-19673474",
@@ -14,7 +14,7 @@
    "published": "Wed, 19 Aug 2026 17:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/fa/fb/a5fafb92-923d-4d30-5efd-e5027ad626bb/mza_14585418034078207545.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Philosophical conversation on consciousness and identity after spiritual awakening.",
+   "reason": "Philosopher deeply explores consciousness, identity, and perception of reality.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Tue, 18 Aug 2026 17:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/d9/fe/acd9fef8-5b5a-1720-6426-e27c98a01e74/mza_11018966765269685189.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A physicist discusses consciousness and reality from a scientific and philosophical view.",
+   "reason": "A physicist explores consciousness and reality in depth.",
    "tradition": "Secular"
   },
   {
@@ -40,8 +40,34 @@
    "published": "Wed, 19 Aug 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A deep Buddhist discussion on meditation, self-acceptance, and mystical experience.",
+   "reason": "A deep Buddhist conversation on meditation, self-acceptance, and mystical experience.",
    "tradition": "Buddhist"
+  },
+  {
+   "id": "unshaken.podbean.com/703ef14f-70a4-3370-87e4-e46f3d2765d5",
+   "showID": "https://feed.podbean.com/unshaken/feed.xml",
+   "showTitle": "Unshaken Saints",
+   "title": "The Book of Psalms (49-100) - Songs of the Heart",
+   "summary": "What do you do when your sins feel too heavy to carry, when your closest friends turn against you, or when you look at the world and wonder why the wicked seem to prosper while the faithful suffer? In Psalms 49–101, the psalmists give voice to our rawest cries, leading us from the depths of personal brokenness straight into the healing sanctuary of God.\nSummary: In this moving exploration of Psalms 49–101, we walk through the second major collection of the Hebrew Psalter. Moving between searing prayers of confession and breathtaking anthems of praise, these chapters provide an emotional and sp",
+   "audioURL": "https://mcdn.podbean.com/mf/web/gkqnidgytk32rrmr/Psalm_49-100_full_audio_enhanced7sdwi.mp3",
+   "published": "Mon, 24 Aug 2026 20:36:28 -0600",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores raw human suffering and divine justice through Psalms' honest prayers.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "flightcast:01M0T9KTESMC3QKX83RSPVY0Y7",
+   "showID": "https://rss2.flightcast.com/t73f4jg65ilunnoyzfdsnikd.xml",
+   "showTitle": "Worldview Matters With David Fiorazo",
+   "title": "Steve Cleary: Reaching The Formerly ‘Unreachable’ With The Gospel",
+   "summary": "Steve Cleary is the CEO and founder of RevelationMedia and shares their project that will translate the Gospel on video for the deaf.\nRevelationMedia: https://revelationmedia.com/\niBible Episodes: https://www.i.bible/watch/episodes/en/life-of-christ/nicodemus/\nwww.worldviewmatters.tv\n© FreedomProject 2026",
+   "audioURL": "https://episode.flightcast.com/01M0T9KTESTWY8PQTW81GAPEZ5.mp3",
+   "published": "Tue, 25 Aug 2026 13:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/73/4b/a3/734ba3b5-45d5-a741-7606-0d2fdc735887/mza_11459030094087694567.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A former agnostic discusses returning to Catholic faith, engaging with doubt and belief.",
+   "tradition": "Christian"
   },
   {
    "id": "9f115dec-a053-11f1-b1ab-e32e141bb6a5",
@@ -52,8 +78,8 @@
    "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER5762972570.mp3",
    "published": "Tue, 25 Aug 2026 07:17:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/f6/5a/9cf65abb-f8db-fb7b-984f-b4276a1e8c85/mza_2107148709996282347.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Covers meditation, peacebuilding, and spiritual leadership with practical insights.",
+   "rating": 7,
+   "reason": "Features a spiritual leader discussing meditation and peace, touching on faith and inner life.",
    "tradition": "Hindu"
   },
   {
@@ -65,35 +91,9 @@
    "audioURL": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2387757360-trenthornpodcast-1199-how-one-of-my-smartest.mp3",
    "published": "Tue, 25 Aug 2026 13:00:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A former agnostic's return to Catholic faith, discussing doubt and belief.",
+   "rating": 7,
+   "reason": "Pastors discuss biblical stories with practical faith lessons, touching on ethics and faith.",
    "tradition": "Christian"
-  },
-  {
-   "id": "dylangemelli.podbean.com/fcfca9d9-c147-3f31-882d-d1d2736840f6",
-   "showID": "https://feed.podbean.com/dylangemelli/feed.xml",
-   "showTitle": "The Dylan Gemelli Podcast",
-   "title": "Episode #156:  Featuring Dr. Stefanie Kleine!  From Human Doing to Human Being: A New Approach to Wellness",
-   "summary": "Episode #156:  Featuring Dr. Stefanie Kleine!  From Human Doing to Human Being: A New Approach to Wellness \n \nIn this conversation, I speak with Dr. Stefanie Kleine, a psychologist and psycho-spiritual coach, about the importance of shifting from a mindset of 'doing' to 'being' in order to achieve true transformation and fulfillment. They discuss the common patterns of burnout among high performers, the role of the nervous system in health, and the impact of emotional wounds on performance. Dr. Kleine also shares insights on how psychedelics can aid in healing and personal growth as well as th",
-   "audioURL": "https://pscrb.fm/rss/p/mcdn.podbean.com/mf/web/b6cqnzihipnupgap/Episode_156_Featuring_Dr_Stefanie_Kleinebc5ya.mp3",
-   "published": "Mon, 24 Aug 2026 18:01:34 -0700",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/4a/f4/654af4a7-d5cd-2317-91a1-b5913de83e6f/mza_12950421134232165951.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores transformation from doing to being and the role of the nervous system in wellness.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "97af8de1-7475-4daf-930a-8136584452f5",
-   "showID": "https://feeds.libsyn.com/570160/rss",
-   "showTitle": "10% Happier with Dan Harris",
-   "title": "The Evidence for Aliens, the Afterlife, Bigfoot, Sea Monsters, and More | Miguel Sancho",
-   "summary": "An investigative journalist on why reincarnation, ghosts, and unexplained phenomena deserve more scrutiny; plus, why our need to believe in something bigger isn't something to be embarrassed about. Miguel Sancho is an Emmy Award–winning television producer and author. He is a veteran of ABC News, where he helped run 20/20, and he is now the executive producer of The Proof Is Out There on the History Channel. His latest book is  Evidence of the Extraordinary: Discoveries from the Series The Proof is Out There. In this episode we talk about:  How to walk the line between skepticism and credulity",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/05620661-2103-4fe0-9ab9-92bfc4d9cf22/260821_TPHP_MiguelSancho_AudioVersion_v2.mp3?dest-id=4933335",
-   "published": "Fri, 21 Aug 2026 07:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Investigates paranormal beliefs and human need for transcendence with journalistic rigor.",
-   "tradition": "Secular"
   },
   {
    "id": "6a169d3b-6753-4b80-bead-b4aa0155a669",
@@ -105,33 +105,33 @@
    "published": "Tue, 18 Aug 2026 22:02:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Addresses self-worth and divine love in a devotional talk.",
+   "reason": "Devotional talk on worth and divine love, addressing meaning and faith.",
    "tradition": "Christian"
   },
   {
-   "id": "Buzzsprout-19694812",
-   "showID": "https://rss.buzzsprout.com/2547586.rss",
-   "showTitle": "We!",
-   "title": "Life Can Feel Hard and Scary Because I Never Realized How Much I Had to Change — The Emotional Healing That Prepared Me to Become the Person My Higher Power Created Me to Be",
-   "summary": "What if life feels hard and scary not because something is going wrong, but because you are changing?In this milestone 50th episode of WE, Joe Mittiga explores the uncomfortable side of emotional healing and spiritual growth. He shares how true healing doesn’t simply help us feel better. It can change what we want, what we accept, our relationships, and ultimately the direction of our lives. Joe opens up about learning to take responsibility for his own emotions, recognizing codependent patterns, letting go of the need to fix other people, and finding the courage to look at his own side of the",
-   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19694812-life-can-feel-hard-and-scary-because-i-never-realized-how-much-i-had-to-change-the-emotional-healing-that-prepared-me-to-become-the-person-my-higher-power-created-me-to-be.mp3",
-   "published": "Tue, 25 Aug 2026 07:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores emotional healing and spiritual growth as transformative life processes.",
-   "tradition": "Interfaith"
+   "id": "dylangemelli.podbean.com/fcfca9d9-c147-3f31-882d-d1d2736840f6",
+   "showID": "https://feed.podbean.com/dylangemelli/feed.xml",
+   "showTitle": "The Dylan Gemelli Podcast",
+   "title": "Episode #156:  Featuring Dr. Stefanie Kleine!  From Human Doing to Human Being: A New Approach to Wellness",
+   "summary": "Episode #156:  Featuring Dr. Stefanie Kleine!  From Human Doing to Human Being: A New Approach to Wellness \n \nIn this conversation, I speak with Dr. Stefanie Kleine, a psychologist and psycho-spiritual coach, about the importance of shifting from a mindset of 'doing' to 'being' in order to achieve true transformation and fulfillment. They discuss the common patterns of burnout among high performers, the role of the nervous system in health, and the impact of emotional wounds on performance. Dr. Kleine also shares insights on how psychedelics can aid in healing and personal growth as well as th",
+   "audioURL": "https://pscrb.fm/rss/p/mcdn.podbean.com/mf/web/b6cqnzihipnupgap/Episode_156_Featuring_Dr_Stefanie_Kleinebc5ya.mp3",
+   "published": "Mon, 24 Aug 2026 18:01:34 -0700",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/4a/f4/654af4a7-d5cd-2317-91a1-b5913de83e6f/mza_12950421134232165951.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses shifting from doing to being and emotional health, relevant but not deeply philosophical.",
+   "tradition": "Secular"
   },
   {
-   "id": "687d7cc0-9cf2-11f1-a10b-436692614587",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "The Surprising Reason You're Still Unhappy",
-   "summary": "Jay breaks down the difference between healthy self-reflection and the kind of rumination that keeps you stuck in your own head. He shares four practical shifts to help you break the cycle, from redirecting your attention and resisting isolation to finding purpose through serving others and stepping into what Maslow called self-transcendence. Jay also shares a simple seven-day challenge to help you put it all into practice.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Free 30-Day Trial.\n\nYour future is waiting, and Walden is here to",
-   "audioURL": "https://traffic.megaphone.fm/GLT7094389443.mp3",
-   "published": "Fri, 21 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "id": "97af8de1-7475-4daf-930a-8136584452f5",
+   "showID": "https://feeds.libsyn.com/570160/rss",
+   "showTitle": "10% Happier with Dan Harris",
+   "title": "The Evidence for Aliens, the Afterlife, Bigfoot, Sea Monsters, and More | Miguel Sancho",
+   "summary": "An investigative journalist on why reincarnation, ghosts, and unexplained phenomena deserve more scrutiny; plus, why our need to believe in something bigger isn't something to be embarrassed about. Miguel Sancho is an Emmy Award–winning television producer and author. He is a veteran of ABC News, where he helped run 20/20, and he is now the executive producer of The Proof Is Out There on the History Channel. His latest book is  Evidence of the Extraordinary: Discoveries from the Series The Proof is Out There. In this episode we talk about:  How to walk the line between skepticism and credulity",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/05620661-2103-4fe0-9ab9-92bfc4d9cf22/260821_TPHP_MiguelSancho_AudioVersion_v2.mp3?dest-id=4933335",
+   "published": "Fri, 21 Aug 2026 07:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Offers practical advice on overcoming unhappiness with some spiritual elements.",
+   "reason": "Investigates paranormal beliefs and human need for meaning, but more skeptical inquiry.",
    "tradition": "Secular"
   },
   {
@@ -144,8 +144,21 @@
    "published": "Thu, 20 Aug 2026 09:07:32 -0500",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fe/6f/b6/fe6fb672-7817-356e-7314-2d912dd8f3ce/mza_15885076699336077.png/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses anxiety as a spiritual battle, linking body, spirit, and relationships.",
+   "reason": "Discusses anxiety as a spiritual battle, linking body and spirit.",
    "tradition": "Christian"
+  },
+  {
+   "id": "Buzzsprout-19694812",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "Life Can Feel Hard and Scary Because I Never Realized How Much I Had to Change — The Emotional Healing That Prepared Me to Become the Person My Higher Power Created Me to Be",
+   "summary": "What if life feels hard and scary not because something is going wrong, but because you are changing?In this milestone 50th episode of WE, Joe Mittiga explores the uncomfortable side of emotional healing and spiritual growth. He shares how true healing doesn’t simply help us feel better. It can change what we want, what we accept, our relationships, and ultimately the direction of our lives. Joe opens up about learning to take responsibility for his own emotions, recognizing codependent patterns, letting go of the need to fix other people, and finding the courage to look at his own side of the",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19694812-life-can-feel-hard-and-scary-because-i-never-realized-how-much-i-had-to-change-the-emotional-healing-that-prepared-me-to-become-the-person-my-higher-power-created-me-to-be.mp3",
+   "published": "Tue, 25 Aug 2026 07:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores emotional healing and spiritual growth with personal responsibility.",
+   "tradition": "Interfaith"
   },
   {
    "id": "c14969a0-9a8a-11f1-8e4b-fbeb9f403e2e",
@@ -157,7 +170,7 @@
    "published": "Tue, 25 Aug 2026 07:30:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b6/c6/72/b6c6727f-1bcd-b5ba-adca-ab55343eeeec/mza_7574625153787460905.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Shares psychedelic experiences touching on spiritual insight and transformation.",
+   "reason": "Shares personal psychedelic experiences with spiritual and existential insights.",
    "tradition": "Interfaith"
   }
  ],
@@ -319,6 +332,8 @@
   "9f115dec-a053-11f1-b1ab-e32e141bb6a5": "2026-08-25",
   "c14969a0-9a8a-11f1-8e4b-fbeb9f403e2e": "2026-08-25",
   "Buzzsprout-19694812": "2026-08-25",
-  "tag:soundcloud,2010:tracks/2387757360": "2026-08-25"
+  "tag:soundcloud,2010:tracks/2387757360": "2026-08-25",
+  "unshaken.podbean.com/703ef14f-70a4-3370-87e4-e46f3d2765d5": "2026-08-25",
+  "flightcast:01M0T9KTESMC3QKX83RSPVY0Y7": "2026-08-25"
  }
 }
