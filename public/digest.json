@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-26T16:23:04.994011+00:00",
+ "generatedAt": "2026-08-26T19:08:51.150985+00:00",
  "showsScanned": 400,
- "candidates": 59,
+ "candidates": 55,
  "picks": [
   {
    "id": "8f02edc4-47ea-40ec-aab3-f1a00602a368",
@@ -14,7 +14,7 @@
    "published": "Fri, 21 Aug 2026 13:30:41 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/2d/1c/bb2d1cb2-4c61-0e3d-039e-b0a474e58c51/mza_2950270099588349078.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A Christian philosopher deeply reflects on love, suffering, faith, and mortality.",
+   "reason": "A Christian philosopher discusses suffering, faith, love, and loss from deep personal experience.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Sun, 23 Aug 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of faith crisis and restoration centered on Jesus and real-life doubt.",
+   "reason": "Personal story of faith crisis and recovery centered on Jesus' atonement.",
    "tradition": "Christian"
   },
   {
@@ -40,8 +40,8 @@
    "published": "Fri, 21 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Neuroscientific and Buddhist insights on mindfulness and brain change for well-being.",
-   "tradition": "Secular"
+   "reason": "Connects neuroscience and Buddhist wisdom to understand suffering and happiness.",
+   "tradition": "Buddhist"
   },
   {
    "id": "Buzzsprout-19670818",
@@ -53,7 +53,7 @@
    "published": "Thu, 20 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal spiritual awakening story exploring healing and purpose.",
+   "reason": "Shares a spiritual awakening about healing and living purposefully in a changing world.",
    "tradition": "Interfaith"
   },
   {
@@ -79,21 +79,8 @@
    "published": "Thu, 20 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Guided trauma-informed meditation addressing stress and resilience.",
+   "reason": "Guided mindful movement and breathing practice to manage stress and build resilience.",
    "tradition": "Secular"
-  },
-  {
-   "id": "92a46ee4-9bd7-11f1-8284-5f97eabb0501",
-   "showID": "https://feeds.megaphone.fm/SGP8517078272",
-   "showTitle": "Get Sleepy: stories for sleep",
-   "title": "The Creation of the Nine Worlds (Norse Myths #8)",
-   "summary": "Narrator: Thomas Jones 🇬🇧\n\nWriter: Frankie Regalia ✍️\n\n\n\nWelcome back, sleepyheads. Norse mythology encompasses many worlds and races of creatures. But how did this come to be? Where did the universe begin for these ancient peoples? Tonight, we'll discover the creation myth. 😴\n\nIncludes mentions of: Religious Traditions, Fantastical Creatures, Fantastical Elements, Mythology, Void.&nbsp;\n\n\n\nTo receive our FREE weekly newsletter:&nbsp;⁠⁠Join our mailing list!⁠⁠\n\n\n\nEnjoy various playlists&nbsp;of our stories and meditations on our&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Slumber Studios Spotify profile⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n\n\nGe",
-   "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/SGP1627347870.mp3",
-   "published": "Wed, 26 Aug 2026 16:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Narrates Norse creation myth exploring origins and cosmology.",
-   "tradition": "Indigenous"
   },
   {
    "id": "tag:soundcloud,2010:tracks/2386334196",
@@ -105,7 +92,7 @@
    "published": "Sun, 23 Aug 2026 23:00:31 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Focuses on gratitude and praise in Psalms, inviting reflection on everyday divine presence.",
+   "reason": "Considers gratitude and praise in Psalms as ways God shows up in life.",
    "tradition": "Christian"
   },
   {
@@ -118,8 +105,8 @@
    "published": "Tue, 25 Aug 2026 19:40:01 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discussion of reincarnation and earth healing with spiritual and historical themes.",
-   "tradition": "New Age"
+   "reason": "Explores reincarnation and soul healing through mythology and celebrity past lives.",
+   "tradition": "Interfaith"
   },
   {
    "id": "6a9ed39e-a0fa-11f1-9dc4-bfb3112c72d9",
@@ -131,8 +118,21 @@
    "published": "Wed, 26 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Offers practical advice on forgiveness with some ethical and emotional insight.",
-   "tradition": "Secular"
+   "reason": "Practical advice on forgiveness touches on ethics and emotional complexity.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "92a46ee4-9bd7-11f1-8284-5f97eabb0501",
+   "showID": "https://feeds.megaphone.fm/SGP8517078272",
+   "showTitle": "Get Sleepy: stories for sleep",
+   "title": "The Creation of the Nine Worlds (Norse Myths #8)",
+   "summary": "Narrator: Thomas Jones 🇬🇧\n\nWriter: Frankie Regalia ✍️\n\n\n\nWelcome back, sleepyheads. Norse mythology encompasses many worlds and races of creatures. But how did this come to be? Where did the universe begin for these ancient peoples? Tonight, we'll discover the creation myth. 😴\n\nIncludes mentions of: Religious Traditions, Fantastical Creatures, Fantastical Elements, Mythology, Void.&nbsp;\n\n\n\nTo receive our FREE weekly newsletter:&nbsp;⁠⁠Join our mailing list!⁠⁠\n\n\n\nEnjoy various playlists&nbsp;of our stories and meditations on our&nbsp;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Slumber Studios Spotify profile⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.\n\n\n\nGe",
+   "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/SGP1627347870.mp3",
+   "published": "Wed, 26 Aug 2026 16:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Norse creation myth narrated, offering mythological perspective on origins and cosmos.",
+   "tradition": "Indigenous"
   }
  ],
  "history": {
