@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-26T08:51:36.119176+00:00",
+ "generatedAt": "2026-08-26T09:49:03.569698+00:00",
  "showsScanned": 400,
  "candidates": 59,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Tue, 18 Aug 2026 16:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores the nature of consciousness and its mysteries from a scientific perspective.",
+   "reason": "Explores the nature of consciousness and its mysteries in depth.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Fri, 21 Aug 2026 13:30:41 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/2d/1c/bb2d1cb2-4c61-0e3d-039e-b0a474e58c51/mza_2950270099588349078.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A Christian philosopher discusses suffering, faith, love, and marriage lessons.",
+   "reason": "A Christian philosopher discusses love, suffering, faith, and mortality.",
    "tradition": "Christian"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Sun, 23 Aug 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of faith crisis and recovery centered on Jesus' atonement.",
+   "reason": "Personal story of faith crisis and return, grappling with doubt and belief.",
    "tradition": "Christian"
   },
   {
@@ -70,17 +70,17 @@
    "tradition": "Secular"
   },
   {
-   "id": "6a9ed39e-a0fa-11f1-9dc4-bfb3112c72d9",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "Ask Jay: How Do I Forgive?",
-   "summary": "Jay answers four listener calls about the messy, unresolved side of forgiveness, from custody guilt and bias in parenting, to forgiving yourself after the sudden loss of a parent, uncovering a spouse’s hidden life after they’re gone, and the heartbreak of a friendship betrayal. Jay shares research-backed tools to release guilt, rebuild trust, and move forward for your own peace, without excusing what happened.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Free 30-Day Trial. \n\nHead to https://wayfair.com right now to shop all things h",
-   "audioURL": "https://traffic.megaphone.fm/GLT6296721087.mp3",
-   "published": "Wed, 26 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "id": "Buzzsprout-19670818",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "I chose to Live My Purpose in a World that is creating the Generation of Change - The Spiritual Awakening That Inspired Me to Help Heal Humanity, One Smile at a Time",
+   "summary": "What if healing yourself isn’t the destination, but the beginning of something much greater?In this episode of the WE Podcast, Joe Mittiga shares the spiritual awakening that helped him realize his healing was preparing him to live his purpose. He explores what he calls the Generation of Change, a time when people around the world are searching for deeper meaning, authentic connection, and a life that goes beyond traditional definitions of success. Joe shares how his experiences in Africa opened his eyes to the global water crisis and inspired Project Smile, connecting his personal healing jou",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19670818-i-chose-to-live-my-purpose-in-a-world-that-is-creating-the-generation-of-change-the-spiritual-awakening-that-inspired-me-to-help-heal-humanity-one-smile-at-a-time.mp3",
+   "published": "Thu, 20 Aug 2026 07:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Addresses forgiveness with practical and emotional depth.",
-   "tradition": "Secular"
+   "reason": "Personal spiritual awakening story about healing and living purpose.",
+   "tradition": "Interfaith"
   },
   {
    "id": "5565a244-9c51-11f1-b8ea-e308145cac46",
@@ -92,7 +92,7 @@
    "published": "Thu, 20 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses creativity, presence, and meditation with a focus on inner life.",
+   "reason": "Discusses creativity, presence, and uncertainty with philosophical depth.",
    "tradition": "Secular"
   },
   {
@@ -105,21 +105,8 @@
    "published": "Sun, 23 Aug 2026 23:00:31 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Focuses on gratitude and praise as spiritual practices in Psalms.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "Buzzsprout-19670818",
-   "showID": "https://rss.buzzsprout.com/2547586.rss",
-   "showTitle": "We!",
-   "title": "I chose to Live My Purpose in a World that is creating the Generation of Change - The Spiritual Awakening That Inspired Me to Help Heal Humanity, One Smile at a Time",
-   "summary": "What if healing yourself isn’t the destination, but the beginning of something much greater?In this episode of the WE Podcast, Joe Mittiga shares the spiritual awakening that helped him realize his healing was preparing him to live his purpose. He explores what he calls the Generation of Change, a time when people around the world are searching for deeper meaning, authentic connection, and a life that goes beyond traditional definitions of success. Joe shares how his experiences in Africa opened his eyes to the global water crisis and inspired Project Smile, connecting his personal healing jou",
-   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19670818-i-chose-to-live-my-purpose-in-a-world-that-is-creating-the-generation-of-change-the-spiritual-awakening-that-inspired-me-to-help-heal-humanity-one-smile-at-a-time.mp3",
-   "published": "Thu, 20 Aug 2026 07:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Shares a spiritual awakening focused on healing and purpose in life.",
-   "tradition": "Interfaith"
+   "reason": "Considers gratitude and praise in daily life through Psalms study.",
+   "tradition": "Jewish"
   },
   {
    "id": "08122222-bbda-40c8-b873-e6f7c4a510df",
@@ -131,8 +118,21 @@
    "published": "Tue, 25 Aug 2026 19:40:01 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses reincarnation and soul healing with references to historical figures.",
+   "reason": "Explores reincarnation and soul healing through myth and celebrity stories.",
    "tradition": "New Age"
+  },
+  {
+   "id": "6a9ed39e-a0fa-11f1-9dc4-bfb3112c72d9",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "Ask Jay: How Do I Forgive?",
+   "summary": "Jay answers four listener calls about the messy, unresolved side of forgiveness, from custody guilt and bias in parenting, to forgiving yourself after the sudden loss of a parent, uncovering a spouse’s hidden life after they’re gone, and the heartbreak of a friendship betrayal. Jay shares research-backed tools to release guilt, rebuild trust, and move forward for your own peace, without excusing what happened.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Free 30-Day Trial. \n\nHead to https://wayfair.com right now to shop all things h",
+   "audioURL": "https://traffic.megaphone.fm/GLT6296721087.mp3",
+   "published": "Wed, 26 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Offers practical forgiveness advice with some attention to emotional complexity.",
+   "tradition": "Interfaith"
   },
   {
    "id": "prx_192_a44af6cc-b1a2-416d-9c43-e5c5f11279f7",
@@ -144,7 +144,7 @@
    "published": "Thu, 20 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Offers a mindful movement practice to manage stress and build resilience.",
+   "reason": "Offers a mindful practice to manage stress, with some ethical and inner life relevance.",
    "tradition": "Secular"
   }
  ],
