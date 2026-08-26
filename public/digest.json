@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-26T09:49:03.569698+00:00",
+ "generatedAt": "2026-08-26T10:40:12.643206+00:00",
  "showsScanned": 400,
- "candidates": 59,
+ "candidates": 58,
  "picks": [
   {
    "id": "0d56870b-6ce2-42fd-be40-aac9ce0ed188",
@@ -14,21 +14,8 @@
    "published": "Tue, 18 Aug 2026 16:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores the nature of consciousness and its mysteries in depth.",
+   "reason": "Discusses the mystery of consciousness and what it means to be aware.",
    "tradition": "Secular"
-  },
-  {
-   "id": "8f02edc4-47ea-40ec-aab3-f1a00602a368",
-   "showID": "https://anchor.fm/s/101bcf8e8/podcast/rss",
-   "showTitle": "The Lila Rose Show",
-   "title": "E344: The Harsh, Beautiful Truth About Love, Suffering, and God w/Dr. Peter Kreeft | E344 Lila Rose Show | E344 Lila Rose Show",
-   "summary": "Dr Peter Kreeft is one of the most popular Christian authors of the 20th and 21st-centuries. Today I have the honor of sitting down with him to discuss suffering, faith, love, and the lessons he learned from 63 years of marriage to his late wife, Marie. Dr Kreeft's books: https://amzn.to/4qu4NKPDr Kreeft's website: https://www.peterkreeft.com/NEW: Check out our Merch store! https://shop.lilaroseshow.com/Join our new Patreon community! https://patreon.com/lilaroseshow - We'll have BTS footage, ad-free episodes, and early access to our upcoming guests.A big thanks to our partner, EWTN, the world",
-   "audioURL": "https://traffic.megaphone.fm/APO5339609475.mp3",
-   "published": "Fri, 21 Aug 2026 13:30:41 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/2d/1c/bb2d1cb2-4c61-0e3d-039e-b0a474e58c51/mza_2950270099588349078.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "A Christian philosopher discusses love, suffering, faith, and mortality.",
-   "tradition": "Christian"
   },
   {
    "id": "9431e642-37ba-48f6-ade8-6cabd3a8915b",
@@ -40,7 +27,7 @@
    "published": "Sun, 23 Aug 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of faith crisis and return, grappling with doubt and belief.",
+   "reason": "Personal story of faith crisis and recovery centered on Jesus' atonement.",
    "tradition": "Christian"
   },
   {
@@ -53,8 +40,21 @@
    "published": "Thu, 20 Aug 2026 16:00:01 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses near-death experiences and what they reveal about life and death.",
+   "reason": "Examines near-death experiences and what they reveal about life and death.",
    "tradition": "Secular"
+  },
+  {
+   "id": "8f02edc4-47ea-40ec-aab3-f1a00602a368",
+   "showID": "https://anchor.fm/s/101bcf8e8/podcast/rss",
+   "showTitle": "The Lila Rose Show",
+   "title": "E344: The Harsh, Beautiful Truth About Love, Suffering, and God w/Dr. Peter Kreeft | E344 Lila Rose Show | E344 Lila Rose Show",
+   "summary": "Dr Peter Kreeft is one of the most popular Christian authors of the 20th and 21st-centuries. Today I have the honor of sitting down with him to discuss suffering, faith, love, and the lessons he learned from 63 years of marriage to his late wife, Marie. Dr Kreeft's books: https://amzn.to/4qu4NKPDr Kreeft's website: https://www.peterkreeft.com/NEW: Check out our Merch store! https://shop.lilaroseshow.com/Join our new Patreon community! https://patreon.com/lilaroseshow - We'll have BTS footage, ad-free episodes, and early access to our upcoming guests.A big thanks to our partner, EWTN, the world",
+   "audioURL": "https://traffic.megaphone.fm/APO5339609475.mp3",
+   "published": "Fri, 21 Aug 2026 13:30:41 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/2d/1c/bb2d1cb2-4c61-0e3d-039e-b0a474e58c51/mza_2950270099588349078.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A Christian philosopher reflects on suffering, love, and faith through personal loss.",
+   "tradition": "Christian"
   },
   {
    "id": "429f28b2-9d21-11f1-b05c-53764e11cd27",
@@ -66,21 +66,8 @@
    "published": "Fri, 21 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Connects neuroscience and Buddhist wisdom to understand suffering and happiness.",
+   "reason": "Neuroscientist links mindfulness and brain change to reduce suffering and improve resilience.",
    "tradition": "Secular"
-  },
-  {
-   "id": "Buzzsprout-19670818",
-   "showID": "https://rss.buzzsprout.com/2547586.rss",
-   "showTitle": "We!",
-   "title": "I chose to Live My Purpose in a World that is creating the Generation of Change - The Spiritual Awakening That Inspired Me to Help Heal Humanity, One Smile at a Time",
-   "summary": "What if healing yourself isn’t the destination, but the beginning of something much greater?In this episode of the WE Podcast, Joe Mittiga shares the spiritual awakening that helped him realize his healing was preparing him to live his purpose. He explores what he calls the Generation of Change, a time when people around the world are searching for deeper meaning, authentic connection, and a life that goes beyond traditional definitions of success. Joe shares how his experiences in Africa opened his eyes to the global water crisis and inspired Project Smile, connecting his personal healing jou",
-   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19670818-i-chose-to-live-my-purpose-in-a-world-that-is-creating-the-generation-of-change-the-spiritual-awakening-that-inspired-me-to-help-heal-humanity-one-smile-at-a-time.mp3",
-   "published": "Thu, 20 Aug 2026 07:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Personal spiritual awakening story about healing and living purpose.",
-   "tradition": "Interfaith"
   },
   {
    "id": "5565a244-9c51-11f1-b8ea-e308145cac46",
@@ -96,6 +83,19 @@
    "tradition": "Secular"
   },
   {
+   "id": "prx_192_a44af6cc-b1a2-416d-9c43-e5c5f11279f7",
+   "showID": "https://rss.pdrl.fm/0f808e/feeds.feedburner.com/TheScienceOfHappiness",
+   "showTitle": "The Science of Happiness",
+   "title": "Happiness Break: A Practice In Moving Through Stress",
+   "summary": "Join yoga and meditation teacher Jonathan Relucio for a trauma-informed practice combining mindful movement and breathing to reduce tension and build resilience to stress.How To Do This Practice: \n\nGet comfortable: Sit or lie down and notice the support beneath your body, keeping your eyes open or closed—whichever feels comfortable.\n\nConnect with your body: Bring your attention inward and notice how your body, mind, and heart feel in the present moment.\n\nRelease tension: Inhale as you gently shrug your shoulders toward your ears, then exhale as you relax and release them.\n\nMove with your breat",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/dovetail.prxu.org/192/a44af6cc-b1a2-416d-9c43-e5c5f11279f7/SoH_HB_Jonathan_Relucio_-_Mindful_Movement_and_Breathing_mix_2.mp3",
+   "published": "Thu, 20 Aug 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Guided mindful movement and breathing to manage stress and build resilience.",
+   "tradition": "Secular"
+  },
+  {
    "id": "tag:soundcloud,2010:tracks/2386334196",
    "showID": "https://feeds.soundcloud.com/users/soundcloud:users:669018539/sounds.rss",
    "showTitle": "Don't Miss This Study",
@@ -105,8 +105,21 @@
    "published": "Sun, 23 Aug 2026 23:00:31 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Considers gratitude and praise in daily life through Psalms study.",
+   "reason": "Explores gratitude and praise in Psalms as ways to experience God's presence.",
    "tradition": "Jewish"
+  },
+  {
+   "id": "Buzzsprout-19670818",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "I chose to Live My Purpose in a World that is creating the Generation of Change - The Spiritual Awakening That Inspired Me to Help Heal Humanity, One Smile at a Time",
+   "summary": "What if healing yourself isn’t the destination, but the beginning of something much greater?In this episode of the WE Podcast, Joe Mittiga shares the spiritual awakening that helped him realize his healing was preparing him to live his purpose. He explores what he calls the Generation of Change, a time when people around the world are searching for deeper meaning, authentic connection, and a life that goes beyond traditional definitions of success. Joe shares how his experiences in Africa opened his eyes to the global water crisis and inspired Project Smile, connecting his personal healing jou",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19670818-i-chose-to-live-my-purpose-in-a-world-that-is-creating-the-generation-of-change-the-spiritual-awakening-that-inspired-me-to-help-heal-humanity-one-smile-at-a-time.mp3",
+   "published": "Thu, 20 Aug 2026 07:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Personal spiritual awakening story about healing and purpose in a changing world.",
+   "tradition": "Interfaith"
   },
   {
    "id": "08122222-bbda-40c8-b873-e6f7c4a510df",
@@ -118,8 +131,8 @@
    "published": "Tue, 25 Aug 2026 19:40:01 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores reincarnation and soul healing through myth and celebrity stories.",
-   "tradition": "New Age"
+   "reason": "Discusses reincarnation and soul healing through mystical and historical lenses.",
+   "tradition": "Interfaith"
   },
   {
    "id": "6a9ed39e-a0fa-11f1-9dc4-bfb3112c72d9",
@@ -131,21 +144,8 @@
    "published": "Wed, 26 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Offers practical forgiveness advice with some attention to emotional complexity.",
+   "reason": "Offers practical forgiveness tools with some spiritual framing but not deep philosophy.",
    "tradition": "Interfaith"
-  },
-  {
-   "id": "prx_192_a44af6cc-b1a2-416d-9c43-e5c5f11279f7",
-   "showID": "https://rss.pdrl.fm/0f808e/feeds.feedburner.com/TheScienceOfHappiness",
-   "showTitle": "The Science of Happiness",
-   "title": "Happiness Break: A Practice In Moving Through Stress",
-   "summary": "Join yoga and meditation teacher Jonathan Relucio for a trauma-informed practice combining mindful movement and breathing to reduce tension and build resilience to stress.How To Do This Practice: \n\nGet comfortable: Sit or lie down and notice the support beneath your body, keeping your eyes open or closed—whichever feels comfortable.\n\nConnect with your body: Bring your attention inward and notice how your body, mind, and heart feel in the present moment.\n\nRelease tension: Inhale as you gently shrug your shoulders toward your ears, then exhale as you relax and release them.\n\nMove with your breat",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/dovetail.prxu.org/192/a44af6cc-b1a2-416d-9c43-e5c5f11279f7/SoH_HB_Jonathan_Relucio_-_Mindful_Movement_and_Breathing_mix_2.mp3",
-   "published": "Thu, 20 Aug 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Offers a mindful practice to manage stress, with some ethical and inner life relevance.",
-   "tradition": "Secular"
   }
  ],
  "history": {
