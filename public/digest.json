@@ -1,22 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-08-26T13:02:33.815602+00:00",
+ "generatedAt": "2026-08-26T14:51:01.092884+00:00",
  "showsScanned": 400,
- "candidates": 58,
+ "candidates": 59,
  "picks": [
-  {
-   "id": "0d56870b-6ce2-42fd-be40-aac9ce0ed188",
-   "showID": "https://rss.wbur.org/onpoint/podcast",
-   "showTitle": "On Point with Meghna Chakrabarti",
-   "title": "Brainwaves: Are you in there?",
-   "summary": "Consciousness is how we are able to feel, dream and imagine. And yet -- scientists haven't figured out how consciousness definitively works. What we know, what we don’t and what that tells us about our brains.\n\n***\nThank you for listening. Help power On Point by making a donation here: wbur.org/giveonpoint",
-   "audioURL": "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR1977358884.mp3",
-   "published": "Tue, 18 Aug 2026 16:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "A deep scientific inquiry into consciousness and its mysteries.",
-   "tradition": "Secular"
-  },
   {
    "id": "8f02edc4-47ea-40ec-aab3-f1a00602a368",
    "showID": "https://anchor.fm/s/101bcf8e8/podcast/rss",
@@ -27,7 +14,7 @@
    "published": "Fri, 21 Aug 2026 13:30:41 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/2d/1c/bb2d1cb2-4c61-0e3d-039e-b0a474e58c51/mza_2950270099588349078.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A Christian philosopher reflects on suffering, faith, and love from life experience.",
+   "reason": "A Christian philosopher deeply discusses love, suffering, faith, and mortality.",
    "tradition": "Christian"
   },
   {
@@ -40,21 +27,8 @@
    "published": "Sun, 23 Aug 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of faith crisis and recovery centered on doubt and belief.",
+   "reason": "Personal faith crisis and recovery centered on the atonement and real-life faith.",
    "tradition": "Christian"
-  },
-  {
-   "id": "1a450273-ed58-4678-9e68-b6d130944a56",
-   "showID": "https://rss.wbur.org/onpoint/podcast",
-   "showTitle": "On Point with Meghna Chakrabarti",
-   "title": "Brainwaves: What happens between life and death?",
-   "summary": "A tunnel. A bright light. Reuniting with deceased loved ones. Many people who have near-death experiences have remarkably similar stories. Why?\n\n***\nThank you for listening. Help power On Point by making a donation here: wbur.org/giveonpoint",
-   "audioURL": "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR4155866960.mp3",
-   "published": "Thu, 20 Aug 2026 16:00:01 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Discusses near-death experiences and what they reveal about life and death.",
-   "tradition": "Secular"
   },
   {
    "id": "429f28b2-9d21-11f1-b05c-53764e11cd27",
@@ -66,7 +40,7 @@
    "published": "Fri, 21 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Connects neuroscience and Buddhist wisdom to understand suffering and happiness.",
+   "reason": "Neuroscientist links mindfulness and brain change to reduce suffering and improve life.",
    "tradition": "Secular"
   },
   {
@@ -79,20 +53,20 @@
    "published": "Thu, 20 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal spiritual awakening story focusing on healing, purpose, and meaning.",
+   "reason": "Shares a spiritual awakening and purpose connected to healing and global change.",
    "tradition": "Interfaith"
   },
   {
-   "id": "5565a244-9c51-11f1-b8ea-e308145cac46",
-   "showID": "https://feeds.megaphone.fm/hubermanlab",
-   "showTitle": "Huberman Lab",
-   "title": "Essentials: How to Access Your Creativity | Rick Rubin",
-   "summary": "In this Huberman Lab Essentials episode, my guest Rick Rubin, world-renowned music producer and author of The Creative Act: A Way of Being, and I discuss how to access creativity by noticing ideas, trusting your taste and staying fully present with the work. Rick explains the phases of the creative process and how focus, disengagement, self-doubt, deadlines and meditation can support original work. We also explore perception, pro wrestling and why remaining open to uncertainty can help anyone create more authentically.\n\nThank you to our sponsors\n\nAG1: https://drinkag1.com/huberman\n\nLMNT: https",
-   "audioURL": "https://traffic.megaphone.fm/SCIM7816635332.mp3",
-   "published": "Thu, 20 Aug 2026 08:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
+   "id": "6a9ed39e-a0fa-11f1-9dc4-bfb3112c72d9",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "Ask Jay: How Do I Forgive?",
+   "summary": "Jay answers four listener calls about the messy, unresolved side of forgiveness, from custody guilt and bias in parenting, to forgiving yourself after the sudden loss of a parent, uncovering a spouse’s hidden life after they’re gone, and the heartbreak of a friendship betrayal. Jay shares research-backed tools to release guilt, rebuild trust, and move forward for your own peace, without excusing what happened.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Free 30-Day Trial. \n\nHead to https://wayfair.com right now to shop all things h",
+   "audioURL": "https://traffic.megaphone.fm/GLT6296721087.mp3",
+   "published": "Wed, 26 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses creativity, presence, and uncertainty with philosophical depth.",
+   "reason": "Addresses forgiveness with psychological and ethical depth.",
    "tradition": "Secular"
   },
   {
@@ -105,7 +79,7 @@
    "published": "Thu, 20 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Guided mindful movement and breathing to manage stress and build resilience.",
+   "reason": "Guided mindful movement and breathing practice to manage stress and build resilience.",
    "tradition": "Secular"
   },
   {
@@ -118,33 +92,20 @@
    "published": "Sun, 23 Aug 2026 23:00:31 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Considers gratitude and praise in daily life through Psalms study.",
+   "reason": "Psalms study on gratitude and God's presence, encouraging everyday spiritual awareness.",
    "tradition": "Christian"
   },
   {
-   "id": "08122222-bbda-40c8-b873-e6f7c4a510df",
-   "showID": "https://mysteriousradiofeed.mysteriousradionetwork.com",
-   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
-   "title": "Atlantis and Gaia",
-   "summary": "Diana Mary Rose will shed light on the fascinating topics of Atlantis and Gaia: Magic, Reincarnation, and Earth Healing. Diana Mary Rose is an expert in the field of natural medicines, such as homeopathy and herbs, and will explain the concepts of reincarnation and soul healing with ease. Her writing includes famous modern-day celebrities like George Harrison and John Lennon, revealing their past lives in a new light. She also explores the past and future lives of historical figures like William Shakespeare, Julius Caesar, and Fred Astaire. Every person, according to her book, has reincarnated",
-   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8617985/8617985_2026-08-25-190225.128.mp3?rssID=6605",
-   "published": "Tue, 25 Aug 2026 19:40:01 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
+   "id": "5565a244-9c51-11f1-b8ea-e308145cac46",
+   "showID": "https://feeds.megaphone.fm/hubermanlab",
+   "showTitle": "Huberman Lab",
+   "title": "Essentials: How to Access Your Creativity | Rick Rubin",
+   "summary": "In this Huberman Lab Essentials episode, my guest Rick Rubin, world-renowned music producer and author of The Creative Act: A Way of Being, and I discuss how to access creativity by noticing ideas, trusting your taste and staying fully present with the work. Rick explains the phases of the creative process and how focus, disengagement, self-doubt, deadlines and meditation can support original work. We also explore perception, pro wrestling and why remaining open to uncertainty can help anyone create more authentically.\n\nThank you to our sponsors\n\nAG1: https://drinkag1.com/huberman\n\nLMNT: https",
+   "audioURL": "https://traffic.megaphone.fm/SCIM7816635332.mp3",
+   "published": "Thu, 20 Aug 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses reincarnation, soul healing, and earth spirituality with historical examples.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "6a9ed39e-a0fa-11f1-9dc4-bfb3112c72d9",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "Ask Jay: How Do I Forgive?",
-   "summary": "Jay answers four listener calls about the messy, unresolved side of forgiveness, from custody guilt and bias in parenting, to forgiving yourself after the sudden loss of a parent, uncovering a spouse’s hidden life after they’re gone, and the heartbreak of a friendship betrayal. Jay shares research-backed tools to release guilt, rebuild trust, and move forward for your own peace, without excusing what happened.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Free 30-Day Trial. \n\nHead to https://wayfair.com right now to shop all things h",
-   "audioURL": "https://traffic.megaphone.fm/GLT6296721087.mp3",
-   "published": "Wed, 26 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Offers practical forgiveness advice with some spiritual insight but not deep philosophy.",
+   "reason": "Discusses creativity and presence, touching on consciousness and uncertainty.",
    "tradition": "Secular"
   }
  ],
