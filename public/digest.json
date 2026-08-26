@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-26T03:11:15.970360+00:00",
+ "generatedAt": "2026-08-26T04:45:56.663039+00:00",
  "showsScanned": 400,
- "candidates": 57,
+ "candidates": 58,
  "picks": [
   {
    "id": "8f02edc4-47ea-40ec-aab3-f1a00602a368",
@@ -14,7 +14,7 @@
    "published": "Fri, 21 Aug 2026 13:30:41 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/2d/1c/bb2d1cb2-4c61-0e3d-039e-b0a474e58c51/mza_2950270099588349078.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A Christian philosopher reflects deeply on love, suffering, faith, and mortality.",
+   "reason": "A Christian philosopher discusses suffering, faith, love, and marriage lessons deeply.",
    "tradition": "Christian"
   },
   {
@@ -27,47 +27,8 @@
    "published": "Sun, 23 Aug 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of faith crisis and recovery centered on Jesus' atonement and real doubt.",
+   "reason": "A personal story of faith crisis and recovery centered on Jesus' atonement.",
    "tradition": "Christian"
-  },
-  {
-   "id": "6ac351b3-4f9c-49e6-beb1-6cc0a89ca861",
-   "showID": "https://anchor.fm/s/10e5a085c/podcast/rss",
-   "showTitle": "The Mark Driscoll Podcast",
-   "title": "How God Builds You Through Suffering",
-   "summary": "Suffering will expose a man’s limits, confront his pride, and force him to decide who he will become. If he brings his pain to God, hardship can forge stronger character, deeper faith, greater endurance, and a more powerful dependence on the Holy Spirit.",
-   "audioURL": "https://traffic.megaphone.fm/APO3383211629.mp3",
-   "published": "Sun, 23 Aug 2026 00:15:48 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores suffering's role in shaping character and faith deeply.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "1a450273-ed58-4678-9e68-b6d130944a56",
-   "showID": "https://rss.wbur.org/onpoint/podcast",
-   "showTitle": "On Point with Meghna Chakrabarti",
-   "title": "Brainwaves: What happens between life and death?",
-   "summary": "A tunnel. A bright light. Reuniting with deceased loved ones. Many people who have near-death experiences have remarkably similar stories. Why?\n\n***\nThank you for listening. Help power On Point by making a donation here: wbur.org/giveonpoint",
-   "audioURL": "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR4155866960.mp3",
-   "published": "Thu, 20 Aug 2026 16:00:01 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Examines near-death experiences and their common spiritual themes.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "0d56870b-6ce2-42fd-be40-aac9ce0ed188",
-   "showID": "https://rss.wbur.org/onpoint/podcast",
-   "showTitle": "On Point with Meghna Chakrabarti",
-   "title": "Brainwaves: Are you in there?",
-   "summary": "Consciousness is how we are able to feel, dream and imagine. And yet -- scientists haven't figured out how consciousness definitively works. What we know, what we don’t and what that tells us about our brains.\n\n***\nThank you for listening. Help power On Point by making a donation here: wbur.org/giveonpoint",
-   "audioURL": "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR1977358884.mp3",
-   "published": "Tue, 18 Aug 2026 16:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A neuroscientist discusses the unresolved mystery of consciousness and its implications.",
-   "tradition": "Secular"
   },
   {
    "id": "429f28b2-9d21-11f1-b05c-53764e11cd27",
@@ -79,7 +40,7 @@
    "published": "Fri, 21 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Connects neuroscience and Buddhist mindfulness to suffering and mental transformation.",
+   "reason": "Combines neuroscience and Buddhist wisdom to address suffering and happiness.",
    "tradition": "Buddhist"
   },
   {
@@ -92,8 +53,21 @@
    "published": "Thu, 20 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Shares a spiritual awakening and search for deeper meaning beyond success.",
+   "reason": "Personal spiritual awakening story exploring healing, purpose, and global change.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "c86e935a-aaf9-4fdb-8453-7e48f98c5f14",
+   "showID": "https://darinolien.libsyn.com/rss",
+   "showTitle": "SuperLife with Darin Olien",
+   "title": "Bruce Lipton: How to Reprogram Your Mind, Biology & Future",
+   "summary": "What if your genes aren't controlling your destiny nearly as much as you've been taught to believe? And what if many of the patterns shaping your health, relationships, behavior, and perception of the world were programmed into you before you were even consciously aware of them? In this powerful conversation, Darin sits down with stem cell biologist and bestselling author Dr. Bruce Lipton to explore his theories around epigenetics, subconscious programming, consciousness, stress, evolution, and the mind-body connection. Bruce also opens up about his experience with tongue cancer and how it for",
+   "audioURL": "https://traffic.libsyn.com/secure/darinolien/How_to_Reprogram_Your_Mind_Biology__Future_Bruce_Lipton_Darin_Olien_Superlife_Podcast_Audio.mp3?dest-id=1834631",
+   "published": "Fri, 21 Aug 2026 12:30:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a3/c0/f9/a3c0f99b-95ee-7b1d-a446-bf103141492c/mza_7468318771030405283.png/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discusses epigenetics, subconscious programming, and consciousness in personal change.",
+   "tradition": "Secular"
   },
   {
    "id": "tag:soundcloud,2010:tracks/2386334196",
@@ -105,8 +79,34 @@
    "published": "Sun, 23 Aug 2026 23:00:31 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses gratitude and praise in Psalms, touching on faith and daily spiritual awareness.",
+   "reason": "Christian study on gratitude and God's presence in daily life.",
    "tradition": "Christian"
+  },
+  {
+   "id": "08122222-bbda-40c8-b873-e6f7c4a510df",
+   "showID": "https://mysteriousradiofeed.mysteriousradionetwork.com",
+   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
+   "title": "Atlantis and Gaia",
+   "summary": "Diana Mary Rose will shed light on the fascinating topics of Atlantis and Gaia: Magic, Reincarnation, and Earth Healing. Diana Mary Rose is an expert in the field of natural medicines, such as homeopathy and herbs, and will explain the concepts of reincarnation and soul healing with ease. Her writing includes famous modern-day celebrities like George Harrison and John Lennon, revealing their past lives in a new light. She also explores the past and future lives of historical figures like William Shakespeare, Julius Caesar, and Fred Astaire. Every person, according to her book, has reincarnated",
+   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8617985/8617985_2026-08-25-190225.128.mp3?rssID=6605",
+   "published": "Tue, 25 Aug 2026 19:40:01 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores reincarnation and earth healing with references to spiritual traditions.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "5565a244-9c51-11f1-b8ea-e308145cac46",
+   "showID": "https://feeds.megaphone.fm/hubermanlab",
+   "showTitle": "Huberman Lab",
+   "title": "Essentials: How to Access Your Creativity | Rick Rubin",
+   "summary": "In this Huberman Lab Essentials episode, my guest Rick Rubin, world-renowned music producer and author of The Creative Act: A Way of Being, and I discuss how to access creativity by noticing ideas, trusting your taste and staying fully present with the work. Rick explains the phases of the creative process and how focus, disengagement, self-doubt, deadlines and meditation can support original work. We also explore perception, pro wrestling and why remaining open to uncertainty can help anyone create more authentically.\n\nThank you to our sponsors\n\nAG1: https://drinkag1.com/huberman\n\nLMNT: https",
+   "audioURL": "https://traffic.megaphone.fm/SCIM7816635332.mp3",
+   "published": "Thu, 20 Aug 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discusses creativity, presence, and uncertainty with philosophical depth.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -215,7 +215,7 @@
   "gid://art19-episode-locator/V0/CjUYFdHueQ43qr8o-ZHnOtJSmtUyCUY2cRyuiOU6H34": "2026-08-20",
   "4e64ea3c-7b59-46ef-a6d7-7105b6942a40": "2026-08-20",
   "5931ddf0-a1a6-48e6-9b89-e90be38b5990": "2026-08-24",
-  "5565a244-9c51-11f1-b8ea-e308145cac46": "2026-08-23",
+  "5565a244-9c51-11f1-b8ea-e308145cac46": "2026-08-26",
   "prx_192_a44af6cc-b1a2-416d-9c43-e5c5f11279f7": "2026-08-23",
   "Buzzsprout-19670818": "2026-08-26",
   "https://mgln.ai/e/29/pscrb.fm/rss/p/prfx.byspotify.com/e/traffic.megaphone.fm/BUR4155866960.mp3": "2026-08-20",
@@ -260,6 +260,8 @@
   "Buzzsprout-19694812": "2026-08-25",
   "tag:soundcloud,2010:tracks/2387757360": "2026-08-25",
   "unshaken.podbean.com/703ef14f-70a4-3370-87e4-e46f3d2765d5": "2026-08-25",
-  "flightcast:01M0T9KTESMC3QKX83RSPVY0Y7": "2026-08-25"
+  "flightcast:01M0T9KTESMC3QKX83RSPVY0Y7": "2026-08-25",
+  "c86e935a-aaf9-4fdb-8453-7e48f98c5f14": "2026-08-26",
+  "08122222-bbda-40c8-b873-e6f7c4a510df": "2026-08-26"
  }
 }
