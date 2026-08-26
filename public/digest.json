@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-26T11:35:11.080192+00:00",
+ "generatedAt": "2026-08-26T13:02:33.815602+00:00",
  "showsScanned": 400,
  "candidates": 58,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Tue, 18 Aug 2026 16:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/32/43/aa3243be-63c9-4f5d-6068-7f4ceefc038c/mza_14457184287030292688.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A serious scientific inquiry into consciousness and its mysteries.",
+   "reason": "A deep scientific inquiry into consciousness and its mysteries.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Fri, 21 Aug 2026 13:30:41 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/2d/1c/bb2d1cb2-4c61-0e3d-039e-b0a474e58c51/mza_2950270099588349078.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A deep Christian reflection on love, suffering, faith, and marriage.",
+   "reason": "A Christian philosopher reflects on suffering, faith, and love from life experience.",
    "tradition": "Christian"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Sun, 23 Aug 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of faith crisis and recovery centered on Jesus' atonement.",
+   "reason": "Personal story of faith crisis and recovery centered on doubt and belief.",
    "tradition": "Christian"
   },
   {
@@ -70,17 +70,17 @@
    "tradition": "Secular"
   },
   {
-   "id": "tag:soundcloud,2010:tracks/2386334196",
-   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:669018539/sounds.rss",
-   "showTitle": "Don't Miss This Study",
-   "title": "I LOVE THE LORD BECAUSE...",
-   "summary": "This week on Don’t Miss This, Dave and Grace wrap up their study of Psalms with a powerful look at praise, gratitude, and the goodness of God.\n\nFrom “I love the Lord, because…” in Psalm 116 to the reminder that the Lord heals broken hearts, gathers the outcast, and is near to all who call upon Him, this episode is an invitation to notice the ways God shows up in our everyday lives.\n\nWhy do you love the Lord?\n\nJoin us as we study Psalms 102–150 and discover how gratitude and praise can draw us closer to Jesus Christ.\n\n📖 **Come, Follow Me: Psalms 102–150**\n📅 **August 31 – September 6**\n\n**CHAPTE",
-   "audioURL": "https://feeds.soundcloud.com/stream/2386334196-grace-freeman-916551846-i-love-the-lord-because.mp3",
-   "published": "Sun, 23 Aug 2026 23:00:31 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
+   "id": "Buzzsprout-19670818",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "I chose to Live My Purpose in a World that is creating the Generation of Change - The Spiritual Awakening That Inspired Me to Help Heal Humanity, One Smile at a Time",
+   "summary": "What if healing yourself isn’t the destination, but the beginning of something much greater?In this episode of the WE Podcast, Joe Mittiga shares the spiritual awakening that helped him realize his healing was preparing him to live his purpose. He explores what he calls the Generation of Change, a time when people around the world are searching for deeper meaning, authentic connection, and a life that goes beyond traditional definitions of success. Joe shares how his experiences in Africa opened his eyes to the global water crisis and inspired Project Smile, connecting his personal healing jou",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19670818-i-chose-to-live-my-purpose-in-a-world-that-is-creating-the-generation-of-change-the-spiritual-awakening-that-inspired-me-to-help-heal-humanity-one-smile-at-a-time.mp3",
+   "published": "Thu, 20 Aug 2026 07:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Considers gratitude and praise as responses to divine presence in daily life.",
-   "tradition": "Christian"
+   "reason": "Personal spiritual awakening story focusing on healing, purpose, and meaning.",
+   "tradition": "Interfaith"
   },
   {
    "id": "5565a244-9c51-11f1-b8ea-e308145cac46",
@@ -92,7 +92,7 @@
    "published": "Thu, 20 Aug 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines creativity, presence, and uncertainty with philosophical depth.",
+   "reason": "Discusses creativity, presence, and uncertainty with philosophical depth.",
    "tradition": "Secular"
   },
   {
@@ -109,16 +109,29 @@
    "tradition": "Secular"
   },
   {
-   "id": "Buzzsprout-19670818",
-   "showID": "https://rss.buzzsprout.com/2547586.rss",
-   "showTitle": "We!",
-   "title": "I chose to Live My Purpose in a World that is creating the Generation of Change - The Spiritual Awakening That Inspired Me to Help Heal Humanity, One Smile at a Time",
-   "summary": "What if healing yourself isn’t the destination, but the beginning of something much greater?In this episode of the WE Podcast, Joe Mittiga shares the spiritual awakening that helped him realize his healing was preparing him to live his purpose. He explores what he calls the Generation of Change, a time when people around the world are searching for deeper meaning, authentic connection, and a life that goes beyond traditional definitions of success. Joe shares how his experiences in Africa opened his eyes to the global water crisis and inspired Project Smile, connecting his personal healing jou",
-   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19670818-i-chose-to-live-my-purpose-in-a-world-that-is-creating-the-generation-of-change-the-spiritual-awakening-that-inspired-me-to-help-heal-humanity-one-smile-at-a-time.mp3",
-   "published": "Thu, 20 Aug 2026 07:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
+   "id": "tag:soundcloud,2010:tracks/2386334196",
+   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:669018539/sounds.rss",
+   "showTitle": "Don't Miss This Study",
+   "title": "I LOVE THE LORD BECAUSE...",
+   "summary": "This week on Don’t Miss This, Dave and Grace wrap up their study of Psalms with a powerful look at praise, gratitude, and the goodness of God.\n\nFrom “I love the Lord, because…” in Psalm 116 to the reminder that the Lord heals broken hearts, gathers the outcast, and is near to all who call upon Him, this episode is an invitation to notice the ways God shows up in our everyday lives.\n\nWhy do you love the Lord?\n\nJoin us as we study Psalms 102–150 and discover how gratitude and praise can draw us closer to Jesus Christ.\n\n📖 **Come, Follow Me: Psalms 102–150**\n📅 **August 31 – September 6**\n\n**CHAPTE",
+   "audioURL": "https://feeds.soundcloud.com/stream/2386334196-grace-freeman-916551846-i-love-the-lord-because.mp3",
+   "published": "Sun, 23 Aug 2026 23:00:31 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal spiritual awakening story focusing on healing and purpose.",
+   "reason": "Considers gratitude and praise in daily life through Psalms study.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "08122222-bbda-40c8-b873-e6f7c4a510df",
+   "showID": "https://mysteriousradiofeed.mysteriousradionetwork.com",
+   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
+   "title": "Atlantis and Gaia",
+   "summary": "Diana Mary Rose will shed light on the fascinating topics of Atlantis and Gaia: Magic, Reincarnation, and Earth Healing. Diana Mary Rose is an expert in the field of natural medicines, such as homeopathy and herbs, and will explain the concepts of reincarnation and soul healing with ease. Her writing includes famous modern-day celebrities like George Harrison and John Lennon, revealing their past lives in a new light. She also explores the past and future lives of historical figures like William Shakespeare, Julius Caesar, and Fred Astaire. Every person, according to her book, has reincarnated",
+   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8617985/8617985_2026-08-25-190225.128.mp3?rssID=6605",
+   "published": "Tue, 25 Aug 2026 19:40:01 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses reincarnation, soul healing, and earth spirituality with historical examples.",
    "tradition": "Interfaith"
   },
   {
@@ -131,7 +144,7 @@
    "published": "Wed, 26 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses forgiveness with practical tools, touching on inner peace and ethics.",
+   "reason": "Offers practical forgiveness advice with some spiritual insight but not deep philosophy.",
    "tradition": "Secular"
   }
  ],
