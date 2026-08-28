@@ -1,9 +1,35 @@
 {
  "version": 1,
- "generatedAt": "2026-08-28T14:12:42.886543+00:00",
+ "generatedAt": "2026-08-28T23:58:44.756130+00:00",
  "showsScanned": 400,
- "candidates": 50,
+ "candidates": 54,
  "picks": [
+  {
+   "id": "gid://art19-episode-locator/V0/_7iThT2k2jDjlX3cka37E44yzv4ixmMGe8KBuTzWgdc",
+   "showID": "https://rss.pdrl.fm/a88a08/feeds.megaphone.fm/MASL6091580855/",
+   "showTitle": "Mayim Bialik's Breakdown",
+   "title": "You Don’t Die. NASA Physicist: What Happens After Death & Why Your Soul Keeps Returning | Thomas Campbell",
+   "summary": "What if UAPs, aliens, crop circles, and near death experiences are all part of the same system designed to accelerate humanity's evolution?In part two of our conversation with Thomas Campbell—physicist, systems analyst, consciousness researcher, and creator of My Big TOE (Theory of Everything)— he shares his most profound insights into the nature of reality, consciousness, death, AI, and why humanity may be evolving toward love faster than ever before.Thomas explains whether the real purpose of UAP sightings, alien encounters, crop circles, and near death experiences is to awaken humanity and ",
+   "audioURL": "https://claritaspod.com/measure/pscrb.fm/rss/p/arttrk.com/p/PMMIC/prfx.byspotify.com/e/mgln.ai/e/1047/dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/cc4a4b9a-9aa5-4ab4-9830-2deaa4dbf580.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Thu, 27 Aug 2026 07:30:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6a/ca/b3/6acab359-0930-6578-184f-744d9f3ae278/mza_16900717249497875543.jpeg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Physicist discusses consciousness, death, and evolution beyond materialism.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "b600a1f6-fd23-4895-9d2e-8f68a1374646",
+   "showID": "https://rss.libsyn.com/shows/606285/destinations/5279650.xml",
+   "showTitle": "The Deep End With Lecrae",
+   "title": "Dr. Sarita Lyons Challenges Lecrae on Sexism in Church Mother Wounds, and Cutting People Off",
+   "summary": "Lecrae welcomes Dr. Sarita Lyons back to The Deep End for a conversation about healing from relational wounds and navigating difficult conversations with biblical wisdom. Together, they explore how family brokenness shapes us, the difference between forgiveness and reconciliation, why \"protecting your peace\" isn't always biblical, and what true healing looks like through the lens of the gospel. They also dive into women in the Church, navigating church hurt without abandoning Scripture, and why our deepest wounds can never be healed apart from Christ. Whether your relationship with your mother",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/289702f0-eba6-44cb-bf7c-b7ff937eb51c/Dr._Sarita_Lyons_DeepEnd_AUDIO_v3.mp3?dest-id=5279650",
+   "published": "Fri, 21 Aug 2026 09:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Examines healing from relational wounds and forgiveness through biblical and gospel perspectives.",
+   "tradition": "Christian"
+  },
   {
    "id": "841c2e80-8ad2-44a2-8efe-29a1c52cca60",
    "showID": "https://rss.libsyn.com/shows/606285/destinations/5279650.xml",
@@ -14,7 +40,7 @@
    "published": "Thu, 27 Aug 2026 09:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Honest talk on abuse, forgiveness, and trusting God amid suffering and doubt.",
+   "reason": "Addresses divorce, abuse, forgiveness, and trusting God amid suffering.",
    "tradition": "Christian"
   },
   {
@@ -27,8 +53,21 @@
    "published": "Tue, 25 Aug 2026 13:00:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A former agnostic's return to faith explores doubt, belief, and meaning.",
+   "reason": "A former agnostic's return to faith addresses doubt and belief deeply.",
    "tradition": "Christian"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/y15Z_EBEtgLiCaC1pFznxdEeAwrzLaOgokzlvRZV82k",
+   "showID": "https://rss.pdrl.fm/a88a08/feeds.megaphone.fm/MASL6091580855/",
+   "showTitle": "Mayim Bialik's Breakdown",
+   "title": "Reality Is Not Real. NASA Physicist: How to Exit the Simulation & Find Your Purpose | Thomas Campbell",
+   "summary": "Thomas Campbell - physicist, systems analyst, consciousness researcher, and creator of My Big TOE (Theory of Everything) - reveals how reality may be far stranger than we've been taught.In this episode of Mayim Bialik's Breakdown, Thomas explains why he believes consciousness is the fundamental information system that computes reality itself, and what that means if we're living inside a kind of virtual reality.He shares how legendary consciousness pioneer Bob Monroe personally taught him remote viewing, out-of-body experiences, telepathy, and consciousness exploration, and why these abilities ",
+   "audioURL": "https://claritaspod.com/measure/pscrb.fm/rss/p/arttrk.com/p/PMMIC/prfx.byspotify.com/e/mgln.ai/e/1047/dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/891877fc-e009-4e20-b37c-590f6bfb3b46.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Tue, 25 Aug 2026 07:30:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6a/ca/b3/6acab359-0930-6578-184f-744d9f3ae278/mza_16900717249497875543.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A physicist discusses consciousness as fundamental reality and its implications for purpose.",
+   "tradition": "Secular"
   },
   {
    "id": "https://www.ldsscriptureteachings.org/?p=34113",
@@ -41,20 +80,7 @@
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
    "rating": 7,
    "reason": "Explores Psalms as prayers about mortality, forgiveness, and divine order.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "b600a1f6-fd23-4895-9d2e-8f68a1374646",
-   "showID": "https://rss.libsyn.com/shows/606285/destinations/5279650.xml",
-   "showTitle": "The Deep End With Lecrae",
-   "title": "Dr. Sarita Lyons Challenges Lecrae on Sexism in Church Mother Wounds, and Cutting People Off",
-   "summary": "Lecrae welcomes Dr. Sarita Lyons back to The Deep End for a conversation about healing from relational wounds and navigating difficult conversations with biblical wisdom. Together, they explore how family brokenness shapes us, the difference between forgiveness and reconciliation, why \"protecting your peace\" isn't always biblical, and what true healing looks like through the lens of the gospel. They also dive into women in the Church, navigating church hurt without abandoning Scripture, and why our deepest wounds can never be healed apart from Christ. Whether your relationship with your mother",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/289702f0-eba6-44cb-bf7c-b7ff937eb51c/Dr._Sarita_Lyons_DeepEnd_AUDIO_v3.mp3?dest-id=5279650",
-   "published": "Fri, 21 Aug 2026 09:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Examines healing, forgiveness, and church wounds through biblical and relational lenses.",
-   "tradition": "Christian"
+   "tradition": "Jewish"
   },
   {
    "id": "dylangemelli.podbean.com/fcfca9d9-c147-3f31-882d-d1d2736840f6",
@@ -66,7 +92,7 @@
    "published": "Mon, 24 Aug 2026 18:01:34 -0700",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/4a/f4/654af4a7-d5cd-2317-91a1-b5913de83e6f/mza_12950421134232165951.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Psychological and spiritual discussion on shifting from doing to being for wellness.",
+   "reason": "Psychological and spiritual coaching on shifting from doing to being for wellness.",
    "tradition": "Secular"
   },
   {
@@ -79,8 +105,8 @@
    "published": "Tue, 25 Aug 2026 07:17:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/f6/5a/9cf65abb-f8db-fb7b-984f-b4276a1e8c85/mza_2107148709996282347.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Spiritual leader discusses meditation, peace, and consciousness across traditions.",
-   "tradition": "Interfaith"
+   "reason": "Spiritual leader discusses meditation's impact and peacemaking experiences.",
+   "tradition": "Hindu"
   },
   {
    "id": "tag:soundcloud,2010:tracks/2376639479",
@@ -92,21 +118,60 @@
    "published": "Fri, 28 Aug 2026 13:00:41 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses when apologetics can hinder spiritual life, touching on faith and doubt.",
+   "reason": "Explores when apologetics may hinder spiritual growth in a Christian context.",
    "tradition": "Christian"
   },
   {
-   "id": "477614fc-1171-45fd-bf48-276137741774",
-   "showID": "https://feeds.simplecast.com/EmVW7VGp",
-   "showTitle": "Radiolab",
-   "title": "Dolly Parton's America: Sad Ass Songs",
-   "summary": "The world lost a legend recently, and we wanted in some small way to pay tribute to the great Dolly Parton. So we’re playing you an episode from a series we had a small part in back in 2017, Dolly Parton’s America. \n The series kicked off with a simple question: How did the queen of the boob joke become a feminist icon? Helen Morales, author of “Pilgrimage to Dollywood,” gave us a stern directive – look at the lyrics! So we dive into Dolly’s discography, starting with the early period of what Dolly calls “sad ass songs” to find remarkably prescient words of female pain, slut-shaming, domestic ",
-   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/3d739fac-22c2-44fa-b2d6-054c8db3cfb7/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&amp;awEpisodeId=3d739fac-22c2-44fa-b2d6-054c8db3cfb7&amp;feed=EmVW7VGp",
-   "published": "Fri, 28 Aug 2026 14:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2b/b2/4d/2bb24d28-f3bb-916f-6bf3-9e125ba5219b/mza_4476298389845914795.jpg/600x600bb.jpg",
+   "id": "4cb1b5bc-a326-11f1-a17b-db22bd085b15",
+   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
+   "showTitle": "Blurry Creatures",
+   "title": "EP: 459 The Rebellion Before The World Began with Dan McCarthy",
+   "summary": "Before the world was made, there was a war. Dan McCarthy comes into the basement to trace it back to its source, the moment pride welled up in the highest angel, and he reached for the throne of God. The author of&nbsp;Satan's War Against God&nbsp;argues that most Christians have the enemy all wrong. We shrink him down to a tempter and an accuser, when Scripture describes a full rebellion, a mutiny that has never stopped and now runs as an organized kingdom of darkness carving up the territories of the earth.Dan lays out the enemy's real agenda, why humanity enraged Satan before we ever drew a",
+   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW4475607298.mp3",
+   "published": "Fri, 28 Aug 2026 20:30:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Christian discussion on cosmic rebellion and evil's nature.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "c149a08d-cadb-40fd-bc11-b4b401202023",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "Episode 306: A Quantum Physicist Explains the Reality of the Afterlife",
+   "summary": "Join Sandra and Dr. Vera Spillner to explore how string theory, timelessness, and NDE data prove consciousness survives physical death, and enjoy a guided meditation to experience the arrival into the unconditional love of the world of spirit.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/c149a08d-cadb-40fd-bc11-b4b401202023/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Fri, 28 Aug 2026 17:40:17 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores Dolly Parton's lyrics and cultural impact with some ethical and feminist themes.",
+   "reason": "Connects quantum physics and near-death experiences to consciousness after death.",
    "tradition": "Secular"
+  },
+  {
+   "id": "345993ae-9cf5-11f1-963e-13ca2dba5259",
+   "showID": "https://www.scientificamerican.com/sciam/xml/iTunes.cfm?id=science-quickly",
+   "showTitle": "Science Quickly",
+   "title": "Can magic mushrooms help treat anorexia?",
+   "summary": "A small clinical trial suggests that psilocybin, the psychedelic compound in magic mushrooms, may help some people with anorexia when combined with intensive therapy. Science Quickly host Rachel Feltman speaks with health journalist Alexandra Pattillo about what early research has found, why scientists think psychedelics could help loosen the rigid thought patterns associated with eating disorders, and why experts say larger studies are needed before the treatment can be considered a proven option\n\nRecommended Reading:\n\nCould psilocybin be the key to treating anorexia?&nbsp;\n\nAmericans are inc",
+   "audioURL": "https://traffic.megaphone.fm/SAM5598124292.mp3",
+   "published": "Fri, 21 Aug 2026 09:55:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/14/01/90/140190a6-f86e-f0b5-8d22-33e4d3728638/mza_11503669622119701029.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses psychedelics and therapy touching on mental health and consciousness.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "https://blubrry.com/the_world_and_everything_in_it/155070673/82126-lindsay-clancys-trial-the-magic-faraway-tree-and-a-conversation-with-michael-milton/",
+   "showID": "https://feeds.blubrry.com/feeds/the_world_and_everything_in_it.xml",
+   "showTitle": "The World and Everything In It",
+   "title": "8.21.26 Lindsay Clancy’s trial, The Magic Faraway Tree, and a conversation with Michael Milton",
+   "summary": "On Culture Friday: John Stonestreet considers what the Lindsay Clancy trial is being made to say about motherhood. The Magic Faraway Tree invites families to rediscover wonder. Plus: theologian and artist Michael Milton shares three books that shaped his calling, and the Friday morning news.Support The World and Everything in It today at wng.org/donate.Additional support comes from Ascend by Unbound. A higher education program focused on practical skill development and career preparation.  beunbound.us/worldFrom World Watch, a 10-minute daily news program that explores current events for stude",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/p.podderapp.com/1696013160/media.blubrry.com/the_world_and_everything_in_it/ins.blubrry.com/the_world_and_everything_in_it/TWAEII-2026-08-21-3573-82126-Lindsay-Clancys.mp3",
+   "published": "Fri, 21 Aug 2026 03:05:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Cultural and theological reflections touching on motherhood and calling.",
+   "tradition": "Christian"
   }
  ],
  "history": {
@@ -209,7 +274,7 @@
   "0daadad9141d0df419f8581216326ccc": "2026-08-24",
   "https://blubrry.com/the_world_and_everything_in_it/155070673/82126-lindsay-clancys-trial-the-magic-faraway-tree-and-a-conversation-with-michael-milton/": "2026-08-28",
   "6a880840b0d5e24ea40c7015": "2026-08-27",
-  "345993ae-9cf5-11f1-963e-13ca2dba5259": "2026-08-24",
+  "345993ae-9cf5-11f1-963e-13ca2dba5259": "2026-08-28",
   "thedrjoshaxeshow.podbean.com/6d1f954a-3328-3c5e-be11-5c8788770697": "2026-08-25",
   "fea3c735e5d647e42d6ec8b3eca53491": "2026-08-21",
   "https://api.spreaker.com/episode/74284406": "2026-08-21",
@@ -256,6 +321,10 @@
   "841c2e80-8ad2-44a2-8efe-29a1c52cca60": "2026-08-28",
   "https://www.ldsscriptureteachings.org/?p=34113": "2026-08-28",
   "tag:soundcloud,2010:tracks/2376639479": "2026-08-28",
-  "477614fc-1171-45fd-bf48-276137741774": "2026-08-28"
+  "477614fc-1171-45fd-bf48-276137741774": "2026-08-28",
+  "gid://art19-episode-locator/V0/_7iThT2k2jDjlX3cka37E44yzv4ixmMGe8KBuTzWgdc": "2026-08-28",
+  "gid://art19-episode-locator/V0/y15Z_EBEtgLiCaC1pFznxdEeAwrzLaOgokzlvRZV82k": "2026-08-28",
+  "4cb1b5bc-a326-11f1-a17b-db22bd085b15": "2026-08-28",
+  "c149a08d-cadb-40fd-bc11-b4b401202023": "2026-08-28"
  }
 }
