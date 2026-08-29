@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-08-29T17:37:39.413548+00:00",
+ "generatedAt": "2026-08-29T20:44:56.080591+00:00",
  "showsScanned": 400,
- "candidates": 46,
+ "candidates": 48,
  "picks": [
   {
    "id": "d3072578-a3af-11f1-bac4-67a7ac3cb628",
@@ -14,8 +14,34 @@
    "published": "Sat, 29 Aug 2026 13:44:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b7/51/c1b751eb-ab38-f11c-d6c1-0a9de79b7061/mza_12134548126279202007.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores trauma, time, identity, and philosophy through Vonnegut's novel.",
+   "reason": "Philosophical discussion on trauma, time, identity, and meaning in Vonnegut's novel.",
    "tradition": "Secular"
+  },
+  {
+   "id": "https://api.spreaker.com/episode/74294956",
+   "showID": "https://www.spreaker.com/show/4858435/episodes/feed",
+   "showTitle": "Next Level Soul Podcast with Alex Ferrari",
+   "title": "Taoist Master's Ancient Teachings for Humanity with Master Mingtong Gu",
+   "summary": "FLASHBACK FRIDAYS: What if the reason humanity feels exhausted isn’t because life is too hard—but because we’ve forgotten how to feel?Master Mingtong Gu didn’t set out to teach spirituality—he was responding to a world overwhelmed by anxiety, disconnection, and constant mental noise. Why do so many people feel numb in their own bodies? Why does seeking enlightenment often create more tension instead of peace? And why has modern spirituality overlooked the very place awakening begins?In this conversation, Master Gu draws from Taoist wisdom and Qigong practice to reveal awakening as a return to ",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74294956/nls_664_master_mingtong_gu.mp3",
+   "published": "Fri, 28 Aug 2026 11:30:01 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores Taoist teachings on awakening, anxiety, and reconnecting with feeling.",
+   "tradition": "Taoist"
+  },
+  {
+   "id": "https://api.spreaker.com/episode/74690111",
+   "showID": "https://www.spreaker.com/show/4858435/episodes/feed",
+   "showTitle": "Next Level Soul Podcast with Alex Ferrari",
+   "title": "Psychic Scams Exposed: How to Protect Yourself with Isabeau Maxwell",
+   "summary": "What happens in the first few seconds after we die?Returning guest Isabeau Maxwell joins us for a fascinating exploration of death, mediumship, spirit communication, intuition, synchronicities, and the changing consciousness she believes humanity is moving toward. Isabeau describes death not as an instantaneous disappearance of identity, but as a transition. In her framework, we release the physical body while temporarily retaining the spiritual body and what she calls the “programming body”—the identity connected to this lifetime. She says the first moments can involve confusion before an aut",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74690111/nls_721.mp3",
+   "published": "Sat, 29 Aug 2026 11:30:02 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Considers death, spirit communication, and evolving human consciousness.",
+   "tradition": "Interfaith"
   },
   {
    "id": "9431e642-37ba-48f6-ade8-6cabd3a8915b",
@@ -27,8 +53,21 @@
    "published": "Sun, 23 Aug 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal faith crisis and recovery centered on Jesus' atonement.",
+   "reason": "Personal story of faith crisis and return centered on Jesus' atonement.",
    "tradition": "Christian"
+  },
+  {
+   "id": "Buzzsprout-19707997",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "I Feel Scared and Excited Because I Thought Healing Myself Was the Goal—Now I Realize Healing the World Is — The Personal and Spiritual Awakening That Helped Me Discover What My Higher Power Wants Me to Do with the Rest of My Life",
+   "summary": "What if healing yourself was never the destination, but preparation for something greater?In this deeply personal episode of WE, Joe Mittiga shares how his journey from fear, addiction, trauma, and painful experiences led him to a powerful realization: healing isn’t only about understanding your past. It can become the wisdom, compassion, and strength you use to help someone else. Joe tackles the difficult subject of sexual abuse and generational trauma, sharing his own experiences and exploring how unresolved wounds can continue affecting relationships, self-worth, intimacy, and the next gene",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19707997-i-feel-scared-and-excited-because-i-thought-healing-myself-was-the-goal-now-i-realize-healing-the-world-is-the-personal-and-spiritual-awakening-that-helped-me-discover-what-my-higher-power-wants-me-to-do-with-t.mp3",
+   "published": "Thu, 27 Aug 2026 07:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Personal story of healing, trauma, and spiritual awakening with ethical implications.",
+   "tradition": "Interfaith"
   },
   {
    "id": "23460e7e-48fe-4de4-bccb-b532bc2ddc08",
@@ -40,7 +79,7 @@
    "published": "Mon, 24 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A gay Mormon shares his struggle with faith, identity, and belonging.",
+   "reason": "Personal narrative on identity, faith, and belonging in a religious context.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +92,7 @@
    "published": "Tue, 25 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares honest emotional healing and spiritual growth that changes life direction and self-understanding.",
+   "reason": "Discusses emotional healing and spiritual growth with honest reflection on change.",
    "tradition": "Interfaith"
   },
   {
@@ -66,21 +105,8 @@
    "published": "Mon, 24 Aug 2026 01:07:57 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Jesus' parables challenge religious formality versus true surrender and faith.",
+   "reason": "Discusses faith, repentance, and true surrender beyond religious formality.",
    "tradition": "Christian"
-  },
-  {
-   "id": "Buzzsprout-19707997",
-   "showID": "https://rss.buzzsprout.com/2547586.rss",
-   "showTitle": "We!",
-   "title": "I Feel Scared and Excited Because I Thought Healing Myself Was the Goal—Now I Realize Healing the World Is — The Personal and Spiritual Awakening That Helped Me Discover What My Higher Power Wants Me to Do with the Rest of My Life",
-   "summary": "What if healing yourself was never the destination, but preparation for something greater?In this deeply personal episode of WE, Joe Mittiga shares how his journey from fear, addiction, trauma, and painful experiences led him to a powerful realization: healing isn’t only about understanding your past. It can become the wisdom, compassion, and strength you use to help someone else. Joe tackles the difficult subject of sexual abuse and generational trauma, sharing his own experiences and exploring how unresolved wounds can continue affecting relationships, self-worth, intimacy, and the next gene",
-   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19707997-i-feel-scared-and-excited-because-i-thought-healing-myself-was-the-goal-now-i-realize-healing-the-world-is-the-personal-and-spiritual-awakening-that-helped-me-discover-what-my-higher-power-wants-me-to-do-with-t.mp3",
-   "published": "Thu, 27 Aug 2026 07:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Personal story of healing and awakening addressing trauma, faith, and purpose in life.",
-   "tradition": "Interfaith"
   },
   {
    "id": "tag:soundcloud,2010:tracks/2386334196",
@@ -91,8 +117,21 @@
    "audioURL": "https://feeds.soundcloud.com/stream/2386334196-grace-freeman-916551846-i-love-the-lord-because.mp3",
    "published": "Sun, 23 Aug 2026 23:00:31 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Reflects on gratitude, praise, and God's presence in daily life.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/EibmxjUf96fQ2u2ITqBFAreUSeS5dta70Qm8I-2D38c",
+   "showID": "https://rss.art19.com/the-exorcist-files",
+   "showTitle": "The Exorcist Files",
+   "title": "AI, Stewardship & Discerning the Spirit with John Kim",
+   "summary": "Investor and businessman John Kim has studied AI extensively. As a Christian he has prayed about AI extensively. What role if any does AI play in the future of the Church?In our first of episode addressing the topic, Ryan interviews John Kim, a prominent New York businessman who shares what he thinks the future is going to look like as Christians grapple with a technology that is changing the foundations of how we work and create.00:00 Cold Open: The Stomach Growl 00:20 Welcome &amp; Meet John Kim 01:31 The Catholic Icebreaker04:54 MIT Testimony: When God Rewired My Brain 10:03 Ask for Wisdom,",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/p687916/rss.art19.com/episodes/a3753ba4-fc39-499d-88b8-8a59bd55913f.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Thu, 27 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores gratitude and God's presence through Psalms but mainly devotional.",
+   "reason": "Considers AI's role in faith and church future, raising ethical and spiritual questions.",
    "tradition": "Christian"
   },
   {
@@ -105,20 +144,7 @@
    "published": "Wed, 26 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses forgiveness with practical tools but stays mostly in self-help territory.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "a8a6b5b4-9da1-11f1-87d6-c3778ac349fe",
-   "showID": "https://feeds.megaphone.fm/PHTE6132945524",
-   "showTitle": "Somewhere in the Skies",
-   "title": "Joshua Cutchin on UFOs, Paranormal Encounters & The Inverted Path",
-   "summary": "Ryan welcomes back author and researcher Joshua Cutchin to discuss his latest book, The Inverted Path: Supernatural Disorientation and Interruptions in Travel. Cutchin explores fascinating connections between UFO encounters, fairy folklore, Bigfoot, ghosts, missing time, and paranormal experiences, focusing on moments when witnesses become mysteriously lost, stopped, paralyzed, or diverted.\n\n\n\nRyan and Joshua also explore altered states of consciousness, electromagnetic effects, psychic phenomena, experiencers, UAP disclosure, and whether we may play an active role in these extraordinary encou",
-   "audioURL": "https://pscrb.fm/rss/p/traffic.megaphone.fm/PHTE5179444207.mp3",
-   "published": "Mon, 24 Aug 2026 04:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/85/74/aa857474-43cb-883b-94d1-16c24d0305b4/mza_466083494209813278.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Explores paranormal and altered consciousness with some spiritual implications.",
+   "reason": "Offers practical advice on forgiveness with some spiritual elements but mostly self-help.",
    "tradition": "Interfaith"
   }
  ],
@@ -269,6 +295,9 @@
   "gid://art19-feed-drop-locator/V0/xwTx1wKcIO0u7dN2440vT3d4Lm0-x48hNTWJ3Zs3ZEQ": "2026-08-29",
   "standardoftruth.podbean.com/23eb8cec-c387-3eab-bd04-01903b6fd600": "2026-08-29",
   "79a9bac8-9be3-11f1-bdee-0316ea784580": "2026-08-29",
-  "d3072578-a3af-11f1-bac4-67a7ac3cb628": "2026-08-29"
+  "d3072578-a3af-11f1-bac4-67a7ac3cb628": "2026-08-29",
+  "https://api.spreaker.com/episode/74294956": "2026-08-29",
+  "https://api.spreaker.com/episode/74690111": "2026-08-29",
+  "gid://art19-episode-locator/V0/EibmxjUf96fQ2u2ITqBFAreUSeS5dta70Qm8I-2D38c": "2026-08-29"
  }
 }
