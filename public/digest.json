@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-29T20:44:56.080591+00:00",
+ "generatedAt": "2026-08-29T23:09:40.375205+00:00",
  "showsScanned": 400,
  "candidates": 48,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Sat, 29 Aug 2026 13:44:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b7/51/c1b751eb-ab38-f11c-d6c1-0a9de79b7061/mza_12134548126279202007.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Philosophical discussion on trauma, time, identity, and meaning in Vonnegut's novel.",
+   "reason": "Philosophical discussion on trauma, time, identity, and meaning in war.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Fri, 28 Aug 2026 11:30:01 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores Taoist teachings on awakening, anxiety, and reconnecting with feeling.",
+   "reason": "Explores Taoist teachings on awakening, anxiety, and reconnecting with the body.",
    "tradition": "Taoist"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Sat, 29 Aug 2026 11:30:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Considers death, spirit communication, and evolving human consciousness.",
+   "reason": "Explores death, spirit communication, and consciousness transition in depth.",
    "tradition": "Interfaith"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Sun, 23 Aug 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of faith crisis and return centered on Jesus' atonement.",
+   "reason": "Personal story of faith crisis and finding real help in Jesus' atonement.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Thu, 27 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of healing, trauma, and spiritual awakening with ethical implications.",
+   "reason": "Personal story of healing and spiritual awakening addressing trauma and purpose.",
    "tradition": "Interfaith"
   },
   {
@@ -79,21 +79,8 @@
    "published": "Mon, 24 Aug 2026 18:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal narrative on identity, faith, and belonging in a religious context.",
+   "reason": "A gay Mormon's struggle with faith and identity offers deep ethical and spiritual insight.",
    "tradition": "Christian"
-  },
-  {
-   "id": "Buzzsprout-19694812",
-   "showID": "https://rss.buzzsprout.com/2547586.rss",
-   "showTitle": "We!",
-   "title": "Life Can Feel Hard and Scary Because I Never Realized How Much I Had to Change — The Emotional Healing That Prepared Me to Become the Person My Higher Power Created Me to Be",
-   "summary": "What if life feels hard and scary not because something is going wrong, but because you are changing?In this milestone 50th episode of WE, Joe Mittiga explores the uncomfortable side of emotional healing and spiritual growth. He shares how true healing doesn’t simply help us feel better. It can change what we want, what we accept, our relationships, and ultimately the direction of our lives. Joe opens up about learning to take responsibility for his own emotions, recognizing codependent patterns, letting go of the need to fix other people, and finding the courage to look at his own side of the",
-   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19694812-life-can-feel-hard-and-scary-because-i-never-realized-how-much-i-had-to-change-the-emotional-healing-that-prepared-me-to-become-the-person-my-higher-power-created-me-to-be.mp3",
-   "published": "Tue, 25 Aug 2026 07:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Discusses emotional healing and spiritual growth with honest reflection on change.",
-   "tradition": "Interfaith"
   },
   {
    "id": "coe22.podbean.com/f8888dc9-1d43-3a16-84ad-2cd6f5c77254",
@@ -118,8 +105,21 @@
    "published": "Sun, 23 Aug 2026 23:00:31 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Reflects on gratitude, praise, and God's presence in daily life.",
+   "reason": "Reflects on gratitude, praise, and God's presence through Psalms study.",
    "tradition": "Christian"
+  },
+  {
+   "id": "Buzzsprout-19694812",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "Life Can Feel Hard and Scary Because I Never Realized How Much I Had to Change — The Emotional Healing That Prepared Me to Become the Person My Higher Power Created Me to Be",
+   "summary": "What if life feels hard and scary not because something is going wrong, but because you are changing?In this milestone 50th episode of WE, Joe Mittiga explores the uncomfortable side of emotional healing and spiritual growth. He shares how true healing doesn’t simply help us feel better. It can change what we want, what we accept, our relationships, and ultimately the direction of our lives. Joe opens up about learning to take responsibility for his own emotions, recognizing codependent patterns, letting go of the need to fix other people, and finding the courage to look at his own side of the",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19694812-life-can-feel-hard-and-scary-because-i-never-realized-how-much-i-had-to-change-the-emotional-healing-that-prepared-me-to-become-the-person-my-higher-power-created-me-to-be.mp3",
+   "published": "Tue, 25 Aug 2026 07:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discusses emotional healing and spiritual growth affecting life direction.",
+   "tradition": "Interfaith"
   },
   {
    "id": "gid://art19-episode-locator/V0/EibmxjUf96fQ2u2ITqBFAreUSeS5dta70Qm8I-2D38c",
@@ -131,7 +131,7 @@
    "published": "Thu, 27 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Considers AI's role in faith and church future, raising ethical and spiritual questions.",
+   "reason": "Considers AI's impact on church and faith, touching on ethics and future concerns.",
    "tradition": "Christian"
   },
   {
@@ -144,7 +144,33 @@
    "published": "Wed, 26 Aug 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Offers practical advice on forgiveness with some spiritual elements but mostly self-help.",
+   "reason": "Offers practical advice on forgiveness with some spiritual insight.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "a8a6b5b4-9da1-11f1-87d6-c3778ac349fe",
+   "showID": "https://feeds.megaphone.fm/PHTE6132945524",
+   "showTitle": "Somewhere in the Skies",
+   "title": "Joshua Cutchin on UFOs, Paranormal Encounters & The Inverted Path",
+   "summary": "Ryan welcomes back author and researcher Joshua Cutchin to discuss his latest book, The Inverted Path: Supernatural Disorientation and Interruptions in Travel. Cutchin explores fascinating connections between UFO encounters, fairy folklore, Bigfoot, ghosts, missing time, and paranormal experiences, focusing on moments when witnesses become mysteriously lost, stopped, paralyzed, or diverted.\n\n\n\nRyan and Joshua also explore altered states of consciousness, electromagnetic effects, psychic phenomena, experiencers, UAP disclosure, and whether we may play an active role in these extraordinary encou",
+   "audioURL": "https://pscrb.fm/rss/p/traffic.megaphone.fm/PHTE5179444207.mp3",
+   "published": "Mon, 24 Aug 2026 04:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/85/74/aa857474-43cb-883b-94d1-16c24d0305b4/mza_466083494209813278.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores paranormal experiences and altered consciousness.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "807939e3-438c-4e47-8b98-b630259b5fe6",
+   "showID": "https://mysteriousradiofeed.mysteriousradionetwork.com",
+   "showTitle": "Mysterious Radio: Paranormal, UFO & LORE Interviews",
+   "title": "Out-of-Body Experiences in Higher Dimensions",
+   "summary": "My special guest is Vincent Fields who's here to discuss his book Astral Projection and Lucid Dreaming: Spiritual Revelations and Out-of-Body Experiences in Higher Dimensions: A Complete Guide to Exploring Nonphysical Reality available on Amazon.🎉 10TH ANNIVERSARY LISTENER APPRECIATION SPECIAL10 years of mysteries. 10 years of incredible listeners. This one’s for YOU.Become a Mysterian for just $2.99/month FOREVER and unlock:👽 AD-FREE LISTENING — Enjoy our full episode library without interruptions.🛸 EXCLUSIVE BONUS CONTENT — UFOs, cryptids, hauntings, strange encounters, conspiracies, lost au",
+   "audioURL": "https://pdcn.co/e/serve.castfire.com/audio/8625161/8625161_2026-08-28-071801.128.mp3?rssID=6605",
+   "published": "Fri, 28 Aug 2026 07:20:17 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/21/2e/30212ed3-0f09-8e0a-6cfc-8085f9237415/mza_5157870283183669299.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses out-of-body experiences and spiritual dimensions.",
    "tradition": "Interfaith"
   }
  ],
@@ -298,6 +324,7 @@
   "d3072578-a3af-11f1-bac4-67a7ac3cb628": "2026-08-29",
   "https://api.spreaker.com/episode/74294956": "2026-08-29",
   "https://api.spreaker.com/episode/74690111": "2026-08-29",
-  "gid://art19-episode-locator/V0/EibmxjUf96fQ2u2ITqBFAreUSeS5dta70Qm8I-2D38c": "2026-08-29"
+  "gid://art19-episode-locator/V0/EibmxjUf96fQ2u2ITqBFAreUSeS5dta70Qm8I-2D38c": "2026-08-29",
+  "807939e3-438c-4e47-8b98-b630259b5fe6": "2026-08-29"
  }
 }
