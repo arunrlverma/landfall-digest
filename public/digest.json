@@ -1,22 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-08-30T04:44:45.419366+00:00",
+ "generatedAt": "2026-08-30T10:25:16.874050+00:00",
  "showsScanned": 400,
  "candidates": 47,
  "picks": [
-  {
-   "id": "16b1d16a2bb70a6925573436c74d52b7",
-   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
-   "showTitle": "Becoming Something with Jonathan Pokluda",
-   "title": "Episode 386: Raised in the Woods, Survived a Serial Killer & Finding Hope | feat. Kelsey Vandermyde",
-   "summary": "<p>This week we sit down with Kelsey, who grew up deep in the mountains of Montana with no electricity, no running water, and a father convinced the world was ending. From polygamy and mountain lions to a serial killer staying in their cabin, Kelsey's story is one of the wildest you'll ever hear. JP and the crew don't see eye to eye with Kelsey on everything when it comes to faith — but that's exactly what makes this conversation worth having. Come for the crazy story, stay for the honest and gracious dialogue!</p>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4L2NiOTYzYjRiLTAwNjctNGNmOS05OTVhLTExNjQ0ZmFjYjhlZi9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=6ndmsp3",
-   "published": "Mon, 24 Aug 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Raw life story with honest faith doubts and hope, exploring meaning and survival.",
-   "tradition": "Interfaith"
-  },
   {
    "id": "a3417986-2a85-41e5-a142-c283854328d0",
    "showID": "https://feeds.fireside.fm/bibleinayear/rss",
@@ -26,8 +13,8 @@
    "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/a3417986-2a85-41e5-a142-c283854328d0.mp3",
    "published": "Thu, 27 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses biblical story with some reflection on names and meaning in scripture.",
+   "rating": 8,
+   "reason": "Explores biblical faith, identity, and meaning through a fiery trial story.",
    "tradition": "Christian"
   },
   {
@@ -40,7 +27,7 @@
    "published": "Thu, 27 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A thoughtful study of Psalms addressing forgiveness, resurrection, and divine order.",
+   "reason": "Explores Psalms on forgiveness, resurrection, and God's lovingkindness.",
    "tradition": "Christian"
   },
   {
@@ -53,21 +40,8 @@
    "published": "Thu, 27 Aug 2026 09:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Honest Christian discussion on abuse, forgiveness, and trusting God amid suffering.",
+   "reason": "Honest talk on abuse, forgiveness, and trusting God amid suffering.",
    "tradition": "Christian"
-  },
-  {
-   "id": "dylangemelli.podbean.com/fcfca9d9-c147-3f31-882d-d1d2736840f6",
-   "showID": "https://feed.podbean.com/dylangemelli/feed.xml",
-   "showTitle": "The Dylan Gemelli Podcast",
-   "title": "Episode #156:  Featuring Dr. Stefanie Kleine!  From Human Doing to Human Being: A New Approach to Wellness",
-   "summary": "Episode #156:  Featuring Dr. Stefanie Kleine!  From Human Doing to Human Being: A New Approach to Wellness \n \nIn this conversation, I speak with Dr. Stefanie Kleine, a psychologist and psycho-spiritual coach, about the importance of shifting from a mindset of 'doing' to 'being' in order to achieve true transformation and fulfillment. They discuss the common patterns of burnout among high performers, the role of the nervous system in health, and the impact of emotional wounds on performance. Dr. Kleine also shares insights on how psychedelics can aid in healing and personal growth as well as th",
-   "audioURL": "https://pscrb.fm/rss/p/mcdn.podbean.com/mf/web/b6cqnzihipnupgap/Episode_156_Featuring_Dr_Stefanie_Kleinebc5ya.mp3",
-   "published": "Mon, 24 Aug 2026 18:01:34 -0700",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/4a/f4/654af4a7-d5cd-2317-91a1-b5913de83e6f/mza_12950421134232165951.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Psychological and spiritual talk on shifting from doing to being for true wellness.",
-   "tradition": "Secular"
   },
   {
    "id": "9f115dec-a053-11f1-b1ab-e32e141bb6a5",
@@ -79,7 +53,7 @@
    "published": "Tue, 25 Aug 2026 07:17:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/f6/5a/9cf65abb-f8db-fb7b-984f-b4276a1e8c85/mza_2107148709996282347.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Spiritual leader discusses meditation, peace, and personal transformation.",
+   "reason": "Spiritual leader discusses meditation and peacebuilding in daily life.",
    "tradition": "Interfaith"
   },
   {
@@ -92,7 +66,7 @@
    "published": "Tue, 25 Aug 2026 13:00:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A former agnostic's return to faith offers serious reflection on belief and doubt.",
+   "reason": "A former agnostic's return to faith offers a serious look at belief and doubt.",
    "tradition": "Christian"
   },
   {
@@ -105,8 +79,34 @@
    "published": "Fri, 28 Aug 2026 20:30:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores cosmic rebellion and evil with theological depth.",
+   "reason": "Explores cosmic rebellion and evil from a theological perspective.",
    "tradition": "Christian"
+  },
+  {
+   "id": "16b1d16a2bb70a6925573436c74d52b7",
+   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
+   "showTitle": "Becoming Something with Jonathan Pokluda",
+   "title": "Episode 386: Raised in the Woods, Survived a Serial Killer & Finding Hope | feat. Kelsey Vandermyde",
+   "summary": "<p>This week we sit down with Kelsey, who grew up deep in the mountains of Montana with no electricity, no running water, and a father convinced the world was ending. From polygamy and mountain lions to a serial killer staying in their cabin, Kelsey's story is one of the wildest you'll ever hear. JP and the crew don't see eye to eye with Kelsey on everything when it comes to faith — but that's exactly what makes this conversation worth having. Come for the crazy story, stay for the honest and gracious dialogue!</p>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4L2NiOTYzYjRiLTAwNjctNGNmOS05OTVhLTExNjQ0ZmFjYjhlZi9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=6ndmsp3",
+   "published": "Mon, 24 Aug 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A raw story of faith and doubt amid extreme life challenges and survival.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "dylangemelli.podbean.com/fcfca9d9-c147-3f31-882d-d1d2736840f6",
+   "showID": "https://feed.podbean.com/dylangemelli/feed.xml",
+   "showTitle": "The Dylan Gemelli Podcast",
+   "title": "Episode #156:  Featuring Dr. Stefanie Kleine!  From Human Doing to Human Being: A New Approach to Wellness",
+   "summary": "Episode #156:  Featuring Dr. Stefanie Kleine!  From Human Doing to Human Being: A New Approach to Wellness \n \nIn this conversation, I speak with Dr. Stefanie Kleine, a psychologist and psycho-spiritual coach, about the importance of shifting from a mindset of 'doing' to 'being' in order to achieve true transformation and fulfillment. They discuss the common patterns of burnout among high performers, the role of the nervous system in health, and the impact of emotional wounds on performance. Dr. Kleine also shares insights on how psychedelics can aid in healing and personal growth as well as th",
+   "audioURL": "https://pscrb.fm/rss/p/mcdn.podbean.com/mf/web/b6cqnzihipnupgap/Episode_156_Featuring_Dr_Stefanie_Kleinebc5ya.mp3",
+   "published": "Mon, 24 Aug 2026 18:01:34 -0700",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/4a/f4/654af4a7-d5cd-2317-91a1-b5913de83e6f/mza_12950421134232165951.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Psychological and spiritual wellness focusing on being versus doing.",
+   "tradition": "Secular"
   }
  ],
  "history": {
