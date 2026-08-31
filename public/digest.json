@@ -1,9 +1,22 @@
 {
  "version": 1,
- "generatedAt": "2026-08-31T16:56:28.628059+00:00",
+ "generatedAt": "2026-08-31T21:51:25.525186+00:00",
  "showsScanned": 400,
- "candidates": 51,
+ "candidates": 49,
  "picks": [
+  {
+   "id": "d3072578-a3af-11f1-bac4-67a7ac3cb628",
+   "showID": "https://feeds.megaphone.fm/QCD6036500916",
+   "showTitle": "Philosophize This!",
+   "title": "Episode #252 ... Slaughterhouse-Five - Kurt Vonnegut",
+   "summary": "Today we talk about Kurt Vonnegut’s book Slaughterhouse-Five. How war stories can distort the reality of war, how trauma can fracture our experience of time and identity, and why Billy Pilgrim becomes attracted to the strange philosophy of the Tralfamadorians. Hope you love it. :)\n\n\nThank you so much for listening! Could never do this without your help.&nbsp;\n\nWebsite: https://www.philosophizethis.org/\n\nPatreon: https://www.patreon.com/philosophizethis&nbsp;\n\nSocial:\n\nInstagram: https://www.instagram.com/philosophizethispodcast\n\nX: https://twitter.com/iamstephenwest\n\nFacebook: https://www.face",
+   "audioURL": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/ADV2856688536.mp3",
+   "published": "Sat, 29 Aug 2026 13:44:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b7/51/c1b751eb-ab38-f11c-d6c1-0a9de79b7061/mza_12134548126279202007.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Explores trauma, time, identity, and philosophy through a novel's lens.",
+   "tradition": "Secular"
+  },
   {
    "id": "unshaken.podbean.com/69535cfb-00f2-34c0-8e9d-242376680926",
    "showID": "https://feed.podbean.com/unshaken/feed.xml",
@@ -14,7 +27,7 @@
    "published": "Sun, 30 Aug 2026 16:50:11 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Reflects on spiritual homesickness and divine mercy through Psalms.",
+   "reason": "Explores spiritual homesickness, mercy, and divine guidance through Psalms.",
    "tradition": "Jewish"
   },
   {
@@ -27,7 +40,7 @@
    "published": "Sun, 30 Aug 2026 23:00:31 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores wisdom, purpose, and faith through Proverbs and Ecclesiastes.",
+   "reason": "Examines wisdom, purpose, and faith through Proverbs and Ecclesiastes.",
    "tradition": "Jewish"
   },
   {
@@ -40,33 +53,20 @@
    "published": "Mon, 31 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Engages with predestination, free will, and spiritual discipline.",
+   "reason": "Engages with predestination, free will, and spiritual discipline in Christianity.",
    "tradition": "Christian"
   },
   {
-   "id": "tag:soundcloud,2010:tracks/2376639479",
+   "id": "tag:soundcloud,2010:tracks/2391476154",
    "showID": "https://feeds.soundcloud.com/users/soundcloud:users:406683825/sounds.rss",
    "showTitle": "The Counsel of Trent",
-   "title": "#1200 - FFAF: When Apologetics Isn't Enough (with Fr. Pine)",
-   "summary": "In this free-for-all-Friday Trent sits down with Fr. Pine to discuss when apologetics can hinder the spiritual life.",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2376639479-trenthornpodcast-1200-ffaf-when-apologetics.mp3",
-   "published": "Fri, 28 Aug 2026 13:00:41 +0000",
+   "title": "#1201 -  How \"Purity Culture\" Became a Heresy",
+   "summary": "In this episode, Trent Horn explains the “damaged goods” heresy, the “sexual prosperity gospel,” and why true chastity is rooted in God’s mercy—not virginity, resentment, or guarantees of a perfect marriage.\n\nTo support this channel: https://www.patreon.com/counseloftrent\n\n[NEW] Counsel of Trent merch: https://shop.catholic.com/apologists-alley/trent-horn-resources/\n\nBe sure to keep up with our socials!\nhttps://www.tiktok.com/@counseloftrent\nhttps://www.twitter.com/counseloftrent\nhttps://www.instagram.com/counseloftrentpodcast",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2391476154-trenthornpodcast-1201-how-purity-culture-became.mp3",
+   "published": "Mon, 31 Aug 2026 13:00:31 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discussion on when apologetics may hinder spiritual growth.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "e5d0f216ddafe594d29b64b99aca4628",
-   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
-   "showTitle": "Becoming Something with Jonathan Pokluda",
-   "title": "Episode 387: How to Make the Most of Your Singleness",
-   "summary": "<p>In this episode, a listener calls in with a question a lot of single Christians are quietly asking — am I supposed to be spending this season preparing for marriage, or is that missing the point entirely? JP, Kathy, and Nate unpack what it actually looks like to embrace singleness as a daughter of God rather than just a waiting room for a relationship. If you're single and trying to figure out what this season is for, this one's for you!</p>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4LzliNmYwOGQwLTE0MWUtNGVkZi05MTFmLThmYjlmNzE2NzgxNS9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=cv42gxq",
-   "published": "Mon, 31 Aug 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A serious Christian reflection on singleness and spiritual purpose beyond marriage.",
+   "reason": "Explores chastity, mercy, and sexual ethics beyond cultural norms.",
    "tradition": "Christian"
   },
   {
@@ -79,21 +79,8 @@
    "published": "Sun, 30 Aug 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A testimony of transformation involving faith and personal change.",
+   "reason": "A conversion story exploring transformation through faith and surrender.",
    "tradition": "Christian"
-  },
-  {
-   "id": "d3072578-a3af-11f1-bac4-67a7ac3cb628",
-   "showID": "https://feeds.megaphone.fm/QCD6036500916",
-   "showTitle": "Philosophize This!",
-   "title": "Episode #252 ... Slaughterhouse-Five - Kurt Vonnegut",
-   "summary": "Today we talk about Kurt Vonnegut’s book Slaughterhouse-Five. How war stories can distort the reality of war, how trauma can fracture our experience of time and identity, and why Billy Pilgrim becomes attracted to the strange philosophy of the Tralfamadorians. Hope you love it. :)\n\n\nThank you so much for listening! Could never do this without your help.&nbsp;\n\nWebsite: https://www.philosophizethis.org/\n\nPatreon: https://www.patreon.com/philosophizethis&nbsp;\n\nSocial:\n\nInstagram: https://www.instagram.com/philosophizethispodcast\n\nX: https://twitter.com/iamstephenwest\n\nFacebook: https://www.face",
-   "audioURL": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/ADV2856688536.mp3",
-   "published": "Sat, 29 Aug 2026 13:44:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b7/51/c1b751eb-ab38-f11c-d6c1-0a9de79b7061/mza_12134548126279202007.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Discusses trauma, time, identity, and a unique philosophy on existence.",
-   "tradition": "Secular"
   },
   {
    "id": "c149a08d-cadb-40fd-bc11-b4b401202023",
@@ -105,20 +92,33 @@
    "published": "Fri, 28 Aug 2026 17:40:17 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses consciousness after death with a physicist and meditation guide.",
+   "reason": "Considers consciousness after death through physics and meditation.",
    "tradition": "Secular"
   },
   {
-   "id": "tag:soundcloud,2010:tracks/2391476154",
+   "id": "tag:soundcloud,2010:tracks/2376639479",
    "showID": "https://feeds.soundcloud.com/users/soundcloud:users:406683825/sounds.rss",
    "showTitle": "The Counsel of Trent",
-   "title": "#1201 -  How \"Purity Culture\" Became a Heresy",
-   "summary": "In this episode, Trent Horn explains the “damaged goods” heresy, the “sexual prosperity gospel,” and why true chastity is rooted in God’s mercy—not virginity, resentment, or guarantees of a perfect marriage.\n\nTo support this channel: https://www.patreon.com/counseloftrent\n\n[NEW] Counsel of Trent merch: https://shop.catholic.com/apologists-alley/trent-horn-resources/\n\nBe sure to keep up with our socials!\nhttps://www.tiktok.com/@counseloftrent\nhttps://www.twitter.com/counseloftrent\nhttps://www.instagram.com/counseloftrentpodcast",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2391476154-trenthornpodcast-1201-how-purity-culture-became.mp3",
-   "published": "Mon, 31 Aug 2026 13:00:31 +0000",
+   "title": "#1200 - FFAF: When Apologetics Isn't Enough (with Fr. Pine)",
+   "summary": "In this free-for-all-Friday Trent sits down with Fr. Pine to discuss when apologetics can hinder the spiritual life.",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2376639479-trenthornpodcast-1200-ffaf-when-apologetics.mp3",
+   "published": "Fri, 28 Aug 2026 13:00:41 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Analyzes chastity and purity culture as theological and ethical issues.",
+   "reason": "Discusses limits of apologetics and spiritual life, somewhat abstract but not deeply philosophical.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "e5d0f216ddafe594d29b64b99aca4628",
+   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
+   "showTitle": "Becoming Something with Jonathan Pokluda",
+   "title": "Episode 387: How to Make the Most of Your Singleness",
+   "summary": "<p>In this episode, a listener calls in with a question a lot of single Christians are quietly asking — am I supposed to be spending this season preparing for marriage, or is that missing the point entirely? JP, Kathy, and Nate unpack what it actually looks like to embrace singleness as a daughter of God rather than just a waiting room for a relationship. If you're single and trying to figure out what this season is for, this one's for you!</p>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4LzliNmYwOGQwLTE0MWUtNGVkZi05MTFmLThmYjlmNzE2NzgxNS9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=cv42gxq",
+   "published": "Mon, 31 Aug 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discussion on singleness and spiritual purpose, addressing meaning within a Christian framework.",
    "tradition": "Christian"
   }
  ],
