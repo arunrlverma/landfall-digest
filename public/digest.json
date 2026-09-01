@@ -1,9 +1,22 @@
 {
  "version": 1,
- "generatedAt": "2026-09-01T20:51:29.618835+00:00",
+ "generatedAt": "2026-09-01T23:11:49.835697+00:00",
  "showsScanned": 400,
  "candidates": 45,
  "picks": [
+  {
+   "id": "c16e253e-a5b5-11f1-be6a-fb0b34698b1a",
+   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
+   "showTitle": "Blurry Creatures",
+   "title": "EP: 460 What REALLY Happened On The Mountaintop with Robby Gallaty",
+   "summary": "The Transfiguration might be the strangest scene in the Gospels. Jesus climbs a mountain, his face lights up, and two men who have been dead for centuries, Moses and Elijah, are suddenly standing there talking with him. Most sermons rush right past it. Robby Gallaty wants to stop and sit in the weirdness. Robby is the senior pastor of Long Hollow Church in Hendersonville, Tennessee, the founder of Replicate Ministries, and a preacher with a PhD who has given his life to making disciples. And he says that to understand the Transfiguration, you have to understand the mountain. Set against Mount ",
+   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW6943190099.mp3",
+   "published": "Tue, 01 Sep 2026 21:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Deep discussion of the Transfiguration scene focusing on its spiritual mystery and meaning.",
+   "tradition": "Christian"
+  },
   {
    "id": "Buzzsprout-19707997",
    "showID": "https://rss.buzzsprout.com/2547586.rss",
@@ -14,7 +27,7 @@
    "published": "Thu, 27 Aug 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares a personal journey through trauma toward a broader spiritual purpose.",
+   "reason": "Shares deep personal healing journey linking trauma, faith, and helping others.",
    "tradition": "Interfaith"
   },
   {
@@ -27,7 +40,7 @@
    "published": "Tue, 01 Sep 2026 05:05:09 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/22/d8/fd/22d8fdc2-16f5-a4ec-cb43-5a2d4b92ffa6/mza_5288490312746447040.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Attachment healing through community and spirituality explored deeply.",
+   "reason": "Attachment healing through community explores ethics, relationships, and belonging.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +53,7 @@
    "published": "Tue, 01 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Reflections on Psalms about divine justice, creation, and lament.",
+   "reason": "Overview of Psalms focusing on divine justice, creation, and lament.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +66,7 @@
    "published": "Tue, 01 Sep 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Focuses on trusting personal growth and spiritual transformation after healing.",
+   "reason": "Explores trusting personal growth and spiritual transformation after healing.",
    "tradition": "Interfaith"
   },
   {
@@ -66,7 +79,7 @@
    "published": "Tue, 01 Sep 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/66/f9/ab/66f9ab37-20bf-ce22-9cda-5d0cf53fc123/mza_12992934777200774032.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses trauma healing and nervous system regulation with psychedelic therapy.",
+   "reason": "Discusses trauma, healing, and psychedelic therapy with ethical depth.",
    "tradition": "Secular"
   },
   {
@@ -79,7 +92,7 @@
    "published": "Tue, 01 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Reflects on biblical story of righteousness and warns against moral corruption.",
+   "reason": "Reflects on righteousness, wisdom, and moral vigilance in biblical story.",
    "tradition": "Christian"
   },
   {
@@ -92,7 +105,33 @@
    "published": "Fri, 28 Aug 2026 22:39:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b6/c6/72/b6c6727f-1bcd-b5ba-adca-ab55343eeeec/mza_7574625153787460905.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal psychedelic experiences touching on spirit guides and epiphanies.",
+   "reason": "Personal psychedelic experiences include spiritual insights and transformative moments.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "6a9ed39e-a0fa-11f1-9dc4-bfb3112c72d9",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "Ask Jay: How Do I Forgive?",
+   "summary": "Jay answers four listener calls about the messy, unresolved side of forgiveness, from custody guilt and bias in parenting, to forgiving yourself after the sudden loss of a parent, uncovering a spouse’s hidden life after they’re gone, and the heartbreak of a friendship betrayal. Jay shares research-backed tools to release guilt, rebuild trust, and move forward for your own peace, without excusing what happened.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Free 30-Day Trial. \n\nHead to https://wayfair.com right now to shop all things h",
+   "audioURL": "https://traffic.megaphone.fm/GLT6296721087.mp3",
+   "published": "Wed, 26 Aug 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Practical forgiveness advice grounded in psychology and personal growth.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "073c1fd1-3917-4197-8c37-f4a1e2d23d95",
+   "showID": "https://feeds.npr.org/381444908/podcast.xml",
+   "showTitle": "Fresh Air",
+   "title": "A centennial celebration of John Coltrane",
+   "summary": "Coltrane was one of the most influential musicians in the history of jazz, from his beautiful ballads, to his more spiritual music, and his role in the forefront of free jazz. September 23 marks 100 years since his birth. We speak with his son Ravi Coltrane, who is a highly regarded tenor saxophonist—the same instrument his father played. Growing up, he was just known as Ravi, \"But as soon as I picked up the saxophone I was suddenly John Coltrane's son,” he tells Terry Gross. Ravi edited a new book of photographs of his father.Later we’ll hear drummer Elvin Jones describe performing and record",
+   "audioURL": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/cd85ed85-cf21-4296-a244-9dcd49fd2f39/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&amp;awEpisodeId=cd85ed85-cf21-4296-a244-9dcd49fd2f39&amp;feed=jBsBZBHh&amp;t=podcast&amp;e=nx-s1-5951674&amp;p=381444908&amp;d=2790&amp;size=44655682",
+   "published": "Tue, 01 Sep 2026 18:32:55 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Conversation about John Coltrane's spiritual music offers some reflection on meaning and creativity.",
    "tradition": "Interfaith"
   },
   {
@@ -105,20 +144,7 @@
    "published": "Fri, 28 Aug 2026 14:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2b/b2/4d/2bb24d28-f3bb-916f-6bf3-9e125ba5219b/mza_4476298389845914795.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Examines Dolly Parton's lyrics for feminist and cultural meaning.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "6a9ed39e-a0fa-11f1-9dc4-bfb3112c72d9",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "Ask Jay: How Do I Forgive?",
-   "summary": "Jay answers four listener calls about the messy, unresolved side of forgiveness, from custody guilt and bias in parenting, to forgiving yourself after the sudden loss of a parent, uncovering a spouse’s hidden life after they’re gone, and the heartbreak of a friendship betrayal. Jay shares research-backed tools to release guilt, rebuild trust, and move forward for your own peace, without excusing what happened.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nPURPOSE10 for 10% at altrarunning.com⁠/onpurpose. Free Shipping and Free 30-Day Trial. \n\nHead to https://wayfair.com right now to shop all things h",
-   "audioURL": "https://traffic.megaphone.fm/GLT6296721087.mp3",
-   "published": "Wed, 26 Aug 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/52/7a/87527ab3-7ac6-51b7-113c-22da4d083326/mza_7792914671925228549.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Practical forgiveness advice with some attention to guilt and peace.",
+   "reason": "Examines Dolly Parton's lyrics for feminist meaning, some ethical and cultural reflection.",
    "tradition": "Interfaith"
   }
  ],
@@ -258,6 +284,8 @@
   "Buzzsprout-19732339": "2026-09-01",
   "b37ad911ec10a358edf47e0584b0aa57": "2026-09-01",
   "flightcast:01M0WNT25X5FXETPANXF0H3S45": "2026-09-01",
-  "https://www.ldsscriptureteachings.org/?p=34130": "2026-09-01"
+  "https://www.ldsscriptureteachings.org/?p=34130": "2026-09-01",
+  "c16e253e-a5b5-11f1-be6a-fb0b34698b1a": "2026-09-01",
+  "073c1fd1-3917-4197-8c37-f4a1e2d23d95": "2026-09-01"
  }
 }
