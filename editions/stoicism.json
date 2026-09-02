@@ -1,0 +1,42 @@
+{
+  "traditions": ["Stoic", "Secular", "Interfaith"],
+  "strong": [
+    "marcus aurelius",
+    "epictetus",
+    "seneca",
+    "socrates",
+    "plato",
+    "aristotle",
+    "epicurean",
+    "cynic",
+    "virtue ethics",
+    "eudaimonia",
+    "memento mori",
+    "amor fati",
+    "existential",
+    "kierkegaard",
+    "nietzsche",
+    "camus",
+    "montaigne",
+    "philosophy of life"
+  ],
+  "weak": [
+    "virtue",
+    "reason",
+    "discipline",
+    "resilience",
+    "adversity",
+    "tranquility",
+    "temperance",
+    "justice",
+    "courage"
+  ],
+  "veto": [
+    "hustle",
+    "grindset",
+    "alpha male",
+    "crypto",
+    "side hustle"
+  ],
+  "promptNote": "This shelf is for Landfall Stoicism. Prefer episodes that engage the Stoics and the wider philosophy of life directly: Marcus Aurelius, Seneca, Epictetus, the Socratic dialogues, Cicero, Boethius, Montaigne, Emerson, Thoreau, the existentialists, virtue ethics, and practical questions of adversity, grief, discipline, and mortality. Tag such episodes Stoic; tag secular philosophy, psychology, and ethics episodes Secular; tag cross-tradition conversations Interfaith. Reject self-improvement content that uses Stoic language as decoration for hustle, productivity hacks, money, dating, or masculinity coaching, and reject episodes that are mainly about news or politics even when a philosopher is quoted."
+}

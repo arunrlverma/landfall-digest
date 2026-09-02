@@ -1,0 +1,43 @@
+{
+  "traditions": ["Christian", "Interfaith", "Latter-day Saint"],
+  "strong": [
+    "book of mormon",
+    "latter-day",
+    "latter day saint",
+    "restoration",
+    "nephi",
+    "alma",
+    "moroni",
+    "joseph smith",
+    "doctrine and covenants",
+    "pearl of great price",
+    "general conference",
+    "come follow me",
+    "priesthood",
+    "covenant path",
+    "plan of salvation",
+    "sacrament meeting",
+    "relief society",
+    "stake",
+    "ward",
+    "missionary",
+    "talmage",
+    "standard works",
+    "lds"
+  ],
+  "weak": [
+    "testimony",
+    "prophet",
+    "apostle",
+    "temple",
+    "pioneer",
+    "family"
+  ],
+  "veto": [
+    "broadway",
+    "musical",
+    "tony award",
+    "matinee"
+  ],
+  "promptNote": "This edition serves Latter-day Saint listeners. Rate scripture study, Come, Follow Me discussions, general conference talks, Church history, Book of Mormon and Doctrine and Covenants teaching, and reflective interviews about faith highly; use the tradition value \"Latter-day Saint\" for them. Keep general Christian episodes only when they hit an edition term (scripture study, discipleship, restoration, priesthood, temple, testimony) — plain denominational news or politics is a low rating. Interfaith episodes that treat the Restoration respectfully are welcome. Anything about the Broadway musical, its cast, tickets, or reviews is not a spiritual episode and must be vetoed. Never rate an episode higher for mocking or attacking a faith."
+}

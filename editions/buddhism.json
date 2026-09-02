@@ -1,0 +1,50 @@
+{
+  "traditions": ["Buddhist", "Interfaith", "Secular"],
+  "strong": [
+    "sutta",
+    "sutra",
+    "vipassana",
+    "theravada",
+    "mahayana",
+    "vajrayana",
+    "sangha",
+    "bodhisattva",
+    "nirvana",
+    "satori",
+    "koan",
+    "samsara",
+    "metta",
+    "jhana",
+    "dukkha",
+    "pali",
+    "lama",
+    "rinpoche",
+    "roshi",
+    "zazen",
+    "dhammapada",
+    "dharma",
+    "dhamma",
+    "buddhist",
+    "buddhism",
+    "zen"
+  ],
+  "weak": [
+    "monk",
+    "retreat",
+    "impermanence",
+    "awareness",
+    "breath",
+    "mindful",
+    "mindfulness",
+    "meditation",
+    "compassion",
+    "buddha"
+  ],
+  "veto": [
+    "biohack",
+    "productivity hack",
+    "hustle",
+    "grindset"
+  ],
+  "promptNote": "Landfall Buddhism. Keep episodes rated Buddhist or Interfaith. Keep a Secular episode only when it is a genuine mindfulness or meditation hit (a sitting practice, a dharma talk, a teacher on attention or impermanence), not a productivity or self-optimisation segment. Prefer suttas, dharma talks, Zen and Theravada teachers, and thoughtful interfaith conversation over news framing."
+}

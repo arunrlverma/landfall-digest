@@ -1,0 +1,42 @@
+{
+  "traditions": [
+    "Christian",
+    "Interfaith"
+  ],
+  "strong": [
+    "sermon",
+    "homily",
+    "worship",
+    "devotional",
+    "pastor",
+    "bible study",
+    "epistle",
+    "hymn",
+    "sanctification",
+    "atonement",
+    "discipleship",
+    "apologetics",
+    "exegesis",
+    "communion",
+    "lenten",
+    "season of lent",
+    "during lent",
+    "for lent",
+    "advent season",
+    "season of advent",
+    "advent devotional",
+    "advent calendar",
+    "resurrection"
+  ],
+  "weak": [
+    "church",
+    "congregation",
+    "testimony",
+    "christ",
+    "holy spirit",
+    "kingdom",
+    "saint"
+  ],
+  "veto": [],
+  "promptNote": "Landfall Christianity. Keep every pick whose tradition is Christian or Interfaith; drop the rest. The listener reads the King James Bible, Augustine, Bunyan, Milton, a Kempis, Julian of Norwich, Pascal and Chesterton, and wants sermons, Bible study, devotionals, church history, apologetics and honest conversations about faith and doubt. Rate a sermon or a careful Bible study as highly as a philosophical conversation. Do not reward prosperity-gospel motivation, political commentary wearing church vocabulary, or celebrity-pastor gossip. Terms are additions to the shared STRONG/WEAK/VETO lists; the base veto list (true crime, sports) still applies. The base regex requires only a leading word boundary, so the plan's bare stems 'lent' and 'advent' are written as phrases here to keep 'lentil', 'lent him' and 'adventure' out of the shortlist."
+}

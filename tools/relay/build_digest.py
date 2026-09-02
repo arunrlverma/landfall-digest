@@ -21,6 +21,14 @@ digest is not personalized, so computing it once is strictly better.
 Usage:
     OPENAI_API_KEY=... python3 tools/relay/build_digest.py --out digest.json
     ... --dry-run     # skip the paid scoring step, print the shortlist
+    ... --edition stoicism   # editions/stoicism.json: extra terms, tradition
+                             # constraint, public/editions/stoicism/digest.json
+
+An edition file is {"traditions": [...], "strong": [...], "weak": [...],
+"veto": [...], "promptNote": "..."}. Its terms are added to the shared lists
+(matched as whole words), its traditions constrain the model's label set and
+are enforced as a second gate on the picks, and its note is appended to the
+system prompt. The shared digest (no --edition) is unchanged.
 """
 from __future__ import annotations
 
@@ -78,6 +86,64 @@ def _re(terms: str) -> re.Pattern:
 
 STRONG_RE, WEAK_RE, VETO_RE = _re(STRONG), _re(WEAK), _re(VETO)
 
+# Set by --edition: the constrained tradition list and the note for the prompt.
+EDITION: dict | None = None
+
+
+def _word_re(terms: list[str]) -> str:
+    """Edition terms as whole words/phrases: "mass", "ward" or "alma" must not
+    fire inside "massive", "warden" or "almanac"."""
+    return "|".join(rf"{re.escape(t.strip())}\b" for t in terms if t.strip())
+
+
+def load_edition(key: str, root: str = "editions") -> dict:
+    """Read editions/<key>.json and compose the edition's matchers.
+
+    The shared STRONG/WEAK/VETO lists stay in force; the edition adds to them.
+    Returns the parsed file (traditions, promptNote) for the prompt."""
+    global STRONG_RE, WEAK_RE, VETO_RE, EDITION
+    if not re.fullmatch(r"[a-z][a-z0-9-]{1,31}", key):
+        raise SystemExit(f"invalid edition key: {key}")
+    path = os.path.join(root, f"{key}.json")
+    with open(path, encoding="utf-8") as f:
+        edition = json.load(f)
+    traditions = edition.get("traditions")
+    if not isinstance(traditions, list) or not traditions:
+        raise SystemExit(f"{path}: traditions must be a non-empty list")
+    unknown = sorted(set(traditions) - set(TRADITIONS))
+    if unknown:
+        raise SystemExit(f"{path}: unknown traditions {unknown}; allowed: {TRADITIONS}")
+    for name in ("strong", "weak", "veto"):
+        value = edition.get(name, [])
+        if not isinstance(value, list) or not all(isinstance(x, str) for x in value):
+            raise SystemExit(f"{path}: {name} must be a list of strings")
+    strong = STRONG + ("|" + _word_re(edition["strong"]) if edition.get("strong") else "")
+    weak = WEAK + ("|" + _word_re(edition["weak"]) if edition.get("weak") else "")
+    veto = VETO + ("|" + _word_re(edition["veto"]) if edition.get("veto") else "")
+    STRONG_RE, WEAK_RE, VETO_RE = _re(strong), _re(weak), _re(veto)
+    EDITION = {"key": key, "traditions": list(traditions),
+               "promptNote": str(edition.get("promptNote") or "").strip()}
+    return EDITION
+
+
+def system_prompt() -> str:
+    """The scoring prompt, with the edition's tradition constraint and note."""
+    # str.replace, not str.format: the prompt's JSON example has braces.
+    if EDITION is None:
+        return SYSTEM_PROMPT.replace("{traditions}", ", ".join(TRADITIONS))
+    allowed = ", ".join(EDITION["traditions"])
+    text = SYSTEM_PROMPT.replace("{traditions}", allowed)
+    text += (
+        f"\nThis listener uses the {EDITION['key']} edition. Only the traditions listed "
+        f"above are wanted: an episode that belongs to another tradition is a 0-3 "
+        f"regardless of quality.\n")
+    if EDITION["promptNote"]:
+        text += EDITION["promptNote"] + "\n"
+    return text
+
+TRADITIONS = ["Christian", "Catholic", "Jewish", "Muslim", "Buddhist", "Hindu", "Taoist",
+              "Stoic", "Latter-day Saint", "Mythic", "Indigenous", "Interfaith", "Secular"]
+
 SYSTEM_PROMPT = """\
 You help a listener find podcast episodes worth their attention. They are \
 reading the Bhagavad Gita, the Gospels, the Upanishads and the Tao Te Ching, \
@@ -102,8 +168,7 @@ rating    how much this rewards a contemplative listener.
 reason    ONE sentence, under 18 words, addressed to the listener, saying what \
           they will actually get. No hype, no "dive into", no "explores the \
           fascinating world of". Concrete and plain.
-tradition one of: Christian, Jewish, Muslim, Buddhist, Hindu, Taoist, Stoic, \
-          Indigenous, Interfaith, Secular.
+tradition one of: {traditions}.
 
 Be strict. A motivational episode about "purpose" at work is a 2. An episode \
 where someone describes losing their faith is an 8. When uncertain, rate lower.
@@ -235,7 +300,7 @@ def score(candidates: list[dict], key: str, batch: int = 15) -> list[dict]:
             "temperature": 0.1,
             "response_format": {"type": "json_object"},
             "messages": [
-                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "system", "content": system_prompt()},
                 {"role": "user", "content": json.dumps(payload)},
             ],
         }).encode()
@@ -314,12 +379,24 @@ def rotate(picks: list[dict], history: dict[str, str], keep: int,
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--out", default="digest.json")
+    ap.add_argument("--out", default=None,
+                    help="digest.json (public/editions/<key>/digest.json with --edition)")
+    ap.add_argument("--edition", default=None, help="edition key: reads editions/<key>.json")
     ap.add_argument("--limit", type=int, default=100, help="shows per genre chart")
     ap.add_argument("--shows", type=int, default=400, help="max feeds to fetch")
     ap.add_argument("--keep", type=int, default=25)
+    ap.add_argument("--min-picks", type=int, default=3,
+                    help="refuse to write an edition digest with fewer picks")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
+
+    if args.edition:
+        edition = load_edition(args.edition)
+        print(f"edition {edition['key']}: traditions {edition['traditions']}")
+        if args.out is None:
+            args.out = os.path.join("public", "editions", args.edition, "digest.json")
+    elif args.out is None:
+        args.out = "digest.json"
 
     print("charts…")
     shows = chart_pool(args.limit)
@@ -363,12 +440,25 @@ def main() -> int:
     print("scoring…")
     picks = score(candidates, key)
     picks = [p for p in picks if p["rating"] >= 6]
+    if EDITION is not None:
+        # Second gate: the prompt constrains the label set, but a model that
+        # strays outside it must not leak another tradition into the edition.
+        allowed = set(EDITION["traditions"])
+        before = len(picks)
+        picks = [p for p in picks if p["tradition"] in allowed]
+        print(f"  tradition gate: {len(picks)} of {before} picks in {sorted(allowed)}")
     picks.sort(key=lambda p: -p["rating"])
     # Rotate over the FULL scored list, then cap — the whole point is that the
     # next-best fresh episodes take the seats of the ones that are resting.
     history = load_history(args.out)
     picks = rotate(picks, history, keep=args.keep)
     print(f"  {len(picks)} kept")
+    if EDITION is not None and len(picks) < args.min_picks:
+        # Never publish a thin edition over a good one — the previous file
+        # stays and the workflow's sanity step would refuse it anyway.
+        print(f"only {len(picks)} picks for edition {EDITION['key']}; "
+              f"refusing to write {args.out}", file=sys.stderr)
+        return 1
 
     now = datetime.now(timezone.utc)
     today = now.date().isoformat()
@@ -379,6 +469,7 @@ def main() -> int:
 
     payload = {
         "version": 1,
+        **({"edition": EDITION["key"], "traditions": EDITION["traditions"]} if EDITION else {}),
         "generatedAt": now.isoformat(),
         "showsScanned": len(shows),
         "candidates": len(candidates),
@@ -387,6 +478,7 @@ def main() -> int:
         # storage is this file. The app's decoder ignores unknown keys.
         "history": history,
     }
+    os.makedirs(os.path.dirname(args.out) or ".", exist_ok=True)
     with open(args.out, "w", encoding="utf-8") as f:
         json.dump(payload, f, indent=1, ensure_ascii=False)
     print(f"wrote {args.out}")
