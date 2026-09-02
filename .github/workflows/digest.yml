@@ -1,4 +1,4 @@
-name: Hourly digest
+name: Digest
 
 # The "relay": no server, no hosting bill, nothing to operate. A scheduled job
 # runs the same scan the app can run locally, and commits the result as a static
@@ -8,23 +8,38 @@ name: Hourly digest
 #
 # The digest is identical for everyone — it is not personalized — so computing
 # it once instead of on every phone is strictly better.
+#
+# Two schedules share one workflow:
+#   - hourly:  the shared Landfall digest (public/digest.json), exactly as before;
+#   - daily:   one digest per edition (public/editions/<key>/digest.json) from
+#              editions/<key>.json, as a matrix. Each edition scores its own
+#              shortlist, so the picks are not the shared list split ten ways.
 
 on:
   schedule:
-    - cron: "0 * * * *"      # hourly, on the hour (~$0.50/day of scoring)
+    - cron: "0 * * * *"      # hourly, on the hour: the shared digest (~$0.50/day of scoring)
+    - cron: "40 9 * * *"     # daily 09:40 UTC: every edition (~$0.05 each)
   workflow_dispatch:          # and on demand, for testing
+    inputs:
+      edition:
+        description: "edition key (empty = the shared digest; 'all-editions' = the matrix)"
+        required: false
+        default: ""
 
 permissions:
   contents: write             # to commit digest.json back
 
-concurrency:
-  group: digest
-  cancel-in-progress: false
-
 jobs:
-  build:
+  shared:
+    # The hourly schedule, or a manual run without an edition.
+    if: >-
+      (github.event_name == 'schedule' && github.event.schedule == '0 * * * *') ||
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.edition == '')
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    concurrency:
+      group: digest
+      cancel-in-progress: false
     steps:
       - uses: actions/checkout@v4
 
@@ -55,19 +70,7 @@ jobs:
 
       - name: Sanity-check before publishing
         if: steps.pin.outputs.pinned == 'false'
-        run: |
-          python3 - <<'PY'
-          import json, sys
-          d = json.load(open("public/digest.json"))
-          picks = d.get("picks", [])
-          # Never publish an empty or broken digest over a good one — a bad
-          # scrape would otherwise blank the app's Today tab for a whole day.
-          if len(picks) < 3:
-              sys.exit(f"only {len(picks)} picks; refusing to publish")
-          for p in picks:
-              assert p.get("audioURL") and p.get("title") and p.get("reason")
-          print(f"ok: {len(picks)} picks")
-          PY
+        run: python3 tools/relay/check_digest.py public/digest.json
 
       - name: Commit
         if: steps.pin.outputs.pinned == 'false'
@@ -80,3 +83,88 @@ jobs:
           # push; rebasing our one digest.json commit over it is always clean.
           git pull --rebase origin main
           git push
+
+  editions:
+    # The daily schedule, or a manual run for one edition / the whole matrix.
+    if: >-
+      (github.event_name == 'schedule' && github.event.schedule == '40 9 * * *') ||
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.edition != '')
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    strategy:
+      fail-fast: false        # one thin edition must not cancel the others
+      max-parallel: 2         # be gentle with the chart API and the push rebase
+      matrix:
+        edition:
+          - christianity
+          - catholic
+          - judaism
+          - islam
+          - hinduism
+          - buddhism
+          - taoism
+          - stoicism
+          - mythology
+          - restoration
+    concurrency:
+      group: digest-${{ matrix.edition }}
+      cancel-in-progress: false
+    steps:
+      - name: Skip editions not requested
+        id: want
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && \
+             [ "${{ github.event.inputs.edition }}" != "all-editions" ] && \
+             [ "${{ github.event.inputs.edition }}" != "${{ matrix.edition }}" ]; then
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.want.outputs.run == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.want.outputs.run == 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Respect a pinned digest
+        if: steps.want.outputs.run == 'true'
+        id: pin
+        run: |
+          f="public/editions/${{ matrix.edition }}/digest.json"
+          if [ -f "$f" ] && python3 -c "import json,sys; sys.exit(0 if json.load(open('$f')).get('pinned') else 1)"; then
+            echo "pinned=true" >> "$GITHUB_OUTPUT"
+            echo "$f is pinned — skipping this run"
+          else
+            echo "pinned=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build edition digest
+        if: steps.want.outputs.run == 'true' && steps.pin.outputs.pinned == 'false'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          # build_digest.py refuses to write fewer than --min-picks (3) for an
+          # edition, so a thin day leaves yesterday's file in place.
+          python3 tools/relay/build_digest.py --edition "${{ matrix.edition }}"
+
+      - name: Sanity-check before publishing
+        if: steps.want.outputs.run == 'true' && steps.pin.outputs.pinned == 'false'
+        run: python3 tools/relay/check_digest.py "public/editions/${{ matrix.edition }}/digest.json" --edition "${{ matrix.edition }}"
+
+      - name: Commit
+        if: steps.want.outputs.run == 'true' && steps.pin.outputs.pinned == 'false'
+        run: |
+          git config user.name  "digest-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add "public/editions/${{ matrix.edition }}/digest.json"
+          git diff --staged --quiet || git commit -m "digest(${{ matrix.edition }}): $(date -u +%Y-%m-%d)"
+          # Ten edition jobs may push within minutes of each other; each commit
+          # touches only its own file, so the rebase is always clean. Retry the
+          # push a few times for the race itself.
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            sleep $((attempt * 7))
+          done

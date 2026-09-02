@@ -1,0 +1,11 @@
+{
+  "traditions": ["Hindu", "Interfaith"],
+  "strong": [
+    "vedic", "veda", "puja", "bhakti", "yoga sutras", "sanatana", "karma", "moksha",
+    "atman", "brahman", "advaita", "mantra", "kirtan", "swami", "ramayana",
+    "mahabharata", "satsang", "guru"
+  ],
+  "weak": ["hindu", "temple", "devotee", "deity", "self-realization", "diwali"],
+  "veto": ["yoga class", "hot yoga", "yoga studio", "yoga pants", "workout", "fitness"],
+  "promptNote": "This listener reads the Bhagavad Gita, the Upanishads, the Ramayana and the Mahabharata, and Vivekananda's lectures. Rate highest the episodes that genuinely dwell on Hindu thought and practice: dharma and karma, the Self and Brahman, bhakti, yoga as a spiritual discipline, the epics and their characters, and interfaith conversations that engage these seriously. Yoga as fitness, wellness-industry marketing, and Indian politics without a religious question are 0-3."
+}
