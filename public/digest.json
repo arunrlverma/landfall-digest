@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-02T08:39:24.315319+00:00",
+ "generatedAt": "2026-09-02T13:28:13.837808+00:00",
  "showsScanned": 400,
  "candidates": 46,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Wed, 02 Sep 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/59/05/ad590545-0cea-12c2-07f0-5a063c77d11b/mza_17798297345030142677.jpg/600x600bb.jpg",
    "rating": 10,
-   "reason": "Neuroscientist explains consciousness as brain's constructed reality, challenging perception.",
+   "reason": "Neuroscientist explains consciousness as brain's controlled hallucination.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Sat, 29 Aug 2026 13:44:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b7/51/c1b751eb-ab38-f11c-d6c1-0a9de79b7061/mza_12134548126279202007.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Philosophical analysis of trauma, time, and identity in Vonnegut's novel.",
+   "reason": "Explores trauma, time, identity, and philosophy through Vonnegut's novel.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Thu, 27 Aug 2026 09:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "An honest Christian conversation on suffering, forgiveness, and trusting God amid hardship.",
+   "reason": "Honest conversation on suffering, forgiveness, and trusting God amid life’s hardships.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Sun, 30 Aug 2026 23:00:31 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A thoughtful exploration of living well through wisdom literature on meaning and ethics.",
+   "reason": "Explores wisdom literature on living well with purpose, faith, and connection.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Fri, 28 Aug 2026 20:30:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "In-depth Christian discussion on cosmic rebellion and spiritual warfare.",
+   "reason": "Explores cosmic rebellion and evil from a Christian theological perspective.",
    "tradition": "Christian"
   },
   {
@@ -79,8 +79,21 @@
    "published": "Thu, 27 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A serious Christian reflection on Psalms about forgiveness, suffering, and divine order.",
+   "reason": "A thoughtful exploration of Psalms on repentance, forgiveness, and divine order.",
    "tradition": "Christian"
+  },
+  {
+   "id": "tag:soundcloud,2010:tracks/2392835709",
+   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:406683825/sounds.rss",
+   "showTitle": "The Counsel of Trent",
+   "title": "#1202 - Three Coincidences That Prove God Exists",
+   "summary": "In this episode, Trent Horn examines three major coincidences that make atheism increasingly difficult to accept: the fine-tuning of the universe, the strange reality of objective moral facts, and the massive number of miracle claims throughout history. Taken together, these point toward a universe that looks far more like the product of design, purpose, and divine action than random chance.\n\nThe Argument for God Atheists Fear the Most: https://www.youtube.com/watch?v=_jgh9M2z8n0\n\nIt's the Strongest Argument for God in History (SCCC pt 7): https://www.youtube.com/watch?v=uk-2FdSVy10\n\nAnswering",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2392835709-trenthornpodcast-1202-three-coincidences-that.mp3",
+   "published": "Wed, 02 Sep 2026 13:00:11 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Philosophical argument for God based on coincidences and moral facts.",
+   "tradition": "Catholic"
   },
   {
    "id": "coe22.podbean.com/77d7608a-81bb-3389-b326-f961de8b93ad",
@@ -92,7 +105,7 @@
    "published": "Sun, 30 Aug 2026 21:07:07 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A serious Christian message on surrendering fully to Jesus and authentic faith.",
+   "reason": "A serious Christian reflection on surrender and true discipleship beyond negotiation.",
    "tradition": "Christian"
   },
   {
@@ -105,8 +118,8 @@
    "published": "Thu, 27 Aug 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Biblical teaching on faithfulness and divine protection in adversity.",
-   "tradition": "Christian"
+   "reason": "Biblical teaching on faith under trial and the power of names.",
+   "tradition": "Catholic"
   },
   {
    "id": "gid://art19-feed-drop-locator/V0/xwTx1wKcIO0u7dN2440vT3d4Lm0-x48hNTWJ3Zs3ZEQ",
@@ -118,8 +131,8 @@
    "published": "Fri, 28 Aug 2026 23:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/2e/d1/802ed14d-3aa6-b0f9-1879-30ad4935a877/mza_3679394119570682668.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Jesuit priest discusses his life and work, offering reflections on faith and personal growth.",
-   "tradition": "Christian"
+   "reason": "Conversation with a Jesuit priest about life and work as a spiritual journey.",
+   "tradition": "Catholic"
   }
  ],
  "history": {
@@ -254,6 +267,7 @@
   "https://www.ldsscriptureteachings.org/?p=34130": "2026-09-01",
   "c16e253e-a5b5-11f1-be6a-fb0b34698b1a": "2026-09-01",
   "073c1fd1-3917-4197-8c37-f4a1e2d23d95": "2026-09-01",
-  "84ec0aea-a63c-11f1-a450-872f9e0c6db4": "2026-09-02"
+  "84ec0aea-a63c-11f1-a450-872f9e0c6db4": "2026-09-02",
+  "tag:soundcloud,2010:tracks/2392835709": "2026-09-02"
  }
 }
