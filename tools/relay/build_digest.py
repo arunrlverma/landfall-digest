@@ -25,10 +25,19 @@ Usage:
                              # constraint, public/editions/stoicism/digest.json
 
 An edition file is {"traditions": [...], "strong": [...], "weak": [...],
-"veto": [...], "promptNote": "..."}. Its terms are added to the shared lists
-(matched as whole words), its traditions constrain the model's label set and
-are enforced as a second gate on the picks, and its note is appended to the
-system prompt. The shared digest (no --edition) is unchanged.
+"veto": [...], "charts": [...], "promptNote": "..."}. Its terms are added to the shared lists
+(matched as whole words) AND are the edition's own relevance test: on an
+edition run an episode must hit the edition's terms to reach the shortlist at
+all, because the shared lists are edition-agnostic spiritual vocabulary and on
+their own they hand every edition the same religious shortlist. Its note is
+appended to the system prompt, and its traditions are enforced as a second gate
+on the picks. The shared digest (no --edition) is unchanged.
+
+The scorer is always shown the FULL tradition list, never the edition's subset:
+when the label set was narrowed to the shelf's own traditions, an off-shelf
+episode had no honest label left and was forced into the shelf's catch-all
+("Interfaith"), which is how Catholic apologetics reached the Stoicism shelf.
+Label the episode where it actually belongs, then keep what fits this shelf.
 """
 from __future__ import annotations
 
@@ -55,6 +64,14 @@ MODEL = "gpt-4.1-mini"
 # are NOT tagged Religion & Spirituality — measured: only 19 of ~1,294 are.
 GENRES = [None, 1489, 1324, 1533, 1512, 1303, 1321, 1304, 1301, 1487, 1488,
           1314, 1545, 1318, 1309, 1310, 1305]
+
+# Apple also publishes a chart per SUBGENRE, and that is where most editions
+# live: 1441 is a top-100 of Judaism shows, 1440 of Islam, 1443 of Philosophy.
+# Measured on the pool above: of 1,590 shows across the 17 charts here, exactly
+# one was a Jewish show and none were Muslim — the Judaism shelf could not have
+# been filled honestly from this pool at all. An edition names its own charts in
+# `charts` in editions/<key>.json; they are added to the list above, not
+# substituted for it, because the point of the relay is the whole chart.
 
 # Mirrors Sources/SpiritualFilter.swift. Keep the two in step: the app still
 # runs this locally when the relay is unreachable.
@@ -88,6 +105,11 @@ STRONG_RE, WEAK_RE, VETO_RE = _re(STRONG), _re(WEAK), _re(VETO)
 
 # Set by --edition: the constrained tradition list and the note for the prompt.
 EDITION: dict | None = None
+# The edition's OWN terms, compiled separately from the shared lists. These are
+# the relevance test for an edition run: "does this episode have anything to do
+# with what this shelf is about?" — which the shared lists cannot answer.
+EDITION_STRONG_RE: re.Pattern | None = None
+EDITION_WEAK_RE: re.Pattern | None = None
 
 
 def _word_re(terms: list[str]) -> str:
@@ -99,9 +121,12 @@ def _word_re(terms: list[str]) -> str:
 def load_edition(key: str, root: str = "editions") -> dict:
     """Read editions/<key>.json and compose the edition's matchers.
 
-    The shared STRONG/WEAK/VETO lists stay in force; the edition adds to them.
-    Returns the parsed file (traditions, promptNote) for the prompt."""
+    The shared STRONG/WEAK/VETO lists stay in force and the edition adds to
+    them, but the edition's own terms are compiled separately as well: they are
+    the relevance gate for an edition run (see `on_topic`).
+    Returns the parsed file (traditions, charts, promptNote) for the prompt."""
     global STRONG_RE, WEAK_RE, VETO_RE, EDITION
+    global EDITION_STRONG_RE, EDITION_WEAK_RE
     if not re.fullmatch(r"[a-z][a-z0-9-]{1,31}", key):
         raise SystemExit(f"invalid edition key: {key}")
     path = os.path.join(root, f"{key}.json")
@@ -117,26 +142,67 @@ def load_edition(key: str, root: str = "editions") -> dict:
         value = edition.get(name, [])
         if not isinstance(value, list) or not all(isinstance(x, str) for x in value):
             raise SystemExit(f"{path}: {name} must be a list of strings")
+    charts = edition.get("charts", [])
+    if not isinstance(charts, list) or not all(isinstance(x, int) for x in charts):
+        raise SystemExit(f"{path}: charts must be a list of Apple genre ids")
     strong = STRONG + ("|" + _word_re(edition["strong"]) if edition.get("strong") else "")
     weak = WEAK + ("|" + _word_re(edition["weak"]) if edition.get("weak") else "")
     veto = VETO + ("|" + _word_re(edition["veto"]) if edition.get("veto") else "")
     STRONG_RE, WEAK_RE, VETO_RE = _re(strong), _re(weak), _re(veto)
+    EDITION_STRONG_RE = _re(_word_re(edition["strong"])) if edition.get("strong") else None
+    EDITION_WEAK_RE = _re(_word_re(edition["weak"])) if edition.get("weak") else None
+    if EDITION_STRONG_RE is None and EDITION_WEAK_RE is None:
+        raise SystemExit(f"{path}: an edition needs strong or weak terms of its own; "
+                         f"the shared lists cannot tell one edition from another")
     EDITION = {"key": key, "traditions": list(traditions),
+               "charts": list(charts),
                "promptNote": str(edition.get("promptNote") or "").strip()}
     return EDITION
 
 
+def edition_hits(haystack: str) -> tuple[set[str], set[str]]:
+    """The edition's own strong/weak matches in an episode's text."""
+    strong = set(m.group(0).lower() for m in EDITION_STRONG_RE.finditer(haystack)) \
+        if EDITION_STRONG_RE else set()
+    weak = set(m.group(0).lower() for m in EDITION_WEAK_RE.finditer(haystack)) \
+        if EDITION_WEAK_RE else set()
+    return strong, weak
+
+
+def on_topic(strong: set[str], weak: set[str]) -> bool:
+    """One of the edition's own subject words, or three of its softer ones.
+
+    Mirrors the shared filter's shape (one STRONG, or three WEAK) so a single
+    generic word — "justice" on the Stoicism shelf, "family" on Restoration —
+    cannot by itself claim an episode for an edition."""
+    return bool(strong) or len(weak) >= 3
+
+
 def system_prompt() -> str:
-    """The scoring prompt, with the edition's tradition constraint and note."""
+    """The scoring prompt: the shelf's framing, the full label set, its note."""
     # str.replace, not str.format: the prompt's JSON example has braces.
+    # The label set is ALWAYS the full list, edition or not. Narrowing it to the
+    # shelf's own traditions left an off-shelf episode no honest label and it
+    # took the nearest catch-all instead, which is how a Catholic apologetics
+    # episode arrived on the Stoicism shelf tagged "Interfaith".
+    text = SYSTEM_PROMPT.replace("{traditions}", ", ".join(TRADITIONS))
     if EDITION is None:
-        return SYSTEM_PROMPT.replace("{traditions}", ", ".join(TRADITIONS))
+        return text.replace("{listener}", SHARED_LISTENER)
+    text = text.replace("{listener}", EDITION_LISTENER.replace("{key}", EDITION["key"]))
     allowed = ", ".join(EDITION["traditions"])
-    text = SYSTEM_PROMPT.replace("{traditions}", allowed)
     text += (
-        f"\nThis listener uses the {EDITION['key']} edition. Only the traditions listed "
-        f"above are wanted: an episode that belongs to another tradition is a 0-3 "
-        f"regardless of quality.\n")
+        f"\nThis listener is on the {EDITION['key']} shelf. Every tradition is welcome in "
+        f"this app; this shelf is simply the one for {EDITION['key']}, and it should carry "
+        f"what it is about.\n"
+        f"Label each episode with the tradition it actually belongs to, even when that is "
+        f"not one of this shelf's traditions ({allowed}) — the shelf keeps only those, and "
+        f"stretching a label to fit is worse than a low rating. An episode teaching another "
+        f"tradition's texts, doctrine or practice takes that tradition's label.\n"
+        f"Use Interfaith only when a voice or text of this shelf's own traditions is central "
+        f"to a conversation across traditions, not for any episode that spans two faiths.\n"
+        f"Rate for THIS shelf, not in general: a fine episode that belongs on another "
+        f"shelf is a 0-3 here. Reserve 7+ for episodes that a {EDITION['key']} listener "
+        f"would recognise as theirs.\n")
     if EDITION["promptNote"]:
         text += EDITION["promptNote"] + "\n"
     return text
@@ -144,7 +210,11 @@ def system_prompt() -> str:
 TRADITIONS = ["Christian", "Catholic", "Jewish", "Muslim", "Buddhist", "Hindu", "Taoist",
               "Stoic", "Latter-day Saint", "Mythic", "Indigenous", "Interfaith", "Secular"]
 
-SYSTEM_PROMPT = """\
+# The opening paragraphs are swapped per shelf. The shared digest's listener is
+# "open to every tradition and to none", which is right for one undifferentiated
+# feed and wrong for an edition: it told the scorer that a Jesuit, a Zen teacher
+# and a philosopher all qualify — on every shelf.
+SHARED_LISTENER = """\
 You help a listener find podcast episodes worth their attention. They are \
 reading the Bhagavad Gita, the Gospels, the Upanishads and the Tao Te Ching, \
 and they want conversations that sit with the same questions: meaning, \
@@ -153,7 +223,21 @@ mortality, faith and doubt, consciousness, ethics, suffering, how to live.
 They are open to every tradition and to none — a Jesuit, a Zen teacher, a \
 neuroscientist on meditation, and a philosopher on death all qualify. What \
 matters is that the episode genuinely dwells on the question, not that it uses \
-religious vocabulary.
+religious vocabulary."""
+
+EDITION_LISTENER = """\
+You help a listener find podcast episodes worth their attention. The app they \
+read in has a shelf for each tradition and is open to all of them; you are \
+filling one shelf, the {key} shelf, and it should carry what it is about.
+
+The listener wants conversations that sit with the questions their own reading \
+raises: meaning, mortality, ethics, suffering, how to live. What matters is \
+that the episode genuinely dwells on those questions AND that it is the kind of \
+episode this shelf exists for. An excellent episode from another tradition is \
+not a loss — it is on that tradition's shelf, where its listener will find it."""
+
+SYSTEM_PROMPT = """\
+{listener}
 
 You receive a JSON object mapping index strings to episodes. Return a JSON \
 object with EXACTLY the same keys. Each value is an object:
@@ -181,10 +265,13 @@ def get_json(url: str, timeout: int = 25):
         return json.load(r)
 
 
-def chart_pool(limit: int) -> list[dict]:
-    """Every charting show across every genre, de-duplicated, with feed URLs."""
-    ids, seen = [], set()
-    for genre in GENRES:
+def chart_pool(limit: int, genres: list | None = None) -> list[dict]:
+    """Every charting show across every genre, de-duplicated, with feed URLs.
+
+    Each show remembers which charts it came from, so an edition run can fetch
+    the shows off its own subgenre chart before the --shows cap bites."""
+    ids, seen, origin = [], set(), {}
+    for genre in genres or GENRES:
         url = CHART.format(limit=limit, genre=f"genre={genre}/" if genre else "")
         try:
             feed = get_json(url)["feed"]
@@ -196,6 +283,7 @@ def chart_pool(limit: int) -> list[dict]:
             entries = [entries]
         for e in entries:
             pid = e["id"]["attributes"]["im:id"]
+            origin.setdefault(pid, set()).add(genre)
             if pid not in seen:
                 seen.add(pid)
                 ids.append(pid)
@@ -216,6 +304,8 @@ def chart_pool(limit: int) -> list[dict]:
                     "feed": r["feedUrl"],
                     "genre": r.get("primaryGenreName", ""),
                     "artwork": r.get("artworkUrl600") or r.get("artworkUrl100"),
+                    "charts": sorted(g for g in origin.get(str(r.get("collectionId")), ())
+                                     if g),
                 })
         time.sleep(0.1)
     return shows
@@ -240,7 +330,11 @@ def recent_episodes(show: dict, since: datetime) -> list[dict]:
     except Exception:
         return []
 
-    tagged = show["genre"] == "Religion & Spirituality"
+    # The Religion & Spirituality discount (below) is a shared-digest idea: on
+    # an edition run it lowers the bar for exactly the shows most likely to
+    # belong to some OTHER tradition's shelf, so it is off, and so is the
+    # tagged-show veto exemption.
+    tagged = show["genre"] == "Religion & Spirituality" and EDITION is None
     out = []
     for m in list(re.finditer(r"<item>(.*?)</item>", raw, re.S))[:8]:
         block = m.group(1)
@@ -268,8 +362,19 @@ def recent_episodes(show: dict, since: datetime) -> list[dict]:
             continue
         strong = set(x.group(0).lower() for x in STRONG_RE.finditer(haystack))
         weak = set(x.group(0).lower() for x in WEAK_RE.finditer(haystack))
-        if not (strong or len(weak) >= (1 if tagged else 3)):
-            continue
+        if EDITION is None:
+            if not (strong or len(weak) >= (1 if tagged else 3)):
+                continue
+            rank = len(strong) * 3 + len(weak) + (2 if tagged else 0)
+        else:
+            # The edition decides. The shared lists still rank and still veto,
+            # but they no longer admit: an episode with nothing of this shelf's
+            # subject in it is not this shelf's episode, however spiritual.
+            e_strong, e_weak = edition_hits(haystack)
+            if not on_topic(e_strong, e_weak):
+                continue
+            rank = (len(e_strong) * 5 + len(e_weak) * 2
+                    + len(strong) * 2 + len(weak))
 
         out.append({
             "id": field(block, "guid") or enclosure.group(1),
@@ -280,7 +385,7 @@ def recent_episodes(show: dict, since: datetime) -> list[dict]:
             "audioURL": enclosure.group(1),
             "published": field(block, "pubDate"),
             "artworkURL": show["artwork"],
-            "_score": len(strong) * 3 + len(weak) + (2 if tagged else 0),
+            "_score": rank,
         })
     return out
 
@@ -383,8 +488,13 @@ def main() -> int:
                     help="digest.json (public/editions/<key>/digest.json with --edition)")
     ap.add_argument("--edition", default=None, help="edition key: reads editions/<key>.json")
     ap.add_argument("--limit", type=int, default=100, help="shows per genre chart")
-    ap.add_argument("--shows", type=int, default=400, help="max feeds to fetch")
+    ap.add_argument("--shows", type=int, default=None,
+                    help="max feeds to fetch (default 400; 1200 with --edition, "
+                         "whose own subgenre charts roughly double the pool)")
     ap.add_argument("--keep", type=int, default=25)
+    ap.add_argument("--min-rating", type=int, default=None,
+                    help="lowest rating published (default 6; 7 with --edition, "
+                         "because 4-6 is 'mostly about something else')")
     ap.add_argument("--min-picks", type=int, default=3,
                     help="refuse to write an edition digest with fewer picks")
     ap.add_argument("--dry-run", action="store_true")
@@ -397,13 +507,37 @@ def main() -> int:
             args.out = os.path.join("public", "editions", args.edition, "digest.json")
     elif args.out is None:
         args.out = "digest.json"
+    if args.shows is None:
+        args.shows = 1200 if args.edition else 400
+    if args.min_rating is None:
+        args.min_rating = 7 if args.edition else 6
 
     print("charts…")
-    shows = chart_pool(args.limit)
+    genres = list(GENRES)
+    if EDITION is not None:
+        genres += [g for g in EDITION["charts"] if g not in genres]
+        print(f"  plus this edition's own charts: {EDITION['charts']}")
+    shows = chart_pool(args.limit, genres)
     print(f"  {len(shows)} shows with feeds")
 
-    # Most promising first, so a capped run still sees the best candidates.
-    shows.sort(key=lambda s: s["genre"] != "Religion & Spirituality")
+    # Most promising first, so a capped run still sees the best candidates. On
+    # an edition run a show whose own name is on topic ("The Daily Stoic") ranks
+    # ahead of the Religion & Spirituality genre, which for most editions is
+    # someone else's shelf.
+    def priority(s: dict) -> tuple:
+        # `primaryGenreName` is nearly always a SUBgenre ("Christianity",
+        # "Spirituality"), so the exact-string test below fires for about 1% of
+        # a religion-heavy pool. Kept as-is for the shared digest, whose
+        # behaviour this change must not alter; the edition path does not
+        # depend on it.
+        religion = s["genre"] != "Religion & Spirituality"
+        if EDITION is None:
+            return (religion,)
+        own = bool(set(s.get("charts") or ()) & set(EDITION["charts"]))
+        e_strong, e_weak = edition_hits(s["title"].lower())
+        return (not own, not on_topic(e_strong, e_weak), religion)
+
+    shows.sort(key=priority)
     shows = shows[:args.shows]
 
     since = datetime.now(timezone.utc) - timedelta(days=8)
@@ -439,7 +573,9 @@ def main() -> int:
 
     print("scoring…")
     picks = score(candidates, key)
-    picks = [p for p in picks if p["rating"] >= 6]
+    before = len(picks)
+    picks = [p for p in picks if p["rating"] >= args.min_rating]
+    print(f"  rating gate: {len(picks)} of {before} picks at {args.min_rating}+")
     if EDITION is not None:
         # Second gate: the prompt constrains the label set, but a model that
         # strays outside it must not leak another tradition into the edition.

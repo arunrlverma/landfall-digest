@@ -1,5 +1,13 @@
 {
-  "traditions": ["Buddhist", "Interfaith", "Secular"],
+  "traditions": [
+    "Buddhist",
+    "Interfaith",
+    "Secular"
+  ],
+  "charts": [
+    1438,
+    1444
+  ],
   "strong": [
     "sutta",
     "sutra",
@@ -46,5 +54,5 @@
     "hustle",
     "grindset"
   ],
-  "promptNote": "Landfall Buddhism. Keep episodes rated Buddhist or Interfaith. Keep a Secular episode only when it is a genuine mindfulness or meditation hit (a sitting practice, a dharma talk, a teacher on attention or impermanence), not a productivity or self-optimisation segment. Prefer suttas, dharma talks, Zen and Theravada teachers, and thoughtful interfaith conversation over news framing."
+  "promptNote": "Landfall Buddhism. Keep episodes rated Buddhist or Interfaith. Keep a Secular episode only when it is a genuine mindfulness or meditation hit (a sitting practice, a dharma talk, a teacher on attention or impermanence), not a productivity or self-optimisation segment. Prefer suttas, dharma talks, Zen and Theravada teachers, and thoughtful interfaith conversation over news framing. A Secular pick must be a real practice or teaching episode a Buddhist listener would recognise; a wellness or self-optimisation segment that says \"mindful\" is not one."
 }

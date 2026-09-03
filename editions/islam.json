@@ -3,6 +3,10 @@
     "Muslim",
     "Interfaith"
   ],
+  "charts": [
+    1440,
+    1532
+  ],
   "strong": [
     "quran",
     "qur'an",
@@ -76,5 +80,5 @@
     "geopolitic",
     "sanctions"
   ],
-  "promptNote": "Landfall Islam wants teaching, devotional and reflective episodes: Qur'an study and tafsir, hadith and seerah, fiqh for daily life, Ramadan and the prayers, Sufi poetry and the inner life. Refer to English Qur'an texts as translations of the meanings, never as the Qur'an itself. Exclude every episode whose framing is security news, political conflict or counter-terrorism, even when the show is otherwise on topic, and never rank an episode up for controversy. Interfaith episodes count when a Muslim voice or an Islamic text is central. Do not select episodes that dramatise or voice the Prophet or his Companions."
+  "promptNote": "Landfall Islam wants teaching, devotional and reflective episodes: Qur'an study and tafsir, hadith and seerah, fiqh for daily life, Ramadan and the prayers, Sufi poetry and the inner life. Refer to English Qur'an texts as translations of the meanings, never as the Qur'an itself. Exclude every episode whose framing is security news, political conflict or counter-terrorism, even when the show is otherwise on topic, and never rank an episode up for controversy. Interfaith episodes count when a Muslim voice or an Islamic text is central. Do not select episodes that dramatise or voice the Prophet or his Companions. An episode whose subject is another tradition's teaching takes that tradition's label, even when a Muslim voice is present."
 }

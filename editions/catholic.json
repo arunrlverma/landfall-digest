@@ -1,11 +1,62 @@
 {
-  "traditions": ["Christian", "Catholic", "Interfaith"],
-  "strong": [
-    "holy mass", "sunday mass", "daily mass", "latin mass", "mass readings", "going to mass", "go to mass", "at mass", "after mass",
-    "rosary", "eucharist", "pope", "papal", "encyclical", "vatican", "catechism", "sacrament", "novena", "adoration", "marian",
-    "homily", "jesuit", "franciscan", "dominican", "benedictine", "carmelite", "lectio divina"
+  "traditions": [
+    "Christian",
+    "Catholic",
+    "Interfaith"
   ],
-  "weak": ["parish", "bishop", "cardinal", "catholic", "grace"],
+  "charts": [
+    1439,
+    1532
+  ],
+  "strong": [
+    "holy mass",
+    "sunday mass",
+    "daily mass",
+    "latin mass",
+    "mass readings",
+    "going to mass",
+    "go to mass",
+    "at mass",
+    "after mass",
+    "rosary",
+    "eucharist",
+    "pope",
+    "papal",
+    "encyclical",
+    "vatican",
+    "catechism",
+    "sacrament",
+    "novena",
+    "adoration",
+    "marian",
+    "homily",
+    "jesuit",
+    "franciscan",
+    "dominican",
+    "benedictine",
+    "carmelite",
+    "lectio divina",
+    "catholicism",
+    "catholic church",
+    "aquinas",
+    "augustine",
+    "confession",
+    "purgatory",
+    "magisterium",
+    "apostolic",
+    "divine mercy",
+    "holy father",
+    "patron saint",
+    "canonisation",
+    "canonization"
+  ],
+  "weak": [
+    "parish",
+    "bishop",
+    "cardinal",
+    "catholic",
+    "grace"
+  ],
   "veto": [],
-  "promptNote": "Rate for a Catholic listener. Homilies, the Mass and the sacraments, the saints and their writings, Marian devotion, religious orders, encyclicals and the Catholic intellectual tradition (Augustine, Aquinas, Newman, Chesterton) score high. Tag an episode that is specifically Catholic as tradition \"Catholic\" rather than \"Christian\"; keep \"Christian\" for ecumenical or Protestant material and \"Interfaith\" for conversations across traditions. Anti-Catholic polemic, sensational church-scandal coverage and political culture-war framing are not contemplative listening: rate them low."
+  "promptNote": "Rate for a Catholic listener. Homilies, the Mass and the sacraments, the saints and their writings, Marian devotion, religious orders, encyclicals and the Catholic intellectual tradition (Augustine, Aquinas, Newman, Chesterton) score high. Tag an episode that is specifically Catholic as tradition \"Catholic\" rather than \"Christian\"; keep \"Christian\" for ecumenical or Protestant material and \"Interfaith\" for conversations across traditions. Anti-Catholic polemic, sensational church-scandal coverage and political culture-war framing are not contemplative listening: rate them low. An episode whose subject is another tradition's teaching takes that tradition's label, even when a Catholic voice is in the room."
 }

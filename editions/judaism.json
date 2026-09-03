@@ -1,13 +1,57 @@
 {
-  "traditions": ["Jewish", "Interfaith"],
+  "traditions": [
+    "Jewish",
+    "Interfaith"
+  ],
+  "charts": [
+    1441,
+    1532
+  ],
   "strong": [
-    "talmud", "midrash", "halacha", "halakha", "shabbat", "parsha", "parashah", "mitzvah",
-    "tanakh", "mussar", "hasid", "chassid", "yeshiva", "daf yomi", "kaddish", "teshuvah",
-    "rosh hashanah", "yom kippur", "passover", "seder", "sukkot", "hanukkah", "purim"
+    "talmud",
+    "midrash",
+    "halacha",
+    "halakha",
+    "shabbat",
+    "parsha",
+    "parashah",
+    "mitzvah",
+    "tanakh",
+    "mussar",
+    "hasid",
+    "chassid",
+    "yeshiva",
+    "daf yomi",
+    "kaddish",
+    "teshuvah",
+    "rosh hashanah",
+    "yom kippur",
+    "passover",
+    "seder",
+    "sukkot",
+    "hanukkah",
+    "purim",
+    "torah",
+    "rabbinic",
+    "mishnah",
+    "gemara",
+    "kabbalah",
+    "siddur",
+    "kosher",
+    "chabad",
+    "tzedakah",
+    "jewish law"
   ],
   "weak": [
-    "jewish", "judaism", "synagogue", "shul", "hebrew", "covenant", "sages", "israel"
+    "jewish",
+    "judaism",
+    "synagogue",
+    "shul",
+    "hebrew",
+    "covenant",
+    "sages",
+    "israel"
   ],
   "veto": [],
-  "promptNote": "This edition serves Jewish listeners. Prefer episodes on Torah and Talmud study, the weekly parashah, mussar and Jewish ethics, Jewish history, holidays and prayer, and tag them Jewish. Keep Interfaith episodes only when Jewish texts or voices are central. Do not tag Christian or Messianic readings of the Hebrew Bible as Jewish. Israeli news, politics and security coverage rates 0-3 unless the episode is about religious life, texts or practice."
+  "promptNote": "This edition serves Jewish listeners. Prefer episodes on Torah and Talmud study, the weekly parashah, mussar and Jewish ethics, Jewish history, holidays and prayer, and tag them Jewish. Keep Interfaith episodes only when Jewish texts or voices are central. Do not tag Christian or Messianic readings of the Hebrew Bible as Jewish. Israeli news, politics and security coverage rates 0-3 unless the episode is about religious life, texts or practice. A Christian sermon on the Hebrew Bible takes the Christian label, however respectful — it belongs on the Christianity shelf, not this one."
 }

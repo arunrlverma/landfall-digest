@@ -4,6 +4,11 @@
     "Buddhist",
     "Interfaith"
   ],
+  "charts": [
+    1443,
+    1438,
+    1444
+  ],
   "strong": [
     "taoism",
     "taoist",
@@ -58,10 +63,7 @@
     "effortless",
     "simplicity",
     "non-action",
-    "nature",
-    "water",
-    "emptiness",
-    "flow"
+    "emptiness"
   ],
   "veto": [
     "tariff",
@@ -79,5 +81,5 @@
     "tiktok ban",
     "chip ban"
   ],
-  "promptNote": "Landfall Taoism edition. Keep episodes on Taoist and Confucian thought (Laozi, Zhuangzi, Confucius, Mencius, the I Ching, the Book of Odes, Sun Tzu read as philosophy), Chinese poetry, tea and the contemplative arts, plus Buddhist and interfaith conversations that dwell on stillness, wu wei or the Way. Business, leadership and productivity shows that borrow 'the art of war' or 'flow' rate 0-3; China trade, technology and geopolitics news is vetoed even when it quotes Confucius. Terms are matched with a leading word boundary, so the bare stems 'tao' and 'dao' are deliberately absent (they hit 'Taoiseach' and crypto 'DAO')."
+  "promptNote": "Landfall Taoism edition. Keep episodes on Taoist and Confucian thought (Laozi, Zhuangzi, Confucius, Mencius, the I Ching, the Book of Odes, Sun Tzu read as philosophy), Chinese poetry, tea and the contemplative arts, plus Buddhist and interfaith conversations that dwell on stillness, wu wei or the Way. Business, leadership and productivity shows that borrow 'the art of war' or 'flow' rate 0-3; China trade, technology and geopolitics news is vetoed even when it quotes Confucius. Terms are matched with a leading word boundary, so the bare stems 'tao' and 'dao' are deliberately absent (they hit 'Taoiseach' and crypto 'DAO'). Tag an episode by its own tradition: a Christian, Hindu or secular-wellness episode that happens to speak of stillness or simplicity takes that label and stays on its own shelf."
 }
