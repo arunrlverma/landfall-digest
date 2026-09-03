@@ -1,5 +1,13 @@
 {
-  "traditions": ["Stoic", "Secular", "Interfaith"],
+  "traditions": [
+    "Stoic",
+    "Secular",
+    "Interfaith"
+  ],
+  "charts": [
+    1443,
+    1482
+  ],
   "strong": [
     "marcus aurelius",
     "epictetus",
@@ -18,7 +26,27 @@
     "nietzsche",
     "camus",
     "montaigne",
-    "philosophy of life"
+    "philosophy of life",
+    "stoic",
+    "stoics",
+    "stoicism",
+    "philosophy",
+    "philosopher",
+    "philosophers",
+    "philosophical",
+    "enchiridion",
+    "epicurus",
+    "cicero",
+    "boethius",
+    "diogenes",
+    "emerson",
+    "thoreau",
+    "sartre",
+    "schopenhauer",
+    "viktor frankl",
+    "logotherapy",
+    "moral philosophy",
+    "ancient philosophy"
   ],
   "weak": [
     "virtue",
@@ -29,7 +57,15 @@
     "tranquility",
     "temperance",
     "justice",
-    "courage"
+    "courage",
+    "equanimity",
+    "fortitude",
+    "self-control",
+    "mortality",
+    "anger",
+    "fate",
+    "character",
+    "duty"
   ],
   "veto": [
     "hustle",
@@ -38,5 +74,5 @@
     "crypto",
     "side hustle"
   ],
-  "promptNote": "This shelf is for Landfall Stoicism. Prefer episodes that engage the Stoics and the wider philosophy of life directly: Marcus Aurelius, Seneca, Epictetus, the Socratic dialogues, Cicero, Boethius, Montaigne, Emerson, Thoreau, the existentialists, virtue ethics, and practical questions of adversity, grief, discipline, and mortality. Tag such episodes Stoic; tag secular philosophy, psychology, and ethics episodes Secular; tag cross-tradition conversations Interfaith. Reject self-improvement content that uses Stoic language as decoration for hustle, productivity hacks, money, dating, or masculinity coaching, and reject episodes that are mainly about news or politics even when a philosopher is quoted."
+  "promptNote": "This shelf is for Landfall Stoicism: the Stoics and the wider philosophy of life. Marcus Aurelius, Seneca, Epictetus, the Socratic dialogues, Cicero, Boethius, Montaigne, Emerson, Thoreau, the existentialists, virtue ethics, and the practical questions they answer — adversity, grief, anger, discipline, mortality. Tag those Stoic. Tag philosophy, psychology and ethics that a philosophy listener would recognise as theirs Secular. Tag as Interfaith only a conversation in which a philosopher or a philosophical text is one of the voices; a sermon, a scripture study, an apologetics argument or a devotional belongs to its own tradition — give it that tradition's label, which keeps it on its own shelf rather than this one, and rate it low here. That is a shelving decision, not a judgement of the episode. Reject self-improvement content that uses Stoic language as decoration for hustle, productivity, money, dating or masculinity coaching, and reject episodes that are mainly news or politics even when a philosopher is quoted."
 }

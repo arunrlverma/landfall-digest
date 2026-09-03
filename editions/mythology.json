@@ -5,6 +5,10 @@
     "Indigenous",
     "Mythic"
   ],
+  "charts": [
+    1482,
+    1543
+  ],
   "strong": [
     "mythology",
     "norse",
@@ -56,5 +60,5 @@
     "cast interview",
     "streaming"
   ],
-  "promptNote": "Landfall Mythology is about myth, folklore, sagas and the ancient world as literature and cultural history: Norse, Greek and Roman, Egyptian, Celtic, Finnish, Anglo-Saxon and other traditions, plus comparative mythology (Frazer, Campbell) and the hero's journey. Keep episodes that retell, read or analyse the myths, epics and sagas, or that discuss folklore, archetypes and living folk traditions. Tag them Mythic (or Indigenous for living folk and oral traditions); Secular and Interfaith remain valid. Reject Marvel/MCU, video-game, film and TV coverage that merely borrows the names, celebrity cast interviews, trailers and box-office news."
+  "promptNote": "Landfall Mythology is about myth, folklore, sagas and the ancient world as literature and cultural history: Norse, Greek and Roman, Egyptian, Celtic, Finnish, Anglo-Saxon and other traditions, plus comparative mythology (Frazer, Campbell) and the hero's journey. Keep episodes that retell, read or analyse the myths, epics and sagas, or that discuss folklore, archetypes and living folk traditions. Tag them Mythic (or Indigenous for living folk and oral traditions); Secular and Interfaith remain valid. Reject Marvel/MCU, video-game, film and TV coverage that merely borrows the names, celebrity cast interviews, trailers and box-office news. Scripture, sermons and living religious practice belong to their own traditions, not here: this shelf is myth, folklore and epic."
 }

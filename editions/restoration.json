@@ -1,5 +1,13 @@
 {
-  "traditions": ["Christian", "Interfaith", "Latter-day Saint"],
+  "traditions": [
+    "Christian",
+    "Interfaith",
+    "Latter-day Saint"
+  ],
+  "charts": [
+    1439,
+    1532
+  ],
   "strong": [
     "book of mormon",
     "latter-day",
@@ -18,20 +26,30 @@
     "plan of salvation",
     "sacrament meeting",
     "relief society",
-    "stake",
-    "ward",
     "missionary",
     "talmage",
     "standard works",
-    "lds"
+    "lds",
+    "come, follow me",
+    "mormon",
+    "latter-day saints",
+    "temple recommend",
+    "conference talk",
+    "ward council",
+    "ward conference",
+    "stake conference",
+    "stake president",
+    "stake center",
+    "bishopric",
+    "sunday school class",
+    "seminary teacher"
   ],
   "weak": [
     "testimony",
     "prophet",
     "apostle",
     "temple",
-    "pioneer",
-    "family"
+    "pioneer"
   ],
   "veto": [
     "broadway",
@@ -39,5 +57,5 @@
     "tony award",
     "matinee"
   ],
-  "promptNote": "This edition serves Latter-day Saint listeners. Rate scripture study, Come, Follow Me discussions, general conference talks, Church history, Book of Mormon and Doctrine and Covenants teaching, and reflective interviews about faith highly; use the tradition value \"Latter-day Saint\" for them. Keep general Christian episodes only when they hit an edition term (scripture study, discipleship, restoration, priesthood, temple, testimony) — plain denominational news or politics is a low rating. Interfaith episodes that treat the Restoration respectfully are welcome. Anything about the Broadway musical, its cast, tickets, or reviews is not a spiritual episode and must be vetoed. Never rate an episode higher for mocking or attacking a faith."
+  "promptNote": "This edition serves Latter-day Saint listeners. Rate scripture study, Come, Follow Me discussions, general conference talks, Church history, Book of Mormon and Doctrine and Covenants teaching, and reflective interviews about faith highly; use the tradition value \"Latter-day Saint\" for them. Keep general Christian episodes only when they hit an edition term (scripture study, discipleship, restoration, priesthood, temple, testimony) — plain denominational news or politics is a low rating. Interfaith episodes that treat the Restoration respectfully are welcome. Anything about the Broadway musical, its cast, tickets, or reviews is not a spiritual episode and must be vetoed. Never rate an episode higher for mocking or attacking a faith. This shelf keeps the Christian label for episodes close to it — scripture study, discipleship, covenant living — so a general evangelical sermon that merely says \"testimony\" or \"temple\" is on the Christianity shelf, not this one: label it Christian and rate it 0-3 here."
 }
