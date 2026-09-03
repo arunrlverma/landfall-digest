@@ -6,9 +6,9 @@
   "Interfaith",
   "Latter-day Saint"
  ],
- "generatedAt": "2026-09-03T07:34:57.894363+00:00",
+ "generatedAt": "2026-09-03T14:01:29.208314+00:00",
  "showsScanned": 1200,
- "candidates": 16,
+ "candidates": 19,
  "picks": [
   {
    "id": "Buzzsprout-19704370",
@@ -20,7 +20,7 @@
    "published": "Wed, 26 Aug 2026 10:00:00 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/23/99/00/239900da-3b3b-f793-e1c0-ab6f591731d1/mza_72973430176591357.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Testimony and scripture study on Psalms with spiritual insights and restoration themes.",
+   "reason": "Testimony and scripture study on Psalms with spiritual insights for restoration listeners.",
    "tradition": "Latter-day Saint"
   },
   {
@@ -33,7 +33,7 @@
    "published": "Thu, 27 Aug 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "In-depth Come Follow Me study on Psalms with focus on repentance and God's love.",
+   "reason": "In-depth Come Follow Me study of Psalms with focus on repentance and God's love.",
    "tradition": "Latter-day Saint"
   },
   {
@@ -50,6 +50,19 @@
    "tradition": "Latter-day Saint"
   },
   {
+   "id": "postmormonpeace.podbean.com/ca8a94ec-446d-335d-8d10-d6f10ada5236",
+   "showID": "https://feed.podbean.com/postmormonpeace/feed.xml",
+   "showTitle": "Post Mormon Peace",
+   "title": "Learning to See the Gray: Corey’s Story, Part 1",
+   "summary": "In Part 1 of our conversation with Corey Buse, we go back to growing up Mormon in Utah in the 1990s, where church, family, friends, and community were all deeply intertwined.\nCorey was raised with a strong emphasis on exact obedience and doing things the “right” way. That framework gave him discipline and conviction, but it also shaped how he approached friendships, differences, and eventually his mission.\nServing in New Jersey exposed Corey to people who saw religion very differently than he did. For the first time, he began asking what the gospel looked like from the other side of the doorst",
+   "audioURL": "https://mcdn.podbean.com/mf/web/qwp3qkutmiezpmrd/Corey_Beus85mvq.mp3",
+   "published": "Tue, 01 Sep 2026 05:00:00 -0300",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6d/85/60/6d8560ce-0333-173b-a48a-c3b49419a28d/mza_2325209093202537203.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Personal story of growing up LDS and wrestling with faith and obedience.",
+   "tradition": "Latter-day Saint"
+  },
+  {
    "id": "0b7ef512-9a5a-4884-bd23-5bc8d34412a4",
    "showID": "https://anchor.fm/s/ee22f210/podcast/rss",
    "showTitle": "Just Love Them",
@@ -59,7 +72,7 @@
    "published": "Mon, 31 Aug 2026 09:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/60/2c/86/602c86a2-05bd-2ad2-1bc7-90f1d3ae3519/mza_11801265363873272805.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Research-based conversation on why people leave LDS Church and how to respond.",
+   "reason": "Research-based discussion on why people leave LDS Church and how to respond compassionately.",
    "tradition": "Latter-day Saint"
   },
   {
@@ -72,7 +85,7 @@
    "published": "Sun, 30 Aug 2026 07:00:00 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/fd/a0/8cfda08e-bb74-890a-3d04-396674cd0207/mza_3741181732483587755.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Detailed teaching ideas for Isaiah 1-12 in the Come, Follow Me curriculum.",
+   "reason": "Provides teaching and discussion on Isaiah for Come, Follow Me study, aiding Latter-day Saint scripture engagement.",
    "tradition": "Latter-day Saint"
   },
   {
@@ -98,20 +111,7 @@
    "published": "Thu, 27 Aug 2026 09:00:00 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/23/99/00/239900da-3b3b-f793-e1c0-ab6f591731d1/mza_72973430176591357.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Reflection on Psalms with scripture study and spiritual encouragement.",
-   "tradition": "Latter-day Saint"
-  },
-  {
-   "id": "a674f721-d7f3-4cee-a0a3-cfbdb8a4f8e0",
-   "showID": "https://anchor.fm/s/1007e38e8/podcast/rss",
-   "showTitle": "Latter Day Bridge Builders",
-   "title": "#047 -- Inside the World's Strangest LDS Mission (Ashton's Mission Experience Part 2)",
-   "summary": "Ashton returns for a deep, personal follow-up to our episode on his unique mission call to the Family and Church History Headquarters mission in Salt Lake, a mission staffed almost entirely by young elders with anxiety, autism, bipolar disorder, and other conditions.He opens up about the good: lifelong friendships, a moving story about scripture memorization, and discovering a long-lost aunt through Ancestry DNA. He also gets into the complicated, including the church's $60 million data deal with Ancestry.com and questions about who really benefits from missionary labor.Ashton shares two regre",
-   "audioURL": "https://anchor.fm/s/1007e38e8/podcast/play/124920679/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-30%2F430799157-44100-2-bbc18f4352ce2.mp3",
-   "published": "Sun, 30 Aug 2026 13:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c6/d4/ba/c6d4ba1b-bc2e-763a-4909-dfbdc8a11925/mza_12868451403844446626.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Personal LDS mission experience with honest reflection on faith and challenges.",
+   "reason": "Reflection on Psalms with scripture study focus for LDS listeners.",
    "tradition": "Latter-day Saint"
   },
   {
@@ -124,7 +124,7 @@
    "published": "Wed, 26 Aug 2026 16:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ea/05/6d/ea056d45-dc25-d4cf-b047-f73346588bfd/mza_1849728402116016312.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Therapist discusses religious trauma and leaving Christianity with personal insight.",
+   "reason": "Interview on religious trauma and leaving Christianity with therapeutic insights.",
    "tradition": "Christian"
   },
   {
@@ -137,7 +137,7 @@
    "published": "Sun, 30 Aug 2026 10:00:00 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/92/11/73/92117355-5488-9469-e9f4-9fecbc641055/mza_12612956465917186383.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discussion on priesthood callings and spiritual service in LDS context.",
+   "reason": "Discussion on answering God's call and priesthood authority in LDS context.",
    "tradition": "Latter-day Saint"
   }
  ],
@@ -153,6 +153,7 @@
   "Buzzsprout-19685770": "2026-09-03",
   "0b7ef512-9a5a-4884-bd23-5bc8d34412a4": "2026-09-03",
   "37a46b1c-a4d7-11f1-90f9-cb0d5293d905": "2026-09-03",
-  "9ae228da-b242-4c11-91da-b4b701486c4b": "2026-09-03"
+  "9ae228da-b242-4c11-91da-b4b701486c4b": "2026-09-03",
+  "postmormonpeace.podbean.com/ca8a94ec-446d-335d-8d10-d6f10ada5236": "2026-09-03"
  }
 }
