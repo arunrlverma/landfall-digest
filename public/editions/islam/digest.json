@@ -5,9 +5,9 @@
   "Muslim",
   "Interfaith"
  ],
- "generatedAt": "2026-09-03T06:54:52.781275+00:00",
+ "generatedAt": "2026-09-03T13:55:58.026380+00:00",
  "showsScanned": 1200,
- "candidates": 17,
+ "candidates": 20,
  "picks": [
   {
    "id": "03a50130-8553-4c8d-a505-65ccf1453c5c",
@@ -19,7 +19,7 @@
    "published": "Wed, 02 Sep 2026 19:17:07 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/0b/7c/ea0b7cee-add6-1a85-d2b0-54413306d6e1/mza_11881519252368760937.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Reflects on patience, divine testing, and faith's nature through Quranic verses and prophetic guidance.",
+   "reason": "Deep reflection on patience, divine testing, and faith's true nature from Quranic verses.",
    "tradition": "Muslim"
   },
   {
@@ -32,20 +32,20 @@
    "published": "Fri, 28 Aug 2026 11:06:45 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/0b/7c/ea0b7cee-add6-1a85-d2b0-54413306d6e1/mza_11881519252368760937.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores living with awareness of meeting Allah, focusing on love, humility, and spiritual attachment.",
+   "reason": "Explores living with awareness of meeting Allah and the spiritual dangers of forgetfulness.",
    "tradition": "Muslim"
   },
   {
-   "id": "6528faff-6596-4399-8537-d292f46e9547",
-   "showID": "https://media.rss.com/recitations-by-saud-al-shuraim/feed.xml",
-   "showTitle": "تلاوات سعود الشريم | Saud Al-Shuraim",
-   "title": "سورة البقرة محمد اللحيدان | Muhammad Al Luhaidan",
-   "summary": "Surah Al-Baqarah",
-   "audioURL": "https://content.rss.com/episodes/396345/3114920/recitations-by-saud-al-shuraim/2026_09_02_12_47_04_a5667562-434b-4887-a011-4ffd3b033626.mp3",
-   "published": "Wed, 02 Sep 2026 14:44:05 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d1/cf/38/d1cf3884-16eb-6f4d-05bb-6589b91ea1d1/mza_16320765743952166046.jpg/600x600bb.jpg",
+   "id": "https://www.qalaminstitute.org/?p=21036",
+   "showID": "http://feeds.feedburner.com/qalaminstitute/podcast",
+   "showTitle": "Qalam Institute Podcast",
+   "title": "The Tafsīr Podcast: EP 118 – Surah Al-Baqarah (Ayah 253)",
+   "summary": "The Tafsīr Podcast: EP 118 – Surah Al-Baqarah (Ayah 253) 100% of your donations today goes towards the means of providing accessible Islamic knowledge to people around the world: supportqalam.com. Like us on Facebook: facebook.com/qalaminstitute Follow us on Twitter: twitter.com/qalaminstitute Follow us on Instagram: instagram.com/qalaminstitute Subscribe on Youtube: youtube.com/user/qalaminstitute\nThe post The Tafsīr Podcast: EP 118 – Surah Al-Baqarah (Ayah 253) appeared first on Qalam Institute.",
+   "audioURL": "https://media.blubrry.com/qalam_institute/media.blubrry.com/qalam_institute/ins.blubrry.com/qalam_institute/baqarah_118.mp3",
+   "published": "Mon, 31 Aug 2026 11:08:06 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/1a/af/07/1aaf074c-dbe6-55c8-f0c8-5ee5a76c4b37/mza_7246222557614155479.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "A recitation and study of Surah Al-Baqarah, central to Islamic faith and reflection.",
+   "reason": "Detailed tafsir of a Qur'an verse offering rich reflection on meaning and guidance.",
    "tradition": "Muslim"
   },
   {
@@ -58,7 +58,20 @@
    "published": "Tue, 01 Sep 2026 09:54:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/05/b0/b105b03e-bf9f-4957-b21c-f3e1d554935e/mza_1692115180349785273.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Reflects deeply on Surah Al-Ma'un's ethical and spiritual teachings about the Hereafter and treatment of others.",
+   "reason": "Reflects deeply on Surah Al-Ma'un's ethical and spiritual lessons about faith and treatment of others.",
+   "tradition": "Muslim"
+  },
+  {
+   "id": "6a97ecd31d1d1a8a9d8fedb8",
+   "showID": "https://feeds.acast.com/public/shows/6a97df3966efea21e052fd55",
+   "showTitle": "The Holy Quran",
+   "title": "The Greatest Opening,What Is Surah Al-Fatihah",
+   "summary": "Surah Al-Fatihah is the first chapter of the Qur’an, the chapter that appears at the beginning of the Book of Allah and is present in the life of a Muslim every day.It is a surah that a Muslim hears during childhood, memorizes in youth, recites in every obligatory prayer, turns to in times of need, and keeps in the heart long after the Qur’an is closed.Though it contains only seven verses, its meaning reaches deeply into the foundations of Islamic faith.It speaks about Allah, His sovereignty, His mercy, His judgment, worship, dependence upon Him, guidance, righteousness, misguidance, accountab",
+   "audioURL": "https://sphinx.acast.com/p/open/s/6a97df3966efea21e052fd55/e/6a97ecd31d1d1a8a9d8fedb8/media.mp3",
+   "published": "Wed, 02 Sep 2026 00:32:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d6/b1/a7/d6b1a769-b3b7-b337-2f28-694a2cf4640b/mza_2839340425900877863.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores Surah Al-Fatihah's foundational meaning about Allah and faith.",
    "tradition": "Muslim"
   },
   {
@@ -71,7 +84,20 @@
    "published": "Tue, 01 Sep 2026 09:00:00 -0500",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e6/e1/f6/e6e1f60f-84b8-769a-6732-57c6f5e4b4db/mza_11724770298442534277.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Reflects on prophetic warnings about wealth, greed, and ethical community life in Islam.",
+   "reason": "Reflects on hadith about wealth, greed, and ethical concerns in the community.",
+   "tradition": "Muslim"
+  },
+  {
+   "id": "6a994604be98057961ec9bb1",
+   "showID": "https://feeds.acast.com/public/shows/6a97df3966efea21e052fd55",
+   "showTitle": "The Holy Quran",
+   "title": "AR-RAHMANIR-RAHIM,DISCOVERING THE VASTNESS OF ALLAH’S MERCY",
+   "summary": "After starting Surah Al-Fatihah with the powerful statement, “Alhamdulillahi Rabbil-‘alamin,” the believer is introduced to another important aspect of Allah’s greatness: His mercy.The heart has already been taught that Allah is the Lord of the worlds, the One who creates, maintains, rules, and holds full control over His creation.But the human heart needs more than just knowledge of power.It needs to understand how to interpret that power.It needs to know that the Lord who has absolute authority is also known for great mercy.Therefore, following “Rabbil-‘alamin,” Al-Fatihah includes the words",
+   "audioURL": "https://sphinx.acast.com/p/open/s/6a97df3966efea21e052fd55/e/6a994604be98057961ec9bb1/media.mp3",
+   "published": "Wed, 02 Sep 2026 22:03:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d6/b1/a7/d6b1a769-b3b7-b337-2f28-694a2cf4640b/mza_2839340425900877863.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores Allah's mercy as a key attribute shaping faith and understanding.",
    "tradition": "Muslim"
   },
   {
@@ -84,7 +110,7 @@
    "published": "Tue, 01 Sep 2026 10:09:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/05/b0/b105b03e-bf9f-4957-b21c-f3e1d554935e/mza_1692115180349785273.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explains Allah's Names Al-Ahad and Al-Wahid to deepen understanding of Tawheed and worship.",
+   "reason": "Explains the Names of Allah related to Tawheed and their theological implications.",
    "tradition": "Muslim"
   },
   {
@@ -97,7 +123,20 @@
    "published": "Fri, 28 Aug 2026 12:00:00 -0500",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e6/e1/f6/e6e1f60f-84b8-769a-6732-57c6f5e4b4db/mza_11724770298442534277.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Addresses trusting Allah amid financial hardship, reframing anxiety through tawakkul.",
+   "reason": "Reflects on trusting Allah amid financial hardship and reframing anxiety spiritually.",
+   "tradition": "Muslim"
+  },
+  {
+   "id": "Buzzsprout-19690544",
+   "showID": "https://rss.buzzsprout.com/2042303.rss",
+   "showTitle": "OnePath Podcast",
+   "title": "The Revival and Renewal of the Modern Muslim Ummah",
+   "summary": "There is a difference between a religion that is alive and a religion that is merely practiced. Dr. Samir Mahmoud has spent decades thinking about what separates the two. In this episode, he lays out one of the most rigorous and far-reaching frameworks for Islamic revival the channel has hosted.Dr. Samir Mahmoud is Academic Director of Usul Academy and Lecturer on the Diploma in Islamic Psychology at the Cambridge Muslim College. He was formerly Assistant Professor at the Lebanese American University. He holds a BA in Anthropology and Politics and an MA in Architectural History, Theory and Urb",
+   "audioURL": "https://www.buzzsprout.com/2042303/episodes/19690544-the-revival-and-renewal-of-the-modern-muslim-ummah.mp3",
+   "published": "Tue, 01 Sep 2026 17:00:00 +1000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/09/cc/7909ccdb-5f25-d40f-472f-7382e756cdc6/mza_4264158551294171115.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A deep framework for Islamic revival addressing faith's vitality and community renewal.",
    "tradition": "Muslim"
   },
   {
@@ -110,7 +149,7 @@
    "published": "2026-08-28",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bf/cf/bd/bfcfbde1-76e7-d894-fecd-9220b59716e6/mza_5234589999432850935.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Tafsir on a Quranic verse about curse and blessings, engaging with divine justice and life's trials.",
+   "reason": "Tafsir on a Quranic verse exploring divine curse and blessings behind hardship.",
    "tradition": "Muslim"
   },
   {
@@ -123,20 +162,20 @@
    "published": "Sun, 30 Aug 2026 13:01:21 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/06/ce/12/06ce126c-5755-ac4d-c7b0-b49f4ab73b68/mza_17685088730904696982.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses Hadith preservation and its importance for understanding Quran and Islamic ethics.",
+   "reason": "Discusses Hadith preservation and its importance for understanding the Quran.",
    "tradition": "Muslim"
   },
   {
-   "id": "Buzzsprout-19690544",
-   "showID": "https://rss.buzzsprout.com/2042303.rss",
-   "showTitle": "OnePath Podcast",
-   "title": "The Revival and Renewal of the Modern Muslim Ummah",
-   "summary": "There is a difference between a religion that is alive and a religion that is merely practiced. Dr. Samir Mahmoud has spent decades thinking about what separates the two. In this episode, he lays out one of the most rigorous and far-reaching frameworks for Islamic revival the channel has hosted.Dr. Samir Mahmoud is Academic Director of Usul Academy and Lecturer on the Diploma in Islamic Psychology at the Cambridge Muslim College. He was formerly Assistant Professor at the Lebanese American University. He holds a BA in Anthropology and Politics and an MA in Architectural History, Theory and Urb",
-   "audioURL": "https://www.buzzsprout.com/2042303/episodes/19690544-the-revival-and-renewal-of-the-modern-muslim-ummah.mp3",
-   "published": "Tue, 01 Sep 2026 17:00:00 +1000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/09/cc/7909ccdb-5f25-d40f-472f-7382e756cdc6/mza_4264158551294171115.jpg/600x600bb.jpg",
+   "id": "https://mhmic.org/?p=18433",
+   "showID": "http://feeds.feedburner.com/fajrreminders",
+   "showTitle": "Fajr Reminders - Mahmood Habib Masjid and Islamic Center",
+   "title": "Reclaim our mandate",
+   "summary": "Auto-generated transcript: Bismillāh ar-Raḥmān ar-Raḥīm. Al-ḥamdu lillāhi Rabbil-‘alāmīn. As-salātu wa-s-salāmu ‘ala ash-sharafi al-anbiyā’ wal-mursalīn Muḥammad wa-rasūlullāhi, wa ‘ala ālihi wa sahbihi wa sallam. Tasliman kathīran kathīra. Wa ma ba’du. My brothers and sisters, we were talking about the importance of *dhikr*. And Allāh subḥānahu wa ta’ālā said: وَذَكِّرْ إِنَّ الذِّكْرَ فَوَى الْمُؤْمِنِينَ (*wa dhakkir inna… Continue reading Reclaim our mandate",
+   "audioURL": "https://media.blubrry.com/fajrreminders/files.mhmic.org/Fajr-Reminders/2026/Reclaim-our-mandate.mp3",
+   "published": "Thu, 27 Aug 2026 04:04:23 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/83/9f/49/839f493d-1198-ed38-2031-cbbfac8aa64d/mza_14192312024546633902.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses Islamic revival and renewal, engaging with meaning and community ethics.",
+   "reason": "A reflective talk on the importance of dhikr and spiritual mandate in Islam.",
    "tradition": "Muslim"
   }
  ],
@@ -150,6 +189,10 @@
   "Buzzsprout-19717688": "2026-09-03",
   "http://www.qurangarden.com/audio/Session_630_An_Nisaa_Verse_47_c.mp3": "2026-09-03",
   "e369847f-88b1-4d10-9c2b-c2befab054e5": "2026-09-03",
-  "Buzzsprout-19690544": "2026-09-03"
+  "Buzzsprout-19690544": "2026-09-03",
+  "https://www.qalaminstitute.org/?p=21036": "2026-09-03",
+  "6a97ecd31d1d1a8a9d8fedb8": "2026-09-03",
+  "6a994604be98057961ec9bb1": "2026-09-03",
+  "https://mhmic.org/?p=18433": "2026-09-03"
  }
 }
