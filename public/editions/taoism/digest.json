@@ -6,10 +6,36 @@
   "Buddhist",
   "Interfaith"
  ],
- "generatedAt": "2026-09-03T07:33:24.773107+00:00",
+ "generatedAt": "2026-09-03T13:58:57.631137+00:00",
  "showsScanned": 1200,
- "candidates": 9,
+ "candidates": 11,
  "picks": [
+  {
+   "id": "cdce1c85-778a-4b48-af80-879e3e0ee181",
+   "showID": "https://rss.libsyn.com/shows/133274/destinations/816836.xml",
+   "showTitle": "Tao of Our understanding Alcohol Recovery Podcast",
+   "title": "The Chuang Tzu – Advising The Prince",
+   "summary": "\"Abandon your plan to be a 'loving and equitable ruler.' Try to respond to the demands of inner truth. Stop vexing yourself and your people with these obsessions! Your people will breathe easily at last. They will live, and war will end by itself!\"  — Thomas Merton, The Way of Chuang Tzu, page 140                                       GUS –  12StepRecovery.ai   30 Tools to Stay Sober All Year Round! Here is a link to an online version of the Tao Te Ching that we use in every meeting: https://ttc.tasuki.org/display:Year:1972,1988,1996,2004/section:80   You can download a free PDF of the latest ",
+   "audioURL": "https://media.blubrry.com/tao_recovery_stop_drinking/traffic.libsyn.com/secure/taorecovery/E423CHU55.mp3?dest-id=816836",
+   "published": "Tue, 01 Sep 2026 05:30:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/4e/73/87/4e7387b6-6858-bffa-f717-47a2387c1249/mza_17110028496846336016.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Explores Chuang Tzu's advice on leadership and living aligned with inner truth.",
+   "tradition": "Taoist"
+  },
+  {
+   "id": "Buzzsprout-19744845",
+   "showID": "https://rss.buzzsprout.com/2170403.rss",
+   "showTitle": "Zen Mind",
+   "title": "Sitting Like a Buddha",
+   "summary": "Where are you located in your body? Most of us, without ever having chosen it, sense ourselves somewhere behind the eyes. Zazen instructions typically bundle two separable practices: disidentifying from thinking, and relocating the self in the belly. Contemporary mindfulness often teaches the first and omits the second. Zen's own instruction is to sit as a buddha rather than in order to become one, trusting a monastic container to do that work silently; outside such a container, this talk suggests, it has to be made explicit. To that end it explores a Daoist qigong exercise, “Sun Ding Fut,” tr",
+   "audioURL": "https://www.buzzsprout.com/2170403/episodes/19744845-sitting-like-a-buddha.mp3",
+   "published": "Thu, 03 Sep 2026 04:00:00 -0600",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/97/ff/40/97ff40e4-d9be-12da-57f4-49fcb61bb5af/mza_9051396875810961188.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Guided Zen sitting instructions focusing on embodied presence and non-doing practice.",
+   "tradition": "Buddhist"
+  },
   {
    "id": "9744de32-8d5b-11f1-9320-373a9fdb14fa",
    "showID": "https://feeds.megaphone.fm/ADV3162807280",
@@ -20,7 +46,7 @@
    "published": "Sat, 29 Aug 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/86/4d/63/864d633a-c967-63c5-1049-cd4ee58cc25f/mza_13853411904170903695.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Provides a serious introduction to Confucius and his ethical philosophy.",
+   "reason": "Introduces Confucius' teachings as a path to social harmony and ethical living.",
    "tradition": "Taoist"
   },
   {
@@ -33,34 +59,8 @@
    "published": "Thu, 27 Aug 2026 21:38:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/6e/06/43/6e06439f-cdb7-9b92-9ee8-83258a7a4344/mza_3045561302320911164.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses insight and awakening in sitting meditation from a Chan/Zen perspective.",
+   "reason": "Discusses how insight arises naturally during Zen sitting without striving.",
    "tradition": "Buddhist"
-  },
-  {
-   "id": "20260827-Devon_Hase-IMSRC-like_the_river_flows_anatt_impermanence_and_the_freedom_of_no_fixed_address-99093.mp3",
-   "showID": "https://imsrc.dharmaseed.org/feeds/recordings/",
-   "showTitle": "Insight Meditation Society - Retreat Center: dharma talks and meditation instruction",
-   "title": "Devon Hase: Like the River Flows: Anattā, Impermanence, and the Freedom of no Fixed Address",
-   "summary": "(Insight Meditation Society - Retreat Center) A dharma talk exploring anattā through the five aggregates and the Anattālakkhaṇa Sutta, alongside Anāthapiṇḍika's deathbed teaching from Sāriputta. Weaves impermanence and death contemplation together with not-self - drawing on Thanissaro Bhikkhu's pragmatic (not metaphysical) framing of not-self - and closes with mettā as the natural fruit of a loosened, undefended heart.",
-   "audioURL": "https://dharmaseed.org//talks/99093/20260827-Devon_Hase-IMSRC-like_the_river_flows_anatt_impermanence_and_the_freedom_of_no_fixed_address-99093.mp3?rss=",
-   "published": "Thu, 27 Aug 2026 19:31:19 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/c8/a8/92/c8a8923b-adde-04b3-6102-2801a9f8b084/mza_13232119341504988893.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores impermanence, no-self, and death contemplation in Buddhist practice.",
-   "tradition": "Buddhist"
-  },
-  {
-   "id": "cdce1c85-778a-4b48-af80-879e3e0ee181",
-   "showID": "https://rss.libsyn.com/shows/133274/destinations/816836.xml",
-   "showTitle": "Tao of Our understanding Alcohol Recovery Podcast",
-   "title": "The Chuang Tzu – Advising The Prince",
-   "summary": "\"Abandon your plan to be a 'loving and equitable ruler.' Try to respond to the demands of inner truth. Stop vexing yourself and your people with these obsessions! Your people will breathe easily at last. They will live, and war will end by itself!\"  — Thomas Merton, The Way of Chuang Tzu, page 140                                       GUS –  12StepRecovery.ai   30 Tools to Stay Sober All Year Round! Here is a link to an online version of the Tao Te Ching that we use in every meeting: https://ttc.tasuki.org/display:Year:1972,1988,1996,2004/section:80   You can download a free PDF of the latest ",
-   "audioURL": "https://media.blubrry.com/tao_recovery_stop_drinking/traffic.libsyn.com/secure/taorecovery/E423CHU55.mp3?dest-id=816836",
-   "published": "Tue, 01 Sep 2026 05:30:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/4e/73/87/4e7387b6-6858-bffa-f717-47a2387c1249/mza_17110028496846336016.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Discusses inner truth and leadership through Chuang Tzu's Taoist perspective.",
-   "tradition": "Taoist"
   },
   {
    "id": "d04cafc1-3601-4577-9715-374af0c29a05",
@@ -72,7 +72,7 @@
    "published": "Thu, 27 Aug 2026 13:10:05 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/4e/73/87/4e7387b6-6858-bffa-f717-47a2387c1249/mza_17110028496846336016.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores love and apology with reference to Chuang Tzu and Taoist thought.",
+   "reason": "Discusses Chuang Tzu's view on love and authenticity in relationships.",
    "tradition": "Taoist"
   },
   {
@@ -85,7 +85,7 @@
    "published": "Mon, 31 Aug 2026 03:15:48 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/f4/c6/18/f4c6186e-3fa9-88f0-0c21-139bc06f38a0/mza_3444705071797950145.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines Zen contemplative states and awakening, relevant to Taoist-related Buddhism.",
+   "reason": "Examines Zen contemplative states and awakening with attention to ordinary mind.",
    "tradition": "Buddhist"
   }
  ],
@@ -95,6 +95,7 @@
   "20260827-Devon_Hase-IMSRC-like_the_river_flows_anatt_impermanence_and_the_freedom_of_no_fixed_address-99093.mp3": "2026-09-03",
   "cdce1c85-778a-4b48-af80-879e3e0ee181": "2026-09-03",
   "d04cafc1-3601-4577-9715-374af0c29a05": "2026-09-03",
-  "https://www.upaya.org/?p=109791": "2026-09-03"
+  "https://www.upaya.org/?p=109791": "2026-09-03",
+  "Buzzsprout-19744845": "2026-09-03"
  }
 }
