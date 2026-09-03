@@ -1,9 +1,22 @@
 {
  "version": 1,
- "generatedAt": "2026-09-03T17:43:08.351301+00:00",
+ "generatedAt": "2026-09-03T20:48:02.937547+00:00",
  "showsScanned": 400,
- "candidates": 48,
+ "candidates": 47,
  "picks": [
+  {
+   "id": "c16e253e-a5b5-11f1-be6a-fb0b34698b1a",
+   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
+   "showTitle": "Blurry Creatures",
+   "title": "EP: 460 What REALLY Happened On The Mountaintop with Robby Gallaty",
+   "summary": "The Transfiguration might be the strangest scene in the Gospels. Jesus climbs a mountain, his face lights up, and two men who have been dead for centuries, Moses and Elijah, are suddenly standing there talking with him. Most sermons rush right past it. Robby Gallaty wants to stop and sit in the weirdness. Robby is the senior pastor of Long Hollow Church in Hendersonville, Tennessee, the founder of Replicate Ministries, and a preacher with a PhD who has given his life to making disciples. And he says that to understand the Transfiguration, you have to understand the mountain. Set against Mount ",
+   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW6943190099.mp3",
+   "published": "Tue, 01 Sep 2026 21:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Stops to reflect on the mysterious Transfiguration scene in the Gospels.",
+   "tradition": "Christian"
+  },
   {
    "id": "1bed3f5c-a48c-11f1-9112-576bed9f9fb3",
    "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
@@ -14,7 +27,7 @@
    "published": "Mon, 31 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A serious theological conversation on predestination, free will, and spiritual growth.",
+   "reason": "Engages seriously with predestination, free will, and faith within Christian theology.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +40,7 @@
    "published": "Mon, 31 Aug 2026 13:00:31 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores chastity and mercy within Christian ethics and heresy.",
+   "reason": "Analyzes chastity and mercy in Christian ethics, challenging cultural views.",
    "tradition": "Catholic"
   },
   {
@@ -40,8 +53,21 @@
    "published": "Thu, 03 Sep 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Guided meditation on appreciative joy to share others' happiness.",
+   "reason": "Guided Buddhist meditation on joy and ethical appreciation of others' happiness.",
    "tradition": "Buddhist"
+  },
+  {
+   "id": "Buzzsprout-19707997",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "I Feel Scared and Excited Because I Thought Healing Myself Was the Goal—Now I Realize Healing the World Is — The Personal and Spiritual Awakening That Helped Me Discover What My Higher Power Wants Me to Do with the Rest of My Life",
+   "summary": "What if healing yourself was never the destination, but preparation for something greater?In this deeply personal episode of WE, Joe Mittiga shares how his journey from fear, addiction, trauma, and painful experiences led him to a powerful realization: healing isn’t only about understanding your past. It can become the wisdom, compassion, and strength you use to help someone else. Joe tackles the difficult subject of sexual abuse and generational trauma, sharing his own experiences and exploring how unresolved wounds can continue affecting relationships, self-worth, intimacy, and the next gene",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19707997-i-feel-scared-and-excited-because-i-thought-healing-myself-was-the-goal-now-i-realize-healing-the-world-is-the-personal-and-spiritual-awakening-that-helped-me-discover-what-my-higher-power-wants-me-to-do-with-t.mp3",
+   "published": "Thu, 27 Aug 2026 07:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Personal healing linked to broader spiritual purpose and compassion for others.",
+   "tradition": "Interfaith"
   },
   {
    "id": "Buzzsprout-19744414",
@@ -53,8 +79,21 @@
    "published": "Thu, 03 Sep 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Describes how inner healing transforms relationships and personal growth.",
+   "reason": "Healing internal wounds transforms relationships and spiritual life.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "7899106d-8f1c-4250-acf4-a86bd7288c74",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Jim was a Drug Dealer on the Streets of Chicago...Until God Showed Him His Future",
+   "summary": "\" You really become a new person. You become who you are, who you really are... It took me a little bit of time. It didn't happen overnight for me. But when I decided to change, when I really wanted to change...The other time that I tried to change, I didn't pull the Savior in much. It was, \"I'm gonna stop. I'm gonna change friends.\" This time was different. I really put the effort in to bring Him into my life.\"Tickets to the Come Back to Christ Event: www.comebackpodcast.org00:00 Rock Bottom00:48 Podcast Event Announcement07:34 Early Substance Experimentation11:26 Hard Drugs Arrests and Wake ",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/124822463/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-27%2F430662293-44100-2-6943822df66e6.m4a",
+   "published": "Sun, 30 Aug 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Personal transformation through faith and surrender to God.",
+   "tradition": "Christian"
   },
   {
    "id": "c149a08d-cadb-40fd-bc11-b4b401202023",
@@ -66,8 +105,21 @@
    "published": "Fri, 28 Aug 2026 17:40:17 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discussion linking quantum physics and afterlife claims with meditation practice.",
+   "reason": "Discusses consciousness after death with a physics lens but leans on spiritual claims.",
    "tradition": "Secular"
+  },
+  {
+   "id": "e5d0f216ddafe594d29b64b99aca4628",
+   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
+   "showTitle": "Becoming Something with Jonathan Pokluda",
+   "title": "Episode 387: How to Make the Most of Your Singleness",
+   "summary": "<p>In this episode, a listener calls in with a question a lot of single Christians are quietly asking — am I supposed to be spending this season preparing for marriage, or is that missing the point entirely? JP, Kathy, and Nate unpack what it actually looks like to embrace singleness as a daughter of God rather than just a waiting room for a relationship. If you're single and trying to figure out what this season is for, this one's for you!</p>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4LzliNmYwOGQwLTE0MWUtNGVkZi05MTFmLThmYjlmNzE2NzgxNS9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=cv42gxq",
+   "published": "Mon, 31 Aug 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Considers singleness as a spiritual season beyond just preparation for marriage.",
+   "tradition": "Christian"
   },
   {
    "id": "7202564f-4d19-4c73-b309-59c8c990275b",
@@ -80,32 +132,6 @@
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 6,
    "reason": "Addresses feelings of divine abandonment and spiritual discernment.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "Buzzsprout-19707997",
-   "showID": "https://rss.buzzsprout.com/2547586.rss",
-   "showTitle": "We!",
-   "title": "I Feel Scared and Excited Because I Thought Healing Myself Was the Goal—Now I Realize Healing the World Is — The Personal and Spiritual Awakening That Helped Me Discover What My Higher Power Wants Me to Do with the Rest of My Life",
-   "summary": "What if healing yourself was never the destination, but preparation for something greater?In this deeply personal episode of WE, Joe Mittiga shares how his journey from fear, addiction, trauma, and painful experiences led him to a powerful realization: healing isn’t only about understanding your past. It can become the wisdom, compassion, and strength you use to help someone else. Joe tackles the difficult subject of sexual abuse and generational trauma, sharing his own experiences and exploring how unresolved wounds can continue affecting relationships, self-worth, intimacy, and the next gene",
-   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19707997-i-feel-scared-and-excited-because-i-thought-healing-myself-was-the-goal-now-i-realize-healing-the-world-is-the-personal-and-spiritual-awakening-that-helped-me-discover-what-my-higher-power-wants-me-to-do-with-t.mp3",
-   "published": "Thu, 27 Aug 2026 07:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Shares a personal journey from trauma to a broader spiritual mission of healing.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "c16e253e-a5b5-11f1-be6a-fb0b34698b1a",
-   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
-   "showTitle": "Blurry Creatures",
-   "title": "EP: 460 What REALLY Happened On The Mountaintop with Robby Gallaty",
-   "summary": "The Transfiguration might be the strangest scene in the Gospels. Jesus climbs a mountain, his face lights up, and two men who have been dead for centuries, Moses and Elijah, are suddenly standing there talking with him. Most sermons rush right past it. Robby Gallaty wants to stop and sit in the weirdness. Robby is the senior pastor of Long Hollow Church in Hendersonville, Tennessee, the founder of Replicate Ministries, and a preacher with a PhD who has given his life to making disciples. And he says that to understand the Transfiguration, you have to understand the mountain. Set against Mount ",
-   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW6943190099.mp3",
-   "published": "Tue, 01 Sep 2026 21:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Stops to reflect on the mysterious Transfiguration event in the Gospels.",
    "tradition": "Christian"
   }
  ],
