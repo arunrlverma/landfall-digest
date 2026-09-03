@@ -6,9 +6,9 @@
   "Interfaith",
   "Secular"
  ],
- "generatedAt": "2026-09-03T07:21:15.754398+00:00",
+ "generatedAt": "2026-09-03T13:57:56.654101+00:00",
  "showsScanned": 1200,
- "candidates": 46,
+ "candidates": 44,
  "picks": [
   {
    "id": "20260827-Devon_Hase-IMSRC-like_the_river_flows_anatt_impermanence_and_the_freedom_of_no_fixed_address-99093.mp3",
@@ -20,7 +20,7 @@
    "published": "Thu, 27 Aug 2026 19:31:19 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/c8/a8/92/c8a8923b-adde-04b3-6102-2801a9f8b084/mza_13232119341504988893.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Dharma talk deeply exploring not-self, impermanence, and death contemplation with Buddhist sutta references.",
+   "reason": "Dharma talk on not-self, impermanence, and death contemplation with metta as outcome.",
    "tradition": "Buddhist"
   },
   {
@@ -33,33 +33,20 @@
    "published": "Fri, 28 Aug 2026 03:23:45 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/6a/1f/a6/6a1fa6c8-693c-6f91-fe53-51defb4c3871/mza_6076062723711590562.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "A deep talk and guided meditation on Dōgen's teaching of non-thinking.",
+   "reason": "Guided meditation and talk on non-thinking from a Zen perspective.",
    "tradition": "Buddhist"
   },
   {
-   "id": "substack:post:213616487",
-   "showID": "https://api.substack.com/feed/podcast/4498158.rss",
-   "showTitle": "Buddhist Geeks",
-   "title": "Concentrating More & More on Less & Less",
-   "summary": "Brian Newman opens a twelve-week jhāna course by parsing five lines of sutta into a whole curriculum—a first month of falling in love with the breath, the jhānic arc where less effort brings subtler pleasure, and the claim that any jhāna, even boundless consciousness, can be entered from a cold start once you learn how.Join Brian Newman for a live cohort of this training (or listen to the recordings)—beginning this Wednesday, September 2nd—in the PragmaticDharma.app.  It’s available for all Hardcore members (@ $20/mo).💬 TranscriptBrian Newman: So we have 12 weeks to essentially parse the parag",
-   "audioURL": "https://api.substack.com/feed/podcast/213616487/5ccde36ccdae8795ae5033dad618d662.mp3",
-   "published": "Mon, 31 Aug 2026 21:49:35 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a8/01/1a/a8011a9d-0b3a-4689-d330-f420666d74e3/mza_16262193906402491861.jpeg/600x600bb.jpg",
+   "id": "9c27f583-751b-438c-9b38-c162c5e07a99",
+   "showID": "https://anchor.fm/s/9a6527d8/podcast/rss",
+   "showTitle": "Dhammagiri Buddhist Podcasts",
+   "title": "Knowing, Not Interfering | Insight through Awareness | Vipassana | Ajahn Dhammasiha",
+   "summary": "To develop insight, vipassana, we have to learn to observe uninterested. We have to be like an objective researcher. We know what we experience, without reacting, interfering and manipulating. We shift our identification towards the 'Knower', rather than the 'Doer'. What we take up as object of our observation, we no longer identify with. We just mindfully know the emotion we're experiencing, we don't have to react to it. It's like watching a movie, and knowing that we're watching a movie. We're not getting sucked into the action, we're aware that we're just looking at images of actors project",
+   "audioURL": "https://anchor.fm/s/9a6527d8/podcast/play/124837527/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-27%2Fba263962-1cf3-5188-0d0b-9a3e26f817fb.m4a",
+   "published": "Fri, 28 Aug 2026 08:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/df/03/3b/df033b4d-8d98-9049-c1f4-56db323f6fe4/mza_11593078416236913249.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A detailed course on jhāna meditation based on Buddhist sutta teachings.",
-   "tradition": "Buddhist"
-  },
-  {
-   "id": "https://amaravati.org/?post_type=fpmtp_audio&p=41442",
-   "showID": "https://amaravati.org/speakers/ajahn-amaro/feed/",
-   "showTitle": "Ajahn Amaro Podcast by Amaravati",
-   "title": "The Body Knows",
-   "summary": "Luang Por Amaro gave this Sunday Talk, along with a question-and-answer session, on 16 August 2026 at Amaravati Buddhist Monastery in the UK.\nThe post The Body Knows appeared first on Amaravati Buddhist Monastery.",
-   "audioURL": "https://cdn.amaravati.org/wp-content/uploads/2025/10/26/Sunday_Talks_2026_03_Ajahn_Amaro_-_The_Body_Knows.mp3",
-   "published": "Wed, 26 Aug 2026 19:00:38 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/d4/5e/77/d45e77f8-0fde-66aa-cf5c-c64a8ff46b74/mza_10275992435145428076.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "A detailed Buddhist talk on embodied awareness and meditation practice.",
+   "reason": "Vipassana teaching on observing experience without reaction or identification.",
    "tradition": "Buddhist"
   },
   {
@@ -72,20 +59,20 @@
    "published": "Sun, 30 Aug 2026 16:47:28 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/a6/33/69a63337-b50e-d495-2939-5ccddb1b65c2/mza_16753194847160634311.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Practical guidance on cultivating virtue within the Buddha's Threefold Path practice.",
+   "reason": "Practical guidance on cultivating virtue within the Buddha's Threefold Path.",
    "tradition": "Buddhist"
   },
   {
-   "id": "gid://art19-episode-locator/V0/MvqdxWpTPtt6O9m3y4Xk3BGyYoNkVBNVEcdZPEyL_FE",
-   "showID": "https://rss.art19.com/heart-wisdom-with-jack-kornfield",
-   "showTitle": "Heart Wisdom with Jack Kornfield",
-   "title": "Ep. 330 – Becoming Kinder: 49 Years of Friendship, Practice, and Insight with Sylvia Boorstein",
-   "summary": "Celebrating Sylvia Boorstein’s 90th birthday, Jack and Sylvia reflect on 49 years of friendship, meditation, and Dharma practice—and how awakening ultimately expresses itself through kindness, connection, and a willingness to stay amazed.Today’s podcast is brought to you by BetterHelp. Give online therapy a try at betterhelp.com/heartwisdom and get on your way to being your best self.This week on Heart Wisdom, Jack Kornfield shares:Sylvia’s journey through the Buddhist teachings of impermanence, suffering, and selflessness, and how intellectual understanding gradually becomes lived realization",
-   "audioURL": "https://pscrb.fm/rss/p/rss.art19.com/episodes/19db5d64-2980-43de-abe8-558f3f293246.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Fri, 28 Aug 2026 01:40:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ca/22/c3/ca22c34b-3e6a-197d-995e-5bac3108a50f/mza_11576946104671885271.jpeg/600x600bb.jpg",
+   "id": "Buzzsprout-19744845",
+   "showID": "https://rss.buzzsprout.com/2170403.rss",
+   "showTitle": "Zen Mind",
+   "title": "Sitting Like a Buddha",
+   "summary": "Where are you located in your body? Most of us, without ever having chosen it, sense ourselves somewhere behind the eyes. Zazen instructions typically bundle two separable practices: disidentifying from thinking, and relocating the self in the belly. Contemporary mindfulness often teaches the first and omits the second. Zen's own instruction is to sit as a buddha rather than in order to become one, trusting a monastic container to do that work silently; outside such a container, this talk suggests, it has to be made explicit. To that end it explores a Daoist qigong exercise, “Sun Ding Fut,” tr",
+   "audioURL": "https://www.buzzsprout.com/2170403/episodes/19744845-sitting-like-a-buddha.mp3",
+   "published": "Thu, 03 Sep 2026 04:00:00 -0600",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/97/ff/40/97ff40e4-d9be-12da-57f4-49fcb61bb5af/mza_9051396875810961188.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Reflection on Buddhist impermanence and kindness through decades of meditation and friendship.",
+   "reason": "Zen instruction on sitting meditation focusing on self-location and disidentification.",
    "tradition": "Buddhist"
   },
   {
@@ -98,7 +85,33 @@
    "published": "Thu, 27 Aug 2026 21:38:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/6e/06/43/6e06439f-cdb7-9b92-9ee8-83258a7a4344/mza_3045561302320911164.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Insight into how Zen meditation leads to awakening without striving or conceptualizing enlightenment.",
+   "reason": "Explores how insight arises naturally during Zazen without striving.",
+   "tradition": "Buddhist"
+  },
+  {
+   "id": "a3ce3902-6e5b-4223-b5cc-1588871f5626",
+   "showID": "https://anchor.fm/s/1377dbf8/podcast/rss",
+   "showTitle": "Daily Wisdom - Walking The Path with The Buddha",
+   "title": "Ep. 1055 - (Pali Canon Study Group) - Breathing Mindfulness Meditation - Volume 7 - (Chapter 1-10)",
+   "summary": "(Pali Canon Study Group) - Breathing Mindfulness Meditation - Volume 7 - (Chapter 1-10)Explore The Teachings of The Fully Perfectly Enlightened Buddha through \"The Words of The Buddha\" Book Series in the Pali Canon in English Study Group.To learn more about this program, visit this link:⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bit.ly/PaliCanonStudyGroup⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Using The Words of The Buddha book series, this program is offered to guide you in learning and practicing The Teachings of The Buddha on The Path to Enlightenment.You can access The Words of The Buddha Books Series using this link.⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+   "audioURL": "https://anchor.fm/s/1377dbf8/podcast/play/124262131/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-15%2F26c57c70-7a03-1380-8d66-dc465ab0e0ad.mp3",
+   "published": "Mon, 31 Aug 2026 14:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/38/17/41/3817414a-7158-ed56-1d38-b9ffd91e5562/mza_12100375165206266325.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Study group on Pali Canon teachings focusing on breathing mindfulness meditation.",
+   "tradition": "Buddhist"
+  },
+  {
+   "id": "9cfea823-c6e5-4d4b-9f72-6b1cd8949a12",
+   "showID": "https://feeds.simplecast.com/x_Lkv5S7",
+   "showTitle": "Wild Heart Meditation Center",
+   "title": "The First Precept Is Not a Rule - It's a Practice of Freedom",
+   "summary": "In this talk, Jessica Gibbons explores the first Buddhist precept through the lens of intention, harm, and our responsibility to all living beings. She explains how non-harming is not a rigid moral rule, but a living practice of mindfulness, discernment, and compassion that helps us reduce suffering in daily life.\n1 of 5 in a series. \nThis talk was given by Jessica Gibbons at Wild Heart Meditation Center in Nashville, TN. \nSupport Wild Heart Meditation Center here: https://www.wildheartmeditationcenter.org/donate\nEnjoy!  \n \nWild Heart Meditation Center in a non-profit Buddhist community based ",
+   "audioURL": "https://cdn.simplecast.com/media/audio/transcoded/60684b8f-cfa3-4651-ba1d-d4b6de54d3a1/e9e3c82b-3ef9-4992-99f4-9e53b2b90ff2/episodes/audio/group/b04be147-93e6-44a3-a3cf-d0eadd25f3ff/group-item/5eebc2a0-4c88-40cb-a55e-fc9ea9153532/128_default_tc.mp3?aid=rss_feed&amp;feed=x_Lkv5S7",
+   "published": "Mon, 31 Aug 2026 14:15:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/8f/05/53/8f055331-a0ec-e54e-9e23-01831eae995a/mza_15010072427408165979.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores the first precept as a mindful, compassionate practice beyond rigid rules.",
    "tradition": "Buddhist"
   },
   {
@@ -111,20 +124,20 @@
    "published": "Mon, 31 Aug 2026 20:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/df/03/3b/df033b4d-8d98-9049-c1f4-56db323f6fe4/mza_11593078416236913249.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Clarifies the Buddhist concept of Nirvana beyond concepts, focusing on what it is not.",
+   "reason": "Clarifies the nature of Nirvana beyond concepts, focusing on what it is not.",
    "tradition": "Buddhist"
   },
   {
-   "id": "084c78ed-6520-49b7-99c1-580d0d77e1e9",
-   "showID": "https://media.rss.com/dharmaand/feed.xml",
-   "showTitle": "Dharma &",
-   "title": "The Dharma of Chasing Followers",
-   "summary": "A talk on the dharma of chasing followers: fame, failure, and the fear of being nobody. The wish to be seen, to count, to leave a mark — and what happens when we meet it with awareness instead of feeding it metrics.Recorded at Downtown Dharma DC, August 2026.Texts & references: Khemaka Sutta (SN 22.89) — suttacentral.net/sn22.89 · The dung beetle (SN 17.5) — suttacentral.net/sn17.5 · Iti 26 on giving · D.W. Winnicott on mirroring · Erik Erikson, generativity and integrity",
-   "audioURL": "https://content.rss.com/episodes/397965/3112492/dharmaand/2026_09_01_14_11_10_27fb597f-0cca-4af7-bfac-838e947a56c4.mp3",
-   "published": "Tue, 01 Sep 2026 17:52:35 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/06/f9/19/06f91976-a580-2b28-fa55-c8e7e65158a1/mza_14255205092655925985.jpg/600x600bb.jpg",
+   "id": "6a96f67466efea21e002f3b8",
+   "showID": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
+   "showTitle": "TED Talks Daily",
+   "title": "How to tap into your awareness -- and why meditation is easier than you think | Yongey Mingyur Rinpoche",
+   "summary": "Meditation asks you to slip into a state of serene presence. But why does something that sounds effortless often feel so difficult? In this lighthearted invitation, spiritual leader Yongey Mingyur Rinpoche shares three steps to help you accept the ebb and flow of your emotions and learn to meditate anytime, anywhere.(This episode originally aired in 2022.) Hosted on Acast. See acast.com/privacy for more information.",
+   "audioURL": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a96f67466efea21e002f3b8/media.mp3",
+   "published": "Wed, 02 Sep 2026 15:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores Buddhist texts on self-worth, awareness, and generativity in a dharma talk.",
+   "reason": "Yongey Mingyur Rinpoche offers practical meditation steps rooted in Tibetan Buddhism.",
    "tradition": "Buddhist"
   },
   {
@@ -137,20 +150,7 @@
    "published": "Thu, 27 Aug 2026 18:04:34 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/10/53/9f/10539f00-a2c1-b592-6b10-de4aeb74ccd4/mza_8198033352469678794.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Dzogchen retreat teachings on non-duality and Buddhist view, meditation, and activity.",
-   "tradition": "Buddhist"
-  },
-  {
-   "id": "substack:post:212886111",
-   "showID": "https://api.substack.com/feed/podcast/1656325.rss",
-   "showTitle": "Earth Dreams: Zen Buddhism and the Soul of the World",
-   "title": "All is blessed, all is blessed",
-   "summary": "Greetings Friends,I am returning from the Grasses, Trees and Great Earth Sesshin at Great Vow Zen Monastery. An outdoor sesshin I have had the deep pleasure of co-leading for the past six years. During the sesshin we practiced various ways of listening to the dharma of the natural world, including:* Hearing with the eyes, heart, whole body. * Letting ourselves be seen by the sky, ferns, rocks and queen ann’s lace. * Becoming tree, black-berry, forest, ground. The great earth and sky speak the dharma through their constancy, reminding us that we too belong to this world, that our presence is me",
-   "audioURL": "https://api.substack.com/feed/podcast/212886111/46298dae2e5da83c177b7c67fe3b839d.mp3",
-   "published": "Thu, 27 Aug 2026 18:12:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/6a/13/e16a13b3-5656-ea61-5c5a-0a261e1da18f/mza_8592461142664695731.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Zen sesshin reflections on deep listening and connection with nature's dharma.",
+   "reason": "Dzogchen teachings on non-duality and Buddhist view, meditation, and activity.",
    "tradition": "Buddhist"
   },
   {
@@ -163,7 +163,7 @@
    "published": "Fri, 28 Aug 2026 17:19:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/dd/89/61/dd89614d-ce2d-a64b-4967-1554453252f3/mza_16493943947076230054.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Zen dharma talk on a classic koan about the supreme way and living fully.",
+   "reason": "Zen Roshi discusses a koan about the supreme way and living.",
    "tradition": "Buddhist"
   },
   {
@@ -176,33 +176,20 @@
    "published": "Tue, 01 Sep 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/68/cc/8468ccef-c909-08ae-928f-4399704cc40f/mza_5456938490866970430.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Tibetan Buddhist teacher recounts transformative experience and insight into life.",
+   "reason": "Tibetan Buddhist teacher recounts transformative life and death experience.",
    "tradition": "Buddhist"
   },
   {
-   "id": "20260830-Pawan_Bareja-SR-dharma_builds_resilience-99178.mp3",
-   "showID": "https://dharmaseed.org/feeds/recordings/",
-   "showTitle": "Dharma Seed: dharma talks and meditation instruction",
-   "title": "Pawan Bareja: Dharma Builds Resilience",
-   "summary": "(Spirit Rock Meditation Center)",
-   "audioURL": "https://dharmaseed.org//talks/99178/20260830-Pawan_Bareja-SR-dharma_builds_resilience-99178.mp3?rss=",
-   "published": "Sun, 30 Aug 2026 09:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/34/08/64/34086480-0e3f-de74-0a6f-de2b12e84f8d/mza_3036964948055035950.jpg/600x600bb.jpg",
+   "id": "Buzzsprout-19710894",
+   "showID": "https://rss.buzzsprout.com/2046795.rss",
+   "showTitle": "Shasta Abbey",
+   "title": "The Scripture of the Buddha’s Last Teachings Retreat, Talk 4: Impermanence, Modesty & Anger",
+   "summary": "Rev. Ando Mueller leads a retreat during the week of August 16, 2026 on the Scripture of the Buddha's Last Teaching. As the Buddha lay upon his death bed, he gave one final sermon to encourage his disciples, both monastic and lay, to persevere in their training and find the Truth for themselves. His very final words, \"quickly seek your liberation, be a lamp unto yourself, always seek to get back on the path,\" remains a rallying cry to this day.  YouTube: https://youtu.be/zy9hb-IeHJk?list=PLefIv_SMkaxM7znyIQ1Rl2W6HfwL8d2YETwitter/X: @shastaabbeycontact: podcast@shastaabbey.org",
+   "audioURL": "https://www.buzzsprout.com/2046795/episodes/19710894-the-scripture-of-the-buddha-s-last-teachings-retreat-talk-4-impermanence-modesty-anger.mp3",
+   "published": "Sun, 30 Aug 2026 00:00:00 -0700",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/05/08/7e0508dc-5fe8-3ad1-7aac-66c13397a306/mza_13430785847872303085.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A dharma talk on resilience grounded in Buddhist meditation practice.",
-   "tradition": "Buddhist"
-  },
-  {
-   "id": "Buzzsprout-19732273",
-   "showID": "https://rss.buzzsprout.com/220274.rss",
-   "showTitle": "Undefended Dharma with Mary Stancavage",
-   "title": "Stay in the Now Now",
-   "summary": "In this dharma reflection Mary discusses the idea we so often carry about the now, the future and the past and how easy it is to be caught up in a world that is somewhere else. Discussing various mental states, meditation invites us to identify these states in order to liberate our minds from attachment.Recorded August 27, 2026 in the virtual worldLet Go by Martine BatchelorSend me a text with any questions or comments! Include your name and email if you would like a response - it's not included automatically. Thanks.Visit Mary's website for more info on classes and teachings.",
-   "audioURL": "https://www.buzzsprout.com/220274/episodes/19732273-stay-in-the-now-now.mp3",
-   "published": "Mon, 31 Aug 2026 17:00:00 -0700",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/19/e6/1d/19e61dcb-3b79-d2d9-fee9-e7944b58e3a1/mza_3222026271437215675.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Reflection on mindfulness of present moment and mental states to free the mind.",
+   "reason": "Retreat talk on impermanence and the Buddha's last teachings.",
    "tradition": "Buddhist"
   },
   {
@@ -215,7 +202,7 @@
    "published": "Tue, 01 Sep 2026 07:30:00 -0700",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/57/d2/0e/57d20e3d-e823-f897-9b47-1ca1a51c508e/mza_6971474981935518916.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Talk on not-knowing and intimacy from a Buddhist insight meditation perspective.",
+   "reason": "Insight meditation talk on not knowing and intimacy in interpersonal life.",
    "tradition": "Buddhist"
   },
   {
@@ -228,20 +215,7 @@
    "published": "Tue, 01 Sep 2026 16:29:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/26/3a/2e/263a2e31-d507-fb1d-45ff-fb9326976f27/mza_3664431466305184281.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Zen story and teaching emphasizing presence and letting go in this moment.",
-   "tradition": "Buddhist"
-  },
-  {
-   "id": "9c27f583-751b-438c-9b38-c162c5e07a99",
-   "showID": "https://anchor.fm/s/9a6527d8/podcast/rss",
-   "showTitle": "Dhammagiri Buddhist Podcasts",
-   "title": "Knowing, Not Interfering | Insight through Awareness | Vipassana | Ajahn Dhammasiha",
-   "summary": "To develop insight, vipassana, we have to learn to observe uninterested. We have to be like an objective researcher. We know what we experience, without reacting, interfering and manipulating. We shift our identification towards the 'Knower', rather than the 'Doer'. What we take up as object of our observation, we no longer identify with. We just mindfully know the emotion we're experiencing, we don't have to react to it. It's like watching a movie, and knowing that we're watching a movie. We're not getting sucked into the action, we're aware that we're just looking at images of actors project",
-   "audioURL": "https://anchor.fm/s/9a6527d8/podcast/play/124837527/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-27%2Fba263962-1cf3-5188-0d0b-9a3e26f817fb.m4a",
-   "published": "Fri, 28 Aug 2026 08:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/df/03/3b/df033b4d-8d98-9049-c1f4-56db323f6fe4/mza_11593078416236913249.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Vipassana teaching on observing experience without interference or reaction.",
+   "reason": "Zen teacher shares story illustrating presence and letting go in life.",
    "tradition": "Buddhist"
   },
   {
@@ -254,7 +228,7 @@
    "published": "Thu, 27 Aug 2026 16:09:42 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/58/d4/e858d4f7-0dd0-bd8f-82b8-ec3c9db9625c/mza_6566563956948496095.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores Buddhist forgiveness practice focusing on changing one's own mind.",
+   "reason": "Explores Buddhist forgiveness practice beyond apology and blame.",
    "tradition": "Buddhist"
   },
   {
@@ -267,20 +241,7 @@
    "published": "Sun, 30 Aug 2026 11:00:00 -0700",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1c/5b/f5/1c5bf5de-d314-398f-4406-3edfc87ebdb1/mza_6039928345215328745.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores loving-kindness (metta) orientation in daily life.",
-   "tradition": "Buddhist"
-  },
-  {
-   "id": "https://amaravati.org/?post_type=fpmtp_audio&p=41442",
-   "showID": "https://feeds.amaravati.org/category/teachings/audio/dhamma-talks/feed/",
-   "showTitle": "Amaravati Podcast | Latest Dhamma Talks",
-   "title": "The Body Knows",
-   "summary": "Luang Por Amaro gave this Sunday Talk, along with a question-and-answer session, on 16 August 2026 at Amaravati Buddhist Monastery in the UK.\nThe post The Body Knows appeared first on Amaravati Buddhist Monastery.",
-   "audioURL": "https://cdn.amaravati.org/wp-content/uploads/2025/10/26/Sunday_Talks_2026_03_Ajahn_Amaro_-_The_Body_Knows.mp3",
-   "published": "Wed, 26 Aug 2026 19:00:38 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/a8/93/a3/a893a321-f71a-d6f5-b131-62b1cc26b5c5/mza_10856235358130275617.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Talk and Q&A on bodily awareness from a Theravāda Buddhist monastery.",
+   "reason": "Talk on orienting to loving-kindness (metta) in daily life.",
    "tradition": "Buddhist"
   },
   {
@@ -293,7 +254,7 @@
    "published": "Sun, 30 Aug 2026 22:53:06 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/a6/33/69a63337-b50e-d495-2939-5ccddb1b65c2/mza_16753194847160634311.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explains the unique approach of Secular Buddhist Tradition and its presentation of Buddha's teachings.",
+   "reason": "Explains the unique approach of Secular Buddhism and its presentation of the Buddha's teachings.",
    "tradition": "Buddhist"
   },
   {
@@ -306,7 +267,20 @@
    "published": "Thu, 03 Sep 2026 12:36:57 +0800",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts4/v4/d0/54/aa/d054aa99-2166-2393-ef38-e50ea4ed6fb2/mza_1193951763501235194.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Teaching and practice of the Four Brahmaviharas meditation and loving-kindness in a Buddhist context.",
+   "reason": "Teaching and meditation on the Four Brahmaviharas including metta practice.",
+   "tradition": "Buddhist"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/MvqdxWpTPtt6O9m3y4Xk3BGyYoNkVBNVEcdZPEyL_FE",
+   "showID": "https://rss.art19.com/heart-wisdom-with-jack-kornfield",
+   "showTitle": "Heart Wisdom with Jack Kornfield",
+   "title": "Ep. 330 – Becoming Kinder: 49 Years of Friendship, Practice, and Insight with Sylvia Boorstein",
+   "summary": "Celebrating Sylvia Boorstein’s 90th birthday, Jack and Sylvia reflect on 49 years of friendship, meditation, and Dharma practice—and how awakening ultimately expresses itself through kindness, connection, and a willingness to stay amazed.Today’s podcast is brought to you by BetterHelp. Give online therapy a try at betterhelp.com/heartwisdom and get on your way to being your best self.This week on Heart Wisdom, Jack Kornfield shares:Sylvia’s journey through the Buddhist teachings of impermanence, suffering, and selflessness, and how intellectual understanding gradually becomes lived realization",
+   "audioURL": "https://pscrb.fm/rss/p/rss.art19.com/episodes/19db5d64-2980-43de-abe8-558f3f293246.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Fri, 28 Aug 2026 01:40:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ca/22/c3/ca22c34b-3e6a-197d-995e-5bac3108a50f/mza_11576946104671885271.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Reflection on Buddhist practice and kindness from a longtime Dharma friendship.",
    "tradition": "Buddhist"
   },
   {
@@ -319,7 +293,7 @@
    "published": "Mon, 31 Aug 2026 03:15:48 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/f4/c6/18/f4c6186e-3fa9-88f0-0c21-139bc06f38a0/mza_3444705071797950145.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores Zen contemplative states and awakening with a focus on meditation experience.",
+   "reason": "Explores contemplative experiences and awakening in Zen practice.",
    "tradition": "Buddhist"
   },
   {
@@ -332,7 +306,33 @@
    "published": "Thu, 27 Aug 2026 22:15:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/14/11/74/14117440-a15a-26fd-3ac6-05377165a5b0/mza_17345665314599770478.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A lifetime reflection on Buddhist path and challenging perceptions of reality and addiction.",
+   "reason": "Discussion on Buddhist path, reality, and working with habits and addictions.",
+   "tradition": "Buddhist"
+  },
+  {
+   "id": "Buzzsprout-19635685",
+   "showID": "https://rss.buzzsprout.com/721908.rss",
+   "showTitle": "How to Train a Happy Mind",
+   "title": "Guided Meditation on Love #26 [rebroadcast]",
+   "summary": "A guided meditation on love, or loving-kindness, the expansive form of love, wishing happiness not only to friends and family but to all beings everywhere, including our enemies. In the language of Buddhism, it is metta or maitri.Episode 26. Guided Meditation on LoveIf you’d like to practice with others and bring these ideas into your life, join our weekly meditation community with Scott.🙏 Help us stay ad-free📲 Follow us on socials",
+   "audioURL": "https://www.buzzsprout.com/721908/episodes/19635685-guided-meditation-on-love-26-rebroadcast.mp3",
+   "published": "Tue, 01 Sep 2026 02:00:00 -0700",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b7/f4/3a/b7f43abc-0823-83ae-7484-d5b2a4c32b27/mza_2668699602516458879.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Guided loving-kindness meditation cultivating expansive goodwill to all beings.",
+   "tradition": "Buddhist"
+  },
+  {
+   "id": "https://audiodharma.us-east-1.linodeobjects.com/talks/26198/20260902-matthew_brensilver-imc-dharmette_the_intolerance_of_suffering_is_not_compassion.mp3",
+   "showID": "http://feeds.feedburner.com/audiodharma",
+   "showTitle": "AudioDharma",
+   "title": "Dharmette: Dharma in Interpersonal Life; 3/5 The Intolerance of Suffering is not Compassion",
+   "summary": "This talk was given by Matthew Brensilver on 2026.09.02 at the Insight Meditation Center in Redwood City, CA.\n*******\nVideo of this talk is available at: https://www.youtube.com/live/TXTvvQuCkic?si=GE19nbQOf0v8CQOU&amp;t=1775.\n*******\nFor more talks like this, visit AudioDharma.org\n*******\nIf you have enjoyed this talk, please consider supporting AudioDharma with a donation at https://www.audiodharma.org/donate/.\n*******\nThis talk is licensed by a Creative Commons Attribution-Noncommercial-No Derivative Works 4.0 License",
+   "audioURL": "https://audiodharma.us-east-1.linodeobjects.com/talks/26198/20260902-matthew_brensilver-imc-dharmette_the_intolerance_of_suffering_is_not_compassion.mp3",
+   "published": "Wed, 02 Sep 2026 07:30:00 -0700",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/57/d2/0e/57d20e3d-e823-f897-9b47-1ca1a51c508e/mza_6971474981935518916.png/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Insight meditation talk on compassion and suffering in interpersonal life.",
    "tradition": "Buddhist"
   }
  ],
@@ -360,6 +360,13 @@
   "e8981aef-eed9-442b-ad73-b90654633beb": "2026-09-03",
   "buddhacity.podbean.com/0843af04-6b5e-3d15-a81b-2bb2d67caa95": "2026-09-03",
   "https://www.upaya.org/?p=109791": "2026-09-03",
-  "gid://art19-episode-locator/V0/IzJsdEFdV90h-kRzHiqWESuy058DsursxQ2YFGWm01E": "2026-09-03"
+  "gid://art19-episode-locator/V0/IzJsdEFdV90h-kRzHiqWESuy058DsursxQ2YFGWm01E": "2026-09-03",
+  "Buzzsprout-19744845": "2026-09-03",
+  "a3ce3902-6e5b-4223-b5cc-1588871f5626": "2026-09-03",
+  "9cfea823-c6e5-4d4b-9f72-6b1cd8949a12": "2026-09-03",
+  "6a96f67466efea21e002f3b8": "2026-09-03",
+  "Buzzsprout-19710894": "2026-09-03",
+  "Buzzsprout-19635685": "2026-09-03",
+  "https://audiodharma.us-east-1.linodeobjects.com/talks/26198/20260902-matthew_brensilver-imc-dharmette_the_intolerance_of_suffering_is_not_compassion.mp3": "2026-09-03"
  }
 }
