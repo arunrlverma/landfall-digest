@@ -7,9 +7,9 @@
   "Indigenous",
   "Mythic"
  ],
- "generatedAt": "2026-09-03T07:07:52.183673+00:00",
+ "generatedAt": "2026-09-03T14:00:43.715510+00:00",
  "showsScanned": 1200,
- "candidates": 18,
+ "candidates": 19,
  "picks": [
   {
    "id": "92a46ee4-9bd7-11f1-8284-5f97eabb0501",
@@ -34,20 +34,7 @@
    "published": "Wed, 02 Sep 2026 16:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Retells a key episode from the Odyssey focusing on themes of homecoming and loyalty.",
-   "tradition": "Mythic"
-  },
-  {
-   "id": "6a7b46c3f91cd396b38d4858",
-   "showID": "https://access.acast.com/rss/11c1773b-6d50-4dbb-b543-483046bdc241",
-   "showTitle": "Gone Medieval",
-   "title": "Tolkien: Middle Earth and the Middle Ages",
-   "summary": "<p>From where did J.R.R. Tolkien get his ideas for the world of Middle Earth?</p><p>For millions of readers, <em>The Hobbit</em> and <em>The Lord of the Rings</em> are more than just fantasy fiction. Their rich mix of sacred mythology and archetypal saga stories draw deeply into history and legend and profoundly resonate with universal human experience.</p><p>As with most things, Matt Lewis is determined to claim Middle Earth was inspired by the medieval period, with the help of today's guest, Tolkien scholar Dr. Christopher Snyder.</p><br><p><strong>MORE:</strong></p><p><strong>Beowulf</stron",
-   "audioURL": "https://sphinx.acast.com/p/acast/s/gone-medieval/e/6a7b46c3f91cd396b38d4858/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=6pYZKyLDEBRDCgs2fqXUs02Xm81KthrfCS9EmJsIiCA",
-   "published": "Fri, 28 Aug 2026 02:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/18/62/70/18627080-b4ef-27c7-096e-2f3bbb562de5/mza_655839232776231048.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Discusses Tolkien's myth-inspired world and its resonance with universal human experience.",
+   "reason": "Retells a key episode from the Odyssey focusing on identity, loyalty, and homecoming.",
    "tradition": "Mythic"
   },
   {
@@ -59,21 +46,21 @@
    "audioURL": "https://traffic.libsyn.com/secure/thegreatsimplification/TGS232_CharlesEisenstein.mp3?dest-id=3235040",
    "published": "Wed, 02 Sep 2026 11:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/be/97/3cbe97fb-f542-6271-7c4f-c986b5f4c51f/mza_8932915024380387774.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Examines the mythologies underlying civilization and their impact on human meaning.",
+   "rating": 8,
+   "reason": "Philosophical conversation on civilization's underlying mythologies and human meaning.",
    "tradition": "Secular"
   },
   {
-   "id": "culturenightcap.podbean.com/ecdc1a66-74b8-3253-8898-d886ee8abcc6",
-   "showID": "https://feed.podbean.com/culturenightcap/feed.xml",
-   "showTitle": "Culture Nightcap",
-   "title": "02: When Adaptation Works: Nolan's Odyssey, Dreams and Nightmares",
-   "summary": "Katie and Chris attend a 930 AM showing on opening day of Christopher Nolan's The Odyssey. From dream and nightmare-like images, an artistic and authentic score, to haunting allusions to art and story throughout history, the film proved to be a deep and moving exploration of the human condition. They discuss how Nolan brilliantly brought an ancient text to a modern audience and how this version of Odysseus as morally fraught will resonate in our age. Whether you've seen the film or hope to, this is a deep dive into eternally relevant questions that define our humanity. Three cheers for good ar",
-   "audioURL": "https://mcdn.podbean.com/mf/web/ictewip7bthayvyh/ODYSSEY.mp3",
-   "published": "Wed, 02 Sep 2026 05:01:00 -0300",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/db/5a/9d/db5a9d17-ef84-251e-b91f-ffa746c720f2/mza_6808404165540827773.jpg/600x600bb.jpg",
+   "id": "6a7b46c3f91cd396b38d4858",
+   "showID": "https://access.acast.com/rss/11c1773b-6d50-4dbb-b543-483046bdc241",
+   "showTitle": "Gone Medieval",
+   "title": "Tolkien: Middle Earth and the Middle Ages",
+   "summary": "<p>From where did J.R.R. Tolkien get his ideas for the world of Middle Earth?</p><p>For millions of readers, <em>The Hobbit</em> and <em>The Lord of the Rings</em> are more than just fantasy fiction. Their rich mix of sacred mythology and archetypal saga stories draw deeply into history and legend and profoundly resonate with universal human experience.</p><p>As with most things, Matt Lewis is determined to claim Middle Earth was inspired by the medieval period, with the help of today's guest, Tolkien scholar Dr. Christopher Snyder.</p><br><p><strong>MORE:</strong></p><p><strong>Beowulf</stron",
+   "audioURL": "https://sphinx.acast.com/p/acast/s/gone-medieval/e/6a7b46c3f91cd396b38d4858/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&amp;sig=6pYZKyLDEBRDCgs2fqXUs02Xm81KthrfCS9EmJsIiCA",
+   "published": "Fri, 28 Aug 2026 02:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/18/62/70/18627080-b4ef-27c7-096e-2f3bbb562de5/mza_655839232776231048.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Analyzes Nolan's film adaptation of the Odyssey with focus on moral complexity and human condition.",
+   "reason": "Discusses Tolkien's myth-inspired Middle Earth and its resonance with universal human experience.",
    "tradition": "Mythic"
   },
   {
@@ -86,7 +73,7 @@
    "published": "Thu, 03 Sep 2026 05:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/9b/34/e69b341c-ad4a-2d22-e3f4-96c6f2d5e915/mza_3850955449205051780.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses Sophoclean tragedy and prophecy with attention to literary and mythic depth.",
+   "reason": "Analyzes Sophoclean tragedy with focus on prophecy and language in mythic context.",
    "tradition": "Mythic"
   }
  ],
