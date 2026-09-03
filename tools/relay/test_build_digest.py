@@ -151,6 +151,17 @@ class EditionTests(unittest.TestCase):
             for text in texts:
                 self.assertFalse(b.on_topic(*b.edition_hits(text)), f"{key}: {text}")
 
+    def test_a_bare_surname_does_not_claim_a_shelf(self):
+        """"ward" and "stake" put two true-crime episodes about a pastor's wife
+        on the Restoration shelf: one matched a surname, the other "at stake"."""
+        b.load_edition("restoration", root=str(ROOT / "editions"))
+        self.assertFalse(b.on_topic(*b.edition_hits(
+            "pastor's wife mica miller: enhanced 911 whispers heard, says ward")))
+        self.assertFalse(b.on_topic(*b.edition_hits(
+            "inside the u.s. deal to get venezuela's oil: what is at stake")))
+        self.assertTrue(b.on_topic(*b.edition_hits(
+            "our ward council and the stake conference")))
+
     def test_every_edition_names_its_own_charts(self):
         """Apple publishes a chart per subgenre and that is where most editions
         live; without them the Judaism and Islam shelves have no pool at all."""

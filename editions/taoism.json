@@ -47,7 +47,20 @@
     "art of war",
     "book of odes",
     "shijing",
-    "hexagram"
+    "hexagram",
+    "zazen",
+    "zen buddhism",
+    "zen practice",
+    "zen teacher",
+    "zen master",
+    "chan buddhism",
+    "dharma talk",
+    "book of tea",
+    "tea ceremony",
+    "chinese poetry",
+    "li po",
+    "du fu",
+    "tu fu"
   ],
   "weak": [
     "harmony",
@@ -81,5 +94,5 @@
     "tiktok ban",
     "chip ban"
   ],
-  "promptNote": "Landfall Taoism edition. Keep episodes on Taoist and Confucian thought (Laozi, Zhuangzi, Confucius, Mencius, the I Ching, the Book of Odes, Sun Tzu read as philosophy), Chinese poetry, tea and the contemplative arts, plus Buddhist and interfaith conversations that dwell on stillness, wu wei or the Way. Business, leadership and productivity shows that borrow 'the art of war' or 'flow' rate 0-3; China trade, technology and geopolitics news is vetoed even when it quotes Confucius. Terms are matched with a leading word boundary, so the bare stems 'tao' and 'dao' are deliberately absent (they hit 'Taoiseach' and crypto 'DAO'). Tag an episode by its own tradition: a Christian, Hindu or secular-wellness episode that happens to speak of stillness or simplicity takes that label and stays on its own shelf."
+  "promptNote": "Landfall Taoism edition. Keep episodes on Taoist and Confucian thought (Laozi, Zhuangzi, Confucius, Mencius, the I Ching, the Book of Odes, Sun Tzu read as philosophy), Chinese poetry, tea and the contemplative arts, plus Buddhist and interfaith conversations that dwell on stillness, wu wei or the Way. Business, leadership and productivity shows that borrow 'the art of war' or 'flow' rate 0-3; China trade, technology and geopolitics news is vetoed even when it quotes Confucius. Terms are matched with a leading word boundary, so the bare stems 'tao' and 'dao' are deliberately absent (they hit 'Taoiseach' and crypto 'DAO'). Tag an episode by its own tradition: a Christian, Hindu or secular-wellness episode that happens to speak of stillness or simplicity takes that label and stays on its own shelf. The Buddhist tradition on this shelf is the one closest to it: Zen and Chan practice, dharma talks on stillness and ordinary mind. Bare \"zen\" is not a term here — it is a lifestyle word that matched a gaming podcast's \"Zen Mode\" — so Zen enters through zazen, Zen practice and the like."
 }

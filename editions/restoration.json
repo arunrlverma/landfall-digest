@@ -26,8 +26,6 @@
     "plan of salvation",
     "sacrament meeting",
     "relief society",
-    "stake",
-    "ward",
     "missionary",
     "talmage",
     "standard works",
@@ -36,7 +34,15 @@
     "mormon",
     "latter-day saints",
     "temple recommend",
-    "conference talk"
+    "conference talk",
+    "ward council",
+    "ward conference",
+    "stake conference",
+    "stake president",
+    "stake center",
+    "bishopric",
+    "sunday school class",
+    "seminary teacher"
   ],
   "weak": [
     "testimony",

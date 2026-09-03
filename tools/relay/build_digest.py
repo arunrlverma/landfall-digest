@@ -103,7 +103,7 @@ def _re(terms: str) -> re.Pattern:
 
 STRONG_RE, WEAK_RE, VETO_RE = _re(STRONG), _re(WEAK), _re(VETO)
 
-# Set by --edition: the constrained tradition list and the note for the prompt.
+# Set by --edition: the traditions this shelf keeps, its charts, and its note.
 EDITION: dict | None = None
 # The edition's OWN terms, compiled separately from the shared lists. These are
 # the relevance test for an edition run: "does this episode have anything to do
@@ -358,7 +358,12 @@ def recent_episodes(show: dict, since: datetime) -> list[dict]:
                 pass  # unparseable dates keep the episode; windowing is best-effort
 
         haystack = f"{title} {summary}".lower()
-        if not tagged and VETO_RE.search(haystack):
+        # On an edition run the SHOW's name counts for the veto as well. "Crime
+        # Stories with Nancy Grace" reached the Restoration shelf because the
+        # episode text alone said nothing a veto term matched, and the shelf's
+        # own "ward" matched a surname in it.
+        veto_hay = haystack if EDITION is None else f"{show['title'].lower()} {haystack}"
+        if not tagged and VETO_RE.search(veto_hay):
             continue
         strong = set(x.group(0).lower() for x in STRONG_RE.finditer(haystack))
         weak = set(x.group(0).lower() for x in WEAK_RE.finditer(haystack))
@@ -551,8 +556,16 @@ def main() -> int:
     # digest with itself — six Joel Osteen episodes crowded out everything else
     # in testing — and the point is breadth across the whole chart.
     per_show: dict[str, int] = {}
+    seen_titles: set[tuple[str, str]] = set()
     varied = []
     for c in candidates:
+        # A feed that republishes an episode under a new guid — or lists it
+        # twice — was taking both of a show's two seats: the Judaism shelf ran
+        # "Shofar, So Good! EPISODE 3" twice in a row.
+        fingerprint = (c["showID"], " ".join(c["title"].lower().split()))
+        if fingerprint in seen_titles:
+            continue
+        seen_titles.add(fingerprint)
         n = per_show.get(c["showID"], 0)
         if n >= 2:
             continue
