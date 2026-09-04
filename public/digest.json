@@ -1,21 +1,21 @@
 {
  "version": 1,
- "generatedAt": "2026-09-04T08:43:26.502475+00:00",
+ "generatedAt": "2026-09-04T13:21:26.248230+00:00",
  "showsScanned": 400,
- "candidates": 52,
+ "candidates": 50,
  "picks": [
   {
-   "id": "d3072578-a3af-11f1-bac4-67a7ac3cb628",
-   "showID": "https://feeds.megaphone.fm/QCD6036500916",
-   "showTitle": "Philosophize This!",
-   "title": "Episode #252 ... Slaughterhouse-Five - Kurt Vonnegut",
-   "summary": "Today we talk about Kurt Vonnegut’s book Slaughterhouse-Five. How war stories can distort the reality of war, how trauma can fracture our experience of time and identity, and why Billy Pilgrim becomes attracted to the strange philosophy of the Tralfamadorians. Hope you love it. :)\n\n\nThank you so much for listening! Could never do this without your help.&nbsp;\n\nWebsite: https://www.philosophizethis.org/\n\nPatreon: https://www.patreon.com/philosophizethis&nbsp;\n\nSocial:\n\nInstagram: https://www.instagram.com/philosophizethispodcast\n\nX: https://twitter.com/iamstephenwest\n\nFacebook: https://www.face",
-   "audioURL": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1672/claritaspod.com/measure/traffic.megaphone.fm/ADV2856688536.mp3",
-   "published": "Sat, 29 Aug 2026 13:44:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b7/51/c1b751eb-ab38-f11c-d6c1-0a9de79b7061/mza_12134548126279202007.jpg/600x600bb.jpg",
+   "id": "6a96f67466efea21e002f3b8",
+   "showID": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
+   "showTitle": "TED Talks Daily",
+   "title": "How to tap into your awareness -- and why meditation is easier than you think | Yongey Mingyur Rinpoche",
+   "summary": "Meditation asks you to slip into a state of serene presence. But why does something that sounds effortless often feel so difficult? In this lighthearted invitation, spiritual leader Yongey Mingyur Rinpoche shares three steps to help you accept the ebb and flow of your emotions and learn to meditate anytime, anywhere.(This episode originally aired in 2022.) Hosted on Acast. See acast.com/privacy for more information.",
+   "audioURL": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a96f67466efea21e002f3b8/media.mp3",
+   "published": "Wed, 02 Sep 2026 15:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Philosophical analysis of trauma, time, and identity through literature.",
-   "tradition": "Secular"
+   "reason": "Clear guidance on meditation and awareness from a Buddhist teacher.",
+   "tradition": "Buddhist"
   },
   {
    "id": "84ec0aea-a63c-11f1-a450-872f9e0c6db4",
@@ -27,7 +27,7 @@
    "published": "Wed, 02 Sep 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/59/05/ad590545-0cea-12c2-07f0-5a063c77d11b/mza_17798297345030142677.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A neuroscientist explains consciousness as a brain-constructed experience, challenging reality.",
+   "reason": "A neuroscientist deeply examines consciousness as a constructed experience of reality.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Fri, 04 Sep 2026 06:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ff/b6/6b/ffb66b7d-88f8-88f3-b67c-9189f5167ec1/mza_9140250549875290339.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Wide-ranging discussion on UFOs, consciousness, death, and religion's evolving role.",
+   "reason": "Explores UFOs, consciousness, death, and religion with a scholar.",
    "tradition": "Interfaith"
   },
   {
@@ -53,21 +53,8 @@
    "published": "Sun, 30 Aug 2026 23:00:31 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores living well through wisdom, faith, and purpose from Proverbs and Ecclesiastes.",
+   "reason": "Explores wisdom and purpose through Proverbs and Ecclesiastes.",
    "tradition": "Christian"
-  },
-  {
-   "id": "6a96f67466efea21e002f3b8",
-   "showID": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
-   "showTitle": "TED Talks Daily",
-   "title": "How to tap into your awareness -- and why meditation is easier than you think | Yongey Mingyur Rinpoche",
-   "summary": "Meditation asks you to slip into a state of serene presence. But why does something that sounds effortless often feel so difficult? In this lighthearted invitation, spiritual leader Yongey Mingyur Rinpoche shares three steps to help you accept the ebb and flow of your emotions and learn to meditate anytime, anywhere.(This episode originally aired in 2022.) Hosted on Acast. See acast.com/privacy for more information.",
-   "audioURL": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6a96f67466efea21e002f3b8/media.mp3",
-   "published": "Wed, 02 Sep 2026 15:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Practical meditation guidance emphasizing awareness and emotional acceptance.",
-   "tradition": "Buddhist"
   },
   {
    "id": "a8616778-78cf-4b5e-9cc1-b468c6bafb18",
@@ -79,46 +66,20 @@
    "published": "Tue, 01 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Reflects on biblical righteousness, wisdom, and moral corruption in a Catholic context.",
+   "reason": "Reflects on righteousness, virtue, and faithfulness in a biblical story with ethical implications.",
    "tradition": "Catholic"
   },
   {
-   "id": "2b86e7e8-262a-472a-ab29-6734ecfb1f9c",
-   "showID": "https://rss.libsyn.com/shows/606285/destinations/5279650.xml",
-   "showTitle": "The Deep End With Lecrae",
-   "title": "I Asked Philip Anthony Mitchell All The Hard Questions",
-   "summary": "Lecrae welcomes Phillip Anthony Mitchell back to The Deep End for an honest conversation about the realities of public ministry. From navigating criticism and protecting his family to staying grounded in Scripture amid cultural pressure, Phillip reflects on the lessons he's learned as his platform has grown and why faithfulness has remained his highest priority. They also discuss the vision behind Access, the importance of prayer, and the heart behind Phillip's new book, Contend.  01:09 Introduction 03:00 Responding to Criticism with Humility 06:22 Navigating Influence Without Pride 08:40 How ",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/289702f0-eba6-44cb-bf7c-b7ff937eb51c/REVISEDAUDIO_WithHook_Episode_Ep136_PAM_TDE_final_copy.mp3?dest-id=5279650",
-   "published": "Thu, 03 Sep 2026 18:30:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A candid talk on faithfulness, ministry challenges, and prayer's role in spiritual life.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "flightcast:01M0WNT25X5FXETPANXF0H3S45",
-   "showID": "https://rss2.flightcast.com/ee1bp3zh9h0d003fe1kvtfgi.xml",
-   "showTitle": "The Thyroid (and Hormone) Fixer Podcast: Thyropause, Menopause, Metabolism and How to Fix It",
-   "title": "661. Before You Give Up on Your Health: The Missing Link to Joy, Healing & Health",
-   "summary": "I’m joined by my dear friend Kristin Weitzel for a conversation about psychedelic-assisted therapy, trauma, nervous system regulation, and what it can look like to create meaningful change from the inside out. \nKristin brings more than 15 years of experience in breathwork, nervous system regulation, health optimization, and integration work, and she shares what led her from supporting plant medicine ceremonies to becoming a facilitator herself. We talk about the resistance many people have around psychedelics, including the belief that they do not have “big enough” trauma to address, and why t",
-   "audioURL": "https://episode.flightcast.com/01M0WNT25X3YM09E2G00SV832Q.mp3",
-   "published": "Tue, 01 Sep 2026 08:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/66/f9/ab/66f9ab37-20bf-ce22-9cda-5d0cf53fc123/mza_12992934777200774032.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Covers trauma, healing, and nervous system regulation with spiritual elements.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "c14969a0-9a8a-11f1-8e4b-fbeb9f403e2e",
-   "showID": "https://feeds.megaphone.fm/LEME9756857150",
-   "showTitle": "Inner Childish",
-   "title": "We Took Psychedelic Mushrooms: Spirit Guides, Hellscapes, & Epiphanies We’ll Never Forget",
-   "summary": "Two psychedelic mushroom trips, two wildly different experiences, and none of it has ever left the group chat until now. First, you'll get a bestie catch-up covering the parts of pregnancy absolutely nobody warns you about, and the Crunchwrap Supreme that nearly ended a 25 year friendship. Then, Vic and Aubrey are finally telling you everything: how they each decided to do mushroom therapy, what they wanted out of it, and what actually happened once the eye mask went on. One of them met her spirit guides and came out with something she hasn't stopped thinking about since. The other one spent f",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/claritaspod.com/measure/pscrb.fm/rss/p/mgln.ai/e/491/traffic.megaphone.fm/LEME1777193297.mp3",
-   "published": "Fri, 28 Aug 2026 22:39:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b6/c6/72/b6c6727f-1bcd-b5ba-adca-ab55343eeeec/mza_7574625153787460905.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Personal psychedelic experiences touching on consciousness and spiritual insight.",
+   "id": "d3072578-a3af-11f1-bac4-67a7ac3cb628",
+   "showID": "https://feeds.megaphone.fm/QCD6036500916",
+   "showTitle": "Philosophize This!",
+   "title": "Episode #252 ... Slaughterhouse-Five - Kurt Vonnegut",
+   "summary": "Today we talk about Kurt Vonnegut’s book Slaughterhouse-Five. How war stories can distort the reality of war, how trauma can fracture our experience of time and identity, and why Billy Pilgrim becomes attracted to the strange philosophy of the Tralfamadorians. Hope you love it. :)\n\n\nThank you so much for listening! Could never do this without your help.&nbsp;\n\nWebsite: https://www.philosophizethis.org/\n\nPatreon: https://www.patreon.com/philosophizethis&nbsp;\n\nSocial:\n\nInstagram: https://www.instagram.com/philosophizethispodcast\n\nX: https://twitter.com/iamstephenwest\n\nFacebook: https://www.face",
+   "audioURL": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1672/claritaspod.com/measure/traffic.megaphone.fm/ADV2856688536.mp3",
+   "published": "Sat, 29 Aug 2026 13:44:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b7/51/c1b751eb-ab38-f11c-d6c1-0a9de79b7061/mza_12134548126279202007.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Philosophical discussion of trauma, time, and identity through Vonnegut's novel.",
    "tradition": "Secular"
   },
   {
@@ -130,8 +91,21 @@
    "audioURL": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/d40e954f-9950-40e7-b9c9-b9ef4c386189/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&amp;awEpisodeId=d40e954f-9950-40e7-b9c9-b9ef4c386189&amp;feed=4T39_jAj",
    "published": "Fri, 4 Sep 2026 05:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d7/88/9b/d7889bab-dca5-77ba-3d0c-7fae8f16ab11/mza_8810454848871508.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Neuroscientific and philosophical exploration of psychedelics and consciousness.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "c14969a0-9a8a-11f1-8e4b-fbeb9f403e2e",
+   "showID": "https://feeds.megaphone.fm/LEME9756857150",
+   "showTitle": "Inner Childish",
+   "title": "We Took Psychedelic Mushrooms: Spirit Guides, Hellscapes, & Epiphanies We’ll Never Forget",
+   "summary": "Two psychedelic mushroom trips, two wildly different experiences, and none of it has ever left the group chat until now. First, you'll get a bestie catch-up covering the parts of pregnancy absolutely nobody warns you about, and the Crunchwrap Supreme that nearly ended a 25 year friendship. Then, Vic and Aubrey are finally telling you everything: how they each decided to do mushroom therapy, what they wanted out of it, and what actually happened once the eye mask went on. One of them met her spirit guides and came out with something she hasn't stopped thinking about since. The other one spent f",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/claritaspod.com/measure/pscrb.fm/rss/p/mgln.ai/e/491/traffic.megaphone.fm/LEME1777193297.mp3",
+   "published": "Fri, 28 Aug 2026 22:39:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b6/c6/72/b6c6727f-1bcd-b5ba-adca-ab55343eeeec/mza_7574625153787460905.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores psychedelics' effects on the brain and mind, touching on consciousness and perception.",
+   "reason": "Personal accounts of psychedelic experiences touching on consciousness and epiphanies.",
    "tradition": "Secular"
   },
   {
@@ -144,8 +118,47 @@
    "published": "Tue, 01 Sep 2026 05:05:09 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/22/d8/fd/22d8fdc2-16f5-a4ec-cb43-5a2d4b92ffa6/mza_5288490312746447040.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "Psychologist discusses healing attachment through community and relational spirituality.",
+   "reason": "A psychologist discusses healing attachment through community and relational ethics.",
    "tradition": "Secular"
+  },
+  {
+   "id": "2b86e7e8-262a-472a-ab29-6734ecfb1f9c",
+   "showID": "https://rss.libsyn.com/shows/606285/destinations/5279650.xml",
+   "showTitle": "The Deep End With Lecrae",
+   "title": "I Asked Philip Anthony Mitchell All The Hard Questions",
+   "summary": "Lecrae welcomes Phillip Anthony Mitchell back to The Deep End for an honest conversation about the realities of public ministry. From navigating criticism and protecting his family to staying grounded in Scripture amid cultural pressure, Phillip reflects on the lessons he's learned as his platform has grown and why faithfulness has remained his highest priority. They also discuss the vision behind Access, the importance of prayer, and the heart behind Phillip's new book, Contend.  01:09 Introduction 03:00 Responding to Criticism with Humility 06:22 Navigating Influence Without Pride 08:40 How ",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/289702f0-eba6-44cb-bf7c-b7ff937eb51c/REVISEDAUDIO_WithHook_Episode_Ep136_PAM_TDE_final_copy.mp3?dest-id=5279650",
+   "published": "Thu, 03 Sep 2026 18:30:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "A candid talk on public ministry and faithfulness amid cultural pressures.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "standardoftruth.podbean.com/e25a6acb-e74c-3455-898b-937fbcad2f9b",
+   "showID": "https://feed.podbean.com/standardoftruth/feed.xml",
+   "showTitle": "Standard of Truth",
+   "title": "S6E35 The Great Apostate Hall of Shame - #8 Ezra Booth Part 5 (FINAL)",
+   "summary": "Richard hadn't showered in days, his water heater's dead, and his family staged an intervention over his baggy clothes. We read emails from listeners and missionaries, including an elder serving in the California Ontario Mission, whose Gen Z slang (\"capping,\" \"yapping\") had us reaching for a translation guide. Then we got into apostate #8: Ezra Booth. A former Methodist minister and early high priest, Booth apostatized barely a year into the Church and published the first widely reprinted insider attacks on Joseph Smith, fuel for Eber Howe's Mormonism Unveiled. We dug into Sidney Rigdon's publ",
+   "audioURL": "https://mcdn.podbean.com/mf/web/4pqwhyw5uavhkqei/S6E35_The_Great_Apostate_Hall_of_Shame_-_8_Ezra_Booth_Part_5_FINAL_a2wd8.mp3",
+   "published": "Thu, 03 Sep 2026 05:51:00 -0600",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f0/6c/87/f06c8724-343c-489a-eba1-08ecd9f8fbc8/mza_9582686813093588614.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "A detailed story of religious apostasy and faith struggle in early Mormonism.",
+   "tradition": "Latter-day Saint"
+  },
+  {
+   "id": "tag:soundcloud,2010:tracks/2390943216",
+   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:154961784/sounds.rss",
+   "showTitle": "They Call Her Mother Podcast: Faith, Family and Legacy",
+   "title": "Episode #51 — One Spirit, One Body, Part 1",
+   "summary": "Episode 51 — One Spirit, One Body, How Do All Nine Gifts Work Together to Build the Church?\n\nWhy did God give nine different Gifts of the Holy Spirit? Were they intended to distinguish one believer from another—or were they designed to work together for something far greater?\n\nIn Episode 51 of They Call Her Mother: Faith, Family & Legacy, presented through The Amenra Kingdom Institute, Minister Aisha Amenra brings together our study of The Holy Spirit: The Governor of Heaven’s Kingdom with One Spirit, One Body — How Do All Nine Gifts Work Together to Build the Church?\n\nAfter exploring the Reve",
+   "audioURL": "https://feeds.soundcloud.com/stream/2390943216-aisha-amenra-episode-51-one-spirit-one-body.mp3",
+   "published": "Sat, 29 Aug 2026 19:15:26 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8a/18/a4/8a18a41b-fc35-e7ab-7efc-fea40704c972/mza_10266971927791627753.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores spiritual gifts and church community building from a charismatic Christian view.",
+   "tradition": "Christian"
   }
  ],
  "history": {
@@ -276,6 +289,8 @@
   "prx_192_b89dd23d-471f-4b9b-91bd-d2f91d87778c": "2026-09-03",
   "audioboom-01a068e0-ab18-7083-bef8-6166e1bcaff7": "2026-09-04",
   "2b86e7e8-262a-472a-ab29-6734ecfb1f9c": "2026-09-04",
-  "7bed9ee5-27ad-4a5f-997f-6edb31ddb397": "2026-09-04"
+  "7bed9ee5-27ad-4a5f-997f-6edb31ddb397": "2026-09-04",
+  "standardoftruth.podbean.com/e25a6acb-e74c-3455-898b-937fbcad2f9b": "2026-09-04",
+  "tag:soundcloud,2010:tracks/2390943216": "2026-09-04"
  }
 }
