@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-05T16:42:00.557111+00:00",
+ "generatedAt": "2026-09-05T18:55:45.430800+00:00",
  "showsScanned": 400,
  "candidates": 47,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Wed, 2 Sep 2026 16:20:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/3e/45/1f3e45f9-7011-7bdf-6999-99c8d8643a65/mza_15402691122318060700.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A spiritual leader discusses quieting the mind and consciousness for peace and mental health.",
+   "reason": "Discusses quieting the mind, consciousness, and mental health from a spiritual perspective.",
    "tradition": "Hindu"
   },
   {
@@ -40,7 +40,20 @@
    "published": "Fri, 28 Aug 2026 20:30:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses the cosmic rebellion and spiritual warfare from a Christian theological perspective.",
+   "reason": "A theological discussion on the cosmic rebellion and spiritual warfare in Christianity.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "1bed3f5c-a48c-11f1-9112-576bed9f9fb3",
+   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
+   "showTitle": "Live Free with Josh Howerton",
+   "title": "Does God PREDESTINE Some People to HELL!? | Live Free with Josh Howerton",
+   "summary": "Predestination. Election. Free will. Calvinism. Arminianism. Few theological conversations generate more questions—or stronger opinions. So what does the Bible actually say, and how should Christians respond when faithful believers reach different conclusions?\n\nPastors Carlos and Paul begin in 2 Timothy 2 with a practical conversation about spiritual grit, discipline, and the difference between simply trying to follow Jesus and intentionally training to become more like Him. Then they dive into one of Christianity’s most debated subjects: how God’s sovereignty, election, human responsibility, ",
+   "audioURL": "https://traffic.megaphone.fm/HAEEH1049674280.mp3",
+   "published": "Mon, 31 Aug 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A serious theological discussion on predestination, free will, and faith.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +79,7 @@
    "published": "Sun, 30 Aug 2026 21:07:07 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A serious Christian message about surrendering fully to Jesus and authentic faith.",
+   "reason": "A serious Christian message on surrendering fully to Jesus and living authentically.",
    "tradition": "Christian"
   },
   {
@@ -79,8 +92,21 @@
    "published": "Tue, 01 Sep 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores trusting personal transformation and spiritual growth beyond survival.",
+   "reason": "Explores trusting personal transformation and higher power beyond survival.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "6a985bcd8f0812bd8e2f4ad7",
+   "showID": "https://www.theguardian.com/technology/series/blackbox/podcast.xml",
+   "showTitle": "Black Box: The Chatbots",
+   "title": "Black Box: The Chatbots | Happy Accident | Ep 3",
+   "summary": "Why are AI chatbots pulling so many people down a rabbit hole? Our answer starts with the world’s first-ever chatbot, the strange effect it had on people and the ‘time bomb’ that exploded when ChatGPT was released four years ago. The result is a strange experiment we are all living through – whether we know it or not",
+   "audioURL": "https://flex.acast.com/audio.guim.co.uk/2026/09/03-46461-gdn.bb2.030926.jk.happyaccident.mp3",
+   "published": "Thu, 03 Sep 2026 13:39:07 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/86/fa/ca86fad3-33a3-9564-9c16-5de5b26ed871/mza_12886737881153787636.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores AI chatbots' effects on people, hinting at consciousness questions.",
+   "tradition": "Secular"
   },
   {
    "id": "6a98536b8f08bf7c3abbe8c1",
@@ -92,21 +118,8 @@
    "published": "Thu, 03 Sep 2026 12:42:54 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/86/fa/ca86fad3-33a3-9564-9c16-5de5b26ed871/mza_12886737881153787636.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Investigates AI-induced altered states and spiritual claims, with some philosophical depth.",
+   "reason": "Investigates AI-induced altered states and spiritual claims.",
    "tradition": "Secular"
-  },
-  {
-   "id": "1bed3f5c-a48c-11f1-9112-576bed9f9fb3",
-   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
-   "showTitle": "Live Free with Josh Howerton",
-   "title": "Does God PREDESTINE Some People to HELL!? | Live Free with Josh Howerton",
-   "summary": "Predestination. Election. Free will. Calvinism. Arminianism. Few theological conversations generate more questions—or stronger opinions. So what does the Bible actually say, and how should Christians respond when faithful believers reach different conclusions?\n\nPastors Carlos and Paul begin in 2 Timothy 2 with a practical conversation about spiritual grit, discipline, and the difference between simply trying to follow Jesus and intentionally training to become more like Him. Then they dive into one of Christianity’s most debated subjects: how God’s sovereignty, election, human responsibility, ",
-   "audioURL": "https://traffic.megaphone.fm/HAEEH1049674280.mp3",
-   "published": "Mon, 31 Aug 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A serious theological discussion on predestination, free will, and faith.",
-   "tradition": "Christian"
   }
  ],
  "history": {
