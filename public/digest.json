@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-05T18:55:45.430800+00:00",
+ "generatedAt": "2026-09-05T21:02:53.967515+00:00",
  "showsScanned": 400,
- "candidates": 47,
+ "candidates": 46,
  "picks": [
   {
    "id": "191be433-efd6-4e57-9527-82bef5734d50",
@@ -31,19 +31,6 @@
    "tradition": "Christian"
   },
   {
-   "id": "4cb1b5bc-a326-11f1-a17b-db22bd085b15",
-   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
-   "showTitle": "Blurry Creatures",
-   "title": "EP: 459 The Rebellion Before The World Began with Dan McCarthy",
-   "summary": "Before the world was made, there was a war. Dan McCarthy comes into the basement to trace it back to its source, the moment pride welled up in the highest angel, and he reached for the throne of God. The author of&nbsp;Satan's War Against God&nbsp;argues that most Christians have the enemy all wrong. We shrink him down to a tempter and an accuser, when Scripture describes a full rebellion, a mutiny that has never stopped and now runs as an organized kingdom of darkness carving up the territories of the earth.Dan lays out the enemy's real agenda, why humanity enraged Satan before we ever drew a",
-   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW4475607298.mp3",
-   "published": "Fri, 28 Aug 2026 20:30:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A theological discussion on the cosmic rebellion and spiritual warfare in Christianity.",
-   "tradition": "Christian"
-  },
-  {
    "id": "1bed3f5c-a48c-11f1-9112-576bed9f9fb3",
    "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
    "showTitle": "Live Free with Josh Howerton",
@@ -53,7 +40,7 @@
    "published": "Mon, 31 Aug 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A serious theological discussion on predestination, free will, and faith.",
+   "reason": "Pastors discuss predestination, free will, and spiritual discipline from the Bible.",
    "tradition": "Christian"
   },
   {
@@ -66,7 +53,7 @@
    "published": "Wed, 02 Sep 2026 13:00:11 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Philosophical arguments for God's existence based on design and morality.",
+   "reason": "Philosophical case for God's existence based on coincidences and moral facts.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +66,7 @@
    "published": "Sun, 30 Aug 2026 21:07:07 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A serious Christian message on surrendering fully to Jesus and living authentically.",
+   "reason": "A serious Christian message on surrendering fully to Jesus and authentic faith.",
    "tradition": "Christian"
   },
   {
@@ -92,21 +79,8 @@
    "published": "Tue, 01 Sep 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores trusting personal transformation and higher power beyond survival.",
+   "reason": "Explores trusting personal transformation and higher power in emotional and spiritual growth.",
    "tradition": "Interfaith"
-  },
-  {
-   "id": "6a985bcd8f0812bd8e2f4ad7",
-   "showID": "https://www.theguardian.com/technology/series/blackbox/podcast.xml",
-   "showTitle": "Black Box: The Chatbots",
-   "title": "Black Box: The Chatbots | Happy Accident | Ep 3",
-   "summary": "Why are AI chatbots pulling so many people down a rabbit hole? Our answer starts with the world’s first-ever chatbot, the strange effect it had on people and the ‘time bomb’ that exploded when ChatGPT was released four years ago. The result is a strange experiment we are all living through – whether we know it or not",
-   "audioURL": "https://flex.acast.com/audio.guim.co.uk/2026/09/03-46461-gdn.bb2.030926.jk.happyaccident.mp3",
-   "published": "Thu, 03 Sep 2026 13:39:07 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/86/fa/ca86fad3-33a3-9564-9c16-5de5b26ed871/mza_12886737881153787636.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Explores AI chatbots' effects on people, hinting at consciousness questions.",
-   "tradition": "Secular"
   },
   {
    "id": "6a98536b8f08bf7c3abbe8c1",
@@ -118,8 +92,21 @@
    "published": "Thu, 03 Sep 2026 12:42:54 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/86/fa/ca86fad3-33a3-9564-9c16-5de5b26ed871/mza_12886737881153787636.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Investigates AI-induced altered states and spiritual claims.",
+   "reason": "Explores AI-induced spiritual experiences and altered states, touching on faith and consciousness.",
    "tradition": "Secular"
+  },
+  {
+   "id": "c16e253e-a5b5-11f1-be6a-fb0b34698b1a",
+   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
+   "showTitle": "Blurry Creatures",
+   "title": "EP: 460 What REALLY Happened On The Mountaintop with Robby Gallaty",
+   "summary": "The Transfiguration might be the strangest scene in the Gospels. Jesus climbs a mountain, his face lights up, and two men who have been dead for centuries, Moses and Elijah, are suddenly standing there talking with him. Most sermons rush right past it. Robby Gallaty wants to stop and sit in the weirdness. Robby is the senior pastor of Long Hollow Church in Hendersonville, Tennessee, the founder of Replicate Ministries, and a preacher with a PhD who has given his life to making disciples. And he says that to understand the Transfiguration, you have to understand the mountain. Set against Mount ",
+   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW6943190099.mp3",
+   "published": "Tue, 01 Sep 2026 21:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A pastor reflects deeply on the mysterious Transfiguration event in the Gospels.",
+   "tradition": "Christian"
   }
  ],
  "history": {
@@ -225,7 +212,7 @@
   "b37ad911ec10a358edf47e0584b0aa57": "2026-09-01",
   "flightcast:01M0WNT25X5FXETPANXF0H3S45": "2026-09-04",
   "https://www.ldsscriptureteachings.org/?p=34130": "2026-09-01",
-  "c16e253e-a5b5-11f1-be6a-fb0b34698b1a": "2026-09-03",
+  "c16e253e-a5b5-11f1-be6a-fb0b34698b1a": "2026-09-05",
   "073c1fd1-3917-4197-8c37-f4a1e2d23d95": "2026-09-05",
   "84ec0aea-a63c-11f1-a450-872f9e0c6db4": "2026-09-04",
   "tag:soundcloud,2010:tracks/2392835709": "2026-09-05",
