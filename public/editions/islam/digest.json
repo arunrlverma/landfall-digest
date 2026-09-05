@@ -5,21 +5,60 @@
   "Muslim",
   "Interfaith"
  ],
- "generatedAt": "2026-09-04T13:50:36.234804+00:00",
+ "generatedAt": "2026-09-05T13:05:54.669737+00:00",
  "showsScanned": 1200,
- "candidates": 17,
+ "candidates": 16,
  "picks": [
   {
-   "id": "https://www.qalaminstitute.org/?p=21036",
-   "showID": "http://feeds.feedburner.com/qalaminstitute/podcast",
-   "showTitle": "Qalam Institute Podcast",
-   "title": "The Tafsīr Podcast: EP 118 – Surah Al-Baqarah (Ayah 253)",
-   "summary": "The Tafsīr Podcast: EP 118 – Surah Al-Baqarah (Ayah 253) 100% of your donations today goes towards the means of providing accessible Islamic knowledge to people around the world: supportqalam.com. Like us on Facebook: facebook.com/qalaminstitute Follow us on Twitter: twitter.com/qalaminstitute Follow us on Instagram: instagram.com/qalaminstitute Subscribe on Youtube: youtube.com/user/qalaminstitute\nThe post The Tafsīr Podcast: EP 118 – Surah Al-Baqarah (Ayah 253) appeared first on Qalam Institute.",
-   "audioURL": "https://media.blubrry.com/qalam_institute/media.blubrry.com/qalam_institute/ins.blubrry.com/qalam_institute/baqarah_118.mp3",
-   "published": "Mon, 31 Aug 2026 11:08:06 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/1a/af/07/1aaf074c-dbe6-55c8-f0c8-5ee5a76c4b37/mza_7246222557614155479.png/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Detailed Islamic exegesis on Surah Al-Baqarah deepens understanding of faith and meaning.",
+   "id": "8ae2f352-7d59-4c52-9a17-feea77fb0928",
+   "showID": "https://anchor.fm/s/10804d43c/podcast/rss",
+   "showTitle": "Quran in a Year+ (with Imam Saif Morad)",
+   "title": "Day 337- The Danger of Misreading the Signs | Ahkaf 21-32",
+   "summary": "In today’s episode, we continue through Surah Al-Aḥqāf and the story of ʿĀd, a people blessed with strength, resources, hearing, sight, and intellect, yet none of it could save them when they rejected Allah’s guidance.We explore how our expectations can distort the way we see reality, why the Qur’an calls us to use our hearing, sight, and hearts properly, and what the jinn teach us about truly listening before we speak. We also reflect on the wisdom of Hūd عليه السلام in calling his people to Allah, and why even when our goal is right, the way we pursue it matters.",
+   "audioURL": "https://anchor.fm/s/10804d43c/podcast/play/125038147/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-1%2F7734bca7-77ef-8050-f91f-b22aded44beb.mp3",
+   "published": "Tue, 01 Sep 2026 12:59:55 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/0b/7c/ea0b7cee-add6-1a85-d2b0-54413306d6e1/mza_11881519252368760937.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores Quranic stories and the importance of proper perception and listening.",
+   "tradition": "Muslim"
+  },
+  {
+   "id": "Buzzsprout-19717688",
+   "showID": "https://rss.buzzsprout.com/1014445.rss",
+   "showTitle": "Yaqeen Podcast",
+   "title": "Struggling, In Debt, and Trusting Allah | Khutbah by Sh. Elshinawy",
+   "summary": "Imam Ahmad (rh)’s best mornings, he said, were when they told him there was no flour left in the house. An empty shelf reminded him Who had been filling it every other day of his life.Most of us run that instinct in reverse. The bank balance drops and we quietly conclude that Allah is withholding out of displeasure. What must we remember about our rizq when it seems to stop flowing? How can Muslims reframe financial anxiety, job loss, and deepening debt as opportunities? And what does tawakkul and trusting that Allah is Ar-Razzaq really mean?  00:00 Living life assuming the best of Allah04:24 ",
+   "audioURL": "https://www.buzzsprout.com/1014445/episodes/19717688-struggling-in-debt-and-trusting-allah-khutbah-by-sh-elshinawy.mp3",
+   "published": "Fri, 28 Aug 2026 12:00:00 -0500",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e6/e1/f6/e6e1f60f-84b8-769a-6732-57c6f5e4b4db/mza_11724770298442534277.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Reflects on trust in Allah during financial hardship and the meaning of rizq.",
+   "tradition": "Muslim"
+  },
+  {
+   "id": "e369847f-88b1-4d10-9c2b-c2befab054e5",
+   "showID": "https://media.rss.com/belalassaad/feed.xml",
+   "showTitle": "Belal Assaad",
+   "title": "The Unshakable Hadith Preservation - Dismantling Hadith Rejection",
+   "summary": "We explore the preservation and authenticity of Hadith, why the Sunnah is essential to understanding the Quran, and how astronomical data and early manuscripts provide compelling evidence for the historical accuracy of Hadith.",
+   "audioURL": "https://content.rss.com/episodes/224902/3106505/belalassaad/2026_08_30_12_20_40_e49843c6-fe75-495b-91c9-079a8bc852d8.mp3",
+   "published": "Sun, 30 Aug 2026 13:01:21 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/06/ce/12/06ce126c-5755-ac4d-c7b0-b49f4ab73b68/mza_17685088730904696982.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discusses Hadith preservation and its importance for understanding the Quran.",
+   "tradition": "Muslim"
+  },
+  {
+   "id": "Buzzsprout-19736685",
+   "showID": "https://rss.buzzsprout.com/1014445.rss",
+   "showTitle": "Yaqeen Podcast",
+   "title": "Is Any Income Actually Halal Anymore? | Signs of the Hour Ep. 15 | Dr. Omar Suleiman",
+   "summary": "The Prophet ﷺ said he did not fear poverty for this ummah. He feared wealth, and he feared what abundance without barakah does to a community. A man would be handed a hundred dinars and still not be satisfied. People would stop asking where their money came from. One companion walked away from wealth that was even 10% doubtful. Find out why.Dr. Omar Suleiman traces the hadith of the end times about wealth in Signs of the Hour Ep. 15: greed placed in the hearts, the collapse of the question of halal income, and the narration that no one will be left untouched by riba.0:00 - Why the Prophet ﷺ fe",
+   "audioURL": "https://www.buzzsprout.com/1014445/episodes/19736685-is-any-income-actually-halal-anymore-signs-of-the-hour-ep-15-dr-omar-suleiman.mp3",
+   "published": "Tue, 01 Sep 2026 09:00:00 -0500",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e6/e1/f6/e6e1f60f-84b8-769a-6732-57c6f5e4b4db/mza_11724770298442534277.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores Islamic teachings on wealth, greed, and spiritual consequences.",
    "tradition": "Muslim"
   },
   {
@@ -32,7 +71,7 @@
    "published": "Tue, 01 Sep 2026 09:54:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/05/b0/b105b03e-bf9f-4957-b21c-f3e1d554935e/mza_1692115180349785273.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Reflects deeply on Surah Al-Ma'un's ethical and spiritual lessons about faith and behavior.",
+   "reason": "Reflects deeply on Surah Al-Ma'un's ethical and spiritual lessons for daily life.",
    "tradition": "Muslim"
   },
   {
@@ -45,20 +84,7 @@
    "published": "Wed, 02 Sep 2026 00:32:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d6/b1/a7/d6b1a769-b3b7-b337-2f28-694a2cf4640b/mza_2839340425900877863.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines Surah Al-Fatihah's foundational spiritual meanings in daily Muslim life.",
-   "tradition": "Muslim"
-  },
-  {
-   "id": "6a994604be98057961ec9bb1",
-   "showID": "https://feeds.acast.com/public/shows/6a97df3966efea21e052fd55",
-   "showTitle": "The Holy Quran",
-   "title": "AR-RAHMANIR-RAHIM,DISCOVERING THE VASTNESS OF ALLAH’S MERCY",
-   "summary": "After starting Surah Al-Fatihah with the powerful statement, “Alhamdulillahi Rabbil-‘alamin,” the believer is introduced to another important aspect of Allah’s greatness: His mercy.The heart has already been taught that Allah is the Lord of the worlds, the One who creates, maintains, rules, and holds full control over His creation.But the human heart needs more than just knowledge of power.It needs to understand how to interpret that power.It needs to know that the Lord who has absolute authority is also known for great mercy.Therefore, following “Rabbil-‘alamin,” Al-Fatihah includes the words",
-   "audioURL": "https://sphinx.acast.com/p/open/s/6a97df3966efea21e052fd55/e/6a994604be98057961ec9bb1/media.mp3",
-   "published": "Wed, 02 Sep 2026 22:03:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d6/b1/a7/d6b1a769-b3b7-b337-2f28-694a2cf4640b/mza_2839340425900877863.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores Allah's mercy as a central spiritual concept beyond His power.",
+   "reason": "Explains Surah Al-Fatihah's foundational meaning in Islamic faith and practice.",
    "tradition": "Muslim"
   },
   {
@@ -71,7 +97,7 @@
    "published": "Tue, 01 Sep 2026 10:09:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/05/b0/b105b03e-bf9f-4957-b21c-f3e1d554935e/mza_1692115180349785273.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Clarifies the meaning of Allah's names Al-Ahad and Al-Wahid and their theological significance.",
+   "reason": "Explores the divine names Al-Ahad and Al-Wahid to deepen understanding of Tawheed.",
    "tradition": "Muslim"
   },
   {
@@ -84,50 +110,25 @@
    "published": "Wed, 02 Sep 2026 19:17:07 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/0b/7c/ea0b7cee-add6-1a85-d2b0-54413306d6e1/mza_11881519252368760937.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Reflects on patience, divine testing, and faith's resilience through Quranic verses.",
-   "tradition": "Muslim"
-  },
-  {
-   "id": "5654c696-106e-4e48-aa2a-6900553d52b6",
-   "showID": "https://anchor.fm/s/10804d43c/podcast/rss",
-   "showTitle": "Quran in a Year+ (with Imam Saif Morad)",
-   "title": "Day 335- Are You Living Like You Will Meet Allah? | Jathiya 33-37, Al-Ahkaf 1-10",
-   "summary": "In today’s episode, we reflect on the danger of receiving Allah’s blessings while slowly forgetting the One who gave them.Through a powerful hadith and verses from the Qur’an, we explore what it means when Allah says He will leave a person “forgotten,” why our repeated choices shape our direction, and how the dunya can distract us from preparing to meet Him.We also reflect on how knowing Allah builds love, humility, and true attachment to Him. And we explore why reason and revelation are not competitors: the believer thinks, reflects, seeks evidence, and allows Allah’s revelation to guide the ",
-   "audioURL": "https://anchor.fm/s/10804d43c/podcast/play/124854767/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-28%2F49187a7f-6fe1-0916-c944-b711a74e7473.mp3",
-   "published": "Fri, 28 Aug 2026 11:06:45 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/0b/7c/ea0b7cee-add6-1a85-d2b0-54413306d6e1/mza_11881519252368760937.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores spiritual consequences of forgetting Allah despite blessings, urging mindful faith.",
-   "tradition": "Muslim"
-  },
-  {
-   "id": "http://www.qurangarden.com/audio/Session_630_An_Nisaa_Verse_47_c.mp3",
-   "showID": "https://qurangarden.com/feed.xml",
-   "showTitle": "Quran Garden - The Holy Quran Explained in Clear English (English Tafsir)",
-   "title": "Surah An-Nisaa: The Women - Verse 47 - Allah's Curse",
-   "summary": "In today's tafsir, we respond to critics of the Quran who claim that Muslims cannot agree on the meaning of its verses.  We examine the meanings behind the word \"curse\" and explore how God's blessings are often hidden behind life's difficulties.",
-   "audioURL": "http://www.qurangarden.com/audio/Session_630_An_Nisaa_Verse_47_c.mp3",
-   "published": "2026-08-28",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bf/cf/bd/bfcfbde1-76e7-d894-fecd-9220b59716e6/mza_5234589999432850935.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores the meaning of divine curse and blessings in Quranic context with ethical implications.",
+   "reason": "Reflects on patience, faith, and divine testing through Quranic verses.",
    "tradition": "Muslim"
   }
  ],
  "history": {
-  "03a50130-8553-4c8d-a505-65ccf1453c5c": "2026-09-04",
+  "03a50130-8553-4c8d-a505-65ccf1453c5c": "2026-09-05",
   "5654c696-106e-4e48-aa2a-6900553d52b6": "2026-09-04",
   "6528faff-6596-4399-8537-d292f46e9547": "2026-09-03",
-  "b4ce4029-9fd6-4d83-a312-9600cf89b740": "2026-09-04",
-  "Buzzsprout-19736685": "2026-09-03",
-  "739bf7fa-eecf-4f2f-a02b-e26938d2a253": "2026-09-04",
-  "Buzzsprout-19717688": "2026-09-03",
+  "b4ce4029-9fd6-4d83-a312-9600cf89b740": "2026-09-05",
+  "Buzzsprout-19736685": "2026-09-05",
+  "739bf7fa-eecf-4f2f-a02b-e26938d2a253": "2026-09-05",
+  "Buzzsprout-19717688": "2026-09-05",
   "http://www.qurangarden.com/audio/Session_630_An_Nisaa_Verse_47_c.mp3": "2026-09-04",
-  "e369847f-88b1-4d10-9c2b-c2befab054e5": "2026-09-03",
+  "e369847f-88b1-4d10-9c2b-c2befab054e5": "2026-09-05",
   "Buzzsprout-19690544": "2026-09-03",
   "https://www.qalaminstitute.org/?p=21036": "2026-09-04",
-  "6a97ecd31d1d1a8a9d8fedb8": "2026-09-04",
+  "6a97ecd31d1d1a8a9d8fedb8": "2026-09-05",
   "6a994604be98057961ec9bb1": "2026-09-04",
-  "https://mhmic.org/?p=18433": "2026-09-03"
+  "https://mhmic.org/?p=18433": "2026-09-03",
+  "8ae2f352-7d59-4c52-9a17-feea77fb0928": "2026-09-05"
  }
 }
