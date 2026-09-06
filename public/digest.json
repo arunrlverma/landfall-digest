@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-06T12:45:39.387614+00:00",
+ "generatedAt": "2026-09-06T16:05:21.139254+00:00",
  "showsScanned": 400,
- "candidates": 46,
+ "candidates": 45,
  "picks": [
   {
    "id": "84ec0aea-a63c-11f1-a450-872f9e0c6db4",
@@ -14,7 +14,7 @@
    "published": "Wed, 02 Sep 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/59/05/ad590545-0cea-12c2-07f0-5a063c77d11b/mza_17798297345030142677.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "In-depth discussion on consciousness as brain-generated experience challenging reality.",
+   "reason": "Consciousness researcher explains perception as brain's controlled hallucination, probing reality and self.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Fri, 04 Sep 2026 11:30:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A mystic discusses reincarnation, afterlife, and awakening from multiple traditions.",
+   "reason": "A mystic discusses reincarnation, afterlife, and the quest for original true nature.",
    "tradition": "Interfaith"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Sat, 05 Sep 2026 11:30:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A former athlete shares his spiritual journey through meditation, healing, and astrology.",
+   "reason": "A former athlete shares his spiritual journey through suffering and self-discovery.",
    "tradition": "Interfaith"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Thu, 03 Sep 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Guided Buddhist meditation on appreciative joy to deepen happiness and connection.",
+   "reason": "Guided Buddhist meditation on appreciative joy to share in others' happiness.",
    "tradition": "Buddhist"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Thu, 03 Sep 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal story on healing internal wounds and transforming relationships and purpose.",
+   "reason": "Personal story about inner healing transforming relationships and spiritual growth.",
    "tradition": "Interfaith"
   },
   {
@@ -105,7 +105,7 @@
    "published": "Sat, 05 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A discussion on Islamic law and Christian-Muslim relations with some ethical implications.",
+   "reason": "A scholar discusses conflicts between Islamic law and constitutional rights.",
    "tradition": "Muslim"
   }
  ],
