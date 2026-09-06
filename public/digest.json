@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-06T16:05:21.139254+00:00",
+ "generatedAt": "2026-09-06T18:58:26.352650+00:00",
  "showsScanned": 400,
- "candidates": 45,
+ "candidates": 44,
  "picks": [
   {
    "id": "84ec0aea-a63c-11f1-a450-872f9e0c6db4",
@@ -14,7 +14,7 @@
    "published": "Wed, 02 Sep 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/59/05/ad590545-0cea-12c2-07f0-5a063c77d11b/mza_17798297345030142677.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Consciousness researcher explains perception as brain's controlled hallucination, probing reality and self.",
+   "reason": "Consciousness researcher explains perception and reality as brain constructs.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Fri, 04 Sep 2026 11:30:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A mystic discusses reincarnation, afterlife, and the quest for original true nature.",
+   "reason": "A mystic discusses reincarnation, afterlife, and deep spiritual truths from Himalayan and Chinese traditions.",
    "tradition": "Interfaith"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Fri, 04 Sep 2026 06:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ff/b6/6b/ffb66b7d-88f8-88f3-b67c-9189f5167ec1/mza_9140250549875290339.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores UFOs, AI, death, consciousness, and religion from a scholarly perspective.",
+   "reason": "Explores UFOs, AI, death, consciousness, and religion with a scholar blending science and spirituality.",
    "tradition": "Interfaith"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Sat, 05 Sep 2026 11:30:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/7d/73/5f7d7350-0632-49d5-ff14-419faf8a872e/mza_9533167212294269425.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A former athlete shares his spiritual journey through suffering and self-discovery.",
+   "reason": "A former athlete shares his dark night of the soul and spiritual journey through meditation and astrology.",
    "tradition": "Interfaith"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Thu, 03 Sep 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Guided Buddhist meditation on appreciative joy to share in others' happiness.",
+   "reason": "Guided Buddhist meditation on appreciative joy to cultivate happiness through others' well-being.",
    "tradition": "Buddhist"
   },
   {
@@ -79,21 +79,8 @@
    "published": "Thu, 03 Sep 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal story about inner healing transforming relationships and spiritual growth.",
+   "reason": "Personal story of inner healing transforming relationships and spiritual growth.",
    "tradition": "Interfaith"
-  },
-  {
-   "id": "7899106d-8f1c-4250-acf4-a86bd7288c74",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "Jim was a Drug Dealer on the Streets of Chicago...Until God Showed Him His Future",
-   "summary": "\" You really become a new person. You become who you are, who you really are... It took me a little bit of time. It didn't happen overnight for me. But when I decided to change, when I really wanted to change...The other time that I tried to change, I didn't pull the Savior in much. It was, \"I'm gonna stop. I'm gonna change friends.\" This time was different. I really put the effort in to bring Him into my life.\"Tickets to the Come Back to Christ Event: www.comebackpodcast.org00:00 Rock Bottom00:48 Podcast Event Announcement07:34 Early Substance Experimentation11:26 Hard Drugs Arrests and Wake ",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/124822463/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-27%2F430662293-44100-2-6943822df66e6.m4a",
-   "published": "Sun, 30 Aug 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Personal testimony of transformation through faith and surrender to God.",
-   "tradition": "Christian"
   },
   {
    "id": "https://blubrry.com/the_world_and_everything_in_it/155282873/systems-at-odds/",
@@ -105,8 +92,21 @@
    "published": "Sat, 05 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A scholar discusses conflicts between Islamic law and constitutional rights.",
+   "reason": "A scholar discusses conflicts between Islamic law and US law, touching on faith and ethics.",
    "tradition": "Muslim"
+  },
+  {
+   "id": "7202564f-4d19-4c73-b309-59c8c990275b",
+   "showID": "https://anchor.fm/s/10e5a085c/podcast/rss",
+   "showTitle": "The Mark Driscoll Podcast",
+   "title": "How to Know if God Has Given Up on You",
+   "summary": "Sometimes it may feel like God has abandoned you and left you in your pain and you can’t hear Him But is that true?  Dr David Campbell explains what may be drowning out the voice of God in your life.",
+   "audioURL": "https://traffic.megaphone.fm/APO4658290891.mp3",
+   "published": "Thu, 03 Sep 2026 00:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Addresses feelings of divine abandonment and hearing God's voice in pain.",
+   "tradition": "Christian"
   }
  ],
  "history": {
@@ -217,7 +217,7 @@
   "191be433-efd6-4e57-9527-82bef5734d50": "2026-09-05",
   "6a96f67466efea21e002f3b8": "2026-09-04",
   "a1812c52-492d-4500-8372-e8488654d5e9": "2026-09-05",
-  "7202564f-4d19-4c73-b309-59c8c990275b": "2026-09-03",
+  "7202564f-4d19-4c73-b309-59c8c990275b": "2026-09-06",
   "6a7b405cd6c287f9ee7f8722": "2026-09-03",
   "3dd3e3f8-a290-11f1-84a1-974d29bbd021": "2026-09-03",
   "Buzzsprout-19744414": "2026-09-06",
