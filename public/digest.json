@@ -1,21 +1,21 @@
 {
  "version": 1,
- "generatedAt": "2026-09-07T19:45:02.915950+00:00",
+ "generatedAt": "2026-09-07T22:41:21.075720+00:00",
  "showsScanned": 400,
- "candidates": 51,
+ "candidates": 53,
  "picks": [
   {
-   "id": "e21016f4-b563-48bb-9a9e-30b71f503a36",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "Childhood Abuse & the CES Letter Destroyed Bailey's Faith...Until Jesus Rebuilt Her from the Dust",
-   "summary": "\"Those answers just don't matter as much as my relationship with my Savior. It's like a weight system, you know? I'm not gonna give up something that's so important to me for the tiny weight of this one particular answer. I'm weighing my options, and I'm gonna choose Christ every time because He is who put me back together and it doesn't matter if I really believe in polygamy or not. He was there, so I'm with Him.\"Tickets to the Come Back to Christ Event: www.comebackpodcast.org00:00 Abandonment and Doubt00:57 Live Event Announcement04:50 Family Upheaval and Abuse08:06 Speaking Up and Silence2",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/125066771/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-2%2F431000829-44100-2-b869fa468d474.m4a",
-   "published": "Sun, 06 Sep 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "id": "9dde0a85-e9d6-45db-be7e-591fcb707748",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "Megachurch Pastor Turned Agnostic - Todd Phillips Pt. 2 | Ep. 2191",
+   "summary": "What happens when a pastor can no longer believe the message he has spent his life preaching?In Part Two of our conversation with Dr. Todd Phillips, former megachurch pastor and creator of “The Deconstructed Pastor,” Todd continues his journey out of evangelical Christianity. After years of building his life around the Bible, he began confronting difficult questions surrounding his faith in the Bible, Jesus, and even God. Eventually, he reached a point where he could no longer reconcile what he was discovering with the beliefs he had once preached.Todd shares what happened as his faith unravel",
+   "audioURL": "https://traffic.megaphone.fm/APO2323660168.mp3",
+   "published": "Mon, 07 Sep 2026 18:00:01 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Personal story of faith loss and rebuilding relationship with Jesus amid doubt and suffering.",
-   "tradition": "Latter-day Saint"
+   "reason": "A former pastor's deep struggle with faith and doubt after leaving evangelical Christianity.",
+   "tradition": "Christian"
   },
   {
    "id": "tag:soundcloud,2010:tracks/2386371762",
@@ -27,47 +27,34 @@
    "published": "Sun, 30 Aug 2026 23:00:31 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/a8/df/11a8df13-6780-dfdd-bf13-1005a5d00d62/mza_11016080022609779584.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A study of Proverbs and Ecclesiastes on wisdom, purpose, and living well.",
+   "reason": "Explores wisdom, purpose, faith, and how to live well through Proverbs and Ecclesiastes.",
    "tradition": "Christian"
   },
   {
-   "id": "0cf0b2aab698f6232710c8802f403560",
-   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
-   "showTitle": "Becoming Something with Jonathan Pokluda",
-   "title": "Episode 388: Are You Actually a Christian? | feat. Granger Smith",
-   "summary": "<p>This week we sit down with country music artist turned pastor and author Granger Smith to talk about his new book Poison the Well — and the question he asks almost every single day: are you actually a Christian, or have you just checked the box? Granger shares how his own faith unraveled and was rebuilt from the ground up, why he's passionate about sharing the gospel with Christians, and what it really means to follow Jesus beyond an altar call. Pick up Poison the Well wherever books are sold! https://a.co/d/0hQWM5I7</p>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4L2E5OTIyMmVmLWUxZWItNDUyNS04NTllLWY5NTQwZjhlYTc1My9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=df8tvw7",
-   "published": "Mon, 07 Sep 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
+   "id": "e21016f4-b563-48bb-9a9e-30b71f503a36",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "Childhood Abuse & the CES Letter Destroyed Bailey's Faith...Until Jesus Rebuilt Her from the Dust",
+   "summary": "\"Those answers just don't matter as much as my relationship with my Savior. It's like a weight system, you know? I'm not gonna give up something that's so important to me for the tiny weight of this one particular answer. I'm weighing my options, and I'm gonna choose Christ every time because He is who put me back together and it doesn't matter if I really believe in polygamy or not. He was there, so I'm with Him.\"Tickets to the Come Back to Christ Event: www.comebackpodcast.org00:00 Abandonment and Doubt00:57 Live Event Announcement04:50 Family Upheaval and Abuse08:06 Speaking Up and Silence2",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/125066771/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-2%2F431000829-44100-2-b869fa468d474.m4a",
+   "published": "Sun, 06 Sep 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A pastor and artist discusses faith loss and rebuilding authentic Christianity.",
+   "reason": "Personal story of faith lost and rebuilt through relationship with Jesus despite doubts.",
+   "tradition": "Latter-day Saint"
+  },
+  {
+   "id": "1c6db8cb-3ad1-4e64-95bd-1efc82ef7a79",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "Becoming a Megachurch Pastor - Todd Phillips Pt. 1 | Ep. 2190",
+   "summary": "What would cause a megachurch pastor to lose his faith?In this episode of Mormon Stories Podcast, we sit down with former megachurch pastor Dr. Todd Phillips to explore his journey from a new Christian searching for a fresh start, to becoming a pastor and ministry leader, preaching to crowds of 10,000 people or more.Todd grew up without a strong religious background, but after finding Christianity in his twenties, he quickly immersed himself in evangelicalism. He went on to become a preacher and pastor at McLean Bible Church in Washington, D.C., and Lakepointe Church in Dallas. He eventually w",
+   "audioURL": "https://traffic.megaphone.fm/APO7689752456.mp3",
+   "published": "Mon, 07 Sep 2026 18:00:01 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Pastor's journey into and out of faith, exploring meaning and belief.",
    "tradition": "Christian"
-  },
-  {
-   "id": "7bed9ee5-27ad-4a5f-997f-6edb31ddb397",
-   "showID": "https://feeds.simplecast.com/4T39_jAj",
-   "showTitle": "StarTalk Radio",
-   "title": "This Is Your Brain on Psychedelics",
-   "summary": "What if you could reopen your childhood brain? Neil deGrasse Tyson, Chuck Nice, and Gary O’Reilly explore the cutting edge of psychedelic science, critical periods, and what a high octopus can teach us about the human mind with neuroscientist and psychedelics expert Gül Dölen.\nNOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: \n https://startalkmedia.com/show/this-is-your-brain-on-psychedelics/\nThanks to our Patrons Edward Tuten, CJP, David Williamson, Shelsea Evans, Curious1, brittanivstheworld, Mark Huth, Annmarie Pine, Austin Wiggins, John Sprot, T.C. Polk, Davi",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/d40e954f-9950-40e7-b9c9-b9ef4c386189/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&amp;awEpisodeId=d40e954f-9950-40e7-b9c9-b9ef4c386189&amp;feed=4T39_jAj",
-   "published": "Fri, 4 Sep 2026 05:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d7/88/9b/d7889bab-dca5-77ba-3d0c-7fae8f16ab11/mza_8810454848871508.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Neuroscientific exploration of psychedelics and consciousness with philosophical depth.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "https://therapistuncensored.com/?p=20685",
-   "showID": "https://feeds.podcastmirror.com/therapist-uncensored-podcast",
-   "showTitle": "Therapist Uncensored Podcast",
-   "title": "Attachment Isn’t Solo Work: Healing Through Community with Martin Jonsson (310)",
-   "summary": "Attachment repair is a skill, not just insight.\nSwedish clinical psychologist and SecureBase Lab founder Martin Jonsson explores how attachment healing extends beyond individual therapy and into relationships and community. Martin shares how peer support, shared experiences, and practical secure-relating skills can create opportunities for attachment repair, while exploring the roles of spirituality, sexuality, and belonging in building deeper, more secure connections.\n\n“Community is about horizontal empathy, not hierarchy.” – Martin Jonsson\n\nAttachment Isn’t Solo Work: Healing Through Communi",
-   "audioURL": "https://pscrb.fm/rss/p/media.blubrry.com/therapistuncensored/ins.blubrry.com/therapistuncensored/20260901TUS10MartinJonssonFINALwithADsV2.mp3",
-   "published": "Tue, 01 Sep 2026 05:05:09 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/22/d8/fd/22d8fdc2-16f5-a4ec-cb43-5a2d4b92ffa6/mza_5288490312746447040.png/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A psychologist discusses healing attachment through community, spirituality, and belonging.",
-   "tradition": "Secular"
   },
   {
    "id": "2b86e7e8-262a-472a-ab29-6734ecfb1f9c",
@@ -79,7 +66,7 @@
    "published": "Thu, 03 Sep 2026 18:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A pastor reflects honestly on faith, ministry challenges, and staying grounded in Scripture.",
+   "reason": "A Christian minister reflects honestly on faith, ministry challenges, and staying grounded in Scripture.",
    "tradition": "Christian"
   },
   {
@@ -92,7 +79,20 @@
    "published": "Fri, 04 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/4e/30/364e308d-99c9-778e-e711-59e090408814/mza_3684559455643163671.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A former soldier turned Bible teacher explores resurrection and the nature of the afterlife.",
+   "reason": "A former soldier turned Bible teacher explores resurrection, new creation, and Christian hope.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "0cf0b2aab698f6232710c8802f403560",
+   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
+   "showTitle": "Becoming Something with Jonathan Pokluda",
+   "title": "Episode 388: Are You Actually a Christian? | feat. Granger Smith",
+   "summary": "<p>This week we sit down with country music artist turned pastor and author Granger Smith to talk about his new book Poison the Well — and the question he asks almost every single day: are you actually a Christian, or have you just checked the box? Granger shares how his own faith unraveled and was rebuilt from the ground up, why he's passionate about sharing the gospel with Christians, and what it really means to follow Jesus beyond an altar call. Pick up Poison the Well wherever books are sold! https://a.co/d/0hQWM5I7</p>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4L2E5OTIyMmVmLWUxZWItNDUyNS04NTllLWY5NTQwZjhlYTc1My9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=df8tvw7",
+   "published": "Mon, 07 Sep 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A pastor and musician discusses faith loss and rebuilding authentic Christian discipleship.",
    "tradition": "Christian"
   },
   {
@@ -105,7 +105,7 @@
    "published": "Wed, 02 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/4e/30/364e308d-99c9-778e-e711-59e090408814/mza_3684559455643163671.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores Paul's teaching on divine light within fragile human vessels.",
+   "reason": "Study of Paul's teaching on divine light within believers and spiritual blindness.",
    "tradition": "Christian"
   },
   {
@@ -118,7 +118,7 @@
    "published": "Mon, 07 Sep 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Neuroscientist discusses health, prayer, surrender, and managing energy with some spiritual insight.",
+   "reason": "Neuroscientist discusses health, prayer, surrender, and managing energy with spiritual insight.",
    "tradition": "Secular"
   },
   {
@@ -131,7 +131,7 @@
    "published": "Tue, 01 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Reflects on biblical righteousness, wisdom, and moral vigilance in daily life.",
+   "reason": "Reflects on biblical righteousness, wisdom, and moral vigilance.",
    "tradition": "Catholic"
   },
   {
@@ -143,9 +143,35 @@
    "audioURL": "https://media.transistor.fm/632fa50d/bf4f6b09.mp3",
    "published": "Mon, 07 Sep 2026 06:00:00 -0700",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/a8/8f/81a88f0e-0508-5a5e-d17c-ca279a90536b/mza_15434821659162479685.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses reconnecting with the body through presence and curiosity, touching on mindfulness.",
+   "rating": 7,
+   "reason": "Explores women's embodied experience and mindfulness beyond body image.",
    "tradition": "Secular"
+  },
+  {
+   "id": "https://therapistuncensored.com/?p=20685",
+   "showID": "https://feeds.podcastmirror.com/therapist-uncensored-podcast",
+   "showTitle": "Therapist Uncensored Podcast",
+   "title": "Attachment Isn’t Solo Work: Healing Through Community with Martin Jonsson (310)",
+   "summary": "Attachment repair is a skill, not just insight.\nSwedish clinical psychologist and SecureBase Lab founder Martin Jonsson explores how attachment healing extends beyond individual therapy and into relationships and community. Martin shares how peer support, shared experiences, and practical secure-relating skills can create opportunities for attachment repair, while exploring the roles of spirituality, sexuality, and belonging in building deeper, more secure connections.\n\n“Community is about horizontal empathy, not hierarchy.” – Martin Jonsson\n\nAttachment Isn’t Solo Work: Healing Through Communi",
+   "audioURL": "https://pscrb.fm/rss/p/media.blubrry.com/therapistuncensored/ins.blubrry.com/therapistuncensored/20260901TUS10MartinJonssonFINALwithADsV2.mp3",
+   "published": "Tue, 01 Sep 2026 05:05:09 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/22/d8/fd/22d8fdc2-16f5-a4ec-cb43-5a2d4b92ffa6/mza_5288490312746447040.png/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores attachment healing through community, including spirituality and belonging.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "e5d0f216ddafe594d29b64b99aca4628",
+   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
+   "showTitle": "Becoming Something with Jonathan Pokluda",
+   "title": "Episode 387: How to Make the Most of Your Singleness",
+   "summary": "<p>In this episode, a listener calls in with a question a lot of single Christians are quietly asking — am I supposed to be spending this season preparing for marriage, or is that missing the point entirely? JP, Kathy, and Nate unpack what it actually looks like to embrace singleness as a daughter of God rather than just a waiting room for a relationship. If you're single and trying to figure out what this season is for, this one's for you!</p>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4LzliNmYwOGQwLTE0MWUtNGVkZi05MTFmLThmYjlmNzE2NzgxNS9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=cv42gxq",
+   "published": "Mon, 31 Aug 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "A Christian view on singleness and purpose beyond marriage preparation.",
+   "tradition": "Christian"
   }
  ],
  "history": {
@@ -234,7 +260,7 @@
   "tag:soundcloud,2010:tracks/2386371762": "2026-09-07",
   "svHJAjVQRLs7aAbW1jamauoLFT0R5gQo": "2026-08-31",
   "7899106d-8f1c-4250-acf4-a86bd7288c74": "2026-09-06",
-  "e5d0f216ddafe594d29b64b99aca4628": "2026-09-03",
+  "e5d0f216ddafe594d29b64b99aca4628": "2026-09-07",
   "1bed3f5c-a48c-11f1-9112-576bed9f9fb3": "2026-09-05",
   "tag:soundcloud,2010:tracks/2391476154": "2026-09-03",
   "https://therapistuncensored.com/?p=20685": "2026-09-07",
@@ -273,6 +299,8 @@
   "d252c192-a89f-11f1-99e6-1b1f53e86e1e": "2026-09-07",
   "6a9a89618f0834a1091df471": "2026-09-07",
   "0cf0b2aab698f6232710c8802f403560": "2026-09-07",
-  "59741847-4b13-492c-ac17-8ca7121633b0": "2026-09-07"
+  "59741847-4b13-492c-ac17-8ca7121633b0": "2026-09-07",
+  "9dde0a85-e9d6-45db-be7e-591fcb707748": "2026-09-07",
+  "1c6db8cb-3ad1-4e64-95bd-1efc82ef7a79": "2026-09-07"
  }
 }
