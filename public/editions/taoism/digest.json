@@ -6,10 +6,23 @@
   "Buddhist",
   "Interfaith"
  ],
- "generatedAt": "2026-09-06T13:13:27.690137+00:00",
+ "generatedAt": "2026-09-07T15:21:30.607023+00:00",
  "showsScanned": 1200,
  "candidates": 13,
  "picks": [
+  {
+   "id": "https://www.upaya.org/?p=110039",
+   "showID": "http://feeds.feedburner.com/DharmaPodcast",
+   "showTitle": "Upaya Zen Center's Dharma Podcast",
+   "title": "The Open Gate",
+   "summary": "In this Wednesday Night Dharma Talk, Sensei Fushin turns to the first two folds of the Eightfold Path—right view and right intention—the wisdom from which the rest of the path grows. Right view, he suggests, is not a belief we acquire but seeing what is actually here, before we add our story about it. “The eye opens. The heart leans,” he says — one sees, one moves, and they are not two.\nSource",
+   "audioURL": "https://traffic.libsyn.com/dharmapodcast/DP_2658___James_Bristol__The_Open_Gate.mp3",
+   "published": "Mon, 07 Sep 2026 11:00:23 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/f4/c6/18/f4c6186e-3fa9-88f0-0c21-139bc06f38a0/mza_3444705071797950145.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Zen Dharma talk on right view and intention as foundational wisdom for practice.",
+   "tradition": "Buddhist"
+  },
   {
    "id": "cdce1c85-778a-4b48-af80-879e3e0ee181",
    "showID": "https://rss.libsyn.com/shows/133274/destinations/816836.xml",
@@ -20,7 +33,7 @@
    "published": "Tue, 01 Sep 2026 05:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/4e/73/87/4e7387b6-6858-bffa-f717-47a2387c1249/mza_17110028496846336016.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Discussion of Chuang Tzu's advice on rulership and inner truth from Taoist classic.",
+   "reason": "Discussion of Chuang Tzu's advice on leadership and living in accord with inner truth.",
    "tradition": "Taoist"
   },
   {
@@ -33,20 +46,7 @@
    "published": "Thu, 03 Sep 2026 04:00:00 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/97/ff/40/97ff40e4-d9be-12da-57f4-49fcb61bb5af/mza_9051396875810961188.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Instructions on sitting as Buddha focus on embodied presence and non-self in Zen practice.",
-   "tradition": "Buddhist"
-  },
-  {
-   "id": "9873179d-d2b6-4801-b843-cfcda8015e4f",
-   "showID": "https://feeds.transistor.fm/zen-community-of-oregon-dharma-talks",
-   "showTitle": "Zen Community of Oregon Dharma Talks",
-   "title": "Not Personal, Permanent, or Perfect: The Three Dharma Seals- Zen Teacher Jomon",
-   "summary": "This talk on reflects on the Five Remembrances — that we are of the nature to age, get sick, die, and be separated from loved ones — as a practice for living wisely rather than in denial. Rather than being purely somber, these reflections are offered as a way to \"sweeten the deal,\" deepening appreciation for the present moment and one's relationships.\n\n  ★ Support this podcast ★\n]]>",
-   "audioURL": "https://media.transistor.fm/3583829a/f8f20486.mp3",
-   "published": "Thu, 03 Sep 2026 15:05:46 -0700",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2f/41/63/2f4163a5-6a6c-e2df-6a39-49dca5e40995/mza_9474166674744432027.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Reflection on impermanence and mortality as a practice for wise living in Zen tradition.",
+   "reason": "Detailed Zen sitting instructions focusing on body awareness and non-thinking practice.",
    "tradition": "Buddhist"
   },
   {
@@ -58,8 +58,8 @@
    "audioURL": "https://episodes.castos.com/655b5f2e685f74-04154040/2594428/c1e-m29v1s4opnzaov96x-rkoqpn0qsn2k-wzmqpm.mp3",
    "published": "Thu, 03 Sep 2026 22:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/60/2d/44/602d4461-5daf-abe0-7be8-4cc505626358/mza_16322369615710966278.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Live Q&A with Zen Buddhist teachings on suffering and happiness rooted in Thich Nhat Hanh's philosophy.",
+   "rating": 8,
+   "reason": "Live Zen Buddhist teaching on suffering and happiness with Thich Nhat Hanh's philosophy.",
    "tradition": "Buddhist"
   },
   {
@@ -72,7 +72,7 @@
    "published": "Mon, 31 Aug 2026 03:15:48 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/f4/c6/18/f4c6186e-3fa9-88f0-0c21-139bc06f38a0/mza_3444705071797950145.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores Zen contemplative states and awakening with Roshi Joan Halifax.",
+   "reason": "Zen talk on contemplative states and awakening with reference to psychedelic research.",
    "tradition": "Buddhist"
   },
   {
@@ -85,7 +85,20 @@
    "published": "Wed, 02 Sep 2026 01:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5e/ac/c6/5eacc6ca-ee3b-0564-c323-2396e7bd6d40/mza_3908405633086915167.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Zen Buddhist stories and teachings on impermanence and letting go for restful sleep.",
+   "reason": "Buddhist stories for sleep exploring attachment, acceptance, and impermanence.",
+   "tradition": "Buddhist"
+  },
+  {
+   "id": "9873179d-d2b6-4801-b843-cfcda8015e4f",
+   "showID": "https://feeds.transistor.fm/zen-community-of-oregon-dharma-talks",
+   "showTitle": "Zen Community of Oregon Dharma Talks",
+   "title": "Not Personal, Permanent, or Perfect: The Three Dharma Seals- Zen Teacher Jomon",
+   "summary": "This talk on reflects on the Five Remembrances — that we are of the nature to age, get sick, die, and be separated from loved ones — as a practice for living wisely rather than in denial. Rather than being purely somber, these reflections are offered as a way to \"sweeten the deal,\" deepening appreciation for the present moment and one's relationships.\n\n  ★ Support this podcast ★\n]]>",
+   "audioURL": "https://media.transistor.fm/3583829a/f8f20486.mp3",
+   "published": "Thu, 03 Sep 2026 15:05:46 -0700",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2f/41/63/2f4163a5-6a6c-e2df-6a39-49dca5e40995/mza_9474166674744432027.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Zen reflection on mortality and impermanence to deepen present moment appreciation.",
    "tradition": "Buddhist"
   },
   {
@@ -98,7 +111,7 @@
    "published": "Thu, 03 Sep 2026 15:01:06 -0700",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2f/41/63/2f4163a5-6a6c-e2df-6a39-49dca5e40995/mza_9474166674744432027.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Talk on sitting practice as metaphor for life’s challenges in Zen tradition.",
+   "reason": "Zen talk on embracing difficulty and doubt as part of deepening practice.",
    "tradition": "Buddhist"
   }
  ],
@@ -106,13 +119,14 @@
   "9744de32-8d5b-11f1-9320-373a9fdb14fa": "2026-09-05",
   "e5d2a132-ea85-4eed-84dc-e5b6a02bd040": "2026-09-04",
   "20260827-Devon_Hase-IMSRC-like_the_river_flows_anatt_impermanence_and_the_freedom_of_no_fixed_address-99093.mp3": "2026-09-03",
-  "cdce1c85-778a-4b48-af80-879e3e0ee181": "2026-09-06",
+  "cdce1c85-778a-4b48-af80-879e3e0ee181": "2026-09-07",
   "d04cafc1-3601-4577-9715-374af0c29a05": "2026-09-03",
-  "https://www.upaya.org/?p=109791": "2026-09-06",
-  "Buzzsprout-19744845": "2026-09-06",
-  "2a056eeb-2dfc-59cb-8949-7366e23a5e3a": "2026-09-06",
-  "9873179d-d2b6-4801-b843-cfcda8015e4f": "2026-09-06",
-  "57a901a2-fc99-421b-8e6a-bb8d0cab784a": "2026-09-06",
-  "14a4be6a-e040-42f9-b833-aaff5c9ce92f": "2026-09-06"
+  "https://www.upaya.org/?p=109791": "2026-09-07",
+  "Buzzsprout-19744845": "2026-09-07",
+  "2a056eeb-2dfc-59cb-8949-7366e23a5e3a": "2026-09-07",
+  "9873179d-d2b6-4801-b843-cfcda8015e4f": "2026-09-07",
+  "57a901a2-fc99-421b-8e6a-bb8d0cab784a": "2026-09-07",
+  "14a4be6a-e040-42f9-b833-aaff5c9ce92f": "2026-09-07",
+  "https://www.upaya.org/?p=110039": "2026-09-07"
  }
 }
