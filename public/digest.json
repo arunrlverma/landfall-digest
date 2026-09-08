@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-08T20:57:40.036357+00:00",
+ "generatedAt": "2026-09-08T23:18:51.473994+00:00",
  "showsScanned": 400,
- "candidates": 57,
+ "candidates": 56,
  "picks": [
   {
    "id": "6a0d264e-ea40-49f4-9950-b0e8e5721a1c",
@@ -27,7 +27,7 @@
    "published": "Wed, 2 Sep 2026 16:20:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/3e/45/1f3e45f9-7011-7bdf-6999-99c8d8643a65/mza_15402691122318060700.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores quieting the mind and consciousness from a spiritual and mental health perspective.",
+   "reason": "A spiritual leader discusses quieting the mind and consciousness.",
    "tradition": "Hindu"
   },
   {
@@ -53,20 +53,20 @@
    "published": "Tue, 08 Sep 2026 14:33:35 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares insights on death, hospice care, and experiences near the end of life.",
-   "tradition": "Secular"
+   "reason": "Shares insights on death, hospice, and afterlife experiences from medical professionals.",
+   "tradition": "Interfaith"
   },
   {
    "id": "https://therapistuncensored.com/?p=20697",
    "showID": "https://feeds.podcastmirror.com/therapist-uncensored-podcast",
    "showTitle": "Therapist Uncensored Podcast",
    "title": "Bonus – The Art of Allowing: Psychedelics, Breathwork & Expanded States of Consciousness with Patty Nagle (311)",
-   "summary": "Patreon/Supercast Special Release –\nBonus – The Art of Allowing: Psychedelics, Breathwork & Expanded States (311)\nThis is a sneak peek of our episode with Patty Nagle – available only on our Premium Supercast and Patreon platforms. For as little as $5/month you can have access to special releases like this one, first-to-know about upcoming events and discounts and an ad-free feed.\nClick here to join & finish the episode!!\n\nLicensed mental health counselor and breathwork facilitator, Patty Nagle, explores the practice of “allowing”—slowing down, releasing the need to constantly effort, and crea",
+   "summary": "<p>Explore expanded states of consciousness with Patty Nagle's insights on breathwork and psychedelics for personal transformation.</p>",
    "audioURL": "https://pscrb.fm/rss/p/media.blubrry.com/therapistuncensored/ins.blubrry.com/therapistuncensored/20260915TUS10PattyNagleFREEPREVIEW.mp3",
    "published": "Tue, 08 Sep 2026 05:05:32 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/22/d8/fd/22d8fdc2-16f5-a4ec-cb43-5a2d4b92ffa6/mza_5288490312746447040.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "Mental health counselor discusses psychedelics and expanded consciousness states.",
+   "reason": "Explores expanded consciousness through psychedelics and breathwork for transformation.",
    "tradition": "Secular"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Wed, 02 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/2c/a5/9b2ca564-1ce7-fae8-04fa-63d8e30bcdb8/mza_6685621244595433790.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses the tension between justice and righteousness in Christian social ethics.",
+   "reason": "A Christian discussion on justice, righteousness, and social ethics.",
    "tradition": "Christian"
   },
   {
@@ -92,7 +92,7 @@
    "published": "Tue, 01 Sep 2026 18:32:55 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Considers John Coltrane's spiritual music and legacy through his son's perspective.",
+   "reason": "A conversation about John Coltrane's spiritual music and its impact on consciousness and art.",
    "tradition": "Secular"
   },
   {
@@ -105,7 +105,7 @@
    "published": "Tue, 8 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/81/a8/3e81a88a-fea6-be8b-7bbb-431d9c685bd0/mza_8248505836165703838.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Considers plant intelligence and consciousness, challenging usual views of life.",
+   "reason": "Considers plant intelligence and consciousness, expanding views on life and awareness.",
    "tradition": "Secular"
   },
   {
@@ -118,8 +118,8 @@
    "published": "Tue, 01 Sep 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Focuses on emotional growth and trusting a higher power in personal transformation.",
-   "tradition": "Secular"
+   "reason": "Explores emotional growth and trusting a higher power in personal transformation.",
+   "tradition": "Interfaith"
   },
   {
    "id": "flightcast:01M0WNT25X5FXETPANXF0H3S45",
@@ -131,7 +131,7 @@
    "published": "Tue, 01 Sep 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/66/f9/ab/66f9ab37-20bf-ce22-9cda-5d0cf53fc123/mza_12992934777200774032.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses trauma healing and nervous system regulation with some spiritual context.",
+   "reason": "Conversation on trauma healing and nervous system regulation with spiritual elements.",
    "tradition": "Secular"
   },
   {
@@ -144,7 +144,7 @@
    "published": "Tue, 08 Sep 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/9f/12/809f1210-c215-9d6a-5dbd-45124c012604/mza_7903026632038263183.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses overcoming toxic beliefs to embrace Jesus, with personal testimony.",
+   "reason": "Christian musician discusses toxic beliefs blocking faith in Jesus.",
    "tradition": "Christian"
   },
   {
@@ -157,21 +157,8 @@
    "published": "Tue, 08 Sep 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses Catholic doctrine and Old Testament but mainly doctrinal and institutional.",
+   "reason": "A Catholic cardinal discusses Old Testament themes with some doctrinal depth but limited philosophical dwelling.",
    "tradition": "Catholic"
-  },
-  {
-   "id": "9fdc7692-aba4-11f1-abd1-93a7e543c78d",
-   "showID": "https://feeds.megaphone.fm/BMDC3567910388",
-   "showTitle": "The Glenn Beck Program",
-   "title": "Best of the Program | Guest: Jonathan Cahn | 9/8/26",
-   "summary": "Glenn also asks the age-old question: Who am I, really? Author Jonathan Cahn joins to discuss the viral plane incident where an elderly man was duct-taped to his chair after yelling racial slurs and attacking a passenger, who turned out to be Jonathan.&nbsp;Was this a case of demonic possession and spiritual warfare? Glenn breaks down how an Xbox controller has been used for far more than playing Halo, showing how warfare has rapidly evolved against major threats.&nbsp;\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pfx.vpixl.com/4V6da/arttrk.com/p/BLZM1/verifi.podscribe.com/rss/p/mgln.ai/e/285/pscrb.fm/rss/p/prfx.byspotify.com/e/claritaspod.com/measure/traffic.megaphone.fm/BMDC1105857768.mp3",
-   "published": "Tue, 08 Sep 2026 17:47:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/a0/12/46a0122e-5011-ffbd-cd2f-3c7a2d27777e/mza_6245367014521206082.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses spiritual warfare and identity with religious framing but mixed topics.",
-   "tradition": "Christian"
   }
  ],
  "history": {
