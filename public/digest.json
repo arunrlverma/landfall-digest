@@ -1,9 +1,22 @@
 {
  "version": 1,
- "generatedAt": "2026-09-08T07:06:47.743769+00:00",
+ "generatedAt": "2026-09-08T12:45:48.033050+00:00",
  "showsScanned": 400,
- "candidates": 48,
+ "candidates": 56,
  "picks": [
+  {
+   "id": "c16e253e-a5b5-11f1-be6a-fb0b34698b1a",
+   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
+   "showTitle": "Blurry Creatures",
+   "title": "EP: 460 What REALLY Happened On The Mountaintop with Robby Gallaty",
+   "summary": "The Transfiguration might be the strangest scene in the Gospels. Jesus climbs a mountain, his face lights up, and two men who have been dead for centuries, Moses and Elijah, are suddenly standing there talking with him. Most sermons rush right past it. Robby Gallaty wants to stop and sit in the weirdness. Robby is the senior pastor of Long Hollow Church in Hendersonville, Tennessee, the founder of Replicate Ministries, and a preacher with a PhD who has given his life to making disciples. And he says that to understand the Transfiguration, you have to understand the mountain. Set against Mount ",
+   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW6943190099.mp3",
+   "published": "Tue, 01 Sep 2026 21:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A pastor reflects thoughtfully on the mysterious Transfiguration event in the Gospels.",
+   "tradition": "Christian"
+  },
   {
    "id": "a1812c52-492d-4500-8372-e8488654d5e9",
    "showID": "https://rss.libsyn.com/shows/40819/destinations/121777.xml",
@@ -13,8 +26,8 @@
    "audioURL": "https://pscrb.fm/rss/p/claritaspod.com/measure/traffic.libsyn.com/secure/thephilvischerpodcast/HP736.mp3?dest-id=121777",
    "published": "Wed, 02 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/2c/a5/9b2ca564-1ce7-fae8-04fa-63d8e30bcdb8/mza_6685621244595433790.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Examines justice, righteousness, and social ethics within evangelical Christianity.",
+   "rating": 7,
+   "reason": "Examines the tension between Christian doctrine and social justice in evangelicalism.",
    "tradition": "Christian"
   },
   {
@@ -26,35 +39,9 @@
    "audioURL": "https://clrtpod.com/m/pscrb.fm/rss/p/mgln.ai/e/1184/afp-969439-injected.calisto.simplecastaudio.com/a7765f3f-02e4-4ded-bca1-01a20b7f82a5/episodes/333a6327-7726-46e4-b6f8-c235dc72ce49/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=a7765f3f-02e4-4ded-bca1-01a20b7f82a5&amp;awEpisodeId=333a6327-7726-46e4-b6f8-c235dc72ce49&amp;feed=NVPdHs07",
    "published": "Wed, 2 Sep 2026 16:20:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/3e/45/1f3e45f9-7011-7bdf-6999-99c8d8643a65/mza_15402691122318060700.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Discusses quieting the mind, consciousness, and mental health from a spiritual perspective.",
-   "tradition": "Hindu"
-  },
-  {
-   "id": "c16e253e-a5b5-11f1-be6a-fb0b34698b1a",
-   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
-   "showTitle": "Blurry Creatures",
-   "title": "EP: 460 What REALLY Happened On The Mountaintop with Robby Gallaty",
-   "summary": "The Transfiguration might be the strangest scene in the Gospels. Jesus climbs a mountain, his face lights up, and two men who have been dead for centuries, Moses and Elijah, are suddenly standing there talking with him. Most sermons rush right past it. Robby Gallaty wants to stop and sit in the weirdness. Robby is the senior pastor of Long Hollow Church in Hendersonville, Tennessee, the founder of Replicate Ministries, and a preacher with a PhD who has given his life to making disciples. And he says that to understand the Transfiguration, you have to understand the mountain. Set against Mount ",
-   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW6943190099.mp3",
-   "published": "Tue, 01 Sep 2026 21:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Contemplates the Transfiguration's mystery and spiritual significance in the Gospels.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "1bed3f5c-a48c-11f1-9112-576bed9f9fb3",
-   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
-   "showTitle": "Live Free with Josh Howerton",
-   "title": "Does God PREDESTINE Some People to HELL!? | Live Free with Josh Howerton",
-   "summary": "Predestination. Election. Free will. Calvinism. Arminianism. Few theological conversations generate more questions—or stronger opinions. So what does the Bible actually say, and how should Christians respond when faithful believers reach different conclusions?\n\nPastors Carlos and Paul begin in 2 Timothy 2 with a practical conversation about spiritual grit, discipline, and the difference between simply trying to follow Jesus and intentionally training to become more like Him. Then they dive into one of Christianity’s most debated subjects: how God’s sovereignty, election, human responsibility, ",
-   "audioURL": "https://traffic.megaphone.fm/HAEEH1049674280.mp3",
-   "published": "Mon, 31 Aug 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Pastors discuss predestination, free will, and theological tensions in Christian thought.",
-   "tradition": "Christian"
+   "reason": "Discusses quieting the mind and consciousness from a spiritual leader's perspective.",
+   "tradition": "Hindu"
   },
   {
    "id": "Buzzsprout-19732339",
@@ -66,34 +53,21 @@
    "published": "Tue, 01 Sep 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Focuses on trusting personal growth and spiritual transformation.",
+   "reason": "Explores trusting personal transformation and higher power in emotional growth.",
    "tradition": "Interfaith"
   },
   {
-   "id": "flightcast:01M0WNT25X5FXETPANXF0H3S45",
-   "showID": "https://rss2.flightcast.com/ee1bp3zh9h0d003fe1kvtfgi.xml",
-   "showTitle": "The Thyroid (and Hormone) Fixer Podcast: Thyropause, Menopause, Metabolism and How to Fix It",
-   "title": "661. Before You Give Up on Your Health: The Missing Link to Joy, Healing & Health",
-   "summary": "I’m joined by my dear friend Kristin Weitzel for a conversation about psychedelic-assisted therapy, trauma, nervous system regulation, and what it can look like to create meaningful change from the inside out. \nKristin brings more than 15 years of experience in breathwork, nervous system regulation, health optimization, and integration work, and she shares what led her from supporting plant medicine ceremonies to becoming a facilitator herself. We talk about the resistance many people have around psychedelics, including the belief that they do not have “big enough” trauma to address, and why t",
-   "audioURL": "https://episode.flightcast.com/01M0WNT25X3YM09E2G00SV832Q.mp3",
-   "published": "Tue, 01 Sep 2026 08:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/66/f9/ab/66f9ab37-20bf-ce22-9cda-5d0cf53fc123/mza_12992934777200774032.jpeg/600x600bb.jpg",
+   "id": "570b8a32-cf97-4d3e-b84f-e49df5c078ed",
+   "showID": "https://feeds.simplecast.com/kjVlTFLO",
+   "showTitle": "The Nature Of with Willow Defebaugh",
+   "title": "Are Plants Intelligent? Zoë Schlanger Has the Answer",
+   "summary": "What if plants are more intelligent than we've ever imagined? This week, Willow sits down with journalist and The Light Eaters author Zoë Schlanger for a conversation about the hidden lives of plants and what they reveal about intelligence, consciousness, and our place in the natural world. By the end of this conversation, you may never look at a tree or a houseplant the same way again.For more about Zoë Schlanger: https://www.zoeschlanger.com Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+   "audioURL": "https://mgln.ai/e/1245/afp-916008-injected.calisto.simplecastaudio.com/0d3bd6b6-2cfe-4942-ba2b-ec8eedc51581/episodes/1dfda4ed-89b6-400a-a34b-037a77a497c6/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0d3bd6b6-2cfe-4942-ba2b-ec8eedc51581&amp;awEpisodeId=1dfda4ed-89b6-400a-a34b-037a77a497c6&amp;feed=kjVlTFLO",
+   "published": "Tue, 8 Sep 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/81/a8/3e81a88a-fea6-be8b-7bbb-431d9c685bd0/mza_8248505836165703838.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Covers trauma, healing, and nervous system regulation with spiritual integration.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "6a98536b8f08bf7c3abbe8c1",
-   "showID": "https://www.theguardian.com/technology/series/blackbox/podcast.xml",
-   "showTitle": "Black Box: The Chatbots",
-   "title": "Black Box: The Chatbots | Spirals | Ep 1",
-   "summary": "Across the world, hundreds of people have come to believe they have made extraordinary scientific discoveries with AI chatbots such as ChatGPT, Claude and Gemini. Others say their AI has ‘awakened’, or is leading them to a higher spiritual realm. The Guardian journalist Michael Safi begins investigating a phenomenon labelled ‘AI psychosis’, travelling to the US to meet two people who have been on weird journeys with their chatbots",
-   "audioURL": "https://flex.acast.com/audio.guim.co.uk/2026/09/03-43424-gdn.bb2.030926.jk.spirals.mp3",
-   "published": "Thu, 03 Sep 2026 12:42:54 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/86/fa/ca86fad3-33a3-9564-9c16-5de5b26ed871/mza_12886737881153787636.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Investigates AI-induced altered states and spiritual experiences with a journalistic lens.",
-   "tradition": "Secular"
+   "reason": "Considers plant intelligence and consciousness challenging human-centered views.",
+   "tradition": "Interfaith"
   },
   {
    "id": "https://therapistuncensored.com/?p=20697",
@@ -105,7 +79,59 @@
    "published": "Tue, 08 Sep 2026 05:05:32 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/22/d8/fd/22d8fdc2-16f5-a4ec-cb43-5a2d4b92ffa6/mza_5288490312746447040.png/600x600bb.jpg",
    "rating": 6,
-   "reason": "Mental health counselor discusses psychedelics and breathwork for expanded consciousness.",
+   "reason": "Discussion on psychedelics and breathwork as paths to expanded consciousness.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "flightcast:01M0WNT25X5FXETPANXF0H3S45",
+   "showID": "https://rss2.flightcast.com/ee1bp3zh9h0d003fe1kvtfgi.xml",
+   "showTitle": "The Thyroid (and Hormone) Fixer Podcast: Thyropause, Menopause, Metabolism and How to Fix It",
+   "title": "661. Before You Give Up on Your Health: The Missing Link to Joy, Healing & Health",
+   "summary": "I’m joined by my dear friend Kristin Weitzel for a conversation about psychedelic-assisted therapy, trauma, nervous system regulation, and what it can look like to create meaningful change from the inside out. \nKristin brings more than 15 years of experience in breathwork, nervous system regulation, health optimization, and integration work, and she shares what led her from supporting plant medicine ceremonies to becoming a facilitator herself. We talk about the resistance many people have around psychedelics, including the belief that they do not have “big enough” trauma to address, and why t",
+   "audioURL": "https://episode.flightcast.com/01M0WNT25X3YM09E2G00SV832Q.mp3",
+   "published": "Tue, 01 Sep 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/66/f9/ab/66f9ab37-20bf-ce22-9cda-5d0cf53fc123/mza_12992934777200774032.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Talks about trauma healing and nervous system regulation with some spiritual elements.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "45214e6a-a511-11f1-88de-7f2ab56b229f",
+   "showID": "https://feeds.megaphone.fm/LEW6901658133",
+   "showTitle": "Undaunted.Life: A Man's Podcast by Kyle Thompson",
+   "title": "GRANGER SMITH | Toxic Beliefs That Keep You From Jesus (Ep. 967)",
+   "summary": "In this episode, we welcome Granger Smith to the studio. He was an award-winning, platinum-selling country music singer and songwriter and the creator of the Earl Dibbles Jr. stage character. He is now a speaker, actor, author, and host of “After Midnite with Granger Smith”. He has a new book out now called “Poison in the Well: 11 Toxic Beliefs That Kept Me from the Living Water of Jesus”. In this interview, we discuss how he got his start in music, the big break that confirmed he could make it in Nashville, how he came up with the Earl Dibbles Jr. character, if he ever had problems differenti",
+   "audioURL": "https://traffic.megaphone.fm/LEW6693231308.mp3",
+   "published": "Tue, 08 Sep 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/9f/12/809f1210-c215-9d6a-5dbd-45124c012604/mza_7903026632038263183.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses toxic beliefs blocking faith, with personal and religious reflections.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "fe5ffd62-a8aa-11f1-a885-87c7209f8f66",
+   "showID": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
+   "showTitle": "The Shawn Ryan Show",
+   "title": "#337 Cardinal Burke - The Old Testament",
+   "summary": "Raymond Leo Cardinal Burke is an American cardinal, canon lawyer, and one of the Catholic Church’s most prominent defenders of traditional doctrine and liturgy. He previously served as Archbishop of St. Louis and as Prefect of the Apostolic Signatura, the Church’s highest judicial court, before being elevated to the College of Cardinals by Pope Benedict XVI in 2010. He is also the founder of the Shrine of Our Lady of Guadalupe in La Crosse, Wisconsin.\n\n\n\nShawn Ryan Show Sponsors:\n\nPrivacy Isn't Paranoia. It's Protection. Download Glacier today: https://srs.site/glacierapp\n\nBabbel is offering l",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD8434189321.mp3",
+   "published": "Tue, 08 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Catholic cardinal discusses Old Testament and doctrine, some ethical reflection.",
+   "tradition": "Catholic"
+  },
+  {
+   "id": "6a98536b8f08bf7c3abbe8c1",
+   "showID": "https://www.theguardian.com/technology/series/blackbox/podcast.xml",
+   "showTitle": "Black Box: The Chatbots",
+   "title": "Black Box: The Chatbots | Spirals | Ep 1",
+   "summary": "Across the world, hundreds of people have come to believe they have made extraordinary scientific discoveries with AI chatbots such as ChatGPT, Claude and Gemini. Others say their AI has ‘awakened’, or is leading them to a higher spiritual realm. The Guardian journalist Michael Safi begins investigating a phenomenon labelled ‘AI psychosis’, travelling to the US to meet two people who have been on weird journeys with their chatbots",
+   "audioURL": "https://flex.acast.com/audio.guim.co.uk/2026/09/03-43424-gdn.bb2.030926.jk.spirals.mp3",
+   "published": "Thu, 03 Sep 2026 12:42:54 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/86/fa/ca86fad3-33a3-9564-9c16-5de5b26ed871/mza_12886737881153787636.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Investigates AI-induced spiritual experiences and altered states.",
    "tradition": "Secular"
   }
  ],
@@ -224,6 +250,9 @@
   "59741847-4b13-492c-ac17-8ca7121633b0": "2026-09-07",
   "9dde0a85-e9d6-45db-be7e-591fcb707748": "2026-09-07",
   "1c6db8cb-3ad1-4e64-95bd-1efc82ef7a79": "2026-09-07",
-  "https://therapistuncensored.com/?p=20697": "2026-09-08"
+  "https://therapistuncensored.com/?p=20697": "2026-09-08",
+  "570b8a32-cf97-4d3e-b84f-e49df5c078ed": "2026-09-08",
+  "45214e6a-a511-11f1-88de-7f2ab56b229f": "2026-09-08",
+  "fe5ffd62-a8aa-11f1-a885-87c7209f8f66": "2026-09-08"
  }
 }
