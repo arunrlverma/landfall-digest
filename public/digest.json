@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-09T18:25:18.877644+00:00",
+ "generatedAt": "2026-09-09T21:34:05.936967+00:00",
  "showsScanned": 400,
- "candidates": 56,
+ "candidates": 53,
  "picks": [
   {
    "id": "e98389cc-2aba-445e-8fa0-f74e376c87fb",
@@ -14,7 +14,7 @@
    "published": "Wed, 02 Sep 2026 23:24:58 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Personal story of grief, doubt, and trust in God amid suffering.",
+   "reason": "Personal grief and doubt explored deeply in a Christian context.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Mon, 07 Sep 2026 18:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Former pastor's deep struggle with faith and eventual agnosticism.",
+   "reason": "Former pastor's deep crisis of faith and loss of belief in Christianity.",
    "tradition": "Christian"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Wed, 02 Sep 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/59/05/ad590545-0cea-12c2-07f0-5a063c77d11b/mza_17798297345030142677.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuroscientist explores consciousness as brain's constructed reality, challenging perception.",
+   "reason": "Neuroscientist deeply explores consciousness and perception of reality.",
    "tradition": "Secular"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Fri, 04 Sep 2026 06:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ff/b6/6b/ffb66b7d-88f8-88f3-b67c-9189f5167ec1/mza_9140250549875290339.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Wide-ranging talk on UFOs, death, consciousness, and religion's evolving role.",
+   "reason": "Wide-ranging talk on UFOs, death, consciousness, and religion with a scholar.",
    "tradition": "Interfaith"
   },
   {
@@ -66,21 +66,8 @@
    "published": "Sun, 06 Sep 2026 22:26:56 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores hypocrisy and true love for God beyond religious appearances.",
+   "reason": "Examines hypocrisy and true love for God beyond external religious acts.",
    "tradition": "Christian"
-  },
-  {
-   "id": "Buzzsprout-19767753",
-   "showID": "https://rss.buzzsprout.com/2547586.rss",
-   "showTitle": "We!",
-   "title": "I Keep Doubting Myself Because It’s Scary When My Life Keeps Having to Change — The Emotional and Spiritual Transformation That Helped Me Be Guided by My Higher Power, Start Believing in Myself, and Live an Abundant Life",
-   "summary": "What if self-doubt isn’t a sign that you’re going the wrong way, but a sign that you’re growing?In this episode of WE, Joe Mittiga explores why major life changes can trigger fear, uncertainty, and doubt, even when we’re moving toward something better. Through his own journey of emotional healing, sobriety, relationships, business, loss, and spiritual growth, Joe shares how he learned to quiet the voices of fear, trust his higher power, and keep taking the next step.Discover how to move forward even when you’re afraid, trust who you’re becoming, and believe there may be an abundant life waitin",
-   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19767753-i-keep-doubting-myself-because-it-s-scary-when-my-life-keeps-having-to-change-the-emotional-and-spiritual-transformation-that-helped-me-be-guided-by-my-higher-power-start-believing-in-myself-and-live-an-abundan.mp3",
-   "published": "Tue, 08 Sep 2026 07:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Personal story of doubt, faith, and spiritual transformation with higher power guidance.",
-   "tradition": "Interfaith"
   },
   {
    "id": "prx_192_b89dd23d-471f-4b9b-91bd-d2f91d87778c",
@@ -92,7 +79,7 @@
    "published": "Thu, 03 Sep 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Guided Buddhist meditation on joy and appreciating others' happiness.",
+   "reason": "Guided Buddhist meditation on appreciative joy and shared happiness.",
    "tradition": "Buddhist"
   },
   {
@@ -105,21 +92,34 @@
    "published": "Thu, 03 Sep 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Shares personal healing journey impacting relationships and spirituality.",
+   "reason": "Shares personal healing journey linking inner change to relationships and purpose.",
    "tradition": "Interfaith"
   },
   {
-   "id": "ab6afc08-abb9-11f1-b459-077ed02e593e",
-   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
-   "showTitle": "Live Free with Josh Howerton",
-   "title": "Did The Church BAN These Gospels from the Bible?! | Live Free with Josh Howerton",
-   "summary": "What if some of the “lost” or “banned” gospels actually tell us more about the real Jesus than the Bible does? It’s a claim that continues to resurface—and a recent viral conversation on The Joe Rogan Experience brought it back into the spotlight.\n\nIn this bonus episode of LIVE FREE, Pastors Carlos and Paul react to claims about the Gnostic Gospels and examine the historical evidence behind Matthew, Mark, Luke, and John. Were books about Jesus intentionally suppressed by the Church? Were the Gnostic Gospels actually written first? And can we trust the New Testament to give us an accurate pictu",
-   "audioURL": "https://traffic.megaphone.fm/HAEEH5725813187.mp3",
-   "published": "Wed, 09 Sep 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
+   "id": "7202564f-4d19-4c73-b309-59c8c990275b",
+   "showID": "https://anchor.fm/s/10e5a085c/podcast/rss",
+   "showTitle": "The Mark Driscoll Podcast",
+   "title": "How to Know if God Has Given Up on You",
+   "summary": "Sometimes it may feel like God has abandoned you and left you in your pain and you can’t hear Him But is that true?  Dr David Campbell explains what may be drowning out the voice of God in your life.",
+   "audioURL": "https://traffic.megaphone.fm/APO4658290891.mp3",
+   "published": "Thu, 03 Sep 2026 00:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines historical and theological questions about Gnostic gospels and Jesus.",
+   "reason": "Explores feelings of divine abandonment and spiritual doubt seriously.",
    "tradition": "Christian"
+  },
+  {
+   "id": "Buzzsprout-19767753",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "I Keep Doubting Myself Because It’s Scary When My Life Keeps Having to Change — The Emotional and Spiritual Transformation That Helped Me Be Guided by My Higher Power, Start Believing in Myself, and Live an Abundant Life",
+   "summary": "What if self-doubt isn’t a sign that you’re going the wrong way, but a sign that you’re growing?In this episode of WE, Joe Mittiga explores why major life changes can trigger fear, uncertainty, and doubt, even when we’re moving toward something better. Through his own journey of emotional healing, sobriety, relationships, business, loss, and spiritual growth, Joe shares how he learned to quiet the voices of fear, trust his higher power, and keep taking the next step.Discover how to move forward even when you’re afraid, trust who you’re becoming, and believe there may be an abundant life waitin",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19767753-i-keep-doubting-myself-because-it-s-scary-when-my-life-keeps-having-to-change-the-emotional-and-spiritual-transformation-that-helped-me-be-guided-by-my-higher-power-start-believing-in-myself-and-live-an-abundan.mp3",
+   "published": "Tue, 08 Sep 2026 07:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Shares personal spiritual growth and doubt, focusing on transformation and faith.",
+   "tradition": "Interfaith"
   },
   {
    "id": "2f71e65a-d87c-4659-84b4-b4bf015928d2",
@@ -131,7 +131,7 @@
    "published": "Tue, 08 Sep 2026 21:07:54 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Encouragement to listen for divine guidance, mostly devotional.",
+   "reason": "Encouragement to listen for divine guidance, devotional but brief.",
    "tradition": "Latter-day Saint"
   },
   {
@@ -144,8 +144,34 @@
    "published": "Tue, 08 Sep 2026 21:10:44 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Talks about personal growth and divine journey but mainly motivational.",
+   "reason": "Talks about personal growth and divine purpose within a Latter-day Saint context.",
    "tradition": "Latter-day Saint"
+  },
+  {
+   "id": "22bb2992-a4d8-11f1-8e2e-8ffe9fae4bc3",
+   "showID": "https://feeds.megaphone.fm/LEW6901658133",
+   "showTitle": "Undaunted.Life: A Man's Podcast by Kyle Thompson",
+   "title": "JOSH HOWERTON | Slowing Societal Decay (Ep. 965)",
+   "summary": "In this episode, we welcome Josh Howerton back to the show. He is the Senior Pastor of Lakepointe Church in Dallas, TX and the host of the Live Free podcast. In this interview, we discuss why he was recently summoned to The White House by J.D. Vance, how Christians can keep James Talarico from becoming a United States Senator, the crisis of discernment in our culture, Christians needing to learn how to feed themselves the Word of God, the impact of Candace Owens, how Satan would try to take him out, and much more. Let’s get into it…\n\n\n\nEpisode notes and links HERE.\n\nDonate to support our missi",
+   "audioURL": "https://traffic.megaphone.fm/LEW6796937861.mp3",
+   "published": "Thu, 03 Sep 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/9f/12/809f1210-c215-9d6a-5dbd-45124c012604/mza_7903026632038263183.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Cultural and political discussion with Christian ethical concerns but limited depth.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "ab6afc08-abb9-11f1-b459-077ed02e593e",
+   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
+   "showTitle": "Live Free with Josh Howerton",
+   "title": "Did The Church BAN These Gospels from the Bible?! | Live Free with Josh Howerton",
+   "summary": "What if some of the “lost” or “banned” gospels actually tell us more about the real Jesus than the Bible does? It’s a claim that continues to resurface—and a recent viral conversation on The Joe Rogan Experience brought it back into the spotlight.\n\nIn this bonus episode of LIVE FREE, Pastors Carlos and Paul react to claims about the Gnostic Gospels and examine the historical evidence behind Matthew, Mark, Luke, and John. Were books about Jesus intentionally suppressed by the Church? Were the Gnostic Gospels actually written first? And can we trust the New Testament to give us an accurate pictu",
+   "audioURL": "https://traffic.megaphone.fm/HAEEH5725813187.mp3",
+   "published": "Wed, 09 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Examines historical gospels and faith claims, somewhat on religious doubt and authenticity.",
+   "tradition": "Christian"
   }
  ],
  "history": {
@@ -264,6 +290,7 @@
   "2f71e65a-d87c-4659-84b4-b4bf015928d2": "2026-09-09",
   "Buzzsprout-19767753": "2026-09-09",
   "ab6afc08-abb9-11f1-b459-077ed02e593e": "2026-09-09",
-  "40d3d476-7aae-4a02-8a8c-b4bf015928d2": "2026-09-09"
+  "40d3d476-7aae-4a02-8a8c-b4bf015928d2": "2026-09-09",
+  "22bb2992-a4d8-11f1-8e2e-8ffe9fae4bc3": "2026-09-09"
  }
 }
