@@ -1,9 +1,22 @@
 {
  "version": 1,
- "generatedAt": "2026-09-10T21:30:20.069880+00:00",
+ "generatedAt": "2026-09-10T23:53:43.740440+00:00",
  "showsScanned": 400,
- "candidates": 57,
+ "candidates": 55,
  "picks": [
+  {
+   "id": "1c6db8cb-3ad1-4e64-95bd-1efc82ef7a79",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "Becoming a Megachurch Pastor - Todd Phillips Pt. 1 | Ep. 2190",
+   "summary": "What would cause a megachurch pastor to lose his faith?In this episode of Mormon Stories Podcast, we sit down with former megachurch pastor Dr. Todd Phillips to explore his journey from a new Christian searching for a fresh start, to becoming a pastor and ministry leader, preaching to crowds of 10,000 people or more.Todd grew up without a strong religious background, but after finding Christianity in his twenties, he quickly immersed himself in evangelicalism. He went on to become a preacher and pastor at McLean Bible Church in Washington, D.C., and Lakepointe Church in Dallas. He eventually w",
+   "audioURL": "https://traffic.megaphone.fm/APO7689752456.mp3",
+   "published": "Mon, 07 Sep 2026 18:00:01 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Former megachurch pastor recounts losing faith and wrestling with belief and doubt.",
+   "tradition": "Christian"
+  },
   {
    "id": "1c63cc38-ad30-11f1-b85a-77216a034ab4",
    "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
@@ -14,7 +27,7 @@
    "published": "Thu, 10 Sep 2026 20:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores complex theological concept of Two Powers in Heaven with biblical depth.",
+   "reason": "Explores complex theological ideas about divine presence and scripture interpretation.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +40,7 @@
    "published": "Mon, 07 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of faith unraveling and rebuilding beyond superficial belief.",
+   "reason": "Personal story of faith loss and rebuilding, questioning authentic Christian living.",
    "tradition": "Christian"
   },
   {
@@ -40,21 +53,21 @@
    "published": "Thu, 10 Sep 2026 07:44:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/f6/5a/9cf65abb-f8db-fb7b-984f-b4276a1e8c85/mza_2107148709996282347.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A Catholic bishop discusses faith, purpose, and love in modern culture.",
+   "reason": "A Catholic bishop discusses faith, purpose, and love in a challenging modern culture.",
    "tradition": "Catholic"
   },
   {
-   "id": "1c6db8cb-3ad1-4e64-95bd-1efc82ef7a79",
-   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
-   "showTitle": "Mormon Stories Podcast",
-   "title": "Becoming a Megachurch Pastor - Todd Phillips Pt. 1 | Ep. 2190",
-   "summary": "What would cause a megachurch pastor to lose his faith?In this episode of Mormon Stories Podcast, we sit down with former megachurch pastor Dr. Todd Phillips to explore his journey from a new Christian searching for a fresh start, to becoming a pastor and ministry leader, preaching to crowds of 10,000 people or more.Todd grew up without a strong religious background, but after finding Christianity in his twenties, he quickly immersed himself in evangelicalism. He went on to become a preacher and pastor at McLean Bible Church in Washington, D.C., and Lakepointe Church in Dallas. He eventually w",
-   "audioURL": "https://traffic.megaphone.fm/APO7689752456.mp3",
-   "published": "Mon, 07 Sep 2026 18:00:01 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "id": "https://www.ldsscriptureteachings.org/?p=34147",
+   "showID": "https://www.ldsscriptureteachings.org/feed/podcast/",
+   "showTitle": "Talking Scripture",
+   "title": "Ep 388 | Proverbs; Ecclesiastes, Come Follow Me 2026 (Sept 7-13)",
+   "summary": "→ Watch on YouTube\n\n\n\n→ Detailed Show Notes\n\n\n\n(00:00) Proverbs and Ecclesiastes are sometimes referred to as “Wisdom Literature.” These texts may have developed during the period of the monarchy. Proverbs shows some Egyptian influence.(07:44) The big picture of Proverbs: Do I seek wisdom? Wisdom is portrayed as feminine and is a Tree of Life to all who lay hold upon her.(24:04) The Wisdom Tradition clarifies the difference between the wise person and the fool. Many parallels exist between Nephi and Proverbs, as Nephi was trained in the Wisdom Tradition.(31:00) Truth and goodness are found in ",
+   "audioURL": "https://media.blubrry.com/talkingscripture/ldsscriptureteachings.org/wp-content/audio/388_Proverbs_Ecclesiastes_final_mp3.mp3",
+   "published": "Wed, 09 Sep 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A megachurch pastor shares his journey including loss of faith.",
-   "tradition": "Christian"
+   "reason": "A serious study of Wisdom Literature exploring meaning and wisdom in life.",
+   "tradition": "Latter-day Saint"
   },
   {
    "id": "2b86e7e8-262a-472a-ab29-6734ecfb1f9c",
@@ -70,30 +83,17 @@
    "tradition": "Christian"
   },
   {
-   "id": "d252c192-a89f-11f1-99e6-1b1f53e86e1e",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "Andrew Huberman: The Simple Habits That Will Transform Your Health",
-   "summary": "Jay welcomes neuroscientist Andrew Huberman back for his third appearance to dive into his new book, Protocols: An Operating Manual for the Human Body. Andrew breaks down what’s really happening in your body from the moment you wake up, from morning cortisol and better sleep to the science behind that afternoon energy crash. Then the conversation goes beyond physical health, exploring prayer, surrender, and  how to better manage your energy.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nMazda crafts cars for people who do more than simply move. Visit Mazdausa.com to learn more. Consumer reports does ",
-   "audioURL": "https://traffic.megaphone.fm/GLT4461637892.mp3",
-   "published": "Mon, 07 Sep 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
+   "id": "cb07a32a-acb5-11f1-bbcd-27ac0693bc0b",
+   "showID": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
+   "showTitle": "The Shawn Ryan Show",
+   "title": "#338 Cardinal Burke - The New Testament",
+   "summary": "Raymond Leo Cardinal Burke is an American cardinal, canon lawyer, and one of the Catholic Church’s most prominent defenders of traditional doctrine and liturgy. He previously served as Archbishop of St. Louis and as Prefect of the Apostolic Signatura, the Church’s highest judicial court, before being elevated to the College of Cardinals by Pope Benedict XVI in 2010. He is also the founder of the Shrine of Our Lady of Guadalupe in La Crosse, Wisconsin.\n\n\n\nShawn Ryan Show Sponsors:\n\nPrivacy Isn't Paranoia. It's Protection. - https://theglacierapp.com\n\nLive better longer with BUBS Naturals. Get 2",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4265484314.mp3",
+   "published": "Thu, 10 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Neuroscientist explores health habits alongside prayer and surrender.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "https://www.ldsscriptureteachings.org/?p=34147",
-   "showID": "https://www.ldsscriptureteachings.org/feed/podcast/",
-   "showTitle": "Talking Scripture",
-   "title": "Ep 388 | Proverbs; Ecclesiastes, Come Follow Me 2026 (Sept 7-13)",
-   "summary": "→ Watch on YouTube\n\n\n\n→ Detailed Show Notes\n\n\n\n(00:00) Proverbs and Ecclesiastes are sometimes referred to as “Wisdom Literature.” These texts may have developed during the period of the monarchy. Proverbs shows some Egyptian influence.(07:44) The big picture of Proverbs: Do I seek wisdom? Wisdom is portrayed as feminine and is a Tree of Life to all who lay hold upon her.(24:04) The Wisdom Tradition clarifies the difference between the wise person and the fool. Many parallels exist between Nephi and Proverbs, as Nephi was trained in the Wisdom Tradition.(31:00) Truth and goodness are found in ",
-   "audioURL": "https://media.blubrry.com/talkingscripture/ldsscriptureteachings.org/wp-content/audio/388_Proverbs_Ecclesiastes_final_mp3.mp3",
-   "published": "Wed, 09 Sep 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Discusses wisdom literature exploring wisdom, folly, and life meaning from scripture.",
-   "tradition": "Latter-day Saint"
+   "reason": "A Catholic cardinal discusses the New Testament with traditional doctrinal focus.",
+   "tradition": "Catholic"
   },
   {
    "id": "7bed9ee5-27ad-4a5f-997f-6edb31ddb397",
@@ -105,21 +105,8 @@
    "published": "Fri, 4 Sep 2026 05:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d7/88/9b/d7889bab-dca5-77ba-3d0c-7fae8f16ab11/mza_8810454848871508.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores psychedelics' effects on brain and consciousness with scientific insight.",
+   "reason": "Explores psychedelics' effects on brain and consciousness with scientific depth.",
    "tradition": "Secular"
-  },
-  {
-   "id": "7b8a4bac-ac53-11f1-a89b-fbb9fa7a9771",
-   "showID": "https://feeds.megaphone.fm/PHTE6132945524",
-   "showTitle": "Somewhere in the Skies",
-   "title": "Join Us For Whitley Strieber's LIVE Webinar Series!",
-   "summary": "Somewhere in the Skies is partnering with Ubiquity University for Transformation 2026: The Fourth Mind, a live four-week webinar series with legendary Communion author Whitley Strieber.\n\n\n\nLearn more and register through our affiliate link: ⁠https://www.ubiquityuniversity.org/courses/transformation-2026/?am_id=SomewhereInTheSkies⁠\n\n\n\nBeginning September 17th, Whitley will explore the Visitors, non-human intelligence, abduction, psi abilities, consciousness, and his concept of the Fourth Mind, a new way of understanding contact and our place within it.\n\n\n\nThe series includes four live 90-minute",
-   "audioURL": "https://pscrb.fm/rss/p/traffic.megaphone.fm/PHTE4523643525.mp3",
-   "published": "Thu, 10 Sep 2026 04:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/85/74/aa857474-43cb-883b-94d1-16c24d0305b4/mza_466083494209813278.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores consciousness and non-human intelligence through a paranormal lens.",
-   "tradition": "Mythic"
   },
   {
    "id": "b1d69cae-ad31-11f1-9661-d7083e5745e9",
@@ -131,8 +118,8 @@
    "published": "Thu, 10 Sep 2026 18:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b0/d3/a3/b0d3a397-8a33-3cd1-9cb7-91808b893ee2/mza_6969596256435242856.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines psychoactive substances' cultural role and education barriers in ancient societies.",
-   "tradition": "Secular"
+   "reason": "Examines psychoactive substances' cultural role and scientific advances.",
+   "tradition": "Indigenous"
   },
   {
    "id": "Buzzsprout-19781122",
@@ -144,8 +131,34 @@
    "published": "Thu, 10 Sep 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal spiritual growth and transformation discussed with some depth.",
+   "reason": "Personal spiritual growth and transformation with some existential reflection.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "d252c192-a89f-11f1-99e6-1b1f53e86e1e",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "Andrew Huberman: The Simple Habits That Will Transform Your Health",
+   "summary": "Jay welcomes neuroscientist Andrew Huberman back for his third appearance to dive into his new book, Protocols: An Operating Manual for the Human Body. Andrew breaks down what’s really happening in your body from the moment you wake up, from morning cortisol and better sleep to the science behind that afternoon energy crash. Then the conversation goes beyond physical health, exploring prayer, surrender, and  how to better manage your energy.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nMazda crafts cars for people who do more than simply move. Visit Mazdausa.com to learn more. Consumer reports does ",
+   "audioURL": "https://traffic.megaphone.fm/GLT4461637892.mp3",
+   "published": "Mon, 07 Sep 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Neuroscientist links health habits with prayer and surrender, blending science and spirituality.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "38bfb2ed-97ce-4652-bb59-dd777e089cb0",
+   "showID": "https://media.rss.com/why-personality-evolves-more-than-people-expect-personality-peek-podcast-1/feed.xml",
+   "showTitle": "A Peek Inside",
+   "title": "Why Listening Matters More Than Winning | Communication, Conflict & Life Lessons with Arky Jones and Bob Martin",
+   "summary": "Hey! I'd love to hear your thoughts, send me a voice note.Why do some conversations end in understanding while others turn into conflict?In this episode of Peek Inside, Arky Jones speaks with Bob Martin about one of the most overlooked human skills: truly listening. Drawing from decades in trial law, social work, counselling and meditation, Bob shares why people often need to feel heard before they are ready to hear another point of view.The conversation moves through conflict, persuasion, emotional reactions, meditation, attention and the way personal experiences shape how people respond. Ark",
+   "audioURL": "https://content.rss.com/episodes/390905/3139076/why-personality-evolves-more-than-people-expect-personality-peek-podcast-1/2026_09_10_05_07_21_22cb428f-812b-4bff-8f3f-f09266e0d640.mp3",
+   "published": "Thu, 10 Sep 2026 05:08:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8a/17/c7/8a17c730-404a-cdf5-4140-6753b60b825f/mza_10993589976044159849.png/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses listening and conflict with some ethical and emotional insight.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -262,6 +275,7 @@
   "cb07a32a-acb5-11f1-bbcd-27ac0693bc0b": "2026-09-10",
   "b1d69cae-ad31-11f1-9661-d7083e5745e9": "2026-09-10",
   "7b8a4bac-ac53-11f1-a89b-fbb9fa7a9771": "2026-09-10",
-  "1c63cc38-ad30-11f1-b85a-77216a034ab4": "2026-09-10"
+  "1c63cc38-ad30-11f1-b85a-77216a034ab4": "2026-09-10",
+  "38bfb2ed-97ce-4652-bb59-dd777e089cb0": "2026-09-10"
  }
 }
