@@ -1,9 +1,22 @@
 {
  "version": 1,
- "generatedAt": "2026-09-10T18:14:35.613008+00:00",
+ "generatedAt": "2026-09-10T21:30:20.069880+00:00",
  "showsScanned": 400,
  "candidates": 57,
  "picks": [
+  {
+   "id": "1c63cc38-ad30-11f1-b85a-77216a034ab4",
+   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
+   "showTitle": "Blurry Creatures",
+   "title": "EP: 463 There Are Two Powers in Heaven with Dr. Joel Muddamalle And Doug Van Dorn *members only trailer",
+   "summary": "In some corners of the church, what Joel Muddamalle and Doug Van Dorn argue in this episode gets called heresy. Their claim is simple and enormous. The Angel of the Lord who stands before Joshua, speaks from the burning bush, and accepts worship without correcting it is the preincarnate Christ. The rabbis saw the tension too. They called it the Two Powers in Heaven, and they could not explain how two Yahwehs show up in the same verse. Doug wrote the book on this figure. Joel is the theologian in the room. Together, they build a case that Jesus is the general of the armies of God long before Be",
+   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW3604135671.mp3",
+   "published": "Thu, 10 Sep 2026 20:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores complex theological concept of Two Powers in Heaven with biblical depth.",
+   "tradition": "Christian"
+  },
   {
    "id": "0cf0b2aab698f6232710c8802f403560",
    "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
@@ -14,7 +27,7 @@
    "published": "Mon, 07 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Country artist reflects on faith unraveling and rebuilding beyond superficial belief.",
+   "reason": "Personal story of faith unraveling and rebuilding beyond superficial belief.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +40,7 @@
    "published": "Thu, 10 Sep 2026 07:44:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/f6/5a/9cf65abb-f8db-fb7b-984f-b4276a1e8c85/mza_2107148709996282347.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A Catholic bishop discusses faith, purpose, and love in a modern context.",
+   "reason": "A Catholic bishop discusses faith, purpose, and love in modern culture.",
    "tradition": "Catholic"
   },
   {
@@ -40,7 +53,7 @@
    "published": "Mon, 07 Sep 2026 18:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Former megachurch pastor shares his loss of faith and spiritual journey.",
+   "reason": "A megachurch pastor shares his journey including loss of faith.",
    "tradition": "Christian"
   },
   {
@@ -53,21 +66,8 @@
    "published": "Thu, 03 Sep 2026 18:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Honest conversation about faithfulness, doubt, and prayer in public ministry.",
+   "reason": "Honest conversation about faithfulness, doubt, and ministry challenges in Christian life.",
    "tradition": "Christian"
-  },
-  {
-   "id": "Buzzsprout-19781122",
-   "showID": "https://rss.buzzsprout.com/2547586.rss",
-   "showTitle": "We!",
-   "title": "It Can Still Feel Scary as I’m Beginning to See the World Differently Because I’m Becoming Someone Different — The Personal and Spiritual Growth That Helped Me Trust My Higher Power, and Live My Life with Love, Purpose, and Passion",
-   "summary": "What if the world around you doesn’t need to change before your life can begin to feel different?In this episode of WE, Joe Mittiga explores what happens when personal and spiritual growth begins changing the way you see everything around you. Relationships feel different. Success takes on a new meaning. Old priorities begin to shift, and even positive transformation can feel scary when you realize you’re becoming someone different.Through his own experiences with grief, relationships, purpose, faith, and personal transformation, Joe shares how he has learned to look inward instead of waiting ",
-   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19781122-it-can-still-feel-scary-as-i-m-beginning-to-see-the-world-differently-because-i-m-becoming-someone-different-the-personal-and-spiritual-growth-that-helped-me-trust-my-higher-power-and-live-my-life-with-love-pur.mp3",
-   "published": "Thu, 10 Sep 2026 07:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores personal and spiritual growth, grief, and shifting life priorities.",
-   "tradition": "Interfaith"
   },
   {
    "id": "d252c192-a89f-11f1-99e6-1b1f53e86e1e",
@@ -83,6 +83,19 @@
    "tradition": "Secular"
   },
   {
+   "id": "https://www.ldsscriptureteachings.org/?p=34147",
+   "showID": "https://www.ldsscriptureteachings.org/feed/podcast/",
+   "showTitle": "Talking Scripture",
+   "title": "Ep 388 | Proverbs; Ecclesiastes, Come Follow Me 2026 (Sept 7-13)",
+   "summary": "→ Watch on YouTube\n\n\n\n→ Detailed Show Notes\n\n\n\n(00:00) Proverbs and Ecclesiastes are sometimes referred to as “Wisdom Literature.” These texts may have developed during the period of the monarchy. Proverbs shows some Egyptian influence.(07:44) The big picture of Proverbs: Do I seek wisdom? Wisdom is portrayed as feminine and is a Tree of Life to all who lay hold upon her.(24:04) The Wisdom Tradition clarifies the difference between the wise person and the fool. Many parallels exist between Nephi and Proverbs, as Nephi was trained in the Wisdom Tradition.(31:00) Truth and goodness are found in ",
+   "audioURL": "https://media.blubrry.com/talkingscripture/ldsscriptureteachings.org/wp-content/audio/388_Proverbs_Ecclesiastes_final_mp3.mp3",
+   "published": "Wed, 09 Sep 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discusses wisdom literature exploring wisdom, folly, and life meaning from scripture.",
+   "tradition": "Latter-day Saint"
+  },
+  {
    "id": "7bed9ee5-27ad-4a5f-997f-6edb31ddb397",
    "showID": "https://feeds.simplecast.com/4T39_jAj",
    "showTitle": "StarTalk Radio",
@@ -92,8 +105,21 @@
    "published": "Fri, 4 Sep 2026 05:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d7/88/9b/d7889bab-dca5-77ba-3d0c-7fae8f16ab11/mza_8810454848871508.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses psychedelics' effects on brain and consciousness with a neuroscientist.",
+   "reason": "Explores psychedelics' effects on brain and consciousness with scientific insight.",
    "tradition": "Secular"
+  },
+  {
+   "id": "7b8a4bac-ac53-11f1-a89b-fbb9fa7a9771",
+   "showID": "https://feeds.megaphone.fm/PHTE6132945524",
+   "showTitle": "Somewhere in the Skies",
+   "title": "Join Us For Whitley Strieber's LIVE Webinar Series!",
+   "summary": "Somewhere in the Skies is partnering with Ubiquity University for Transformation 2026: The Fourth Mind, a live four-week webinar series with legendary Communion author Whitley Strieber.\n\n\n\nLearn more and register through our affiliate link: ⁠https://www.ubiquityuniversity.org/courses/transformation-2026/?am_id=SomewhereInTheSkies⁠\n\n\n\nBeginning September 17th, Whitley will explore the Visitors, non-human intelligence, abduction, psi abilities, consciousness, and his concept of the Fourth Mind, a new way of understanding contact and our place within it.\n\n\n\nThe series includes four live 90-minute",
+   "audioURL": "https://pscrb.fm/rss/p/traffic.megaphone.fm/PHTE4523643525.mp3",
+   "published": "Thu, 10 Sep 2026 04:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/85/74/aa857474-43cb-883b-94d1-16c24d0305b4/mza_466083494209813278.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores consciousness and non-human intelligence through a paranormal lens.",
+   "tradition": "Mythic"
   },
   {
    "id": "b1d69cae-ad31-11f1-9661-d7083e5745e9",
@@ -105,34 +131,21 @@
    "published": "Thu, 10 Sep 2026 18:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b0/d3/a3/b0d3a397-8a33-3cd1-9cb7-91808b893ee2/mza_6969596256435242856.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines psychoactive substances' cultural role and scientific research advances.",
+   "reason": "Examines psychoactive substances' cultural role and education barriers in ancient societies.",
    "tradition": "Secular"
   },
   {
-   "id": "cb07a32a-acb5-11f1-bbcd-27ac0693bc0b",
-   "showID": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
-   "showTitle": "The Shawn Ryan Show",
-   "title": "#338 Cardinal Burke - The New Testament",
-   "summary": "Raymond Leo Cardinal Burke is an American cardinal, canon lawyer, and one of the Catholic Church’s most prominent defenders of traditional doctrine and liturgy. He previously served as Archbishop of St. Louis and as Prefect of the Apostolic Signatura, the Church’s highest judicial court, before being elevated to the College of Cardinals by Pope Benedict XVI in 2010. He is also the founder of the Shrine of Our Lady of Guadalupe in La Crosse, Wisconsin.\n\n\n\nShawn Ryan Show Sponsors:\n\nPrivacy Isn't Paranoia. It's Protection. - https://theglacierapp.com\n\nLive better longer with BUBS Naturals. Get 2",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4265484314.mp3",
-   "published": "Thu, 10 Sep 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
+   "id": "Buzzsprout-19781122",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "It Can Still Feel Scary as I’m Beginning to See the World Differently Because I’m Becoming Someone Different — The Personal and Spiritual Growth That Helped Me Trust My Higher Power, and Live My Life with Love, Purpose, and Passion",
+   "summary": "What if the world around you doesn’t need to change before your life can begin to feel different?In this episode of WE, Joe Mittiga explores what happens when personal and spiritual growth begins changing the way you see everything around you. Relationships feel different. Success takes on a new meaning. Old priorities begin to shift, and even positive transformation can feel scary when you realize you’re becoming someone different.Through his own experiences with grief, relationships, purpose, faith, and personal transformation, Joe shares how he has learned to look inward instead of waiting ",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19781122-it-can-still-feel-scary-as-i-m-beginning-to-see-the-world-differently-because-i-m-becoming-someone-different-the-personal-and-spiritual-growth-that-helped-me-trust-my-higher-power-and-live-my-life-with-love-pur.mp3",
+   "published": "Thu, 10 Sep 2026 07:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Catholic cardinal discusses New Testament with traditional doctrine focus, some theological depth.",
-   "tradition": "Catholic"
-  },
-  {
-   "id": "7b8a4bac-ac53-11f1-a89b-fbb9fa7a9771",
-   "showID": "https://feeds.megaphone.fm/PHTE6132945524",
-   "showTitle": "Somewhere in the Skies",
-   "title": "Join Us For Whitley Strieber's LIVE Webinar Series!",
-   "summary": "Somewhere in the Skies is partnering with Ubiquity University for Transformation 2026: The Fourth Mind, a live four-week webinar series with legendary Communion author Whitley Strieber.\n\n\n\nLearn more and register through our affiliate link: ⁠https://www.ubiquityuniversity.org/courses/transformation-2026/?am_id=SomewhereInTheSkies⁠\n\n\n\nBeginning September 17th, Whitley will explore the Visitors, non-human intelligence, abduction, psi abilities, consciousness, and his concept of the Fourth Mind, a new way of understanding contact and our place within it.\n\n\n\nThe series includes four live 90-minute",
-   "audioURL": "https://pscrb.fm/rss/p/traffic.megaphone.fm/PHTE4523643525.mp3",
-   "published": "Thu, 10 Sep 2026 04:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/85/74/aa857474-43cb-883b-94d1-16c24d0305b4/mza_466083494209813278.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Focuses on consciousness and non-human intelligence in a webinar series.",
-   "tradition": "Mythic"
+   "reason": "Personal spiritual growth and transformation discussed with some depth.",
+   "tradition": "Interfaith"
   }
  ],
  "history": {
@@ -248,6 +261,7 @@
   "Buzzsprout-19781122": "2026-09-10",
   "cb07a32a-acb5-11f1-bbcd-27ac0693bc0b": "2026-09-10",
   "b1d69cae-ad31-11f1-9661-d7083e5745e9": "2026-09-10",
-  "7b8a4bac-ac53-11f1-a89b-fbb9fa7a9771": "2026-09-10"
+  "7b8a4bac-ac53-11f1-a89b-fbb9fa7a9771": "2026-09-10",
+  "1c63cc38-ad30-11f1-b85a-77216a034ab4": "2026-09-10"
  }
 }
