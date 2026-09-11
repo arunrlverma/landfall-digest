@@ -1,22 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-09-11T03:57:30.813819+00:00",
+ "generatedAt": "2026-09-11T08:51:30.546065+00:00",
  "showsScanned": 400,
- "candidates": 55,
+ "candidates": 58,
  "picks": [
-  {
-   "id": "59741847-4b13-492c-ac17-8ca7121633b0",
-   "showID": "https://feeds.transistor.fm/live-like-a-girl-with-dr-mindy",
-   "showTitle": "Live Like a Girl with Dr. Mindy Pelz",
-   "title": "Why So Many Women Feel Disconnected From Their Bodies with Emma-Louise Boynton",
-   "summary": "Women spend so much time trying to change their bodies, but how often are we taught how to actually experience and enjoy them?In this conversation, I sit down with Emma-Louise Boynton to explore what happens when we begin reconnecting with our bodies through pleasure, presence, and curiosity rather than constant criticism. We talk about body image, intimacy, sex therapy, self-pleasure, mindfulness, and the small everyday practices that can help you feel more at home in your body.Because your relationship with your body affects far more than how you see yourself, it shapes how you experience yo",
-   "audioURL": "https://media.transistor.fm/632fa50d/bf4f6b09.mp3",
-   "published": "Mon, 07 Sep 2026 06:00:00 -0700",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/a8/8f/81a88f0e-0508-5a5e-d17c-ca279a90536b/mza_15434821659162479685.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Focuses on reconnecting with the body through mindfulness and presence.",
-   "tradition": "Secular"
-  },
   {
    "id": "6a0d264e-ea40-49f4-9950-b0e8e5721a1c",
    "showID": "https://feeds.simplecast.com/tj_igLD4",
@@ -26,8 +13,8 @@
    "audioURL": "https://pdcn.co/e/afp-973833-injected.calisto.simplecastaudio.com/257d42bd-c701-4eee-80d0-8eebb7fb5de8/episodes/2940f1d0-36b0-4892-8030-836e197c961b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=257d42bd-c701-4eee-80d0-8eebb7fb5de8&amp;awEpisodeId=2940f1d0-36b0-4892-8030-836e197c961b&amp;feed=tj_igLD4",
    "published": "Tue, 8 Sep 2026 15:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b2/b4/80/b2b48020-11e7-92a9-db46-b7d475a19757/mza_619091211434212889.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Deep Buddhist discussion on karma, compassion, and spiritual growth beyond the mind.",
+   "rating": 8,
+   "reason": "A deep Buddhist discussion on karma, compassion, and spiritual growth beyond the mind.",
    "tradition": "Buddhist"
   },
   {
@@ -40,7 +27,7 @@
    "published": "Tue, 08 Sep 2026 14:33:35 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares insights on death, hospice, and experiences near death.",
+   "reason": "Shares insights on death, dying, and afterlife experiences from hospice professionals.",
    "tradition": "Interfaith"
   },
   {
@@ -53,21 +40,8 @@
    "published": "Tue, 08 Sep 2026 05:05:32 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/22/d8/fd/22d8fdc2-16f5-a4ec-cb43-5a2d4b92ffa6/mza_5288490312746447040.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discussion on expanded consciousness through breathwork and psychedelics.",
+   "reason": "Explores expanded consciousness through breathwork and psychedelics for transformation.",
    "tradition": "Secular"
-  },
-  {
-   "id": "fe5ffd62-a8aa-11f1-a885-87c7209f8f66",
-   "showID": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
-   "showTitle": "The Shawn Ryan Show",
-   "title": "#337 Cardinal Burke - The Old Testament",
-   "summary": "Raymond Leo Cardinal Burke is an American cardinal, canon lawyer, and one of the Catholic Church’s most prominent defenders of traditional doctrine and liturgy. He previously served as Archbishop of St. Louis and as Prefect of the Apostolic Signatura, the Church’s highest judicial court, before being elevated to the College of Cardinals by Pope Benedict XVI in 2010. He is also the founder of the Shrine of Our Lady of Guadalupe in La Crosse, Wisconsin.\n\n\n\nShawn Ryan Show Sponsors:\n\nPrivacy Isn't Paranoia. It's Protection. Download Glacier today: https://srs.site/glacierapp\n\nBabbel is offering l",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD8434189321.mp3",
-   "published": "Tue, 08 Sep 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A Catholic cardinal discusses the Old Testament with traditional doctrinal insights.",
-   "tradition": "Catholic"
   },
   {
    "id": "570b8a32-cf97-4d3e-b84f-e49df5c078ed",
@@ -79,8 +53,21 @@
    "published": "Tue, 8 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/81/a8/3e81a88a-fea6-be8b-7bbb-431d9c685bd0/mza_8248505836165703838.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Considers plant intelligence and consciousness in nature.",
+   "reason": "Considers plant intelligence and consciousness challenging human-centered views.",
    "tradition": "Secular"
+  },
+  {
+   "id": "7171890b-730d-4ad9-9e22-c20b2a50a383",
+   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
+   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
+   "title": "Day 254: Judgment of Nations (2026)",
+   "summary": "Fr. Mike continues reading from the book of Jeremiah and emphasizes God’s judgment against the nations surrounding Israel. Fr. Mike also invites us to meditate on the words of the prophets and repent for our own failures and shortcomings. Today’s readings are Jeremiah 47-48, Lamentations 2, and Proverbs 18:1-4.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/7171890b-730d-4ad9-9e22-c20b2a50a383.mp3",
+   "published": "Fri, 11 Sep 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Bible reading with reflections on judgment and repentance.",
+   "tradition": "Christian"
   },
   {
    "id": "45214e6a-a511-11f1-88de-7f2ab56b229f",
@@ -92,8 +79,21 @@
    "published": "Tue, 08 Sep 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/9f/12/809f1210-c215-9d6a-5dbd-45124c012604/mza_7903026632038263183.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discussion of toxic beliefs blocking faith, blending personal story and Christian themes.",
+   "reason": "Discussion of toxic beliefs and faith recovery, somewhat personal and spiritual.",
    "tradition": "Christian"
+  },
+  {
+   "id": "fe5ffd62-a8aa-11f1-a885-87c7209f8f66",
+   "showID": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
+   "showTitle": "The Shawn Ryan Show",
+   "title": "#337 Cardinal Burke - The Old Testament",
+   "summary": "Raymond Leo Cardinal Burke is an American cardinal, canon lawyer, and one of the Catholic Church’s most prominent defenders of traditional doctrine and liturgy. He previously served as Archbishop of St. Louis and as Prefect of the Apostolic Signatura, the Church’s highest judicial court, before being elevated to the College of Cardinals by Pope Benedict XVI in 2010. He is also the founder of the Shrine of Our Lady of Guadalupe in La Crosse, Wisconsin.\n\n\n\nShawn Ryan Show Sponsors:\n\nPrivacy Isn't Paranoia. It's Protection. Download Glacier today: https://srs.site/glacierapp\n\nBabbel is offering l",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD8434189321.mp3",
+   "published": "Tue, 08 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Cardinal Burke on Old Testament with traditional Catholic views, less philosophical depth.",
+   "tradition": "Catholic"
   },
   {
    "id": "6a98536b8f08bf7c3abbe8c1",
@@ -105,7 +105,33 @@
    "published": "Thu, 03 Sep 2026 12:42:54 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/86/fa/ca86fad3-33a3-9564-9c16-5de5b26ed871/mza_12886737881153787636.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Investigates AI-induced spiritual experiences and psychosis, touching on consciousness.",
+   "reason": "Explores unusual spiritual claims about AI but focuses on psychological phenomena.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "59741847-4b13-492c-ac17-8ca7121633b0",
+   "showID": "https://feeds.transistor.fm/live-like-a-girl-with-dr-mindy",
+   "showTitle": "Live Like a Girl with Dr. Mindy Pelz",
+   "title": "Why So Many Women Feel Disconnected From Their Bodies with Emma-Louise Boynton",
+   "summary": "Women spend so much time trying to change their bodies, but how often are we taught how to actually experience and enjoy them?In this conversation, I sit down with Emma-Louise Boynton to explore what happens when we begin reconnecting with our bodies through pleasure, presence, and curiosity rather than constant criticism. We talk about body image, intimacy, sex therapy, self-pleasure, mindfulness, and the small everyday practices that can help you feel more at home in your body.Because your relationship with your body affects far more than how you see yourself, it shapes how you experience yo",
+   "audioURL": "https://media.transistor.fm/632fa50d/bf4f6b09.mp3",
+   "published": "Mon, 07 Sep 2026 06:00:00 -0700",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/a8/8f/81a88f0e-0508-5a5e-d17c-ca279a90536b/mza_15434821659162479685.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Considers body awareness and mindfulness with some ethical and existential undertones.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "6a9a89618f0834a1091df471",
+   "showID": "https://www.theguardian.com/science/series/science/podcast.xml",
+   "showTitle": "Science Weekly",
+   "title": "Introducing Black Box: The Chatbots",
+   "summary": "From the Guardian Investigates team: Across the world, hundreds of people have come to believe they have made extraordinary scientific discoveries with AI chatbots such as ChatGPT, Claude and Gemini. Others say their AI has ‘awakened’ or is leading them to a higher spiritual realm. The Guardian journalist Michael Safi begins investigating a phenomenon labelled ‘AI psychosis’, travelling to the US to meet two people who have been on weird journeys with their chatbots. Help support our independent journalism at <a href=\"https://www.theguardian.com/sciencepod\">theguardian.com/sciencepod</a>",
+   "audioURL": "https://flex.acast.com/audio.guim.co.uk/2026/09/04-33730-gnl.sci.20260906.eb.SW_BB_feed_drop.mp3",
+   "published": "Sun, 06 Sep 2026 04:00:55 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8c/a5/9a/8ca59ae4-a596-7ff1-a939-074bd85d5513/mza_9730644779736703088.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Similar to 0, investigates AI spiritual claims with journalistic approach.",
    "tradition": "Secular"
   }
  ],
@@ -195,7 +221,7 @@
   "06e03c912785102747f580d5845e951c": "2026-09-07",
   "be24360eab621a0c4ac3c843334cd3e6": "2026-09-07",
   "d252c192-a89f-11f1-99e6-1b1f53e86e1e": "2026-09-10",
-  "6a9a89618f0834a1091df471": "2026-09-07",
+  "6a9a89618f0834a1091df471": "2026-09-11",
   "0cf0b2aab698f6232710c8802f403560": "2026-09-10",
   "59741847-4b13-492c-ac17-8ca7121633b0": "2026-09-11",
   "9dde0a85-e9d6-45db-be7e-591fcb707748": "2026-09-09",
@@ -220,6 +246,7 @@
   "b1d69cae-ad31-11f1-9661-d7083e5745e9": "2026-09-10",
   "7b8a4bac-ac53-11f1-a89b-fbb9fa7a9771": "2026-09-10",
   "1c63cc38-ad30-11f1-b85a-77216a034ab4": "2026-09-10",
-  "38bfb2ed-97ce-4652-bb59-dd777e089cb0": "2026-09-10"
+  "38bfb2ed-97ce-4652-bb59-dd777e089cb0": "2026-09-10",
+  "7171890b-730d-4ad9-9e22-c20b2a50a383": "2026-09-11"
  }
 }
