@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-11T20:46:09.345196+00:00",
+ "generatedAt": "2026-09-11T23:06:52.441535+00:00",
  "showsScanned": 400,
- "candidates": 54,
+ "candidates": 56,
  "picks": [
   {
    "id": "6a0d264e-ea40-49f4-9950-b0e8e5721a1c",
@@ -14,7 +14,7 @@
    "published": "Tue, 8 Sep 2026 15:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b2/b4/80/b2b48020-11e7-92a9-db46-b7d475a19757/mza_619091211434212889.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep discussion on karma, compassion, and spiritual growth in Tibetan Buddhist tradition.",
+   "reason": "A deep Buddhist discussion on karma, compassion, and spiritual growth beyond the mind.",
    "tradition": "Buddhist"
   },
   {
@@ -27,8 +27,34 @@
    "published": "Fri, 11 Sep 2026 09:21:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8a/17/c7/8a17c730-404a-cdf5-4140-6753b60b825f/mza_10993589976044159849.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "A deep discussion on meaning, suffering, faith, and technology's impact.",
+   "reason": "Deep discussion on meaning, suffering, faith, and technology's role in life.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/h2UMjPYuzZx-BaKMUg3ucxd3dA65Tm5jk6x7zWy8XXw",
+   "showID": "https://rss.pdrl.fm/a88a08/feeds.megaphone.fm/MASL6091580855/",
+   "showTitle": "Mayim Bialik's Breakdown",
+   "title": "Part Two: Sharon Stone Nearly Died, Saw a Blinding White Light, and Was Told by Five Orbs Her Destiny Was To Stay Alive",
+   "summary": "Sharon Stone has never shared a conversation quite like this.The Basic Instinct and Casino star, bestselling author of The Beauty of Living Twice, artist, producer, and humanitarian opens up on Mayim Bialik's Breakdown about the extraordinary experiences that completely transformed how she sees life, consciousness, death, love, and the universe.She reveals the terrifying near death experience she had after suffering a devastating stroke and coma, traveling through a brilliant light, sensing deceased loved ones, and communicating with mysterious orbs that spoke in what she describes as a digita",
+   "audioURL": "https://claritaspod.com/measure/pscrb.fm/rss/p/arttrk.com/p/PMMIC/prfx.byspotify.com/e/mgln.ai/e/1047/dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/30a034d1-eb90-4ae1-835a-32ae45ad192a.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Wed, 09 Sep 2026 07:30:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6a/ca/b3/6acab359-0930-6578-184f-744d9f3ae278/mza_16900717249497875543.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Near-death experience story exploring consciousness, death, and meaning.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/VVXSjTmyh8N7UtRaUuuZJ9wzKgJJyHZSYXW7Bggt7zc",
+   "showID": "https://rss.pdrl.fm/a88a08/feeds.megaphone.fm/MASL6091580855/",
+   "showTitle": "Mayim Bialik's Breakdown",
+   "title": "Sharon Stone Nearly Died, Saw a Blinding White Light, and Was Told by Five Orbs Her Destiny Was To Stay Alive",
+   "summary": "Sharon Stone has never shared a conversation quite like this.The Basic Instinct and Casino star, bestselling author of The Beauty of Living Twice, artist, producer, and humanitarian opens up on Mayim Bialik's Breakdown about the extraordinary experiences that completely transformed how she sees life, consciousness, death, love, and the universe.She reveals the terrifying near death experience she had after suffering a devastating stroke and coma, traveling through a brilliant light, sensing deceased loved ones, and communicating with mysterious orbs that spoke in what she describes as a digita",
+   "audioURL": "https://claritaspod.com/measure/pscrb.fm/rss/p/arttrk.com/p/PMMIC/prfx.byspotify.com/e/mgln.ai/e/1047/dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/057291fc-9d62-4d71-9ef1-0d321bcb014e.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Tue, 08 Sep 2026 07:30:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6a/ca/b3/6acab359-0930-6578-184f-744d9f3ae278/mza_16900717249497875543.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Detailed near-death experience revealing insights on life and consciousness.",
+   "tradition": "Secular"
   },
   {
    "id": "0bd1512a-cfef-4720-82f7-b4bf00ee4a31",
@@ -40,8 +66,8 @@
    "published": "Tue, 08 Sep 2026 14:33:35 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores hospice care, deathbed visions, and the afterlife experience.",
-   "tradition": "Interfaith"
+   "reason": "Shares insights on death, afterlife, and hospice care from medical professionals.",
+   "tradition": "Secular"
   },
   {
    "id": "https://therapistuncensored.com/?p=20697",
@@ -57,30 +83,17 @@
    "tradition": "Secular"
   },
   {
-   "id": "tbrdeepdive.podbean.com/95937c94-0622-374e-8073-b0ede70329d8",
-   "showID": "https://feed.podbean.com/tbrdeepdive/feed.xml",
-   "showTitle": "The Bible Recap Deep Dive",
-   "title": "Week 36 (Days 246-252): I know I’m prideful, but what can I do about it?",
-   "summary": "ON TODAY'S EPISODE:\n- Why does Ezekiel seem so repetitive?\n- How can I grow in obedience in my life? \n- I know I’m prideful, but what can I do about it? \n- Is God still sovereign over nations in our world today?\n- Why does Ezekiel 39:17-20 mention drinking blood?\n\n\nRECAP LINKS:\nDay 246 - Podcast / YouTube\nDay 247 - Podcast / YouTube\nDay 248 - Podcast / YouTube\nDay 249 - Podcast / YouTube\nDay 250 - Podcast / YouTube\nDay 251 - Podcast / YouTube\nDay 252 - Podcast / YouTube\n\nONLINE BIBLE RESOURCES:\n- Got Questions?\n- BibleProject\n- Blue Letter Bible\n\nNote: This is not necessarily an endorsement of",
-   "audioURL": "https://mcdn.podbean.com/mf/web/9dfyswhcsjwtbsff/TBR_DeepDive_OTEp36_FCv19o5py.mp3",
-   "published": "Wed, 09 Sep 2026 00:00:00 -0500",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/a9/95/07a995c8-be85-bb61-28ff-736a0412cbb8/mza_17323749963932538168.png/600x600bb.jpg",
+   "id": "570b8a32-cf97-4d3e-b84f-e49df5c078ed",
+   "showID": "https://feeds.simplecast.com/kjVlTFLO",
+   "showTitle": "The Nature Of with Willow Defebaugh",
+   "title": "Are Plants Intelligent? Zoë Schlanger Has the Answer",
+   "summary": "What if plants are more intelligent than we've ever imagined? This week, Willow sits down with journalist and The Light Eaters author Zoë Schlanger for a conversation about the hidden lives of plants and what they reveal about intelligence, consciousness, and our place in the natural world. By the end of this conversation, you may never look at a tree or a houseplant the same way again.For more about Zoë Schlanger: https://www.zoeschlanger.com Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+   "audioURL": "https://mgln.ai/e/1245/afp-916008-injected.calisto.simplecastaudio.com/0d3bd6b6-2cfe-4942-ba2b-ec8eedc51581/episodes/1dfda4ed-89b6-400a-a34b-037a77a497c6/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0d3bd6b6-2cfe-4942-ba2b-ec8eedc51581&amp;awEpisodeId=1dfda4ed-89b6-400a-a34b-037a77a497c6&amp;feed=kjVlTFLO",
+   "published": "Tue, 8 Sep 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/81/a8/3e81a88a-fea6-be8b-7bbb-431d9c685bd0/mza_8248505836165703838.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Bible study addressing pride, obedience, and God's sovereignty.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "fe5ffd62-a8aa-11f1-a885-87c7209f8f66",
-   "showID": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
-   "showTitle": "The Shawn Ryan Show",
-   "title": "#337 Cardinal Burke - The Old Testament",
-   "summary": "Raymond Leo Cardinal Burke is an American cardinal, canon lawyer, and one of the Catholic Church’s most prominent defenders of traditional doctrine and liturgy. He previously served as Archbishop of St. Louis and as Prefect of the Apostolic Signatura, the Church’s highest judicial court, before being elevated to the College of Cardinals by Pope Benedict XVI in 2010. He is also the founder of the Shrine of Our Lady of Guadalupe in La Crosse, Wisconsin.\n\n\n\nShawn Ryan Show Sponsors:\n\nPrivacy Isn't Paranoia. It's Protection. Download Glacier today: https://srs.site/glacierapp\n\nBabbel is offering l",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD8434189321.mp3",
-   "published": "Tue, 08 Sep 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A Catholic cardinal discusses traditional doctrine and scripture interpretation.",
-   "tradition": "Catholic"
+   "reason": "Explores plant intelligence and consciousness challenging human-centered views.",
+   "tradition": "Secular"
   },
   {
    "id": "6a9a89618f0834a1091df471",
@@ -92,7 +105,7 @@
    "published": "Sun, 06 Sep 2026 04:00:55 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8c/a5/9a/8ca59ae4-a596-7ff1-a939-074bd85d5513/mza_9730644779736703088.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Investigates AI experiences that raise questions about consciousness and spiritual belief.",
+   "reason": "Investigates AI experiences bordering on spiritual awakening and altered states.",
    "tradition": "Secular"
   },
   {
@@ -105,34 +118,34 @@
    "published": "Fri, 11 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Catholic Bible reading focusing on judgment and repentance.",
-   "tradition": "Catholic"
-  },
-  {
-   "id": "45214e6a-a511-11f1-88de-7f2ab56b229f",
-   "showID": "https://feeds.megaphone.fm/LEW6901658133",
-   "showTitle": "Undaunted.Life: A Man's Podcast by Kyle Thompson",
-   "title": "GRANGER SMITH | Toxic Beliefs That Keep You From Jesus (Ep. 967)",
-   "summary": "In this episode, we welcome Granger Smith to the studio. He was an award-winning, platinum-selling country music singer and songwriter and the creator of the Earl Dibbles Jr. stage character. He is now a speaker, actor, author, and host of “After Midnite with Granger Smith”. He has a new book out now called “Poison in the Well: 11 Toxic Beliefs That Kept Me from the Living Water of Jesus”. In this interview, we discuss how he got his start in music, the big break that confirmed he could make it in Nashville, how he came up with the Earl Dibbles Jr. character, if he ever had problems differenti",
-   "audioURL": "https://traffic.megaphone.fm/LEW6693231308.mp3",
-   "published": "Tue, 08 Sep 2026 08:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/9f/12/809f1210-c215-9d6a-5dbd-45124c012604/mza_7903026632038263183.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Christian testimony about overcoming toxic beliefs and finding faith.",
+   "reason": "Bible reading with reflections on judgment and repentance.",
    "tradition": "Christian"
   },
   {
-   "id": "59741847-4b13-492c-ac17-8ca7121633b0",
-   "showID": "https://feeds.transistor.fm/live-like-a-girl-with-dr-mindy",
-   "showTitle": "Live Like a Girl with Dr. Mindy Pelz",
-   "title": "Why So Many Women Feel Disconnected From Their Bodies with Emma-Louise Boynton",
-   "summary": "Women spend so much time trying to change their bodies, but how often are we taught how to actually experience and enjoy them?In this conversation, I sit down with Emma-Louise Boynton to explore what happens when we begin reconnecting with our bodies through pleasure, presence, and curiosity rather than constant criticism. We talk about body image, intimacy, sex therapy, self-pleasure, mindfulness, and the small everyday practices that can help you feel more at home in your body.Because your relationship with your body affects far more than how you see yourself, it shapes how you experience yo",
-   "audioURL": "https://media.transistor.fm/632fa50d/bf4f6b09.mp3",
-   "published": "Mon, 07 Sep 2026 06:00:00 -0700",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/a8/8f/81a88f0e-0508-5a5e-d17c-ca279a90536b/mza_15434821659162479685.jpg/600x600bb.jpg",
+   "id": "tbrdeepdive.podbean.com/95937c94-0622-374e-8073-b0ede70329d8",
+   "showID": "https://feed.podbean.com/tbrdeepdive/feed.xml",
+   "showTitle": "The Bible Recap Deep Dive",
+   "title": "Week 36 (Days 246-252): I know I’m prideful, but what can I do about it?",
+   "summary": "ON TODAY'S EPISODE:\n- Why does Ezekiel seem so repetitive?\n- How can I grow in obedience in my life? \n- I know I’m prideful, but what can I do about it? \n- Is God still sovereign over nations in our world today?\n- Why does Ezekiel 39:17-20 mention drinking blood?\n\n\nRECAP LINKS:\nDay 246 - Podcast / YouTube\nDay 247 - Podcast / YouTube\nDay 248 - Podcast / YouTube\nDay 249 - Podcast / YouTube\nDay 250 - Podcast / YouTube\nDay 251 - Podcast / YouTube\nDay 252 - Podcast / YouTube\n\nONLINE BIBLE RESOURCES:\n- Got Questions?\n- BibleProject\n- Blue Letter Bible\n\nNote: This is not necessarily an endorsement of",
+   "audioURL": "https://mcdn.podbean.com/mf/web/9dfyswhcsjwtbsff/TBR_DeepDive_OTEp36_FCv19o5py.mp3",
+   "published": "Wed, 09 Sep 2026 00:00:00 -0500",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/a9/95/07a995c8-be85-bb61-28ff-736a0412cbb8/mza_17323749963932538168.png/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discussion on reconnecting with the body through mindfulness and pleasure.",
-   "tradition": "Secular"
+   "reason": "Bible study addressing pride, obedience, and divine sovereignty.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "fe5ffd62-a8aa-11f1-a885-87c7209f8f66",
+   "showID": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
+   "showTitle": "The Shawn Ryan Show",
+   "title": "#337 Cardinal Burke - The Old Testament",
+   "summary": "Raymond Leo Cardinal Burke is an American cardinal, canon lawyer, and one of the Catholic Church’s most prominent defenders of traditional doctrine and liturgy. He previously served as Archbishop of St. Louis and as Prefect of the Apostolic Signatura, the Church’s highest judicial court, before being elevated to the College of Cardinals by Pope Benedict XVI in 2010. He is also the founder of the Shrine of Our Lady of Guadalupe in La Crosse, Wisconsin.\n\n\n\nShawn Ryan Show Sponsors:\n\nPrivacy Isn't Paranoia. It's Protection. Download Glacier today: https://srs.site/glacierapp\n\nBabbel is offering l",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD8434189321.mp3",
+   "published": "Tue, 08 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Catholic cardinal discusses Old Testament and doctrine, some theological depth.",
+   "tradition": "Catholic"
   }
  ],
  "history": {
@@ -251,6 +264,8 @@
   "f3f1c829-c5b0-4000-9de3-6407fe2a97b9": "2026-09-11",
   "4a01a9c9-f0b0-4d6a-b186-9484c39c9114": "2026-09-11",
   "f8c3477d-f5f5-46d3-b202-626b5b514da6": "2026-09-11",
-  "tbrdeepdive.podbean.com/95937c94-0622-374e-8073-b0ede70329d8": "2026-09-11"
+  "tbrdeepdive.podbean.com/95937c94-0622-374e-8073-b0ede70329d8": "2026-09-11",
+  "gid://art19-episode-locator/V0/h2UMjPYuzZx-BaKMUg3ucxd3dA65Tm5jk6x7zWy8XXw": "2026-09-11",
+  "gid://art19-episode-locator/V0/VVXSjTmyh8N7UtRaUuuZJ9wzKgJJyHZSYXW7Bggt7zc": "2026-09-11"
  }
 }
