@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-11T17:40:30.039253+00:00",
+ "generatedAt": "2026-09-11T20:46:09.345196+00:00",
  "showsScanned": 400,
- "candidates": 56,
+ "candidates": 54,
  "picks": [
   {
    "id": "6a0d264e-ea40-49f4-9950-b0e8e5721a1c",
@@ -27,7 +27,7 @@
    "published": "Fri, 11 Sep 2026 09:21:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8a/17/c7/8a17c730-404a-cdf5-4140-6753b60b825f/mza_10993589976044159849.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep conversation on meaning, suffering, faith, and purpose amid life loss.",
+   "reason": "A deep discussion on meaning, suffering, faith, and technology's impact.",
    "tradition": "Interfaith"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Tue, 08 Sep 2026 14:33:35 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares insights on death, afterlife, and hospice care from medical professionals.",
+   "reason": "Explores hospice care, deathbed visions, and the afterlife experience.",
    "tradition": "Interfaith"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Tue, 08 Sep 2026 05:05:32 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/22/d8/fd/22d8fdc2-16f5-a4ec-cb43-5a2d4b92ffa6/mza_5288490312746447040.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores expanded consciousness through psychedelics and breathwork.",
+   "reason": "Examines expanded consciousness through psychedelics and breathwork.",
    "tradition": "Secular"
   },
   {
@@ -66,21 +66,21 @@
    "published": "Wed, 09 Sep 2026 00:00:00 -0500",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/a9/95/07a995c8-be85-bb61-28ff-736a0412cbb8/mza_17323749963932538168.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "Addresses pride, obedience, and divine sovereignty with biblical depth.",
+   "reason": "Bible study addressing pride, obedience, and God's sovereignty.",
    "tradition": "Christian"
   },
   {
-   "id": "570b8a32-cf97-4d3e-b84f-e49df5c078ed",
-   "showID": "https://feeds.simplecast.com/kjVlTFLO",
-   "showTitle": "The Nature Of with Willow Defebaugh",
-   "title": "Are Plants Intelligent? Zoë Schlanger Has the Answer",
-   "summary": "What if plants are more intelligent than we've ever imagined? This week, Willow sits down with journalist and The Light Eaters author Zoë Schlanger for a conversation about the hidden lives of plants and what they reveal about intelligence, consciousness, and our place in the natural world. By the end of this conversation, you may never look at a tree or a houseplant the same way again.For more about Zoë Schlanger: https://www.zoeschlanger.com Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-   "audioURL": "https://mgln.ai/e/1245/afp-916008-injected.calisto.simplecastaudio.com/0d3bd6b6-2cfe-4942-ba2b-ec8eedc51581/episodes/1dfda4ed-89b6-400a-a34b-037a77a497c6/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=0d3bd6b6-2cfe-4942-ba2b-ec8eedc51581&amp;awEpisodeId=1dfda4ed-89b6-400a-a34b-037a77a497c6&amp;feed=kjVlTFLO",
-   "published": "Tue, 8 Sep 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/81/a8/3e81a88a-fea6-be8b-7bbb-431d9c685bd0/mza_8248505836165703838.jpg/600x600bb.jpg",
+   "id": "fe5ffd62-a8aa-11f1-a885-87c7209f8f66",
+   "showID": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
+   "showTitle": "The Shawn Ryan Show",
+   "title": "#337 Cardinal Burke - The Old Testament",
+   "summary": "Raymond Leo Cardinal Burke is an American cardinal, canon lawyer, and one of the Catholic Church’s most prominent defenders of traditional doctrine and liturgy. He previously served as Archbishop of St. Louis and as Prefect of the Apostolic Signatura, the Church’s highest judicial court, before being elevated to the College of Cardinals by Pope Benedict XVI in 2010. He is also the founder of the Shrine of Our Lady of Guadalupe in La Crosse, Wisconsin.\n\n\n\nShawn Ryan Show Sponsors:\n\nPrivacy Isn't Paranoia. It's Protection. Download Glacier today: https://srs.site/glacierapp\n\nBabbel is offering l",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD8434189321.mp3",
+   "published": "Tue, 08 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Considers plant intelligence and consciousness, challenging views on life.",
-   "tradition": "Secular"
+   "reason": "A Catholic cardinal discusses traditional doctrine and scripture interpretation.",
+   "tradition": "Catholic"
   },
   {
    "id": "6a9a89618f0834a1091df471",
@@ -92,21 +92,8 @@
    "published": "Sun, 06 Sep 2026 04:00:55 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8c/a5/9a/8ca59ae4-a596-7ff1-a939-074bd85d5513/mza_9730644779736703088.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Investigates AI experiences that touch on spiritual and consciousness themes.",
+   "reason": "Investigates AI experiences that raise questions about consciousness and spiritual belief.",
    "tradition": "Secular"
-  },
-  {
-   "id": "f8c3477d-f5f5-46d3-b202-626b5b514da6",
-   "showID": "https://rss.libsyn.com/shows/606285/destinations/5279650.xml",
-   "showTitle": "The Deep End With Lecrae",
-   "title": "R&B Legend Exposes the Dark Side of the Industry, Talks Boyz II Men, Faith",
-   "summary": "Lecrae sits down with Boyz II Men founding member Shawn Stockman for a conversation that goes far beyond the music. Shawn reflects on the journey from a kid in Southwest Philly to becoming part of one of the biggest groups in the world, and what happened when the industry that celebrated them began to move on. He opens up about race, the realities behind the music business, the difficult years Boyz II Men faced as a group, and how his understanding of success and purpose changed through fatherhood.  01:04 Introduction 05:06 Shawn Stockman Before Boyz II Men 07:07 Dreaming of Being on Stage 09:",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/289702f0-eba6-44cb-bf7c-b7ff937eb51c/Audio_Ep137_ShawnStockman_DeepEnd_final.mp3?dest-id=5279650",
-   "published": "Fri, 11 Sep 2026 09:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Reflects on faith and purpose through personal and industry struggles.",
-   "tradition": "Christian"
   },
   {
    "id": "7171890b-730d-4ad9-9e22-c20b2a50a383",
@@ -118,7 +105,7 @@
    "published": "Fri, 11 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Meditates on judgment and repentance with biblical texts.",
+   "reason": "Catholic Bible reading focusing on judgment and repentance.",
    "tradition": "Catholic"
   },
   {
@@ -131,21 +118,21 @@
    "published": "Tue, 08 Sep 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/9f/12/809f1210-c215-9d6a-5dbd-45124c012604/mza_7903026632038263183.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses toxic beliefs and spiritual transformation through personal story.",
+   "reason": "Christian testimony about overcoming toxic beliefs and finding faith.",
    "tradition": "Christian"
   },
   {
-   "id": "fe5ffd62-a8aa-11f1-a885-87c7209f8f66",
-   "showID": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
-   "showTitle": "The Shawn Ryan Show",
-   "title": "#337 Cardinal Burke - The Old Testament",
-   "summary": "Raymond Leo Cardinal Burke is an American cardinal, canon lawyer, and one of the Catholic Church’s most prominent defenders of traditional doctrine and liturgy. He previously served as Archbishop of St. Louis and as Prefect of the Apostolic Signatura, the Church’s highest judicial court, before being elevated to the College of Cardinals by Pope Benedict XVI in 2010. He is also the founder of the Shrine of Our Lady of Guadalupe in La Crosse, Wisconsin.\n\n\n\nShawn Ryan Show Sponsors:\n\nPrivacy Isn't Paranoia. It's Protection. Download Glacier today: https://srs.site/glacierapp\n\nBabbel is offering l",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD8434189321.mp3",
-   "published": "Tue, 08 Sep 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
+   "id": "59741847-4b13-492c-ac17-8ca7121633b0",
+   "showID": "https://feeds.transistor.fm/live-like-a-girl-with-dr-mindy",
+   "showTitle": "Live Like a Girl with Dr. Mindy Pelz",
+   "title": "Why So Many Women Feel Disconnected From Their Bodies with Emma-Louise Boynton",
+   "summary": "Women spend so much time trying to change their bodies, but how often are we taught how to actually experience and enjoy them?In this conversation, I sit down with Emma-Louise Boynton to explore what happens when we begin reconnecting with our bodies through pleasure, presence, and curiosity rather than constant criticism. We talk about body image, intimacy, sex therapy, self-pleasure, mindfulness, and the small everyday practices that can help you feel more at home in your body.Because your relationship with your body affects far more than how you see yourself, it shapes how you experience yo",
+   "audioURL": "https://media.transistor.fm/632fa50d/bf4f6b09.mp3",
+   "published": "Mon, 07 Sep 2026 06:00:00 -0700",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/a8/8f/81a88f0e-0508-5a5e-d17c-ca279a90536b/mza_15434821659162479685.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Cardinal Burke discusses Old Testament themes, offering traditional Catholic perspectives.",
-   "tradition": "Catholic"
+   "reason": "Discussion on reconnecting with the body through mindfulness and pleasure.",
+   "tradition": "Secular"
   }
  ],
  "history": {
