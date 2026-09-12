@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-12T12:46:20.295010+00:00",
+ "generatedAt": "2026-09-12T16:08:30.653940+00:00",
  "showsScanned": 400,
- "candidates": 54,
+ "candidates": 56,
  "picks": [
   {
    "id": "9dde0a85-e9d6-45db-be7e-591fcb707748",
@@ -14,8 +14,21 @@
    "published": "Mon, 07 Sep 2026 18:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Former pastor's deep struggle with faith and loss of belief.",
+   "reason": "Former pastor's deep struggle with faith and loss of belief in Christianity.",
    "tradition": "Christian"
+  },
+  {
+   "id": "1c63cc38-ad30-11f1-b85a-77216a034ab4",
+   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
+   "showTitle": "Blurry Creatures",
+   "title": "EP: 463 There Are Two Powers in Heaven with Dr. Joel Muddamalle And Doug Van Dorn *members only trailer",
+   "summary": "In some corners of the church, what Joel Muddamalle and Doug Van Dorn argue in this episode gets called heresy. Their claim is simple and enormous. The Angel of the Lord who stands before Joshua, speaks from the burning bush, and accepts worship without correcting it is the preincarnate Christ. The rabbis saw the tension too. They called it the Two Powers in Heaven, and they could not explain how two Yahwehs show up in the same verse. Doug wrote the book on this figure. Joel is the theologian in the room. Together, they build a case that Jesus is the general of the armies of God long before Be",
+   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW3604135671.mp3",
+   "published": "Thu, 10 Sep 2026 20:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Theological exploration of complex biblical concepts about divine presence and identity.",
+   "tradition": "Jewish"
   },
   {
    "id": "0cf0b2aab698f6232710c8802f403560",
@@ -27,7 +40,7 @@
    "published": "Mon, 07 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal faith journey exploring authentic Christian belief and doubt.",
+   "reason": "Personal faith journey exploring doubt, rebuilding belief, and authentic Christian living.",
    "tradition": "Christian"
   },
   {
@@ -53,34 +66,21 @@
    "published": "Mon, 07 Sep 2026 18:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores a megachurch pastor's loss of faith and spiritual journey.",
+   "reason": "Former megachurch pastor discusses losing faith and spiritual journey.",
    "tradition": "Christian"
   },
   {
-   "id": "ab6afc08-abb9-11f1-b459-077ed02e593e",
-   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
-   "showTitle": "Live Free with Josh Howerton",
-   "title": "Did The Church BAN These Gospels from the Bible?! | Live Free with Josh Howerton",
-   "summary": "What if some of the “lost” or “banned” gospels actually tell us more about the real Jesus than the Bible does? It’s a claim that continues to resurface—and a recent viral conversation on The Joe Rogan Experience brought it back into the spotlight.\n\nIn this bonus episode of LIVE FREE, Pastors Carlos and Paul react to claims about the Gnostic Gospels and examine the historical evidence behind Matthew, Mark, Luke, and John. Were books about Jesus intentionally suppressed by the Church? Were the Gnostic Gospels actually written first? And can we trust the New Testament to give us an accurate pictu",
-   "audioURL": "https://traffic.megaphone.fm/HAEEH5725813187.mp3",
-   "published": "Wed, 09 Sep 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Pastors analyze historical and theological claims about suppressed gospels.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "1c63cc38-ad30-11f1-b85a-77216a034ab4",
-   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
-   "showTitle": "Blurry Creatures",
-   "title": "EP: 463 There Are Two Powers in Heaven with Dr. Joel Muddamalle And Doug Van Dorn *members only trailer",
-   "summary": "In some corners of the church, what Joel Muddamalle and Doug Van Dorn argue in this episode gets called heresy. Their claim is simple and enormous. The Angel of the Lord who stands before Joshua, speaks from the burning bush, and accepts worship without correcting it is the preincarnate Christ. The rabbis saw the tension too. They called it the Two Powers in Heaven, and they could not explain how two Yahwehs show up in the same verse. Doug wrote the book on this figure. Joel is the theologian in the room. Together, they build a case that Jesus is the general of the armies of God long before Be",
-   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW3604135671.mp3",
-   "published": "Thu, 10 Sep 2026 20:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "id": "gid://art19-episode-locator/V0/zV3htiRu2YIMxKVa8otyz48_vKFS_weGYAdZQvIp52U",
+   "showID": "https://rss.art19.com/the-exorcist-files",
+   "showTitle": "The Exorcist Files",
+   "title": "The Nature of Demons, Justice, and Forgiving Others With Fr. Gregory Pine",
+   "summary": "In this episode of The Exorcist Files, host Ryan Bethea and Father Carlos Martins share key updates on Season 3—including an October 5th premiere date, an exclusive sneak peek audio clip, and a personal prayer request.Then, Dominican friar Father Gregory Pine joins the show to tackle listener questions on spiritual warfare. They discuss how demons try to derail vocations, overcoming regret and envy, what Christ meant by \"turning the other cheek,\" and how to choose forgiveness in the face of deep betrayal.Order Father's Book- FatherCarlosMartins.comThank you to our Sponsorshttps://Exodus90.com/",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/p687916/rss.art19.com/episodes/5b842953-1efd-4747-8903-75cef2467c7e.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Sat, 12 Sep 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Theological discussion on the Two Powers in Heaven and preincarnate Christ.",
-   "tradition": "Christian"
+   "reason": "Catholic priest discusses spiritual warfare, forgiveness, and ethical challenges in faith.",
+   "tradition": "Catholic"
   },
   {
    "id": "coe22.podbean.com/e0132922-e49a-33e7-9293-33cdf4882509",
@@ -92,7 +92,7 @@
    "published": "Sun, 06 Sep 2026 22:26:56 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines religious hypocrisy and the heart's true relation to faith and love.",
+   "reason": "A serious Christian sermon on hypocrisy, love, and authentic faith in Jesus.",
    "tradition": "Christian"
   },
   {
@@ -105,8 +105,47 @@
    "published": "Tue, 08 Sep 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal story of spiritual growth and trusting a higher power amid change.",
+   "reason": "A personal story of spiritual transformation and doubt with emphasis on growth and faith.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "ab6afc08-abb9-11f1-b459-077ed02e593e",
+   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
+   "showTitle": "Live Free with Josh Howerton",
+   "title": "Did The Church BAN These Gospels from the Bible?! | Live Free with Josh Howerton",
+   "summary": "What if some of the “lost” or “banned” gospels actually tell us more about the real Jesus than the Bible does? It’s a claim that continues to resurface—and a recent viral conversation on The Joe Rogan Experience brought it back into the spotlight.\n\nIn this bonus episode of LIVE FREE, Pastors Carlos and Paul react to claims about the Gnostic Gospels and examine the historical evidence behind Matthew, Mark, Luke, and John. Were books about Jesus intentionally suppressed by the Church? Were the Gnostic Gospels actually written first? And can we trust the New Testament to give us an accurate pictu",
+   "audioURL": "https://traffic.megaphone.fm/HAEEH5725813187.mp3",
+   "published": "Wed, 09 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Pastors critically examine biblical texts and Gnostic gospels, questioning historical suppression.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "1db9a3f7-df92-4762-9af5-b4c20152db6c",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6ea152c0-9e3a-45de-8672-ae2f0056b113/d8936746-9e22-4dba-b762-ae2f0056b126/podcast.rss",
+   "showTitle": "Stuff To Blow Your Mind",
+   "title": "From the Vault: Transporters and Consciousness in Star Trek",
+   "summary": "In this classic Star Trek Week episode of Stuff to Blow Your Mind, Robert and Joe discuss teleportation in the Star Trek universe and the questions it raises about human identity and consciousness. (originally published 9/11/2025)See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6ea152c0-9e3a-45de-8672-ae2f0056b113/1db9a3f7-df92-4762-9af5-b4c20152db6c/audio.mp3?utm_source=Podcast&amp;in_playlist=d8936746-9e22-4dba-b762-ae2f0056b126",
+   "published": "Sat, 12 Sep 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/29/71/6c/29716c28-c923-3934-e3be-8f185ab59eae/mza_2212534510427103234.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Philosophical inquiry into consciousness and identity through sci-fi teleportation.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "2f71e65a-d87c-4659-84b4-b4bf015928d2",
+   "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
+   "showTitle": "BYU Speeches",
+   "title": "“Ears to Hear” | Wendy W. Reese | September 2026",
+   "summary": "Let us tune out the noise and focus on God. Find quiet time each day where you can turn to your Heavenly Father and pour out your soul to Him. And then listen, really listen with ears to hear what heaven wants to tell you. Wendy W. Reese, wife of BYU president C. Shane Reese, delivered this devotional address on September 8, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/2f71e65a-d87c-4659-84b4-b4bf015928d2/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
+   "published": "Tue, 08 Sep 2026 21:07:54 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Devotional talk encouraging prayer and listening to God.",
+   "tradition": "Latter-day Saint"
   },
   {
    "id": "40d3d476-7aae-4a02-8a8c-b4bf015928d2",
@@ -118,21 +157,8 @@
    "published": "Tue, 08 Sep 2026 21:10:44 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Talks about spiritual growth and becoming who God wants you to be.",
+   "reason": "A devotional about personal growth and spiritual journey in a Latter-day Saint context.",
    "tradition": "Latter-day Saint"
-  },
-  {
-   "id": "1db9a3f7-df92-4762-9af5-b4c20152db6c",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6ea152c0-9e3a-45de-8672-ae2f0056b113/d8936746-9e22-4dba-b762-ae2f0056b126/podcast.rss",
-   "showTitle": "Stuff To Blow Your Mind",
-   "title": "From the Vault: Transporters and Consciousness in Star Trek",
-   "summary": "In this classic Star Trek Week episode of Stuff to Blow Your Mind, Robert and Joe discuss teleportation in the Star Trek universe and the questions it raises about human identity and consciousness. (originally published 9/11/2025)See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6ea152c0-9e3a-45de-8672-ae2f0056b113/1db9a3f7-df92-4762-9af5-b4c20152db6c/audio.mp3?utm_source=Podcast&amp;in_playlist=d8936746-9e22-4dba-b762-ae2f0056b126",
-   "published": "Sat, 12 Sep 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/29/71/6c/29716c28-c923-3934-e3be-8f185ab59eae/mza_2212534510427103234.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Philosophical questions about identity and consciousness via sci-fi teleportation.",
-   "tradition": "Secular"
   }
  ],
  "history": {
@@ -248,6 +274,7 @@
   "tbrdeepdive.podbean.com/95937c94-0622-374e-8073-b0ede70329d8": "2026-09-11",
   "gid://art19-episode-locator/V0/h2UMjPYuzZx-BaKMUg3ucxd3dA65Tm5jk6x7zWy8XXw": "2026-09-11",
   "gid://art19-episode-locator/V0/VVXSjTmyh8N7UtRaUuuZJ9wzKgJJyHZSYXW7Bggt7zc": "2026-09-11",
-  "1db9a3f7-df92-4762-9af5-b4c20152db6c": "2026-09-12"
+  "1db9a3f7-df92-4762-9af5-b4c20152db6c": "2026-09-12",
+  "gid://art19-episode-locator/V0/zV3htiRu2YIMxKVa8otyz48_vKFS_weGYAdZQvIp52U": "2026-09-12"
  }
 }
