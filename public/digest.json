@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-13T21:19:20.045039+00:00",
+ "generatedAt": "2026-09-13T23:59:39.007610+00:00",
  "showsScanned": 400,
- "candidates": 59,
+ "candidates": 60,
  "picks": [
   {
    "id": "6a0d264e-ea40-49f4-9950-b0e8e5721a1c",
@@ -21,13 +21,13 @@
    "id": "f3f1c829-c5b0-4000-9de3-6407fe2a97b9",
    "showID": "https://media.rss.com/why-personality-evolves-more-than-people-expect-personality-peek-podcast-1/feed.xml",
    "showTitle": "A Peek Inside",
-   "title": "What Gives Life Meaning? Faith, Purpose, Suffering & AI | Arky Jones & Joseph Leonard",
-   "summary": "Hey! I'd love to hear your thoughts, send me a voice note.What gives life meaning when everything familiar falls away?In this powerful episode of Peek Inside, Arky Jones speaks with Joseph Leonard about faith, suffering, purpose, gratitude, music, and the rapidly changing role of technology in human life.Joseph shares how losing his career, health, marriage, and former lifestyle forced him to rethink what truly matters. From surviving one of the darkest moments of his life to writing books and creating music with AI, his story becomes a conversation about resilience, faith, creativity, and fin",
+   "title": "What Gives Life Meaning? Faith, Purpose, Suffering & AI | Arky Jones & Joseph Lenard",
+   "summary": "Hey! I'd love to hear your thoughts, send me a voice note.What gives life meaning when everything familiar falls away?In this powerful episode of Peek Inside, Arky Jones speaks with Joseph Lenard about faith, suffering, purpose, gratitude, music, and the rapidly changing role of technology in human life.Joseph shares how losing his career, health, marriage, and former lifestyle forced him to rethink what truly matters. From surviving one of the darkest moments of his life to writing books and creating music with AI, his story becomes a conversation about resilience, faith, creativity, and find",
    "audioURL": "https://content.rss.com/episodes/390905/3142118/why-personality-evolves-more-than-people-expect-personality-peek-podcast-1/2026_09_11_09_17_24_99117eb8-d189-4503-a33e-7ff39a5ffb6c.mp3",
    "published": "Fri, 11 Sep 2026 09:21:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8a/17/c7/8a17c730-404a-cdf5-4140-6753b60b825f/mza_10993589976044159849.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep conversation on meaning, faith, suffering, and technology's role in life.",
+   "reason": "Deep conversation on meaning, suffering, faith, and technology.",
    "tradition": "Interfaith"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Wed, 09 Sep 2026 08:19:09 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores biblical wisdom literature on meaning, purpose, and the limits of worldly pursuits.",
+   "reason": "Explores biblical wisdom literature wrestling with meaning, purpose, and mortality.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +53,20 @@
    "published": "Tue, 08 Sep 2026 14:33:35 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares end-of-life experiences and deathbed visions from hospice professionals.",
+   "reason": "Shares insights on death, hospice, and afterlife experiences from medical professionals.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "Buzzsprout-19781122",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "It Can Still Feel Scary as I’m Beginning to See the World Differently Because I’m Becoming Someone Different — The Personal and Spiritual Growth That Helped Me Trust My Higher Power, and Live My Life with Love, Purpose, and Passion",
+   "summary": "What if the world around you doesn’t need to change before your life can begin to feel different?In this episode of WE, Joe Mittiga explores what happens when personal and spiritual growth begins changing the way you see everything around you. Relationships feel different. Success takes on a new meaning. Old priorities begin to shift, and even positive transformation can feel scary when you realize you’re becoming someone different.Through his own experiences with grief, relationships, purpose, faith, and personal transformation, Joe shares how he has learned to look inward instead of waiting ",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19781122-it-can-still-feel-scary-as-i-m-beginning-to-see-the-world-differently-because-i-m-becoming-someone-different-the-personal-and-spiritual-growth-that-helped-me-trust-my-higher-power-and-live-my-life-with-love-pur.mp3",
+   "published": "Thu, 10 Sep 2026 07:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Personal and spiritual growth story exploring transformation, faith, and purpose.",
    "tradition": "Interfaith"
   },
   {
@@ -65,22 +78,9 @@
    "audioURL": "https://traffic.megaphone.fm/GLT4461637892.mp3",
    "published": "Mon, 07 Sep 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Neuroscientist explores health habits alongside prayer, surrender, and energy management.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "Buzzsprout-19781122",
-   "showID": "https://rss.buzzsprout.com/2547586.rss",
-   "showTitle": "We!",
-   "title": "It Can Still Feel Scary as I’m Beginning to See the World Differently Because I’m Becoming Someone Different — The Personal and Spiritual Growth That Helped Me Trust My Higher Power, and Live My Life with Love, Purpose, and Passion",
-   "summary": "What if the world around you doesn’t need to change before your life can begin to feel different?In this episode of WE, Joe Mittiga explores what happens when personal and spiritual growth begins changing the way you see everything around you. Relationships feel different. Success takes on a new meaning. Old priorities begin to shift, and even positive transformation can feel scary when you realize you’re becoming someone different.Through his own experiences with grief, relationships, purpose, faith, and personal transformation, Joe shares how he has learned to look inward instead of waiting ",
-   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19781122-it-can-still-feel-scary-as-i-m-beginning-to-see-the-world-differently-because-i-m-becoming-someone-different-the-personal-and-spiritual-growth-that-helped-me-trust-my-higher-power-and-live-my-life-with-love-pur.mp3",
-   "published": "Thu, 10 Sep 2026 07:00:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal spiritual growth and transformation with some discussion of faith and purpose.",
-   "tradition": "Interfaith"
+   "reason": "Neuroscientist links health habits with prayer and energy management.",
+   "tradition": "Secular"
   },
   {
    "id": "a2dbc211-39a1-4226-88ff-17fe9860101c",
@@ -92,7 +92,7 @@
    "published": "Sun, 13 Sep 2026 00:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Uses Moses' story to discuss faith and transformation into leadership.",
+   "reason": "Uses Moses' story to discuss faith, transformation, and leadership.",
    "tradition": "Christian"
   },
   {
@@ -105,7 +105,7 @@
    "published": "Thu, 10 Sep 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Cardinal Burke discusses New Testament from a traditional Catholic perspective.",
+   "reason": "Features a Catholic cardinal discussing New Testament topics with doctrinal emphasis.",
    "tradition": "Catholic"
   },
   {
@@ -118,7 +118,7 @@
    "published": "Thu, 10 Sep 2026 05:08:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8a/17/c7/8a17c730-404a-cdf5-4140-6753b60b825f/mza_10993589976044159849.png/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses listening and conflict with some insight into human understanding and empathy.",
+   "reason": "Discusses listening and conflict with some attention to human understanding and empathy.",
    "tradition": "Secular"
   },
   {
@@ -131,8 +131,8 @@
    "published": "Thu, 10 Sep 2026 04:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/85/74/aa857474-43cb-883b-94d1-16c24d0305b4/mza_466083494209813278.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores consciousness and non-human intelligence in a webinar series.",
-   "tradition": "Mythic"
+   "reason": "Explores consciousness and non-human intelligence in a webinar series on UFOs.",
+   "tradition": "Interfaith"
   }
  ],
  "history": {
