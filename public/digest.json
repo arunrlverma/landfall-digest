@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-13T11:27:47.175408+00:00",
+ "generatedAt": "2026-09-13T15:56:48.831203+00:00",
  "showsScanned": 400,
- "candidates": 58,
+ "candidates": 59,
  "picks": [
   {
    "id": "6a0d264e-ea40-49f4-9950-b0e8e5721a1c",
@@ -13,8 +13,8 @@
    "audioURL": "https://pdcn.co/e/afp-973833-injected.calisto.simplecastaudio.com/257d42bd-c701-4eee-80d0-8eebb7fb5de8/episodes/2940f1d0-36b0-4892-8030-836e197c961b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=257d42bd-c701-4eee-80d0-8eebb7fb5de8&amp;awEpisodeId=2940f1d0-36b0-4892-8030-836e197c961b&amp;feed=tj_igLD4",
    "published": "Tue, 8 Sep 2026 15:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b2/b4/80/b2b48020-11e7-92a9-db46-b7d475a19757/mza_619091211434212889.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A deep Buddhist discussion on karma, compassion, and spiritual growth beyond the mind.",
+   "rating": 9,
+   "reason": "Deep discussion on karma, compassion, and spiritual growth in Tibetan Buddhist tradition.",
    "tradition": "Buddhist"
   },
   {
@@ -26,8 +26,8 @@
    "audioURL": "https://content.rss.com/episodes/390905/3142118/why-personality-evolves-more-than-people-expect-personality-peek-podcast-1/2026_09_11_09_17_24_99117eb8-d189-4503-a33e-7ff39a5ffb6c.mp3",
    "published": "Fri, 11 Sep 2026 09:21:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8a/17/c7/8a17c730-404a-cdf5-4140-6753b60b825f/mza_10993589976044159849.png/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Deep conversation on meaning, suffering, faith, and technology.",
+   "rating": 9,
+   "reason": "Deep conversation on meaning, suffering, faith, and technology's role in life.",
    "tradition": "Interfaith"
   },
   {
@@ -39,34 +39,8 @@
    "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/eac88146-dcc8-48aa-b5e9-ae2d0173cb0a/0bd1512a-cfef-4720-82f7-b4bf00ee4a31/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
    "published": "Tue, 08 Sep 2026 14:33:35 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores death, afterlife, and end-of-life experiences with medical professionals.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "b60bafa0-8ba5-4837-92b4-f659f8e13103",
-   "showID": "https://anchor.fm/s/10c2267dc/podcast/rss",
-   "showTitle": "The Eric Metaxas Show",
-   "title": "#199 - John Zmirak",
-   "summary": "Today On The Eric Metaxas Show, John Zmirak joins Eric to discuss how the ideas of Charles Darwin, Karl Marx, and Sigmund Freud influenced modern Christianity. Zmirak argues that some churches tried to accommodate ideas they considered intellectually respectable and, in the process, began explaining away biblical miracles, reshaping Christian teaching around Marxist politics, and replacing traditional ideas about sin with Freudian psychology.Eric and John discuss Darwinism, Genesis, the Resurrection, liberation theology, Freud’s influence, and what happens when Christians become embarrassed by",
-   "audioURL": "https://traffic.megaphone.fm/APO7782282765.mp3",
-   "published": "Fri, 11 Sep 2026 21:05:50 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Discusses Christianity's interaction with modern intellectual ideas and theology.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "38bfb2ed-97ce-4652-bb59-dd777e089cb0",
-   "showID": "https://media.rss.com/why-personality-evolves-more-than-people-expect-personality-peek-podcast-1/feed.xml",
-   "showTitle": "A Peek Inside",
-   "title": "Why Listening Matters More Than Winning | Communication, Conflict & Life Lessons with Arky Jones and Bob Martin",
-   "summary": "Hey! I'd love to hear your thoughts, send me a voice note.Why do some conversations end in understanding while others turn into conflict?In this episode of Peek Inside, Arky Jones speaks with Bob Martin about one of the most overlooked human skills: truly listening. Drawing from decades in trial law, social work, counselling and meditation, Bob shares why people often need to feel heard before they are ready to hear another point of view.The conversation moves through conflict, persuasion, emotional reactions, meditation, attention and the way personal experiences shape how people respond. Ark",
-   "audioURL": "https://content.rss.com/episodes/390905/3139076/why-personality-evolves-more-than-people-expect-personality-peek-podcast-1/2026_09_10_05_07_21_22cb428f-812b-4bff-8f3f-f09266e0d640.mp3",
-   "published": "Thu, 10 Sep 2026 05:08:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8a/17/c7/8a17c730-404a-cdf5-4140-6753b60b825f/mza_10993589976044159849.png/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Discusses listening, conflict, and understanding with psychological and meditative insight.",
+   "rating": 9,
+   "reason": "Explores death, dying, and afterlife experiences with hospice professionals.",
    "tradition": "Interfaith"
   },
   {
@@ -78,22 +52,22 @@
    "audioURL": "https://www.buzzsprout.com/2547586/episodes/19781122-it-can-still-feel-scary-as-i-m-beginning-to-see-the-world-differently-because-i-m-becoming-someone-different-the-personal-and-spiritual-growth-that-helped-me-trust-my-higher-power-and-live-my-life-with-love-pur.mp3",
    "published": "Thu, 10 Sep 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Personal spiritual growth and transformation with some existential themes.",
+   "rating": 7,
+   "reason": "Personal and spiritual growth reflections on change, fear, and purpose.",
    "tradition": "Interfaith"
   },
   {
-   "id": "d252c192-a89f-11f1-99e6-1b1f53e86e1e",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "Andrew Huberman: The Simple Habits That Will Transform Your Health",
-   "summary": "Jay welcomes neuroscientist Andrew Huberman back for his third appearance to dive into his new book, Protocols: An Operating Manual for the Human Body. Andrew breaks down what’s really happening in your body from the moment you wake up, from morning cortisol and better sleep to the science behind that afternoon energy crash. Then the conversation goes beyond physical health, exploring prayer, surrender, and  how to better manage your energy.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nMazda crafts cars for people who do more than simply move. Visit Mazdausa.com to learn more. Consumer reports does ",
-   "audioURL": "https://traffic.megaphone.fm/GLT4461637892.mp3",
-   "published": "Mon, 07 Sep 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Neuroscientist links health habits with prayer and energy management.",
-   "tradition": "Secular"
+   "id": "b60bafa0-8ba5-4837-92b4-f659f8e13103",
+   "showID": "https://anchor.fm/s/10c2267dc/podcast/rss",
+   "showTitle": "The Eric Metaxas Show",
+   "title": "#199 - John Zmirak",
+   "summary": "Today On The Eric Metaxas Show, John Zmirak joins Eric to discuss how the ideas of Charles Darwin, Karl Marx, and Sigmund Freud influenced modern Christianity. Zmirak argues that some churches tried to accommodate ideas they considered intellectually respectable and, in the process, began explaining away biblical miracles, reshaping Christian teaching around Marxist politics, and replacing traditional ideas about sin with Freudian psychology.Eric and John discuss Darwinism, Genesis, the Resurrection, liberation theology, Freud’s influence, and what happens when Christians become embarrassed by",
+   "audioURL": "https://traffic.megaphone.fm/APO7782282765.mp3",
+   "published": "Fri, 11 Sep 2026 21:05:50 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Critical look at Christianity influenced by Darwin, Marx, and Freud.",
+   "tradition": "Christian"
   },
   {
    "id": "cb07a32a-acb5-11f1-bbcd-27ac0693bc0b",
@@ -104,9 +78,48 @@
    "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4265484314.mp3",
    "published": "Thu, 10 Sep 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Covers New Testament from a traditional Catholic perspective, mostly doctrinal.",
+   "rating": 7,
+   "reason": "A Catholic cardinal reflects on New Testament teachings and traditional doctrine.",
    "tradition": "Catholic"
+  },
+  {
+   "id": "7b8a4bac-ac53-11f1-a89b-fbb9fa7a9771",
+   "showID": "https://feeds.megaphone.fm/PHTE6132945524",
+   "showTitle": "Somewhere in the Skies",
+   "title": "Join Us For Whitley Strieber's LIVE Webinar Series!",
+   "summary": "Somewhere in the Skies is partnering with Ubiquity University for Transformation 2026: The Fourth Mind, a live four-week webinar series with legendary Communion author Whitley Strieber.\n\n\n\nLearn more and register through our affiliate link: ⁠https://www.ubiquityuniversity.org/courses/transformation-2026/?am_id=SomewhereInTheSkies⁠\n\n\n\nBeginning September 17th, Whitley will explore the Visitors, non-human intelligence, abduction, psi abilities, consciousness, and his concept of the Fourth Mind, a new way of understanding contact and our place within it.\n\n\n\nThe series includes four live 90-minute",
+   "audioURL": "https://pscrb.fm/rss/p/traffic.megaphone.fm/PHTE4523643525.mp3",
+   "published": "Thu, 10 Sep 2026 04:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/85/74/aa857474-43cb-883b-94d1-16c24d0305b4/mza_466083494209813278.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discusses non-human intelligence and consciousness in UFO context.",
+   "tradition": "Mythic"
+  },
+  {
+   "id": "a2dbc211-39a1-4226-88ff-17fe9860101c",
+   "showID": "https://anchor.fm/s/10e5a085c/podcast/rss",
+   "showTitle": "The Mark Driscoll Podcast",
+   "title": "How God Turns You Into a Man",
+   "summary": "Through Moses’ story, we see how faith, marriage, fatherhood, hard work, and sacrifice can transform a floundering man into a protector, provider, and godly leader.",
+   "audioURL": "https://traffic.megaphone.fm/APO3771264515.mp3",
+   "published": "Sun, 13 Sep 2026 00:00:01 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Uses Moses' story to discuss transformation through faith and responsibility.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "38bfb2ed-97ce-4652-bb59-dd777e089cb0",
+   "showID": "https://media.rss.com/why-personality-evolves-more-than-people-expect-personality-peek-podcast-1/feed.xml",
+   "showTitle": "A Peek Inside",
+   "title": "Why Listening Matters More Than Winning | Communication, Conflict & Life Lessons with Arky Jones and Bob Martin",
+   "summary": "Hey! I'd love to hear your thoughts, send me a voice note.Why do some conversations end in understanding while others turn into conflict?In this episode of Peek Inside, Arky Jones speaks with Bob Martin about one of the most overlooked human skills: truly listening. Drawing from decades in trial law, social work, counselling and meditation, Bob shares why people often need to feel heard before they are ready to hear another point of view.The conversation moves through conflict, persuasion, emotional reactions, meditation, attention and the way personal experiences shape how people respond. Ark",
+   "audioURL": "https://content.rss.com/episodes/390905/3139076/why-personality-evolves-more-than-people-expect-personality-peek-podcast-1/2026_09_10_05_07_21_22cb428f-812b-4bff-8f3f-f09266e0d640.mp3",
+   "published": "Thu, 10 Sep 2026 05:08:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8a/17/c7/8a17c730-404a-cdf5-4140-6753b60b825f/mza_10993589976044159849.png/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Conversation on listening, conflict, and human connection with some meditation insights.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -214,6 +227,7 @@
   "gid://art19-episode-locator/V0/VVXSjTmyh8N7UtRaUuuZJ9wzKgJJyHZSYXW7Bggt7zc": "2026-09-11",
   "1db9a3f7-df92-4762-9af5-b4c20152db6c": "2026-09-12",
   "gid://art19-episode-locator/V0/zV3htiRu2YIMxKVa8otyz48_vKFS_weGYAdZQvIp52U": "2026-09-12",
-  "b60bafa0-8ba5-4837-92b4-f659f8e13103": "2026-09-13"
+  "b60bafa0-8ba5-4837-92b4-f659f8e13103": "2026-09-13",
+  "a2dbc211-39a1-4226-88ff-17fe9860101c": "2026-09-13"
  }
 }
