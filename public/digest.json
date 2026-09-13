@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-13T18:43:00.384936+00:00",
+ "generatedAt": "2026-09-13T21:19:20.045039+00:00",
  "showsScanned": 400,
  "candidates": 59,
  "picks": [
@@ -27,8 +27,21 @@
    "published": "Fri, 11 Sep 2026 09:21:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8a/17/c7/8a17c730-404a-cdf5-4140-6753b60b825f/mza_10993589976044159849.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep conversation on meaning, suffering, faith, and technology after personal loss.",
+   "reason": "Deep conversation on meaning, faith, suffering, and technology's role in life.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "unshaken.podbean.com/0efda92e-7a41-3b8a-a99d-65fb0f12ddf4",
+   "showID": "https://feed.podbean.com/unshaken/feed.xml",
+   "showTitle": "Unshaken Saints",
+   "title": "Proverbs, Ecclesiastes, and Song of Solomon: The Beginning of Wisdom",
+   "summary": "King Solomon had unmatched wealth, 3,000 proverbs, and all the pleasures mortality could buy—yet in the end, he wrestled with the haunting realization that worldly pursuits are nothing but \"vanity of vanities.\" If you've ever felt cynical, burned out by work, or wondered where true purpose is found, the Wisdom Literature of the Old Testament holds the eternal answers you need.\nSummary: In this episode, we study Proverbs, Ecclesiastes, and the Song of Solomon, examining the contrast between the actionable principles of Proverbs and the raw, existential realism of Ecclesiastes. Moving through pr",
+   "audioURL": "https://mcdn.podbean.com/mf/web/ikesjyxs2ptxiu64/Prov_to_SoS_full_audio_enhanced_0bulcy.m4a",
+   "published": "Wed, 09 Sep 2026 08:19:09 -0600",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores biblical wisdom literature on meaning, purpose, and the limits of worldly pursuits.",
+   "tradition": "Christian"
   },
   {
    "id": "0bd1512a-cfef-4720-82f7-b4bf00ee4a31",
@@ -40,34 +53,21 @@
    "published": "Tue, 08 Sep 2026 14:33:35 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Shares end-of-life experiences and deathbed visions with medical and spiritual insights.",
+   "reason": "Shares end-of-life experiences and deathbed visions from hospice professionals.",
    "tradition": "Interfaith"
   },
   {
-   "id": "b60bafa0-8ba5-4837-92b4-f659f8e13103",
-   "showID": "https://anchor.fm/s/10c2267dc/podcast/rss",
-   "showTitle": "The Eric Metaxas Show",
-   "title": "#199 - John Zmirak",
-   "summary": "Today On The Eric Metaxas Show, John Zmirak joins Eric to discuss how the ideas of Charles Darwin, Karl Marx, and Sigmund Freud influenced modern Christianity. Zmirak argues that some churches tried to accommodate ideas they considered intellectually respectable and, in the process, began explaining away biblical miracles, reshaping Christian teaching around Marxist politics, and replacing traditional ideas about sin with Freudian psychology.Eric and John discuss Darwinism, Genesis, the Resurrection, liberation theology, Freud’s influence, and what happens when Christians become embarrassed by",
-   "audioURL": "https://traffic.megaphone.fm/APO7782282765.mp3",
-   "published": "Fri, 11 Sep 2026 21:05:50 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
+   "id": "d252c192-a89f-11f1-99e6-1b1f53e86e1e",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "Andrew Huberman: The Simple Habits That Will Transform Your Health",
+   "summary": "Jay welcomes neuroscientist Andrew Huberman back for his third appearance to dive into his new book, Protocols: An Operating Manual for the Human Body. Andrew breaks down what’s really happening in your body from the moment you wake up, from morning cortisol and better sleep to the science behind that afternoon energy crash. Then the conversation goes beyond physical health, exploring prayer, surrender, and  how to better manage your energy.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nMazda crafts cars for people who do more than simply move. Visit Mazdausa.com to learn more. Consumer reports does ",
+   "audioURL": "https://traffic.megaphone.fm/GLT4461637892.mp3",
+   "published": "Mon, 07 Sep 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discussion on Christianity's interaction with Darwinism, Marxism, and Freudian psychology.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "cb07a32a-acb5-11f1-bbcd-27ac0693bc0b",
-   "showID": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
-   "showTitle": "The Shawn Ryan Show",
-   "title": "#338 Cardinal Burke - The New Testament",
-   "summary": "Raymond Leo Cardinal Burke is an American cardinal, canon lawyer, and one of the Catholic Church’s most prominent defenders of traditional doctrine and liturgy. He previously served as Archbishop of St. Louis and as Prefect of the Apostolic Signatura, the Church’s highest judicial court, before being elevated to the College of Cardinals by Pope Benedict XVI in 2010. He is also the founder of the Shrine of Our Lady of Guadalupe in La Crosse, Wisconsin.\n\n\n\nShawn Ryan Show Sponsors:\n\nPrivacy Isn't Paranoia. It's Protection. - https://theglacierapp.com\n\nLive better longer with BUBS Naturals. Get 2",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4265484314.mp3",
-   "published": "Thu, 10 Sep 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A Catholic cardinal discussing New Testament teachings and doctrine.",
-   "tradition": "Catholic"
+   "reason": "Neuroscientist explores health habits alongside prayer, surrender, and energy management.",
+   "tradition": "Secular"
   },
   {
    "id": "Buzzsprout-19781122",
@@ -79,8 +79,8 @@
    "published": "Thu, 10 Sep 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal spiritual growth and transformation with some reflection on faith and purpose.",
-   "tradition": "Christian"
+   "reason": "Personal spiritual growth and transformation with some discussion of faith and purpose.",
+   "tradition": "Interfaith"
   },
   {
    "id": "a2dbc211-39a1-4226-88ff-17fe9860101c",
@@ -92,8 +92,21 @@
    "published": "Sun, 13 Sep 2026 00:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Uses Moses' story to discuss faith and transformation, somewhat practical and faith-affirming.",
+   "reason": "Uses Moses' story to discuss faith and transformation into leadership.",
    "tradition": "Christian"
+  },
+  {
+   "id": "cb07a32a-acb5-11f1-bbcd-27ac0693bc0b",
+   "showID": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
+   "showTitle": "The Shawn Ryan Show",
+   "title": "#338 Cardinal Burke - The New Testament",
+   "summary": "Raymond Leo Cardinal Burke is an American cardinal, canon lawyer, and one of the Catholic Church’s most prominent defenders of traditional doctrine and liturgy. He previously served as Archbishop of St. Louis and as Prefect of the Apostolic Signatura, the Church’s highest judicial court, before being elevated to the College of Cardinals by Pope Benedict XVI in 2010. He is also the founder of the Shrine of Our Lady of Guadalupe in La Crosse, Wisconsin.\n\n\n\nShawn Ryan Show Sponsors:\n\nPrivacy Isn't Paranoia. It's Protection. - https://theglacierapp.com\n\nLive better longer with BUBS Naturals. Get 2",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4265484314.mp3",
+   "published": "Thu, 10 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Cardinal Burke discusses New Testament from a traditional Catholic perspective.",
+   "tradition": "Catholic"
   },
   {
    "id": "38bfb2ed-97ce-4652-bb59-dd777e089cb0",
@@ -105,8 +118,21 @@
    "published": "Thu, 10 Sep 2026 05:08:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8a/17/c7/8a17c730-404a-cdf5-4140-6753b60b825f/mza_10993589976044159849.png/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses listening and conflict with some insight into human connection and understanding.",
+   "reason": "Discusses listening and conflict with some insight into human understanding and empathy.",
    "tradition": "Secular"
+  },
+  {
+   "id": "7b8a4bac-ac53-11f1-a89b-fbb9fa7a9771",
+   "showID": "https://feeds.megaphone.fm/PHTE6132945524",
+   "showTitle": "Somewhere in the Skies",
+   "title": "Join Us For Whitley Strieber's LIVE Webinar Series!",
+   "summary": "Somewhere in the Skies is partnering with Ubiquity University for Transformation 2026: The Fourth Mind, a live four-week webinar series with legendary Communion author Whitley Strieber.\n\n\n\nLearn more and register through our affiliate link: ⁠https://www.ubiquityuniversity.org/courses/transformation-2026/?am_id=SomewhereInTheSkies⁠\n\n\n\nBeginning September 17th, Whitley will explore the Visitors, non-human intelligence, abduction, psi abilities, consciousness, and his concept of the Fourth Mind, a new way of understanding contact and our place within it.\n\n\n\nThe series includes four live 90-minute",
+   "audioURL": "https://pscrb.fm/rss/p/traffic.megaphone.fm/PHTE4523643525.mp3",
+   "published": "Thu, 10 Sep 2026 04:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/85/74/aa857474-43cb-883b-94d1-16c24d0305b4/mza_466083494209813278.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores consciousness and non-human intelligence in a webinar series.",
+   "tradition": "Mythic"
   }
  ],
  "history": {
@@ -215,6 +241,7 @@
   "1db9a3f7-df92-4762-9af5-b4c20152db6c": "2026-09-12",
   "gid://art19-episode-locator/V0/zV3htiRu2YIMxKVa8otyz48_vKFS_weGYAdZQvIp52U": "2026-09-12",
   "b60bafa0-8ba5-4837-92b4-f659f8e13103": "2026-09-13",
-  "a2dbc211-39a1-4226-88ff-17fe9860101c": "2026-09-13"
+  "a2dbc211-39a1-4226-88ff-17fe9860101c": "2026-09-13",
+  "unshaken.podbean.com/0efda92e-7a41-3b8a-a99d-65fb0f12ddf4": "2026-09-13"
  }
 }
