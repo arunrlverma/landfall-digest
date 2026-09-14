@@ -6,36 +6,10 @@
   "Secular",
   "Interfaith"
  ],
- "generatedAt": "2026-09-13T14:00:14.761994+00:00",
+ "generatedAt": "2026-09-14T16:06:40.496456+00:00",
  "showsScanned": 1200,
- "candidates": 26,
+ "candidates": 32,
  "picks": [
-  {
-   "id": "787835f0-ad52-11f1-97c0-a33e4dec2eb8",
-   "showID": "https://feeds.megaphone.fm/permanentquestions",
-   "showTitle": "The Permanent Questions With David Brooks",
-   "title": "What Is the Good Life?",
-   "summary": "In the debut episode of The Permanent Questions With David Brooks, David speaks with the philosopher Meghan Sullivan about perhaps the most important question of them all: How should we live our lives? Sullivan is a co-author of The Good Life Method, based on a popular course she teaches at Notre Dame. Leading a good life, she argues, means not just maximizing our positive impact in the world, but cultivating virtue within our own souls. Along the way, David and Sullivan discuss Iris Murdoch, finding bliss at CVS, and exercising our philosophical muscles before life slaps us in the face.\n\n\n\nGe",
-   "audioURL": "https://traffic.megaphone.fm/ATL5405736134.mp3",
-   "published": "Sun, 13 Sep 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/eb/9d/af/eb9daf8a-a0a9-64fb-cfc5-101b06d3576f/mza_9059212002311804436.png/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Philosophical discussion on living a good life and cultivating virtue.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "b09361a5-7af9-43c9-bbd6-e3238f60868a",
-   "showID": "https://anchor.fm/s/63e62734/podcast/rss",
-   "showTitle": "Hermitix",
-   "title": "Not negative enough: Suffering, love, and the feminine with Julie Reshe",
-   "summary": "Julie Reshe is a Ukrainian-born philosopher, a practicing negative psychoanalyst, and a public intellectual. She is currently a visiting professor at University College Cork and University College Dublin. She is also a Director of the Institute of Psychoanalysis at the Global Centre for Advanced Studies.Reshe's site: https://www.juliereshe.comNegative Essays: https://www.negativepress.ie/negative-essaysUnderground Negative Course on Patreon: https://www.patreon.com/juliereshe/posts/169150042Underground Negative Course on Substack: https://juliereshe.substack.com/p/negative-course---Become part",
-   "audioURL": "https://anchor.fm/s/63e62734/podcast/play/125599606/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-11%2F431706294-44100-2-043da38c762cd.mp3",
-   "published": "Sat, 12 Sep 2026 16:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/94/8a/c0/948ac06e-302c-65ce-cfca-b93dbe6616b8/mza_9893019748008098482.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Philosophical discussion on suffering and love with a psychoanalytic lens.",
-   "tradition": "Secular"
-  },
   {
    "id": "6a759c095d765781a2ab476c",
    "showID": "https://feeds.acast.com/public/shows/6164470ddef1ec0012762fbd",
@@ -46,8 +20,21 @@
    "published": "Wed, 09 Sep 2026 06:45:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2e/7f/ed/2e7fed2d-7b83-f59f-a0bd-506b173dcf66/mza_4662183163876961332.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines complaint through Seneca and Epictetus, focusing on suffering and judgment.",
+   "reason": "Explores Stoic teachings on complaint, suffering, and judgment with Seneca and Epictetus.",
    "tradition": "Stoic"
+  },
+  {
+   "id": "787835f0-ad52-11f1-97c0-a33e4dec2eb8",
+   "showID": "https://feeds.megaphone.fm/permanentquestions",
+   "showTitle": "The Permanent Questions With David Brooks",
+   "title": "What Is the Good Life?",
+   "summary": "In the debut episode of The Permanent Questions With David Brooks, David speaks with the philosopher Meghan Sullivan about perhaps the most important question of them all: How should we live our lives? Sullivan is a co-author of The Good Life Method, based on a popular course she teaches at Notre Dame. Leading a good life, she argues, means not just maximizing our positive impact in the world, but cultivating virtue within our own souls. Along the way, David and Sullivan discuss Iris Murdoch, finding bliss at CVS, and exercising our philosophical muscles before life slaps us in the face.\n\n\n\nGe",
+   "audioURL": "https://traffic.megaphone.fm/ATL5405736134.mp3",
+   "published": "Sun, 13 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/eb/9d/af/eb9daf8a-a0a9-64fb-cfc5-101b06d3576f/mza_9059212002311804436.png/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Philosophical discussion on living well and virtue, aligned with Stoic ethics.",
+   "tradition": "Secular"
   },
   {
    "id": "4552dcf7-8491-430c-90f2-5e966895a8d8",
@@ -59,33 +46,7 @@
    "published": "Wed, 09 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/db/68/5c/db685ca1-e41e-e54c-2b45-a569aac2ec8b/mza_1243788689561025167.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of surrender and adversity with Stoic resonance.",
-   "tradition": "Stoic"
-  },
-  {
-   "id": "krishnamurti.podbean.com/ea81e5b2-4db6-3f4c-a98b-d89373650799",
-   "showID": "https://feed.podbean.com/krishnamurti/feed.xml",
-   "showTitle": "Urgency of Change • The Krishnamurti Podcast",
-   "title": "Krishnamurti on Concepts",
-   "summary": "‘We have built a conceptual world, a world based on ideas, a world based on a philosophy which is essentially material.’\nThis episode on Concepts has three sections.\nThe first extract (2:25) is from the fifth talk in Madras 1980, and is titled: Why Do We Live On Concepts?\nThe second extract (31:32) is from Krishnamurti’s sixth talk in Saanen 1974, and is titled: Is There Security in Concepts?\nThe final extract in this episode (50:24) is from the first talk in Amsterdam 1967, and is titled: Seeing Without Concepts.\nThe Krishnamurti Podcast features carefully selected extracts from his talks. Ea",
-   "audioURL": "https://mcdn.podbean.com/mf/web/56d6igmzgtkdzwqw/301_Urgency_of_Changebwfb8.mp3",
-   "published": "Wed, 09 Sep 2026 05:30:00 +0100",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/10/9f/86/109f8615-939e-ddd5-11ac-f046c968479d/mza_12516342245295438442.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Krishnamurti's critique of conceptual thinking challenges how we live and understand reality.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/kqmlUVX2zjZL9XqRdvp_kbtqrD9F-eJVmXNBYwj5B2Q",
-   "showID": "https://rss.art19.com/the-daily-stoic",
-   "showTitle": "The Daily Stoic",
-   "title": "BONUS | 3 Life-Changing Lessons From Seneca in 3 Minutes",
-   "summary": "Seneca lived through illness, exile, and the brutal reign of Nero. In today’s episode, Ryan shares three of the most powerful ideas Seneca learned from those experiences and why they can change the way you live.🎟️ DAILY STOIC LIVE | Ryan Holiday is coming to a city near you! Grab tickets here |  https://www.dailystoiclive.com/🎙️ AD-FREE | Support the podcast and go deeper into Stoicism by subscribing to The Daily Stoic Premium - unlock ad-free listening, early access, and bonus content: https://dailystoic.supercast.com/✉️ FREE STOIC WISDOM | Want Stoic wisdom delivered to your inbox daily? Sig",
-   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/a6e0f3ba-3f36-407d-afa0-1449d1c067e4.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Mon, 07 Sep 2026 09:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Shares three powerful lessons from Seneca's life about adversity and living well.",
+   "reason": "Personal story of surrender and adversity with Stoic themes and namesake.",
    "tradition": "Stoic"
   },
   {
@@ -98,8 +59,21 @@
    "published": "Wed, 9 Sep 2026 23:48:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0d/cb/f0/0dcbf0af-1ea8-0881-1ce8-cbb74ef28267/mza_1584173496066886843.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Considers AI's impact from a Stoic perspective referencing Socrates and Seneca.",
+   "reason": "Considers AI's impact through a Stoic lens referencing Socrates and Seneca.",
    "tradition": "Stoic"
+  },
+  {
+   "id": "b09361a5-7af9-43c9-bbd6-e3238f60868a",
+   "showID": "https://anchor.fm/s/63e62734/podcast/rss",
+   "showTitle": "Hermitix",
+   "title": "Not negative enough: Suffering, love, and the feminine with Julie Reshe",
+   "summary": "Julie Reshe is a Ukrainian-born philosopher, a practicing negative psychoanalyst, and a public intellectual. She is currently a visiting professor at University College Cork and University College Dublin. She is also a Director of the Institute of Psychoanalysis at the Global Centre for Advanced Studies.Reshe's site: https://www.juliereshe.comNegative Essays: https://www.negativepress.ie/negative-essaysUnderground Negative Course on Patreon: https://www.patreon.com/juliereshe/posts/169150042Underground Negative Course on Substack: https://juliereshe.substack.com/p/negative-course---Become part",
+   "audioURL": "https://anchor.fm/s/63e62734/podcast/play/125599606/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-11%2F431706294-44100-2-043da38c762cd.mp3",
+   "published": "Sat, 12 Sep 2026 16:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/94/8a/c0/948ac06e-302c-65ce-cfca-b93dbe6616b8/mza_9893019748008098482.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Philosophical discussion on suffering and love relevant to Stoic themes.",
+   "tradition": "Secular"
   },
   {
    "id": "8f30466b-1660-47ca-a54d-34fcbbdd3c4d",
@@ -111,7 +85,7 @@
    "published": "Wed, 09 Sep 2026 04:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/3d/8d/aa3d8df9-49cc-ff3a-8682-9bc8e720515d/mza_1508745772846539084.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Philosophical reflection on the human need for meaning referencing Camus.",
+   "reason": "Philosophical reflection on meaning and absurdity, relevant to Stoic concerns.",
    "tradition": "Secular"
   }
  ],
@@ -139,14 +113,14 @@
   "flightcast:01M12FWPTRS9YZ9YNQSKT4592W": "2026-09-04",
   "6a989c8e809ae7c2f4fbb7b8": "2026-09-06",
   "gid://art19-episode-locator/V0/kqmlUVX2zjZL9XqRdvp_kbtqrD9F-eJVmXNBYwj5B2Q": "2026-09-13",
-  "6a759c095d765781a2ab476c": "2026-09-13",
-  "4552dcf7-8491-430c-90f2-5e966895a8d8": "2026-09-13",
-  "065a6da4-7ab8-41c5-a6c7-46ca5d5af400": "2026-09-13",
+  "6a759c095d765781a2ab476c": "2026-09-14",
+  "4552dcf7-8491-430c-90f2-5e966895a8d8": "2026-09-14",
+  "065a6da4-7ab8-41c5-a6c7-46ca5d5af400": "2026-09-14",
   "krishnamurti.podbean.com/ea81e5b2-4db6-3f4c-a98b-d89373650799": "2026-09-13",
   "gid://art19-episode-locator/V0/WhZeIg3gyTQ5fk07jx4nkZw2cm_vnsthK3UOrARHYmQ": "2026-09-12",
-  "8f30466b-1660-47ca-a54d-34fcbbdd3c4d": "2026-09-13",
+  "8f30466b-1660-47ca-a54d-34fcbbdd3c4d": "2026-09-14",
   "4fc8b2ae-0787-11f1-b09a-0f976964d21b": "2026-09-12",
-  "787835f0-ad52-11f1-97c0-a33e4dec2eb8": "2026-09-13",
-  "b09361a5-7af9-43c9-bbd6-e3238f60868a": "2026-09-13"
+  "787835f0-ad52-11f1-97c0-a33e4dec2eb8": "2026-09-14",
+  "b09361a5-7af9-43c9-bbd6-e3238f60868a": "2026-09-14"
  }
 }
