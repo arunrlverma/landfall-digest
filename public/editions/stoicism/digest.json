@@ -6,10 +6,49 @@
   "Secular",
   "Interfaith"
  ],
- "generatedAt": "2026-09-14T16:06:40.496456+00:00",
+ "generatedAt": "2026-09-15T14:35:16.789205+00:00",
  "showsScanned": 1200,
- "candidates": 32,
+ "candidates": 34,
  "picks": [
+  {
+   "id": "effeda4a-0ecd-11f0-b469-c731df454ef0",
+   "showID": "https://feeds.megaphone.fm/PODAGEN2254035087",
+   "showTitle": "Einzelgänger",
+   "title": "When Life Hurts, Stop Clinging to It | The Philosophy of Epictetus | Einzelgänger",
+   "summary": "When Life Hurts, Stop Clinging to It | The Philosophy of Epictetus\nStoicism for Inner Peace (book): https://einzelganger.co/innerpeaceOur very sense of wellbeing is at gunpoint when we cling to the fickle, unreliable outside world. Around two thousand years ago, Stoic philosopher Epictetus observed that people are burdened and dragged down because they tend to care about too many things. His cure, however, is not to stop caring altogether but to care about the right things and stop clinging to anything that doesn’t matter.What matters and doesn’t matter according to Epictetus is bound to the r",
+   "audioURL": "https://traffic.megaphone.fm/PODAGEN1011019537.mp3?updated=1778653386",
+   "published": "Tue, 15 Sep 2026 08:02:43 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/12/cd/e3/12cde3cb-404d-aa2d-b5a1-8190d18e86b6/mza_13915945232127572928.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Epictetus' philosophy on caring rightly and suffering is central to Stoic ethics and meaning.",
+   "tradition": "Stoic"
+  },
+  {
+   "id": "3546f11c-0ed0-11f0-b1c0-a3e9724d8135",
+   "showID": "https://feeds.megaphone.fm/PODAGEN2254035087",
+   "showTitle": "Einzelgänger",
+   "title": "How To Maximize Misery | The 4 Stoic Sins | Einzelgänger",
+   "summary": "How To Maximize Misery | The 4 Stoic Sins\nVirtue is the path to a happy life.One can characterize Stoic virtue by its instrumental as well as noninstrumental value, meaning that Stoics don’t act for personal gain, but rather to benefit the whole, even if this includes the rejection of pleasure and the endurance of pain. However, at the same time, this way of life leads to eudaimonia, and thus, living virtuously is rewarding for oneself as a byproduct.But what if we don’t live virtuously and what misery comes from that? In Stoic ethics, we find the opposite of virtue, which is vice. Vice can be",
+   "audioURL": "https://traffic.megaphone.fm/PODAGEN5924987755.mp3?updated=1778653412",
+   "published": "Tue, 15 Sep 2026 12:13:38 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/12/cd/e3/12cde3cb-404d-aa2d-b5a1-8190d18e86b6/mza_13915945232127572928.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores Stoic virtue and consequences of vice, core to Stoic ethics and flourishing.",
+   "tradition": "Stoic"
+  },
+  {
+   "id": "d7936d66-7b30-4d2a-9e74-b4ae012cd6a0",
+   "showID": "https://www.omnycontent.com/d/playlist/5e27a451-e6e6-4c51-aa03-a7370003783c/f29261d0-2b21-4ca3-8530-b192014643e7/f2485583-8f85-4713-b316-b19201465f8d/podcast.rss",
+   "showTitle": "History Unplugged Podcast",
+   "title": "Cicero—Rome’s Greatest Orator—Saved the Capital From Insurrection, But Couldn’t Save the Republic From Collapse",
+   "summary": "On December 7, 43 BCE, a sixty-three-year-old man was carried in a litter down a woodland path near the Italian coast, fleeing soldiers who had been sent to kill him. When they caught up, he ordered his attendants to set down the litter, put his head out, and offered them his neck. They cut it off, along with the hand that had written the fourteen speeches attacking Mark Antony. The head and hand were nailed to the rostra in the Roman Forum, the speaker's platform from which that same voice had held Rome in thrall for nearly four decades. Antony's wife Fulvia took the severed head in her lap, ",
+   "audioURL": "https://s.gum.fm/s-62a121b02a6f7798fef24ea9/traffic.omny.fm/d/clips/5e27a451-e6e6-4c51-aa03-a7370003783c/f29261d0-2b21-4ca3-8530-b192014643e7/d7936d66-7b30-4d2a-9e74-b4ae012cd6a0/audio.mp3?utm_source=Podcast&amp;in_playlist=f2485583-8f85-4713-b316-b19201465f8d",
+   "published": "Tue, 15 Sep 2026 09:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/9e/67/ab9e6750-9610-d24b-0234-df61d09ed798/mza_16497568433485281290.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores Cicero's life and death, touching on ethics, politics, and mortality relevant to Stoicism.",
+   "tradition": "Stoic"
+  },
   {
    "id": "6a759c095d765781a2ab476c",
    "showID": "https://feeds.acast.com/public/shows/6164470ddef1ec0012762fbd",
@@ -20,21 +59,8 @@
    "published": "Wed, 09 Sep 2026 06:45:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2e/7f/ed/2e7fed2d-7b83-f59f-a0bd-506b173dcf66/mza_4662183163876961332.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores Stoic teachings on complaint, suffering, and judgment with Seneca and Epictetus.",
+   "reason": "Seneca and Epictetus on complaint and suffering offer practical Stoic guidance.",
    "tradition": "Stoic"
-  },
-  {
-   "id": "787835f0-ad52-11f1-97c0-a33e4dec2eb8",
-   "showID": "https://feeds.megaphone.fm/permanentquestions",
-   "showTitle": "The Permanent Questions With David Brooks",
-   "title": "What Is the Good Life?",
-   "summary": "In the debut episode of The Permanent Questions With David Brooks, David speaks with the philosopher Meghan Sullivan about perhaps the most important question of them all: How should we live our lives? Sullivan is a co-author of The Good Life Method, based on a popular course she teaches at Notre Dame. Leading a good life, she argues, means not just maximizing our positive impact in the world, but cultivating virtue within our own souls. Along the way, David and Sullivan discuss Iris Murdoch, finding bliss at CVS, and exercising our philosophical muscles before life slaps us in the face.\n\n\n\nGe",
-   "audioURL": "https://traffic.megaphone.fm/ATL5405736134.mp3",
-   "published": "Sun, 13 Sep 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/eb/9d/af/eb9daf8a-a0a9-64fb-cfc5-101b06d3576f/mza_9059212002311804436.png/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Philosophical discussion on living well and virtue, aligned with Stoic ethics.",
-   "tradition": "Secular"
   },
   {
    "id": "4552dcf7-8491-430c-90f2-5e966895a8d8",
@@ -46,7 +72,7 @@
    "published": "Wed, 09 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/db/68/5c/db685ca1-e41e-e54c-2b45-a569aac2ec8b/mza_1243788689561025167.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of surrender and adversity with Stoic themes and namesake.",
+   "reason": "A personal story of surrender and adversity reflecting Stoic themes of acceptance.",
    "tradition": "Stoic"
   },
   {
@@ -59,20 +85,20 @@
    "published": "Wed, 9 Sep 2026 23:48:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0d/cb/f0/0dcbf0af-1ea8-0881-1ce8-cbb74ef28267/mza_1584173496066886843.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Considers AI's impact through a Stoic lens referencing Socrates and Seneca.",
+   "reason": "Considers Socratic wisdom and technology from a Stoic perspective on virtue and reason.",
    "tradition": "Stoic"
   },
   {
-   "id": "b09361a5-7af9-43c9-bbd6-e3238f60868a",
-   "showID": "https://anchor.fm/s/63e62734/podcast/rss",
-   "showTitle": "Hermitix",
-   "title": "Not negative enough: Suffering, love, and the feminine with Julie Reshe",
-   "summary": "Julie Reshe is a Ukrainian-born philosopher, a practicing negative psychoanalyst, and a public intellectual. She is currently a visiting professor at University College Cork and University College Dublin. She is also a Director of the Institute of Psychoanalysis at the Global Centre for Advanced Studies.Reshe's site: https://www.juliereshe.comNegative Essays: https://www.negativepress.ie/negative-essaysUnderground Negative Course on Patreon: https://www.patreon.com/juliereshe/posts/169150042Underground Negative Course on Substack: https://juliereshe.substack.com/p/negative-course---Become part",
-   "audioURL": "https://anchor.fm/s/63e62734/podcast/play/125599606/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-11%2F431706294-44100-2-043da38c762cd.mp3",
-   "published": "Sat, 12 Sep 2026 16:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/94/8a/c0/948ac06e-302c-65ce-cfca-b93dbe6616b8/mza_9893019748008098482.jpg/600x600bb.jpg",
+   "id": "787835f0-ad52-11f1-97c0-a33e4dec2eb8",
+   "showID": "https://feeds.megaphone.fm/permanentquestions",
+   "showTitle": "The Permanent Questions With David Brooks",
+   "title": "What Is the Good Life?",
+   "summary": "In the debut episode of The Permanent Questions With David Brooks, David speaks with the philosopher Meghan Sullivan about perhaps the most important question of them all: How should we live our lives? Sullivan is a co-author of The Good Life Method, based on a popular course she teaches at Notre Dame. Leading a good life, she argues, means not just maximizing our positive impact in the world, but cultivating virtue within our own souls. Along the way, David and Sullivan discuss Iris Murdoch, finding bliss at CVS, and exercising our philosophical muscles before life slaps us in the face.\n\n\n\nGe",
+   "audioURL": "https://traffic.megaphone.fm/ATL5405736134.mp3",
+   "published": "Sun, 13 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/eb/9d/af/eb9daf8a-a0a9-64fb-cfc5-101b06d3576f/mza_9059212002311804436.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "Philosophical discussion on suffering and love relevant to Stoic themes.",
+   "reason": "Philosophical discussion of the good life and virtue relevant to Stoic ethics.",
    "tradition": "Secular"
   },
   {
@@ -85,7 +111,7 @@
    "published": "Wed, 09 Sep 2026 04:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/3d/8d/aa3d8df9-49cc-ff3a-8682-9bc8e720515d/mza_1508745772846539084.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Philosophical reflection on meaning and absurdity, relevant to Stoic concerns.",
+   "reason": "Philosophical reflection on the need for meaning, relevant to Stoic concerns.",
    "tradition": "Secular"
   }
  ],
@@ -113,14 +139,17 @@
   "flightcast:01M12FWPTRS9YZ9YNQSKT4592W": "2026-09-04",
   "6a989c8e809ae7c2f4fbb7b8": "2026-09-06",
   "gid://art19-episode-locator/V0/kqmlUVX2zjZL9XqRdvp_kbtqrD9F-eJVmXNBYwj5B2Q": "2026-09-13",
-  "6a759c095d765781a2ab476c": "2026-09-14",
-  "4552dcf7-8491-430c-90f2-5e966895a8d8": "2026-09-14",
-  "065a6da4-7ab8-41c5-a6c7-46ca5d5af400": "2026-09-14",
+  "6a759c095d765781a2ab476c": "2026-09-15",
+  "4552dcf7-8491-430c-90f2-5e966895a8d8": "2026-09-15",
+  "065a6da4-7ab8-41c5-a6c7-46ca5d5af400": "2026-09-15",
   "krishnamurti.podbean.com/ea81e5b2-4db6-3f4c-a98b-d89373650799": "2026-09-13",
   "gid://art19-episode-locator/V0/WhZeIg3gyTQ5fk07jx4nkZw2cm_vnsthK3UOrARHYmQ": "2026-09-12",
-  "8f30466b-1660-47ca-a54d-34fcbbdd3c4d": "2026-09-14",
+  "8f30466b-1660-47ca-a54d-34fcbbdd3c4d": "2026-09-15",
   "4fc8b2ae-0787-11f1-b09a-0f976964d21b": "2026-09-12",
-  "787835f0-ad52-11f1-97c0-a33e4dec2eb8": "2026-09-14",
-  "b09361a5-7af9-43c9-bbd6-e3238f60868a": "2026-09-14"
+  "787835f0-ad52-11f1-97c0-a33e4dec2eb8": "2026-09-15",
+  "b09361a5-7af9-43c9-bbd6-e3238f60868a": "2026-09-14",
+  "effeda4a-0ecd-11f0-b469-c731df454ef0": "2026-09-15",
+  "3546f11c-0ed0-11f0-b1c0-a3e9724d8135": "2026-09-15",
+  "d7936d66-7b30-4d2a-9e74-b4ae012cd6a0": "2026-09-15"
  }
 }
