@@ -1,22 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-09-15T14:46:03.669835+00:00",
+ "generatedAt": "2026-09-15T18:49:25.262888+00:00",
  "showsScanned": 400,
- "candidates": 57,
+ "candidates": 59,
  "picks": [
-  {
-   "id": "9dde0a85-e9d6-45db-be7e-591fcb707748",
-   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
-   "showTitle": "Mormon Stories Podcast",
-   "title": "Megachurch Pastor Turned Agnostic - Todd Phillips Pt. 2 | Ep. 2191",
-   "summary": "What happens when a pastor can no longer believe the message he has spent his life preaching?In Part Two of our conversation with Dr. Todd Phillips, former megachurch pastor and creator of “The Deconstructed Pastor,” Todd continues his journey out of evangelical Christianity. After years of building his life around the Bible, he began confronting difficult questions surrounding his faith in the Bible, Jesus, and even God. Eventually, he reached a point where he could no longer reconcile what he was discovering with the beliefs he had once preached.Todd shares what happened as his faith unravel",
-   "audioURL": "https://traffic.megaphone.fm/APO2323660168.mp3",
-   "published": "Mon, 07 Sep 2026 18:00:01 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Former pastor's honest journey through doubt and loss of Christian faith.",
-   "tradition": "Christian"
-  },
   {
    "id": "8bc9001c-ace9-11f1-8456-cf79c5ae6c4e",
    "showID": "https://feeds.megaphone.fm/thispastweekend",
@@ -27,7 +14,7 @@
    "published": "Thu, 10 Sep 2026 07:44:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/f6/5a/9cf65abb-f8db-fb7b-984f-b4276a1e8c85/mza_2107148709996282347.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A Catholic bishop discusses faith, purpose, and love amid modern cultural challenges.",
+   "reason": "A Catholic bishop discusses faith, purpose, and love in a modern cultural context.",
    "tradition": "Catholic"
   },
   {
@@ -40,59 +27,7 @@
    "published": "Tue, 15 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores the meaning of Jesus' ministry and the kingdom in the Gospel of Matthew.",
-   "tradition": "Catholic"
-  },
-  {
-   "id": "7171890b-730d-4ad9-9e22-c20b2a50a383",
-   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
-   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
-   "title": "Day 254: Judgment of Nations (2026)",
-   "summary": "Fr. Mike continues reading from the book of Jeremiah and emphasizes God’s judgment against the nations surrounding Israel. Fr. Mike also invites us to meditate on the words of the prophets and repent for our own failures and shortcomings. Today’s readings are Jeremiah 47-48, Lamentations 2, and Proverbs 18:1-4.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/7171890b-730d-4ad9-9e22-c20b2a50a383.mp3",
-   "published": "Fri, 11 Sep 2026 03:15:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A Catholic priest reads scripture and invites meditation on judgment and repentance.",
-   "tradition": "Catholic"
-  },
-  {
-   "id": "45214e6a-a511-11f1-88de-7f2ab56b229f",
-   "showID": "https://feeds.megaphone.fm/LEW6901658133",
-   "showTitle": "Undaunted.Life: A Man's Podcast by Kyle Thompson",
-   "title": "GRANGER SMITH | Toxic Beliefs That Keep You From Jesus (Ep. 967)",
-   "summary": "In this episode, we welcome Granger Smith to the studio. He was an award-winning, platinum-selling country music singer and songwriter and the creator of the Earl Dibbles Jr. stage character. He is now a speaker, actor, author, and host of “After Midnite with Granger Smith”. He has a new book out now called “Poison in the Well: 11 Toxic Beliefs That Kept Me from the Living Water of Jesus”. In this interview, we discuss how he got his start in music, the big break that confirmed he could make it in Nashville, how he came up with the Earl Dibbles Jr. character, if he ever had problems differenti",
-   "audioURL": "https://traffic.megaphone.fm/LEW6693231308.mp3",
-   "published": "Tue, 08 Sep 2026 08:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/9f/12/809f1210-c215-9d6a-5dbd-45124c012604/mza_7903026632038263183.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Discusses toxic beliefs and spiritual transformation related to Jesus and faith.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "4a01a9c9-f0b0-4d6a-b186-9484c39c9114",
-   "showID": "https://feeds.libsyn.com/570160/rss",
-   "showTitle": "10% Happier with Dan Harris",
-   "title": "Neal Brennan On: Talking Back to Your Inner Critic, Why Chasing Validation Doesn't Work, and His Harrowing Psychedelic Journeys",
-   "summary": "The legendary comedian says you don't have to be tortured to be an artist, he doesn't need an index card of achievements in his pocket anymore, and even the bad trips have led to good destinations. Neal Brennan is a three-time Emmy-nominated writer, director, producer, and standup comedian known for his critically acclaimed Netflix specials 3 Mics, Blocks, and Crazy Good and for co-creating Comedy Central's iconic Chappelle's Show. He also hosts the hit  Blocks podcast, where he talks with guests about their own personal blocks. In this episode we talk about:  Talking back to your inner critic",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/05620661-2103-4fe0-9ab9-92bfc4d9cf22/20260831_TPHP_NealBrennan_AUDIO_Mastered_AudioVersion.mp3?dest-id=4933335",
-   "published": "Fri, 11 Sep 2026 07:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Comedian discusses inner critic, validation, and psychedelic experiences with depth.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "fe5ffd62-a8aa-11f1-a885-87c7209f8f66",
-   "showID": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
-   "showTitle": "The Shawn Ryan Show",
-   "title": "#337 Cardinal Burke - The Old Testament",
-   "summary": "Raymond Leo Cardinal Burke is an American cardinal, canon lawyer, and one of the Catholic Church’s most prominent defenders of traditional doctrine and liturgy. He previously served as Archbishop of St. Louis and as Prefect of the Apostolic Signatura, the Church’s highest judicial court, before being elevated to the College of Cardinals by Pope Benedict XVI in 2010. He is also the founder of the Shrine of Our Lady of Guadalupe in La Crosse, Wisconsin.\n\n\n\nShawn Ryan Show Sponsors:\n\nPrivacy Isn't Paranoia. It's Protection. Download Glacier today: https://srs.site/glacierapp\n\nBabbel is offering l",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD8434189321.mp3",
-   "published": "Tue, 08 Sep 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Focuses on Catholic doctrine and traditional views on the Old Testament.",
+   "reason": "A Catholic priest explains the Gospel of Matthew and the meaning of Jesus' kingdom.",
    "tradition": "Catholic"
   },
   {
@@ -105,8 +40,125 @@
    "published": "Sat, 12 Sep 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Candid talk on spiritual warfare, forgiveness, and Christian ethics with a Dominican friar.",
+   "reason": "Explores forgiveness, spiritual warfare, and ethical challenges in Christian context.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "fe5ffd62-a8aa-11f1-a885-87c7209f8f66",
+   "showID": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
+   "showTitle": "The Shawn Ryan Show",
+   "title": "#337 Cardinal Burke - The Old Testament",
+   "summary": "Raymond Leo Cardinal Burke is an American cardinal, canon lawyer, and one of the Catholic Church’s most prominent defenders of traditional doctrine and liturgy. He previously served as Archbishop of St. Louis and as Prefect of the Apostolic Signatura, the Church’s highest judicial court, before being elevated to the College of Cardinals by Pope Benedict XVI in 2010. He is also the founder of the Shrine of Our Lady of Guadalupe in La Crosse, Wisconsin.\n\n\n\nShawn Ryan Show Sponsors:\n\nPrivacy Isn't Paranoia. It's Protection. Download Glacier today: https://srs.site/glacierapp\n\nBabbel is offering l",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD8434189321.mp3",
+   "published": "Tue, 08 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A Catholic cardinal discusses the Old Testament and traditional doctrine seriously.",
    "tradition": "Catholic"
+  },
+  {
+   "id": "4a01a9c9-f0b0-4d6a-b186-9484c39c9114",
+   "showID": "https://feeds.libsyn.com/570160/rss",
+   "showTitle": "10% Happier with Dan Harris",
+   "title": "Neal Brennan On: Talking Back to Your Inner Critic, Why Chasing Validation Doesn't Work, and His Harrowing Psychedelic Journeys",
+   "summary": "The legendary comedian says you don't have to be tortured to be an artist, he doesn't need an index card of achievements in his pocket anymore, and even the bad trips have led to good destinations. Neal Brennan is a three-time Emmy-nominated writer, director, producer, and standup comedian known for his critically acclaimed Netflix specials 3 Mics, Blocks, and Crazy Good and for co-creating Comedy Central's iconic Chappelle's Show. He also hosts the hit  Blocks podcast, where he talks with guests about their own personal blocks. In this episode we talk about:  Talking back to your inner critic",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/05620661-2103-4fe0-9ab9-92bfc4d9cf22/20260831_TPHP_NealBrennan_AUDIO_Mastered_AudioVersion.mp3?dest-id=4933335",
+   "published": "Fri, 11 Sep 2026 07:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Comedian discusses inner critic, validation, and psychedelic experiences honestly.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "7171890b-730d-4ad9-9e22-c20b2a50a383",
+   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
+   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
+   "title": "Day 254: Judgment of Nations (2026)",
+   "summary": "Fr. Mike continues reading from the book of Jeremiah and emphasizes God’s judgment against the nations surrounding Israel. Fr. Mike also invites us to meditate on the words of the prophets and repent for our own failures and shortcomings. Today’s readings are Jeremiah 47-48, Lamentations 2, and Proverbs 18:1-4.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/7171890b-730d-4ad9-9e22-c20b2a50a383.mp3",
+   "published": "Fri, 11 Sep 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Scriptural reading with reflection on judgment and repentance, inviting meditation.",
+   "tradition": "Catholic"
+  },
+  {
+   "id": "d955fd23-74fa-4dbd-9ec0-cd1ac0262f5c",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "THRIVE Events in Rexburg San Antonio Boise and St  George!!!!",
+   "summary": "Four THRIVE events are coming — Rexburg, San Antonio, Boise, and St. George — and John Dehlin wants to make sure you hear about them IN ADVANCE this time.THRIVE conferences are for former and transitioning members of high-demand religions. They're about community, healing, and growth after Mormonism — meeting people who get it, picking up tools for navigating a faith crisis, and realizing you are not alone and you are not crazy.REGISTER FOR ALL FOUR AT: https://thrivebeyondreligion.com---------------------------------------------------------------------THRIVE REXBURG — Sept. 18–19, 2026 — $19-",
+   "audioURL": "https://traffic.megaphone.fm/APO6393548407.mp3",
+   "published": "Tue, 15 Sep 2026 15:32:03 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Community and healing after religious disaffiliation, addressing faith crises.",
+   "tradition": "Latter-day Saint"
+  },
+  {
+   "id": "45214e6a-a511-11f1-88de-7f2ab56b229f",
+   "showID": "https://feeds.megaphone.fm/LEW6901658133",
+   "showTitle": "Undaunted.Life: A Man's Podcast by Kyle Thompson",
+   "title": "GRANGER SMITH | Toxic Beliefs That Keep You From Jesus (Ep. 967)",
+   "summary": "In this episode, we welcome Granger Smith to the studio. He was an award-winning, platinum-selling country music singer and songwriter and the creator of the Earl Dibbles Jr. stage character. He is now a speaker, actor, author, and host of “After Midnite with Granger Smith”. He has a new book out now called “Poison in the Well: 11 Toxic Beliefs That Kept Me from the Living Water of Jesus”. In this interview, we discuss how he got his start in music, the big break that confirmed he could make it in Nashville, how he came up with the Earl Dibbles Jr. character, if he ever had problems differenti",
+   "audioURL": "https://traffic.megaphone.fm/LEW6693231308.mp3",
+   "published": "Tue, 08 Sep 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/9f/12/809f1210-c215-9d6a-5dbd-45124c012604/mza_7903026632038263183.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "A musician turned speaker discusses toxic beliefs and faith in Jesus, touching on doubt and transformation.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "https://blubrry.com/the_world_and_everything_in_it/155363841/doubletake-a-few-red-flags/",
+   "showID": "https://feeds.blubrry.com/feeds/the_world_and_everything_in_it.xml",
+   "showTitle": "The World and Everything In It",
+   "title": "DoubleTake: A few red flags",
+   "summary": "One Christian woman’s life on eggshells, whose longing for love drove her into some destructive relationshipsThe Amplified Bible, from The Lockman Foundation, is designed to bring out the full depth of meaning in Scripture by expanding key words and phrases from the original languages. Its unique amplifications and definitions add clarity for reading and study.New TwoTone editions use soft gray typography to distinguish amplified words from the main text, creating a cleaner page and a smoother reading experience.Learn more at amplifiedbible.com.",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/p.podderapp.com/1696013160/media.blubrry.com/the_world_and_everything_in_it/ins.blubrry.com/the_world_and_everything_in_it/TWAEII-2026-09-12-3596-DoubleTake-A-few.mp3",
+   "published": "Sat, 12 Sep 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "A Christian woman's story of longing and destructive relationships with scriptural reflections.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "flightcast:01M28A90Q9NW5CE9ATB1W3S805",
+   "showID": "https://rss2.flightcast.com/au8xi1zc2nsj66h2yf2oyrkj.xml",
+   "showTitle": "The Person Who Believed In Me with David Begnaud",
+   "title": "Thomasin McKenzie | Anxiety and Jojo Rabbit",
+   "summary": "Thomasin McKenzie grew up in a house in Wellington where everyone acted — her parents coached it, and her grandmother is one of New Zealand's most beloved actors. She'd watched her parents leave for work overseas often enough to know what the job cost, and when she graduated high school her grandmother was relieved she hadn't gone to drama school.\nThen at 13 she overheard her mother coaching other girls through an audition for a film called Consent, about a New Zealand woman who was raped by police officers as a teenager and not believed in court. Thomasin asked if she could try out. She got t",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/1468/episode.flightcast.com/01M28A90Q9NW5CE9ATB1W3S805.mp3",
+   "published": "Mon, 14 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c3/60/15/c3601517-0586-cd0c-b08c-4ea95727da44/mza_8768441501299510340.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Touches on anxiety and personal struggle with some depth but mainly about acting and life story.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "abd83002-492b-41a1-a29f-b4c201535059",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6ea152c0-9e3a-45de-8672-ae2f0056b113/d8936746-9e22-4dba-b762-ae2f0056b126/podcast.rss",
+   "showTitle": "Stuff To Blow Your Mind",
+   "title": "Weirdhouse Cinema Rewind: The Boxer's Omen",
+   "summary": "In this classic episode of Weirdhouse Cinema, Rob and Joe dive into the grisly black sorcery and mind-bending Buddhist magic in the legendary Shaw Brothers film “The Boxer’s Omen,” directed by Kuei Chih-Hung. (orignally published 9/19/2025)See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6ea152c0-9e3a-45de-8672-ae2f0056b113/abd83002-492b-41a1-a29f-b4c201535059/audio.mp3?utm_source=Podcast&amp;in_playlist=d8936746-9e22-4dba-b762-ae2f0056b126",
+   "published": "Mon, 14 Sep 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/29/71/6c/29716c28-c923-3934-e3be-8f185ab59eae/mza_2212534510427103234.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores Buddhist magic and sorcery in film, touching on spiritual themes.",
+   "tradition": "Buddhist"
+  },
+  {
+   "id": "0a5feea3-dd01-4c0a-98de-b4c600a18c89",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "Quantum Consciousness - Best of Coast to Coast AM - 9/14/26",
+   "summary": "George Noory and author Jeffrey Smith discuss the concept of quantum consciousness to gain control the natural world for magical results, how he gained his own healing techniques, and how it can help people overcome their limitations and become the highest version of themselves.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/0a5feea3-dd01-4c0a-98de-b4c600a18c89/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Tue, 15 Sep 2026 09:54:52 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses quantum consciousness and healing but with a mystical, magical focus.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -220,6 +272,11 @@
   "608cfc4a-af92-11f1-9014-2388d4cbfc8a": "2026-09-14",
   "6afca208-6544-48e9-8079-1ecb6af330d8": "2026-09-14",
   "4d183049-3ca8-448e-ae21-5fae878de0b4": "2026-09-14",
-  "30632e4f-f5ce-4a88-8b66-16d3e1d3c092": "2026-09-15"
+  "30632e4f-f5ce-4a88-8b66-16d3e1d3c092": "2026-09-15",
+  "d955fd23-74fa-4dbd-9ec0-cd1ac0262f5c": "2026-09-15",
+  "https://blubrry.com/the_world_and_everything_in_it/155363841/doubletake-a-few-red-flags/": "2026-09-15",
+  "flightcast:01M28A90Q9NW5CE9ATB1W3S805": "2026-09-15",
+  "abd83002-492b-41a1-a29f-b4c201535059": "2026-09-15",
+  "0a5feea3-dd01-4c0a-98de-b4c600a18c89": "2026-09-15"
  }
 }
