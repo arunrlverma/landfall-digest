@@ -6,10 +6,23 @@
   "Buddhist",
   "Interfaith"
  ],
- "generatedAt": "2026-09-14T16:05:40.561005+00:00",
+ "generatedAt": "2026-09-15T14:34:45.399928+00:00",
  "showsScanned": 1200,
- "candidates": 10,
+ "candidates": 8,
  "picks": [
+  {
+   "id": "155db526-0eca-11f0-9337-6b716cbe3060",
+   "showID": "https://feeds.megaphone.fm/PODAGEN2254035087",
+   "showTitle": "Einzelgänger",
+   "title": "The Less You Seek, The More You’ll Find | The Happiness Paradox | Einzelgänger",
+   "summary": "The Less You Seek, The More You’ll Find | The Happiness Paradox\nTaoism for Inner Peace (book): https://einzelganger.co/tao/The less we try to think about a blue elephant, the more likely this creature persists in residing in our thoughts. Imagine the blue elephant represents our unhappiness - our dissatisfaction with life - hence the color blue. Obviously, no one likes feeling blue, and when we experience it, we’re likely to try getting rid of it. But the more we try to push it away, the bigger the blue elephant seems to become.Video: The Less You Seek, The More You’ll Find | The Happiness Par",
+   "audioURL": "https://traffic.megaphone.fm/PODAGEN9629610083.mp3?updated=1778653491",
+   "published": "Tue, 15 Sep 2026 09:05:27 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/12/cd/e3/12cde3cb-404d-aa2d-b5a1-8190d18e86b6/mza_13915945232127572928.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Considers Taoist ideas on desire, happiness, and acceptance of suffering.",
+   "tradition": "Taoist"
+  },
   {
    "id": "Buzzsprout-19791523",
    "showID": "https://rss.buzzsprout.com/1965688.rss",
@@ -20,59 +33,7 @@
    "published": "Fri, 11 Sep 2026 11:00:00 -0700",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/26/0c/6b/260c6bd3-3417-6788-0ec6-53de15b415f7/mza_1649059585900672066.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A serious Zen Buddhist conversation on practice and insight relevant to stillness and the Way.",
-   "tradition": "Buddhist"
-  },
-  {
-   "id": "523901f9e4b08b04ff30cc5f:52390480e4b0b9388c82520c:6aa6d55e1009c428b3d6f60d",
-   "showID": "https://houstonzen.org/dharma-talks?format=RSS",
-   "showTitle": "Houston Zen Center Dharma Talks",
-   "title": "Choro Antonaccio : Offerings to the Buddhas",
-   "summary": "Dharma Talk by Zen priest Choro Antonaccio.Choro is the Abiding Teacher of Austin Zen Center. She began formal Zen practice in 1999 at Chapel Hill Zen Center, where she was lay and priest ordained by Josho Pat Phelan Roshi. Choro also trained at Tassajara, Green Gulch Farm, and City Center. She is a Dharma Heir of Abbot Gaelyn.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n\n\n\n\n  \n\n\n  \n  \n  \n    \n      \n        \n          \n            \n          \n          \n            \n          \n        \n        \n          \n        \n        \n          \n            Choro Antonaccio : Offerings to the Buddhas\n          \n         ",
-   "audioURL": "https://static1.squarespace.com/static/523901f9e4b08b04ff30cc5f/t/6aa6d5ac2be1b2711bc9fdc5/1789318576434/Choro_Antonaccio_Offerings_to_the_Buddhas_09_13_26.mp3",
-   "published": "Sun, 13 Sep 2026 16:30:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/61/1a/a7/611aa7e7-ba40-6adf-fbda-e3c5e70a2a32/mza_4773844851689545572.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Dharma talk by a Zen priest exploring Buddhist teachings on mind and practice.",
-   "tradition": "Buddhist"
-  },
-  {
-   "id": "https://www.upaya.org/?p=110156",
-   "showID": "http://feeds.feedburner.com/DharmaPodcast",
-   "showTitle": "Upaya Zen Center's Dharma Podcast",
-   "title": "Grace in Prison",
-   "summary": "In this Wednesday Night Dharma Talk, Sensei Dainin describes bringing Roshi Joan’s G.R.A.C.E. compassion training into New Mexico’s prison system. Working previously with the correctional cadets, and now with men who are incarcerated, Dainin names how the system pushes both groups into opposition, each side dehumanizing the other by default. Looking for guidance on how to serve well in that…\nSource",
-   "audioURL": "https://traffic.libsyn.com/dharmapodcast/DP_2660___Wendy_Lau__Grace_of_Prison.mp3",
-   "published": "Mon, 14 Sep 2026 11:00:15 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/f4/c6/18/f4c6186e-3fa9-88f0-0c21-139bc06f38a0/mza_3444705071797950145.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Dharma talk on compassion training in prison, ethical and contemplative focus.",
-   "tradition": "Buddhist"
-  },
-  {
-   "id": "523901f9e4b08b04ff30cc5f:52390480e4b0b9388c82520c:6aa17388328e33109c9346ec",
-   "showID": "https://houstonzen.org/dharma-talks?format=RSS",
-   "showTitle": "Houston Zen Center Dharma Talks",
-   "title": "Abbot Gaelyn Godwin : Bringing Forth the Mind of Bodhi",
-   "summary": "Dharma Talk by Abbot Gaelyn Godwin, Abiding Teacher of HZC.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n\n\n\n\n  \n\n\n  \n  \n  \n    \n      \n        \n          \n            \n          \n          \n            \n          \n        \n        \n          \n        \n        \n          \n            Abbot Gaelyn Godwin : Bringing Forth the Mind of Bodhi\n          \n          \n        \n        \n          \n            \n            \n          \n          \n            Download",
-   "audioURL": "https://static1.squarespace.com/static/523901f9e4b08b04ff30cc5f/t/6aa173a3d61abc3ce59eb87d/1788965799414/Gaelyn_Godwin_Bringing_Forth_the_Mind_of_Bodhi_09_06_26.mp3",
-   "published": "Sun, 06 Sep 2026 16:30:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/61/1a/a7/611aa7e7-ba40-6adf-fbda-e3c5e70a2a32/mza_4773844851689545572.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Zen Dharma talk on awakening mind, relevant to Taoist contemplative interests.",
-   "tradition": "Buddhist"
-  },
-  {
-   "id": "https://www.upaya.org/?p=110039",
-   "showID": "http://feeds.feedburner.com/DharmaPodcast",
-   "showTitle": "Upaya Zen Center's Dharma Podcast",
-   "title": "The Open Gate",
-   "summary": "In this Wednesday Night Dharma Talk, Sensei Fushin turns to the first two folds of the Eightfold Path—right view and right intention—the wisdom from which the rest of the path grows. Right view, he suggests, is not a belief we acquire but seeing what is actually here, before we add our story about it. “The eye opens. The heart leans,” he says — one sees, one moves, and they are not two.\nSource",
-   "audioURL": "https://traffic.libsyn.com/dharmapodcast/DP_2658___James_Bristol__The_Open_Gate.mp3",
-   "published": "Mon, 07 Sep 2026 11:00:23 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/f4/c6/18/f4c6186e-3fa9-88f0-0c21-139bc06f38a0/mza_3444705071797950145.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Zen Dharma talk on right view and intention, foundational for inner life and ethics.",
+   "reason": "A Zen teacher discusses Buddhist practice and insight into mind and life.",
    "tradition": "Buddhist"
   },
   {
@@ -85,7 +46,7 @@
    "published": "Tue, 08 Sep 2026 11:52:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/cf/17/80/cf1780c1-cb8c-78b7-cebb-f53947796346/mza_2572943592376454792.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores Buddhist teaching on the three poisons, relevant to suffering and mind.",
+   "reason": "Explores Buddhist philosophy on mind's confusion and suffering in daily experience.",
    "tradition": "Buddhist"
   }
  ],
@@ -103,11 +64,12 @@
   "14a4be6a-e040-42f9-b833-aaff5c9ce92f": "2026-09-08",
   "https://www.upaya.org/?p=110039": "2026-09-14",
   "4375e795-73a7-45f4-a441-3168be5c381a": "2026-09-08",
-  "30dba1e3-a44b-4d4b-b5ce-68b3604ac5f3": "2026-09-14",
+  "30dba1e3-a44b-4d4b-b5ce-68b3604ac5f3": "2026-09-15",
   "2e7d0e6c-133b-420d-9f1c-c90e1e242910": "2026-09-11",
-  "Buzzsprout-19791523": "2026-09-14",
+  "Buzzsprout-19791523": "2026-09-15",
   "523901f9e4b08b04ff30cc5f:52390480e4b0b9388c82520c:6aa6d55e1009c428b3d6f60d": "2026-09-14",
   "https://www.upaya.org/?p=110156": "2026-09-14",
-  "523901f9e4b08b04ff30cc5f:52390480e4b0b9388c82520c:6aa17388328e33109c9346ec": "2026-09-14"
+  "523901f9e4b08b04ff30cc5f:52390480e4b0b9388c82520c:6aa17388328e33109c9346ec": "2026-09-14",
+  "155db526-0eca-11f0-9337-6b716cbe3060": "2026-09-15"
  }
 }
