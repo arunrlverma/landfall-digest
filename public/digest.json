@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-16T19:56:22.481916+00:00",
+ "generatedAt": "2026-09-16T22:48:00.310920+00:00",
  "showsScanned": 400,
  "candidates": 51,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Fri, 11 Sep 2026 09:21:18 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b2/a1/f8/b2a1f83e-58b7-e205-aa5a-3484ee7af356/mza_5462850391827080385.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep conversation on meaning, suffering, faith, and purpose amid loss.",
+   "reason": "A deep conversation on faith, suffering, purpose, and meaning amid life loss.",
    "tradition": "Interfaith"
   },
   {
@@ -27,8 +27,34 @@
    "published": "Wed, 16 Sep 2026 09:30:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/c9/5d/66c95da6-3ed6-20fc-7a54-8fd6cdf3c237/mza_81406979434027984.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A deep philosophical and neuroscientific inquiry into selfhood and consciousness.",
+   "reason": "A neuropsychoanalyst deeply examines selfhood and consciousness from brain and mind perspectives.",
    "tradition": "Secular"
+  },
+  {
+   "id": "ac5b67a4-b15b-11f1-9a35-97bf96f31149",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "OPRAH WINFREY: The Life Lessons That Changed Everything",
+   "summary": "In a rare and deeply personal conversation, Jay sits down with Oprah Winfrey to reflect on the defining moments, hard-earned lessons, and extraordinary journey that shaped her life. Oprah opens up about her earliest memories in Mississippi, surviving childhood abuse, and how those experiences shaped the woman she would become. She traces her remarkable rise from a small radio job to one of the most influential voices in the world, sharing the spiritual practices that have grounded her along the way and the Maya Angelou wisdom that transformed how she thinks about legacy. Oprah also reflects on",
+   "audioURL": "https://traffic.megaphone.fm/GLT9625752794.mp3",
+   "published": "Wed, 16 Sep 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Oprah reflects on suffering, faith, and meaning in a deeply personal conversation.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "tag:soundcloud,2010:tracks/2401169679",
+   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:406683825/sounds.rss",
+   "showTitle": "The Counsel of Trent",
+   "title": "#1205 - The One Detail That Perfectly Explains Hell",
+   "summary": "In this episode Trent explains what critics of the doctrine of hell often forget when they claim no rational person would freely choose eternal separation from God.\n\nHell: The Logic of Damnation, Jerry L. Walls\nhttps://undpress.nd.edu/9780268010966/hell/\n\n“How to Go to Hell,” Edward Feser\nhttps://edwardfeser.blogspot.com/2016/10/how-to-go-to-hell_29.html\n\nTo support this channel: https://www.patreon.com/counseloftrent\n\n[NEW] Counsel of Trent merch: https://shop.catholic.com/apologists-alley/trent-horn-resources/\n\nBe sure to keep up with our socials!\nhttps://www.tiktok.com/@counseloftrent\nhttps",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2401169679-trenthornpodcast-1205-what-everyone-forgets.mp3",
+   "published": "Wed, 16 Sep 2026 13:00:44 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A Catholic apologist explains the logic behind hell and human choice in eternal separation from God.",
+   "tradition": "Catholic"
   },
   {
    "id": "3df4e68e-e1d9-4c9d-a928-9fcefda7160a",
@@ -40,7 +66,7 @@
    "published": "Wed, 16 Sep 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Offers practical mindfulness tools addressing anxiety and transcendence.",
+   "reason": "Offers mindfulness practices addressing anxiety and emotional suffering.",
    "tradition": "Secular"
   },
   {
@@ -53,7 +79,7 @@
    "published": "Thu, 10 Sep 2026 20:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Engages theological debate on divine nature and scripture interpretation.",
+   "reason": "Examines complex theological ideas about divine presence in scripture.",
    "tradition": "Christian"
   },
   {
@@ -66,59 +92,20 @@
    "published": "Thu, 10 Sep 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Shares personal spiritual growth and trust in a higher power.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "ac5b67a4-b15b-11f1-9a35-97bf96f31149",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "OPRAH WINFREY: The Life Lessons That Changed Everything",
-   "summary": "In a rare and deeply personal conversation, Jay sits down with Oprah Winfrey to reflect on the defining moments, hard-earned lessons, and extraordinary journey that shaped her life. Oprah opens up about her earliest memories in Mississippi, surviving childhood abuse, and how those experiences shaped the woman she would become. She traces her remarkable rise from a small radio job to one of the most influential voices in the world, sharing the spiritual practices that have grounded her along the way and the Maya Angelou wisdom that transformed how she thinks about legacy. Oprah also reflects on",
-   "audioURL": "https://traffic.megaphone.fm/GLT9625752794.mp3",
-   "published": "Wed, 16 Sep 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Oprah reflects on suffering, faith, and spiritual practices shaping her life.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "tag:soundcloud,2010:tracks/2401169679",
-   "showID": "https://feeds.soundcloud.com/users/soundcloud:users:406683825/sounds.rss",
-   "showTitle": "The Counsel of Trent",
-   "title": "#1205 - The One Detail That Perfectly Explains Hell",
-   "summary": "In this episode Trent explains what critics of the doctrine of hell often forget when they claim no rational person would freely choose eternal separation from God.\n\nHell: The Logic of Damnation, Jerry L. Walls\nhttps://undpress.nd.edu/9780268010966/hell/\n\n“How to Go to Hell,” Edward Feser\nhttps://edwardfeser.blogspot.com/2016/10/how-to-go-to-hell_29.html\n\nTo support this channel: https://www.patreon.com/counseloftrent\n\n[NEW] Counsel of Trent merch: https://shop.catholic.com/apologists-alley/trent-horn-resources/\n\nBe sure to keep up with our socials!\nhttps://www.tiktok.com/@counseloftrent\nhttps",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2401169679-trenthornpodcast-1205-what-everyone-forgets.mp3",
-   "published": "Wed, 16 Sep 2026 13:00:44 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores the doctrine of hell and human choice in relation to eternal separation from God.",
-   "tradition": "Catholic"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/lPDqcAEFRAvuy8Cxj8gU3ur2FW28ArVFbEIaWFiQVrg",
-   "showID": "https://rss.art19.com/the-telepathy-tapes",
-   "showTitle": "The Telepathy Tapes",
-   "title": "S2E50: When Frontier Science Enters Mainstream Journals: Energy Healing Cancer Study Update | Talk Tracks",
-   "summary": "In Season 2 of The Consciousness Cassettes, Ky explored a groundbreaking study at MD Anderson Cancer Center examining energy healing, also known as biofield therapy, in pancreatic cancer cells and mice. Now, that research has officially been published.Ky returns to the study with integrative oncologist Dr. Santosh Rao and Meredith Sprengel, Research and Program Director of the Subtle Energy Funders Collective. Together, they unpack the study’s most compelling findings, including slower cancer cell growth, reduced invasiveness, and significantly fewer visible liver metastases in some of the mou",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/5afb3b38-4122-485f-9116-526dfd24b7f0.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Wed, 16 Sep 2026 07:01:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Discusses scientific research on energy healing and consciousness in cancer treatment.",
+   "reason": "Reflects on personal spiritual growth and changing worldview.",
    "tradition": "Secular"
   },
   {
-   "id": "2f71e65a-d87c-4659-84b4-b4bf015928d2",
+   "id": "5ae6963c-6e1b-46f9-9624-b4c6014fe1a2",
    "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
    "showTitle": "BYU Speeches",
-   "title": "“Ears to Hear” | Wendy W. Reese | September 2026",
-   "summary": "Let us tune out the noise and focus on God. Find quiet time each day where you can turn to your Heavenly Father and pour out your soul to Him. And then listen, really listen with ears to hear what heaven wants to tell you. Wendy W. Reese, wife of BYU president C. Shane Reese, delivered this devotional address on September 8, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/2f71e65a-d87c-4659-84b4-b4bf015928d2/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
-   "published": "Tue, 08 Sep 2026 21:07:54 +0000",
+   "title": "“Settle This in Your Hearts” | Neil L. Andersen | September 2026",
+   "summary": "With so many choices and alluring paths before you, it will require strength of heart and mind to boldly, without distraction or deception, “settle this in your heart” and walk the road less traveled toward the Savior. Neil L. Andersen, a member of the Quorum of the Twelve Apostles of The Church of Jesus Christ of Latter-day Saints, delivered this devotional address on September 15, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/5ae6963c-6e1b-46f9-9624-b4c6014fe1a2/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
+   "published": "Tue, 15 Sep 2026 21:26:54 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Encourages prayer and listening to God, emphasizing spiritual attentiveness.",
+   "rating": 7,
+   "reason": "A Latter-day Saint leader urges commitment to faith amid life’s distractions and choices.",
    "tradition": "Latter-day Saint"
   },
   {
@@ -131,8 +118,34 @@
    "published": "Wed, 16 Sep 2026 09:56:07 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores reincarnation and grief through past life regression research.",
+   "reason": "Explores reincarnation and grief, touching on consciousness and mortality.",
    "tradition": "Mythic"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/lPDqcAEFRAvuy8Cxj8gU3ur2FW28ArVFbEIaWFiQVrg",
+   "showID": "https://rss.art19.com/the-telepathy-tapes",
+   "showTitle": "The Telepathy Tapes",
+   "title": "S2E50: When Frontier Science Enters Mainstream Journals: Energy Healing Cancer Study Update | Talk Tracks",
+   "summary": "In Season 2 of The Consciousness Cassettes, Ky explored a groundbreaking study at MD Anderson Cancer Center examining energy healing, also known as biofield therapy, in pancreatic cancer cells and mice. Now, that research has officially been published.Ky returns to the study with integrative oncologist Dr. Santosh Rao and Meredith Sprengel, Research and Program Director of the Subtle Energy Funders Collective. Together, they unpack the study’s most compelling findings, including slower cancer cell growth, reduced invasiveness, and significantly fewer visible liver metastases in some of the mou",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/5afb3b38-4122-485f-9116-526dfd24b7f0.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Wed, 16 Sep 2026 07:01:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Scientists and practitioners discuss energy healing and cancer research, touching on consciousness.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "1db9a3f7-df92-4762-9af5-b4c20152db6c",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6ea152c0-9e3a-45de-8672-ae2f0056b113/d8936746-9e22-4dba-b762-ae2f0056b126/podcast.rss",
+   "showTitle": "Stuff To Blow Your Mind",
+   "title": "From the Vault: Transporters and Consciousness in Star Trek",
+   "summary": "In this classic Star Trek Week episode of Stuff to Blow Your Mind, Robert and Joe discuss teleportation in the Star Trek universe and the questions it raises about human identity and consciousness. (originally published 9/11/2025)See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6ea152c0-9e3a-45de-8672-ae2f0056b113/1db9a3f7-df92-4762-9af5-b4c20152db6c/audio.mp3?utm_source=Podcast&amp;in_playlist=d8936746-9e22-4dba-b762-ae2f0056b126",
+   "published": "Sat, 12 Sep 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/29/71/6c/29716c28-c923-3934-e3be-8f185ab59eae/mza_2212534510427103234.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores identity and consciousness through sci-fi teleportation, raising philosophical questions.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -251,6 +264,7 @@
   "ac5b67a4-b15b-11f1-9a35-97bf96f31149": "2026-09-16",
   "tag:soundcloud,2010:tracks/2401169679": "2026-09-16",
   "2b9684dd-e365-403b-94e3-b4c700a1acdf": "2026-09-16",
-  "gid://art19-episode-locator/V0/lPDqcAEFRAvuy8Cxj8gU3ur2FW28ArVFbEIaWFiQVrg": "2026-09-16"
+  "gid://art19-episode-locator/V0/lPDqcAEFRAvuy8Cxj8gU3ur2FW28ArVFbEIaWFiQVrg": "2026-09-16",
+  "5ae6963c-6e1b-46f9-9624-b4c6014fe1a2": "2026-09-16"
  }
 }
