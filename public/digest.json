@@ -1,35 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-09-17T01:13:52.951346+00:00",
+ "generatedAt": "2026-09-17T07:26:28.077278+00:00",
  "showsScanned": 400,
- "candidates": 54,
+ "candidates": 57,
  "picks": [
-  {
-   "id": "cb07a32a-acb5-11f1-bbcd-27ac0693bc0b",
-   "showID": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
-   "showTitle": "The Shawn Ryan Show",
-   "title": "#338 Cardinal Burke - The New Testament",
-   "summary": "Raymond Leo Cardinal Burke is an American cardinal, canon lawyer, and one of the Catholic Church’s most prominent defenders of traditional doctrine and liturgy. He previously served as Archbishop of St. Louis and as Prefect of the Apostolic Signatura, the Church’s highest judicial court, before being elevated to the College of Cardinals by Pope Benedict XVI in 2010. He is also the founder of the Shrine of Our Lady of Guadalupe in La Crosse, Wisconsin.\n\n\n\nShawn Ryan Show Sponsors:\n\nPrivacy Isn't Paranoia. It's Protection. - https://theglacierapp.com\n\nLive better longer with BUBS Naturals. Get 2",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4265484314.mp3",
-   "published": "Thu, 10 Sep 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Cardinal Burke discusses traditional Catholic doctrine and scripture.",
-   "tradition": "Catholic"
-  },
-  {
-   "id": "7b8a4bac-ac53-11f1-a89b-fbb9fa7a9771",
-   "showID": "https://feeds.megaphone.fm/PHTE6132945524",
-   "showTitle": "Somewhere in the Skies",
-   "title": "Join Us For Whitley Strieber's LIVE Webinar Series!",
-   "summary": "Somewhere in the Skies is partnering with Ubiquity University for Transformation 2026: The Fourth Mind, a live four-week webinar series with legendary Communion author Whitley Strieber.\n\n\n\nLearn more and register through our affiliate link: ⁠https://www.ubiquityuniversity.org/courses/transformation-2026/?am_id=SomewhereInTheSkies⁠\n\n\n\nBeginning September 17th, Whitley will explore the Visitors, non-human intelligence, abduction, psi abilities, consciousness, and his concept of the Fourth Mind, a new way of understanding contact and our place within it.\n\n\n\nThe series includes four live 90-minute",
-   "audioURL": "https://pscrb.fm/rss/p/traffic.megaphone.fm/PHTE4523643525.mp3",
-   "published": "Thu, 10 Sep 2026 04:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/85/74/aa857474-43cb-883b-94d1-16c24d0305b4/mza_466083494209813278.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Covers consciousness and non-human intelligence in a paranormal context.",
-   "tradition": "Interfaith"
-  },
   {
    "id": "fc29517e-a701-4125-97fa-b4c2014cbfe4",
    "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/d623ef0b-3fee-4c26-b815-ae32006cd739/podcast.rss",
@@ -40,8 +14,21 @@
    "published": "Mon, 14 Sep 2026 04:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f9/14/47/f9144733-0019-9e7a-4f8f-21818eadb9d9/mza_1460301163065810614.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores meditation's effects on brain and consciousness with a neuroscientist.",
+   "reason": "Explores meditation's impact on brain and consciousness with a neuroscientist.",
    "tradition": "Buddhist"
+  },
+  {
+   "id": "70c7512c-20a0-4d71-8ab2-88516965b3b2",
+   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
+   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
+   "title": "Day 260: Carrying the Cross (2026)",
+   "summary": "Fr. Mike reinforces Jesus' divinity as we read about how Jesus heals people physically, mentally, and spiritually and frees them from the enemy's kingdom of darkness. Fr. Mike also encourages us to not be afraid when we experience persecution and division for the sake of Christ, but to rather courageously carry the Cross. \n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/70c7512c-20a0-4d71-8ab2-88516965b3b2.mp3",
+   "published": "Thu, 17 Sep 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores Jesus' divinity, suffering, and courage in carrying the Cross.",
+   "tradition": "Catholic"
   },
   {
    "id": "83e981e499fd7b84507cb4db79b79849",
@@ -52,35 +39,9 @@
    "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4L2I1ZWQwNDcwLWJhMWYtNDU5Zi1iODA4LWNmMGVmMjhlZjdjYy9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=ycsm7ns",
    "published": "Mon, 14 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A personal story of faith formation and wrestling with belief from scratch.",
+   "rating": 7,
+   "reason": "A personal story of faith formation and wrestling with belief.",
    "tradition": "Christian"
-  },
-  {
-   "id": "4d183049-3ca8-448e-ae21-5fae878de0b4",
-   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
-   "showTitle": "Mormon Stories Podcast",
-   "title": "\"Idyllic\" Mormons Choose Wonder - Mike And Michele Seamons Pt. 3 | Ep. 2195",
-   "summary": "In Part Three of Mike and Michele’s story, the couple begins confronting serious concerns about Mormonism as their children struggle with missions, faith, and their place in the church. Mike becomes increasingly concerned about the challenges young Mormons are facing, and struggles to work with church leadership to keep them engaged in their faith.As they discover that the church is not working for their family in the same way anymore, they begin stepping further outside the Mormon community. They explore other Christian traditions and begin to consume media not run by the LDS church, such as ",
-   "audioURL": "https://traffic.megaphone.fm/APO2623569841.mp3",
-   "published": "Mon, 14 Sep 2026 22:31:15 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A Mormon couple wrestles with faith, doubt, and belonging in their religious community.",
-   "tradition": "Latter-day Saint"
-  },
-  {
-   "id": "b001533e-2d42-11f1-801d-4fd67788cc86",
-   "showID": "https://feeds.megaphone.fm/QCD2348265349",
-   "showTitle": "The Why Files: Operation Podcast",
-   "title": "The Basement: Donald Hoffman | Consciousness, Math, and the Case for Letting Go",
-   "summary": "-One thing to pack, five ways to power! Get 10% Off @Ridge with code BASEMENT at https://www.Ridge.com/BASEMENT #Ridgepod\n\n\n\n-Discover how to move your IRA or 401k into physical gold and silver — with no taxes or penalties. Get your free portfolio review and free gold & silver guide from GoldenCrest Metals: visit https://GoldenCrestMetals.com/thewhyfiles or call (888) 949-9172 now.\n\n\n\n-For a limited time, get 50% off for life, free shipping, and 3 free gifts at https://mengotomars.com. #ad\n\n\n\nDonald Hoffman has spent forty years asking one question: are we just machines? He walked away from a ",
-   "audioURL": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD6527245147.mp3",
-   "published": "Mon, 14 Sep 2026 09:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d8/d5/56/d8d5569b-6431-c55a-509c-820b5bd1002b/mza_14117346978676539247.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A philosopher discusses consciousness, perception, and letting go of illusions.",
-   "tradition": "Secular"
   },
   {
    "id": "608cfc4a-af92-11f1-9014-2388d4cbfc8a",
@@ -92,8 +53,47 @@
    "published": "Mon, 14 Sep 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Practical discussion on studying the Bible and discerning spiritual experiences.",
+   "reason": "Practical discussion on Bible study and discerning spiritual experiences.",
    "tradition": "Christian"
+  },
+  {
+   "id": "4d183049-3ca8-448e-ae21-5fae878de0b4",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "\"Idyllic\" Mormons Choose Wonder - Mike And Michele Seamons Pt. 3 | Ep. 2195",
+   "summary": "In Part Three of Mike and Michele’s story, the couple begins confronting serious concerns about Mormonism as their children struggle with missions, faith, and their place in the church. Mike becomes increasingly concerned about the challenges young Mormons are facing, and struggles to work with church leadership to keep them engaged in their faith.As they discover that the church is not working for their family in the same way anymore, they begin stepping further outside the Mormon community. They explore other Christian traditions and begin to consume media not run by the LDS church, such as ",
+   "audioURL": "https://traffic.megaphone.fm/APO2623569841.mp3",
+   "published": "Mon, 14 Sep 2026 22:31:15 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Shares a family's struggle with faith and church challenges in Mormonism.",
+   "tradition": "Latter-day Saint"
+  },
+  {
+   "id": "cb07a32a-acb5-11f1-bbcd-27ac0693bc0b",
+   "showID": "https://rss.pdrl.fm/ac69ac/feeds.megaphone.fm/WWO7410387571",
+   "showTitle": "The Shawn Ryan Show",
+   "title": "#338 Cardinal Burke - The New Testament",
+   "summary": "Raymond Leo Cardinal Burke is an American cardinal, canon lawyer, and one of the Catholic Church’s most prominent defenders of traditional doctrine and liturgy. He previously served as Archbishop of St. Louis and as Prefect of the Apostolic Signatura, the Church’s highest judicial court, before being elevated to the College of Cardinals by Pope Benedict XVI in 2010. He is also the founder of the Shrine of Our Lady of Guadalupe in La Crosse, Wisconsin.\n\n\n\nShawn Ryan Show Sponsors:\n\nPrivacy Isn't Paranoia. It's Protection. - https://theglacierapp.com\n\nLive better longer with BUBS Naturals. Get 2",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/55dc8e/pscrb.fm/rss/p/mgln.ai/e/433/www.claritaspod.com/measure/arttrk.com/p/QCDM1/traffic.megaphone.fm/QCD4265484314.mp3",
+   "published": "Thu, 10 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A Catholic cardinal discusses New Testament teachings and doctrine.",
+   "tradition": "Catholic"
+  },
+  {
+   "id": "b001533e-2d42-11f1-801d-4fd67788cc86",
+   "showID": "https://feeds.megaphone.fm/QCD2348265349",
+   "showTitle": "The Why Files: Operation Podcast",
+   "title": "The Basement: Donald Hoffman | Consciousness, Math, and the Case for Letting Go",
+   "summary": "-One thing to pack, five ways to power! Get 10% Off @Ridge with code BASEMENT at https://www.Ridge.com/BASEMENT #Ridgepod\n\n\n\n-Discover how to move your IRA or 401k into physical gold and silver — with no taxes or penalties. Get your free portfolio review and free gold & silver guide from GoldenCrest Metals: visit https://GoldenCrestMetals.com/thewhyfiles or call (888) 949-9172 now.\n\n\n\n-For a limited time, get 50% off for life, free shipping, and 3 free gifts at https://mengotomars.com. #ad\n\n\n\nDonald Hoffman has spent forty years asking one question: are we just machines? He walked away from a ",
+   "audioURL": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD6527245147.mp3",
+   "published": "Mon, 14 Sep 2026 09:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d8/d5/56/d8d5569b-6431-c55a-509c-820b5bd1002b/mza_14117346978676539247.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Philosopher Donald Hoffman discusses consciousness and letting go of illusions.",
+   "tradition": "Secular"
   },
   {
    "id": "6ef37064-f0fb-4564-b416-4454021aef1a",
@@ -105,8 +105,21 @@
    "published": "Mon, 14 Sep 2026 09:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/71/b9/a2/71b9a281-ef14-3317-3407-317b2c86feda/mza_2951453104086058545.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A serious conversation about anxiety, self-regulation, and inner struggle.",
+   "reason": "Dan Harris reflects on panic and self-regulation, exploring inner life seriously.",
    "tradition": "Secular"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/HGiNnFBV7_BqOJgGk83wNEJgiNwbNoLHqMJ1maRbmqw",
+   "showID": "https://rss.art19.com/the-exorcist-files",
+   "showTitle": "The Exorcist Files",
+   "title": "The Power of Confession, Removing Sin and the Levitating St. Joseph Cupertino",
+   "summary": "Father Carlos Martins and Ryan Bethea break down the sacramental, ontological power of Confession—from breaking the grip of sin and guilt to the mechanics of perfect contrition. Plus, they discuss the lingering damage of sin, the dangers of generational occult objects, and listener questions on holy water and spiritual warfare.Thanks to our sponsors!Head to https://forkfulmeals.com/XFILES for 50% off your first order today!Watch or Listen to The Born Again Identity on EWTN+ or click here https://www.youtube.com/watch?v=rym04mVTO8o and enjoy the auditory odyssey!Magnesium, multiplied. 10 forms ",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/p687916/rss.art19.com/episodes/dde54755-911b-4b84-83e4-8ff1e1671a59.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Thu, 17 Sep 2026 04:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses confession and sin's spiritual effects within Catholic sacramental theology.",
+   "tradition": "Catholic"
   }
  ],
  "history": {
@@ -221,6 +234,8 @@
   "tag:soundcloud,2010:tracks/2401169679": "2026-09-16",
   "2b9684dd-e365-403b-94e3-b4c700a1acdf": "2026-09-16",
   "gid://art19-episode-locator/V0/lPDqcAEFRAvuy8Cxj8gU3ur2FW28ArVFbEIaWFiQVrg": "2026-09-16",
-  "5ae6963c-6e1b-46f9-9624-b4c6014fe1a2": "2026-09-16"
+  "5ae6963c-6e1b-46f9-9624-b4c6014fe1a2": "2026-09-16",
+  "70c7512c-20a0-4d71-8ab2-88516965b3b2": "2026-09-17",
+  "gid://art19-episode-locator/V0/HGiNnFBV7_BqOJgGk83wNEJgiNwbNoLHqMJ1maRbmqw": "2026-09-17"
  }
 }
