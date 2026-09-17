@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-17T18:04:29.568008+00:00",
+ "generatedAt": "2026-09-17T22:01:04.429393+00:00",
  "showsScanned": 400,
- "candidates": 56,
+ "candidates": 54,
  "picks": [
   {
    "id": "fc29517e-a701-4125-97fa-b4c2014cbfe4",
@@ -18,43 +18,30 @@
    "tradition": "Buddhist"
   },
   {
-   "id": "83e981e499fd7b84507cb4db79b79849",
-   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
-   "showTitle": "Becoming Something with Jonathan Pokluda",
-   "title": "Episode 389: Pretending God Is Real — Until He Wasn't | feat. Brian Guan",
-   "summary": "<p>This week we sit down with Brian Guan, a content creator from New York City who went viral for going around pretending to be a Christian — and ended up actually becoming one. Just 12 days into his faith, Brian joins us live to talk about what happened when an experiment became real, the convictions he's already wrestling with, and what it looks like to follow Jesus when you're starting from scratch. This one is refreshing, honest, and a whole lot of fun!</p>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4L2I1ZWQwNDcwLWJhMWYtNDU5Zi1iODA4LWNmMGVmMjhlZjdjYy9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=ycsm7ns",
-   "published": "Mon, 14 Sep 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
+   "id": "44391db6-ac6e-11f1-93de-cf69ce46df14",
+   "showID": "https://feeds.megaphone.fm/radioatlantic",
+   "showTitle": "Radio Atlantic",
+   "title": "The Dark Side of Meditation",
+   "summary": "A psychologist wanted to conduct a study showing the benefits of meditation. But the results—and some of her own unsettling experiences—turned everything she thought she knew about the practice upside down.\n\nRead Olga Khazan’s story “The Dark Side of Mindfulness.”\n\n- - -\n\nGet more from your favorite Atlantic voices when you subscribe. You’ll enjoy unlimited access to Pulitzer-winning journalism, from clear-eyed analysis and insight on breaking news to fascinating explorations of our world. Atlantic subscribers also get access to exclusive subscriber audio in Apple Podcasts. Subscribe today at ",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/ATL5981520652.mp3",
+   "published": "Thu, 17 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/5e/41/135e41d6-dbc8-66b9-1367-460ac0f5e6c0/mza_2058775075235418486.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Honest discussion of faith formation and wrestling with belief.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "4d183049-3ca8-448e-ae21-5fae878de0b4",
-   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
-   "showTitle": "Mormon Stories Podcast",
-   "title": "\"Idyllic\" Mormons Choose Wonder - Mike And Michele Seamons Pt. 3 | Ep. 2195",
-   "summary": "In Part Three of Mike and Michele’s story, the couple begins confronting serious concerns about Mormonism as their children struggle with missions, faith, and their place in the church. Mike becomes increasingly concerned about the challenges young Mormons are facing, and struggles to work with church leadership to keep them engaged in their faith.As they discover that the church is not working for their family in the same way anymore, they begin stepping further outside the Mormon community. They explore other Christian traditions and begin to consume media not run by the LDS church, such as ",
-   "audioURL": "https://traffic.megaphone.fm/APO2623569841.mp3",
-   "published": "Mon, 14 Sep 2026 22:31:15 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores struggles with faith, church engagement, and family challenges in Mormonism.",
-   "tradition": "Latter-day Saint"
-  },
-  {
-   "id": "b001533e-2d42-11f1-801d-4fd67788cc86",
-   "showID": "https://feeds.megaphone.fm/QCD2348265349",
-   "showTitle": "The Why Files: Operation Podcast",
-   "title": "The Basement: Donald Hoffman | Consciousness, Math, and the Case for Letting Go",
-   "summary": "-One thing to pack, five ways to power! Get 10% Off @Ridge with code BASEMENT at https://www.Ridge.com/BASEMENT #Ridgepod\n\n\n\n-Discover how to move your IRA or 401k into physical gold and silver — with no taxes or penalties. Get your free portfolio review and free gold & silver guide from GoldenCrest Metals: visit https://GoldenCrestMetals.com/thewhyfiles or call (888) 949-9172 now.\n\n\n\n-For a limited time, get 50% off for life, free shipping, and 3 free gifts at https://mengotomars.com. #ad\n\n\n\nDonald Hoffman has spent forty years asking one question: are we just machines? He walked away from a ",
-   "audioURL": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD6527245147.mp3",
-   "published": "Mon, 14 Sep 2026 09:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d8/d5/56/d8d5569b-6431-c55a-509c-820b5bd1002b/mza_14117346978676539247.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A neuroscientist discusses consciousness and the limits of perception and reality.",
+   "reason": "Examines meditation's unsettling effects and challenges to mindfulness.",
    "tradition": "Secular"
+  },
+  {
+   "id": "401730b8-c918-43d2-91af-736e9890dff8",
+   "showID": "https://media.rss.com/why-personality-evolves-more-than-people-expect-personality-peek-podcast-1/feed.xml",
+   "showTitle": "Peek Inside Podcast",
+   "title": "The Hidden Battle Within Us | Purpose, Temptation, Ego and Spiritual Growth | Arky Jones and Vladmir Cirkovic",
+   "summary": "Hey! I'd love to hear your thoughts, send me a voice note.Why can life still feel empty even when everything looks fine on the outside?In this episode of Peek Inside, Arky Jones speaks with Vladmir Cirkovic about purpose, temptation, ego, spirituality and the inner struggles that quietly shape our choices. Vladmir shares how his search for meaning began with a sense that something was missing, and how spiritual practice changed the way he understood fulfilment, discipline and self-awareness.The conversation also explores temptation, negative thought patterns, perseverance, materialism, persona",
+   "audioURL": "https://content.rss.com/episodes/390905/3162557/why-personality-evolves-more-than-people-expect-personality-peek-podcast-1/2026_09_17_20_25_29_cc639c4e-925e-47f6-9424-98d617fb3a8c.mp3",
+   "published": "Thu, 17 Sep 2026 20:26:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/23/ac/c8/23acc823-296a-e415-a71e-d8bf45dbe3d4/mza_7023238032917865563.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores inner spiritual struggles, ego, and purpose with a focus on personal growth.",
+   "tradition": "Interfaith"
   },
   {
    "id": "d15e8592-5612-4c68-b3c6-640ce0802af5",
@@ -66,20 +53,7 @@
    "published": "Thu, 17 Sep 2026 16:50:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Sam Harris explains meditation's role in understanding mind and living well.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "44391db6-ac6e-11f1-93de-cf69ce46df14",
-   "showID": "https://feeds.megaphone.fm/radioatlantic",
-   "showTitle": "Radio Atlantic",
-   "title": "The Dark Side of Meditation",
-   "summary": "A psychologist wanted to conduct a study showing the benefits of meditation. But the results—and some of her own unsettling experiences—turned everything she thought she knew about the practice upside down.\n\nRead Olga Khazan’s story “The Dark Side of Mindfulness.”\n\n- - -\n\nGet more from your favorite Atlantic voices when you subscribe. You’ll enjoy unlimited access to Pulitzer-winning journalism, from clear-eyed analysis and insight on breaking news to fascinating explorations of our world. Atlantic subscribers also get access to exclusive subscriber audio in Apple Podcasts. Subscribe today at ",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/ATL5981520652.mp3",
-   "published": "Thu, 17 Sep 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/5e/41/135e41d6-dbc8-66b9-1367-460ac0f5e6c0/mza_2058775075235418486.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Examines meditation's unexpected psychological challenges with a psychologist.",
+   "reason": "Meditation's dual role in living well and understanding mind is seriously discussed.",
    "tradition": "Secular"
   },
   {
@@ -92,8 +66,21 @@
    "published": "Thu, 17 Sep 2026 04:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discussion on confession, sin, and spiritual warfare with theological depth.",
+   "reason": "Discusses confession, sin, guilt, and spiritual warfare with theological depth.",
    "tradition": "Catholic"
+  },
+  {
+   "id": "83e981e499fd7b84507cb4db79b79849",
+   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
+   "showTitle": "Becoming Something with Jonathan Pokluda",
+   "title": "Episode 389: Pretending God Is Real — Until He Wasn't | feat. Brian Guan",
+   "summary": "<p>This week we sit down with Brian Guan, a content creator from New York City who went viral for going around pretending to be a Christian — and ended up actually becoming one. Just 12 days into his faith, Brian joins us live to talk about what happened when an experiment became real, the convictions he's already wrestling with, and what it looks like to follow Jesus when you're starting from scratch. This one is refreshing, honest, and a whole lot of fun!</p>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4L2I1ZWQwNDcwLWJhMWYtNDU5Zi1iODA4LWNmMGVmMjhlZjdjYy9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=ycsm7ns",
+   "published": "Mon, 14 Sep 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Honest conversation about faith, doubt, and conversion experience.",
+   "tradition": "Christian"
   },
   {
    "id": "608cfc4a-af92-11f1-9014-2388d4cbfc8a",
@@ -105,8 +92,21 @@
    "published": "Mon, 14 Sep 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Practical and theological discussion on Bible study and spiritual growth.",
+   "reason": "Practical teaching on Bible study and spiritual growth with reflections on Jesus' life.",
    "tradition": "Christian"
+  },
+  {
+   "id": "4d183049-3ca8-448e-ae21-5fae878de0b4",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "\"Idyllic\" Mormons Choose Wonder - Mike And Michele Seamons Pt. 3 | Ep. 2195",
+   "summary": "In Part Three of Mike and Michele’s story, the couple begins confronting serious concerns about Mormonism as their children struggle with missions, faith, and their place in the church. Mike becomes increasingly concerned about the challenges young Mormons are facing, and struggles to work with church leadership to keep them engaged in their faith.As they discover that the church is not working for their family in the same way anymore, they begin stepping further outside the Mormon community. They explore other Christian traditions and begin to consume media not run by the LDS church, such as ",
+   "audioURL": "https://traffic.megaphone.fm/APO2623569841.mp3",
+   "published": "Mon, 14 Sep 2026 22:31:15 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores struggles with faith and church engagement in Mormonism.",
+   "tradition": "Latter-day Saint"
   },
   {
    "id": "70c7512c-20a0-4d71-8ab2-88516965b3b2",
@@ -118,7 +118,7 @@
    "published": "Thu, 17 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Reflects on Jesus' divinity, healing, and courage in persecution.",
+   "reason": "Focuses on Jesus' divinity, healing, and courage in suffering.",
    "tradition": "Catholic"
   },
   {
@@ -131,7 +131,7 @@
    "published": "Mon, 14 Sep 2026 09:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/71/b9/a2/71b9a281-ef14-3317-3407-317b2c86feda/mza_2951453104086058545.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A journalist reflects on panic attacks and self-regulation, exploring inner life.",
+   "reason": "Explores inner struggle and self-regulation after a panic attack.",
    "tradition": "Secular"
   },
   {
@@ -144,7 +144,7 @@
    "published": "Thu, 17 Sep 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A meditation on voice and heritage with some spiritual reflection.",
+   "reason": "A meditation on voice and heritage with some ethical reflection.",
    "tradition": "Secular"
   },
   {
@@ -157,8 +157,21 @@
    "published": "Thu, 10 Sep 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Features a Catholic cardinal discussing New Testament themes and doctrine.",
+   "reason": "Features a Catholic cardinal discussing traditional doctrine and scripture.",
    "tradition": "Catholic"
+  },
+  {
+   "id": "b001533e-2d42-11f1-801d-4fd67788cc86",
+   "showID": "https://feeds.megaphone.fm/QCD2348265349",
+   "showTitle": "The Why Files: Operation Podcast",
+   "title": "The Basement: Donald Hoffman | Consciousness, Math, and the Case for Letting Go",
+   "summary": "-One thing to pack, five ways to power! Get 10% Off @Ridge with code BASEMENT at https://www.Ridge.com/BASEMENT #Ridgepod\n\n\n\n-Discover how to move your IRA or 401k into physical gold and silver — with no taxes or penalties. Get your free portfolio review and free gold & silver guide from GoldenCrest Metals: visit https://GoldenCrestMetals.com/thewhyfiles or call (888) 949-9172 now.\n\n\n\n-For a limited time, get 50% off for life, free shipping, and 3 free gifts at https://mengotomars.com. #ad\n\n\n\nDonald Hoffman has spent forty years asking one question: are we just machines? He walked away from a ",
+   "audioURL": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD6527245147.mp3",
+   "published": "Mon, 14 Sep 2026 09:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d8/d5/56/d8d5569b-6431-c55a-509c-820b5bd1002b/mza_14117346978676539247.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores consciousness and perception from a scientific and philosophical view.",
+   "tradition": "Secular"
   }
  ],
  "history": {
@@ -278,6 +291,7 @@
   "gid://art19-episode-locator/V0/HGiNnFBV7_BqOJgGk83wNEJgiNwbNoLHqMJ1maRbmqw": "2026-09-17",
   "44391db6-ac6e-11f1-93de-cf69ce46df14": "2026-09-17",
   "prx_192_af25c06e-cf17-40b8-9f17-f41365368e05": "2026-09-17",
-  "d15e8592-5612-4c68-b3c6-640ce0802af5": "2026-09-17"
+  "d15e8592-5612-4c68-b3c6-640ce0802af5": "2026-09-17",
+  "401730b8-c918-43d2-91af-736e9890dff8": "2026-09-17"
  }
 }
