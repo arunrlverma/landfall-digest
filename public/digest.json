@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-18T18:13:07.652750+00:00",
+ "generatedAt": "2026-09-18T21:32:51.001111+00:00",
  "showsScanned": 400,
- "candidates": 51,
+ "candidates": 53,
  "picks": [
   {
    "id": "gid://art19-episode-locator/V0/AFtAo_w5JoT43dYc--26CZbLkFu6v0WEU8n27Gg1LyE",
@@ -13,22 +13,9 @@
    "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/f8ecda4e-118d-4e7c-9c51-00586a9bcc24.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
    "published": "Fri, 18 Sep 2026 16:45:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Investigates reincarnation and consciousness, questioning birth and memory.",
+   "rating": 9,
+   "reason": "Investigates reincarnation and consciousness beyond birth with evidence and inquiry.",
    "tradition": "Interfaith"
-  },
-  {
-   "id": "209a0598-550e-4044-bfec-f33d5616e3a5",
-   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
-   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
-   "title": "Day 261: Ornate Souls (2026)",
-   "summary": "Fr. Mike explains the many parables we hear today in Matthew, including the return of the unclean spirit, and the danger of ornate souls. He emphasizes that when God sweeps the sin out of our souls, we must replace it with virtue, otherwise our souls remain empty without a relationship with God. Today's readings are Matthew 11-13 and Proverbs 19:5-8.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/209a0598-550e-4044-bfec-f33d5616e3a5.mp3",
-   "published": "Fri, 18 Sep 2026 03:15:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores spiritual emptiness and virtue through biblical parables and relationship with God.",
-   "tradition": "Catholic"
   },
   {
    "id": "gid://art19-episode-locator/V0/zV3htiRu2YIMxKVa8otyz48_vKFS_weGYAdZQvIp52U",
@@ -40,8 +27,21 @@
    "published": "Sat, 12 Sep 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses forgiveness, spiritual struggle, and ethical living from a Catholic perspective.",
+   "reason": "Discusses forgiveness, spiritual struggle, and ethical choices from a Catholic perspective.",
    "tradition": "Catholic"
+  },
+  {
+   "id": "coe22.podbean.com/825ea492-9efa-398c-8f5f-78dac311b070",
+   "showID": "https://feed.podbean.com/coe22/feed.xml",
+   "showTitle": "The Church of Eleven22",
+   "title": "Don't Miss The Point - Religion to Redemption - Matthew S6E6",
+   "summary": "What does the Bible really say about the end times, and how should we live knowing Jesus is coming back?\nIn Matthew 24 and 25, Jesus teaches about His return, the signs of the end times and the importance of being ready. While Christians may disagree on the details of how the end times will unfold, we can agree on what matters most: Jesus is coming back, salvation is found in Him alone and the invitation is open right now.\nDon’t get so caught up in predicting when Jesus will return that you miss the point. The question isn’t whether you have every detail figured out. The question is whether yo",
+   "audioURL": "https://mcdn.podbean.com/mf/web/9kqcfir5rv8n26qs/20260913_922_20b906f.mp3",
+   "published": "Mon, 14 Sep 2026 00:24:04 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Considers Christian eschatology and how to live in light of Jesus' return.",
+   "tradition": "Christian"
   },
   {
    "id": "55f666da-b14b-11f1-ab05-6792c6849358",
@@ -53,8 +53,21 @@
    "published": "Tue, 15 Sep 2026 22:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/1f/9c/1a1f9c6d-67fd-0e33-cdf3-4b62617ea9a6/mza_9226157347267917930.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Considers ancient wisdom on human nature amid modern technological challenges.",
+   "reason": "Reflects on ancient wisdom and human meaning amid modern technological challenges.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "209a0598-550e-4044-bfec-f33d5616e3a5",
+   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
+   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
+   "title": "Day 261: Ornate Souls (2026)",
+   "summary": "Fr. Mike explains the many parables we hear today in Matthew, including the return of the unclean spirit, and the danger of ornate souls. He emphasizes that when God sweeps the sin out of our souls, we must replace it with virtue, otherwise our souls remain empty without a relationship with God. Today's readings are Matthew 11-13 and Proverbs 19:5-8.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/209a0598-550e-4044-bfec-f33d5616e3a5.mp3",
+   "published": "Fri, 18 Sep 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores spiritual emptiness and virtue through Christian scripture and parables.",
+   "tradition": "Catholic"
   },
   {
    "id": "gid://art19-episode-locator/V0/xStPjE7c0w9_Y18vqmotLR8iIGNyyNmMGW0kjJBp1fY",
@@ -70,19 +83,6 @@
    "tradition": "Secular"
   },
   {
-   "id": "coe22.podbean.com/825ea492-9efa-398c-8f5f-78dac311b070",
-   "showID": "https://feed.podbean.com/coe22/feed.xml",
-   "showTitle": "The Church of Eleven22",
-   "title": "Don't Miss The Point - Religion to Redemption - Matthew S6E6",
-   "summary": "What does the Bible really say about the end times, and how should we live knowing Jesus is coming back?\nIn Matthew 24 and 25, Jesus teaches about His return, the signs of the end times and the importance of being ready. While Christians may disagree on the details of how the end times will unfold, we can agree on what matters most: Jesus is coming back, salvation is found in Him alone and the invitation is open right now.\nDon’t get so caught up in predicting when Jesus will return that you miss the point. The question isn’t whether you have every detail figured out. The question is whether yo",
-   "audioURL": "https://mcdn.podbean.com/mf/web/9kqcfir5rv8n26qs/20260913_922_20b906f.mp3",
-   "published": "Mon, 14 Sep 2026 00:24:04 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses Christian eschatology and living in light of Jesus' return.",
-   "tradition": "Christian"
-  },
-  {
    "id": "c491245d-1d4a-49ea-b1e6-71e65d96c926",
    "showID": "https://media.rss.com/why-personality-evolves-more-than-people-expect-personality-peek-podcast-1/feed.xml",
    "showTitle": "Peek Inside Podcast",
@@ -96,32 +96,6 @@
    "tradition": "Secular"
   },
   {
-   "id": "09c11245-cd12-4e0f-a3b8-d39905794d04",
-   "showID": "https://feeds.libsyn.com/624445/rss",
-   "showTitle": "Mysterious Radio: Paranormal, UFO & Lore Interviews",
-   "title": "Conquer Your Karma",
-   "summary": "My special guest tonight is Tracee Dunblazier who's here to discuss her book Conquer Your Karmic Relationships: Heal Spiritual Trauma to Open Your Heart and Restore Your Soul.  Your karma got you down? Claim your history. Own your power. Change your life! In this groundbreaking book, Tracee Dunblazier takes an in depth look at your karmic relationships: the spiritual imprints and repetitive patterns that position you in life. The restoration of every soul, and the systems that govern them, get an overhaul! Karma is not punishment and reward; it is the reassurance that we will inevitably experi",
-   "audioURL": "https://traffic.libsyn.com/secure/82194595-4954-465c-b84e-f11a87d040e4/Conquer_Your_Karma_-_NU_-_MR_-_NC.mp3?dest-id=5495700",
-   "published": "Thu, 17 Sep 2026 00:04:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3b/aa/c3/3baac323-1f74-650a-2c04-f35ad21a51e9/mza_7781202281310692386.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses karmic relationships and spiritual trauma with a focus on healing.",
-   "tradition": "Hindu"
-  },
-  {
-   "id": "4b0d901a-239d-4a8f-bb68-f9dabeda7de2",
-   "showID": "https://feeds.libsyn.com/624445/rss",
-   "showTitle": "Mysterious Radio: Paranormal, UFO & Lore Interviews",
-   "title": "Ascension 101: A Guide Book For Your Soul",
-   "summary": "My special guest is author Kimberly Palm who's here to discuss her book Ascension 101: A Roadmap for Your Soul about humanity's current journey into a more loving reality. Ascension 101: A Roadmap for Your Soul, is a guide book for all spiritual seekers to assist them on their spiritual journey and help them navigate through the ascension process that we and Mother Earth are all going through now as a collective. This book contains spiritual, esoteric and metaphysical information that was mostly channeled through the author from Yeshua (Christ). This book presents the reader with a roadmap and",
-   "audioURL": "https://traffic.libsyn.com/secure/82194595-4954-465c-b84e-f11a87d040e4/Ascension_101_-_A_Guide_Book_For_Your_Soul_-_NF2-_MR-NC.mp3?dest-id=5495700",
-   "published": "Wed, 16 Sep 2026 22:38:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3b/aa/c3/3baac323-1f74-650a-2c04-f35ad21a51e9/mza_7781202281310692386.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Offers metaphysical guidance on spiritual ascension and collective transformation.",
-   "tradition": "New Age"
-  },
-  {
    "id": "Buzzsprout-19817743",
    "showID": "https://rss.buzzsprout.com/2547586.rss",
    "showTitle": "We!",
@@ -131,7 +105,7 @@
    "published": "Thu, 17 Sep 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores spiritual growth and breaking free from expectations, somewhat contemplative.",
+   "reason": "Explores personal growth and breaking free from expectations, touching on spiritual discovery.",
    "tradition": "Secular"
   }
  ],
