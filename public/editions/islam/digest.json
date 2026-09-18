@@ -5,23 +5,10 @@
   "Muslim",
   "Interfaith"
  ],
- "generatedAt": "2026-09-17T14:29:57.532433+00:00",
+ "generatedAt": "2026-09-18T13:53:16.387493+00:00",
  "showsScanned": 1200,
- "candidates": 8,
+ "candidates": 9,
  "picks": [
-  {
-   "id": "https://www.qalaminstitute.org/?p=21055",
-   "showID": "http://feeds.feedburner.com/qalaminstitute/podcast",
-   "showTitle": "Qalam Institute Podcast",
-   "title": "The Tafsīr Podcast: EP63 – Surah Al-Baqarah (Ayah 255 Ayatul-Kursi)",
-   "summary": "The Tafsīr Podcast: EP63 – Surah Al-Baqarah (Ayah 255 Ayatul-Kursi) 100% of your donations today goes towards the means of providing accessible Islamic knowledge to people around the world: supportqalam.com. Like us on Facebook: facebook.com/qalaminstitute Follow us on Twitter: twitter.com/qalaminstitute Follow us on Instagram: instagram.com/qalaminstitute Subscribe on Youtube: youtube.com/user/qalaminstitute\nThe post The Tafsīr Podcast: EP63 – Surah Al-Baqarah (Ayah 255 Ayatul-Kursi) appeared first on Qalam Institute.",
-   "audioURL": "https://media.blubrry.com/qalam_institute/media.blubrry.com/qalam_institute/ins.blubrry.com/qalam_institute/baqarah_120.mp3",
-   "published": "Wed, 16 Sep 2026 20:01:28 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/1a/af/07/1aaf074c-dbe6-55c8-f0c8-5ee5a76c4b37/mza_7246222557614155479.png/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Detailed tafsir of Ayatul-Kursi, a key Quranic verse on God's attributes and protection.",
-   "tradition": "Muslim"
-  },
   {
    "id": "c5851d77-0395-47be-8952-510421a90b1e",
    "showID": "https://anchor.fm/s/10804d43c/podcast/rss",
@@ -32,7 +19,7 @@
    "published": "Fri, 11 Sep 2026 09:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/0b/7c/ea0b7cee-add6-1a85-d2b0-54413306d6e1/mza_11881519252368760937.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Teaches ethical conduct and truth verification from Quranic verses relevant to modern challenges.",
+   "reason": "Teaches ethical discipline and truth verification from Quranic verses for believers.",
    "tradition": "Muslim"
   },
   {
@@ -45,7 +32,7 @@
    "published": "Mon, 14 Sep 2026 19:48:27 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/0b/7c/ea0b7cee-add6-1a85-d2b0-54413306d6e1/mza_11881519252368760937.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Reflects on faith, truth, and divine awareness based on Surah Qaf's teachings.",
+   "reason": "Reflects on faith, truth, and divine awareness from Surah Qaf's teachings.",
    "tradition": "Muslim"
   },
   {
@@ -58,7 +45,7 @@
    "published": "2026-08-28",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bf/cf/bd/bfcfbde1-76e7-d894-fecd-9220b59716e6/mza_5234589999432850935.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores the meaning of divine curse and blessings amid life's hardships in Quranic context.",
+   "reason": "Explores divine curse and blessings through Quranic verse with reflective tafsir.",
    "tradition": "Muslim"
   },
   {
@@ -71,7 +58,20 @@
    "published": "Sat, 12 Sep 2026 12:00:00 -0500",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e6/e1/f6/e6e1f60f-84b8-769a-6732-57c6f5e4b4db/mza_11724770298442534277.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses intention (niyyah) as foundational for ethical decisions in Muslim life.",
+   "reason": "Discusses intention (niyyah) as foundation for ethical decisions in Muslim life.",
+   "tradition": "Muslim"
+  },
+  {
+   "id": "https://www.qalaminstitute.org/?p=21055",
+   "showID": "http://feeds.feedburner.com/qalaminstitute/podcast",
+   "showTitle": "Qalam Institute Podcast",
+   "title": "The Tafsīr Podcast: EP63 – Surah Al-Baqarah (Ayah 255 Ayatul-Kursi)",
+   "summary": "The Tafsīr Podcast: EP63 – Surah Al-Baqarah (Ayah 255 Ayatul-Kursi) 100% of your donations today goes towards the means of providing accessible Islamic knowledge to people around the world: supportqalam.com. Like us on Facebook: facebook.com/qalaminstitute Follow us on Twitter: twitter.com/qalaminstitute Follow us on Instagram: instagram.com/qalaminstitute Subscribe on Youtube: youtube.com/user/qalaminstitute\nThe post The Tafsīr Podcast: EP63 – Surah Al-Baqarah (Ayah 255 Ayatul-Kursi) appeared first on Qalam Institute.",
+   "audioURL": "https://media.blubrry.com/qalam_institute/media.blubrry.com/qalam_institute/ins.blubrry.com/qalam_institute/baqarah_120.mp3",
+   "published": "Wed, 16 Sep 2026 20:01:28 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/1a/af/07/1aaf074c-dbe6-55c8-f0c8-5ee5a76c4b37/mza_7246222557614155479.png/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Tafsir of Ayatul-Kursi focusing on divine attributes and spiritual significance.",
    "tradition": "Muslim"
   },
   {
@@ -84,25 +84,22 @@
    "published": "Sun, 13 Sep 2026 13:20:25 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/06/ce/12/06ce126c-5755-ac4d-c7b0-b49f4ab73b68/mza_17685088730904696982.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Clarifies misunderstood hadiths about women, marriage, and related ethics.",
+   "reason": "Clarifies misunderstood hadiths about women, addressing ethics and social norms.",
    "tradition": "Muslim"
   }
  ],
  "history": {
   "03a50130-8553-4c8d-a505-65ccf1453c5c": "2026-09-09",
   "5654c696-106e-4e48-aa2a-6900553d52b6": "2026-09-04",
-  "6528faff-6596-4399-8537-d292f46e9547": "2026-09-03",
   "b4ce4029-9fd6-4d83-a312-9600cf89b740": "2026-09-08",
   "Buzzsprout-19736685": "2026-09-09",
   "739bf7fa-eecf-4f2f-a02b-e26938d2a253": "2026-09-05",
   "Buzzsprout-19717688": "2026-09-05",
-  "http://www.qurangarden.com/audio/Session_630_An_Nisaa_Verse_47_c.mp3": "2026-09-17",
+  "http://www.qurangarden.com/audio/Session_630_An_Nisaa_Verse_47_c.mp3": "2026-09-18",
   "e369847f-88b1-4d10-9c2b-c2befab054e5": "2026-09-05",
-  "Buzzsprout-19690544": "2026-09-03",
   "https://www.qalaminstitute.org/?p=21036": "2026-09-06",
   "6a97ecd31d1d1a8a9d8fedb8": "2026-09-09",
   "6a994604be98057961ec9bb1": "2026-09-10",
-  "https://mhmic.org/?p=18433": "2026-09-03",
   "8ae2f352-7d59-4c52-9a17-feea77fb0928": "2026-09-07",
   "a1b397a5-dbad-425c-a0df-13f890425810": "2026-09-06",
   "ee6cae7b-52ab-4d62-a580-1af367d161a1": "2026-09-06",
@@ -115,17 +112,17 @@
   "6a99453ee7a9fe2478507667": "2026-09-10",
   "d83f8a22-166d-405f-b84c-1886073283c4": "2026-09-10",
   "d8df4c88-b9c5-415d-ba3f-1e46288bd389": "2026-09-10",
-  "c5851d77-0395-47be-8952-510421a90b1e": "2026-09-17",
+  "c5851d77-0395-47be-8952-510421a90b1e": "2026-09-18",
   "630cb835439e2f5d0b9c7ee0e31033dd5d3ac0f7": "2026-09-14",
   "Buzzsprout-19690541": "2026-09-14",
-  "Buzzsprout-19794366": "2026-09-17",
+  "Buzzsprout-19794366": "2026-09-18",
   "https://www.qalaminstitute.org/?p=21053": "2026-09-13",
   "https://masjidds.org/?p=30682": "2026-09-13",
   "yt:video:bWJKBNPDUW0": "2026-09-16",
   "86d183b5-b3c8-4069-9609-1cbeece5fa86": "2026-09-14",
   "957188cb-7a3e-43e6-a8fb-48a4393f42e7": "2026-09-14",
-  "ca50ad2f-f279-488b-89f6-299df9862e4b": "2026-09-17",
-  "73e4c5e2-00d6-4b76-aab1-ae9c7baac3b4": "2026-09-17",
-  "https://www.qalaminstitute.org/?p=21055": "2026-09-17"
+  "ca50ad2f-f279-488b-89f6-299df9862e4b": "2026-09-18",
+  "73e4c5e2-00d6-4b76-aab1-ae9c7baac3b4": "2026-09-18",
+  "https://www.qalaminstitute.org/?p=21055": "2026-09-18"
  }
 }
