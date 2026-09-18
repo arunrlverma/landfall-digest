@@ -1,21 +1,47 @@
 {
  "version": 1,
- "generatedAt": "2026-09-18T00:09:00.802654+00:00",
+ "generatedAt": "2026-09-18T05:42:23.504552+00:00",
  "showsScanned": 400,
- "candidates": 54,
+ "candidates": 52,
  "picks": [
   {
-   "id": "c491245d-1d4a-49ea-b1e6-71e65d96c926",
-   "showID": "https://media.rss.com/why-personality-evolves-more-than-people-expect-personality-peek-podcast-1/feed.xml",
-   "showTitle": "Peek Inside Podcast",
-   "title": "Science, Intuition and the Hidden Energy Around Us | Arky Jones & Nicole Majik",
-   "summary": "Hey! I'd love to hear your thoughts, send me a voice note.Can intuition warn us before the conscious mind understands what is happening?In this episode of Peek Inside, Arky Jones talks with Nicole Majik about the space between science, instinct, consciousness, and personal experience. Nicole reflects on her years as a chemist, the mercury poisoning that nearly cost her life, and the unusual intuitive experiences that shaped how she now understands people, energy, and awareness.The conversation moves into auras, gut feelings, astral experiences, emotional energy, spiritual perception, and those",
-   "audioURL": "https://content.rss.com/episodes/390905/3149225/why-personality-evolves-more-than-people-expect-personality-peek-podcast-1/2026_09_14_09_27_51_818b1b7b-961e-46fd-a9fa-22d28ae6d8f3.mp3",
-   "published": "Mon, 14 Sep 2026 09:39:33 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/23/ac/c8/23acc823-296a-e415-a71e-d8bf45dbe3d4/mza_7023238032917865563.jpg/600x600bb.jpg",
+   "id": "8bc9001c-ace9-11f1-8456-cf79c5ae6c4e",
+   "showID": "https://feeds.megaphone.fm/thispastweekend",
+   "showTitle": "This Past Weekend w/ Theo Von",
+   "title": "#682 - Bishop Robert Barron",
+   "summary": "Bishop Robert Barron is a theologian, author and Catholic Bishop for the Diocese of Winona–Rochester in Minnesota. He also started “Word on Fire” ministries and podcast of the same name.&nbsp;\n\nBishop Barron joins Theo to talk about what the Catholic faith looks like in today’s culture, finding purpose in an increasingly artificial world, and the connection between faith and love.&nbsp;\n\nBishop Robert Barron: https://www.instagram.com/bishopbarron/&nbsp;\n\n-------------------------------------------------\n\nTour Dates! https://theovon.com/tour\n\nNew Merch: https://www.theovonstore.com\n\n----------",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER9922854281.mp3",
+   "published": "Thu, 10 Sep 2026 07:44:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/f6/5a/9cf65abb-f8db-fb7b-984f-b4276a1e8c85/mza_2107148709996282347.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A Catholic bishop discusses faith, purpose, and love in modern culture with depth.",
+   "tradition": "Catholic"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/zV3htiRu2YIMxKVa8otyz48_vKFS_weGYAdZQvIp52U",
+   "showID": "https://rss.art19.com/the-exorcist-files",
+   "showTitle": "The Exorcist Files",
+   "title": "The Nature of Demons, Justice, and Forgiving Others With Fr. Gregory Pine",
+   "summary": "In this episode of The Exorcist Files, host Ryan Bethea and Father Carlos Martins share key updates on Season 3—including an October 5th premiere date, an exclusive sneak peek audio clip, and a personal prayer request.Then, Dominican friar Father Gregory Pine joins the show to tackle listener questions on spiritual warfare. They discuss how demons try to derail vocations, overcoming regret and envy, what Christ meant by \"turning the other cheek,\" and how to choose forgiveness in the face of deep betrayal.Order Father's Book- FatherCarlosMartins.comThank you to our Sponsorshttps://Exodus90.com/",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/p687916/rss.art19.com/episodes/5b842953-1efd-4747-8903-75cef2467c7e.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Sat, 12 Sep 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores intuition, consciousness, and energy bridging science and experience.",
-   "tradition": "Secular"
+   "reason": "Discusses forgiveness, spiritual struggle, and ethical choices from a Catholic perspective.",
+   "tradition": "Catholic"
+  },
+  {
+   "id": "55f666da-b14b-11f1-ab05-6792c6849358",
+   "showID": "https://feeds.megaphone.fm/RSV1597324942",
+   "showTitle": "The Tucker Carlson Show",
+   "title": "Sean Stone’s 10 Things to Learn: Ancient Wisdom for the Modern Soul",
+   "summary": "10 Things to Learn: Ancient Wisdom for the Modern Soul explores what it means to remain fully human in an age increasingly defined by technology, optimization, and artificial intelligence. While modern civilization has expanded humanity’s power and capability, it has done little to eliminate suffering, grief, fear, or the search for meaning. This book argues that life’s deepest questions cannot be answered through efficiency or control. Instead, genuine growth emerges through a series of essential initiations—moments of collapse, surrender, loss, rest, and devotion that shape the soul. Blendin",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/384D27/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/traffic.megaphone.fm/TCN1223366077.mp3",
+   "published": "Tue, 15 Sep 2026 22:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/1f/9c/1a1f9c6d-67fd-0e33-cdf3-4b62617ea9a6/mza_9226157347267917930.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Considers ancient wisdom's relevance to modern human meaning and suffering.",
+   "tradition": "Mythic"
   },
   {
    "id": "Buzzsprout-19817743",
@@ -40,8 +66,21 @@
    "published": "Mon, 14 Sep 2026 00:24:04 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Talks about Christian eschatology and living with faith in Jesus' return.",
+   "reason": "Discusses Christian eschatology and living with faith in Jesus' return.",
    "tradition": "Christian"
+  },
+  {
+   "id": "c491245d-1d4a-49ea-b1e6-71e65d96c926",
+   "showID": "https://media.rss.com/why-personality-evolves-more-than-people-expect-personality-peek-podcast-1/feed.xml",
+   "showTitle": "Peek Inside Podcast",
+   "title": "Science, Intuition and the Hidden Energy Around Us | Arky Jones & Nicole Majik",
+   "summary": "Hey! I'd love to hear your thoughts, send me a voice note.Can intuition warn us before the conscious mind understands what is happening?In this episode of Peek Inside, Arky Jones talks with Nicole Majik about the space between science, instinct, consciousness, and personal experience. Nicole reflects on her years as a chemist, the mercury poisoning that nearly cost her life, and the unusual intuitive experiences that shaped how she now understands people, energy, and awareness.The conversation moves into auras, gut feelings, astral experiences, emotional energy, spiritual perception, and those",
+   "audioURL": "https://content.rss.com/episodes/390905/3149225/why-personality-evolves-more-than-people-expect-personality-peek-podcast-1/2026_09_14_09_27_51_818b1b7b-961e-46fd-a9fa-22d28ae6d8f3.mp3",
+   "published": "Mon, 14 Sep 2026 09:39:33 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/23/ac/c8/23acc823-296a-e415-a71e-d8bf45dbe3d4/mza_7023238032917865563.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores intuition and consciousness blending science and personal experience.",
+   "tradition": "Secular"
   },
   {
    "id": "a2dbc211-39a1-4226-88ff-17fe9860101c",
@@ -53,47 +92,8 @@
    "published": "Sun, 13 Sep 2026 00:00:01 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores transformation through faith and life roles, somewhat thematic but not deeply philosophical.",
+   "reason": "Uses biblical story to discuss transformation and ethics in manhood.",
    "tradition": "Christian"
-  },
-  {
-   "id": "55f666da-b14b-11f1-ab05-6792c6849358",
-   "showID": "https://feeds.megaphone.fm/RSV1597324942",
-   "showTitle": "The Tucker Carlson Show",
-   "title": "Sean Stone’s 10 Things to Learn: Ancient Wisdom for the Modern Soul",
-   "summary": "10 Things to Learn: Ancient Wisdom for the Modern Soul explores what it means to remain fully human in an age increasingly defined by technology, optimization, and artificial intelligence. While modern civilization has expanded humanity’s power and capability, it has done little to eliminate suffering, grief, fear, or the search for meaning. This book argues that life’s deepest questions cannot be answered through efficiency or control. Instead, genuine growth emerges through a series of essential initiations—moments of collapse, surrender, loss, rest, and devotion that shape the soul. Blendin",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/384D27/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/traffic.megaphone.fm/TCN1223366077.mp3",
-   "published": "Tue, 15 Sep 2026 22:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/1f/9c/1a1f9c6d-67fd-0e33-cdf3-4b62617ea9a6/mza_9226157347267917930.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Considers ancient wisdom addressing meaning and suffering in modern life.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "8bc9001c-ace9-11f1-8456-cf79c5ae6c4e",
-   "showID": "https://feeds.megaphone.fm/thispastweekend",
-   "showTitle": "This Past Weekend w/ Theo Von",
-   "title": "#682 - Bishop Robert Barron",
-   "summary": "Bishop Robert Barron is a theologian, author and Catholic Bishop for the Diocese of Winona–Rochester in Minnesota. He also started “Word on Fire” ministries and podcast of the same name.&nbsp;\n\nBishop Barron joins Theo to talk about what the Catholic faith looks like in today’s culture, finding purpose in an increasingly artificial world, and the connection between faith and love.&nbsp;\n\nBishop Robert Barron: https://www.instagram.com/bishopbarron/&nbsp;\n\n-------------------------------------------------\n\nTour Dates! https://theovon.com/tour\n\nNew Merch: https://www.theovonstore.com\n\n----------",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/mgln.ai/e/94/claritaspod.com/measure/verifi.podscribe.com/rss/p/pfx.vpixl.com/j0JIg/arttrk.com/p/MMN23/traffic.megaphone.fm/ROOSTER9922854281.mp3",
-   "published": "Thu, 10 Sep 2026 07:44:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/f6/5a/9cf65abb-f8db-fb7b-984f-b4276a1e8c85/mza_2107148709996282347.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Bishop Barron discusses faith, purpose, and love in a modern cultural context.",
-   "tradition": "Catholic"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/zV3htiRu2YIMxKVa8otyz48_vKFS_weGYAdZQvIp52U",
-   "showID": "https://rss.art19.com/the-exorcist-files",
-   "showTitle": "The Exorcist Files",
-   "title": "The Nature of Demons, Justice, and Forgiving Others With Fr. Gregory Pine",
-   "summary": "In this episode of The Exorcist Files, host Ryan Bethea and Father Carlos Martins share key updates on Season 3—including an October 5th premiere date, an exclusive sneak peek audio clip, and a personal prayer request.Then, Dominican friar Father Gregory Pine joins the show to tackle listener questions on spiritual warfare. They discuss how demons try to derail vocations, overcoming regret and envy, what Christ meant by \"turning the other cheek,\" and how to choose forgiveness in the face of deep betrayal.Order Father's Book- FatherCarlosMartins.comThank you to our Sponsorshttps://Exodus90.com/",
-   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/p687916/rss.art19.com/episodes/5b842953-1efd-4747-8903-75cef2467c7e.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Sat, 12 Sep 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Discusses forgiveness, spiritual struggle, and ethics from a Catholic perspective.",
-   "tradition": "Catholic"
   },
   {
    "id": "7171890b-730d-4ad9-9e22-c20b2a50a383",
@@ -104,9 +104,22 @@
    "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/7171890b-730d-4ad9-9e22-c20b2a50a383.mp3",
    "published": "Fri, 11 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Meditation on biblical prophecy and repentance with spiritual reflection.",
-   "tradition": "Catholic"
+   "rating": 6,
+   "reason": "Biblical readings with reflections on judgment and repentance.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "baf8929a-0239-412c-9583-a4c948842677",
+   "showID": "https://feeds.npr.org/381444908/podcast.xml",
+   "showTitle": "Fresh Air",
+   "title": "Actor Danielle Brooks has blessings to count",
+   "summary": "Brooks grew up in a church where her mom was a minister and her dad a deacon. She went on to play Taystee in the Netflix series Orange Is the New Black. Now she co-stars in the indie film If I Go Will They Miss Me? Brooks spoke with Terry Gross about singing in the church, playing gospel icon Mahalia Jackson, and why she hesitated to take her breakout role in Orange.Subscribe to our free weekly newsletter Follow us on Instagram Subscribe to our YouTube channel Check out the Fresh Air ArchivesSee pcm.adswizz.com for information about our collection and use of personal data for sponsorship and t",
+   "audioURL": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/880ce497-5cf9-4121-a0cf-649b1428abc0/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&amp;awEpisodeId=880ce497-5cf9-4121-a0cf-649b1428abc0&amp;feed=jBsBZBHh&amp;t=podcast&amp;e=nx-s1-5969911&amp;p=381444908&amp;d=2722&amp;size=43566898",
+   "published": "Tue, 15 Sep 2026 17:58:18 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Actress reflects on faith background and spiritual influences in her life.",
+   "tradition": "Christian"
   }
  ],
  "history": {
@@ -221,6 +234,7 @@
   "prx_192_af25c06e-cf17-40b8-9f17-f41365368e05": "2026-09-17",
   "d15e8592-5612-4c68-b3c6-640ce0802af5": "2026-09-17",
   "401730b8-c918-43d2-91af-736e9890dff8": "2026-09-17",
-  "Buzzsprout-19817743": "2026-09-18"
+  "Buzzsprout-19817743": "2026-09-18",
+  "baf8929a-0239-412c-9583-a4c948842677": "2026-09-18"
  }
 }
