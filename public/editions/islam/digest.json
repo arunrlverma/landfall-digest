@@ -5,21 +5,21 @@
   "Muslim",
   "Interfaith"
  ],
- "generatedAt": "2026-09-18T13:53:16.387493+00:00",
+ "generatedAt": "2026-09-19T13:26:57.623317+00:00",
  "showsScanned": 1200,
  "candidates": 9,
  "picks": [
   {
-   "id": "c5851d77-0395-47be-8952-510421a90b1e",
+   "id": "204e0ad6-6635-428d-8da6-261df8daabe4",
    "showID": "https://anchor.fm/s/10804d43c/podcast/rss",
    "showTitle": "Quran in a Year+ (with Imam Saif Morad)",
-   "title": "Day 344- Before You Speak, Share, or Take Sides | Hujurat 1-10",
-   "summary": "In verses 1–10 of Surah al-Ḥujurāt, Allah teaches us the discipline of a believer: never place our opinions ahead of Allah and His Messenger ﷺ, never allow unverified information to shape our judgment, and never let conflict destroy justice or brotherhood. In an age of hadith rejection, AI-generated misinformation, partisan news, and algorithmic echo chambers, these verses teach us how to submit to authentic guidance, verify before sharing, and remain just even when our own side is wrong.",
-   "audioURL": "https://anchor.fm/s/10804d43c/podcast/play/125546319/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2F3dfac176-ad05-9b18-4d1f-159b9fabe17a.mp3",
-   "published": "Fri, 11 Sep 2026 09:00:00 GMT",
+   "title": "Day 347- How to Truly Benefit From the Qur’an | Qaf 27-45, Dhariyat 1-6",
+   "summary": "What kind of heart is ready to benefit from the Qur’an?In today’s episode, we reflect on the qualities Allah praises at the end of Surah Q: the person who constantly returns to Allah, guards His limits, fears Him in private, and comes to Him with a heart that keeps turning back.We also explore why simply hearing the Qur’an is not the same as being transformed by it. Ibn al-Qayyim explains that guidance requires a living heart, attentive listening, and true presence.And when growth feels slow, these verses remind us that lasting change often develops gradually. Consistency does not mean never s",
+   "audioURL": "https://anchor.fm/s/10804d43c/podcast/play/125773797/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-15%2F56107656-2c04-acc2-4402-e6b8dde1f109.mp3",
+   "published": "Tue, 15 Sep 2026 15:07:36 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/0b/7c/ea0b7cee-add6-1a85-d2b0-54413306d6e1/mza_11881519252368760937.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Teaches ethical discipline and truth verification from Quranic verses for believers.",
+   "reason": "Examines how to truly benefit from Quran through heart, presence, and spiritual transformation.",
    "tradition": "Muslim"
   },
   {
@@ -32,7 +32,7 @@
    "published": "Mon, 14 Sep 2026 19:48:27 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/0b/7c/ea0b7cee-add6-1a85-d2b0-54413306d6e1/mza_11881519252368760937.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Reflects on faith, truth, and divine awareness from Surah Qaf's teachings.",
+   "reason": "Reflects on faith, truth, divine awareness, and living with clarity and mindfulness of Allah.",
    "tradition": "Muslim"
   },
   {
@@ -45,7 +45,7 @@
    "published": "2026-08-28",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bf/cf/bd/bfcfbde1-76e7-d894-fecd-9220b59716e6/mza_5234589999432850935.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores divine curse and blessings through Quranic verse with reflective tafsir.",
+   "reason": "Explores divine curse and blessings with reflection on life's difficulties and Quranic meanings.",
    "tradition": "Muslim"
   },
   {
@@ -58,7 +58,7 @@
    "published": "Sat, 12 Sep 2026 12:00:00 -0500",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e6/e1/f6/e6e1f60f-84b8-769a-6732-57c6f5e4b4db/mza_11724770298442534277.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses intention (niyyah) as foundation for ethical decisions in Muslim life.",
+   "reason": "Discusses intention as foundation for ethical and spiritual decisions in a Muslim's life.",
    "tradition": "Muslim"
   },
   {
@@ -71,7 +71,7 @@
    "published": "Wed, 16 Sep 2026 20:01:28 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/1a/af/07/1aaf074c-dbe6-55c8-f0c8-5ee5a76c4b37/mza_7246222557614155479.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "Tafsir of Ayatul-Kursi focusing on divine attributes and spiritual significance.",
+   "reason": "Tafsir of Ayatul-Kursi focusing on a key Quranic verse with spiritual and theological depth.",
    "tradition": "Muslim"
   },
   {
@@ -84,18 +84,17 @@
    "published": "Sun, 13 Sep 2026 13:20:25 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/06/ce/12/06ce126c-5755-ac4d-c7b0-b49f4ab73b68/mza_17685088730904696982.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Clarifies misunderstood hadiths about women, addressing ethics and social norms.",
+   "reason": "Clarifies misunderstood hadiths about women, addressing ethical and social questions in Islam.",
    "tradition": "Muslim"
   }
  ],
  "history": {
   "03a50130-8553-4c8d-a505-65ccf1453c5c": "2026-09-09",
-  "5654c696-106e-4e48-aa2a-6900553d52b6": "2026-09-04",
   "b4ce4029-9fd6-4d83-a312-9600cf89b740": "2026-09-08",
   "Buzzsprout-19736685": "2026-09-09",
   "739bf7fa-eecf-4f2f-a02b-e26938d2a253": "2026-09-05",
   "Buzzsprout-19717688": "2026-09-05",
-  "http://www.qurangarden.com/audio/Session_630_An_Nisaa_Verse_47_c.mp3": "2026-09-18",
+  "http://www.qurangarden.com/audio/Session_630_An_Nisaa_Verse_47_c.mp3": "2026-09-19",
   "e369847f-88b1-4d10-9c2b-c2befab054e5": "2026-09-05",
   "https://www.qalaminstitute.org/?p=21036": "2026-09-06",
   "6a97ecd31d1d1a8a9d8fedb8": "2026-09-09",
@@ -115,14 +114,15 @@
   "c5851d77-0395-47be-8952-510421a90b1e": "2026-09-18",
   "630cb835439e2f5d0b9c7ee0e31033dd5d3ac0f7": "2026-09-14",
   "Buzzsprout-19690541": "2026-09-14",
-  "Buzzsprout-19794366": "2026-09-18",
+  "Buzzsprout-19794366": "2026-09-19",
   "https://www.qalaminstitute.org/?p=21053": "2026-09-13",
   "https://masjidds.org/?p=30682": "2026-09-13",
   "yt:video:bWJKBNPDUW0": "2026-09-16",
   "86d183b5-b3c8-4069-9609-1cbeece5fa86": "2026-09-14",
   "957188cb-7a3e-43e6-a8fb-48a4393f42e7": "2026-09-14",
-  "ca50ad2f-f279-488b-89f6-299df9862e4b": "2026-09-18",
-  "73e4c5e2-00d6-4b76-aab1-ae9c7baac3b4": "2026-09-18",
-  "https://www.qalaminstitute.org/?p=21055": "2026-09-18"
+  "ca50ad2f-f279-488b-89f6-299df9862e4b": "2026-09-19",
+  "73e4c5e2-00d6-4b76-aab1-ae9c7baac3b4": "2026-09-19",
+  "https://www.qalaminstitute.org/?p=21055": "2026-09-19",
+  "204e0ad6-6635-428d-8da6-261df8daabe4": "2026-09-19"
  }
 }
