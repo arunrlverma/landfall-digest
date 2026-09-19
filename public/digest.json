@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-19T20:21:11.663063+00:00",
+ "generatedAt": "2026-09-19T22:48:29.890419+00:00",
  "showsScanned": 400,
  "candidates": 49,
  "picks": [
@@ -14,7 +14,7 @@
    "published": "Wed, 16 Sep 2026 09:30:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/c9/5d/66c95da6-3ed6-20fc-7a54-8fd6cdf3c237/mza_81406979434027984.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A neuropsychoanalyst deeply explores the nature of self and consciousness.",
+   "reason": "A neuropsychoanalyst explores the nature of self and consciousness deeply.",
    "tradition": "Secular"
   },
   {
@@ -27,21 +27,8 @@
    "published": "Wed, 16 Sep 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Offers practical mindfulness tools to handle emotions and transcend negative self-narratives.",
+   "reason": "Mindfulness teacher offers practical tools for handling suffering and changing mental habits.",
    "tradition": "Secular"
-  },
-  {
-   "id": "2b9684dd-e365-403b-94e3-b4c700a1acdf",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
-   "showTitle": "The Best of Coast to Coast AM",
-   "title": "Past Life Regressions - Best of Coast to Coast AM - 9/15/26",
-   "summary": "George Noory and author Regan Forston explore his research into reincarnation and past lives, his work helping clients conquer obstacles by discovering they have chosen their current lifetimes, as well as overcoming the grief of the death of a loved one.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/2b9684dd-e365-403b-94e3-b4c700a1acdf/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
-   "published": "Wed, 16 Sep 2026 09:56:07 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores reincarnation and grief, touching on mortality and consciousness.",
-   "tradition": "Interfaith"
   },
   {
    "id": "d955fd23-74fa-4dbd-9ec0-cd1ac0262f5c",
@@ -53,7 +40,7 @@
    "published": "Tue, 15 Sep 2026 15:32:03 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Community and healing after faith crisis in high-demand religions.",
+   "reason": "Focus on healing and growth after religious faith crisis.",
    "tradition": "Latter-day Saint"
   },
   {
@@ -66,20 +53,7 @@
    "published": "Wed, 16 Sep 2026 13:00:44 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A Catholic explanation of hell that seriously considers human choice and separation from God.",
-   "tradition": "Catholic"
-  },
-  {
-   "id": "9216412f-def4-4ab4-9a8d-a710fce9d70e",
-   "showID": "https://anchor.fm/s/101bcf8e8/podcast/rss",
-   "showTitle": "The Lila Rose Show",
-   "title": "E351: Modern Therapy Makes You Worse Off (But There's a Solution) w/Dr Greg Bottaro | Lila Rose Show",
-   "summary": "Dr Greg Bottaro is convinced that mental, spiritual, and emotional health are all attainable, but not through secular therapy OR mainstream spiritual advice on the internet. Rather, he believes the key comes from a book written in 1960, and this book holds the answer that every Christian (and human!) needs to hear. Dr Greg's Books: https://link.amazon/B00b0NHt9Dr Greg's website: https://catholicpsych.com/NEW: Check out our Merch store! https://shop.lilaroseshow.com/Join our new Patreon community! https://patreon.com/lilaroseshow - We'll have BTS footage, ad-free episodes, and early access to o",
-   "audioURL": "https://traffic.megaphone.fm/APO5380835036.mp3",
-   "published": "Tue, 15 Sep 2026 09:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/2d/1c/bb2d1cb2-4c61-0e3d-039e-b0a474e58c51/mza_2950270099588349078.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A Catholic psychologist critiques modern therapy and offers spiritual solutions.",
+   "reason": "A Catholic explanation of hell focusing on free will and separation from God.",
    "tradition": "Catholic"
   },
   {
@@ -92,8 +66,21 @@
    "published": "Wed, 16 Sep 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal life lessons with some spiritual practices but mostly life story.",
+   "reason": "Personal life lessons and spiritual practices but more biographical than contemplative.",
    "tradition": "Secular"
+  },
+  {
+   "id": "2b9684dd-e365-403b-94e3-b4c700a1acdf",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "Past Life Regressions - Best of Coast to Coast AM - 9/15/26",
+   "summary": "George Noory and author Regan Forston explore his research into reincarnation and past lives, his work helping clients conquer obstacles by discovering they have chosen their current lifetimes, as well as overcoming the grief of the death of a loved one.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/2b9684dd-e365-403b-94e3-b4c700a1acdf/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Wed, 16 Sep 2026 09:56:07 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores reincarnation and grief, touching on mortality and consciousness.",
+   "tradition": "Interfaith"
   },
   {
    "id": "5ae6963c-6e1b-46f9-9624-b4c6014fe1a2",
@@ -105,8 +92,21 @@
    "published": "Tue, 15 Sep 2026 21:26:54 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Encouragement to choose faith boldly, but more exhortation than deep reflection.",
+   "reason": "Encouragement to choose faith with strength, more devotional than philosophical.",
    "tradition": "Latter-day Saint"
+  },
+  {
+   "id": "9216412f-def4-4ab4-9a8d-a710fce9d70e",
+   "showID": "https://anchor.fm/s/101bcf8e8/podcast/rss",
+   "showTitle": "The Lila Rose Show",
+   "title": "E351: Modern Therapy Makes You Worse Off (But There's a Solution) w/Dr Greg Bottaro | Lila Rose Show",
+   "summary": "Dr Greg Bottaro is convinced that mental, spiritual, and emotional health are all attainable, but not through secular therapy OR mainstream spiritual advice on the internet. Rather, he believes the key comes from a book written in 1960, and this book holds the answer that every Christian (and human!) needs to hear. Dr Greg's Books: https://link.amazon/B00b0NHt9Dr Greg's website: https://catholicpsych.com/NEW: Check out our Merch store! https://shop.lilaroseshow.com/Join our new Patreon community! https://patreon.com/lilaroseshow - We'll have BTS footage, ad-free episodes, and early access to o",
+   "audioURL": "https://traffic.megaphone.fm/APO5380835036.mp3",
+   "published": "Tue, 15 Sep 2026 09:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/2d/1c/bb2d1cb2-4c61-0e3d-039e-b0a474e58c51/mza_2950270099588349078.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "A Christian psychologist critiques modern therapy and offers spiritual solutions.",
+   "tradition": "Catholic"
   }
  ],
  "history": {
