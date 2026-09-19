@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-19T14:15:20.399832+00:00",
+ "generatedAt": "2026-09-19T17:52:58.508807+00:00",
  "showsScanned": 400,
- "candidates": 52,
+ "candidates": 53,
  "picks": [
   {
    "id": "gid://art19-episode-locator/V0/1g6QJcMEi5iVQ37fRzJW7gsc5Sg8od6T4mRfEnWkpxQ",
@@ -14,7 +14,7 @@
    "published": "Wed, 16 Sep 2026 09:30:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/c9/5d/66c95da6-3ed6-20fc-7a54-8fd6cdf3c237/mza_81406979434027984.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A neuropsychoanalyst deeply examines selfhood and consciousness from brain and mind perspectives.",
+   "reason": "Neuropsychoanalyst explores the nature of self and consciousness from a philosophical perspective.",
    "tradition": "Secular"
   },
   {
@@ -27,34 +27,34 @@
    "published": "Wed, 16 Sep 2026 13:00:44 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explains the doctrine of hell and human choice with philosophical and theological depth.",
+   "reason": "Explores the doctrine of hell and human choice with philosophical and theological depth.",
    "tradition": "Catholic"
   },
   {
-   "id": "2b9684dd-e365-403b-94e3-b4c700a1acdf",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
-   "showTitle": "The Best of Coast to Coast AM",
-   "title": "Past Life Regressions - Best of Coast to Coast AM - 9/15/26",
-   "summary": "George Noory and author Regan Forston explore his research into reincarnation and past lives, his work helping clients conquer obstacles by discovering they have chosen their current lifetimes, as well as overcoming the grief of the death of a loved one.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/2b9684dd-e365-403b-94e3-b4c700a1acdf/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
-   "published": "Wed, 16 Sep 2026 09:56:07 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "id": "3df4e68e-e1d9-4c9d-a928-9fcefda7160a",
+   "showID": "https://feeds.libsyn.com/570160/rss",
+   "showTitle": "10% Happier with Dan Harris",
+   "title": "The Reset for Anxiety, Overthinking, and Losing Yourself in the Wrong Story | Diana Winston",
+   "summary": "A simple daily check-in you can do anywhere, a four-part practice for handling hard emotions, and a new way to relate to negative judgments. Plus, why transcendence is more accessible than you think. Diana Winston is the Director of UCLA Mindful, with three decades of experience teaching mindfulness for health and well-being. She has authored three books, including  The Little Book of Being, and has taught at Spirit Rock Meditation Center for 25 years. A founder of the International Mindfulness Teachers Association, she continues to guide individuals and organizations in cultivating awareness ",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/05620661-2103-4fe0-9ab9-92bfc4d9cf22/20260902_TPHP_DianaWinston_AUDIO_Mastered_AudioVersion_v2.1.mp3?dest-id=4933335",
+   "published": "Wed, 16 Sep 2026 07:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores reincarnation and past lives with implications for suffering and mortality.",
-   "tradition": "Interfaith"
+   "reason": "Offers mindfulness practices addressing anxiety and emotional suffering.",
+   "tradition": "Secular"
   },
   {
-   "id": "d955fd23-74fa-4dbd-9ec0-cd1ac0262f5c",
-   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
-   "showTitle": "Mormon Stories Podcast",
-   "title": "THRIVE Events in Rexburg, San Antonio, Boise, and St George!!!!",
-   "summary": "Four THRIVE events are coming — Rexburg, San Antonio, Boise, and St. George — and John Dehlin wants to make sure you hear about them IN ADVANCE this time.THRIVE conferences are for former and transitioning members of high-demand religions. They're about community, healing, and growth after Mormonism — meeting people who get it, picking up tools for navigating a faith crisis, and realizing you are not alone and you are not crazy.REGISTER FOR ALL FOUR AT: https://thrivebeyondreligion.com---------------------------------------------------------------------THRIVE REXBURG — Sept. 18–19, 2026 — $19-",
-   "audioURL": "https://traffic.megaphone.fm/APO6393548407.mp3",
-   "published": "Tue, 15 Sep 2026 15:32:03 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "id": "ac5b67a4-b15b-11f1-9a35-97bf96f31149",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "OPRAH WINFREY: The Life Lessons That Changed Everything",
+   "summary": "In a rare and deeply personal conversation, Jay sits down with Oprah Winfrey to reflect on the defining moments, hard-earned lessons, and extraordinary journey that shaped her life. Oprah opens up about her earliest memories in Mississippi, surviving childhood abuse, and how those experiences shaped the woman she would become. She traces her remarkable rise from a small radio job to one of the most influential voices in the world, sharing the spiritual practices that have grounded her along the way and the Maya Angelou wisdom that transformed how she thinks about legacy. Oprah also reflects on",
+   "audioURL": "https://traffic.megaphone.fm/GLT9625752794.mp3",
+   "published": "Wed, 16 Sep 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Focuses on healing and growth after religious faith crises, addressing doubt and community.",
-   "tradition": "Latter-day Saint"
+   "reason": "Oprah reflects on trauma, growth, and spiritual practices shaping her life.",
+   "tradition": "Interfaith"
   },
   {
    "id": "5ae6963c-6e1b-46f9-9624-b4c6014fe1a2",
@@ -66,34 +66,8 @@
    "published": "Tue, 15 Sep 2026 21:26:54 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Encourages strength of heart and mind to choose a spiritual path amid distractions.",
+   "reason": "A devotional urging inner resolve and spiritual commitment amid life's choices.",
    "tradition": "Latter-day Saint"
-  },
-  {
-   "id": "b60bafa0-8ba5-4837-92b4-f659f8e13103",
-   "showID": "https://anchor.fm/s/10c2267dc/podcast/rss",
-   "showTitle": "The Eric Metaxas Show",
-   "title": "#199 - John Zmirak",
-   "summary": "Today On The Eric Metaxas Show, John Zmirak joins Eric to discuss how the ideas of Charles Darwin, Karl Marx, and Sigmund Freud influenced modern Christianity. Zmirak argues that some churches tried to accommodate ideas they considered intellectually respectable and, in the process, began explaining away biblical miracles, reshaping Christian teaching around Marxist politics, and replacing traditional ideas about sin with Freudian psychology.Eric and John discuss Darwinism, Genesis, the Resurrection, liberation theology, Freud’s influence, and what happens when Christians become embarrassed by",
-   "audioURL": "https://traffic.megaphone.fm/APO7782282765.mp3",
-   "published": "Fri, 11 Sep 2026 21:05:50 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/c8/81/a4c8819f-97f6-0d49-0487-9c15e7512db9/mza_2090015137126927150.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses Christianity's interaction with Darwinism, Marxism, and psychology.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "ac5b67a4-b15b-11f1-9a35-97bf96f31149",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "OPRAH WINFREY: The Life Lessons That Changed Everything",
-   "summary": "In a rare and deeply personal conversation, Jay sits down with Oprah Winfrey to reflect on the defining moments, hard-earned lessons, and extraordinary journey that shaped her life. Oprah opens up about her earliest memories in Mississippi, surviving childhood abuse, and how those experiences shaped the woman she would become. She traces her remarkable rise from a small radio job to one of the most influential voices in the world, sharing the spiritual practices that have grounded her along the way and the Maya Angelou wisdom that transformed how she thinks about legacy. Oprah also reflects on",
-   "audioURL": "https://traffic.megaphone.fm/GLT9625752794.mp3",
-   "published": "Wed, 16 Sep 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Personal life lessons and spiritual practices shared but more biographical than philosophical.",
-   "tradition": "Interfaith"
   },
   {
    "id": "https://blubrry.com/the_world_and_everything_in_it/155363841/doubletake-a-few-red-flags/",
@@ -104,9 +78,35 @@
    "audioURL": "https://dts.podtrac.com/redirect.mp3/p.podderapp.com/1696013160/media.blubrry.com/the_world_and_everything_in_it/ins.blubrry.com/the_world_and_everything_in_it/TWAEII-2026-09-12-3596-DoubleTake-A-few.mp3",
    "published": "Sat, 12 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Narrates a Christian woman's struggles and longing for love, touching on suffering and faith.",
+   "rating": 7,
+   "reason": "A Christian woman's struggles with love and longing reveal ethical and emotional depth.",
    "tradition": "Christian"
+  },
+  {
+   "id": "2b9684dd-e365-403b-94e3-b4c700a1acdf",
+   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+   "showTitle": "The Best of Coast to Coast AM",
+   "title": "Past Life Regressions - Best of Coast to Coast AM - 9/15/26",
+   "summary": "George Noory and author Regan Forston explore his research into reincarnation and past lives, his work helping clients conquer obstacles by discovering they have chosen their current lifetimes, as well as overcoming the grief of the death of a loved one.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/2b9684dd-e365-403b-94e3-b4c700a1acdf/audio.mp3?utm_source=Podcast&amp;in_playlist=b95f0c24-c199-4939-b52c-ae2b00350f65",
+   "published": "Wed, 16 Sep 2026 09:56:07 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores reincarnation and grief through past life regression research.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "d955fd23-74fa-4dbd-9ec0-cd1ac0262f5c",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "THRIVE Events in Rexburg, San Antonio, Boise, and St George!!!!",
+   "summary": "Four THRIVE events are coming — Rexburg, San Antonio, Boise, and St. George — and John Dehlin wants to make sure you hear about them IN ADVANCE this time.THRIVE conferences are for former and transitioning members of high-demand religions. They're about community, healing, and growth after Mormonism — meeting people who get it, picking up tools for navigating a faith crisis, and realizing you are not alone and you are not crazy.REGISTER FOR ALL FOUR AT: https://thrivebeyondreligion.com---------------------------------------------------------------------THRIVE REXBURG — Sept. 18–19, 2026 — $19-",
+   "audioURL": "https://traffic.megaphone.fm/APO6393548407.mp3",
+   "published": "Tue, 15 Sep 2026 15:32:03 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Support and healing for those leaving high-demand religions and faith crises.",
+   "tradition": "Latter-day Saint"
   }
  ],
  "history": {
