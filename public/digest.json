@@ -1,9 +1,35 @@
 {
  "version": 1,
- "generatedAt": "2026-09-20T18:09:02.492283+00:00",
+ "generatedAt": "2026-09-20T21:20:35.794795+00:00",
  "showsScanned": 400,
- "candidates": 47,
+ "candidates": 48,
  "picks": [
+  {
+   "id": "6aac3bb6fca3d5c77b11d9a1",
+   "showID": "https://feeds.acast.com/public/shows/69ca82d28fc1c62479fa987b",
+   "showTitle": "Oprah's Super Soul",
+   "title": "Iyanla Vanzant Opens Up About Losing Her Daughter & Finding God Again | Super Soul Sparks",
+   "summary": "In this unforgettable conversation, Oprah Winfrey sits down with bestselling author, spiritual teacher, and \"Iyanla: Fix My Life\" host Iyanla Vanzant for a profound Soul-to-Soul discussion about trauma, healing, surrender, faith, and purpose. Iyanla shares deeply personal stories from her journey, including growing up in poverty, surviving childhood abuse, becoming a mother at a young age, struggling with depression, overcoming a suicide attempt, and finding the spiritual path that transformed her life. She also reveals how the heartbreaking loss of her daughter Jamia forever changed her under",
+   "audioURL": "https://sphinx.acast.com/p/open/s/69ca82d28fc1c62479fa987b/e/6aac3bb6fca3d5c77b11d9a1/media.mp3",
+   "published": "Sun, 20 Sep 2026 07:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/7a/a6/dd/7aa6ddb9-ba7c-e7df-fd29-a8e875be8871/mza_5854921686815900498.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "A spiritual teacher shares her journey through trauma, faith loss, and rediscovery of meaning.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "6aa02d4d4fa142971fa8d5b3",
+   "showID": "https://feeds.acast.com/public/shows/60e8deaefb090f0013116d69",
+   "showTitle": "Back from the Borderline",
+   "title": "Gnostic Sophia and the Suppressed Christian Mysteries (Anne Baring Part 3)",
+   "summary": "What if early Christianity contained a path centered on direct knowledge of the divine within us, and that path was pushed outside the Church that survived?This is Part 3 of my multi-part series of conversations with Anne Baring, recorded across September and October 2026. While each episode can stand on its own, I recommend beginning with Part 1, The Forgotten Feminine Face of God, followed by Part 2 on Marija Gimbutas and the civilization of Old Europe.☽In this conversation, Anne and I enter the world of Gnostic Christianity and a Yeshua many of us were never introduced to: a teacher concern",
+   "audioURL": "https://sphinx.acast.com/p/open/s/60e8deaefb090f0013116d69/e/6aa02d4d4fa142971fa8d5b3/media.mp3",
+   "published": "Tue, 15 Sep 2026 09:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5c/5e/14/5c5e14b6-8d9b-e05c-ba54-eabdf73d937c/mza_1153418961305898034.jpeg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Explores suppressed Christian mystical knowledge and direct divine experience.",
+   "tradition": "Christian"
+  },
   {
    "id": "fc29517e-a701-4125-97fa-b4c2014cbfe4",
    "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/d623ef0b-3fee-4c26-b815-ae32006cd739/podcast.rss",
@@ -14,21 +40,8 @@
    "published": "Mon, 14 Sep 2026 04:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/67/02/d7/6702d7b4-5dff-4a0a-8e91-54be0a8a7660/mza_15418537704194950179.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Neuroscientist explains meditation's effects on brain and consciousness with scientific depth.",
+   "reason": "A neuroscientist discusses meditation's impact on consciousness and mental transformation.",
    "tradition": "Buddhist"
-  },
-  {
-   "id": "44391db6-ac6e-11f1-93de-cf69ce46df14",
-   "showID": "https://feeds.megaphone.fm/radioatlantic",
-   "showTitle": "Radio Atlantic",
-   "title": "The Dark Side of Meditation",
-   "summary": "A psychologist wanted to conduct a study showing the benefits of meditation. But the results—and some of her own unsettling experiences—turned everything she thought she knew about the practice upside down.\n\nRead Olga Khazan’s story “The Dark Side of Mindfulness.”\n\n- - -\n\nGet more from your favorite Atlantic voices when you subscribe. You’ll enjoy unlimited access to Pulitzer-winning journalism, from clear-eyed analysis and insight on breaking news to fascinating explorations of our world. Atlantic subscribers also get access to exclusive subscriber audio in Apple Podcasts. Subscribe today at ",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/ATL5981520652.mp3",
-   "published": "Thu, 17 Sep 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/5e/41/135e41d6-dbc8-66b9-1367-460ac0f5e6c0/mza_2058775075235418486.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Psychologist reveals unexpected negative effects of meditation challenging assumptions.",
-   "tradition": "Secular"
   },
   {
    "id": "83e981e499fd7b84507cb4db79b79849",
@@ -40,7 +53,7 @@
    "published": "Mon, 14 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A fresh, honest conversation about starting and wrestling with Christian faith from scratch.",
+   "reason": "A fresh, honest story of faith emerging from doubt and experiment.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +66,7 @@
    "published": "Mon, 14 Sep 2026 22:31:15 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A family’s struggle with faith, doubt, and church challenges over time.",
+   "reason": "Confronting faith struggles and community challenges within Mormonism.",
    "tradition": "Latter-day Saint"
   },
   {
@@ -66,7 +79,20 @@
    "published": "Thu, 17 Sep 2026 16:50:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Meditation discussed as a tool for living well and understanding mind truthfully.",
+   "reason": "Explores meditation's dual role in living well and understanding mind truthfully.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "44391db6-ac6e-11f1-93de-cf69ce46df14",
+   "showID": "https://feeds.megaphone.fm/radioatlantic",
+   "showTitle": "Radio Atlantic",
+   "title": "The Dark Side of Meditation",
+   "summary": "A psychologist wanted to conduct a study showing the benefits of meditation. But the results—and some of her own unsettling experiences—turned everything she thought she knew about the practice upside down.\n\nRead Olga Khazan’s story “The Dark Side of Mindfulness.”\n\n- - -\n\nGet more from your favorite Atlantic voices when you subscribe. You’ll enjoy unlimited access to Pulitzer-winning journalism, from clear-eyed analysis and insight on breaking news to fascinating explorations of our world. Atlantic subscribers also get access to exclusive subscriber audio in Apple Podcasts. Subscribe today at ",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/ATL5981520652.mp3",
+   "published": "Thu, 17 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/5e/41/135e41d6-dbc8-66b9-1367-460ac0f5e6c0/mza_2058775075235418486.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A psychologist reveals unexpected negative effects of meditation, challenging assumptions.",
    "tradition": "Secular"
   },
   {
@@ -79,7 +105,7 @@
    "published": "Thu, 17 Sep 2026 04:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Catholic discussion on confession, sin, and spiritual warfare.",
+   "reason": "Catholic priests discuss confession's spiritual power and ethical implications of sin.",
    "tradition": "Catholic"
   },
   {
@@ -105,59 +131,20 @@
    "published": "Sun, 20 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A serious Christian reflection on generosity and mercy through parables in Matthew.",
+   "reason": "Discusses parables about generosity and envy, engaging ethical and spiritual themes.",
    "tradition": "Christian"
   },
   {
-   "id": "https://api.spreaker.com/episode/74912564",
-   "showID": "https://www.spreaker.com/show/4858435/episodes/feed",
-   "showTitle": "Next Level Soul Podcast with Alex Ferrari",
-   "title": "Humanity's Next Great Spiritual Shift with Ella Ringrose",
-   "summary": "BONUS MONDAYS: In today's episode, we are graced with the presence of Ella Ringrose, a spiritual guide whose journey began in a rather unconventional way. Imagine sitting in a math class and suddenly hearing a powerful voice urging you to drop out of school. For Ella, that moment was a pivotal turning point, marking the start of her profound spiritual awakening. From that day forward, her life has been an unfolding of mystical experiences and a deep connection with Spirit that has guided her through both personal challenges and spiritual growth.Ella's early years were a struggle of trying to f",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74912564/bonus_mondays_nls_508.mp3",
-   "published": "Mon, 14 Sep 2026 11:30:02 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/82/33/df/8233df68-fc50-a2d4-00c2-03887b16bccb/mza_15463495654775847599.jpg/600x600bb.jpg",
+   "id": "f89427b4-82d0-4b6e-b141-a81133f86875",
+   "showID": "https://anchor.fm/s/10e5a085c/podcast/rss",
+   "showTitle": "The Mark Driscoll Podcast",
+   "title": "When Christians Should Disobey Government",
+   "summary": "God called Moses to return to the place he feared and confront the most powerful man on earth. When God calls you into a battle, His presence matters more than your ability.",
+   "audioURL": "https://traffic.megaphone.fm/APO4495860240.mp3",
+   "published": "Sun, 20 Sep 2026 00:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal spiritual awakening story with mystical themes but less philosophical depth.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "35c1ff10-a812-11f1-9f02-bbddea1b7da9",
-   "showID": "https://feeds.megaphone.fm/mark-levin-podcast",
-   "showTitle": "Mark Levin Podcast",
-   "title": "The Best Of Mark Levin - 9/19/26",
-   "summary": "This week on the Mark Levin Show, the Declaration of Independence is the clearest statement of America’s founding principles. The United States was uniquely founded on a fusion of Judeo-Christian values and Enlightenment principles, combining faith, morality, reason, and natural rights while rejecting theocracy. America’s founding principles allow individuals to hold diverse beliefs, including atheism and agnosticism, while preserving freedom of thought and religion. Islamism and Marxism are incompatible with American founding ideals because they reject natural law, natural rights, and the rea",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/WWO2405328436.mp3",
-   "published": "Sat, 19 Sep 2026 11:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/bf/a0/46bfa07e-d13f-9635-445f-ac2578d5c755/mza_14035070316013714857.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Explores America's founding principles blending faith and reason with some philosophical content.",
-   "tradition": "Jewish"
-  },
-  {
-   "id": "791bf078-d9ea-11f0-a55b-5f00237a0ad2",
-   "showID": "https://feeds.megaphone.fm/mark-levin-podcast",
-   "showTitle": "Mark Levin Podcast",
-   "title": "9/14/26 - The truth about the Left’s agenda: Why they want to destroy the Declaration",
-   "summary": "On Monday's Mark Levin Show, the Declaration of Independence is the clearest statement of America’s founding principles. The United States was uniquely founded on a fusion of Judeo-Christian values and Enlightenment principles, combining faith, morality, reason, and natural rights while rejecting theocracy. America’s founding principles allow individuals to hold diverse beliefs, including atheism and agnosticism, while preserving freedom of thought and religion. Islamism and Marxism are incompatible with American founding ideals because they reject natural law, natural rights, and the reasonin",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/WWO1029016686.mp3",
-   "published": "Tue, 15 Sep 2026 01:08:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/bf/a0/46bfa07e-d13f-9635-445f-ac2578d5c755/mza_14035070316013714857.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Continues discussion on America's founding values and religious freedom.",
-   "tradition": "Jewish"
-  },
-  {
-   "id": "0bdda9b549424e6e7f56383f9d198eff",
-   "showID": "https://podcasts.subsplash.com:443/03fe243/podcast.rss",
-   "showTitle": "Prophecy Watchers",
-   "title": "Daniel’s Final Prophecy Is Being Unsealed (Daniel 12:4-13) | Matt Freeman",
-   "summary": "<p>In this concluding study of Daniel 12, Matt Freeman explores the prophetic timeline of the Tribulation, the identity of the Man clothed in linen, the rise of the coming beast system and the mysterious 75-day interval following the return of Jesus Christ. We also discover Daniel’s final challenge to every believer: remain faithful, refuse to compromise and finish well.</p><p><br></p><p><br></p>",
-   "audioURL": "https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvTkhDOEM5LzBjZmNjNzUxLTc1MGUtNGIwNy04ZDMwLTJmZjRhOWU3OGY2NS9hdWRpby5tcDM.mp3?k=NHC8C9&amp;s=3&amp;sapid=mfmcv4j",
-   "published": "Sun, 13 Sep 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/4e/30/364e308d-99c9-778e-e711-59e090408814/mza_3684559455643163671.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Study of biblical prophecy focusing on faithfulness amid tribulation.",
+   "reason": "Discussion of faith and civil disobedience, focused on biblical story.",
    "tradition": "Christian"
   },
   {
@@ -170,7 +157,7 @@
    "published": "Thu, 17 Sep 2026 11:50:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ca/b9/b6/cab9b6ec-130d-51e2-2265-27f0912d3a72/mza_4315298643429931718.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discussion of Jewish history and political divisions with some ethical reflection.",
+   "reason": "Explores historical religious divisions and their modern implications.",
    "tradition": "Jewish"
   },
   {
@@ -183,7 +170,7 @@
    "published": "Wed, 16 Sep 2026 07:01:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores energy healing and cancer research, touching on consciousness and healing.",
+   "reason": "Discusses energy healing research and its implications for cancer treatment.",
    "tradition": "Interfaith"
   }
  ],
@@ -308,6 +295,9 @@
   "ce93d91e-5a15-4e29-ba90-caf6797a1fdc": "2026-09-20",
   "https://api.spreaker.com/episode/74912564": "2026-09-20",
   "35c1ff10-a812-11f1-9f02-bbddea1b7da9": "2026-09-20",
-  "791bf078-d9ea-11f0-a55b-5f00237a0ad2": "2026-09-20"
+  "791bf078-d9ea-11f0-a55b-5f00237a0ad2": "2026-09-20",
+  "6aac3bb6fca3d5c77b11d9a1": "2026-09-20",
+  "6aa02d4d4fa142971fa8d5b3": "2026-09-20",
+  "f89427b4-82d0-4b6e-b141-a81133f86875": "2026-09-20"
  }
 }
