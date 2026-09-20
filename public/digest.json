@@ -1,22 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-09-20T11:01:05.045713+00:00",
+ "generatedAt": "2026-09-20T14:41:38.678181+00:00",
  "showsScanned": 400,
  "candidates": 48,
  "picks": [
-  {
-   "id": "d15e8592-5612-4c68-b3c6-640ce0802af5",
-   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
-   "showTitle": "Making Sense with Sam Harris",
-   "title": "#493 — Two Reasons to Meditate",
-   "summary": "Meditation can help us live better. It can also help us understand what is true about our own minds. These motivations might seem fundamentally different, but Sam explains why they're two aspects of the same project. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samharris.org/subscribe.",
-   "audioURL": "https://traffic.libsyn.com/secure/wakingup/493_MS_two-reasons-to-meditate_PSA.mp3?dest-id=480596",
-   "published": "Thu, 17 Sep 2026 16:50:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Sam Harris explains meditation's dual role in improving life and understanding mind's truth.",
-   "tradition": "Secular"
-  },
   {
    "id": "fc29517e-a701-4125-97fa-b4c2014cbfe4",
    "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/d623ef0b-3fee-4c26-b815-ae32006cd739/podcast.rss",
@@ -27,7 +14,7 @@
    "published": "Mon, 14 Sep 2026 04:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/67/02/d7/6702d7b4-5dff-4a0a-8e91-54be0a8a7660/mza_15418537704194950179.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Neuroscientist explains meditation's effects on brain and consciousness with Buddhist insights.",
+   "reason": "Explores meditation's impact on the brain and consciousness with scientific and contemplative depth.",
    "tradition": "Buddhist"
   },
   {
@@ -40,34 +27,8 @@
    "published": "Thu, 17 Sep 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/5e/41/135e41d6-dbc8-66b9-1367-460ac0f5e6c0/mza_2058775075235418486.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Psychologist reveals unexpected dark effects of meditation challenging assumptions.",
+   "reason": "Examines meditation's potential harms, challenging common assumptions about mindfulness.",
    "tradition": "Secular"
-  },
-  {
-   "id": "ce93d91e-5a15-4e29-ba90-caf6797a1fdc",
-   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
-   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
-   "title": "Day 263: The Father's Generosity (2026)",
-   "summary": "Fr. Mike takes us through various parables in Matthew such as the parable of the lost sheep, the merciful servant, and the laborers in the vineyard. He invites us not to be envious when others are blessed, but to allow the Father to be generous. Today's readings are Matthew 18-21, and Proverbs 19:13-16.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/ce93d91e-5a15-4e29-ba90-caf6797a1fdc.mp3",
-   "published": "Sun, 20 Sep 2026 03:15:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Engages with parables on generosity and envy, inviting reflection on ethics and divine grace.",
-   "tradition": "Catholic"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/HGiNnFBV7_BqOJgGk83wNEJgiNwbNoLHqMJ1maRbmqw",
-   "showID": "https://rss.art19.com/the-exorcist-files",
-   "showTitle": "The Exorcist Files",
-   "title": "The Power of Confession, Removing Sin and the Levitating St. Joseph Cupertino",
-   "summary": "Father Carlos Martins and Ryan Bethea break down the sacramental, ontological power of Confession—from breaking the grip of sin and guilt to the mechanics of perfect contrition. Plus, they discuss the lingering damage of sin, the dangers of generational occult objects, and listener questions on holy water and spiritual warfare.Thanks to our sponsors!Head to https://forkfulmeals.com/XFILES for 50% off your first order today!Watch or Listen to The Born Again Identity on EWTN+ or click here https://www.youtube.com/watch?v=rym04mVTO8o and enjoy the auditory odyssey!Magnesium, multiplied. 10 forms ",
-   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/p687916/rss.art19.com/episodes/dde54755-911b-4b84-83e4-8ff1e1671a59.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Thu, 17 Sep 2026 04:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Catholic discussion on confession, sin, and spiritual warfare with theological depth.",
-   "tradition": "Catholic"
   },
   {
    "id": "83e981e499fd7b84507cb4db79b79849",
@@ -78,21 +39,8 @@
    "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4L2I1ZWQwNDcwLWJhMWYtNDU5Zi1iODA4LWNmMGVmMjhlZjdjYy9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=ycsm7ns",
    "published": "Mon, 14 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A personal story of faith formation and doubt, wrestling with belief from scratch.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "608cfc4a-af92-11f1-9014-2388d4cbfc8a",
-   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
-   "showTitle": "Live Free with Josh Howerton",
-   "title": "How To Study the Bible (and ACTUALLY Grow Spiritually) | Live Free with Josh Howerton",
-   "summary": "How do you actually study the Bible—and how do you know whether a spiritual experience is really from God?\n\nIn this episode of LIVE FREE, Pastors Josh Howerton, Carlos Erazo, and Paul Cunningham unpack 2 Timothy 2 and get practical about becoming people who know God’s Word and live it out. Carlos and Paul also share powerful reflections from their trip to Israel, including what Gethsemane and Galilee taught them about Jesus, His sacrifice, and the ministry happening right in front of us.\n\nThen the conversation gets practical: How do you avoid pointless Christian arguments without compromising ",
-   "audioURL": "https://traffic.megaphone.fm/HAEEH7841747237.mp3",
-   "published": "Mon, 14 Sep 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Discusses how to study scripture and discern spiritual experiences with practical and reflective insights.",
+   "rating": 8,
+   "reason": "A genuine story of faith formation and wrestling with belief from scratch.",
    "tradition": "Christian"
   },
   {
@@ -104,22 +52,48 @@
    "audioURL": "https://traffic.megaphone.fm/APO2623569841.mp3",
    "published": "Mon, 14 Sep 2026 22:31:15 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Examines struggles with faith and community within Mormonism, including doubt and family challenges.",
+   "rating": 8,
+   "reason": "Family struggles with faith and doubt within Mormonism, exploring belief and identity.",
    "tradition": "Latter-day Saint"
   },
   {
-   "id": "01a0ab9b-2993-7ae3-97c4-f8de082efbf5",
-   "showID": "https://rss.beehiiv.com/podcasts/01a0599f-c7dc-725e-a326-2afd78c94e7e.xml",
-   "showTitle": "Call Me Back - with Dan Senor",
-   "title": "Can Israel Learn the Lesson of 70 AD? - with Gidi Dar and Rabbi David Stav",
-   "summary": "Nearly 2,000 years ago, Jerusalem fell after political and religious divisions among Jews spiraled into civil war. As Israel heads toward another election after years of political upheaval, October 7 and war, Dan speaks with filmmaker Gidi Dar and Rabb...",
-   "audioURL": "https://podcasts.beehiiv.com/d9ee47aa-cc91-4ad0-b1e2-000191888049/01a0599f-c7dc-725e-a326-2afd78c94e7e/01a0ab9b-2993-7de7-8452-b8bc84ee6c11/01a0ab9b-2a4c-78a9-a3ec-1573bcf9547f.mp3",
-   "published": "Thu, 17 Sep 2026 11:50:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ca/b9/b6/cab9b6ec-130d-51e2-2265-27f0912d3a72/mza_4315298643429931718.jpg/600x600bb.jpg",
+   "id": "d15e8592-5612-4c68-b3c6-640ce0802af5",
+   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
+   "showTitle": "Making Sense with Sam Harris",
+   "title": "#493 — Two Reasons to Meditate",
+   "summary": "Meditation can help us live better. It can also help us understand what is true about our own minds. These motivations might seem fundamentally different, but Sam explains why they're two aspects of the same project. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samharris.org/subscribe.",
+   "audioURL": "https://traffic.libsyn.com/secure/wakingup/493_MS_two-reasons-to-meditate_PSA.mp3?dest-id=480596",
+   "published": "Thu, 17 Sep 2026 16:50:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores meditation's dual role in improving life and understanding mind's nature.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/HGiNnFBV7_BqOJgGk83wNEJgiNwbNoLHqMJ1maRbmqw",
+   "showID": "https://rss.art19.com/the-exorcist-files",
+   "showTitle": "The Exorcist Files",
+   "title": "The Power of Confession, Removing Sin and the Levitating St. Joseph Cupertino",
+   "summary": "Father Carlos Martins and Ryan Bethea break down the sacramental, ontological power of Confession—from breaking the grip of sin and guilt to the mechanics of perfect contrition. Plus, they discuss the lingering damage of sin, the dangers of generational occult objects, and listener questions on holy water and spiritual warfare.Thanks to our sponsors!Head to https://forkfulmeals.com/XFILES for 50% off your first order today!Watch or Listen to The Born Again Identity on EWTN+ or click here https://www.youtube.com/watch?v=rym04mVTO8o and enjoy the auditory odyssey!Magnesium, multiplied. 10 forms ",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/p687916/rss.art19.com/episodes/dde54755-911b-4b84-83e4-8ff1e1671a59.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Thu, 17 Sep 2026 04:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses historical religious conflict and its lessons for modern Israel, touching on faith and division.",
-   "tradition": "Jewish"
+   "reason": "Explores Catholic sacramental theology and spiritual warfare with ethical implications.",
+   "tradition": "Catholic"
+  },
+  {
+   "id": "ce93d91e-5a15-4e29-ba90-caf6797a1fdc",
+   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
+   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
+   "title": "Day 263: The Father's Generosity (2026)",
+   "summary": "Fr. Mike takes us through various parables in Matthew such as the parable of the lost sheep, the merciful servant, and the laborers in the vineyard. He invites us not to be envious when others are blessed, but to allow the Father to be generous. Today's readings are Matthew 18-21, and Proverbs 19:13-16.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/ce93d91e-5a15-4e29-ba90-caf6797a1fdc.mp3",
+   "published": "Sun, 20 Sep 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discusses parables on generosity and envy, engaging ethical and spiritual themes in Christianity.",
+   "tradition": "Christian"
   },
   {
    "id": "gid://art19-episode-locator/V0/lPDqcAEFRAvuy8Cxj8gU3ur2FW28ArVFbEIaWFiQVrg",
@@ -131,7 +105,7 @@
    "published": "Wed, 16 Sep 2026 07:01:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses energy healing research and its implications for health and consciousness.",
+   "reason": "Discusses energy healing research and its implications for consciousness and health.",
    "tradition": "Interfaith"
   },
   {
@@ -144,7 +118,7 @@
    "published": "Mon, 14 Sep 2026 11:30:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/82/33/df/8233df68-fc50-a2d4-00c2-03887b16bccb/mza_15463495654775847599.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Personal spiritual awakening story with mystical experiences and Spirit connection.",
+   "reason": "Shares a personal spiritual awakening story with mystical themes but limited philosophical depth.",
    "tradition": "Interfaith"
   },
   {
@@ -157,8 +131,34 @@
    "published": "Sat, 19 Sep 2026 11:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/bf/a0/46bfa07e-d13f-9635-445f-ac2578d5c755/mza_14035070316013714857.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores America's founding principles blending faith and reason, less on personal meaning.",
+   "reason": "Discusses America's founding principles blending faith and reason but mostly political.",
+   "tradition": "Jewish"
+  },
+  {
+   "id": "608cfc4a-af92-11f1-9014-2388d4cbfc8a",
+   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
+   "showTitle": "Live Free with Josh Howerton",
+   "title": "How To Study the Bible (and ACTUALLY Grow Spiritually) | Live Free with Josh Howerton",
+   "summary": "How do you actually study the Bible—and how do you know whether a spiritual experience is really from God?\n\nIn this episode of LIVE FREE, Pastors Josh Howerton, Carlos Erazo, and Paul Cunningham unpack 2 Timothy 2 and get practical about becoming people who know God’s Word and live it out. Carlos and Paul also share powerful reflections from their trip to Israel, including what Gethsemane and Galilee taught them about Jesus, His sacrifice, and the ministry happening right in front of us.\n\nThen the conversation gets practical: How do you avoid pointless Christian arguments without compromising ",
+   "audioURL": "https://traffic.megaphone.fm/HAEEH7841747237.mp3",
+   "published": "Mon, 14 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Practical Bible study and spiritual growth with some reflection on Jesus and faith.",
    "tradition": "Christian"
+  },
+  {
+   "id": "01a0ab9b-2993-7ae3-97c4-f8de082efbf5",
+   "showID": "https://rss.beehiiv.com/podcasts/01a0599f-c7dc-725e-a326-2afd78c94e7e.xml",
+   "showTitle": "Call Me Back - with Dan Senor",
+   "title": "Can Israel Learn the Lesson of 70 AD? - with Gidi Dar and Rabbi David Stav",
+   "summary": "Nearly 2,000 years ago, Jerusalem fell after political and religious divisions among Jews spiraled into civil war. As Israel heads toward another election after years of political upheaval, October 7 and war, Dan speaks with filmmaker Gidi Dar and Rabb...",
+   "audioURL": "https://podcasts.beehiiv.com/d9ee47aa-cc91-4ad0-b1e2-000191888049/01a0599f-c7dc-725e-a326-2afd78c94e7e/01a0ab9b-2993-7de7-8452-b8bc84ee6c11/01a0ab9b-2a4c-78a9-a3ec-1573bcf9547f.mp3",
+   "published": "Thu, 17 Sep 2026 11:50:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ca/b9/b6/cab9b6ec-130d-51e2-2265-27f0912d3a72/mza_4315298643429931718.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores Jewish historical trauma and political divisions with some ethical reflection.",
+   "tradition": "Jewish"
   }
  ],
  "history": {
