@@ -1,22 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-09-20T00:52:43.057235+00:00",
+ "generatedAt": "2026-09-20T05:55:20.336922+00:00",
  "showsScanned": 400,
- "candidates": 49,
+ "candidates": 47,
  "picks": [
-  {
-   "id": "gid://art19-episode-locator/V0/lPDqcAEFRAvuy8Cxj8gU3ur2FW28ArVFbEIaWFiQVrg",
-   "showID": "https://rss.art19.com/the-telepathy-tapes",
-   "showTitle": "The Telepathy Tapes",
-   "title": "S2E50: When Frontier Science Enters Mainstream Journals: Energy Healing Cancer Study Update | Talk Tracks",
-   "summary": "In Season 2 of The Consciousness Cassettes, Ky explored a groundbreaking study at MD Anderson Cancer Center examining energy healing, also known as biofield therapy, in pancreatic cancer cells and mice. Now, that research has officially been published.Ky returns to the study with integrative oncologist Dr. Santosh Rao and Meredith Sprengel, Research and Program Director of the Subtle Energy Funders Collective. Together, they unpack the study’s most compelling findings, including slower cancer cell growth, reduced invasiveness, and significantly fewer visible liver metastases in some of the mou",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/5afb3b38-4122-485f-9116-526dfd24b7f0.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Wed, 16 Sep 2026 07:01:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discussion of energy healing research with some implications for consciousness.",
-   "tradition": "Interfaith"
-  },
   {
    "id": "fc29517e-a701-4125-97fa-b4c2014cbfe4",
    "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/d623ef0b-3fee-4c26-b815-ae32006cd739/podcast.rss",
@@ -27,7 +14,7 @@
    "published": "Mon, 14 Sep 2026 04:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/67/02/d7/6702d7b4-5dff-4a0a-8e91-54be0a8a7660/mza_15418537704194950179.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores meditation's impact on brain and consciousness with a neuroscientist linked to Buddhist practice.",
+   "reason": "Explores meditation's impact on brain and consciousness with a neuroscientist and Buddhist insights.",
    "tradition": "Buddhist"
   },
   {
@@ -40,8 +27,21 @@
    "published": "Thu, 17 Sep 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/5e/41/135e41d6-dbc8-66b9-1367-460ac0f5e6c0/mza_2058775075235418486.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines meditation's psychological risks and challenges common assumptions.",
+   "reason": "Examines unexpected negative effects of meditation, challenging common assumptions.",
    "tradition": "Secular"
+  },
+  {
+   "id": "9175c020-a429-43b9-9b81-f5793bacf8a3",
+   "showID": "https://rss.libsyn.com/shows/606285/destinations/5279650.xml",
+   "showTitle": "The Deep End With Lecrae",
+   "title": "Rickey Smiley Has a Deep Conversation With Lecrae",
+   "summary": "Rickey Smiley sits down with Lecrae for a deeply personal conversation about faith, grief, and the pain hidden behind a lifetime of making people laugh. Rickey opens up about losing his 32-year-old son, Brandon, and the devastating journey that followed. He shares what it was like learning the news while alone in Dallas, having to lead his family through the tragedy, and why he says he didn't simply lean on God—God carried him. They also discuss Rickey's upbringing in the Black church, surviving being shot at point-blank range, the golden era of '90s comedy, the importance of therapy, and why ",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/289702f0-eba6-44cb-bf7c-b7ff937eb51c/Audio_EmergencyEp_RickeySmiley_V2.mp3?dest-id=5279650",
+   "published": "Fri, 18 Sep 2026 19:16:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A personal dialogue on faith, grief, and suffering within a Black Christian context.",
+   "tradition": "Christian"
   },
   {
    "id": "83e981e499fd7b84507cb4db79b79849",
@@ -53,8 +53,21 @@
    "published": "Mon, 14 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A genuine story of faith formation and wrestling with belief from scratch.",
+   "reason": "A personal story of faith formation and wrestling with belief from scratch.",
    "tradition": "Christian"
+  },
+  {
+   "id": "4d183049-3ca8-448e-ae21-5fae878de0b4",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "\"Idyllic\" Mormons Choose Wonder - Mike And Michele Seamons Pt. 3 | Ep. 2195",
+   "summary": "In Part Three of Mike and Michele’s story, the couple begins confronting serious concerns about Mormonism as their children struggle with missions, faith, and their place in the church. Mike becomes increasingly concerned about the challenges young Mormons are facing, and struggles to work with church leadership to keep them engaged in their faith.As they discover that the church is not working for their family in the same way anymore, they begin stepping further outside the Mormon community. They explore other Christian traditions and begin to consume media not run by the LDS church, such as ",
+   "audioURL": "https://traffic.megaphone.fm/APO2623569841.mp3",
+   "published": "Mon, 14 Sep 2026 22:31:15 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Examines struggles with faith and community within Mormonism, exploring doubt and belief.",
+   "tradition": "Latter-day Saint"
   },
   {
    "id": "d15e8592-5612-4c68-b3c6-640ce0802af5",
@@ -66,7 +79,7 @@
    "published": "Thu, 17 Sep 2026 16:50:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "A philosopher explains meditation's dual role in ethics and understanding mind.",
+   "reason": "Explores meditation's role in understanding mind and living well.",
    "tradition": "Secular"
   },
   {
@@ -79,7 +92,7 @@
    "published": "Thu, 17 Sep 2026 04:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores confession, sin, and spiritual healing in Catholic theology.",
+   "reason": "Explores confession, sin, and spiritual healing within Catholic sacramental theology.",
    "tradition": "Catholic"
   },
   {
@@ -92,21 +105,47 @@
    "published": "Mon, 14 Sep 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Practical Bible study with reflections on Jesus' life and spiritual growth.",
+   "reason": "Discusses how to study scripture and discern spiritual experiences with practical reflections.",
    "tradition": "Christian"
   },
   {
-   "id": "4d183049-3ca8-448e-ae21-5fae878de0b4",
-   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
-   "showTitle": "Mormon Stories Podcast",
-   "title": "\"Idyllic\" Mormons Choose Wonder - Mike And Michele Seamons Pt. 3 | Ep. 2195",
-   "summary": "In Part Three of Mike and Michele’s story, the couple begins confronting serious concerns about Mormonism as their children struggle with missions, faith, and their place in the church. Mike becomes increasingly concerned about the challenges young Mormons are facing, and struggles to work with church leadership to keep them engaged in their faith.As they discover that the church is not working for their family in the same way anymore, they begin stepping further outside the Mormon community. They explore other Christian traditions and begin to consume media not run by the LDS church, such as ",
-   "audioURL": "https://traffic.megaphone.fm/APO2623569841.mp3",
-   "published": "Mon, 14 Sep 2026 22:31:15 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Personal struggles with faith and church challenges, exploring doubt and belonging.",
-   "tradition": "Latter-day Saint"
+   "id": "26b1307a-b052-11f1-80f9-a7d3fbd8e3af",
+   "showID": "https://feeds.megaphone.fm/BMDC3567910388",
+   "showTitle": "The Glenn Beck Program",
+   "title": "Gridfall / Sanctuary | Days of Ash | Ep 5 & 6",
+   "summary": "When the power grid collapses, America falls into a darkness deeper than night. In the shadows, a hidden intelligence reroutes resources, tracks behavior, and reveals that the grid was never just infrastructure but the leash that held the nation together. As the old world burns out, small groups begin building sanctuaries built on covenant, faith, and the quiet discipline of survival. The farmer experiences the rise of one such refuge where families plant, ration, pray, and protect one another. Inside Sanctuary, mercy and suspicion collide as spiritual weather shifts, old truths awaken, and ne",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pfx.vpixl.com/4V6da/arttrk.com/p/BLZM1/verifi.podscribe.com/rss/p/mgln.ai/e/285/pscrb.fm/rss/p/prfx.byspotify.com/e/claritaspod.com/measure/traffic.megaphone.fm/BMDC4195417025.mp3",
+   "published": "Sat, 19 Sep 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/a0/12/46a0122e-5011-ffbd-cd2f-3c7a2d27777e/mza_6245367014521206082.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Fictional story about survival with themes of faith and ethics, but primarily narrative.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "01a0ab9b-2993-7ae3-97c4-f8de082efbf5",
+   "showID": "https://rss.beehiiv.com/podcasts/01a0599f-c7dc-725e-a326-2afd78c94e7e.xml",
+   "showTitle": "Call Me Back - with Dan Senor",
+   "title": "Can Israel Learn the Lesson of 70 AD? - with Gidi Dar and Rabbi David Stav",
+   "summary": "Nearly 2,000 years ago, Jerusalem fell after political and religious divisions among Jews spiraled into civil war. As Israel heads toward another election after years of political upheaval, October 7 and war, Dan speaks with filmmaker Gidi Dar and Rabb...",
+   "audioURL": "https://podcasts.beehiiv.com/d9ee47aa-cc91-4ad0-b1e2-000191888049/01a0599f-c7dc-725e-a326-2afd78c94e7e/01a0ab9b-2993-7de7-8452-b8bc84ee6c11/01a0ab9b-2a4c-78a9-a3ec-1573bcf9547f.mp3",
+   "published": "Thu, 17 Sep 2026 11:50:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ca/b9/b6/cab9b6ec-130d-51e2-2265-27f0912d3a72/mza_4315298643429931718.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores historical religious-political divisions and their ethical lessons for today.",
+   "tradition": "Jewish"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/lPDqcAEFRAvuy8Cxj8gU3ur2FW28ArVFbEIaWFiQVrg",
+   "showID": "https://rss.art19.com/the-telepathy-tapes",
+   "showTitle": "The Telepathy Tapes",
+   "title": "S2E50: When Frontier Science Enters Mainstream Journals: Energy Healing Cancer Study Update | Talk Tracks",
+   "summary": "In Season 2 of The Consciousness Cassettes, Ky explored a groundbreaking study at MD Anderson Cancer Center examining energy healing, also known as biofield therapy, in pancreatic cancer cells and mice. Now, that research has officially been published.Ky returns to the study with integrative oncologist Dr. Santosh Rao and Meredith Sprengel, Research and Program Director of the Subtle Energy Funders Collective. Together, they unpack the study’s most compelling findings, including slower cancer cell growth, reduced invasiveness, and significantly fewer visible liver metastases in some of the mou",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/5afb3b38-4122-485f-9116-526dfd24b7f0.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Wed, 16 Sep 2026 07:01:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses energy healing research and its implications for health and consciousness.",
+   "tradition": "Interfaith"
   }
  ],
  "history": {
@@ -223,6 +262,9 @@
   "4b0d901a-239d-4a8f-bb68-f9dabeda7de2": "2026-09-18",
   "gid://art19-episode-locator/V0/_8R3n1k30pvGy0NJVRNDEb9g6OoVibmKfB90909HUG8": "2026-09-18",
   "gid://art19-episode-locator/V0/AFtAo_w5JoT43dYc--26CZbLkFu6v0WEU8n27Gg1LyE": "2026-09-18",
-  "1cbd352c-b251-11f1-9b5e-f733dcc99b8b": "2026-09-19"
+  "1cbd352c-b251-11f1-9b5e-f733dcc99b8b": "2026-09-19",
+  "9175c020-a429-43b9-9b81-f5793bacf8a3": "2026-09-20",
+  "26b1307a-b052-11f1-80f9-a7d3fbd8e3af": "2026-09-20",
+  "01a0ab9b-2993-7ae3-97c4-f8de082efbf5": "2026-09-20"
  }
 }
