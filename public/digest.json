@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-20T14:41:38.678181+00:00",
+ "generatedAt": "2026-09-20T18:09:02.492283+00:00",
  "showsScanned": 400,
- "candidates": 48,
+ "candidates": 47,
  "picks": [
   {
    "id": "fc29517e-a701-4125-97fa-b4c2014cbfe4",
@@ -14,7 +14,7 @@
    "published": "Mon, 14 Sep 2026 04:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/67/02/d7/6702d7b4-5dff-4a0a-8e91-54be0a8a7660/mza_15418537704194950179.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores meditation's impact on the brain and consciousness with scientific and contemplative depth.",
+   "reason": "Neuroscientist explains meditation's effects on brain and consciousness with scientific depth.",
    "tradition": "Buddhist"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Thu, 17 Sep 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/5e/41/135e41d6-dbc8-66b9-1367-460ac0f5e6c0/mza_2058775075235418486.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Examines meditation's potential harms, challenging common assumptions about mindfulness.",
+   "reason": "Psychologist reveals unexpected negative effects of meditation challenging assumptions.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +40,7 @@
    "published": "Mon, 14 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A genuine story of faith formation and wrestling with belief from scratch.",
+   "reason": "A fresh, honest conversation about starting and wrestling with Christian faith from scratch.",
    "tradition": "Christian"
   },
   {
@@ -53,7 +53,7 @@
    "published": "Mon, 14 Sep 2026 22:31:15 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Family struggles with faith and doubt within Mormonism, exploring belief and identity.",
+   "reason": "A family’s struggle with faith, doubt, and church challenges over time.",
    "tradition": "Latter-day Saint"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Thu, 17 Sep 2026 16:50:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores meditation's dual role in improving life and understanding mind's nature.",
+   "reason": "Meditation discussed as a tool for living well and understanding mind truthfully.",
    "tradition": "Secular"
   },
   {
@@ -79,8 +79,21 @@
    "published": "Thu, 17 Sep 2026 04:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores Catholic sacramental theology and spiritual warfare with ethical implications.",
+   "reason": "Catholic discussion on confession, sin, and spiritual warfare.",
    "tradition": "Catholic"
+  },
+  {
+   "id": "608cfc4a-af92-11f1-9014-2388d4cbfc8a",
+   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
+   "showTitle": "Live Free with Josh Howerton",
+   "title": "How To Study the Bible (and ACTUALLY Grow Spiritually) | Live Free with Josh Howerton",
+   "summary": "How do you actually study the Bible—and how do you know whether a spiritual experience is really from God?\n\nIn this episode of LIVE FREE, Pastors Josh Howerton, Carlos Erazo, and Paul Cunningham unpack 2 Timothy 2 and get practical about becoming people who know God’s Word and live it out. Carlos and Paul also share powerful reflections from their trip to Israel, including what Gethsemane and Galilee taught them about Jesus, His sacrifice, and the ministry happening right in front of us.\n\nThen the conversation gets practical: How do you avoid pointless Christian arguments without compromising ",
+   "audioURL": "https://traffic.megaphone.fm/HAEEH7841747237.mp3",
+   "published": "Mon, 14 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Practical Bible study with reflections on Jesus' life and spiritual growth.",
+   "tradition": "Christian"
   },
   {
    "id": "ce93d91e-5a15-4e29-ba90-caf6797a1fdc",
@@ -92,21 +105,8 @@
    "published": "Sun, 20 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses parables on generosity and envy, engaging ethical and spiritual themes in Christianity.",
+   "reason": "A serious Christian reflection on generosity and mercy through parables in Matthew.",
    "tradition": "Christian"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/lPDqcAEFRAvuy8Cxj8gU3ur2FW28ArVFbEIaWFiQVrg",
-   "showID": "https://rss.art19.com/the-telepathy-tapes",
-   "showTitle": "The Telepathy Tapes",
-   "title": "S2E50: When Frontier Science Enters Mainstream Journals: Energy Healing Cancer Study Update | Talk Tracks",
-   "summary": "In Season 2 of The Consciousness Cassettes, Ky explored a groundbreaking study at MD Anderson Cancer Center examining energy healing, also known as biofield therapy, in pancreatic cancer cells and mice. Now, that research has officially been published.Ky returns to the study with integrative oncologist Dr. Santosh Rao and Meredith Sprengel, Research and Program Director of the Subtle Energy Funders Collective. Together, they unpack the study’s most compelling findings, including slower cancer cell growth, reduced invasiveness, and significantly fewer visible liver metastases in some of the mou",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/5afb3b38-4122-485f-9116-526dfd24b7f0.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Wed, 16 Sep 2026 07:01:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Discusses energy healing research and its implications for consciousness and health.",
-   "tradition": "Interfaith"
   },
   {
    "id": "https://api.spreaker.com/episode/74912564",
@@ -118,7 +118,7 @@
    "published": "Mon, 14 Sep 2026 11:30:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/82/33/df/8233df68-fc50-a2d4-00c2-03887b16bccb/mza_15463495654775847599.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Shares a personal spiritual awakening story with mystical themes but limited philosophical depth.",
+   "reason": "Personal spiritual awakening story with mystical themes but less philosophical depth.",
    "tradition": "Interfaith"
   },
   {
@@ -131,20 +131,33 @@
    "published": "Sat, 19 Sep 2026 11:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/bf/a0/46bfa07e-d13f-9635-445f-ac2578d5c755/mza_14035070316013714857.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Discusses America's founding principles blending faith and reason but mostly political.",
+   "reason": "Explores America's founding principles blending faith and reason with some philosophical content.",
    "tradition": "Jewish"
   },
   {
-   "id": "608cfc4a-af92-11f1-9014-2388d4cbfc8a",
-   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
-   "showTitle": "Live Free with Josh Howerton",
-   "title": "How To Study the Bible (and ACTUALLY Grow Spiritually) | Live Free with Josh Howerton",
-   "summary": "How do you actually study the Bible—and how do you know whether a spiritual experience is really from God?\n\nIn this episode of LIVE FREE, Pastors Josh Howerton, Carlos Erazo, and Paul Cunningham unpack 2 Timothy 2 and get practical about becoming people who know God’s Word and live it out. Carlos and Paul also share powerful reflections from their trip to Israel, including what Gethsemane and Galilee taught them about Jesus, His sacrifice, and the ministry happening right in front of us.\n\nThen the conversation gets practical: How do you avoid pointless Christian arguments without compromising ",
-   "audioURL": "https://traffic.megaphone.fm/HAEEH7841747237.mp3",
-   "published": "Mon, 14 Sep 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
+   "id": "791bf078-d9ea-11f0-a55b-5f00237a0ad2",
+   "showID": "https://feeds.megaphone.fm/mark-levin-podcast",
+   "showTitle": "Mark Levin Podcast",
+   "title": "9/14/26 - The truth about the Left’s agenda: Why they want to destroy the Declaration",
+   "summary": "On Monday's Mark Levin Show, the Declaration of Independence is the clearest statement of America’s founding principles. The United States was uniquely founded on a fusion of Judeo-Christian values and Enlightenment principles, combining faith, morality, reason, and natural rights while rejecting theocracy. America’s founding principles allow individuals to hold diverse beliefs, including atheism and agnosticism, while preserving freedom of thought and religion. Islamism and Marxism are incompatible with American founding ideals because they reject natural law, natural rights, and the reasonin",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/WWO1029016686.mp3",
+   "published": "Tue, 15 Sep 2026 01:08:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/bf/a0/46bfa07e-d13f-9635-445f-ac2578d5c755/mza_14035070316013714857.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Practical Bible study and spiritual growth with some reflection on Jesus and faith.",
+   "reason": "Continues discussion on America's founding values and religious freedom.",
+   "tradition": "Jewish"
+  },
+  {
+   "id": "0bdda9b549424e6e7f56383f9d198eff",
+   "showID": "https://podcasts.subsplash.com:443/03fe243/podcast.rss",
+   "showTitle": "Prophecy Watchers",
+   "title": "Daniel’s Final Prophecy Is Being Unsealed (Daniel 12:4-13) | Matt Freeman",
+   "summary": "<p>In this concluding study of Daniel 12, Matt Freeman explores the prophetic timeline of the Tribulation, the identity of the Man clothed in linen, the rise of the coming beast system and the mysterious 75-day interval following the return of Jesus Christ. We also discover Daniel’s final challenge to every believer: remain faithful, refuse to compromise and finish well.</p><p><br></p><p><br></p>",
+   "audioURL": "https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvTkhDOEM5LzBjZmNjNzUxLTc1MGUtNGIwNy04ZDMwLTJmZjRhOWU3OGY2NS9hdWRpby5tcDM.mp3?k=NHC8C9&amp;s=3&amp;sapid=mfmcv4j",
+   "published": "Sun, 13 Sep 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/36/4e/30/364e308d-99c9-778e-e711-59e090408814/mza_3684559455643163671.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Study of biblical prophecy focusing on faithfulness amid tribulation.",
    "tradition": "Christian"
   },
   {
@@ -157,8 +170,21 @@
    "published": "Thu, 17 Sep 2026 11:50:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ca/b9/b6/cab9b6ec-130d-51e2-2265-27f0912d3a72/mza_4315298643429931718.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores Jewish historical trauma and political divisions with some ethical reflection.",
+   "reason": "Discussion of Jewish history and political divisions with some ethical reflection.",
    "tradition": "Jewish"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/lPDqcAEFRAvuy8Cxj8gU3ur2FW28ArVFbEIaWFiQVrg",
+   "showID": "https://rss.art19.com/the-telepathy-tapes",
+   "showTitle": "The Telepathy Tapes",
+   "title": "S2E50: When Frontier Science Enters Mainstream Journals: Energy Healing Cancer Study Update | Talk Tracks",
+   "summary": "In Season 2 of The Consciousness Cassettes, Ky explored a groundbreaking study at MD Anderson Cancer Center examining energy healing, also known as biofield therapy, in pancreatic cancer cells and mice. Now, that research has officially been published.Ky returns to the study with integrative oncologist Dr. Santosh Rao and Meredith Sprengel, Research and Program Director of the Subtle Energy Funders Collective. Together, they unpack the study’s most compelling findings, including slower cancer cell growth, reduced invasiveness, and significantly fewer visible liver metastases in some of the mou",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/5afb3b38-4122-485f-9116-526dfd24b7f0.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Wed, 16 Sep 2026 07:01:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores energy healing and cancer research, touching on consciousness and healing.",
+   "tradition": "Interfaith"
   }
  ],
  "history": {
@@ -240,7 +266,7 @@
   "b001533e-2d42-11f1-801d-4fd67788cc86": "2026-09-17",
   "6ef37064-f0fb-4564-b416-4454021aef1a": "2026-09-17",
   "c491245d-1d4a-49ea-b1e6-71e65d96c926": "2026-09-18",
-  "0bdda9b549424e6e7f56383f9d198eff": "2026-09-14",
+  "0bdda9b549424e6e7f56383f9d198eff": "2026-09-20",
   "audioboom-01a0802d-e809-7f4b-ae13-5825c514c277": "2026-09-14",
   "83e981e499fd7b84507cb4db79b79849": "2026-09-20",
   "608cfc4a-af92-11f1-9014-2388d4cbfc8a": "2026-09-20",
@@ -281,6 +307,7 @@
   "01a0ab9b-2993-7ae3-97c4-f8de082efbf5": "2026-09-20",
   "ce93d91e-5a15-4e29-ba90-caf6797a1fdc": "2026-09-20",
   "https://api.spreaker.com/episode/74912564": "2026-09-20",
-  "35c1ff10-a812-11f1-9f02-bbddea1b7da9": "2026-09-20"
+  "35c1ff10-a812-11f1-9f02-bbddea1b7da9": "2026-09-20",
+  "791bf078-d9ea-11f0-a55b-5f00237a0ad2": "2026-09-20"
  }
 }
