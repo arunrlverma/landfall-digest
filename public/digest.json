@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-21T10:33:21.013724+00:00",
+ "generatedAt": "2026-09-21T16:55:47.784237+00:00",
  "showsScanned": 400,
- "candidates": 60,
+ "candidates": 57,
  "picks": [
   {
    "id": "b001533e-2d42-11f1-801d-4fd67788cc86",
@@ -14,21 +14,21 @@
    "published": "Mon, 14 Sep 2026 09:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d8/d5/56/d8d5569b-6431-c55a-509c-820b5bd1002b/mza_14117346978676539247.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A deep conversation on consciousness and letting go, addressing fundamental questions of mind and reality.",
+   "reason": "A serious exploration of consciousness and perception from a scientific and philosophical angle.",
    "tradition": "Secular"
   },
   {
-   "id": "d8a190cd-8e3b-401f-bc54-fb1eb614b59b",
-   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
-   "showTitle": "Come Back Podcast",
-   "title": "God Kept Sending Angels to Levi While He was in Prison... Until He Finally Listened",
-   "summary": "\" I've come to know that Heavenly Father does know. He knows not just what we do or choose to do or the mistakes we make, He knows who we are and what we want. And He's just waiting for us to just even look at Him or acknowledge Him. He has so much for us. He has so much for me. He's given me so much already.\"Tickets to the Come Back to Christ Event: www.comebackpodcast.org00:00 Highway Wake Up Call02:32 Levi Background And Home03:21 Childhood Faith And Doubts06:23 Early Smoking And Rebellion11:46 Heroin And Rock Bottom20:16 Prison Mentors And Letters26:35 Relapse And Arrest Spiral31:15 Church",
-   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/125976130/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-19%2F432218109-44100-2-5a7f777c162be.m4a",
-   "published": "Sun, 20 Sep 2026 21:30:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
+   "id": "coe22.podbean.com/41f4ac1e-8032-3b80-99fa-b3763c603862",
+   "showID": "https://feed.podbean.com/coe22/feed.xml",
+   "showTitle": "The Church of Eleven22",
+   "title": "Saturated Saturday: When God Doesn’t Do What You Think He Should — Pastor Jason Shepherd",
+   "summary": "What happens to your faith when God doesn’t do what you think a good God should do?\nThe gospel doesn’t promise a life without pain. It gives us hope in the middle of it. In 2 Samuel 12, David faces unimaginable loss and has a decision to make: will his pain cause him to stop seeking God, or lead him into deeper trust and surrender?\nGrace doesn’t disappear when pain enters our lives, and God’s character doesn’t change when our circumstances do.The gospel includes suffering, but it ends in resurrection. Because the tomb is empty, pain does not get the final word.\n📌 Supplemental Resources:\n• Jaso",
+   "audioURL": "https://mcdn.podbean.com/mf/web/i2afs45syg88n38f/20260919_Saturated_622_396v473.mp3",
+   "published": "Mon, 21 Sep 2026 14:50:39 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of doubt, faith, and divine patience in a Mormon context.",
-   "tradition": "Latter-day Saint"
+   "reason": "A pastor reflects on faith and suffering through biblical story of David's loss.",
+   "tradition": "Christian"
   },
   {
    "id": "55f666da-b14b-11f1-ab05-6792c6849358",
@@ -40,7 +40,7 @@
    "published": "Tue, 15 Sep 2026 22:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/1f/9c/1a1f9c6d-67fd-0e33-cdf3-4b62617ea9a6/mza_9226157347267917930.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores ancient wisdom addressing meaning and suffering in a modern technological age.",
+   "reason": "Explores ancient wisdom addressing meaning and suffering in modern life.",
    "tradition": "Mythic"
   },
   {
@@ -66,7 +66,7 @@
    "published": "Fri, 18 Sep 2026 16:45:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Podcast on reincarnation and consciousness challenging materialist views of memory and self.",
+   "reason": "Podcast on reincarnation and consciousness challenging materialist views.",
    "tradition": "Interfaith"
   },
   {
@@ -79,7 +79,7 @@
    "published": "Mon, 21 Sep 2026 06:32:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3b/aa/c3/3baac323-1f74-650a-2c04-f35ad21a51e9/mza_7781202281310692386.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discussion on afterlife experiences and consciousness as a creative realm.",
+   "reason": "Discussion on afterlife experiences and consciousness beyond death.",
    "tradition": "Interfaith"
   },
   {
@@ -92,34 +92,21 @@
    "published": "Fri, 18 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores spiritual emptiness and virtue through Jesus' parables in Matthew.",
+   "reason": "Considers spiritual emptiness and virtue through parables on sin and soul.",
    "tradition": "Catholic"
   },
   {
-   "id": "coe22.podbean.com/5e53bc18-340b-3ca2-b43a-64a7dbf8006a",
-   "showID": "https://feed.podbean.com/coe22/feed.xml",
-   "showTitle": "The Church of Eleven22",
-   "title": "Saturated Sunday: Two Options - Religion to Redemption - Matthew S6E7",
-   "summary": "In Matthew 26, we see two very different responses to Jesus. \nMary pours out what is most valuable to her in extravagant worship, while Judas chooses his own way when Jesus does not give him what he wants.\nReligion asks what we can get from Jesus. Redemption recognizes what Jesus has already done for us and responds by surrendering everything to Him. There is no middle ground. \nWe can live life our own way, or we can fall at the feet of Jesus and pour out our lives for the One who poured out His life for us.\n📌 Supplemental Resources:\n• Saturated Sunday: Deepen Podcast\n• Saturated Sunday: Full ",
-   "audioURL": "https://mcdn.podbean.com/mf/web/vpx5tcbrs6r2hybg/Saturated_Sunday98zm0.mp3",
-   "published": "Mon, 21 Sep 2026 01:37:07 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
+   "id": "d8a190cd-8e3b-401f-bc54-fb1eb614b59b",
+   "showID": "https://anchor.fm/s/a88a2228/podcast/rss",
+   "showTitle": "Come Back Podcast",
+   "title": "God Kept Sending Angels to Levi While He was in Prison... Until He Finally Listened",
+   "summary": "\" I've come to know that Heavenly Father does know. He knows not just what we do or choose to do or the mistakes we make, He knows who we are and what we want. And He's just waiting for us to just even look at Him or acknowledge Him. He has so much for us. He has so much for me. He's given me so much already.\"Tickets to the Come Back to Christ Event: www.comebackpodcast.org00:00 Highway Wake Up Call02:32 Levi Background And Home03:21 Childhood Faith And Doubts06:23 Early Smoking And Rebellion11:46 Heroin And Rock Bottom20:16 Prison Mentors And Letters26:35 Relapse And Arrest Spiral31:15 Church",
+   "audioURL": "https://anchor.fm/s/a88a2228/podcast/play/125976130/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-19%2F432218109-44100-2-5a7f777c162be.m4a",
+   "published": "Sun, 20 Sep 2026 21:30:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Contrasts religion and redemption through surrender to Jesus, exploring faith choices.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "7b8d0ded-674c-426b-94b3-ed63279d069e",
-   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
-   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
-   "title": "Day 264: Preaching Without Practice (2026)",
-   "summary": "Fr. Mike continues to explain the parables Christ recites in Jerusalem, specifically focusing on the dangers of preaching God's Word without practicing it in our lives. Jesus goes on to speak against the Scribes and Pharisees, reminding us that he's not only the Prince of Peace, but the Way and the Truth. Today's readings are Matthew 22-24 and Proverbs 19:17-20.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/7b8d0ded-674c-426b-94b3-ed63279d069e.mp3",
-   "published": "Mon, 21 Sep 2026 03:15:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Examines the importance of practicing faith, not just preaching it.",
-   "tradition": "Catholic"
+   "reason": "Personal story of faith, doubt, and divine presence in hardship.",
+   "tradition": "Latter-day Saint"
   },
   {
    "id": "c96a42bf-d6da-47b8-90cc-b5d42fe32800",
@@ -131,7 +118,7 @@
    "published": "Mon, 21 Sep 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A true story about suffering, belief, and exorcism raising questions of faith.",
+   "reason": "Examines suffering, mental illness, and belief in possession with ethical implications.",
    "tradition": "Christian"
   },
   {
@@ -144,7 +131,7 @@
    "published": "Mon, 21 Sep 2026 05:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "Insights into creativity and transcendence from a spiritual and psychological view.",
+   "reason": "Discusses creative process as spiritual and psychological transcendence.",
    "tradition": "Secular"
   },
   {
@@ -157,20 +144,7 @@
    "published": "Mon, 14 Sep 2026 09:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/71/b9/a2/71b9a281-ef14-3317-3407-317b2c86feda/mza_2951453104086058545.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Reflects on personal struggle with anxiety and self-regulation, relevant to inner life and suffering.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "prx_192_af25c06e-cf17-40b8-9f17-f41365368e05",
-   "showID": "https://rss.pdrl.fm/0f808e/feeds.feedburner.com/TheScienceOfHappiness",
-   "showTitle": "The Science of Happiness",
-   "title": "Happiness Break: A Meditation on the Uniqueness of Your Voice",
-   "summary": "In celebration of Latinx Heritage Month, embrace the beauty of your accent in this self-compassion meditation. Mindfulness and meditation teacher Criss Cuervo invites you to reflect on your history, heritage, and connection to your ancestors.How To Do This Practice:\n\nFind a Comfortable Position: Sit in a relaxed yet alert posture, either on a cushion or chair. Gently lower your gaze or close your eyes if that feels comfortable.\n\nFocus on Your Breath: Take a deep breath in and slowly exhale. Allow yourself to transition from your daily activities into this moment of reflection.\n\nAcknowledge You",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/dovetail.prxu.org/192/af25c06e-cf17-40b8-9f17-f41365368e05/SoH_HB_Criss_Cuervo_Accents_mix_3.mp3",
-   "published": "Thu, 17 Sep 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "A meditation on voice and heritage touching on identity and self-compassion.",
+   "reason": "Reflects on personal struggle with anxiety and self-regulation, relevant to inner life.",
    "tradition": "Secular"
   },
   {
@@ -183,7 +157,7 @@
    "published": "Mon, 14 Sep 2026 00:24:04 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Christian teaching on end times and ethical living with focus on readiness and salvation.",
+   "reason": "Christian teaching on end times and ethical living in light of Jesus' return.",
    "tradition": "Christian"
   },
   {
@@ -196,7 +170,7 @@
    "published": "Mon, 21 Sep 2026 06:22:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3b/aa/c3/3baac323-1f74-650a-2c04-f35ad21a51e9/mza_7781202281310692386.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Comparison of spirituality and multiverse theories with some metaphysical speculation.",
+   "reason": "Explores parallels between spirituality and scientific multiverse theories.",
    "tradition": "Interfaith"
   },
   {
@@ -209,20 +183,46 @@
    "published": "Sun, 20 Sep 2026 18:24:11 -0600",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A prophetic Christian perspective on hope amid societal collapse and faith challenges.",
+   "reason": "Explores prophetic hope amid chaos, touching on faith and restoration.",
    "tradition": "Christian"
   },
   {
-   "id": "99ea49bc-ab72-11f1-8086-5fa71db4471a",
-   "showID": "https://feeds.megaphone.fm/SGP8517078272",
-   "showTitle": "Get Sleepy: stories for sleep",
-   "title": "Light Switch Meditation for Sleep (Encore)",
-   "summary": "Writer & Narrator: Thomas Jones 🇬🇧&nbsp;\n\n\n\nWelcome back, sleepyheads. Tonight, we'll invite you to progressively relax your body, imagining that there’s a light switch for each area. 😴\n\nFirst released: June 15th, 2020.&nbsp;\n\n\n\nGet Sleepy Premium\n\nListen completely ad-free and access our entire catalogue of stories and meditations by subscribing to our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠premium feed.⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\nYour support means the world to us and makes it possible to keep the show running! ❤️ \n\n\n\nGet your 7-day free trial: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠getsleepy.com/support⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
-   "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/SGP3523539890.mp3",
-   "published": "Fri, 18 Sep 2026 14:40:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
+   "id": "7b8d0ded-674c-426b-94b3-ed63279d069e",
+   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
+   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
+   "title": "Day 264: Preaching Without Practice (2026)",
+   "summary": "Fr. Mike continues to explain the parables Christ recites in Jerusalem, specifically focusing on the dangers of preaching God's Word without practicing it in our lives. Jesus goes on to speak against the Scribes and Pharisees, reminding us that he's not only the Prince of Peace, but the Way and the Truth. Today's readings are Matthew 22-24 and Proverbs 19:17-20.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/7b8d0ded-674c-426b-94b3-ed63279d069e.mp3",
+   "published": "Mon, 21 Sep 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Guided meditation for sleep, helpful for inner calm but not a deep conversation on ultimate questions.",
+   "reason": "Discusses integrity in preaching and living faith with scriptural focus.",
+   "tradition": "Catholic"
+  },
+  {
+   "id": "61066efe-b47e-11f1-be65-8f53fa9b0eaf",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "LUCY HALE: “I Was Sabotaging My Life.”",
+   "summary": "Jay sits down with actress Lucy Hale, who at 37 says she feels more comfortable with herself than ever before. Lucy opens up about letting go of society’s timelines, navigating media scrutiny and body insecurity while growing up in the early days of social media, and her relationship with alcohol and path to sobriety. Lucy also shares her decision to freeze her eggs on her own terms, and how solitude, self-forgiveness, and personal growth have changed the way she approaches love, relationships, and herself.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nMazda crafts cars for people who do more than si",
+   "audioURL": "https://traffic.megaphone.fm/GLT4407358889.mp3",
+   "published": "Mon, 21 Sep 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Personal growth and sobriety story with spiritual undertones.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "9406f0b4-b373-11f1-b027-5784095f6c20",
+   "showID": "https://feeds.megaphone.fm/GLT6907573392",
+   "showTitle": "The Rest Is Science",
+   "title": "Dying In Space, Trapped Water, and What's Hidden In Pi?",
+   "summary": "Almost every human who has ever lived has one thing in common: they were born and died on Earth. Except for three people.\n\nHannah Fry and Michael Stevens uncover the extraordinary story of Soyuz 11, the Soviet cosmonauts who became the only humans ever to die in outer space, and what their deaths meant for the future of human spaceflight.But that raises a bigger question: what exactly is trapped on Earth, and what can escape?\n\nIs the water left inside discarded plastic bottles being locked away forever? Is Earth itself slowly leaking water into space? Can you really trap a monkey simply becaus",
+   "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/GLT4251173396.mp3",
+   "published": "Sun, 20 Sep 2026 21:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/7d/0c/b57d0c08-17e6-0ec9-484a-491f759d48b7/mza_3391787018699283273.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores death in space and human mortality, but with a scientific storytelling focus.",
    "tradition": "Secular"
   }
  ],
@@ -358,6 +358,8 @@
   "flightcast:01M2RHNG0S1MZ1VD7AG18AGCZ7": "2026-09-21",
   "05b2b97e-d71d-48af-8402-4b9e40b9bffb": "2026-09-21",
   "unshaken.podbean.com/fc02dacc-15eb-3496-b7cd-4c8c10aff132": "2026-09-21",
-  "99ea49bc-ab72-11f1-8086-5fa71db4471a": "2026-09-21"
+  "99ea49bc-ab72-11f1-8086-5fa71db4471a": "2026-09-21",
+  "coe22.podbean.com/41f4ac1e-8032-3b80-99fa-b3763c603862": "2026-09-21",
+  "61066efe-b47e-11f1-be65-8f53fa9b0eaf": "2026-09-21"
  }
 }
