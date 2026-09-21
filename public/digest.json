@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-21T20:55:13.935035+00:00",
+ "generatedAt": "2026-09-21T23:58:16.045025+00:00",
  "showsScanned": 400,
- "candidates": 56,
+ "candidates": 57,
  "picks": [
   {
    "id": "coe22.podbean.com/41f4ac1e-8032-3b80-99fa-b3763c603862",
@@ -14,7 +14,7 @@
    "published": "Mon, 21 Sep 2026 14:50:39 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A pastor reflects on faith and suffering through biblical loss and trust.",
+   "reason": "A Christian pastor reflects on faith and suffering without easy answers.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +27,20 @@
    "published": "Fri, 18 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores spiritual emptiness and virtue through parables on the soul's condition.",
+   "reason": "Explains parables focusing on sin, virtue, and relationship with God.",
+   "tradition": "Catholic"
+  },
+  {
+   "id": "7b8d0ded-674c-426b-94b3-ed63279d069e",
+   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
+   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
+   "title": "Day 264: Preaching Without Practice (2026)",
+   "summary": "Fr. Mike continues to explain the parables Christ recites in Jerusalem, specifically focusing on the dangers of preaching God's Word without practicing it in our lives. Jesus goes on to speak against the Scribes and Pharisees, reminding us that he's not only the Prince of Peace, but the Way and the Truth. Today's readings are Matthew 22-24 and Proverbs 19:17-20.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/7b8d0ded-674c-426b-94b3-ed63279d069e.mp3",
+   "published": "Mon, 21 Sep 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Focuses on practicing faith authentically and Jesus' teachings.",
    "tradition": "Catholic"
   },
   {
@@ -40,21 +53,8 @@
    "published": "Tue, 15 Sep 2026 22:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/1f/9c/1a1f9c6d-67fd-0e33-cdf3-4b62617ea9a6/mza_9226157347267917930.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores ancient wisdom addressing meaning and suffering in modern life.",
+   "reason": "Discussion of ancient wisdom addressing meaning and human nature in modern times.",
    "tradition": "Mythic"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/0MkatLR4DawZ-cIPIiiREgr6oDP2wsT7fDC6SotY_b4",
-   "showID": "https://rss.art19.com/business-game-changers",
-   "showTitle": "Sarah Westall - Business Game Changers",
-   "title": "The Research Redefining Death, Consciousness and Reincarnation | Dr. James Matlock",
-   "summary": "Sign up for the newsletter and see exclusives now at WestallMedia.com or still at SarahWestall.Substack.comReincarnation and consciousness researcher Dr. James Matlock joins the program to discuss his decades of work in parapsychology, including the study of reported past-life memories. Matlock examines thousands of documented cases involving young children who appear to recall specific details about deceased individuals they would seemingly have had no ordinary way of knowing.In today’s discussion, Sarah and Dr. Matlock explore the kinds of evidence researchers look for in these cases, includ",
-   "audioURL": "https://rss.art19.com/episodes/96dae927-b534-4304-a8f9-ae4f98432007.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Sun, 20 Sep 2026 13:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/b0/40/76b040b7-7816-1014-9ad5-8f42c57950ff/mza_1840902391107729251.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Research on reincarnation and consciousness through documented past-life memories.",
-   "tradition": "Interfaith"
   },
   {
    "id": "gid://art19-episode-locator/V0/AFtAo_w5JoT43dYc--26CZbLkFu6v0WEU8n27Gg1LyE",
@@ -66,7 +66,7 @@
    "published": "Fri, 18 Sep 2026 16:45:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Podcast exploring reincarnation and consciousness challenging common beliefs.",
+   "reason": "Explores reincarnation and consciousness challenging conventional views.",
    "tradition": "Interfaith"
   },
   {
@@ -79,21 +79,8 @@
    "published": "Mon, 21 Sep 2026 06:32:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3b/aa/c3/3baac323-1f74-650a-2c04-f35ad21a51e9/mza_7781202281310692386.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discussion on afterlife experiences and consciousness beyond death.",
+   "reason": "A father shares insights on the afterlife from communication with his deceased son.",
    "tradition": "Interfaith"
-  },
-  {
-   "id": "unshaken.podbean.com/fc02dacc-15eb-3496-b7cd-4c8c10aff132",
-   "showID": "https://feed.podbean.com/unshaken/feed.xml",
-   "showTitle": "Unshaken Saints",
-   "title": "Isaiah 13-35: Isaiah Foresees the Apostasy and Restoration",
-   "summary": "What do you do when the world around you seems to be spinning into chaos, noise, and spiritual deception? In Isaiah 13–35, the prophet looks past the rising superpowers of his day to deliver a sweeping message for our modern world: Babylon will fall, but Zion will stand! If you have ever felt overwhelmed by the weight of the last days, this masterclass reveals why you can hang every hope upon the Savior and know that He will hold.\nSummary: In this deep dive into Isaiah 13–35, we walk through the profound prophetic chapters that Nephi loved, lived, and quoted throughout the Book of Mormon. Movi",
-   "audioURL": "https://mcdn.podbean.com/mf/web/t6d9dgdqqttp8f5a/Isaiah13-35_full_audio_enhanced_099kn7.m4a",
-   "published": "Sun, 20 Sep 2026 18:24:11 -0600",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A prophetic biblical message offering hope amid chaos and spiritual deception.",
-   "tradition": "Christian"
   },
   {
    "id": "d8a190cd-8e3b-401f-bc54-fb1eb614b59b",
@@ -105,21 +92,8 @@
    "published": "Sun, 20 Sep 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Personal story of faith, doubt, and divine patience in hardship.",
+   "reason": "Personal story of faith, doubt, and spiritual awakening.",
    "tradition": "Latter-day Saint"
-  },
-  {
-   "id": "7b8d0ded-674c-426b-94b3-ed63279d069e",
-   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
-   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
-   "title": "Day 264: Preaching Without Practice (2026)",
-   "summary": "Fr. Mike continues to explain the parables Christ recites in Jerusalem, specifically focusing on the dangers of preaching God's Word without practicing it in our lives. Jesus goes on to speak against the Scribes and Pharisees, reminding us that he's not only the Prince of Peace, but the Way and the Truth. Today's readings are Matthew 22-24 and Proverbs 19:17-20.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is advised.]]>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/7b8d0ded-674c-426b-94b3-ed63279d069e.mp3",
-   "published": "Mon, 21 Sep 2026 03:15:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Reflection on practicing faith authentically beyond mere preaching.",
-   "tradition": "Catholic"
   },
   {
    "id": "c96a42bf-d6da-47b8-90cc-b5d42fe32800",
@@ -131,60 +105,8 @@
    "published": "Mon, 21 Sep 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines suffering, mental illness, and belief in demonic possession.",
+   "reason": "Narrates a case involving possession, suffering, and religious belief.",
    "tradition": "Christian"
-  },
-  {
-   "id": "b001533e-2d42-11f1-801d-4fd67788cc86",
-   "showID": "https://feeds.megaphone.fm/QCD2348265349",
-   "showTitle": "The Why Files: Operation Podcast",
-   "title": "The Basement: Donald Hoffman | Consciousness, Math, and the Case for Letting Go",
-   "summary": "-One thing to pack, five ways to power! Get 10% Off @Ridge with code BASEMENT at https://www.Ridge.com/BASEMENT #Ridgepod\n\n\n\n-Discover how to move your IRA or 401k into physical gold and silver — with no taxes or penalties. Get your free portfolio review and free gold & silver guide from GoldenCrest Metals: visit https://GoldenCrestMetals.com/thewhyfiles or call (888) 949-9172 now.\n\n\n\n-For a limited time, get 50% off for life, free shipping, and 3 free gifts at https://mengotomars.com. #ad\n\n\n\nDonald Hoffman has spent forty years asking one question: are we just machines? He walked away from a ",
-   "audioURL": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD6527245147.mp3",
-   "published": "Mon, 14 Sep 2026 09:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d8/d5/56/d8d5569b-6431-c55a-509c-820b5bd1002b/mza_14117346978676539247.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Discusses consciousness and letting go from a scientific and philosophical view.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "e8033428-b514-11f1-9ace-132976287f0f",
-   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
-   "showTitle": "Live Free with Josh Howerton",
-   "title": "Does the Bible Have CONTRADICTIONS!? (Pastors EXPLAIN) | Live Free with Josh Howerton",
-   "summary": "Does the Bible contradict itself? What should you do when someone points to two passages that seem impossible to reconcile?\n\nPastors Carlos and Paul tackle one of the biggest questions Christians and skeptics ask about Scripture. Starting in 2 Timothy 3, they unpack what Christians actually mean when they say the Bible is inspired and trustworthy—and then put those claims to the test.\n\nFrom different Gospel accounts and genealogies to faith versus works and supposed scientific errors, this conversation offers a practical framework for approaching difficult passages without ignoring honest ques",
-   "audioURL": "https://traffic.megaphone.fm/HAEEH3206386671.mp3",
-   "published": "Mon, 21 Sep 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Pastors discuss biblical contradictions focusing on scripture interpretation.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "coe22.podbean.com/825ea492-9efa-398c-8f5f-78dac311b070",
-   "showID": "https://feed.podbean.com/coe22/feed.xml",
-   "showTitle": "The Church of Eleven22",
-   "title": "Don't Miss The Point - Religion to Redemption - Matthew S6E6",
-   "summary": "What does the Bible really say about the end times, and how should we live knowing Jesus is coming back?\nIn Matthew 24 and 25, Jesus teaches about His return, the signs of the end times and the importance of being ready. While Christians may disagree on the details of how the end times will unfold, we can agree on what matters most: Jesus is coming back, salvation is found in Him alone and the invitation is open right now.\nDon’t get so caught up in predicting when Jesus will return that you miss the point. The question isn’t whether you have every detail figured out. The question is whether yo",
-   "audioURL": "https://mcdn.podbean.com/mf/web/9kqcfir5rv8n26qs/20260913_922_20b906f.mp3",
-   "published": "Mon, 14 Sep 2026 00:24:04 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Christian teaching on end times and ethical living in light of Jesus' return.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "05b2b97e-d71d-48af-8402-4b9e40b9bffb",
-   "showID": "https://feeds.libsyn.com/624445/rss",
-   "showTitle": "Mysterious Radio: Paranormal, UFO & Lore Interviews",
-   "title": "Spirituality and Other Dimensions",
-   "summary": "My special guest is Christopher White who makes the argument that spirituality and other worldly dimensions have a lot in common. Get his book - Spirituality and the Search for Invisible Dimensions What do modern multiverse theories and spiritualist séances have in common? Not much, it would seem. One is an elaborate scientific theory developed by the world's most talented physicists. The other is a spiritual practice widely thought of as backward, the product of a mystical world view fading under the modern scientific gaze. But Christopher G. White sees striking similarities. He does not clai",
-   "audioURL": "https://traffic.libsyn.com/secure/82194595-4954-465c-b84e-f11a87d040e4/Spirituality_and_Other_Dimensions_-_NF1_-_MR-NC.mp3?dest-id=5495700",
-   "published": "Mon, 21 Sep 2026 06:22:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3b/aa/c3/3baac323-1f74-650a-2c04-f35ad21a51e9/mza_7781202281310692386.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Compares spirituality and multiverse theories with some speculative ideas.",
-   "tradition": "Interfaith"
   },
   {
    "id": "flightcast:01M2RHNG0S1MZ1VD7AG18AGCZ7",
@@ -195,34 +117,8 @@
    "audioURL": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M2RHNG0S1MZ1VD7AG18AGCZ7.mp3",
    "published": "Mon, 21 Sep 2026 05:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses creative process with spiritual and psychological insights.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "61066efe-b47e-11f1-be65-8f53fa9b0eaf",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "LUCY HALE: “I Was Sabotaging My Life.”",
-   "summary": "Jay sits down with actress Lucy Hale, who at 37 says she feels more comfortable with herself than ever before. Lucy opens up about letting go of society’s timelines, navigating media scrutiny and body insecurity while growing up in the early days of social media, and her relationship with alcohol and path to sobriety. Lucy also shares her decision to freeze her eggs on her own terms, and how solitude, self-forgiveness, and personal growth have changed the way she approaches love, relationships, and herself.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nMazda crafts cars for people who do more than si",
-   "audioURL": "https://traffic.megaphone.fm/GLT4407358889.mp3",
-   "published": "Mon, 21 Sep 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Personal growth and sobriety with some spiritual themes.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "6ef37064-f0fb-4564-b416-4454021aef1a",
-   "showID": "https://feeds.simplecast.com/a_oJqxkb",
-   "showTitle": "The Best People with Nicolle Wallace",
-   "title": "Dan Harris Wants Us to Stop Worrying Alone",
-   "summary": "Dan Harris knows that the most important fight is the one happening within. Reflecting on his journey of self-regulation, the former ABC anchor recalls a news report on Good Morning America on a warm June morning in 2004 where he — very publicly — had a panic attack live on-air. It was a huge wake up call for Harris, he says. “I realized I needed to change my life.” More than two decades later, the “10% Happier” podcast host joins Nicolle days after the debut of his two new series: MS NOW’s “The Week in Sanity” and “Never Worry Alone.” They discuss the benefits of meditation, argue against the",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/ef5826ab-74ea-41be-972d-3af3ffaaa65b/episodes/f7c4b1af-24cd-4b27-afe9-7962c5ca0dba/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ef5826ab-74ea-41be-972d-3af3ffaaa65b&amp;awEpisodeId=f7c4b1af-24cd-4b27-afe9-7962c5ca0dba&amp;feed=a_oJqxkb",
-   "published": "Mon, 14 Sep 2026 09:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/71/b9/a2/71b9a281-ef14-3317-3407-317b2c86feda/mza_2951453104086058545.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Focuses on mental health and self-regulation with some spiritual undertones.",
+   "rating": 7,
+   "reason": "Discusses creativity as a spiritual and psychological process.",
    "tradition": "Secular"
   },
   {
@@ -234,8 +130,86 @@
    "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/GLT4251173396.mp3",
    "published": "Sun, 20 Sep 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/7d/0c/b57d0c08-17e6-0ec9-484a-491f759d48b7/mza_3391787018699283273.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Examines mortality and human limits through space exploration history.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "coe22.podbean.com/825ea492-9efa-398c-8f5f-78dac311b070",
+   "showID": "https://feed.podbean.com/coe22/feed.xml",
+   "showTitle": "The Church of Eleven22",
+   "title": "Don't Miss The Point - Religion to Redemption - Matthew S6E6",
+   "summary": "What does the Bible really say about the end times, and how should we live knowing Jesus is coming back?\nIn Matthew 24 and 25, Jesus teaches about His return, the signs of the end times and the importance of being ready. While Christians may disagree on the details of how the end times will unfold, we can agree on what matters most: Jesus is coming back, salvation is found in Him alone and the invitation is open right now.\nDon’t get so caught up in predicting when Jesus will return that you miss the point. The question isn’t whether you have every detail figured out. The question is whether yo",
+   "audioURL": "https://mcdn.podbean.com/mf/web/9kqcfir5rv8n26qs/20260913_922_20b906f.mp3",
+   "published": "Mon, 14 Sep 2026 00:24:04 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores death in space and human mortality with scientific curiosity.",
+   "reason": "Christian teaching on eschatology and ethical living in light of Jesus' return.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/0MkatLR4DawZ-cIPIiiREgr6oDP2wsT7fDC6SotY_b4",
+   "showID": "https://rss.art19.com/business-game-changers",
+   "showTitle": "Sarah Westall - Business Game Changers",
+   "title": "The Research Redefining Death, Consciousness and Reincarnation | Dr. James Matlock",
+   "summary": "Sign up for the newsletter and see exclusives now at WestallMedia.com or still at SarahWestall.Substack.comReincarnation and consciousness researcher Dr. James Matlock joins the program to discuss his decades of work in parapsychology, including the study of reported past-life memories. Matlock examines thousands of documented cases involving young children who appear to recall specific details about deceased individuals they would seemingly have had no ordinary way of knowing.In today’s discussion, Sarah and Dr. Matlock explore the kinds of evidence researchers look for in these cases, includ",
+   "audioURL": "https://rss.art19.com/episodes/96dae927-b534-4304-a8f9-ae4f98432007.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Sun, 20 Sep 2026 13:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/b0/40/76b040b7-7816-1014-9ad5-8f42c57950ff/mza_1840902391107729251.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Research on reincarnation and consciousness through parapsychology cases.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "05b2b97e-d71d-48af-8402-4b9e40b9bffb",
+   "showID": "https://feeds.libsyn.com/624445/rss",
+   "showTitle": "Mysterious Radio: Paranormal, UFO & Lore Interviews",
+   "title": "Spirituality and Other Dimensions",
+   "summary": "My special guest is Christopher White who makes the argument that spirituality and other worldly dimensions have a lot in common. Get his book - Spirituality and the Search for Invisible Dimensions What do modern multiverse theories and spiritualist séances have in common? Not much, it would seem. One is an elaborate scientific theory developed by the world's most talented physicists. The other is a spiritual practice widely thought of as backward, the product of a mystical world view fading under the modern scientific gaze. But Christopher G. White sees striking similarities. He does not clai",
+   "audioURL": "https://traffic.libsyn.com/secure/82194595-4954-465c-b84e-f11a87d040e4/Spirituality_and_Other_Dimensions_-_NF1_-_MR-NC.mp3?dest-id=5495700",
+   "published": "Mon, 21 Sep 2026 06:22:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3b/aa/c3/3baac323-1f74-650a-2c04-f35ad21a51e9/mza_7781202281310692386.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Connects spirituality and multiverse theories, blending science and mysticism.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "unshaken.podbean.com/fc02dacc-15eb-3496-b7cd-4c8c10aff132",
+   "showID": "https://feed.podbean.com/unshaken/feed.xml",
+   "showTitle": "Unshaken Saints",
+   "title": "Isaiah 13-35: Isaiah Foresees the Apostasy and Restoration",
+   "summary": "What do you do when the world around you seems to be spinning into chaos, noise, and spiritual deception? In Isaiah 13–35, the prophet looks past the rising superpowers of his day to deliver a sweeping message for our modern world: Babylon will fall, but Zion will stand! If you have ever felt overwhelmed by the weight of the last days, this masterclass reveals why you can hang every hope upon the Savior and know that He will hold.\nSummary: In this deep dive into Isaiah 13–35, we walk through the profound prophetic chapters that Nephi loved, lived, and quoted throughout the Book of Mormon. Movi",
+   "audioURL": "https://mcdn.podbean.com/mf/web/t6d9dgdqqttp8f5a/Isaiah13-35_full_audio_enhanced_099kn7.m4a",
+   "published": "Sun, 20 Sep 2026 18:24:11 -0600",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d0/2b/09/d02b0957-eba7-2e21-f90e-af1605b7deed/mza_17312734291883916243.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores prophecy and hope amid chaos with spiritual themes.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "313e63fb6c7cf6dce4a990b3e1a875e0",
+   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
+   "showTitle": "Becoming Something with Jonathan Pokluda",
+   "title": "Episode 390: Don't Let That Hold You Back | feat. Annie F. Downs",
+   "summary": "<p>This week we sit down with author and podcaster Annie F. Downs to talk about her new book, Don't Let That Hold You Back, stepping into the dreams God has placed in your heart, and why the enemy works overtime to keep you from them. Annie opens up about her engagement, choosing not to have kids, and what it means to finish your name well. Pick up her new book wherever books are sold — you're going to love it! https://a.co/d/06ofEkVN</p>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4L2E4MDQyODllLWM4ODQtNGE2Ni05Yzg5LWVhYTY1YzMyMjBjZi9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=4frzqjn",
+   "published": "Mon, 21 Sep 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses faith, dreams, and spiritual obstacles but with a motivational tone.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "61066efe-b47e-11f1-be65-8f53fa9b0eaf",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "LUCY HALE: “I Was Sabotaging My Life.”",
+   "summary": "Jay sits down with actress Lucy Hale, who at 37 says she feels more comfortable with herself than ever before. Lucy opens up about letting go of society’s timelines, navigating media scrutiny and body insecurity while growing up in the early days of social media, and her relationship with alcohol and path to sobriety. Lucy also shares her decision to freeze her eggs on her own terms, and how solitude, self-forgiveness, and personal growth have changed the way she approaches love, relationships, and herself.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nMazda crafts cars for people who do more than si",
+   "audioURL": "https://traffic.megaphone.fm/GLT4407358889.mp3",
+   "published": "Mon, 21 Sep 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Shares personal growth and sobriety journey with spiritual reflections.",
    "tradition": "Secular"
   }
  ],
@@ -374,6 +348,7 @@
   "99ea49bc-ab72-11f1-8086-5fa71db4471a": "2026-09-21",
   "coe22.podbean.com/41f4ac1e-8032-3b80-99fa-b3763c603862": "2026-09-21",
   "61066efe-b47e-11f1-be65-8f53fa9b0eaf": "2026-09-21",
-  "e8033428-b514-11f1-9ace-132976287f0f": "2026-09-21"
+  "e8033428-b514-11f1-9ace-132976287f0f": "2026-09-21",
+  "313e63fb6c7cf6dce4a990b3e1a875e0": "2026-09-21"
  }
 }
