@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-22T18:39:51.096868+00:00",
+ "generatedAt": "2026-09-22T21:55:58.908881+00:00",
  "showsScanned": 400,
- "candidates": 54,
+ "candidates": 53,
  "picks": [
   {
    "id": "gid://art19-episode-locator/V0/1g6QJcMEi5iVQ37fRzJW7gsc5Sg8od6T4mRfEnWkpxQ",
@@ -14,7 +14,33 @@
    "published": "Wed, 16 Sep 2026 09:30:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/c9/5d/66c95da6-3ed6-20fc-7a54-8fd6cdf3c237/mza_81406979434027984.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A neuropsychoanalyst deeply explores consciousness and the self's origin.",
+   "reason": "Neuropsychoanalyst explores the nature of self and consciousness deeply.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "3df4e68e-e1d9-4c9d-a928-9fcefda7160a",
+   "showID": "https://feeds.libsyn.com/570160/rss",
+   "showTitle": "10% Happier with Dan Harris",
+   "title": "The Reset for Anxiety, Overthinking, and Losing Yourself in the Wrong Story | Diana Winston",
+   "summary": "A simple daily check-in you can do anywhere, a four-part practice for handling hard emotions, and a new way to relate to negative judgments. Plus, why transcendence is more accessible than you think. Diana Winston is the Director of UCLA Mindful, with three decades of experience teaching mindfulness for health and well-being. She has authored three books, including  The Little Book of Being, and has taught at Spirit Rock Meditation Center for 25 years. A founder of the International Mindfulness Teachers Association, she continues to guide individuals and organizations in cultivating awareness ",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/05620661-2103-4fe0-9ab9-92bfc4d9cf22/20260902_TPHP_DianaWinston_AUDIO_Mastered_AudioVersion_v2.1.mp3?dest-id=4933335",
+   "published": "Wed, 16 Sep 2026 07:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Mindfulness expert offers practical tools for handling anxiety and negative thoughts.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "ac5b67a4-b15b-11f1-9a35-97bf96f31149",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "OPRAH WINFREY: The Life Lessons That Changed Everything",
+   "summary": "In a rare and deeply personal conversation, Jay sits down with Oprah Winfrey to reflect on the defining moments, hard-earned lessons, and extraordinary journey that shaped her life. Oprah opens up about her earliest memories in Mississippi, surviving childhood abuse, and how those experiences shaped the woman she would become. She traces her remarkable rise from a small radio job to one of the most influential voices in the world, sharing the spiritual practices that have grounded her along the way and the Maya Angelou wisdom that transformed how she thinks about legacy. Oprah also reflects on",
+   "audioURL": "https://traffic.megaphone.fm/GLT9625752794.mp3",
+   "published": "Wed, 16 Sep 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Oprah reflects on suffering, growth, and spiritual practices shaping her life.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +53,7 @@
    "published": "Wed, 16 Sep 2026 13:00:44 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores the doctrine of hell and human choice from a Catholic theological perspective.",
+   "reason": "Philosophical explanation of hell and free will in Catholic theology.",
    "tradition": "Catholic"
   },
   {
@@ -40,7 +66,7 @@
    "published": "Tue, 22 Sep 2026 05:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5c/5e/14/5c5e14b6-8d9b-e05c-ba54-eabdf73d937c/mza_1153418961305898034.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores spiritual context before Christianity focusing on Jesus' formative influences.",
+   "reason": "Explores spiritual roots of Jesus’ time before Christianity emerged.",
    "tradition": "Christian"
   },
   {
@@ -53,34 +79,21 @@
    "published": "Tue, 22 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explains sins of omission and their spiritual consequences in Christian life.",
+   "reason": "Examines moral responsibility and salvation through Christian parables.",
    "tradition": "Christian"
   },
   {
-   "id": "ac5b67a4-b15b-11f1-9a35-97bf96f31149",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "OPRAH WINFREY: The Life Lessons That Changed Everything",
-   "summary": "In a rare and deeply personal conversation, Jay sits down with Oprah Winfrey to reflect on the defining moments, hard-earned lessons, and extraordinary journey that shaped her life. Oprah opens up about her earliest memories in Mississippi, surviving childhood abuse, and how those experiences shaped the woman she would become. She traces her remarkable rise from a small radio job to one of the most influential voices in the world, sharing the spiritual practices that have grounded her along the way and the Maya Angelou wisdom that transformed how she thinks about legacy. Oprah also reflects on",
-   "audioURL": "https://traffic.megaphone.fm/GLT9625752794.mp3",
-   "published": "Wed, 16 Sep 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
+   "id": "d955fd23-74fa-4dbd-9ec0-cd1ac0262f5c",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "THRIVE Events in Rexburg, San Antonio, Boise, and St George!!!!",
+   "summary": "Four THRIVE events are coming — Rexburg, San Antonio, Boise, and St. George — and John Dehlin wants to make sure you hear about them IN ADVANCE this time.THRIVE conferences are for former and transitioning members of high-demand religions. They're about community, healing, and growth after Mormonism — meeting people who get it, picking up tools for navigating a faith crisis, and realizing you are not alone and you are not crazy.REGISTER FOR ALL FOUR AT: https://thrivebeyondreligion.com---------------------------------------------------------------------THRIVE REXBURG — Sept. 18–19, 2026 — $19-",
+   "audioURL": "https://traffic.megaphone.fm/APO6393548407.mp3",
+   "published": "Tue, 15 Sep 2026 15:32:03 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Oprah reflects on suffering, growth, and spiritual grounding.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "136a6606-a712-11f1-98d2-c3f6755ebf08",
-   "showID": "https://feeds.megaphone.fm/LEW6901658133",
-   "showTitle": "Undaunted.Life: A Man's Podcast by Kyle Thompson",
-   "title": "ROBBY GALLATY | How to Hear God's Voice (Ep. 975)",
-   "summary": "In this episode, we welcome Robby Gallaty back to the show. He is pastor, author, and keynote speaker. He is the Senior Pastor of Long Hollow Church and is the Founder of Replicate Ministries, a network of coaches who help churches create and contextualize their own disciple-making culture. He is also the host of The Forgotten Jesus Podcast. In this interview, we discuss his path from being a drug-addicted drug dealer to pastor, when revival came to his church after God spoke to him on his porch, his new book “Wait / Hear: Recapturing the Lost Art of Hearing God’s Voice”, how Christians are cr",
-   "audioURL": "https://traffic.megaphone.fm/LEW4186467730.mp3",
-   "published": "Tue, 22 Sep 2026 08:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/9f/12/809f1210-c215-9d6a-5dbd-45124c012604/mza_7903026632038263183.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A pastor shares his experience hearing God's voice and its impact on faith and revival.",
-   "tradition": "Christian"
+   "reason": "Community and healing after faith crisis in Mormonism, addressing doubt and growth.",
+   "tradition": "Latter-day Saint"
   },
   {
    "id": "Buzzsprout-19845736",
@@ -92,7 +105,7 @@
    "published": "Tue, 22 Sep 2026 10:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses emotional patterns, healing, and spiritual growth through personal responsibility.",
+   "reason": "Explores emotional patterns, healing, and spiritual growth from an inner perspective.",
    "tradition": "Interfaith"
   },
   {
@@ -105,21 +118,34 @@
    "published": "Thu, 17 Sep 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines breaking free from societal expectations to pursue authentic spiritual and emotional life.",
+   "reason": "Discusses spiritual discovery and breaking free from societal expectations.",
    "tradition": "Interfaith"
   },
   {
-   "id": "d955fd23-74fa-4dbd-9ec0-cd1ac0262f5c",
-   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
-   "showTitle": "Mormon Stories Podcast",
-   "title": "THRIVE Events in Rexburg, San Antonio, Boise, and St George!!!!",
-   "summary": "Four THRIVE events are coming — Rexburg, San Antonio, Boise, and St. George — and John Dehlin wants to make sure you hear about them IN ADVANCE this time.THRIVE conferences are for former and transitioning members of high-demand religions. They're about community, healing, and growth after Mormonism — meeting people who get it, picking up tools for navigating a faith crisis, and realizing you are not alone and you are not crazy.REGISTER FOR ALL FOUR AT: https://thrivebeyondreligion.com---------------------------------------------------------------------THRIVE REXBURG — Sept. 18–19, 2026 — $19-",
-   "audioURL": "https://traffic.megaphone.fm/APO6393548407.mp3",
-   "published": "Tue, 15 Sep 2026 15:32:03 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "id": "c4c1ebda-b3d9-11f1-9b54-b33f27c06751",
+   "showID": "https://feeds.megaphone.fm/judgingmeghan",
+   "showTitle": "Judging Meghan",
+   "title": "Angelic Ancestry and the Search for Purpose with Alisha Das",
+   "summary": "As I celebrate my sixth year of podcasting and approach my 300th episode, I’m excited to welcome angel communicator, author, speaker, and podcaster Alisha Das. During a time when the world can feel especially divided and difficult, Alisha and I have a conversation about spirituality, purpose, angels, and finding light during challenging seasons. Alisha shares her story of growing up in rural Indiana, experiencing a traumatic childhood, and encountering archangels from the age of four.&nbsp;\n\nAfter briefly pursuing acting, she eventually embraced her gifts and became a spiritual intuitive. Alis",
+   "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/CTL5445083591.mp3",
+   "published": "Tue, 22 Sep 2026 11:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/64/8f/48/648f48ea-ba1c-94b9-619e-5f167bc4406b/mza_8026393056334239294.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Focuses on healing and growth after religious disaffiliation.",
-   "tradition": "Latter-day Saint"
+   "reason": "Conversation on spirituality, purpose, and angels with personal trauma background.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "136a6606-a712-11f1-98d2-c3f6755ebf08",
+   "showID": "https://feeds.megaphone.fm/LEW6901658133",
+   "showTitle": "Undaunted.Life: A Man's Podcast by Kyle Thompson",
+   "title": "ROBBY GALLATY | How to Hear God's Voice (Ep. 975)",
+   "summary": "In this episode, we welcome Robby Gallaty back to the show. He is pastor, author, and keynote speaker. He is the Senior Pastor of Long Hollow Church and is the Founder of Replicate Ministries, a network of coaches who help churches create and contextualize their own disciple-making culture. He is also the host of The Forgotten Jesus Podcast. In this interview, we discuss his path from being a drug-addicted drug dealer to pastor, when revival came to his church after God spoke to him on his porch, his new book “Wait / Hear: Recapturing the Lost Art of Hearing God’s Voice”, how Christians are cr",
+   "audioURL": "https://traffic.megaphone.fm/LEW4186467730.mp3",
+   "published": "Tue, 22 Sep 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/9f/12/809f1210-c215-9d6a-5dbd-45124c012604/mza_7903026632038263183.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Pastor's story includes faith and revival but focuses on personal transformation.",
+   "tradition": "Christian"
   }
  ],
  "history": {
@@ -256,6 +282,7 @@
   "5d492f72-5382-4110-95d8-6b5d0b52ea61": "2026-09-22",
   "136a6606-a712-11f1-98d2-c3f6755ebf08": "2026-09-22",
   "9db629e4-a172-40a9-8343-b4cc0173e0d9": "2026-09-22",
-  "Buzzsprout-19845736": "2026-09-22"
+  "Buzzsprout-19845736": "2026-09-22",
+  "c4c1ebda-b3d9-11f1-9b54-b33f27c06751": "2026-09-22"
  }
 }
