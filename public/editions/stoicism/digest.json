@@ -6,10 +6,49 @@
   "Secular",
   "Interfaith"
  ],
- "generatedAt": "2026-09-21T16:08:38.431514+00:00",
+ "generatedAt": "2026-09-22T14:19:31.198671+00:00",
  "showsScanned": 1200,
- "candidates": 37,
+ "candidates": 34,
  "picks": [
+  {
+   "id": "e12bfb9b-ab37-4f7e-9334-4cd49eb048e1",
+   "showID": "https://feeds.captivate.fm/stoicism/",
+   "showTitle": "Practical Stoicism",
+   "title": "How to Think About Lindsay Clancy",
+   "summary": "In this episode, I take on the Lindsay Clancy case, but not to tell you what you should think about her. Instead, I use this extraordinarily difficult case to explore how a Stoic should think when confronted with terrible acts, mental illness, questions of responsibility, and our very human desire for punishment.Apply for private coaching: https://stoicismpod.com/applyJoin my free community: https://stoicismpod.com/joinI begin with the facts as I understand them and an important limitation: I don't know every detail of the case or trial. Clancy killed her three children and attempted to take h",
+   "audioURL": "https://episodes.captivate.fm/episode/e12bfb9b-ab37-4f7e-9334-4cd49eb048e1.mp3",
+   "published": "Tue, 22 Sep 2026 14:00:00 +0100",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/c4/c0/7ac4c056-1efa-e272-28f5-f5b52e4b600e/mza_11458223524450053269.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Uses a difficult case to explore Stoic ethics and responsibility.",
+   "tradition": "Stoic"
+  },
+  {
+   "id": "b63a1cde-f082-450f-916f-ad80a1c056cd",
+   "showID": "https://thisislow.com/podcast.rss",
+   "showTitle": "LOW",
+   "title": "Afterword",
+   "summary": "The story is over, but Jack isn't finished. He steps out from behind the microphone to offer his own theory of where Zachariah ended up, the philosophy he reached for to make sense of it all, and what carrying this story for years taught him about being alive.]]>",
+   "audioURL": "https://op3.dev/e/audio.thisislow.com/low_afterword.mp3",
+   "published": "Tue, 22 Sep 2026 01:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2e/51/7d/2e517de7-6a4e-306e-25f6-075fc399e82c/mza_13986473679793687359.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Author reflects on a personal story and the philosophy that helped make sense of life and death.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "6a7c633591cf66ecf88ce8c5",
+   "showID": "https://feeds.acast.com/public/shows/6164470ddef1ec0012762fbd",
+   "showTitle": "The What Is Stoicism? Podcast",
+   "title": "The Life You Practice in Private",
+   "summary": "This episode explores the ancient instruction to “know thyself” as the foundation of a philosophical life. Julian, Pigliucci, and Epictetus show that self-knowledge helps us decide what kind of person we want to be—and what must be protected when circumstances become difficult. And Socrates offers the clearest example: his preparation for adversity was simply a lifetime spent safeguarding what was truly up to him.If you’d like to continue the practice, this Micro Morning Meditation will be helpful:☀️ Micro Morning Meditation: This is The Main Point of Philosophyhttps://whatisstoicism.substack.",
+   "audioURL": "https://sphinx.acast.com/p/open/s/6164470ddef1ec0012762fbd/e/6a7c633591cf66ecf88ce8c5/media.mp3",
+   "published": "Wed, 16 Sep 2026 06:45:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2e/7f/ed/2e7fed2d-7b83-f59f-a0bd-506b173dcf66/mza_4662183163876961332.jpeg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "A deep discussion on self-knowledge and preparing for adversity in a Stoic way.",
+   "tradition": "Stoic"
+  },
   {
    "id": "gid://art19-episode-locator/V0/1g6QJcMEi5iVQ37fRzJW7gsc5Sg8od6T4mRfEnWkpxQ",
    "showID": "https://rss.art19.com/suspicious-minds",
@@ -24,19 +63,6 @@
    "tradition": "Secular"
   },
   {
-   "id": "prx_418_e8c509ab-afcf-4f16-a894-5212e3695f50",
-   "showID": "https://podcast.davedesteno.com/",
-   "showTitle": "How God Works: The Science Behind Spirituality",
-   "title": "Rethinking Purpose",
-   "summary": "These days, it seems like advice for how to “find your purpose” is everywhere. But what if purpose isn’t some hidden answer waiting to be found? And what if anxiously searching for our one true calling actually makes it harder to live with purpose?On this episode, we explore some other approaches to the problem. Clinical psychologist Ross White tells us about how psychological flexibility can help us form purpose over time, and stay connected to it, even as our lives change. And we talk to philosopher Edward Slingerland about what early Chinese thinkers like Confucius and Zhuangzi would have m",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/pdrl.fm/0df8d6/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/418/e8c509ab-afcf-4f16-a894-5212e3695f50/HGW_-_S11_Ep.1__Purpose_FinalMix_v01.mp3",
-   "published": "Sun, 20 Sep 2026 09:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/79/78/a0/7978a095-f54e-b611-16ec-27ae0891ff6e/mza_17309323206747461095.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores purpose and psychological flexibility, relevant to Stoic ethics.",
-   "tradition": "Secular"
-  },
-  {
    "id": "4a9adeeb-54f4-43b4-9afb-46f3ed231f44",
    "showID": "https://rss.libsyn.com/shows/393380/destinations/3235040.xml",
    "showTitle": "The Great Simplification with Nate Hagens",
@@ -46,21 +72,8 @@
    "published": "Wed, 16 Sep 2026 11:30:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/be/97/3cbe97fb-f542-6271-7c4f-c986b5f4c51f/mza_8932915024380387774.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses cultural collapse and uncertainty, engaging with Stoic themes of adversity.",
+   "reason": "Serious discussion on climate crisis and cultural uncertainty, relevant to stoic themes.",
    "tradition": "Secular"
-  },
-  {
-   "id": "6a7c633591cf66ecf88ce8c5",
-   "showID": "https://feeds.acast.com/public/shows/6164470ddef1ec0012762fbd",
-   "showTitle": "The What Is Stoicism? Podcast",
-   "title": "The Life You Practice in Private",
-   "summary": "This episode explores the ancient instruction to “know thyself” as the foundation of a philosophical life. Julian, Pigliucci, and Epictetus show that self-knowledge helps us decide what kind of person we want to be—and what must be protected when circumstances become difficult. And Socrates offers the clearest example: his preparation for adversity was simply a lifetime spent safeguarding what was truly up to him.If you’d like to continue the practice, this Micro Morning Meditation will be helpful:☀️ Micro Morning Meditation: This is The Main Point of Philosophyhttps://whatisstoicism.substack.",
-   "audioURL": "https://sphinx.acast.com/p/open/s/6164470ddef1ec0012762fbd/e/6a7c633591cf66ecf88ce8c5/media.mp3",
-   "published": "Wed, 16 Sep 2026 06:45:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2e/7f/ed/2e7fed2d-7b83-f59f-a0bd-506b173dcf66/mza_4662183163876961332.jpeg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Deep discussion on self-knowledge and preparing for adversity in a Stoic way.",
-   "tradition": "Stoic"
   },
   {
    "id": "d7936d66-7b30-4d2a-9e74-b4ae012cd6a0",
@@ -71,33 +84,17 @@
    "audioURL": "https://s.gum.fm/s-62a121b02a6f7798fef24ea9/traffic.omny.fm/d/clips/5e27a451-e6e6-4c51-aa03-a7370003783c/f29261d0-2b21-4ca3-8530-b192014643e7/d7936d66-7b30-4d2a-9e74-b4ae012cd6a0/audio.mp3?utm_source=Podcast&amp;in_playlist=f2485583-8f85-4713-b316-b19201465f8d",
    "published": "Tue, 15 Sep 2026 09:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/9e/67/ab9e6750-9610-d24b-0234-df61d09ed798/mza_16497568433485281290.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Cicero's life and death engage with Stoic-era ethics, politics, and mortality.",
-   "tradition": "Stoic"
-  },
-  {
-   "id": "b363f407-d555-4364-9f94-e19350e8f622",
-   "showID": "https://anchor.fm/s/c4db244/podcast/rss",
-   "showTitle": "Dilemma Podcast",
-   "title": "It Ain't Gonna Happen: How to Find Meaning in a World Headed Over The Cliff w/ Eliot Jacobson",
-   "summary": "Is humanity simply a bacteria in a petri dish, heading for the inevitable edge? Do the climate markers prove it? I spoke with Professor Eliot Jacobson, a mathematician and former casino game protection expert who now spends his days tracking the most shocking climate data on the planet. From record-breaking ocean temperatures to the Earth's plummeting \"albedo,\" we discuss the numbers that are painting a terrifying picture of our immediate future.But this conversation is about more than just graphs. It dives deep into the often misunderstood philosophy of \"doomerism.\" What does it really mean t",
-   "audioURL": "https://anchor.fm/s/c4db244/podcast/play/125926334/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-18%2F432154493-44100-2-9f55b79241d18.mp3",
-   "published": "Fri, 18 Sep 2026 09:15:17 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/a6/16/92/a6169262-690b-c06d-ea1c-88026a1c87b9/mza_12878248524668062838.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Serious conversation on meaning and mortality amid climate crisis, relevant to Stoic concerns.",
-   "tradition": "Secular"
+   "reason": "Explores Cicero's life and death, touching on Stoic-era ethics and political collapse.",
+   "tradition": "Stoic"
   }
  ],
  "history": {
   "6a6b41f0aac612ccfc06e3f9": "2026-09-09",
   "188bc7dd-860c-44a5-b9ba-f1bb7414c775": "2026-09-09",
-  "gid://art19-episode-locator/V0/FJ0Y1tf8LBJILpnlcSP-WoHpfS7mbLiqERgFMbD_oDo": "2026-09-07",
   "Buzzsprout-19744353": "2026-09-10",
   "6a97d7c51d1d1a8a9d874c60": "2026-09-10",
   "gid://art19-episode-locator/V0/WG_o_jPAow5TNKu-ulyqpmk4Q34VLXcEmPLukYXQSv8": "2026-09-09",
-  "17bda044-f512-493a-8467-e1afc09097c9": "2026-09-07",
-  "ad46d13a-de1d-4cdd-ae8a-fcd73f2346a2": "2026-09-07",
   "b374f4c9-0d4a-4e6b-bbce-58f482e64d00": "2026-09-11",
   "gid://art19-episode-locator/V0/kqmlUVX2zjZL9XqRdvp_kbtqrD9F-eJVmXNBYwj5B2Q": "2026-09-13",
   "6a759c095d765781a2ab476c": "2026-09-16",
@@ -111,10 +108,10 @@
   "b09361a5-7af9-43c9-bbd6-e3238f60868a": "2026-09-18",
   "effeda4a-0ecd-11f0-b469-c731df454ef0": "2026-09-15",
   "3546f11c-0ed0-11f0-b1c0-a3e9724d8135": "2026-09-15",
-  "d7936d66-7b30-4d2a-9e74-b4ae012cd6a0": "2026-09-21",
-  "6a7c633591cf66ecf88ce8c5": "2026-09-21",
-  "gid://art19-episode-locator/V0/1g6QJcMEi5iVQ37fRzJW7gsc5Sg8od6T4mRfEnWkpxQ": "2026-09-21",
-  "4a9adeeb-54f4-43b4-9afb-46f3ed231f44": "2026-09-21",
+  "d7936d66-7b30-4d2a-9e74-b4ae012cd6a0": "2026-09-22",
+  "6a7c633591cf66ecf88ce8c5": "2026-09-22",
+  "gid://art19-episode-locator/V0/1g6QJcMEi5iVQ37fRzJW7gsc5Sg8od6T4mRfEnWkpxQ": "2026-09-22",
+  "4a9adeeb-54f4-43b4-9afb-46f3ed231f44": "2026-09-22",
   "951db354-0ec7-11f0-8e00-73d00f0cc86f": "2026-09-17",
   "96918388-0ecb-11f0-90d0-8b2b34ed9440": "2026-09-18",
   "06632dfe-0ec9-11f0-bab0-07c01f40f9a2": "2026-09-18",
@@ -124,6 +121,8 @@
   "62729906-0ecc-11f0-82db-73b4ed149055": "2026-09-20",
   "gid://art19-episode-locator/V0/_rz-Q7pRAelxW3htMpDQQQUrHAQ2tVuIhpcFcl_x63M": "2026-09-20",
   "gid://art19-episode-locator/V0/FTMw9GrV27eJsLE6ET-zdL_-WS4dIVuTk3JSeDYe9WQ": "2026-09-20",
-  "prx_418_e8c509ab-afcf-4f16-a894-5212e3695f50": "2026-09-21"
+  "prx_418_e8c509ab-afcf-4f16-a894-5212e3695f50": "2026-09-21",
+  "e12bfb9b-ab37-4f7e-9334-4cd49eb048e1": "2026-09-22",
+  "b63a1cde-f082-450f-916f-ad80a1c056cd": "2026-09-22"
  }
 }
