@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-22T14:32:58.303120+00:00",
+ "generatedAt": "2026-09-22T18:39:51.096868+00:00",
  "showsScanned": 400,
- "candidates": 56,
+ "candidates": 54,
  "picks": [
   {
    "id": "gid://art19-episode-locator/V0/1g6QJcMEi5iVQ37fRzJW7gsc5Sg8od6T4mRfEnWkpxQ",
@@ -14,7 +14,7 @@
    "published": "Wed, 16 Sep 2026 09:30:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/c9/5d/66c95da6-3ed6-20fc-7a54-8fd6cdf3c237/mza_81406979434027984.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Neuropsychoanalyst deeply explores consciousness and the self's emergence from the brain.",
+   "reason": "A neuropsychoanalyst deeply explores consciousness and the self's origin.",
    "tradition": "Secular"
   },
   {
@@ -27,7 +27,7 @@
    "published": "Wed, 16 Sep 2026 13:00:44 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/3a/73/bd3a73cd-8e36-c9f8-3fdc-867b9b16c877/mza_109888266879698107.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A rational explanation of hell and free will from a Catholic perspective.",
+   "reason": "Explores the doctrine of hell and human choice from a Catholic theological perspective.",
    "tradition": "Catholic"
   },
   {
@@ -40,21 +40,8 @@
    "published": "Tue, 22 Sep 2026 05:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5c/5e/14/5c5e14b6-8d9b-e05c-ba54-eabdf73d937c/mza_1153418961305898034.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores pre-Christian spiritual influences on Jesus and early Christianity.",
+   "reason": "Explores spiritual context before Christianity focusing on Jesus' formative influences.",
    "tradition": "Christian"
-  },
-  {
-   "id": "3df4e68e-e1d9-4c9d-a928-9fcefda7160a",
-   "showID": "https://feeds.libsyn.com/570160/rss",
-   "showTitle": "10% Happier with Dan Harris",
-   "title": "The Reset for Anxiety, Overthinking, and Losing Yourself in the Wrong Story | Diana Winston",
-   "summary": "A simple daily check-in you can do anywhere, a four-part practice for handling hard emotions, and a new way to relate to negative judgments. Plus, why transcendence is more accessible than you think. Diana Winston is the Director of UCLA Mindful, with three decades of experience teaching mindfulness for health and well-being. She has authored three books, including  The Little Book of Being, and has taught at Spirit Rock Meditation Center for 25 years. A founder of the International Mindfulness Teachers Association, she continues to guide individuals and organizations in cultivating awareness ",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/05620661-2103-4fe0-9ab9-92bfc4d9cf22/20260902_TPHP_DianaWinston_AUDIO_Mastered_AudioVersion_v2.1.mp3?dest-id=4933335",
-   "published": "Wed, 16 Sep 2026 07:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Mindfulness expert offers practical meditation tools addressing anxiety and negative thoughts.",
-   "tradition": "Buddhist"
   },
   {
    "id": "5d492f72-5382-4110-95d8-6b5d0b52ea61",
@@ -66,8 +53,8 @@
    "published": "Tue, 22 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses sins of omission and moral responsibility in salvation.",
-   "tradition": "Catholic"
+   "reason": "Explains sins of omission and their spiritual consequences in Christian life.",
+   "tradition": "Christian"
   },
   {
    "id": "ac5b67a4-b15b-11f1-9a35-97bf96f31149",
@@ -79,21 +66,8 @@
    "published": "Wed, 16 Sep 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Oprah reflects on trauma, growth, and spiritual practices grounding her life.",
+   "reason": "Oprah reflects on suffering, growth, and spiritual grounding.",
    "tradition": "Secular"
-  },
-  {
-   "id": "d955fd23-74fa-4dbd-9ec0-cd1ac0262f5c",
-   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
-   "showTitle": "Mormon Stories Podcast",
-   "title": "THRIVE Events in Rexburg, San Antonio, Boise, and St George!!!!",
-   "summary": "Four THRIVE events are coming — Rexburg, San Antonio, Boise, and St. George — and John Dehlin wants to make sure you hear about them IN ADVANCE this time.THRIVE conferences are for former and transitioning members of high-demand religions. They're about community, healing, and growth after Mormonism — meeting people who get it, picking up tools for navigating a faith crisis, and realizing you are not alone and you are not crazy.REGISTER FOR ALL FOUR AT: https://thrivebeyondreligion.com---------------------------------------------------------------------THRIVE REXBURG — Sept. 18–19, 2026 — $19-",
-   "audioURL": "https://traffic.megaphone.fm/APO6393548407.mp3",
-   "published": "Tue, 15 Sep 2026 15:32:03 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Conversations on faith crisis and community after leaving Mormonism.",
-   "tradition": "Latter-day Saint"
   },
   {
    "id": "136a6606-a712-11f1-98d2-c3f6755ebf08",
@@ -105,21 +79,21 @@
    "published": "Tue, 22 Sep 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/9f/12/809f1210-c215-9d6a-5dbd-45124c012604/mza_7903026632038263183.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A pastor shares his spiritual journey from addiction to faith and revival.",
+   "reason": "A pastor shares his experience hearing God's voice and its impact on faith and revival.",
    "tradition": "Christian"
   },
   {
-   "id": "baf8929a-0239-412c-9583-a4c948842677",
-   "showID": "https://feeds.npr.org/381444908/podcast.xml",
-   "showTitle": "Fresh Air",
-   "title": "Actor Danielle Brooks has blessings to count",
-   "summary": "Brooks grew up in a church where her mom was a minister and her dad a deacon. She went on to play Taystee in the Netflix series Orange Is the New Black. Now she co-stars in the indie film If I Go Will They Miss Me? Brooks spoke with Terry Gross about singing in the church, playing gospel icon Mahalia Jackson, and why she hesitated to take her breakout role in Orange.Subscribe to our free weekly newsletter Follow us on Instagram Subscribe to our YouTube channel Check out the Fresh Air ArchivesSee pcm.adswizz.com for information about our collection and use of personal data for sponsorship and t",
-   "audioURL": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/880ce497-5cf9-4121-a0cf-649b1428abc0/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&amp;awEpisodeId=880ce497-5cf9-4121-a0cf-649b1428abc0&amp;feed=jBsBZBHh&amp;t=podcast&amp;e=nx-s1-5969911&amp;p=381444908&amp;d=2722&amp;size=43566898",
-   "published": "Tue, 15 Sep 2026 17:58:18 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/35/32/683532c0-dd91-676a-eeef-3ace951cd6e9/mza_6896198885971355473.jpg/600x600bb.jpg",
+   "id": "Buzzsprout-19845736",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "I Feel Sad and Mad Because I Keep Repeating the Same Emotional Patterns — The Emotional Growth That Helped Me Break Free from a Powerless Way of Living, Trust My Higher Power, and Live with Faith and Oneness",
+   "summary": "Why do the same relationships, emotional reactions, and painful patterns keep showing up, even when you thought you had already healed?In this episode of WE, Joe Mittiga explores his belief that our biggest emotional reactions can reveal unresolved pain within us. Rather than focusing entirely on changing other people or external circumstances, Joe shares how he learned to turn inward, recognize his own emotional patterns, and take responsibility for what he could actually change. Through personal stories and practical techniques including silence, journaling, examining your internal dialogue,",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19845736-i-feel-sad-and-mad-because-i-keep-repeating-the-same-emotional-patterns-the-emotional-growth-that-helped-me-break-free-from-a-powerless-way-of-living-trust-my-higher-power-and-live-with-faith-and-oneness.mp3",
+   "published": "Tue, 22 Sep 2026 10:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "An actress reflects on faith, church upbringing, and personal growth.",
-   "tradition": "Christian"
+   "reason": "Discusses emotional patterns, healing, and spiritual growth through personal responsibility.",
+   "tradition": "Interfaith"
   },
   {
    "id": "Buzzsprout-19817743",
@@ -130,22 +104,22 @@
    "audioURL": "https://www.buzzsprout.com/2547586/episodes/19817743-i-want-to-pursue-my-passion-though-i-feel-trapped-in-a-world-that-wants-me-to-live-my-old-life-the-spiritual-discovery-that-showed-me-how-to-break-free-from-other-people-s-expectations-and-live-free.mp3",
    "published": "Thu, 17 Sep 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses breaking free from expectations with some spiritual themes.",
+   "rating": 7,
+   "reason": "Examines breaking free from societal expectations to pursue authentic spiritual and emotional life.",
    "tradition": "Interfaith"
   },
   {
-   "id": "9db629e4-a172-40a9-8343-b4cc0173e0d9",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/d64f756d-6d5e-4fae-b24f-ae280140ad36/podcast.rss",
-   "showTitle": "Behind the Bastards",
-   "title": "Part One: Radovan Karadžić: The Genocidal Dictator Who Became a New-Age Guru",
-   "summary": "Robert sits down with Jamie Loftus to discuss a bastard who really did it all: started his own country and became dictator, carried out a genocide, and matured to quack energy healer using magic to improve men's sperm count. Preorder Jamie's new novel, The Tower: https://us.macmillan.com/books/9781250480422/thetower/  Sources: https://www.bbc.com/news/world-europe-19960285 https://www.npr.org/2008/07/22/92775717/timeline-the-political-life-of-radovan-karadzic https://www.theguardian.com/world/2016/mar/22/the-hunt-for-radovan-karadzic-ruthless-warlord-turned-spiritual-healer https://www.npr.org",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/9db629e4-a172-40a9-8343-b4cc0173e0d9/audio.mp3?utm_source=Podcast&amp;in_playlist=d64f756d-6d5e-4fae-b24f-ae280140ad36",
-   "published": "Tue, 22 Sep 2026 09:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ee/82/58/ee8258d4-32a6-eae8-ddde-d13113a6baee/mza_2590417236454661582.jpg/600x600bb.jpg",
+   "id": "d955fd23-74fa-4dbd-9ec0-cd1ac0262f5c",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "THRIVE Events in Rexburg, San Antonio, Boise, and St George!!!!",
+   "summary": "Four THRIVE events are coming — Rexburg, San Antonio, Boise, and St. George — and John Dehlin wants to make sure you hear about them IN ADVANCE this time.THRIVE conferences are for former and transitioning members of high-demand religions. They're about community, healing, and growth after Mormonism — meeting people who get it, picking up tools for navigating a faith crisis, and realizing you are not alone and you are not crazy.REGISTER FOR ALL FOUR AT: https://thrivebeyondreligion.com---------------------------------------------------------------------THRIVE REXBURG — Sept. 18–19, 2026 — $19-",
+   "audioURL": "https://traffic.megaphone.fm/APO6393548407.mp3",
+   "published": "Tue, 15 Sep 2026 15:32:03 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A dark historical figure's life with some spiritual and ethical implications.",
-   "tradition": "Secular"
+   "reason": "Focuses on healing and growth after religious disaffiliation.",
+   "tradition": "Latter-day Saint"
   }
  ],
  "history": {
@@ -281,6 +255,7 @@
   "6aac2f86bf7eb386d305aa6b": "2026-09-22",
   "5d492f72-5382-4110-95d8-6b5d0b52ea61": "2026-09-22",
   "136a6606-a712-11f1-98d2-c3f6755ebf08": "2026-09-22",
-  "9db629e4-a172-40a9-8343-b4cc0173e0d9": "2026-09-22"
+  "9db629e4-a172-40a9-8343-b4cc0173e0d9": "2026-09-22",
+  "Buzzsprout-19845736": "2026-09-22"
  }
 }
