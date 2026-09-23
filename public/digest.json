@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-23T00:11:57.198230+00:00",
+ "generatedAt": "2026-09-23T05:42:36.982202+00:00",
  "showsScanned": 400,
- "candidates": 54,
+ "candidates": 53,
  "picks": [
   {
    "id": "6aa02d4d4fa142971fa8d5b3",
@@ -13,8 +13,21 @@
    "audioURL": "https://sphinx.acast.com/p/open/s/60e8deaefb090f0013116d69/e/6aa02d4d4fa142971fa8d5b3/media.mp3",
    "published": "Tue, 15 Sep 2026 09:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5c/5e/14/5c5e14b6-8d9b-e05c-ba54-eabdf73d937c/mza_1153418961305898034.jpeg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Discusses suppressed Christian mysticism and direct divine knowledge within.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "coe22.podbean.com/41f4ac1e-8032-3b80-99fa-b3763c603862",
+   "showID": "https://feed.podbean.com/coe22/feed.xml",
+   "showTitle": "The Church of Eleven22",
+   "title": "Saturated Saturday: When God Doesn’t Do What You Think He Should — Pastor Jason Shepperd",
+   "summary": "What happens to your faith when God doesn’t do what you think a good God should do?\nThe gospel doesn’t promise a life without pain. It gives us hope in the middle of it. In 2 Samuel 12, David faces unimaginable loss and has a decision to make: will his pain cause him to stop seeking God, or lead him into deeper trust and surrender?\nGrace doesn’t disappear when pain enters our lives, and God’s character doesn’t change when our circumstances do.The gospel includes suffering, but it ends in resurrection. Because the tomb is empty, pain does not get the final word.\n📌 Supplemental Resources:\n• Jaso",
+   "audioURL": "https://mcdn.podbean.com/mf/web/i2afs45syg88n38f/20260919_Saturated_622_396v473.mp3",
+   "published": "Mon, 21 Sep 2026 14:50:39 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Discusses suppressed Christian mystical knowledge and direct divine experience.",
+   "reason": "A pastor reflects on faith and suffering when God’s actions defy expectations.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +40,7 @@
    "published": "Thu, 17 Sep 2026 16:50:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Sam Harris explains meditation's role in understanding mind and living well.",
+   "reason": "Meditation's dual role in ethics and understanding mind explained clearly.",
    "tradition": "Secular"
   },
   {
@@ -40,60 +53,8 @@
    "published": "Thu, 17 Sep 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/5e/41/135e41d6-dbc8-66b9-1367-460ac0f5e6c0/mza_2058775075235418486.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Psychologist examines unexpected negative effects of meditation practice.",
+   "reason": "Psychologist shares unsettling meditation experiences challenging common beliefs.",
    "tradition": "Secular"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/lPDqcAEFRAvuy8Cxj8gU3ur2FW28ArVFbEIaWFiQVrg",
-   "showID": "https://rss.art19.com/the-telepathy-tapes",
-   "showTitle": "The Telepathy Tapes",
-   "title": "S2E50: When Frontier Science Enters Mainstream Journals: Energy Healing Cancer Study Update | Talk Tracks",
-   "summary": "In Season 2 of The Consciousness Cassettes, Ky explored a groundbreaking study at MD Anderson Cancer Center examining energy healing, also known as biofield therapy, in pancreatic cancer cells and mice. Now, that research has officially been published.Ky returns to the study with integrative oncologist Dr. Santosh Rao and Meredith Sprengel, Research and Program Director of the Subtle Energy Funders Collective. Together, they unpack the study’s most compelling findings, including slower cancer cell growth, reduced invasiveness, and significantly fewer visible liver metastases in some of the mou",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/5afb3b38-4122-485f-9116-526dfd24b7f0.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Wed, 16 Sep 2026 07:01:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores energy healing and consciousness with scientific and spiritual perspectives.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/HGiNnFBV7_BqOJgGk83wNEJgiNwbNoLHqMJ1maRbmqw",
-   "showID": "https://rss.art19.com/the-exorcist-files",
-   "showTitle": "The Exorcist Files",
-   "title": "The Power of Confession, Removing Sin and the Levitating St. Joseph Cupertino",
-   "summary": "Father Carlos Martins and Ryan Bethea break down the sacramental, ontological power of Confession—from breaking the grip of sin and guilt to the mechanics of perfect contrition. Plus, they discuss the lingering damage of sin, the dangers of generational occult objects, and listener questions on holy water and spiritual warfare.Follow us on X and Instagram for special updates and sneak peeks @ExorcistFilesThanks to our sponsors!Head to https://forkfulmeals.com/XFILES for 50% off your first order today!Watch or Listen to The Born Again Identity on EWTN+ or click here https://www.youtube.com/watc",
-   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/p687916/rss.art19.com/episodes/dde54755-911b-4b84-83e4-8ff1e1671a59.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Thu, 17 Sep 2026 04:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Catholic priests discuss confession, sin, and spiritual warfare.",
-   "tradition": "Catholic"
-  },
-  {
-   "id": "coe22.podbean.com/41f4ac1e-8032-3b80-99fa-b3763c603862",
-   "showID": "https://feed.podbean.com/coe22/feed.xml",
-   "showTitle": "The Church of Eleven22",
-   "title": "Saturated Saturday: When God Doesn’t Do What You Think He Should — Pastor Jason Shepherd",
-   "summary": "What happens to your faith when God doesn’t do what you think a good God should do?\nThe gospel doesn’t promise a life without pain. It gives us hope in the middle of it. In 2 Samuel 12, David faces unimaginable loss and has a decision to make: will his pain cause him to stop seeking God, or lead him into deeper trust and surrender?\nGrace doesn’t disappear when pain enters our lives, and God’s character doesn’t change when our circumstances do.The gospel includes suffering, but it ends in resurrection. Because the tomb is empty, pain does not get the final word.\n📌 Supplemental Resources:\n• Jaso",
-   "audioURL": "https://mcdn.podbean.com/mf/web/i2afs45syg88n38f/20260919_Saturated_622_396v473.mp3",
-   "published": "Mon, 21 Sep 2026 14:50:39 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A Christian pastor reflects deeply on faith and suffering amid unanswered prayers.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "c96a42bf-d6da-47b8-90cc-b5d42fe32800",
-   "showID": "https://feeds.simplecast.com/ohmVlJZQ",
-   "showTitle": "Morbid",
-   "title": "The Exorcism of Anneliese Michel (Part 1)",
-   "summary": "When sixteen-year-old Anneliese Michel began having seizures and hallucinations in 1968, her parents took her to a doctor, who diagnosed Anneliese with temporal lobe epilepsy and depression and recommended psychiatric treatment. Two years later, however, her delusions and hallucinations returned, manifesting in the form of “devil faces” and voices that telling her she was evil and would be going to hell. Believing the treatment wasn’t working and fearing Anneliese was possessed by demons, Anneliese’s family arranged for her to be visited by a local Jesuit priest, who confirmed their fear: Anne",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/d4d5c1a0-121c-450d-8aed-1ebd2f4dddf0/episodes/9199044b-ff13-4a6d-8493-5b78f8c62af8/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=d4d5c1a0-121c-450d-8aed-1ebd2f4dddf0&amp;awEpisodeId=9199044b-ff13-4a6d-8493-5b78f8c62af8&amp;feed=ohmVlJZQ",
-   "published": "Mon, 21 Sep 2026 07:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Detailed case of possession, suffering, and faith in a Catholic context.",
-   "tradition": "Catholic"
   },
   {
    "id": "gid://art19-episode-locator/V0/0MkatLR4DawZ-cIPIiiREgr6oDP2wsT7fDC6SotY_b4",
@@ -105,8 +66,60 @@
    "published": "Sun, 20 Sep 2026 13:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/b0/40/76b040b7-7816-1014-9ad5-8f42c57950ff/mza_1840902391107729251.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Researcher discusses reincarnation and consciousness through documented past-life memories.",
+   "reason": "Researcher discusses reincarnation and consciousness through documented past-life cases.",
    "tradition": "Interfaith"
+  },
+  {
+   "id": "1ac7a721-a986-4d0b-a020-b4cd01668ce6",
+   "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
+   "showTitle": "BYU Speeches",
+   "title": "Choose Christ | Alexander Dushku | September 2026",
+   "summary": "Why choose Christ? Because He is real! He is the most real thing in this world. He is “in all and through all things”—the “light and life” of the whole world, and of your individual world and mine. Alexander Dushku, a General Authority Seventy of The Church of Jesus Christ of Latter-day Saints, delivered this devotional address on September 22, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/1ac7a721-a986-4d0b-a020-b4cd01668ce6/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
+   "published": "Tue, 22 Sep 2026 23:57:19 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A devotional talk on choosing Christ as a source of meaning and life.",
+   "tradition": "Latter-day Saint"
+  },
+  {
+   "id": "5ae6963c-6e1b-46f9-9624-b4c6014fe1a2",
+   "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
+   "showTitle": "BYU Speeches",
+   "title": "“Settle This in Your Hearts” | Neil L. Andersen | September 2026",
+   "summary": "With so many choices and alluring paths before you, it will require strength of heart and mind to boldly, without distraction or deception, “settle this in your heart” and walk the road less traveled toward the Savior. Neil L. Andersen, a member of the Quorum of the Twelve Apostles of The Church of Jesus Christ of Latter-day Saints, delivered this devotional address on September 15, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
+   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/5ae6963c-6e1b-46f9-9624-b4c6014fe1a2/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
+   "published": "Tue, 15 Sep 2026 21:26:54 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A devotional on making strong ethical and spiritual choices.",
+   "tradition": "Latter-day Saint"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/HGiNnFBV7_BqOJgGk83wNEJgiNwbNoLHqMJ1maRbmqw",
+   "showID": "https://rss.art19.com/the-exorcist-files",
+   "showTitle": "The Exorcist Files",
+   "title": "The Power of Confession, Removing Sin and the Levitating St. Joseph Cupertino",
+   "summary": "Father Carlos Martins and Ryan Bethea break down the sacramental, ontological power of Confession—from breaking the grip of sin and guilt to the mechanics of perfect contrition. Plus, they discuss the lingering damage of sin, the dangers of generational occult objects, and listener questions on holy water and spiritual warfare.Follow us on X and Instagram for special updates and sneak peeks @ExorcistFilesThanks to our sponsors!Head to https://forkfulmeals.com/XFILES for 50% off your first order today!Watch or Listen to The Born Again Identity on EWTN+ or click here https://www.youtube.com/watc",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/p687916/rss.art19.com/episodes/dde54755-911b-4b84-83e4-8ff1e1671a59.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Thu, 17 Sep 2026 04:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discussion on confession’s spiritual power and sin’s effects in Catholicism.",
+   "tradition": "Catholic"
+  },
+  {
+   "id": "c96a42bf-d6da-47b8-90cc-b5d42fe32800",
+   "showID": "https://feeds.simplecast.com/ohmVlJZQ",
+   "showTitle": "Morbid",
+   "title": "The Exorcism of Anneliese Michel (Part 1)",
+   "summary": "When sixteen-year-old Anneliese Michel began having seizures and hallucinations in 1968, her parents took her to a doctor, who diagnosed Anneliese with temporal lobe epilepsy and depression and recommended psychiatric treatment. Two years later, however, her delusions and hallucinations returned, manifesting in the form of “devil faces” and voices that telling her she was evil and would be going to hell. Believing the treatment wasn’t working and fearing Anneliese was possessed by demons, Anneliese’s family arranged for her to be visited by a local Jesuit priest, who confirmed their fear: Anne",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/d4d5c1a0-121c-450d-8aed-1ebd2f4dddf0/episodes/9199044b-ff13-4a6d-8493-5b78f8c62af8/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=d4d5c1a0-121c-450d-8aed-1ebd2f4dddf0&amp;awEpisodeId=9199044b-ff13-4a6d-8493-5b78f8c62af8&amp;feed=ohmVlJZQ",
+   "published": "Mon, 21 Sep 2026 07:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "A true story involving faith, suffering, and belief in possession.",
+   "tradition": "Christian"
   }
  ],
  "history": {
@@ -187,7 +200,7 @@
   "tag:soundcloud,2010:tracks/2401169679": "2026-09-22",
   "2b9684dd-e365-403b-94e3-b4c700a1acdf": "2026-09-19",
   "gid://art19-episode-locator/V0/lPDqcAEFRAvuy8Cxj8gU3ur2FW28ArVFbEIaWFiQVrg": "2026-09-23",
-  "5ae6963c-6e1b-46f9-9624-b4c6014fe1a2": "2026-09-19",
+  "5ae6963c-6e1b-46f9-9624-b4c6014fe1a2": "2026-09-23",
   "70c7512c-20a0-4d71-8ab2-88516965b3b2": "2026-09-17",
   "gid://art19-episode-locator/V0/HGiNnFBV7_BqOJgGk83wNEJgiNwbNoLHqMJ1maRbmqw": "2026-09-23",
   "44391db6-ac6e-11f1-93de-cf69ce46df14": "2026-09-23",
@@ -236,6 +249,7 @@
   "136a6606-a712-11f1-98d2-c3f6755ebf08": "2026-09-22",
   "9db629e4-a172-40a9-8343-b4cc0173e0d9": "2026-09-22",
   "Buzzsprout-19845736": "2026-09-22",
-  "c4c1ebda-b3d9-11f1-9b54-b33f27c06751": "2026-09-22"
+  "c4c1ebda-b3d9-11f1-9b54-b33f27c06751": "2026-09-22",
+  "1ac7a721-a986-4d0b-a020-b4cd01668ce6": "2026-09-23"
  }
 }
