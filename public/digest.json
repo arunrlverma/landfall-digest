@@ -1,21 +1,21 @@
 {
  "version": 1,
- "generatedAt": "2026-09-23T05:42:36.982202+00:00",
+ "generatedAt": "2026-09-23T11:10:41.814059+00:00",
  "showsScanned": 400,
- "candidates": 53,
+ "candidates": 55,
  "picks": [
   {
-   "id": "6aa02d4d4fa142971fa8d5b3",
-   "showID": "https://feeds.acast.com/public/shows/60e8deaefb090f0013116d69",
-   "showTitle": "Back from the Borderline",
-   "title": "Gnostic Sophia and the Suppressed Christian Mysteries (Anne Baring Part 3)",
-   "summary": "What if early Christianity contained a path centered on direct knowledge of the divine within us, and that path was pushed outside the Church that survived?This is Part 3 of my multi-part series of conversations with Anne Baring, recorded across September and October 2026. While each episode can stand on its own, I recommend beginning with Part 1, The Forgotten Feminine Face of God, followed by Part 2 on Marija Gimbutas and the civilization of Old Europe.☽In this conversation, Anne and I enter the world of Gnostic Christianity and a Yeshua many of us were never introduced to: a teacher concern",
-   "audioURL": "https://sphinx.acast.com/p/open/s/60e8deaefb090f0013116d69/e/6aa02d4d4fa142971fa8d5b3/media.mp3",
-   "published": "Tue, 15 Sep 2026 09:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5c/5e/14/5c5e14b6-8d9b-e05c-ba54-eabdf73d937c/mza_1153418961305898034.jpeg/600x600bb.jpg",
+   "id": "gid://art19-episode-locator/V0/7Yw0jlLmGbMj7bn5NWr0Fq5UckX3N-vnQE9RcgziGkY",
+   "showID": "https://rss.art19.com/suspicious-minds",
+   "showTitle": "Suspicious Minds: AI and the Apocalypse",
+   "title": "Engineering Consciousness (Part Two)",
+   "summary": "When Richard Feynman died, a sentence was left on his blackboard at Caltech: “That which I cannot create, I do not understand.” Mark Solms took this as a challenge.A quick word up top about the week AI doom went mainstream, and why this show isn’t about that. Then: part two of a three-part story about the oldest question in philosophy, arriving at its strangest moment. Last episode, neuropsychoanalysis pioneer Dr. Mark Solms told us what consciousness is and where in the brain it lives. This episode: can it actually be built? Mark takes us inside the project he calls the main work of his scien",
+   "audioURL": "https://mgln.ai/e/1713/rss.art19.com/episodes/dce04e94-214c-44e6-a062-18f008645f54.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Wed, 23 Sep 2026 09:30:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/c9/5d/66c95da6-3ed6-20fc-7a54-8fd6cdf3c237/mza_81406979434027984.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Discusses suppressed Christian mysticism and direct divine knowledge within.",
-   "tradition": "Christian"
+   "reason": "Deep philosophical inquiry into consciousness and its nature from a neuropsychoanalytic view.",
+   "tradition": "Secular"
   },
   {
    "id": "coe22.podbean.com/41f4ac1e-8032-3b80-99fa-b3763c603862",
@@ -27,8 +27,21 @@
    "published": "Mon, 21 Sep 2026 14:50:39 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A pastor reflects on faith and suffering when God’s actions defy expectations.",
+   "reason": "A pastor reflects on faith and suffering through biblical loss and trust.",
    "tradition": "Christian"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/0MkatLR4DawZ-cIPIiiREgr6oDP2wsT7fDC6SotY_b4",
+   "showID": "https://rss.art19.com/business-game-changers",
+   "showTitle": "Sarah Westall - Business Game Changers",
+   "title": "The Research Redefining Death, Consciousness and Reincarnation | Dr. James Matlock",
+   "summary": "Sign up for the newsletter and see exclusives now at WestallMedia.com or still at SarahWestall.Substack.comReincarnation and consciousness researcher Dr. James Matlock joins the program to discuss his decades of work in parapsychology, including the study of reported past-life memories. Matlock examines thousands of documented cases involving young children who appear to recall specific details about deceased individuals they would seemingly have had no ordinary way of knowing.In today’s discussion, Sarah and Dr. Matlock explore the kinds of evidence researchers look for in these cases, includ",
+   "audioURL": "https://rss.art19.com/episodes/96dae927-b534-4304-a8f9-ae4f98432007.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Sun, 20 Sep 2026 13:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/b0/40/76b040b7-7816-1014-9ad5-8f42c57950ff/mza_1840902391107729251.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Researcher discusses reincarnation and consciousness through documented past-life cases.",
+   "tradition": "Interfaith"
   },
   {
    "id": "d15e8592-5612-4c68-b3c6-640ce0802af5",
@@ -40,8 +53,21 @@
    "published": "Thu, 17 Sep 2026 16:50:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
    "rating": 8,
-   "reason": "Meditation's dual role in ethics and understanding mind explained clearly.",
+   "reason": "Serious exploration of meditation's role in understanding mind and life.",
    "tradition": "Secular"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/D94pQiBvQiZwuQrc--Ksft8mu_k7yJxh_dRvpPLZvO4",
+   "showID": "https://rss.art19.com/the-telepathy-tapes",
+   "showTitle": "The Telepathy Tapes",
+   "title": "S2E51: Willow Smith on Creativity, Consciousness, and Music | Talk Tracks",
+   "summary": "Grammy-nominated artist Willow Smith joins Ky Dickens for a deeply personal conversation about music as medicine, dreams as creative portals, spirituality, and the mystery of human connection.Willow shares how a lifetime of curiosity - from sacred traditions and nature to science and consciousness - has shaped her creative life. She reflects on music as a devotional and communal practice, the role of intuition in her songwriting, and the profound experiences that have expanded her sense of what may be possible.She also discusses “Talk On The Hill,” her beautiful song from her newest album The ",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/64dbed50-f94b-47e8-a050-1c3cb89bbef2.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Wed, 23 Sep 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Artist discusses spirituality, creativity, and consciousness from diverse influences.",
+   "tradition": "Interfaith"
   },
   {
    "id": "44391db6-ac6e-11f1-93de-cf69ce46df14",
@@ -53,60 +79,8 @@
    "published": "Thu, 17 Sep 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/5e/41/135e41d6-dbc8-66b9-1367-460ac0f5e6c0/mza_2058775075235418486.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Psychologist shares unsettling meditation experiences challenging common beliefs.",
+   "reason": "Psychologist shares unsettling meditation experiences challenging common views.",
    "tradition": "Secular"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/0MkatLR4DawZ-cIPIiiREgr6oDP2wsT7fDC6SotY_b4",
-   "showID": "https://rss.art19.com/business-game-changers",
-   "showTitle": "Sarah Westall - Business Game Changers",
-   "title": "The Research Redefining Death, Consciousness and Reincarnation | Dr. James Matlock",
-   "summary": "Sign up for the newsletter and see exclusives now at WestallMedia.com or still at SarahWestall.Substack.comReincarnation and consciousness researcher Dr. James Matlock joins the program to discuss his decades of work in parapsychology, including the study of reported past-life memories. Matlock examines thousands of documented cases involving young children who appear to recall specific details about deceased individuals they would seemingly have had no ordinary way of knowing.In today’s discussion, Sarah and Dr. Matlock explore the kinds of evidence researchers look for in these cases, includ",
-   "audioURL": "https://rss.art19.com/episodes/96dae927-b534-4304-a8f9-ae4f98432007.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Sun, 20 Sep 2026 13:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/b0/40/76b040b7-7816-1014-9ad5-8f42c57950ff/mza_1840902391107729251.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Researcher discusses reincarnation and consciousness through documented past-life cases.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "1ac7a721-a986-4d0b-a020-b4cd01668ce6",
-   "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
-   "showTitle": "BYU Speeches",
-   "title": "Choose Christ | Alexander Dushku | September 2026",
-   "summary": "Why choose Christ? Because He is real! He is the most real thing in this world. He is “in all and through all things”—the “light and life” of the whole world, and of your individual world and mine. Alexander Dushku, a General Authority Seventy of The Church of Jesus Christ of Latter-day Saints, delivered this devotional address on September 22, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/1ac7a721-a986-4d0b-a020-b4cd01668ce6/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
-   "published": "Tue, 22 Sep 2026 23:57:19 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A devotional talk on choosing Christ as a source of meaning and life.",
-   "tradition": "Latter-day Saint"
-  },
-  {
-   "id": "5ae6963c-6e1b-46f9-9624-b4c6014fe1a2",
-   "showID": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/379d3bbf-05e6-46c1-921e-aa70011ce976/podcast.rss",
-   "showTitle": "BYU Speeches",
-   "title": "“Settle This in Your Hearts” | Neil L. Andersen | September 2026",
-   "summary": "With so many choices and alluring paths before you, it will require strength of heart and mind to boldly, without distraction or deception, “settle this in your heart” and walk the road less traveled toward the Savior. Neil L. Andersen, a member of the Quorum of the Twelve Apostles of The Church of Jesus Christ of Latter-day Saints, delivered this devotional address on September 15, 2026. You can access the full talk here.See omnystudio.com/listener for privacy information.",
-   "audioURL": "https://traffic.omny.fm/d/clips/0c331867-ade6-4f54-a1a9-aa5d00345817/b0d8b123-6f8f-49b4-ad69-aa70011ce971/5ae6963c-6e1b-46f9-9624-b4c6014fe1a2/audio.mp3?utm_source=Podcast&amp;in_playlist=379d3bbf-05e6-46c1-921e-aa70011ce976",
-   "published": "Tue, 15 Sep 2026 21:26:54 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A devotional on making strong ethical and spiritual choices.",
-   "tradition": "Latter-day Saint"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/HGiNnFBV7_BqOJgGk83wNEJgiNwbNoLHqMJ1maRbmqw",
-   "showID": "https://rss.art19.com/the-exorcist-files",
-   "showTitle": "The Exorcist Files",
-   "title": "The Power of Confession, Removing Sin and the Levitating St. Joseph Cupertino",
-   "summary": "Father Carlos Martins and Ryan Bethea break down the sacramental, ontological power of Confession—from breaking the grip of sin and guilt to the mechanics of perfect contrition. Plus, they discuss the lingering damage of sin, the dangers of generational occult objects, and listener questions on holy water and spiritual warfare.Follow us on X and Instagram for special updates and sneak peeks @ExorcistFilesThanks to our sponsors!Head to https://forkfulmeals.com/XFILES for 50% off your first order today!Watch or Listen to The Born Again Identity on EWTN+ or click here https://www.youtube.com/watc",
-   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/p687916/rss.art19.com/episodes/dde54755-911b-4b84-83e4-8ff1e1671a59.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Thu, 17 Sep 2026 04:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/95/14/c595143c-ee8b-e90c-dcc5-76990a881f50/mza_15376690167891370970.jpeg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discussion on confession’s spiritual power and sin’s effects in Catholicism.",
-   "tradition": "Catholic"
   },
   {
    "id": "c96a42bf-d6da-47b8-90cc-b5d42fe32800",
@@ -117,8 +91,21 @@
    "audioURL": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/d4d5c1a0-121c-450d-8aed-1ebd2f4dddf0/episodes/9199044b-ff13-4a6d-8493-5b78f8c62af8/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=d4d5c1a0-121c-450d-8aed-1ebd2f4dddf0&amp;awEpisodeId=9199044b-ff13-4a6d-8493-5b78f8c62af8&amp;feed=ohmVlJZQ",
    "published": "Mon, 21 Sep 2026 07:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A detailed case of possession and suffering raising questions about faith, evil, and mortality.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "ef5db494-b6d8-11f1-b0fa-27523be1ab4d",
+   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
+   "showTitle": "Live Free with Josh Howerton",
+   "title": "The Biggest THREAT to Christianity is Happening RIGHT NOW (ft. Philip Anthony Mitchell) | Live Free with Josh Howerton",
+   "summary": "What does it look like to contend for your faith when culture is shifting, pressure is rising, and following Jesus may cost you something?\n\nPastor Josh Howerton sits down with Pastor Philip Anthony Mitchell for a raw and deeply personal conversation about Philip’s journey from the streets of Queens and Rikers Island to surrendering his life to Christ and eventually becoming a pastor. Philip shares how God transformed his life, shaped his preaching, and taught him that faithfulness—not platform, influence, or recognition—is the true measure of ministry.\n\nThe conversation also turns to some of t",
+   "audioURL": "https://traffic.megaphone.fm/HAEEH2823771253.mp3",
+   "published": "Wed, 23 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A true story involving faith, suffering, and belief in possession.",
+   "reason": "A personal story of faith transformation amid cultural pressure, somewhat reflective.",
    "tradition": "Christian"
   }
  ],
@@ -250,6 +237,9 @@
   "9db629e4-a172-40a9-8343-b4cc0173e0d9": "2026-09-22",
   "Buzzsprout-19845736": "2026-09-22",
   "c4c1ebda-b3d9-11f1-9b54-b33f27c06751": "2026-09-22",
-  "1ac7a721-a986-4d0b-a020-b4cd01668ce6": "2026-09-23"
+  "1ac7a721-a986-4d0b-a020-b4cd01668ce6": "2026-09-23",
+  "gid://art19-episode-locator/V0/7Yw0jlLmGbMj7bn5NWr0Fq5UckX3N-vnQE9RcgziGkY": "2026-09-23",
+  "gid://art19-episode-locator/V0/D94pQiBvQiZwuQrc--Ksft8mu_k7yJxh_dRvpPLZvO4": "2026-09-23",
+  "ef5db494-b6d8-11f1-b0fa-27523be1ab4d": "2026-09-23"
  }
 }
