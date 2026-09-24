@@ -5,21 +5,47 @@
   "Muslim",
   "Interfaith"
  ],
- "generatedAt": "2026-09-23T14:29:05.270112+00:00",
+ "generatedAt": "2026-09-24T14:30:09.465020+00:00",
  "showsScanned": 1200,
- "candidates": 8,
+ "candidates": 7,
  "picks": [
   {
-   "id": "204e0ad6-6635-428d-8da6-261df8daabe4",
-   "showID": "https://anchor.fm/s/10804d43c/podcast/rss",
-   "showTitle": "Quran in a Year+ (with Imam Saif Morad)",
-   "title": "Day 347- How to Truly Benefit From the Qur’an | Qaf 27-45, Dhariyat 1-6",
-   "summary": "What kind of heart is ready to benefit from the Qur’an?In today’s episode, we reflect on the qualities Allah praises at the end of Surah Q: the person who constantly returns to Allah, guards His limits, fears Him in private, and comes to Him with a heart that keeps turning back.We also explore why simply hearing the Qur’an is not the same as being transformed by it. Ibn al-Qayyim explains that guidance requires a living heart, attentive listening, and true presence.And when growth feels slow, these verses remind us that lasting change often develops gradually. Consistency does not mean never s",
-   "audioURL": "https://anchor.fm/s/10804d43c/podcast/play/125773797/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-15%2F56107656-2c04-acc2-4402-e6b8dde1f109.mp3",
-   "published": "Tue, 15 Sep 2026 15:07:36 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/0b/7c/ea0b7cee-add6-1a85-d2b0-54413306d6e1/mza_11881519252368760937.jpg/600x600bb.jpg",
+   "id": "76e33443-368f-48f4-985e-752f97ae4d35",
+   "showID": "https://rss.libsyn.com/shows/285659/destinations/2197070.xml",
+   "showTitle": "Al Madrasatu Al Umariyyah",
+   "title": "6 Ayat. One Hidden Connection. | Surah Yunus - Tadabbur Series | Sheikh Mohamed Eid Almuhairi #AMAU",
+   "summary": "When reading the Quran, you may understand the meaning of every Ayah you pass through, and still miss what the Surah is showing you as a whole. Why does Surah Yunus move from the challenge of the Qur'an, to the mission of the Messenger ﷺ, to Allah governing every affair, then suddenly to resurrection, punishment, the sun and the moon? These are not disconnected ideas. In this episode of the Tadabbur series, Sheikh Mohamed Eid Almuhairi begins Surah Yunus and shows how seemingly separate verses start building towards something much bigger. Along the way, he examines \"Qadama Sidqin\" through the ",
+   "audioURL": "https://traffic.libsyn.com/secure/almadrasatualumariyyah/6_Ayat._One_Hidden_Connection.__Surah_Yunus_-_Tadabbur_Series__Sheikh_Mohamed_Eid_Almuhairi__AMAU_128kbit_AAC.mp3?dest-id=2197070",
+   "published": "Thu, 24 Sep 2026 01:46:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/05/b0/b105b03e-bf9f-4957-b21c-f3e1d554935e/mza_1692115180349785273.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Reflects deeply on spiritual readiness and transformation through the Quran's guidance.",
+   "reason": "Deep tafsir connecting Surah Yunus verses on divine governance and resurrection.",
+   "tradition": "Muslim"
+  },
+  {
+   "id": "yt:video:8-jdcc9yp1Q",
+   "showID": "https://feed.podbean.com/exploringthequran/feed.xml",
+   "showTitle": "Exploring the Quran for Women | Ustadha Fatima Lette",
+   "title": "Exploring the Quran for Women: Lessons from Surah Maryam | Ustadha Fatima Lette | Class 10",
+   "summary": "Become a sustainer at http://rootsdfw.org/sustain",
+   "audioURL": "https://mcdn.podbean.com/mf/web/s51kkkwbqqwnco3w/yt_video_8-jdcc9yp1Q_5a4xzd.mp3",
+   "published": "Fri, 18 Sep 2026 09:01:30 -0500",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/fb/90/3cfb900d-b390-d13e-b91f-56339185abe9/mza_7487857930035267406.png/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Quranic lessons for women from Surah Maryam with reflective insights.",
+   "tradition": "Muslim"
+  },
+  {
+   "id": "https://www.qalaminstitute.org/?p=21066",
+   "showID": "http://feeds.feedburner.com/qalaminstitute/podcast",
+   "showTitle": "Qalam Institute Podcast",
+   "title": "The Tafsīr Podcast: EP 121 – Surah Al-Baqarah (Ayah 256)",
+   "summary": "The Tafsīr Podcast: EP 121 – Surah Al-Baqarah (Ayah 256) 100% of your donations today goes towards the means of providing accessible Islamic knowledge to people around the world: supportqalam.com. Like us on Facebook: facebook.com/qalaminstitute Follow us on Twitter: twitter.com/qalaminstitute Follow us on Instagram: instagram.com/qalaminstitute Subscribe on Youtube: youtube.com/user/qalaminstitute\nThe post The Tafsīr Podcast: EP 121 – Surah Al-Baqarah (Ayah 256) appeared first on Qalam Institute.",
+   "audioURL": "https://media.blubrry.com/qalam_institute/ins.blubrry.com/qalam_institute/baqarah_121.mp3",
+   "published": "Mon, 21 Sep 2026 20:47:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/1a/af/07/1aaf074c-dbe6-55c8-f0c8-5ee5a76c4b37/mza_7246222557614155479.png/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Tafsir on Surah Al-Baqarah Ayah 256 about freedom of belief and ethical implications.",
    "tradition": "Muslim"
   },
   {
@@ -31,8 +57,8 @@
    "audioURL": "http://www.qurangarden.com/audio/Session_630_An_Nisaa_Verse_47_c.mp3",
    "published": "2026-08-28",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bf/cf/bd/bfcfbde1-76e7-d894-fecd-9220b59716e6/mza_5234589999432850935.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Detailed tafsir on divine curses and blessings addressing life's difficulties and meaning.",
+   "rating": 7,
+   "reason": "Tafsir on Surah An-Nisaa verse about curse and hidden blessings in hardship.",
    "tradition": "Muslim"
   },
   {
@@ -45,28 +71,12 @@
    "published": "Sat, 19 Sep 2026 23:03:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/06/ce/12/06ce126c-5755-ac4d-c7b0-b49f4ab73b68/mza_17685088730904696982.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines Islamic texts and scholarship on women in leadership with ethical context.",
-   "tradition": "Muslim"
-  },
-  {
-   "id": "https://www.qalaminstitute.org/?p=21066",
-   "showID": "http://feeds.feedburner.com/qalaminstitute/podcast",
-   "showTitle": "Qalam Institute Podcast",
-   "title": "The Tafsīr Podcast: EP 121 – Surah Al-Baqarah (Ayah 256)",
-   "summary": "The Tafsīr Podcast: EP 121 – Surah Al-Baqarah (Ayah 256) 100% of your donations today goes towards the means of providing accessible Islamic knowledge to people around the world: supportqalam.com. Like us on Facebook: facebook.com/qalaminstitute Follow us on Twitter: twitter.com/qalaminstitute Follow us on Instagram: instagram.com/qalaminstitute Subscribe on Youtube: youtube.com/user/qalaminstitute\nThe post The Tafsīr Podcast: EP 121 – Surah Al-Baqarah (Ayah 256) appeared first on Qalam Institute.",
-   "audioURL": "https://media.blubrry.com/qalam_institute/ins.blubrry.com/qalam_institute/baqarah_121.mp3",
-   "published": "Mon, 21 Sep 2026 20:47:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/1a/af/07/1aaf074c-dbe6-55c8-f0c8-5ee5a76c4b37/mza_7246222557614155479.png/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Tafsir of Surah Al-Baqarah Ayah 256 focusing on faith and freedom of belief.",
+   "reason": "Explores hadith and scholarship on women in leadership within Islam.",
    "tradition": "Muslim"
   }
  ],
  "history": {
-  "03a50130-8553-4c8d-a505-65ccf1453c5c": "2026-09-09",
-  "Buzzsprout-19736685": "2026-09-09",
-  "http://www.qurangarden.com/audio/Session_630_An_Nisaa_Verse_47_c.mp3": "2026-09-23",
-  "6a97ecd31d1d1a8a9d8fedb8": "2026-09-09",
+  "http://www.qurangarden.com/audio/Session_630_An_Nisaa_Verse_47_c.mp3": "2026-09-24",
   "6a994604be98057961ec9bb1": "2026-09-10",
   "Buzzsprout-19758649": "2026-09-13",
   "ee5e4a2d-6427-46d5-a928-b324c41ddcd1": "2026-09-11",
@@ -90,8 +100,10 @@
   "73e4c5e2-00d6-4b76-aab1-ae9c7baac3b4": "2026-09-20",
   "https://www.qalaminstitute.org/?p=21055": "2026-09-22",
   "204e0ad6-6635-428d-8da6-261df8daabe4": "2026-09-23",
-  "66572abd-46a0-4ace-9711-cc41ec337d57": "2026-09-23",
+  "66572abd-46a0-4ace-9711-cc41ec337d57": "2026-09-24",
   "f8025a62-3d5f-4aa0-8c91-218a88a50f4c": "2026-09-21",
-  "https://www.qalaminstitute.org/?p=21066": "2026-09-23"
+  "https://www.qalaminstitute.org/?p=21066": "2026-09-24",
+  "76e33443-368f-48f4-985e-752f97ae4d35": "2026-09-24",
+  "yt:video:8-jdcc9yp1Q": "2026-09-24"
  }
 }
