@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-24T09:47:54.148132+00:00",
+ "generatedAt": "2026-09-24T14:46:49.077004+00:00",
  "showsScanned": 400,
- "candidates": 50,
+ "candidates": 49,
  "picks": [
   {
    "id": "gid://art19-episode-locator/V0/AFtAo_w5JoT43dYc--26CZbLkFu6v0WEU8n27Gg1LyE",
@@ -13,8 +13,21 @@
    "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/f8ecda4e-118d-4e7c-9c51-00586a9bcc24.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
    "published": "Fri, 18 Sep 2026 16:45:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Podcast trailer promises to explore reincarnation and consciousness from a broad perspective.",
+   "rating": 8,
+   "reason": "Explores reincarnation and consciousness challenging common beliefs.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "Buzzsprout-19855236",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "I Feel Frustrated and Exhausted Because I Spent Years Trying to Show the World I Was Enough — The Spiritual Awakening That Showed Me How to Stop Proving Myself and Live a Life of Peace and Inner Abundance",
+   "summary": "What happens when you achieve more, earn more, accomplish more, and receive more recognition, yet still don’t feel like you’re enough?In this episode of WE, Joe Mittiga explores the exhausting cycle of trying to prove our worth through achievement, approval, money, relationships, and external success. He shares how his own spiritual awakening helped him recognize that he was asking the outside world to give him something that could only be discovered within. Joe explores where the feeling of “not enough” can begin, how the need for external validation can follow us into adulthood, and why list",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19855236-i-feel-frustrated-and-exhausted-because-i-spent-years-trying-to-show-the-world-i-was-enough-the-spiritual-awakening-that-showed-me-how-to-stop-proving-myself-and-live-a-life-of-peace-and-inner-abundance.mp3",
+   "published": "Thu, 24 Sep 2026 07:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Shares a spiritual awakening about self-worth beyond external achievements.",
    "tradition": "Interfaith"
   },
   {
@@ -27,7 +40,7 @@
    "published": "Mon, 21 Sep 2026 06:32:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3b/aa/c3/3baac323-1f74-650a-2c04-f35ad21a51e9/mza_7781202281310692386.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A channeled guide discussing the afterlife as a realm of consciousness and imagination.",
+   "reason": "A channeled account of the afterlife focusing on consciousness and transition.",
    "tradition": "Interfaith"
   },
   {
@@ -40,7 +53,7 @@
    "published": "Fri, 18 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Fr. Mike explains biblical parables focusing on sin, virtue, and relationship with God.",
+   "reason": "Explores parables and spiritual emptiness requiring virtue and relationship with God.",
    "tradition": "Catholic"
   },
   {
@@ -53,7 +66,20 @@
    "published": "Mon, 21 Sep 2026 01:37:07 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses surrender and redemption through Jesus, engaging with faith and ethical response.",
+   "reason": "A clear Christian reflection on faith, surrender, and the meaning of redemption.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "497fef0d-65bc-4973-b74c-a38354812bf3",
+   "showID": "https://feeds.simplecast.com/ohmVlJZQ",
+   "showTitle": "Morbid",
+   "title": "The Exorcism of Anneliese Michel (Part 2)",
+   "summary": "When sixteen-year-old Anneliese Michel began having seizures and hallucinations in 1968, her parents took her to a doctor, who diagnosed Anneliese with temporal lobe epilepsy and depression and recommended psychiatric treatment. Two years later, however, her delusions and hallucinations returned, manifesting in the form of “devil faces” and voices that telling her she was evil and would be going to hell. Believing the treatment wasn’t working and fearing Anneliese was possessed by demons, Anneliese’s family arranged for her to be visited by a local Jesuit priest, who confirmed their fear: Anne",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/d4d5c1a0-121c-450d-8aed-1ebd2f4dddf0/episodes/48585a85-67f3-4a9f-b076-3c07a8d4e06b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=d4d5c1a0-121c-450d-8aed-1ebd2f4dddf0&amp;awEpisodeId=48585a85-67f3-4a9f-b076-3c07a8d4e06b&amp;feed=ohmVlJZQ",
+   "published": "Thu, 24 Sep 2026 07:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores suffering, belief, and the boundary between mental illness and possession.",
    "tradition": "Christian"
   },
   {
@@ -66,34 +92,8 @@
    "published": "Mon, 21 Sep 2026 05:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "A music producer discusses creativity as a spiritual and psychological process.",
+   "reason": "Discusses creativity and transcendence with spiritual and psychological insights.",
    "tradition": "Secular"
-  },
-  {
-   "id": "61066efe-b47e-11f1-be65-8f53fa9b0eaf",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "LUCY HALE: “I Was Sabotaging My Life.”",
-   "summary": "Jay sits down with actress Lucy Hale, who at 37 says she feels more comfortable with herself than ever before. Lucy opens up about letting go of society’s timelines, navigating media scrutiny and body insecurity while growing up in the early days of social media, and her relationship with alcohol and path to sobriety. Lucy also shares her decision to freeze her eggs on her own terms, and how solitude, self-forgiveness, and personal growth have changed the way she approaches love, relationships, and herself.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nMazda crafts cars for people who do more than si",
-   "audioURL": "https://traffic.megaphone.fm/GLT4407358889.mp3",
-   "published": "Mon, 21 Sep 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "An actress reflects on sobriety, self-forgiveness, and personal growth.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "497fef0d-65bc-4973-b74c-a38354812bf3",
-   "showID": "https://feeds.simplecast.com/ohmVlJZQ",
-   "showTitle": "Morbid",
-   "title": "The Exorcism of Anneliese Michel (Part 2)",
-   "summary": "When sixteen-year-old Anneliese Michel began having seizures and hallucinations in 1968, her parents took her to a doctor, who diagnosed Anneliese with temporal lobe epilepsy and depression and recommended psychiatric treatment. Two years later, however, her delusions and hallucinations returned, manifesting in the form of “devil faces” and voices that telling her she was evil and would be going to hell. Believing the treatment wasn’t working and fearing Anneliese was possessed by demons, Anneliese’s family arranged for her to be visited by a local Jesuit priest, who confirmed their fear: Anne",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/d4d5c1a0-121c-450d-8aed-1ebd2f4dddf0/episodes/48585a85-67f3-4a9f-b076-3c07a8d4e06b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=d4d5c1a0-121c-450d-8aed-1ebd2f4dddf0&amp;awEpisodeId=48585a85-67f3-4a9f-b076-3c07a8d4e06b&amp;feed=ohmVlJZQ",
-   "published": "Thu, 24 Sep 2026 07:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "A detailed retelling of a possession case touching on suffering and belief.",
-   "tradition": "Christian"
   },
   {
    "id": "prx_192_af25c06e-cf17-40b8-9f17-f41365368e05",
@@ -105,7 +105,20 @@
    "published": "Thu, 17 Sep 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/0b/ea/af/0beaaf0e-6f94-997a-b595-686844ea208a/mza_714436907127715928.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "A meditation on self-compassion and heritage touching on identity and mindfulness.",
+   "reason": "A meditation on self-compassion and heritage with mindfulness practice.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "61066efe-b47e-11f1-be65-8f53fa9b0eaf",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "LUCY HALE: “I Was Sabotaging My Life.”",
+   "summary": "Jay sits down with actress Lucy Hale, who at 37 says she feels more comfortable with herself than ever before. Lucy opens up about letting go of society’s timelines, navigating media scrutiny and body insecurity while growing up in the early days of social media, and her relationship with alcohol and path to sobriety. Lucy also shares her decision to freeze her eggs on her own terms, and how solitude, self-forgiveness, and personal growth have changed the way she approaches love, relationships, and herself.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nMazda crafts cars for people who do more than si",
+   "audioURL": "https://traffic.megaphone.fm/GLT4407358889.mp3",
+   "published": "Mon, 21 Sep 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Personal growth and self-forgiveness discussed but mostly self-help oriented.",
    "tradition": "Secular"
   }
  ],
@@ -234,6 +247,7 @@
   "gid://art19-episode-locator/V0/D94pQiBvQiZwuQrc--Ksft8mu_k7yJxh_dRvpPLZvO4": "2026-09-23",
   "ef5db494-b6d8-11f1-b0fa-27523be1ab4d": "2026-09-23",
   "2bfd2a81-560e-4138-8901-8c3fb87ff53d": "2026-09-23",
-  "497fef0d-65bc-4973-b74c-a38354812bf3": "2026-09-24"
+  "497fef0d-65bc-4973-b74c-a38354812bf3": "2026-09-24",
+  "Buzzsprout-19855236": "2026-09-24"
  }
 }
