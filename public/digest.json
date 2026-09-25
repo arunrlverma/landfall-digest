@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-25T18:23:55.099834+00:00",
+ "generatedAt": "2026-09-25T22:08:07.707610+00:00",
  "showsScanned": 400,
- "candidates": 47,
+ "candidates": 51,
  "picks": [
   {
    "id": "gid://art19-episode-locator/V0/7Yw0jlLmGbMj7bn5NWr0Fq5UckX3N-vnQE9RcgziGkY",
@@ -14,20 +14,7 @@
    "published": "Wed, 23 Sep 2026 09:30:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/c9/5d/66c95da6-3ed6-20fc-7a54-8fd6cdf3c237/mza_81406979434027984.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Philosophical and neuroscientific exploration of consciousness and its nature.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "2bfd2a81-560e-4138-8901-8c3fb87ff53d",
-   "showID": "https://rss.pdrl.fm/851fd8/feeds.libsyn.com/98571/rss/?redirect=false",
-   "showTitle": "The Michael Shermer Show",
-   "title": "Does Consciousness Break the Laws of Physics?",
-   "summary": "If we could explain everything happening in your brain, would there still be something left to explain about you? Physicist Avshalom Elitzur thinks so—and argues that accounting for consciousness may require changing the laws of physics. In this lively conversation, Michael Shermer challenges Elitzur on why subjective experience should be anything more than a product of the brain, whether an AI could be conscious, and what a hypothetical human without consciousness would have to say about any of this. Avshalom Elitzur is an Affiliate Professor at the Institute for Quantum Studies, Chapman Univ",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/sciencesalon/mss635_Avshalom_Elitzur_2026_09_22.mp3?dest-id=513978",
-   "published": "Tue, 22 Sep 2026 16:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b1/1b/5a/b11b5ad4-b160-7284-5b7c-cdc8daf251d7/mza_556097899631146588.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Philosophical and scientific debate on consciousness and physics.",
+   "reason": "A deep philosophical and neuroscientific inquiry into consciousness.",
    "tradition": "Secular"
   },
   {
@@ -44,6 +31,58 @@
    "tradition": "Christian"
   },
   {
+   "id": "9175c020-a429-43b9-9b81-f5793bacf8a3",
+   "showID": "https://rss.libsyn.com/shows/606285/destinations/5279650.xml",
+   "showTitle": "The Deep End With Lecrae",
+   "title": "Rickey Smiley Has a Deep Conversation With Lecrae",
+   "summary": "Rickey Smiley sits down with Lecrae for a deeply personal conversation about faith, grief, and the pain hidden behind a lifetime of making people laugh. Rickey opens up about losing his 32-year-old son, Brandon, and the devastating journey that followed. He shares what it was like learning the news while alone in Dallas, having to lead his family through the tragedy, and why he says he didn't simply lean on God—God carried him. They also discuss Rickey's upbringing in the Black church, surviving being shot at point-blank range, the golden era of '90s comedy, the importance of therapy, and why ",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/289702f0-eba6-44cb-bf7c-b7ff937eb51c/Audio_EmergencyEp_RickeySmiley_V2.mp3?dest-id=5279650",
+   "published": "Fri, 18 Sep 2026 19:16:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A personal conversation on faith, grief, and suffering after tragic loss.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "7e94e186-7668-46f8-a13e-6237676e2cee",
+   "showID": "https://rss.libsyn.com/shows/606285/destinations/5279650.xml",
+   "showTitle": "The Deep End With Lecrae",
+   "title": "I Asked 4 Divorced Christians What The Church Has Wrong",
+   "summary": "Divorce is one of the hardest things to talk about in church. We know how to celebrate marriage, but we don't always know how to sit with people when it ends. I sat down with four Christians who have lived through divorce or a broken engagement. We talked about the warning signs, the grief, the questions they had for God, and how they began to rebuild. They were honest about their own choices and about the ways the church helped—or made an already painful season harder. If you've ever felt like the end of a relationship made you less welcome in church, I hope this conversation reminds you that",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/289702f0-eba6-44cb-bf7c-b7ff937eb51c/Ep142_Divorrced_Christians_TDE_v2_1.mp3?dest-id=5279650",
+   "published": "Fri, 25 Sep 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Honest discussion on divorce, grief, and church responses from divorced Christians.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "35c1ff10-a812-11f1-9f02-bbddea1b7da9",
+   "showID": "https://feeds.megaphone.fm/mark-levin-podcast",
+   "showTitle": "Mark Levin Podcast",
+   "title": "The Best Of Mark Levin - 9/19/26",
+   "summary": "This week on the Mark Levin Show, the Declaration of Independence is the clearest statement of America’s founding principles. The United States was uniquely founded on a fusion of Judeo-Christian values and Enlightenment principles, combining faith, morality, reason, and natural rights while rejecting theocracy. America’s founding principles allow individuals to hold diverse beliefs, including atheism and agnosticism, while preserving freedom of thought and religion. Islamism and Marxism are incompatible with American founding ideals because they reject natural law, natural rights, and the rea",
+   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/WWO2405328436.mp3",
+   "published": "Sat, 19 Sep 2026 11:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/bf/a0/46bfa07e-d13f-9635-445f-ac2578d5c755/mza_14035070316013714857.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discussion of America's founding principles blending faith, reason, and morality.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "f9924888-b8ec-11f1-b16c-f3ad144a8c26",
+   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
+   "showTitle": "Blurry Creatures",
+   "title": "EP: 468 The Church is Afraid of the Supernatural with Jon Moffitt",
+   "summary": "Jon Moffitt is a Reformed pastor, and in his world, you do not talk about this. Demons, principalities, the divine council, the unseen war Paul describes in Ephesians. It is not that the Reformed church calls it heresy. It is that the Reformed church is so afraid of looking charismatic that it simply goes quiet. Jon lives in that silence for years, until he sits down to preach the Lord's Prayer and gets stuck on one line. Deliver us from the evil one. He realizes he has never heard a single sermon on it, and pulling that thread unravels everything he thought he was allowed to say.\n\nWhat follow",
+   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW2581731191.mp3",
+   "published": "Fri, 25 Sep 2026 20:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A Reformed pastor confronts spiritual warfare and church silence on demons.",
+   "tradition": "Christian"
+  },
+  {
    "id": "5d492f72-5382-4110-95d8-6b5d0b52ea61",
    "showID": "https://feeds.fireside.fm/bibleinayear/rss",
    "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
@@ -53,8 +92,8 @@
    "published": "Tue, 22 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explains sins of omission and their spiritual consequences with biblical references.",
-   "tradition": "Catholic"
+   "reason": "Explores ethical responsibility and faith through New Testament parables and sin of omission.",
+   "tradition": "Christian"
   },
   {
    "id": "7b8d0ded-674c-426b-94b3-ed63279d069e",
@@ -66,33 +105,7 @@
    "published": "Mon, 21 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Focuses on practicing faith authentically, critiquing hypocrisy in biblical parables.",
-   "tradition": "Catholic"
-  },
-  {
-   "id": "4d441197-2675-4e57-b7e5-a5caac854189",
-   "showID": "https://feeds.libsyn.com/56578/rss",
-   "showTitle": "Joyce Meyer Enjoying Everyday Life® Radio Podcast",
-   "title": "Calm Down & Cheer Up - Part 4",
-   "summary": "Feeling frustrated or overwhelmed? Today on 15 Minutes in the Word, Joyce shares how to find God's peace and stay calm through life's storms.",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/jmradio/JMM_Sep_25_2026.mp3?dest-id=211463",
-   "published": "Fri, 25 Sep 2026 05:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/20/5f/89205fa5-8450-d917-3f45-a5b26962a087/mza_377853489433632553.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Shares how to find peace and calm through faith during life's storms.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "8a2dad30-a390-4db2-b7ae-304c06cddae4",
-   "showID": "https://feeds.libsyn.com/56578/rss",
-   "showTitle": "Joyce Meyer Enjoying Everyday Life® Radio Podcast",
-   "title": "Calm Down & Cheer Up - Part 3",
-   "summary": "Feeling frustrated or overwhelmed? Today on 15 Minutes in the Word, Joyce shares how to find God's peace and stay calm through life's storms.",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/jmradio/JMM_Sep_24_2026.mp3?dest-id=211463",
-   "published": "Thu, 24 Sep 2026 05:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/20/5f/89205fa5-8450-d917-3f45-a5b26962a087/mza_377853489433632553.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Shares how to find peace and calm through faith during life's storms.",
+   "reason": "Discusses the importance of practicing faith authentically, not just preaching it.",
    "tradition": "Christian"
   },
   {
@@ -105,21 +118,8 @@
    "published": "Fri, 25 Sep 2026 01:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/a6/37/62a63720-ae50-b8c6-6282-b62a41e54588/mza_4071962011418281551.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explains Egyptian gods and myths related to death and afterlife but mainly historical/mythic overview.",
+   "reason": "Covers Egyptian mythology and death beliefs, touching on meaning and afterlife.",
    "tradition": "Mythic"
-  },
-  {
-   "id": "313e63fb6c7cf6dce4a990b3e1a875e0",
-   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
-   "showTitle": "Becoming Something with Jonathan Pokluda",
-   "title": "Episode 390: Don't Let That Hold You Back | feat. Annie F. Downs",
-   "summary": "<p>This week we sit down with author and podcaster Annie F. Downs to talk about her new book, Don't Let That Hold You Back, stepping into the dreams God has placed in your heart, and why the enemy works overtime to keep you from them. Annie opens up about her engagement, choosing not to have kids, and what it means to finish your name well. Pick up her new book wherever books are sold — you're going to love it! https://a.co/d/06ofEkVN</p>",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4L2E4MDQyODllLWM4ODQtNGE2Ni05Yzg5LWVhYTY1YzMyMjBjZi9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=4frzqjn",
-   "published": "Mon, 21 Sep 2026 10:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Discusses faith and personal dreams but mainly motivational and practical.",
-   "tradition": "Christian"
   },
   {
    "id": "136a6606-a712-11f1-98d2-c3f6755ebf08",
@@ -131,21 +131,34 @@
    "published": "Tue, 22 Sep 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/9f/12/809f1210-c215-9d6a-5dbd-45124c012604/mza_7903026632038263183.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Shares a personal faith journey and hearing God's voice, touching on doubt and revival.",
+   "reason": "Shares a personal transformation story and hearing God's voice, touching on faith.",
    "tradition": "Christian"
   },
   {
-   "id": "9406f0b4-b373-11f1-b027-5784095f6c20",
-   "showID": "https://feeds.megaphone.fm/GLT6907573392",
-   "showTitle": "The Rest Is Science",
-   "title": "Dying In Space, Trapped Water, and What's Hidden In Pi?",
-   "summary": "Almost every human who has ever lived has one thing in common: they were born and died on Earth. Except for three people.\n\nHannah Fry and Michael Stevens uncover the extraordinary story of Soyuz 11, the Soviet cosmonauts who became the only humans ever to die in outer space, and what their deaths meant for the future of human spaceflight.But that raises a bigger question: what exactly is trapped on Earth, and what can escape?\n\nIs the water left inside discarded plastic bottles being locked away forever? Is Earth itself slowly leaking water into space? Can you really trap a monkey simply becaus",
-   "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/GLT4251173396.mp3",
-   "published": "Sun, 20 Sep 2026 21:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/7d/0c/b57d0c08-17e6-0ec9-484a-491f759d48b7/mza_3391787018699283273.jpeg/600x600bb.jpg",
+   "id": "https://blubrry.com/the_world_and_everything_in_it/155538205/925-culture-friday-the-school-she-chose/",
+   "showID": "https://feeds.blubrry.com/feeds/the_world_and_everything_in_it.xml",
+   "showTitle": "The World and Everything In It",
+   "title": "9.25 | Culture Friday: The school she chose",
+   "summary": "Fri » An elite journalist sent her daughter to a failing school for the “collective good.” John Stonestreet says the common good is not above those in it. Also: Stonestreet weighs the decision to cast Meryl Streep as the voice of Aslan—a clear Christ figure in C.S. Lewis’s Narnia stories—and whether the choice distorts the world Lewis created. He also considers whether kids’ smartwatches are really an escape from smartphones—or just another screen pulling them away from the real world. Plus: Collin Garbarino finds spiritual endurance and sacrificial love in Heart of the Beast, and listeners ge",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/p.podderapp.com/1696013160/media.blubrry.com/the_world_and_everything_in_it/ins.blubrry.com/the_world_and_everything_in_it/TWAEII-2026-09-25-3610-925-Culture.mp3",
+   "published": "Fri, 25 Sep 2026 03:40:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores mortality and human limits through space history, with some existential themes.",
-   "tradition": "Secular"
+   "reason": "Considers ethics and culture with some spiritual undertones.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "6b769052-b1af-11f1-a6d2-9f2feae41b05",
+   "showID": "https://feeds.megaphone.fm/SGP8517078272",
+   "showTitle": "Get Sleepy: stories for sleep",
+   "title": "The Tree of Answers (Encore)",
+   "summary": "Narrator: Thomas Jones 🇬🇧\n\nWriter: Shamica Latchman ✍️&nbsp;\n\nSound effects: forest ambience 🌲🐦&nbsp;\n\n\n\nWelcome back, sleepyheads. Tonight, we have the enchanting story of a boy named Charlie, whose search for the answers to life’s mysteries brings him to a magic tree. 😴\n\n\n\nGet Sleepy Premium\n\nListen completely ad-free and access our entire catalogue of stories and meditations by subscribing to our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠premium feed.⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\nYour support means the world to us and makes it possible to keep the show running! ❤️ \n\n\n\nGet your 7-day free trial: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+   "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/SGP5011954167.mp3",
+   "published": "Fri, 25 Sep 2026 14:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "A story about seeking life's answers through a magic tree, lightly touching on meaning.",
+   "tradition": "Interfaith"
   }
  ],
  "history": {
@@ -231,12 +244,12 @@
   "gid://art19-episode-locator/V0/_8R3n1k30pvGy0NJVRNDEb9g6OoVibmKfB90909HUG8": "2026-09-18",
   "gid://art19-episode-locator/V0/AFtAo_w5JoT43dYc--26CZbLkFu6v0WEU8n27Gg1LyE": "2026-09-24",
   "1cbd352c-b251-11f1-9b5e-f733dcc99b8b": "2026-09-23",
-  "9175c020-a429-43b9-9b81-f5793bacf8a3": "2026-09-20",
+  "9175c020-a429-43b9-9b81-f5793bacf8a3": "2026-09-25",
   "26b1307a-b052-11f1-80f9-a7d3fbd8e3af": "2026-09-20",
   "01a0ab9b-2993-7ae3-97c4-f8de082efbf5": "2026-09-25",
   "ce93d91e-5a15-4e29-ba90-caf6797a1fdc": "2026-09-20",
   "https://api.spreaker.com/episode/74912564": "2026-09-20",
-  "35c1ff10-a812-11f1-9f02-bbddea1b7da9": "2026-09-20",
+  "35c1ff10-a812-11f1-9f02-bbddea1b7da9": "2026-09-25",
   "791bf078-d9ea-11f0-a55b-5f00237a0ad2": "2026-09-20",
   "6aac3bb6fca3d5c77b11d9a1": "2026-09-20",
   "6aa02d4d4fa142971fa8d5b3": "2026-09-23",
@@ -278,6 +291,10 @@
   "2632a72e-9226-487b-b7fa-0313804e045a": "2026-09-25",
   "36de8f80-b816-11f1-a46b-4f9c01df27a4": "2026-09-25",
   "4d441197-2675-4e57-b7e5-a5caac854189": "2026-09-25",
-  "8a2dad30-a390-4db2-b7ae-304c06cddae4": "2026-09-25"
+  "8a2dad30-a390-4db2-b7ae-304c06cddae4": "2026-09-25",
+  "7e94e186-7668-46f8-a13e-6237676e2cee": "2026-09-25",
+  "f9924888-b8ec-11f1-b16c-f3ad144a8c26": "2026-09-25",
+  "https://blubrry.com/the_world_and_everything_in_it/155538205/925-culture-friday-the-school-she-chose/": "2026-09-25",
+  "6b769052-b1af-11f1-a6d2-9f2feae41b05": "2026-09-25"
  }
 }
