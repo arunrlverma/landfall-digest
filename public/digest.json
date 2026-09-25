@@ -1,22 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-09-25T13:28:52.643253+00:00",
+ "generatedAt": "2026-09-25T18:23:55.099834+00:00",
  "showsScanned": 400,
- "candidates": 49,
+ "candidates": 47,
  "picks": [
-  {
-   "id": "d15e8592-5612-4c68-b3c6-640ce0802af5",
-   "showID": "https://rss.libsyn.com/shows/94577/destinations/480596.xml",
-   "showTitle": "Making Sense with Sam Harris",
-   "title": "#493 — Two Reasons to Meditate",
-   "summary": "Meditation can help us live better. It can also help us understand what is true about our own minds. These motivations might seem fundamentally different, but Sam explains why they're two aspects of the same project. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samharris.org/subscribe.",
-   "audioURL": "https://traffic.libsyn.com/secure/wakingup/493_MS_two-reasons-to-meditate_PSA.mp3?dest-id=480596",
-   "published": "Thu, 17 Sep 2026 16:50:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5b/70/e7/5b70e7ed-6c28-654b-99b1-f243bff3dbe5/mza_8512518449833623366.png/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Explores meditation's dual role in living well and understanding mind's truth.",
-   "tradition": "Secular"
-  },
   {
    "id": "gid://art19-episode-locator/V0/7Yw0jlLmGbMj7bn5NWr0Fq5UckX3N-vnQE9RcgziGkY",
    "showID": "https://rss.art19.com/suspicious-minds",
@@ -27,7 +14,7 @@
    "published": "Wed, 23 Sep 2026 09:30:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/c9/5d/66c95da6-3ed6-20fc-7a54-8fd6cdf3c237/mza_81406979434027984.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Philosophical and neuroscientific inquiry into consciousness and its nature.",
+   "reason": "Philosophical and neuroscientific exploration of consciousness and its nature.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +27,7 @@
    "published": "Tue, 22 Sep 2026 16:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/b1/1b/5a/b11b5ad4-b160-7284-5b7c-cdc8daf251d7/mza_556097899631146588.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Philosophical debate on consciousness possibly requiring new physics laws.",
+   "reason": "Philosophical and scientific debate on consciousness and physics.",
    "tradition": "Secular"
   },
   {
@@ -53,8 +40,21 @@
    "published": "Mon, 21 Sep 2026 14:50:39 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A pastor reflects on faith and suffering when God’s actions defy expectations.",
+   "reason": "A pastor reflects on faith and suffering through David's story in 2 Samuel 12.",
    "tradition": "Christian"
+  },
+  {
+   "id": "5d492f72-5382-4110-95d8-6b5d0b52ea61",
+   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
+   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
+   "title": "Day 265: Sins of Omission (2026)",
+   "summary": "Fr. Mike explains sins of omission, and how these are some of the biggest deciding factors of who goes to heaven and who goes to hell: whether or not we did good works God called us to. He also reminds us that not all of the New Testament parables are universally relevant, recalling the parable of the talents and the parable of the wise and foolish maidens. Today's readings are Matthew 25-26 and Proverbs 19:21-24.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is ad",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/5d492f72-5382-4110-95d8-6b5d0b52ea61.mp3",
+   "published": "Tue, 22 Sep 2026 03:15:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explains sins of omission and their spiritual consequences with biblical references.",
+   "tradition": "Catholic"
   },
   {
    "id": "7b8d0ded-674c-426b-94b3-ed63279d069e",
@@ -66,47 +66,34 @@
    "published": "Mon, 21 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses practicing faith and truth through Jesus' teachings and ethical living.",
+   "reason": "Focuses on practicing faith authentically, critiquing hypocrisy in biblical parables.",
+   "tradition": "Catholic"
+  },
+  {
+   "id": "4d441197-2675-4e57-b7e5-a5caac854189",
+   "showID": "https://feeds.libsyn.com/56578/rss",
+   "showTitle": "Joyce Meyer Enjoying Everyday Life® Radio Podcast",
+   "title": "Calm Down & Cheer Up - Part 4",
+   "summary": "Feeling frustrated or overwhelmed? Today on 15 Minutes in the Word, Joyce shares how to find God's peace and stay calm through life's storms.",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/jmradio/JMM_Sep_25_2026.mp3?dest-id=211463",
+   "published": "Fri, 25 Sep 2026 05:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/20/5f/89205fa5-8450-d917-3f45-a5b26962a087/mza_377853489433632553.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Shares how to find peace and calm through faith during life's storms.",
    "tradition": "Christian"
   },
   {
-   "id": "36de8f80-b816-11f1-a46b-4f9c01df27a4",
-   "showID": "https://feeds.megaphone.fm/PHTE6358173109",
-   "showTitle": "Inquiry with Kelly Chase",
-   "title": "Disclosure Exposure: The Psychological & Spiritual Reality of UFO Contact with Daniel Noah",
-   "summary": "Recorded live on August 2nd, 2026 at the historic Philosophical Research Society in Los Angeles, this episode of Inquiry brings Kelly Chase together with SpectreVision co-founder and SpectreVision Radio director Daniel Noah for a deeply personal conversation about the emotional, spiritual, and psychological dimensions of anomalous experience. Both begin with their own unlikely paths from skepticism into direct experience, tracing the strange accumulation of events that forced them to reconsider what they thought was possible—and the equally strange sense of mission that emerged in the aftermat",
-   "audioURL": "https://pscrb.fm/rss/p/traffic.megaphone.fm/PHTE9106636229.mp3",
-   "published": "Thu, 24 Sep 2026 13:29:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/10/14/21/1014210f-bfd9-404b-f78b-56fd6b8b414b/mza_3696233863464239417.jpeg/600x600bb.jpg",
+   "id": "8a2dad30-a390-4db2-b7ae-304c06cddae4",
+   "showID": "https://feeds.libsyn.com/56578/rss",
+   "showTitle": "Joyce Meyer Enjoying Everyday Life® Radio Podcast",
+   "title": "Calm Down & Cheer Up - Part 3",
+   "summary": "Feeling frustrated or overwhelmed? Today on 15 Minutes in the Word, Joyce shares how to find God's peace and stay calm through life's storms.",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/jmradio/JMM_Sep_24_2026.mp3?dest-id=211463",
+   "published": "Thu, 24 Sep 2026 05:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/20/5f/89205fa5-8450-d917-3f45-a5b26962a087/mza_377853489433632553.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses spiritual and psychological impacts of UFO experiences with personal doubt and faith.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "https://www.ldsscriptureteachings.org/?p=34227",
-   "showID": "https://www.ldsscriptureteachings.org/feed/podcast/",
-   "showTitle": "Talking Scripture",
-   "title": "Ep 391 | Isaiah 40-49, Come Follow Me 2026 (Sept 28-Oct 4)",
-   "summary": "→ Watch on YouTube\n\n\n\n→ Detailed Show Notes\n\n\n\n(00:00) In these chapters the Lord comforts and gives hope to Israel. He promises that he will never abandon us.(03:15) King Hezekiah seeks the Lord’s advice through the prophet Isaiah as Assyria approaches Jerusalem.(11:12) In whom do you place your trust? King Benjamin invites us to remember the greatness of God.(15:13) Isaiah 40 can be read as a temple text. Isaiah sees the council of divine beings in heaven.(24:00) The Lord gives encouragement to Israel, and reminds them that he has always been there through their trials.(35:34)  The four Serv",
-   "audioURL": "https://media.blubrry.com/talkingscripture/www.ldsscriptureteachings.org/wp-content/uploads/2026/09/391-Isaiah-36-49-final-mp3.mp3",
-   "published": "Thu, 24 Sep 2026 09:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Scriptural commentary focusing on trust and divine comfort in Isaiah.",
-   "tradition": "Latter-day Saint"
-  },
-  {
-   "id": "5d492f72-5382-4110-95d8-6b5d0b52ea61",
-   "showID": "https://feeds.fireside.fm/bibleinayear/rss",
-   "showTitle": "The Bible in a Year (with Fr. Mike Schmitz)",
-   "title": "Day 265: Sins of Omission (2026)",
-   "summary": "Fr. Mike explains sins of omission, and how these are some of the biggest deciding factors of who goes to heaven and who goes to hell: whether or not we did good works God called us to. He also reminds us that not all of the New Testament parables are universally relevant, recalling the parable of the talents and the parable of the wise and foolish maidens. Today's readings are Matthew 25-26 and Proverbs 19:21-24.\n\nFor the complete reading plan, visit ascensionpress.com/bibleinayear.\n\nPlease note: The Bible contains adult themes that may not be suitable for children - parental discretion is ad",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/c6354d0d-bd10-4eed-b811-1bb569d46efd/5d492f72-5382-4110-95d8-6b5d0b52ea61.mp3",
-   "published": "Tue, 22 Sep 2026 03:15:00 -0400",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Catholic priest explains sins of omission and their spiritual consequences.",
-   "tradition": "Catholic"
+   "reason": "Shares how to find peace and calm through faith during life's storms.",
+   "tradition": "Christian"
   },
   {
    "id": "2632a72e-9226-487b-b7fa-0313804e045a",
@@ -118,8 +105,34 @@
    "published": "Fri, 25 Sep 2026 01:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/a6/37/62a63720-ae50-b8c6-6282-b62a41e54588/mza_4071962011418281551.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores Egyptian mythology and death beliefs, touching on meaning and afterlife.",
+   "reason": "Explains Egyptian gods and myths related to death and afterlife but mainly historical/mythic overview.",
    "tradition": "Mythic"
+  },
+  {
+   "id": "313e63fb6c7cf6dce4a990b3e1a875e0",
+   "showID": "https://hc-podcast-feed-proxy.tech-0c1.workers.dev/BESO-AUDIO/rss",
+   "showTitle": "Becoming Something with Jonathan Pokluda",
+   "title": "Episode 390: Don't Let That Hold You Back | feat. Annie F. Downs",
+   "summary": "<p>This week we sit down with author and podcaster Annie F. Downs to talk about her new book, Don't Let That Hold You Back, stepping into the dreams God has placed in your heart, and why the enemy works overtime to keep you from them. Annie opens up about her engagement, choosing not to have kids, and what it means to finish your name well. Pick up her new book wherever books are sold — you're going to love it! https://a.co/d/06ofEkVN</p>",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvVEdERDY4L2E4MDQyODllLWM4ODQtNGE2Ni05Yzg5LWVhYTY1YzMyMjBjZi9hdWRpby5tcDM.mp3?k=TGDD68&amp;s=3&amp;sapid=4frzqjn",
+   "published": "Mon, 21 Sep 2026 10:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/f9/ca/94/f9ca9491-4f5a-85e5-b46c-7630c1346fa1/mza_17580204093335641701.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses faith and personal dreams but mainly motivational and practical.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "136a6606-a712-11f1-98d2-c3f6755ebf08",
+   "showID": "https://feeds.megaphone.fm/LEW6901658133",
+   "showTitle": "Undaunted.Life: A Man's Podcast by Kyle Thompson",
+   "title": "ROBBY GALLATY | How to Hear God's Voice (Ep. 975)",
+   "summary": "In this episode, we welcome Robby Gallaty back to the show. He is pastor, author, and keynote speaker. He is the Senior Pastor of Long Hollow Church and is the Founder of Replicate Ministries, a network of coaches who help churches create and contextualize their own disciple-making culture. He is also the host of The Forgotten Jesus Podcast. In this interview, we discuss his path from being a drug-addicted drug dealer to pastor, when revival came to his church after God spoke to him on his porch, his new book “Wait / Hear: Recapturing the Lost Art of Hearing God’s Voice”, how Christians are cr",
+   "audioURL": "https://traffic.megaphone.fm/LEW4186467730.mp3",
+   "published": "Tue, 22 Sep 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/9f/12/809f1210-c215-9d6a-5dbd-45124c012604/mza_7903026632038263183.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Shares a personal faith journey and hearing God's voice, touching on doubt and revival.",
+   "tradition": "Christian"
   },
   {
    "id": "9406f0b4-b373-11f1-b027-5784095f6c20",
@@ -131,7 +144,7 @@
    "published": "Sun, 20 Sep 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/7d/0c/b57d0c08-17e6-0ec9-484a-491f759d48b7/mza_3391787018699283273.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores death in space and human mortality with some philosophical implications.",
+   "reason": "Explores mortality and human limits through space history, with some existential themes.",
    "tradition": "Secular"
   }
  ],
@@ -244,7 +257,7 @@
   "coe22.podbean.com/41f4ac1e-8032-3b80-99fa-b3763c603862": "2026-09-25",
   "61066efe-b47e-11f1-be65-8f53fa9b0eaf": "2026-09-24",
   "e8033428-b514-11f1-9ace-132976287f0f": "2026-09-24",
-  "313e63fb6c7cf6dce4a990b3e1a875e0": "2026-09-21",
+  "313e63fb6c7cf6dce4a990b3e1a875e0": "2026-09-25",
   "895bb294-6695-4a5f-abd9-e3f9e482b885": "2026-09-22",
   "6aac2f86bf7eb386d305aa6b": "2026-09-22",
   "5d492f72-5382-4110-95d8-6b5d0b52ea61": "2026-09-25",
@@ -263,6 +276,8 @@
   "gid://art19-episode-locator/V0/ZwSZ_5SaLDM1ouNoRZT_90ZJkc0vFhYKlgzs7ErksOI": "2026-09-24",
   "https://www.ldsscriptureteachings.org/?p=34227": "2026-09-25",
   "2632a72e-9226-487b-b7fa-0313804e045a": "2026-09-25",
-  "36de8f80-b816-11f1-a46b-4f9c01df27a4": "2026-09-25"
+  "36de8f80-b816-11f1-a46b-4f9c01df27a4": "2026-09-25",
+  "4d441197-2675-4e57-b7e5-a5caac854189": "2026-09-25",
+  "8a2dad30-a390-4db2-b7ae-304c06cddae4": "2026-09-25"
  }
 }
