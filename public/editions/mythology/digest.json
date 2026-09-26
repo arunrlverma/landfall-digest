@@ -7,10 +7,23 @@
   "Indigenous",
   "Mythic"
  ],
- "generatedAt": "2026-09-25T14:51:26.298192+00:00",
+ "generatedAt": "2026-09-26T14:01:05.198703+00:00",
  "showsScanned": 1200,
- "candidates": 20,
+ "candidates": 19,
  "picks": [
+  {
+   "id": "6a919f8eae4f28333672ae8f",
+   "showID": "https://feeds.acast.com/public/shows/67a1934c95d7c2516aeb49a7",
+   "showTitle": "Let's Talk About Myths, Baby! | Greek Mythology & the Ancient Mediterranean",
+   "title": "Meticulous Metis, Audacious Odysseus, and the Age Old Infamy of the Orphics... A Q&A Episode",
+   "summary": "Liv is back answers listener questions about all things myth... which, right now, involves primarily questions related to the Odyssey and you know who isn't complaining? LIV! AVAILABLE NOW! The Odyssey: a Modern Retelling. Submit your question for the next Q&A via email or a voice note. Get ad-free episodes and so, so much more, by subscribing to the Oracle Edition at patreon.com/mythsbaby. Enter our podcast guest form if you'd like to be on the show as a conversation guest!CW/TW: far too many Greek myths involve assault. I try to provide direct warnings when there is reference to anything wit",
+   "audioURL": "https://sphinx.acast.com/p/open/s/67a1934c95d7c2516aeb49a7/e/6a919f8eae4f28333672ae8f/media.mp3",
+   "published": "Tue, 22 Sep 2026 16:51:41 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/9b/34/e69b341c-ad4a-2d22-e3f4-96c6f2d5e915/mza_3850955449205051780.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Answers questions on Odyssey myths and Orphic traditions with thoughtful detail.",
+   "tradition": "Mythic"
+  },
   {
    "id": "2632a72e-9226-487b-b7fa-0313804e045a",
    "showID": "https://anchor.fm/s/104e3eb08/podcast/rss",
@@ -20,8 +33,21 @@
    "audioURL": "https://traffic.megaphone.fm/APO2979242677.mp3",
    "published": "Fri, 25 Sep 2026 01:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/a6/37/62a63720-ae50-b8c6-6282-b62a41e54588/mza_4071962011418281551.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Detailed exploration of Egyptian gods and myths shaping ancient life and afterlife beliefs.",
+   "tradition": "Mythic"
+  },
+  {
+   "id": "audioboom-01a0cc24-e53f-7687-a92d-9df00f318bde",
+   "showID": "https://audioboom.com/channels/5094626.rss",
+   "showTitle": "Myths and Legends",
+   "title": "444: Dwarves: Ortnit Wit",
+   "summary": "🗡️Ortnit has it all.The strength of twelve men. A secret, super lineage. A dwarven sword and unbreakable armor. The question is, what is he going to do with it? Start a war to try to date a princess? Start a war to try to date a princess!😈 The Creature: TarasqueIf it looks like a Bowser, bites like a Bowser, and scratches like a Bowser, it's either a Bowser or it's the Tarasque. If it sings like a Bowser then it's probably a Jack Black.---📖 The Book!Myths and Legends has our first book coming out on December 1st! FOR THE KING is a comprehensive retelling of Arthurian legend, focused on humanit",
+   "audioURL": "https://pdst.fm/e/pfx.vpixl.com/ejC8r/clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8955936.mp3?modified=1790131432&amp;sid=5094626&amp;source=rss",
+   "published": "Wed, 23 Sep 2026 07:30:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/db/81/8e/db818e29-55f8-5343-a185-8db92a0e1981/mza_6705057508729367288.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Detailed exploration of Egyptian gods and myths addressing death and afterlife themes.",
+   "reason": "Retells Norse dwarf Ortnit's saga, focusing on mythic power and choices.",
    "tradition": "Mythic"
   },
   {
@@ -33,8 +59,8 @@
    "audioURL": "https://sphinx.acast.com/p/open/s/67a1934c95d7c2516aeb49a7/e/6a919fae1d52ae16ba099c08/media.mp3",
    "published": "Fri, 25 Sep 2026 12:45:56 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/9b/34/e69b341c-ad4a-2d22-e3f4-96c6f2d5e915/mza_3850955449205051780.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Conversation about Artemis and goddess worship within ancient mythic context.",
+   "rating": 8,
+   "reason": "Discusses Artemis, goddess worship, and mythic symbolism in ancient Mediterranean culture.",
    "tradition": "Mythic"
   },
   {
@@ -47,64 +73,11 @@
    "published": "Mon, 21 Sep 2026 16:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A narrated Inuit myth about constellations exploring cultural stories and meaning.",
+   "reason": "Inuit constellation myths explore cultural meaning and nature's cycles through storytelling.",
    "tradition": "Indigenous"
-  },
-  {
-   "id": "6a919f55ae4f28333672a569",
-   "showID": "https://feeds.acast.com/public/shows/67a1934c95d7c2516aeb49a7",
-   "showTitle": "Let's Talk About Myths, Baby! | Greek Mythology & the Ancient Mediterranean",
-   "title": "Liv Reads Homer: The Odyssey (A Modern Translation!) Books 23 & 24",
-   "summary": "Liv reads the final two books of Homer's Odyssey, translated by Ian Johnston. It's time for dramatic reunions (of the living and the dead!), more unnecessary lies, and wrapping things up in a tidy little bow. This modern translation is used with immense gratitude to translator Ian Johnston and Vancouver Island University. AVAILABLE NOW! The Odyssey: a Modern Retelling. Submit your question for the next Q&A via email or a voice note. Get ad-free episodes and so, so much more, by subscribing to the Oracle Edition at patreon.com/mythsbaby. Enter our podcast guest form if you'd like to be on the s",
-   "audioURL": "https://sphinx.acast.com/p/open/s/67a1934c95d7c2516aeb49a7/e/6a919f55ae4f28333672a569/media.mp3",
-   "published": "Fri, 18 Sep 2026 04:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/9b/34/e69b341c-ad4a-2d22-e3f4-96c6f2d5e915/mza_3850955449205051780.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Reading and analysis of Homer's Odyssey focusing on mythic reunions and closure.",
-   "tradition": "Mythic"
-  },
-  {
-   "id": "d229df5c-b04d-4cb4-b64e-1d4168c81a78",
-   "showID": "https://feeds.redcircle.com/7b1abe25-db9c-4224-a98b-d2bb424c430d",
-   "showTitle": "Calm History (not A.I. & no loud ads) - Bedtime Sleep Stories for Education & Relaxation",
-   "title": "*Sample* | The 12 Months of the Year: Roman Mythology, Greek Mythology, & Fun Facts | Bedtime Sleep Stories about History (Bonus Episode #110)",
-   "summary": "The full version of this episode (46 minutes & Ad-free) is available for Silk+ Members (FREE for a limited time!) and includes access to over 600 more episodes from these podcasts:Calm History (130+ episodes)History Showcase (25+ episodes)Sleep Whispers (430+ episodes)ASMR Sleep Station (50+ episodes)1 & 8-Hour Nature Sounds (50+ episodes)1 & 8-Hour Background Sounds (30 episodes)Extended Soothing Voices (15+ episodes)Counselor Curt ASMR (20+ episodes)ASMR University (10 episodes)*****************Calm History T-Shirts & more: https://silkswag.dashery.com/Get T-Shirts, Hoodies, Socks, Coffee Mu",
-   "audioURL": "https://pscrb.fm/rss/p/audio3.redcircle.com/episodes/8757d916-8cba-4c13-a24d-5bc2ab694e4a/stream.mp3",
-   "published": "Fri, 18 Sep 2026 04:47:51 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a9/20/dc/a920dcd1-5480-081b-00b2-21f84f7f5d9c/mza_18282846652988937881.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Detailed exploration of Roman and Greek mythology with stories and cultural context.",
-   "tradition": "Mythic"
-  },
-  {
-   "id": "2fb09ac4-b392-11f1-9c7e-9f2894551883",
-   "showID": "https://feeds.megaphone.fm/BMDC9083048104",
-   "showTitle": "Unashamed with the Robertson Family",
-   "title": "Ep 1423 | ‘The Odyssey’ & the Bible Tell Two Very Different Stories About Coming Home",
-   "summary": "Al, Zach, Christian, and John Luke dig into The Odyssey, comparing Christopher Nolan’s interpretation with Homer’s original, from the diminished role of the Greek gods to Penelope’s complicated fight to preserve her family and kingdom. They explore Telemachus’ struggle to grow up without his father and the stark contrast between men who build and protect and those who simply live off what others have built. The guys ultimately contrast Odysseus’ long journey home with Christianity’s radically different picture of God bringing his people home.\n\n\n\nIn this episode: Judges; 1 Samuel; Job; Daniel 2",
-   "audioURL": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/617/traffic.megaphone.fm/LEW4102275617.mp3",
-   "published": "Fri, 18 Sep 2026 20:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/94/80/d5/9480d517-9717-0cec-8143-b989f1e09b98/mza_16048748082593014166.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Compares The Odyssey's mythic journey with biblical themes of homecoming and ethics.",
-   "tradition": "Mythic"
-  },
-  {
-   "id": "audioboom-01a0cc24-e53f-7687-a92d-9df00f318bde",
-   "showID": "https://audioboom.com/channels/5094626.rss",
-   "showTitle": "Myths and Legends",
-   "title": "444: Dwarves: Ortnit Wit",
-   "summary": "🗡️Ortnit has it all.The strength of twelve men. A secret, super lineage. A dwarven sword and unbreakable armor. The question is, what is he going to do with it? Start a war to try to date a princess? Start a war to try to date a princess!😈 The Creature: TarasqueIf it looks like a Bowser, bites like a Bowser, and scratches like a Bowser, it's either a Bowser or it's the Tarasque. If it sings like a Bowser then it's probably a Jack Black.---📖 The Book!Myths and Legends has our first book coming out on December 1st! FOR THE KING is a comprehensive retelling of Arthurian legend, focused on humanit",
-   "audioURL": "https://pdst.fm/e/pfx.vpixl.com/ejC8r/clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8955936.mp3?modified=1790131432&amp;sid=5094626&amp;source=rss",
-   "published": "Wed, 23 Sep 2026 07:30:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/db/81/8e/db818e29-55f8-5343-a185-8db92a0e1981/mza_6705057508729367288.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Storytelling of dwarven mythic figure Ortnit with themes of power and conflict.",
-   "tradition": "Mythic"
   }
  ],
  "history": {
-  "6a919ca6ee851f3f313c81b0": "2026-09-11",
   "c494a6bc-a463-47c5-b006-a1d043f11b9c": "2026-09-12",
   "f466bee0-a61b-11f1-b03b-33e613072d70": "2026-09-13",
   "https://api.spreaker.com/episode/74937665": "2026-09-14",
@@ -112,7 +85,6 @@
   "6a993a10809ae7c2f42bd14a": "2026-09-14",
   "audioboom-01a0845c-bfac-7108-9353-a7529af17992": "2026-09-15",
   "6a919cbe1348fdc761a0722e": "2026-09-14",
-  "6a81d7934394d6874bcc4cee": "2026-09-11",
   "18a52414-abca-11f1-b538-7b4ce9a8f6ab": "2026-09-16",
   "6a9aa89a2a7730b8963b401c": "2026-09-17",
   "14a765e3-97da-47af-99ea-b4bf01417191": "2026-09-17",
@@ -128,12 +100,12 @@
   "6a919f55ae4f28333672a569": "2026-09-25",
   "d229df5c-b04d-4cb4-b64e-1d4168c81a78": "2026-09-25",
   "515f8392-b1d5-11f1-b208-272729a761da": "2026-09-20",
-  "bba2031c-b110-11f1-8b49-eb5b8fdf46ed": "2026-09-25",
+  "bba2031c-b110-11f1-8b49-eb5b8fdf46ed": "2026-09-26",
   "223da03a-6e6b-4916-9d5b-1f29982e28ac": "2026-09-24",
-  "audioboom-01a0cc24-e53f-7687-a92d-9df00f318bde": "2026-09-25",
-  "6a919f8eae4f28333672ae8f": "2026-09-24",
+  "audioboom-01a0cc24-e53f-7687-a92d-9df00f318bde": "2026-09-26",
+  "6a919f8eae4f28333672ae8f": "2026-09-26",
   "2fb09ac4-b392-11f1-9c7e-9f2894551883": "2026-09-25",
-  "2632a72e-9226-487b-b7fa-0313804e045a": "2026-09-25",
-  "6a919fae1d52ae16ba099c08": "2026-09-25"
+  "2632a72e-9226-487b-b7fa-0313804e045a": "2026-09-26",
+  "6a919fae1d52ae16ba099c08": "2026-09-26"
  }
 }
