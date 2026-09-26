@@ -1,9 +1,22 @@
 {
  "version": 1,
- "generatedAt": "2026-09-26T12:51:58.789040+00:00",
+ "generatedAt": "2026-09-26T16:59:20.666982+00:00",
  "showsScanned": 400,
- "candidates": 50,
+ "candidates": 49,
  "picks": [
+  {
+   "id": "895bb294-6695-4a5f-abd9-e3f9e482b885",
+   "showID": "https://anchor.fm/s/101bcf8e8/podcast/rss",
+   "showTitle": "The Lila Rose Show",
+   "title": "E353: No Arms, No Legs, and the Craziest Love Story w/Nick Vujicic | E353 Lila Rose Show",
+   "summary": "No hands. No arms. A suicide attempt at age 10. One prophecy from a janitor and one chapter from the Gospel of John. This is the story of NickV, who has has preached to hundreds of millions, spoken to nearly 3 billion people, and talked for virtually every major nation on the planet. His story doesn't seem possible, but that's the point. Watch the new documentary: https://nickvfilms.com/2026/Nick's Instagram: https://www.instagram.com/nickvministries/?hl=enNEW: Check out our Merch store! https://shop.lilaroseshow.com/Join our new Patreon community! https://patreon.com/lilaroseshow - We'll have",
+   "audioURL": "https://traffic.megaphone.fm/APO3695847009.mp3",
+   "published": "Tue, 22 Sep 2026 09:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/2d/1c/bb2d1cb2-4c61-0e3d-039e-b0a474e58c51/mza_2950270099588349078.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "A man with disabilities shares his story of faith, suffering, and hope grounded in the Gospel.",
+   "tradition": "Christian"
+  },
   {
    "id": "8633967b-d685-4551-9d8a-1ad15a54e012",
    "showID": "https://anchor.fm/s/ff787bd4/podcast/rss",
@@ -14,7 +27,7 @@
    "published": "Mon, 21 Sep 2026 18:08:56 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/71/01/5a/71015ad7-d25d-3a34-91c5-76f2e24dd4d0/mza_8956544048698379580.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores Jesus' prayer on unity and sanctification before the cross.",
+   "reason": "A pastor reflects on Jesus' final prayer about unity, truth, and glorifying God.",
    "tradition": "Christian"
   },
   {
@@ -27,7 +40,7 @@
    "published": "Wed, 23 Sep 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Willow Smith discusses spirituality, creativity, and consciousness from diverse influences.",
+   "reason": "Willow Smith discusses spirituality, creativity, and consciousness in a personal way.",
    "tradition": "Interfaith"
   },
   {
@@ -40,21 +53,8 @@
    "published": "Sun, 20 Sep 2026 13:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/b0/40/76b040b7-7816-1014-9ad5-8f42c57950ff/mza_1840902391107729251.jpeg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Researcher discusses reincarnation and consciousness through documented past-life memories.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/AFtAo_w5JoT43dYc--26CZbLkFu6v0WEU8n27Gg1LyE",
-   "showID": "https://rss.art19.com/the-telepathy-tapes",
-   "showTitle": "The Telepathy Tapes",
-   "title": "TRAILER: The Reincarnation Records (Telepathy Tapes Season 3)",
-   "summary": "The Telepathy Tapes returns October 7 with Season 3: The Reincarnation Records.If The Telepathy Tapes deconstructed what you believe about consciousness, The Reincarnation Records may shatter it.On October 7th, Ky Dickens takes on one of humanity’s oldest questions in a new podcast, The Reincarnation Records: What if memory doesn’t begin at birth? If The Telepathy Tapes challenged the way we think about consciousness, The Reincarnation Records confronts evidence that could alter what we believe about death.Around the world, young children have described lives they seemingly never lived. They r",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/f8ecda4e-118d-4e7c-9c51-00586a9bcc24.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Fri, 18 Sep 2026 16:45:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Podcast explores reincarnation and consciousness challenging common assumptions about memory.",
-   "tradition": "Interfaith"
+   "reason": "Researcher discusses reincarnation and consciousness with parapsychological evidence.",
+   "tradition": "Secular"
   },
   {
    "id": "coe22.podbean.com/5e53bc18-340b-3ca2-b43a-64a7dbf8006a",
@@ -66,20 +66,7 @@
    "published": "Mon, 21 Sep 2026 01:37:07 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Christian reflection on worship, surrender, and the contrast between religion and redemption.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "895bb294-6695-4a5f-abd9-e3f9e482b885",
-   "showID": "https://anchor.fm/s/101bcf8e8/podcast/rss",
-   "showTitle": "The Lila Rose Show",
-   "title": "E353: No Arms, No Legs, and the Craziest Love Story w/Nick Vujicic | E353 Lila Rose Show",
-   "summary": "No hands. No arms. A suicide attempt at age 10. One prophecy from a janitor and one chapter from the Gospel of John. This is the story of NickV, who has has preached to hundreds of millions, spoken to nearly 3 billion people, and talked for virtually every major nation on the planet. His story doesn't seem possible, but that's the point. Watch the new documentary: https://nickvfilms.com/2026/Nick's Instagram: https://www.instagram.com/nickvministries/?hl=enNEW: Check out our Merch store! https://shop.lilaroseshow.com/Join our new Patreon community! https://patreon.com/lilaroseshow - We'll have",
-   "audioURL": "https://traffic.megaphone.fm/APO3695847009.mp3",
-   "published": "Tue, 22 Sep 2026 09:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/2d/1c/bb2d1cb2-4c61-0e3d-039e-b0a474e58c51/mza_2950270099588349078.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A story of overcoming suffering and faith inspired by the Gospel.",
+   "reason": "Explores religious surrender versus self-will through a biblical story.",
    "tradition": "Christian"
   },
   {
@@ -92,7 +79,7 @@
    "published": "Sat, 26 Sep 2026 01:10:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3b/aa/c3/3baac323-1f74-650a-2c04-f35ad21a51e9/mza_7781202281310692386.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Psychic medium discusses afterlife blending science and spirituality, more speculative.",
+   "reason": "Psychic medium discusses afterlife blending science and spirituality.",
    "tradition": "Interfaith"
   },
   {
@@ -105,8 +92,21 @@
    "published": "Tue, 22 Sep 2026 23:57:19 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9a/36/b1/9a36b14b-2197-f7c6-2116-e8dc5deb67e5/mza_5220556973286933551.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Devotional on choosing Christ emphasizing faith's reality and presence.",
+   "reason": "Affirms Christ's reality and meaning, inviting reflection on faith's role in life.",
    "tradition": "Latter-day Saint"
+  },
+  {
+   "id": "ef5db494-b6d8-11f1-b0fa-27523be1ab4d",
+   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
+   "showTitle": "Live Free with Josh Howerton",
+   "title": "The Biggest THREAT to Christianity is Happening RIGHT NOW (ft. Philip Anthony Mitchell) | Live Free with Josh Howerton",
+   "summary": "What does it look like to contend for your faith when culture is shifting, pressure is rising, and following Jesus may cost you something?\n\nPastor Josh Howerton sits down with Pastor Philip Anthony Mitchell for a raw and deeply personal conversation about Philip’s journey from the streets of Queens and Rikers Island to surrendering his life to Christ and eventually becoming a pastor. Philip shares how God transformed his life, shaped his preaching, and taught him that faithfulness—not platform, influence, or recognition—is the true measure of ministry.\n\nThe conversation also turns to some of t",
+   "audioURL": "https://traffic.megaphone.fm/HAEEH2823771253.mp3",
+   "published": "Wed, 23 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "A pastor shares his transformative faith journey amid cultural challenges to Christianity.",
+   "tradition": "Christian"
   }
  ],
  "history": {
@@ -225,7 +225,7 @@
   "1ac7a721-a986-4d0b-a020-b4cd01668ce6": "2026-09-26",
   "gid://art19-episode-locator/V0/7Yw0jlLmGbMj7bn5NWr0Fq5UckX3N-vnQE9RcgziGkY": "2026-09-25",
   "gid://art19-episode-locator/V0/D94pQiBvQiZwuQrc--Ksft8mu_k7yJxh_dRvpPLZvO4": "2026-09-26",
-  "ef5db494-b6d8-11f1-b0fa-27523be1ab4d": "2026-09-23",
+  "ef5db494-b6d8-11f1-b0fa-27523be1ab4d": "2026-09-26",
   "2bfd2a81-560e-4138-8901-8c3fb87ff53d": "2026-09-25",
   "497fef0d-65bc-4973-b74c-a38354812bf3": "2026-09-24",
   "Buzzsprout-19855236": "2026-09-24",
