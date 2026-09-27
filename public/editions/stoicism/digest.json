@@ -6,10 +6,36 @@
   "Secular",
   "Interfaith"
  ],
- "generatedAt": "2026-09-26T14:00:48.477192+00:00",
+ "generatedAt": "2026-09-27T14:56:41.411158+00:00",
  "showsScanned": 1200,
- "candidates": 28,
+ "candidates": 31,
  "picks": [
+  {
+   "id": "gid://art19-episode-locator/V0/OTFHNa4zkeeEuGGrpJ1jtIyo78DHLDY9B5tNpiLlr9g",
+   "showID": "https://rss.art19.com/the-daily-stoic",
+   "showTitle": "The Daily Stoic",
+   "title": "11 Stoic Lessons Ryan Learned in Rome",
+   "summary": "The streets of Rome still carry the lessons the Stoics left behind nearly 2,000 years ago. In today’s episode, Ryan walks through the places where Stoicism was lived and tested and shares 11 lessons the ancient Stoic sites still have to teach us.Watch on YouTube 👉 https://www.youtube.com/watch?v=b0uUe3wtB-E🎟️ DAILY STOIC LIVE | Ryan Holiday is coming to a city near you! Grab tickets here |  https://www.dailystoiclive.com/🎙️ AD-FREE | Support the podcast and go deeper into Stoicism by subscribing to The Daily Stoic Premium - unlock ad-free listening, early access, and bonus content: https://dai",
+   "audioURL": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/cohst.app/pdcst/6H1M8B/rss.art19.com/episodes/8b939bde-4bfb-4e9c-9547-011c501a154e.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Sun, 27 Sep 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Shares practical Stoic lessons from ancient Rome relevant to living well.",
+   "tradition": "Stoic"
+  },
+  {
+   "id": "TheDeeperThinkingPodcast.podbean.com/fa7a6ca8-bdb8-345b-83d0-1e5fd697d602",
+   "showID": "https://feed.podbean.com/TheDeeperThinkingPodcast/feed.xml",
+   "showTitle": "The Deeper Thinking Podcast",
+   "title": "The Interface Constraint [Realism about constraint]",
+   "summary": "Donald Hoffman’s Interface Theory of Perception creates a difficult problem for science: if perception is an adaptive interface rather than a window onto reality, every instrument, equation and observation remains inside the same interface it is trying to understand.\nThis episode of The Deeper Thinking Podcast uses AI-generated narration.\nRealism about constraint\nFrom this problem, the episode develops a proposed philosophical framework called realism about constraint. Its central claim is that science may not need its theories to resemble reality in order to know something real about it. What",
+   "audioURL": "https://pdcn.co/e/mcdn.podbean.com/mf/web/2iiwy8v7uqqenf5w/The_Interface_Constraint9yxnz.mp3",
+   "published": "Sun, 27 Sep 2026 18:57:33 +1000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e2/cd/f2/e2cdf2c5-640c-9ed7-ffe7-7c01d7b5ce25/mza_9735652727909787110.png/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Philosophical framework on perception and reality, relevant to Stoic epistemology.",
+   "tradition": "Secular"
+  },
   {
    "id": "gid://art19-episode-locator/V0/klCRPtV1IfLRMcjyIwTQG7XeTi4keOdvqnJfREo8AFw",
    "showID": "https://rss.art19.com/the-daily-stoic",
@@ -20,7 +46,7 @@
    "published": "Sat, 26 Sep 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Detailed look at Marcus Aurelius facing mortality and meaning in his final years.",
+   "reason": "Detailed look at Marcus Aurelius facing mortality and suffering as a Stoic emperor.",
    "tradition": "Stoic"
   },
   {
@@ -46,46 +72,7 @@
    "published": "Tue, 22 Sep 2026 01:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2e/51/7d/2e517de7-6a4e-306e-25f6-075fc399e82c/mza_13986473679793687359.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A personal reflection on mortality and meaning after a long engagement with a difficult story.",
-   "tradition": "Stoic"
-  },
-  {
-   "id": "61d3d99e-b584-4415-844f-b4cd000d932c",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4479dca8-38de-40f2-97ba-b49701233e83/a0c477f8-77ed-480d-90e8-b497012342e2/podcast.rss",
-   "showTitle": "Prose Society with Eli Rallo",
-   "title": "Book Review: Waist Deep by Linea Maja Ernst — Ensemble Casts, Existential Dread, and the Question of How We're Supposed to Live",
-   "summary": "This week we're reviewing Waist Deep, the debut novel by Danish author Linea Maja Ernst that became a smash hit across Scandinavia. Five university friends and their partners spend seven days at a lake house in Denmark, and old feelings of love and lust resurface as they confront the big question: who makes the rules for how we live our lives, and which is the right way? We break down every character — Sylvia, the insufferable-but-relatable protagonist who can't figure out what she wants; Charlie, the perfect partner she can't bring herself to love; Quince, the charming bachelor who's okay wit",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4479dca8-38de-40f2-97ba-b49701233e83/61d3d99e-b584-4415-844f-b4cd000d932c/audio.mp3?utm_source=Podcast&amp;in_playlist=a0c477f8-77ed-480d-90e8-b497012342e2",
-   "published": "Wed, 23 Sep 2026 07:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/83/14/15/8314153f-348c-b6c7-8cc8-c1e322be5dcd/mza_8989347060111968698.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores existential questions about how to live through a novel's characters.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "3e2c3352-204c-4962-88dd-e1aebf82311d",
-   "showID": "https://api.riverside.com/hosting/fx6C2Wra.rss",
-   "showTitle": "Spinoza Unravelled",
-   "title": "03. Spinoza's path to philosophy: Love, a source of suffering or a path towards joy? (Part 3)",
-   "summary": "Michah and Clare explore Spinoza’s image of philosophy as a remedy, debate what his account of attachment means for human relationships, and confront the gap between understanding a better life and being able to live it.Treatise on the Emendation of the Intellect · §7–10",
-   "audioURL": "https://api.riverside.com/hosting-analytics/media/9a829294e21f01cb763021ae2c0cf81c04934abc7f17ed3c72d493a16a10fa64/eyJlcGlzb2RlSWQiOiIzZTJjMzM1Mi0yMDRjLTQ5NjItODhkZC1lMWFlYmY4MjMxMWQiLCJwb2RjYXN0SWQiOiJjNjdlNjY5NS0xNDU0LTRhYjktOTFhZC1iZDlhNWYwMmFjOGMiLCJhY2NvdW50SWQiOiI2YTgzMDcyMzU5ODcxM2Q2ODI3NzA2NTUiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFiMjk1NzVlYmEzYjkxMzE3OGIxMDhjL3Job2RyaS1iZXlub25zLXN0dWRpby0yMDI2LTktMjJfXzE0LTQ5LTI5Lm1wMyJ9.mp3",
-   "published": "Tue, 22 Sep 2026 14:49:25 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/de/a5/79dea505-26c5-e6d8-bd22-457d59ecd11c/mza_4704843166326625495.png/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Philosophical discussion on Spinoza's ethics and joy, relevant to Stoic ethics.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "da3cfcb6-2db9-411e-b0e0-24d86f309f05",
-   "showID": "https://api.riverside.com/hosting/fx6C2Wra.rss",
-   "showTitle": "Spinoza Unravelled",
-   "title": "02. Spinoza's path to philosophy: What are the costs of conventional success? (Part 2)",
-   "summary": "Michah and Clare examine approval, competition and the difference between an unreliable good and a lasting good we may not yet know how to attain.Treatise on the Emendation of the Intellect · §4–6Exclusive podcast offer: buy the edition used in the podcast, A Spinoza Reader, edited by Edwin Curley, directly from Princeton University Press and use code SPINOZA (all caps) for 40% off.View the book at Princeton University Press ↗",
-   "audioURL": "https://api.riverside.com/hosting-analytics/media/512d7cf611fac61f1d6e54a3b3f350f15ae6217eb16edb08ec3f68c23d577601/eyJlcGlzb2RlSWQiOiJkYTNjZmNiNi0yZGI5LTQxMWUtYjBlMC0yNGQ4NmYzMDlmMDUiLCJwb2RjYXN0SWQiOiJjNjdlNjY5NS0xNDU0LTRhYjktOTFhZC1iZDlhNWYwMmFjOGMiLCJhY2NvdW50SWQiOiI2YTgzMDcyMzU5ODcxM2Q2ODI3NzA2NTUiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFiMjg5NDAwOTkxZjkxYzQ2MWVjMjM1L3Job2RyaS1iZXlub25zLXN0dWRpby0yMDI2LTktMjJfXzEzLTU3LTIyLm1wMyJ9.mp3",
-   "published": "Tue, 22 Sep 2026 13:57:19 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/de/a5/79dea505-26c5-e6d8-bd22-457d59ecd11c/mza_4704843166326625495.png/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores Spinoza's philosophy on lasting goods and approval, relevant to Stoic ethics.",
+   "reason": "Personal reflection on mortality and meaning through a philosophical lens.",
    "tradition": "Secular"
   }
  ],
@@ -95,9 +82,7 @@
   "4552dcf7-8491-430c-90f2-5e966895a8d8": "2026-09-16",
   "065a6da4-7ab8-41c5-a6c7-46ca5d5af400": "2026-09-17",
   "krishnamurti.podbean.com/ea81e5b2-4db6-3f4c-a98b-d89373650799": "2026-09-13",
-  "gid://art19-episode-locator/V0/WhZeIg3gyTQ5fk07jx4nkZw2cm_vnsthK3UOrARHYmQ": "2026-09-12",
   "8f30466b-1660-47ca-a54d-34fcbbdd3c4d": "2026-09-16",
-  "4fc8b2ae-0787-11f1-b09a-0f976964d21b": "2026-09-12",
   "787835f0-ad52-11f1-97c0-a33e4dec2eb8": "2026-09-20",
   "b09361a5-7af9-43c9-bbd6-e3238f60868a": "2026-09-18",
   "effeda4a-0ecd-11f0-b469-c731df454ef0": "2026-09-15",
@@ -116,8 +101,8 @@
   "gid://art19-episode-locator/V0/_rz-Q7pRAelxW3htMpDQQQUrHAQ2tVuIhpcFcl_x63M": "2026-09-20",
   "gid://art19-episode-locator/V0/FTMw9GrV27eJsLE6ET-zdL_-WS4dIVuTk3JSeDYe9WQ": "2026-09-20",
   "prx_418_e8c509ab-afcf-4f16-a894-5212e3695f50": "2026-09-24",
-  "e12bfb9b-ab37-4f7e-9334-4cd49eb048e1": "2026-09-26",
-  "b63a1cde-f082-450f-916f-ad80a1c056cd": "2026-09-26",
+  "e12bfb9b-ab37-4f7e-9334-4cd49eb048e1": "2026-09-27",
+  "b63a1cde-f082-450f-916f-ad80a1c056cd": "2026-09-27",
   "6a86b7a239e73ea8f36475f7": "2026-09-24",
   "61d3d99e-b584-4415-844f-b4cd000d932c": "2026-09-26",
   "gid://art19-episode-locator/V0/7Yw0jlLmGbMj7bn5NWr0Fq5UckX3N-vnQE9RcgziGkY": "2026-09-25",
@@ -125,6 +110,8 @@
   "3e2c3352-204c-4962-88dd-e1aebf82311d": "2026-09-26",
   "da3cfcb6-2db9-411e-b0e0-24d86f309f05": "2026-09-26",
   "prx_187_ffd83924-9836-4005-9131-c46617dadf1d": "2026-09-25",
-  "gid://art19-episode-locator/V0/klCRPtV1IfLRMcjyIwTQG7XeTi4keOdvqnJfREo8AFw": "2026-09-26"
+  "gid://art19-episode-locator/V0/klCRPtV1IfLRMcjyIwTQG7XeTi4keOdvqnJfREo8AFw": "2026-09-27",
+  "gid://art19-episode-locator/V0/OTFHNa4zkeeEuGGrpJ1jtIyo78DHLDY9B5tNpiLlr9g": "2026-09-27",
+  "TheDeeperThinkingPodcast.podbean.com/fa7a6ca8-bdb8-345b-83d0-1e5fd697d602": "2026-09-27"
  }
 }
