@@ -1,34 +1,21 @@
 {
  "version": 1,
- "generatedAt": "2026-09-27T01:14:46.519501+00:00",
+ "generatedAt": "2026-09-27T07:52:48.500244+00:00",
  "showsScanned": 400,
- "candidates": 49,
+ "candidates": 50,
  "picks": [
   {
-   "id": "flightcast:01M2RHNG0S1MZ1VD7AG18AGCZ7",
-   "showID": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn",
-   "showTitle": "The Diary Of A CEO with Steven Bartlett",
-   "title": "Rick Rubin: What Jay-Z Did in 30 Minutes Left Me Speechless!",
-   "summary": "Discover the spiritual and psychological creative process that legendary producer Rick Rubin uses to help the world's biggest artists transcend and achieve greatness.\nRick Rubin is the co-founder of Def Jam Recordings, and the author of the philosophical bestseller The Creative Act: A Way of Being. Having collaborated with icons like Jay-Z, Johnny Cash, Adele, Tom Petty, and Kanye West, Rubin does not rely on commercial metrics or audience testing to guide his workflow. He shares practical strategies for dismantling the prisons of identity, harnessing the power of \"indefensible\" ideas, and cul",
-   "audioURL": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M2RHNG0S1MZ1VD7AG18AGCZ7.mp3",
-   "published": "Mon, 21 Sep 2026 05:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Discusses creative process with spiritual and psychological insights from a philosophical perspective.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "61066efe-b47e-11f1-be65-8f53fa9b0eaf",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "LUCY HALE: “I Was Sabotaging My Life.”",
-   "summary": "Jay sits down with actress Lucy Hale, who at 37 says she feels more comfortable with herself than ever before. Lucy opens up about letting go of society’s timelines, navigating media scrutiny and body insecurity while growing up in the early days of social media, and her relationship with alcohol and path to sobriety. Lucy also shares her decision to freeze her eggs on her own terms, and how solitude, self-forgiveness, and personal growth have changed the way she approaches love, relationships, and herself.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nMazda crafts cars for people who do more than si",
-   "audioURL": "https://traffic.megaphone.fm/GLT4407358889.mp3",
-   "published": "Mon, 21 Sep 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Personal growth and sobriety discussed with some reflection on self and life choices.",
-   "tradition": "Secular"
+   "id": "coe22.podbean.com/41f4ac1e-8032-3b80-99fa-b3763c603862",
+   "showID": "https://feed.podbean.com/coe22/feed.xml",
+   "showTitle": "The Church of Eleven22",
+   "title": "Saturated Saturday: When God Doesn’t Do What You Think He Should — Pastor Jason Shepperd",
+   "summary": "What happens to your faith when God doesn’t do what you think a good God should do?\nThe gospel doesn’t promise a life without pain. It gives us hope in the middle of it. In 2 Samuel 12, David faces unimaginable loss and has a decision to make: will his pain cause him to stop seeking God, or lead him into deeper trust and surrender?\nGrace doesn’t disappear when pain enters our lives, and God’s character doesn’t change when our circumstances do.The gospel includes suffering, but it ends in resurrection. Because the tomb is empty, pain does not get the final word.\n📌 Supplemental Resources:\n• Jaso",
+   "audioURL": "https://mcdn.podbean.com/mf/web/i2afs45syg88n38f/20260919_Saturated_622_396v473.mp3",
+   "published": "Mon, 21 Sep 2026 14:50:39 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "A pastor wrestles with faith and suffering through biblical loss and trust in God.",
+   "tradition": "Christian"
   },
   {
    "id": "gid://art19-episode-locator/V0/7Yw0jlLmGbMj7bn5NWr0Fq5UckX3N-vnQE9RcgziGkY",
@@ -40,21 +27,21 @@
    "published": "Wed, 23 Sep 2026 09:30:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/c9/5d/66c95da6-3ed6-20fc-7a54-8fd6cdf3c237/mza_81406979434027984.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A deep philosophical and neuroscientific exploration of consciousness and its nature.",
+   "reason": "Deep philosophical and neuroscientific exploration of consciousness.",
    "tradition": "Secular"
   },
   {
-   "id": "coe22.podbean.com/41f4ac1e-8032-3b80-99fa-b3763c603862",
-   "showID": "https://feed.podbean.com/coe22/feed.xml",
-   "showTitle": "The Church of Eleven22",
-   "title": "Saturated Saturday: When God Doesn’t Do What You Think He Should — Pastor Jason Shepperd",
-   "summary": "What happens to your faith when God doesn’t do what you think a good God should do?\nThe gospel doesn’t promise a life without pain. It gives us hope in the middle of it. In 2 Samuel 12, David faces unimaginable loss and has a decision to make: will his pain cause him to stop seeking God, or lead him into deeper trust and surrender?\nGrace doesn’t disappear when pain enters our lives, and God’s character doesn’t change when our circumstances do.The gospel includes suffering, but it ends in resurrection. Because the tomb is empty, pain does not get the final word.\n📌 Supplemental Resources:\n• Jaso",
-   "audioURL": "https://mcdn.podbean.com/mf/web/i2afs45syg88n38f/20260919_Saturated_622_396v473.mp3",
-   "published": "Mon, 21 Sep 2026 14:50:39 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
+   "id": "https://api.spreaker.com/episode/75176718",
+   "showID": "https://www.spreaker.com/show/4858435/episodes/feed",
+   "showTitle": "Next Level Soul Podcast with Alex Ferrari",
+   "title": "NDE's, Psychedelics & the True Nature of Reality with Dr. Eben Alexander",
+   "summary": "What if your life review after death isn't simply watching your past—but actually experiencing how your actions felt from the perspective of everyone you affected?Returning guest and neurosurgeon Dr. Eben Alexander joins us to explore what his near-death experience taught him about consciousness, reincarnation, timelessness, hardship, love, and the deeper purpose of human life.Dr. Eben revisits the seven-day coma that transformed his worldview and describes what he calls the Gateway Valley, the Core, his encounter with an infinitely loving divine presence, and the mysterious woman who accompan",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75176718/nls_728.mp3",
+   "published": "Tue, 22 Sep 2026 11:30:02 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/82/33/df/8233df68-fc50-a2d4-00c2-03887b16bccb/mza_15463495654775847599.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A pastor reflects on faith and suffering when God’s actions defy expectations.",
-   "tradition": "Christian"
+   "reason": "A neurosurgeon reflects deeply on consciousness, death, and love from a near-death experience.",
+   "tradition": "Secular"
   },
   {
    "id": "7e94e186-7668-46f8-a13e-6237676e2cee",
@@ -66,8 +53,21 @@
    "published": "Fri, 25 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Honest conversations about divorce, grief, and church’s role in broken relationships.",
+   "reason": "Honest conversations about divorce, grief, and faith struggles in the church.",
    "tradition": "Christian"
+  },
+  {
+   "id": "https://api.spreaker.com/episode/75179367",
+   "showID": "https://www.spreaker.com/show/4858435/episodes/feed",
+   "showTitle": "Next Level Soul Podcast with Alex Ferrari",
+   "title": "OBE Visions of Humanity’s Future with Darius J. Wright",
+   "summary": "FLASHBACK FRIDAYS: On today’s episode, we welcome the extraordinary Darius J. Wright, an explorer of realms beyond our physical grasp and a seeker of ancient truths. Darius’ journey is a profound dive into out-of-body experiences (OBEs) and an intricate understanding of our spiritual reality. His wisdom offers a roadmap to understanding the limitations we place on ourselves and the immense potential we have to transcend them.Darius explains that the out-of-body experience is a gateway to another dimension, akin to a near-death experience but available to anyone with the courage to overcome fea",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75179367/flashback_fridays_nls_522_darius_wright.mp3",
+   "published": "Fri, 25 Sep 2026 11:30:02 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/82/33/df/8233df68-fc50-a2d4-00c2-03887b16bccb/mza_15463495654775847599.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores out-of-body experiences as gateways to spiritual understanding and human potential.",
+   "tradition": "Interfaith"
   },
   {
    "id": "5d492f72-5382-4110-95d8-6b5d0b52ea61",
@@ -79,8 +79,8 @@
    "published": "Tue, 22 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores ethical responsibility and faith through New Testament parables and sin concepts.",
-   "tradition": "Christian"
+   "reason": "Explores moral responsibility through sins of omission and their eternal consequences.",
+   "tradition": "Catholic"
   },
   {
    "id": "7b8d0ded-674c-426b-94b3-ed63279d069e",
@@ -92,7 +92,46 @@
    "published": "Mon, 21 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses the integration of belief and practice in Christian life through Jesus' teachings.",
+   "reason": "Discusses the importance of practicing faith, not just preaching it, with scriptural focus.",
+   "tradition": "Catholic"
+  },
+  {
+   "id": "flightcast:01M2RHNG0S1MZ1VD7AG18AGCZ7",
+   "showID": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn",
+   "showTitle": "The Diary Of A CEO with Steven Bartlett",
+   "title": "Rick Rubin: What Jay-Z Did in 30 Minutes Left Me Speechless!",
+   "summary": "Discover the spiritual and psychological creative process that legendary producer Rick Rubin uses to help the world's biggest artists transcend and achieve greatness.\nRick Rubin is the co-founder of Def Jam Recordings, and the author of the philosophical bestseller The Creative Act: A Way of Being. Having collaborated with icons like Jay-Z, Johnny Cash, Adele, Tom Petty, and Kanye West, Rubin does not rely on commercial metrics or audience testing to guide his workflow. He shares practical strategies for dismantling the prisons of identity, harnessing the power of \"indefensible\" ideas, and cul",
+   "audioURL": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M2RHNG0S1MZ1VD7AG18AGCZ7.mp3",
+   "published": "Mon, 21 Sep 2026 05:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discusses creative process with spiritual and psychological depth.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "61066efe-b47e-11f1-be65-8f53fa9b0eaf",
+   "showID": "https://feeds.megaphone.fm/on-purpose",
+   "showTitle": "On Purpose with Jay Shetty",
+   "title": "LUCY HALE: “I Was Sabotaging My Life.”",
+   "summary": "Jay sits down with actress Lucy Hale, who at 37 says she feels more comfortable with herself than ever before. Lucy opens up about letting go of society’s timelines, navigating media scrutiny and body insecurity while growing up in the early days of social media, and her relationship with alcohol and path to sobriety. Lucy also shares her decision to freeze her eggs on her own terms, and how solitude, self-forgiveness, and personal growth have changed the way she approaches love, relationships, and herself.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nMazda crafts cars for people who do more than si",
+   "audioURL": "https://traffic.megaphone.fm/GLT4407358889.mp3",
+   "published": "Mon, 21 Sep 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Shares personal growth, faith struggles, and self-forgiveness in a public figure's life.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "c96a42bf-d6da-47b8-90cc-b5d42fe32800",
+   "showID": "https://feeds.simplecast.com/ohmVlJZQ",
+   "showTitle": "Morbid",
+   "title": "The Exorcism of Anneliese Michel (Part 1)",
+   "summary": "When sixteen-year-old Anneliese Michel began having seizures and hallucinations in 1968, her parents took her to a doctor, who diagnosed Anneliese with temporal lobe epilepsy and depression and recommended psychiatric treatment. Two years later, however, her delusions and hallucinations returned, manifesting in the form of “devil faces” and voices that telling her she was evil and would be going to hell. Believing the treatment wasn’t working and fearing Anneliese was possessed by demons, Anneliese’s family arranged for her to be visited by a local Jesuit priest, who confirmed their fear: Anne",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/d4d5c1a0-121c-450d-8aed-1ebd2f4dddf0/episodes/9199044b-ff13-4a6d-8493-5b78f8c62af8/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=d4d5c1a0-121c-450d-8aed-1ebd2f4dddf0&amp;awEpisodeId=9199044b-ff13-4a6d-8493-5b78f8c62af8&amp;feed=ohmVlJZQ",
+   "published": "Mon, 21 Sep 2026 07:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Examines suffering and belief through a tragic possession case, but mainly true crime narrative.",
    "tradition": "Christian"
   },
   {
@@ -104,8 +143,8 @@
    "audioURL": "https://pdst.fm/e/traffic.megaphone.fm/GLT4251173396.mp3",
    "published": "Sun, 20 Sep 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/7d/0c/b57d0c08-17e6-0ec9-484a-491f759d48b7/mza_3391787018699283273.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores death in space and human mortality with scientific and existential implications.",
+   "rating": 6,
+   "reason": "Explores mortality and human limits through space exploration stories.",
    "tradition": "Secular"
   }
  ],
@@ -203,7 +242,7 @@
   "fc19d098-a646-11f1-a26f-279b563c5335": "2026-09-21",
   "7f1ff305-f98d-4cb2-8809-112ece6857df": "2026-09-24",
   "7b8d0ded-674c-426b-94b3-ed63279d069e": "2026-09-27",
-  "c96a42bf-d6da-47b8-90cc-b5d42fe32800": "2026-09-23",
+  "c96a42bf-d6da-47b8-90cc-b5d42fe32800": "2026-09-27",
   "flightcast:01M2RHNG0S1MZ1VD7AG18AGCZ7": "2026-09-27",
   "05b2b97e-d71d-48af-8402-4b9e40b9bffb": "2026-09-21",
   "unshaken.podbean.com/fc02dacc-15eb-3496-b7cd-4c8c10aff132": "2026-09-21",
@@ -237,6 +276,8 @@
   "f9924888-b8ec-11f1-b16c-f3ad144a8c26": "2026-09-25",
   "https://blubrry.com/the_world_and_everything_in_it/155538205/925-culture-friday-the-school-she-chose/": "2026-09-25",
   "6b769052-b1af-11f1-a6d2-9f2feae41b05": "2026-09-25",
-  "73f0e118-063c-4ea7-8461-2ab9e9d073d7": "2026-09-26"
+  "73f0e118-063c-4ea7-8461-2ab9e9d073d7": "2026-09-26",
+  "https://api.spreaker.com/episode/75176718": "2026-09-27",
+  "https://api.spreaker.com/episode/75179367": "2026-09-27"
  }
 }
