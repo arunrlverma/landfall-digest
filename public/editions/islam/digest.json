@@ -5,21 +5,34 @@
   "Muslim",
   "Interfaith"
  ],
- "generatedAt": "2026-09-26T13:56:07.535411+00:00",
+ "generatedAt": "2026-09-27T14:53:09.599913+00:00",
  "showsScanned": 1200,
  "candidates": 9,
  "picks": [
   {
-   "id": "yt:video:8-jdcc9yp1Q",
-   "showID": "https://feed.podbean.com/exploringthequran/feed.xml",
-   "showTitle": "Exploring the Quran for Women | Ustadha Fatima Lette",
-   "title": "Exploring the Quran for Women: Lessons from Surah Maryam | Ustadha Fatima Lette | Class 10",
-   "summary": "Become a sustainer at http://rootsdfw.org/sustain",
-   "audioURL": "https://mcdn.podbean.com/mf/web/s51kkkwbqqwnco3w/yt_video_8-jdcc9yp1Q_5a4xzd.mp3",
-   "published": "Fri, 18 Sep 2026 09:01:30 -0500",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/fb/90/3cfb900d-b390-d13e-b91f-56339185abe9/mza_7487857930035267406.png/600x600bb.jpg",
+   "id": "02d355e6-2219-4da9-a074-972ce8e7fde4",
+   "showID": "https://anchor.fm/s/10804d43c/podcast/rss",
+   "showTitle": "Quran in a Year+ (with Imam Saif Morad)",
+   "title": "Day 353- The Qur’an Was Made Easy. Will You Take Heed? | Qamar 1-27",
+   "summary": "In today’s episode, we reflect on the opening of Sūrah al-Qamar and the urgency behind Allah’s words, “The Hour has drawn near.”We explore the splitting of the moon as a sign of the Prophet ﷺ, why people can still reject the truth even when the evidence is in front of them, and how following desire can cloud the heart’s ability to recognize guidance.We then turn to one of the surah’s most repeated messages: Allah has made the Qur’an easy for remembrance, reflection, and guidance. The question is whether we will actually turn toward it.Finally, we look at why Allah repeatedly tells us the stori",
+   "audioURL": "https://anchor.fm/s/10804d43c/podcast/play/126344388/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-26%2Fa4ad8841-1db8-98a4-00c3-a68f47a544be.mp3",
+   "published": "Sat, 26 Sep 2026 17:54:34 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/0b/7c/ea0b7cee-add6-1a85-d2b0-54413306d6e1/mza_11881519252368760937.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Reflects on Qur'an's ease for guidance and human rejection of truth.",
+   "tradition": "Muslim"
+  },
+  {
+   "id": "https://www.qalaminstitute.org/?p=21074",
+   "showID": "http://feeds.feedburner.com/qalaminstitute/podcast",
+   "showTitle": "Qalam Institute Podcast",
+   "title": "The Tafsīr Podcast: EP 122 – Surah Al-Baqarah (Ayah 257)",
+   "summary": "The Tafsīr Podcast: EP 122 – Surah Al-Baqarah (Ayah 257) 100% of your donations today goes towards the means of providing accessible Islamic knowledge to people around the world: supportqalam.com. Like us on Facebook: facebook.com/qalaminstitute Follow us on Twitter: twitter.com/qalaminstitute Follow us on Instagram: instagram.com/qalaminstitute Subscribe on Youtube: youtube.com/user/qalaminstitute\nThe post The Tafsīr Podcast: EP 122 – Surah Al-Baqarah (Ayah 257) appeared first on Qalam Institute.",
+   "audioURL": "https://media.blubrry.com/qalam_institute/media.blubrry.com/qalam_institute/ins.blubrry.com/qalam_institute/baqarah_122.mp3",
+   "published": "Sun, 27 Sep 2026 13:38:22 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/1a/af/07/1aaf074c-dbe6-55c8-f0c8-5ee5a76c4b37/mza_7246222557614155479.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "Quranic lessons for women focusing on Surah Maryam's spiritual and ethical themes.",
+   "reason": "Detailed tafsir of Surah Al-Baqarah Ayah 257 for spiritual understanding.",
    "tradition": "Muslim"
   },
   {
@@ -32,7 +45,7 @@
    "published": "Thu, 24 Sep 2026 17:17:39 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/0b/7c/ea0b7cee-add6-1a85-d2b0-54413306d6e1/mza_11881519252368760937.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep reflection on struggle between desire and divine guidance in Quranic surahs.",
+   "reason": "Examines inner struggle between truth and desire with Qur'anic insight.",
    "tradition": "Muslim"
   },
   {
@@ -45,7 +58,7 @@
    "published": "2026-08-28",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bf/cf/bd/bfcfbde1-76e7-d894-fecd-9220b59716e6/mza_5234589999432850935.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A thoughtful tafsir on divine curse and blessings behind hardship in Quranic verses.",
+   "reason": "A thoughtful tafsir on divine curse and blessings behind hardship.",
    "tradition": "Muslim"
   },
   {
@@ -58,20 +71,7 @@
    "published": "2026-09-25",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bf/cf/bd/bfcfbde1-76e7-d894-fecd-9220b59716e6/mza_5234589999432850935.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores spiritual danger of self-righteousness and humility in Quranic teaching.",
-   "tradition": "Muslim"
-  },
-  {
-   "id": "https://www.qalaminstitute.org/?p=21066",
-   "showID": "http://feeds.feedburner.com/qalaminstitute/podcast",
-   "showTitle": "Qalam Institute Podcast",
-   "title": "The Tafsīr Podcast: EP 121 – Surah Al-Baqarah (Ayah 256)",
-   "summary": "The Tafsīr Podcast: EP 121 – Surah Al-Baqarah (Ayah 256) 100% of your donations today goes towards the means of providing accessible Islamic knowledge to people around the world: supportqalam.com. Like us on Facebook: facebook.com/qalaminstitute Follow us on Twitter: twitter.com/qalaminstitute Follow us on Instagram: instagram.com/qalaminstitute Subscribe on Youtube: youtube.com/user/qalaminstitute\nThe post The Tafsīr Podcast: EP 121 – Surah Al-Baqarah (Ayah 256) appeared first on Qalam Institute.",
-   "audioURL": "https://media.blubrry.com/qalam_institute/ins.blubrry.com/qalam_institute/baqarah_121.mp3",
-   "published": "Mon, 21 Sep 2026 20:47:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/1a/af/07/1aaf074c-dbe6-55c8-f0c8-5ee5a76c4b37/mza_7246222557614155479.png/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Tafsir of Surah Al-Baqarah Ayah 256 on faith and freedom of belief.",
+   "reason": "Explores spiritual danger of self-righteousness and humility in Islam.",
    "tradition": "Muslim"
   },
   {
@@ -84,16 +84,14 @@
    "published": "Sat, 19 Sep 2026 23:03:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/06/ce/12/06ce126c-5755-ac4d-c7b0-b49f4ab73b68/mza_17685088730904696982.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines Islamic texts and scholarship on women’s leadership and ethics.",
+   "reason": "Discusses Islamic views on women in leadership with scholarly context.",
    "tradition": "Muslim"
   }
  ],
  "history": {
-  "http://www.qurangarden.com/audio/Session_630_An_Nisaa_Verse_47_c.mp3": "2026-09-26",
+  "http://www.qurangarden.com/audio/Session_630_An_Nisaa_Verse_47_c.mp3": "2026-09-27",
   "Buzzsprout-19758649": "2026-09-13",
-  "95ec1f82-35f7-4450-b112-75e04effcfb0": "2026-09-12",
   "https://www.qalaminstitute.org/?p=21049": "2026-09-15",
-  "3d5aa747-465a-4f57-aefb-adefc4085c7b": "2026-09-12",
   "c5851d77-0395-47be-8952-510421a90b1e": "2026-09-18",
   "630cb835439e2f5d0b9c7ee0e31033dd5d3ac0f7": "2026-09-14",
   "Buzzsprout-19690541": "2026-09-14",
@@ -107,12 +105,14 @@
   "73e4c5e2-00d6-4b76-aab1-ae9c7baac3b4": "2026-09-20",
   "https://www.qalaminstitute.org/?p=21055": "2026-09-22",
   "204e0ad6-6635-428d-8da6-261df8daabe4": "2026-09-23",
-  "66572abd-46a0-4ace-9711-cc41ec337d57": "2026-09-26",
+  "66572abd-46a0-4ace-9711-cc41ec337d57": "2026-09-27",
   "f8025a62-3d5f-4aa0-8c91-218a88a50f4c": "2026-09-21",
   "https://www.qalaminstitute.org/?p=21066": "2026-09-26",
   "76e33443-368f-48f4-985e-752f97ae4d35": "2026-09-24",
   "yt:video:8-jdcc9yp1Q": "2026-09-26",
-  "42be0f51-1f27-4c0e-a6ab-3a66bb93470c": "2026-09-26",
-  "http://www.qurangarden.com/audio/Session_634_An_Nisaa_Verse_49.mp3": "2026-09-26"
+  "42be0f51-1f27-4c0e-a6ab-3a66bb93470c": "2026-09-27",
+  "http://www.qurangarden.com/audio/Session_634_An_Nisaa_Verse_49.mp3": "2026-09-27",
+  "02d355e6-2219-4da9-a074-972ce8e7fde4": "2026-09-27",
+  "https://www.qalaminstitute.org/?p=21074": "2026-09-27"
  }
 }
