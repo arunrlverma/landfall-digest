@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-27T07:52:48.500244+00:00",
+ "generatedAt": "2026-09-27T13:44:32.012681+00:00",
  "showsScanned": 400,
- "candidates": 50,
+ "candidates": 54,
  "picks": [
   {
    "id": "coe22.podbean.com/41f4ac1e-8032-3b80-99fa-b3763c603862",
@@ -14,8 +14,21 @@
    "published": "Mon, 21 Sep 2026 14:50:39 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A pastor wrestles with faith and suffering through biblical loss and trust in God.",
+   "reason": "A pastor reflects on faith, suffering, and trust amid loss using biblical narrative.",
    "tradition": "Christian"
+  },
+  {
+   "id": "04852f9a-b8d3-11f1-a4bb-bf429814aa5d",
+   "showID": "https://feeds.megaphone.fm/permanentquestions",
+   "showTitle": "The Permanent Questions With David Brooks",
+   "title": "What Is the Meaning of Mystical Experience?",
+   "summary": "What would it be like to wake up one day with the ability to greet the world with warmth, patience, grace, and affection? This is what happens to the main character in the Pulitzer Prize–winner Ayad Akhtar's magnificent new novel, The Radiance. It is a tale of spiritual transformation in which Akhtar gives a detailed description of our inner landscapes. David and Akhtar talk about what it's like to see the world with new eyes, and how difficult it is to move from the head to the heart. \n\n\n\nGet more from your favorite Atlantic voices when you subscribe. You’ll enjoy unlimited access to Pulitzer",
+   "audioURL": "https://traffic.megaphone.fm/ATL9571533630.mp3",
+   "published": "Sun, 27 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8e/7d/2a/8e7d2adc-79ef-1647-b060-8d9a51542235/mza_10390476440754906602.png/600x600bb.jpg",
+   "rating": 9,
+   "reason": "A novelist and host discuss spiritual transformation and moving from intellect to heart.",
+   "tradition": "Secular"
   },
   {
    "id": "gid://art19-episode-locator/V0/7Yw0jlLmGbMj7bn5NWr0Fq5UckX3N-vnQE9RcgziGkY",
@@ -27,7 +40,7 @@
    "published": "Wed, 23 Sep 2026 09:30:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/c9/5d/66c95da6-3ed6-20fc-7a54-8fd6cdf3c237/mza_81406979434027984.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Deep philosophical and neuroscientific exploration of consciousness.",
+   "reason": "A serious philosophical and neuroscientific discussion on the nature of consciousness.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +53,7 @@
    "published": "Tue, 22 Sep 2026 11:30:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/82/33/df/8233df68-fc50-a2d4-00c2-03887b16bccb/mza_15463495654775847599.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A neurosurgeon reflects deeply on consciousness, death, and love from a near-death experience.",
+   "reason": "A neurosurgeon shares a near-death experience revealing insights on consciousness and suffering.",
    "tradition": "Secular"
   },
   {
@@ -53,7 +66,7 @@
    "published": "Fri, 25 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Honest conversations about divorce, grief, and faith struggles in the church.",
+   "reason": "Honest conversation about divorce, grief, and faith struggles in the church.",
    "tradition": "Christian"
   },
   {
@@ -67,7 +80,7 @@
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/82/33/df/8233df68-fc50-a2d4-00c2-03887b16bccb/mza_15463495654775847599.jpg/600x600bb.jpg",
    "rating": 7,
    "reason": "Explores out-of-body experiences as gateways to spiritual understanding and human potential.",
-   "tradition": "Interfaith"
+   "tradition": "Secular"
   },
   {
    "id": "5d492f72-5382-4110-95d8-6b5d0b52ea61",
@@ -79,7 +92,7 @@
    "published": "Tue, 22 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores moral responsibility through sins of omission and their eternal consequences.",
+   "reason": "Explores moral responsibility and salvation through sins of omission.",
    "tradition": "Catholic"
   },
   {
@@ -92,8 +105,21 @@
    "published": "Mon, 21 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses the importance of practicing faith, not just preaching it, with scriptural focus.",
+   "reason": "Considers integrity in preaching and living faith with scriptural focus.",
    "tradition": "Catholic"
+  },
+  {
+   "id": "518b0a25-787c-48cb-b2df-e0a816c94210",
+   "showID": "https://anchor.fm/s/10e5a085c/podcast/rss",
+   "showTitle": "The Mark Driscoll Podcast",
+   "title": "How to Hear God's Voice",
+   "summary": "God is completely in charge, and sometimes He calls you to something that you did not expect. The choices you make when He calls you will determine the direction your life goes.",
+   "audioURL": "https://traffic.megaphone.fm/APO2212697738.mp3",
+   "published": "Sun, 27 Sep 2026 00:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discusses discerning divine guidance and life choices from a Christian perspective.",
+   "tradition": "Christian"
   },
   {
    "id": "flightcast:01M2RHNG0S1MZ1VD7AG18AGCZ7",
@@ -105,34 +131,8 @@
    "published": "Mon, 21 Sep 2026 05:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses creative process with spiritual and psychological depth.",
+   "reason": "Explores creativity and transcendence through a spiritual and psychological lens.",
    "tradition": "Secular"
-  },
-  {
-   "id": "61066efe-b47e-11f1-be65-8f53fa9b0eaf",
-   "showID": "https://feeds.megaphone.fm/on-purpose",
-   "showTitle": "On Purpose with Jay Shetty",
-   "title": "LUCY HALE: “I Was Sabotaging My Life.”",
-   "summary": "Jay sits down with actress Lucy Hale, who at 37 says she feels more comfortable with herself than ever before. Lucy opens up about letting go of society’s timelines, navigating media scrutiny and body insecurity while growing up in the early days of social media, and her relationship with alcohol and path to sobriety. Lucy also shares her decision to freeze her eggs on her own terms, and how solitude, self-forgiveness, and personal growth have changed the way she approaches love, relationships, and herself.\n\nWith Love and Gratitude,\n\nJay Shetty\n\nMazda crafts cars for people who do more than si",
-   "audioURL": "https://traffic.megaphone.fm/GLT4407358889.mp3",
-   "published": "Mon, 21 Sep 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Shares personal growth, faith struggles, and self-forgiveness in a public figure's life.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "c96a42bf-d6da-47b8-90cc-b5d42fe32800",
-   "showID": "https://feeds.simplecast.com/ohmVlJZQ",
-   "showTitle": "Morbid",
-   "title": "The Exorcism of Anneliese Michel (Part 1)",
-   "summary": "When sixteen-year-old Anneliese Michel began having seizures and hallucinations in 1968, her parents took her to a doctor, who diagnosed Anneliese with temporal lobe epilepsy and depression and recommended psychiatric treatment. Two years later, however, her delusions and hallucinations returned, manifesting in the form of “devil faces” and voices that telling her she was evil and would be going to hell. Believing the treatment wasn’t working and fearing Anneliese was possessed by demons, Anneliese’s family arranged for her to be visited by a local Jesuit priest, who confirmed their fear: Anne",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/d4d5c1a0-121c-450d-8aed-1ebd2f4dddf0/episodes/9199044b-ff13-4a6d-8493-5b78f8c62af8/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=d4d5c1a0-121c-450d-8aed-1ebd2f4dddf0&amp;awEpisodeId=9199044b-ff13-4a6d-8493-5b78f8c62af8&amp;feed=ohmVlJZQ",
-   "published": "Mon, 21 Sep 2026 07:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Examines suffering and belief through a tragic possession case, but mainly true crime narrative.",
-   "tradition": "Christian"
   },
   {
    "id": "9406f0b4-b373-11f1-b027-5784095f6c20",
@@ -144,7 +144,7 @@
    "published": "Sun, 20 Sep 2026 21:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/7d/0c/b57d0c08-17e6-0ec9-484a-491f759d48b7/mza_3391787018699283273.jpeg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explores mortality and human limits through space exploration stories.",
+   "reason": "Explores death in space and human mortality but focuses on spaceflight history.",
    "tradition": "Secular"
   }
  ],
@@ -278,6 +278,8 @@
   "6b769052-b1af-11f1-a6d2-9f2feae41b05": "2026-09-25",
   "73f0e118-063c-4ea7-8461-2ab9e9d073d7": "2026-09-26",
   "https://api.spreaker.com/episode/75176718": "2026-09-27",
-  "https://api.spreaker.com/episode/75179367": "2026-09-27"
+  "https://api.spreaker.com/episode/75179367": "2026-09-27",
+  "04852f9a-b8d3-11f1-a4bb-bf429814aa5d": "2026-09-27",
+  "518b0a25-787c-48cb-b2df-e0a816c94210": "2026-09-27"
  }
 }
