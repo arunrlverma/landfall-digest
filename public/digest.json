@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-27T18:11:35.205601+00:00",
+ "generatedAt": "2026-09-27T21:57:33.115560+00:00",
  "showsScanned": 400,
- "candidates": 54,
+ "candidates": 58,
  "picks": [
   {
    "id": "coe22.podbean.com/41f4ac1e-8032-3b80-99fa-b3763c603862",
@@ -18,6 +18,19 @@
    "tradition": "Christian"
   },
   {
+   "id": "6aac3bb6fca3d5c77b11d9a1",
+   "showID": "https://feeds.acast.com/public/shows/69ca82d28fc1c62479fa987b",
+   "showTitle": "Oprah's Super Soul",
+   "title": "Iyanla Vanzant Opens Up About Losing Her Daughter & Finding God Again | Super Soul Sparks",
+   "summary": "In this unforgettable conversation, Oprah Winfrey sits down with bestselling author, spiritual teacher, and \"Iyanla: Fix My Life\" host Iyanla Vanzant for a profound Soul-to-Soul discussion about trauma, healing, surrender, faith, and purpose. Iyanla shares deeply personal stories from her journey, including growing up in poverty, surviving childhood abuse, becoming a mother at a young age, struggling with depression, overcoming a suicide attempt, and finding the spiritual path that transformed her life. She also reveals how the heartbreaking loss of her daughter Jamia forever changed her under",
+   "audioURL": "https://sphinx.acast.com/p/open/s/69ca82d28fc1c62479fa987b/e/6aac3bb6fca3d5c77b11d9a1/media.mp3",
+   "published": "Sun, 20 Sep 2026 07:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/7a/a6/dd/7aa6ddb9-ba7c-e7df-fd29-a8e875be8871/mza_5854921686815900498.jpg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "A spiritual teacher shares personal trauma, healing, faith struggles, and finding purpose.",
+   "tradition": "Interfaith"
+  },
+  {
    "id": "04852f9a-b8d3-11f1-a4bb-bf429814aa5d",
    "showID": "https://feeds.megaphone.fm/permanentquestions",
    "showTitle": "The Permanent Questions With David Brooks",
@@ -27,7 +40,7 @@
    "published": "Sun, 27 Sep 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8e/7d/2a/8e7d2adc-79ef-1647-b060-8d9a51542235/mza_10390476440754906602.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "A novelist and host discuss spiritual transformation and moving from intellect to heart.",
+   "reason": "A novelist and commentator discuss spiritual transformation and seeing the world anew.",
    "tradition": "Secular"
   },
   {
@@ -53,7 +66,7 @@
    "published": "Tue, 22 Sep 2026 11:30:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/82/33/df/8233df68-fc50-a2d4-00c2-03887b16bccb/mza_15463495654775847599.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "A neurosurgeon shares a near-death experience revealing insights on consciousness and suffering.",
+   "reason": "A neurosurgeon shares a near-death experience exploring consciousness and life's deeper purpose.",
    "tradition": "Secular"
   },
   {
@@ -66,7 +79,7 @@
    "published": "Fri, 25 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Honest conversation about divorce, grief, and questions of faith in the church.",
+   "reason": "Honest discussion of divorce, grief, and faith struggles within the church context.",
    "tradition": "Christian"
   },
   {
@@ -79,7 +92,7 @@
    "published": "Fri, 25 Sep 2026 11:30:02 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/82/33/df/8233df68-fc50-a2d4-00c2-03887b16bccb/mza_15463495654775847599.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores out-of-body experiences as gateways to spiritual understanding and human potential.",
+   "reason": "A seeker discusses out-of-body experiences and spiritual reality beyond the physical.",
    "tradition": "Interfaith"
   },
   {
@@ -92,7 +105,7 @@
    "published": "Tue, 22 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores moral responsibility and salvation through sins of omission.",
+   "reason": "Explores ethical responsibility and consequences of actions from a Catholic perspective.",
    "tradition": "Catholic"
   },
   {
@@ -105,7 +118,7 @@
    "published": "Mon, 21 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Examines the importance of practicing faith, not just preaching it.",
+   "reason": "Examines the importance of practicing faith authentically, not just preaching it.",
    "tradition": "Catholic"
   },
   {
@@ -118,8 +131,21 @@
    "published": "Mon, 21 Sep 2026 05:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores creativity as a spiritual and psychological process beyond commercial success.",
+   "reason": "Explores creative process with spiritual and psychological insights.",
    "tradition": "Secular"
+  },
+  {
+   "id": "6a7b4567b8e79c154de445a2",
+   "showID": "https://feeds.acast.com/public/shows/69ca82d28fc1c62479fa987b",
+   "showTitle": "Oprah's Super Soul",
+   "title": "Iyanla Vanzant: The Four Essentials of Trust",
+   "summary": "This episode is a re-release; it originally aired on April 24, 2016. In her third SuperSoul Conversation, best-selling author, spiritual life coach and TV host Iyanla Vanzant discusses one of life's most difficult lessons: learning to trust. Based on her book “Trust,” Iyanla explains the importance of mastering what she calls the four essential types of trust: Trust in Self, Trust in God, Trust in Others, and Trust in Life. She believes that without these four types of trust, we cannot flourish. Iyanla stresses the significance of building your trust muscles on a daily basis through spiritual ",
+   "audioURL": "https://sphinx.acast.com/p/open/s/69ca82d28fc1c62479fa987b/e/6a7b4567b8e79c154de445a2/media.mp3",
+   "published": "Wed, 23 Sep 2026 07:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/7a/a6/dd/7aa6ddb9-ba7c-e7df-fd29-a8e875be8871/mza_5854921686815900498.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses trust in self, others, life, and God as essential for flourishing.",
+   "tradition": "Interfaith"
   }
  ],
  "history": {
@@ -205,7 +231,7 @@
   "https://api.spreaker.com/episode/74912564": "2026-09-20",
   "35c1ff10-a812-11f1-9f02-bbddea1b7da9": "2026-09-25",
   "791bf078-d9ea-11f0-a55b-5f00237a0ad2": "2026-09-20",
-  "6aac3bb6fca3d5c77b11d9a1": "2026-09-20",
+  "6aac3bb6fca3d5c77b11d9a1": "2026-09-27",
   "6aa02d4d4fa142971fa8d5b3": "2026-09-23",
   "f89427b4-82d0-4b6e-b141-a81133f86875": "2026-09-20",
   "9406f0b4-b373-11f1-b027-5784095f6c20": "2026-09-27",
@@ -254,6 +280,7 @@
   "https://api.spreaker.com/episode/75176718": "2026-09-27",
   "https://api.spreaker.com/episode/75179367": "2026-09-27",
   "04852f9a-b8d3-11f1-a4bb-bf429814aa5d": "2026-09-27",
-  "518b0a25-787c-48cb-b2df-e0a816c94210": "2026-09-27"
+  "518b0a25-787c-48cb-b2df-e0a816c94210": "2026-09-27",
+  "6a7b4567b8e79c154de445a2": "2026-09-27"
  }
 }
