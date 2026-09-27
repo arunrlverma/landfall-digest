@@ -6,34 +6,34 @@
   "Buddhist",
   "Interfaith"
  ],
- "generatedAt": "2026-09-26T13:58:53.896362+00:00",
+ "generatedAt": "2026-09-27T14:56:31.545016+00:00",
  "showsScanned": 1200,
- "candidates": 13,
+ "candidates": 14,
  "picks": [
   {
-   "id": "gid://art19-episode-locator/V0/bWYF9aDFBPyTSriQwPysT7sitsW9s7Lr2aybzl1Oq6c",
-   "showID": "https://rss.art19.com/philosophy-for-our-times",
-   "showTitle": "Philosophy For Our Times",
-   "title": "Rehumanising science | Carlo Rovelli - Part 2",
-   "summary": "What makes humans different from nature? What do Confucianism and Daoism have to do with physics? Is science too realist?In part 2 of our interview with Carlo Rovelli, we help unpick the history of the philosophy of science. From uncovering how millennia old Chinese philosophers were debating Enlightenment philosophical principles, to finding whether the self and consciousness are functionally identical, Rovelli's argument finds a home in a single statement: we must rehumanise science.Theoretical physicist Carlo Rovelli is a pioneer of theories like Loop Quantum Gravity, White Holes, and the r",
-   "audioURL": "https://rss.art19.com/episodes/e0836c7b-2936-44cc-94e2-a1cec2ff8f35.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Tue, 22 Sep 2026 15:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4f/a2/45/4fa245d0-95ef-9738-9240-3b4afb70960e/mza_7870251956583780898.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores Daoism and Confucianism's relation to science and human nature.",
+   "id": "https://api.spreaker.com/episode/75391388",
+   "showID": "https://www.spreaker.com/show/6014182/episodes/feed",
+   "showTitle": "The Bookshelf Chronicles",
+   "title": "5 Philosophy Books That Shaped Chinese Thought",
+   "summary": "This episode explores five foundational books that established the intellectual and moral framework of Chinese civilization. While the Yijing provides a cosmology of constant change, the Analects and the Mencius define an ethics rooted in social roles, human nature, and the responsibilities of government. In contrast, the Daodejing and the Zhuangzi offer a critique of rigid social structures, advocating for natural spontaneity and a broader perspective on reality. These works are not viewed as static doctrines but as a dynamic marketplace of ideas that shaped everything from imperial examinati",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75391388/five_ancient_texts_born_from_chaos.mp3",
+   "published": "Sun, 27 Sep 2026 05:08:08 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/42/0b/11/420b111a-5c5f-cb86-485b-cb357e4ee78f/mza_17650456379484407986.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Discusses foundational Chinese texts including Daoist classics and their ethical critiques.",
    "tradition": "Taoist"
   },
   {
-   "id": "buddhacity.podbean.com/b0057c58-f7c1-36c3-a3ce-78cf49c6c326",
-   "showID": "https://podcast.bswa.org/feed.xml",
-   "showTitle": "Buddhist Society of Western Australia",
-   "title": "Connecting with our Inner Buddha | Venerable Hue Can  | 4 September 2026",
-   "summary": "Venerable Hue Can is the Abbess of Sunyata Meditation Centre in Vic Park and has the very clear goal to teach others how to realize their full potential through Zen Buddhism. Venerable Hue Can had an interesting and diverse career as a teacher, Children’s Librarian and co-ordinator of the Ethnic Child Care Resource Unit. As an advocate for access and equity she have worked in the area of social welfare, particularly in the Vietnamese community in Western Australia. When the Most Venerable Master Thich Thanh Tu came to Perth in 1996 she was fortunate to attend his lecture “Why am I a Buddhist”.",
-   "audioURL": "https://mcdn.podbean.com/mf/web/g9bj6pdfpek3yt6g/2026_09_04_Hue_Can_RR.mp3",
-   "published": "Sun, 20 Sep 2026 18:42:14 +0800",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts4/v4/d0/54/aa/d054aa99-2166-2393-ef38-e50ea4ed6fb2/mza_1193951763501235194.jpg/600x600bb.jpg",
+   "id": "37be842a-2762-4b43-9bc5-d15f47cd9415",
+   "showID": "https://rss.libsyn.com/shows/20362/destinations/20319.xml",
+   "showTitle": "Yokoji Zen Dharma Talks",
+   "title": "A Glorious Attempt",
+   "summary": "Tenshin Roshi talks about Master Dogen's \"Universal Recommendation for Zazen.\"",
+   "audioURL": "https://traffic.libsyn.com/secure/yokoji/A_Glorious_Attempt.mp3?dest-id=20319",
+   "published": "Sat, 26 Sep 2026 21:57:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/dd/89/61/dd89614d-ce2d-a64b-4967-1554453252f3/mza_16493943947076230054.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Zen Buddhist teaching on realizing potential and inner Buddha.",
+   "reason": "Talk on Master Dogen's teaching recommending zazen practice.",
    "tradition": "Buddhist"
   },
   {
@@ -45,7 +45,7 @@
    "audioURL": "https://s3.us-west-1.amazonaws.com/edz.assets/wp-content/uploads/2026/09/26.9.19-Norman-Fischer-ADS-GGF.mp3",
    "published": "Sun, 20 Sep 2026 14:29:42 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/6a/1f/a6/6a1fa6c8-693c-6f91-fe53-51defb4c3871/mza_6076062723711590562.png/600x600bb.jpg",
-   "rating": 8,
+   "rating": 7,
    "reason": "A dharma talk on zazen exploring subjectivity and meditation practice.",
    "tradition": "Buddhist"
   },
@@ -59,8 +59,21 @@
    "published": "Tue, 22 Sep 2026 22:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/92/be/47/92be476e-4f7d-87aa-234d-9ce1cc4fbb4d/mza_3358902916686181304.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Zen stories and Buddhist reflections on self and stillness for peace and sleep.",
+   "reason": "Zen Buddhist stories and teachings on stillness and self dissolve for peace.",
    "tradition": "Buddhist"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/bWYF9aDFBPyTSriQwPysT7sitsW9s7Lr2aybzl1Oq6c",
+   "showID": "https://rss.art19.com/philosophy-for-our-times",
+   "showTitle": "Philosophy For Our Times",
+   "title": "Rehumanising science | Carlo Rovelli - Part 2",
+   "summary": "What makes humans different from nature? What do Confucianism and Daoism have to do with physics? Is science too realist?In part 2 of our interview with Carlo Rovelli, we help unpick the history of the philosophy of science. From uncovering how millennia old Chinese philosophers were debating Enlightenment philosophical principles, to finding whether the self and consciousness are functionally identical, Rovelli's argument finds a home in a single statement: we must rehumanise science.Theoretical physicist Carlo Rovelli is a pioneer of theories like Loop Quantum Gravity, White Holes, and the r",
+   "audioURL": "https://rss.art19.com/episodes/e0836c7b-2936-44cc-94e2-a1cec2ff8f35.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Tue, 22 Sep 2026 15:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4f/a2/45/4fa245d0-95ef-9738-9240-3b4afb70960e/mza_7870251956583780898.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores Confucianism and Daoism in relation to science and human nature.",
+   "tradition": "Taoist"
   },
   {
    "id": "c748fdf5-0e83-4f36-93db-e728a9c24dee",
@@ -72,7 +85,7 @@
    "published": "Thu, 24 Sep 2026 01:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5e/ac/c6/5eacc6ca-ee3b-0564-c323-2396e7bd6d40/mza_3908405633086915167.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Zen Buddhist teachings and stories to calm the mind and find peace.",
+   "reason": "Zen Buddhist stories and teachings for calming the mind and peace.",
    "tradition": "Buddhist"
   },
   {
@@ -85,7 +98,7 @@
    "published": "Mon, 21 Sep 2026 11:00:12 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/f4/c6/18/f4c6186e-3fa9-88f0-0c21-139bc06f38a0/mza_3444705071797950145.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Zen dharma talk on presence and being real with dying people.",
+   "reason": "Dharma talk on presence and being real at the bedside of dying people.",
    "tradition": "Buddhist"
   }
  ],
@@ -106,19 +119,21 @@
   "d6224c82-0ec4-11f0-bd61-8bb8d87d13a4": "2026-09-19",
   "a8cdbdce-0eca-11f0-9d7c-878185fa89b6": "2026-09-20",
   "5378754e-0ecf-11f0-9faf-f7ed77a0a1f2": "2026-09-20",
-  "https://everydayzen.org/?post_type=teachings&p=27371": "2026-09-26",
-  "https://www.upaya.org/?p=110357": "2026-09-26",
+  "https://everydayzen.org/?post_type=teachings&p=27371": "2026-09-27",
+  "https://www.upaya.org/?p=110357": "2026-09-27",
   "4aae728f-e3ef-444a-8ec1-2fa0ec0ad2f9": "2026-09-23",
   "523901f9e4b08b04ff30cc5f:52390480e4b0b9388c82520c:6ab01c83507e2f79b91cf8c0": "2026-09-22",
   "Buzzsprout-19831266": "2026-09-25",
   "buddhacity.podbean.com/b0057c58-f7c1-36c3-a3ce-78cf49c6c326": "2026-09-26",
   "523901f9e4b08b04ff30cc5f:52390480e4b0b9388c82520c:6aaef38ff92e6e23587799ae": "2026-09-22",
   "d9cf8e67-7c7d-546c-b6bc-f771abe1db5b": "2026-09-25",
-  "gid://art19-episode-locator/V0/bWYF9aDFBPyTSriQwPysT7sitsW9s7Lr2aybzl1Oq6c": "2026-09-26",
+  "gid://art19-episode-locator/V0/bWYF9aDFBPyTSriQwPysT7sitsW9s7Lr2aybzl1Oq6c": "2026-09-27",
   "0b1c2746-497f-4d56-92cb-af1fdcde7c50": "2026-09-24",
   "Buzzsprout-19842820": "2026-09-25",
   "825e3f66-7501-4001-809e-1c778a752ee0": "2026-09-25",
-  "a5f99d92-773c-4922-b276-afd5fa74d608": "2026-09-26",
-  "c748fdf5-0e83-4f36-93db-e728a9c24dee": "2026-09-26"
+  "a5f99d92-773c-4922-b276-afd5fa74d608": "2026-09-27",
+  "c748fdf5-0e83-4f36-93db-e728a9c24dee": "2026-09-27",
+  "https://api.spreaker.com/episode/75391388": "2026-09-27",
+  "37be842a-2762-4b43-9bc5-d15f47cd9415": "2026-09-27"
  }
 }
