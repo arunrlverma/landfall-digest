@@ -6,10 +6,62 @@
   "Secular",
   "Interfaith"
  ],
- "generatedAt": "2026-09-28T17:56:03.725380+00:00",
+ "generatedAt": "2026-09-29T16:13:47.683048+00:00",
  "showsScanned": 1200,
- "candidates": 33,
+ "candidates": 34,
  "picks": [
+  {
+   "id": "27402086-aaa9-11f1-84ce-7f2eaec1a2cb",
+   "showID": "https://feeds.megaphone.fm/HDICH6047322882",
+   "showTitle": "The Stoic’s Guide Podcast by Brad Young",
+   "title": "The Stoic Blueprint for a Chaotic World",
+   "summary": "Chaos isn’t new — but our reaction to it often is. In this episode, The Stoic Blueprint for a Chaotic World, we explore how ancient Stoic principles offer a clear, steady framework for navigating modern uncertainty, stress, and constant change.\n\nDrawing from the teachings of Marcus Aurelius, Seneca, and Epictetus, this episode breaks down the core elements of the Stoic blueprint: controlling your inner world, accepting what you cannot change, acting with purpose, and maintaining calm in the face of disorder. Listeners will learn how these timeless strategies align with current research in psyc",
+   "audioURL": "https://traffic.megaphone.fm/HDICH7645093704.mp3",
+   "published": "Tue, 22 Sep 2026 05:10:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a2/3c/de/a23cde62-b1d7-7acd-43d2-4a3cc5e28d4e/mza_8119452675320159956.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explains core Stoic principles for managing chaos and inner life today.",
+   "tradition": "Stoic"
+  },
+  {
+   "id": "40e23edc-07c2-11f1-940d-7fb941ca5402",
+   "showID": "https://feeds.megaphone.fm/VG3817480264",
+   "showTitle": "The School of Life",
+   "title": "Reasons to Keep Death in Mind",
+   "summary": "It isn’t macabre or nihilistic to think of death. It’s the start of a proper, braver engagement with the possibilities of life. \n\nEnjoying our Youtube videos? Get full access to all our audio content, videos, and thousands of thought-provoking articles, conversation cards and more with The School of Life Subscription: https://t.ly/EEeL3\n\nBe more mindful, present and inspired. Get the best of The School of Life delivered straight to your inbox: https://t.ly/lDYHg\n\nFURTHER READING\n\n\"For centuries, artists produced ‘memento mori’, works of art that would remind their viewers of death and usually ",
+   "audioURL": "https://traffic.megaphone.fm/VG9080250813.mp3",
+   "published": "Tue, 29 Sep 2026 15:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1c/ba/06/1cba068a-a1b7-3752-fddf-c2dae7b11eae/mza_2129643113581694035.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Considers death as a way to engage meaningfully with life, a classic Stoic theme.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "8c4bedf0-aaab-11f1-aa4e-6340aaf4d497",
+   "showID": "https://feeds.megaphone.fm/HDICH6047322882",
+   "showTitle": "The Stoic’s Guide Podcast by Brad Young",
+   "title": "Stillness as a Superpower",
+   "summary": "In a year defined by volatility, noise, and nonstop demands, I’ve learned that stillness is one of the rarest — and most powerful — skills any of us can develop. In this episode of The Stoic’s Guide Podcast, I explore Stillness as a Superpower as a tactical advantage in 2026, and why calm, deliberate thinking isn’t just helpful… it’s transformative.\n\nModern life is engineered to hijack your attention. Endless notifications. Emotional triggers. Algorithm‑driven urgency. The pressure to react instantly. Most people are living in a state of mental turbulence, making decisions from stress instead ",
+   "audioURL": "https://traffic.megaphone.fm/HDICH9287667138.mp3",
+   "published": "Sun, 27 Sep 2026 05:13:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a2/3c/de/a23cde62-b1d7-7acd-43d2-4a3cc5e28d4e/mza_8119452675320159956.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores stillness as a powerful skill for calm and deliberate thinking in modern life.",
+   "tradition": "Stoic"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/klCRPtV1IfLRMcjyIwTQG7XeTi4keOdvqnJfREo8AFw",
+   "showID": "https://feeds.acast.com/public/shows/6abacdd76ffb28f8d6775e00",
+   "showTitle": "The Daily Stoic",
+   "title": "Inside the Final Years of Marcus Aurelius",
+   "summary": "By the final years of his life, Marcus Aurelius had lost nearly everyone he loved, endured years of war, and watched the Antonine Plague devastate the empire. In today’s episode, Professor William O. Stephens joins Ryan to examine how Marcus faced the end of his life, why Meditations may have been his swan song, the loneliness of being emperor, and what kept him getting out of bed when he had every reason to give up.👉 WATCH ON YOUTUBE | https://www.youtube.com/watch?v=QM3h-VhQPvYWilliam O. Stephens is a philosopher specializing in Stoicism, ethics, and ancient philosophy. He earned his Ph.D. f",
+   "audioURL": "https://sphinx.acast.com/p/open/s/6abacdd76ffb28f8d6775e00/e/gid%3A%2F%2Fart19-episode-locator%2FV0%2FklCRPtV1IfLRMcjyIwTQG7XeTi4keOdvqnJfREo8AFw/media.mp3",
+   "published": "Sat, 26 Sep 2026 07:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Detailed look at Marcus Aurelius facing mortality and suffering in his final years.",
+   "tradition": "Stoic"
+  },
   {
    "id": "6a86b7a239e73ea8f36475f7",
    "showID": "https://feeds.acast.com/public/shows/6164470ddef1ec0012762fbd",
@@ -20,33 +72,7 @@
    "published": "Wed, 23 Sep 2026 06:45:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2e/7f/ed/2e7fed2d-7b83-f59f-a0bd-506b173dcf66/mza_4662183163876961332.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores mortality and presence with Epictetus and related thinkers.",
-   "tradition": "Stoic"
-  },
-  {
-   "id": "fbc9810f-f983-49eb-8753-f7d6e4457a80",
-   "showID": "https://rss.libsyn.com/shows/604590/destinations/5264190.xml",
-   "showTitle": "Sean Carroll's Mindscape: Science, Society, Philosophy, Culture, Arts, and Ideas",
-   "title": "369 | Gregg Caruso on Living Well Without Free Will",
-   "summary": "The worry about debates over free will is that they degenerate into semantics -- what do you mean by \"free will,\" really? But there are important substantive issues that shouldn't be ignored. Do people deserve blame for doing wrong things? Can we make choices that create meaning for our lives? Philosopher Gregg Caruso denies the reality of free will, but is in favor of making good choices, as he discusses in his new book How to Live Well Without Free Will. Listen or watch Rolex Planet Visionaries wherever you get your podcasts. #ad            Blog post with transcript:  https://preposterousuni",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/1d1ac211-8392-45fe-82db-99fa7f77076e/gregg_caruso.mp3?dest-id=5264190",
-   "published": "Mon, 28 Sep 2026 10:51:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/d3/22/95/d32295a0-f278-1807-9fde-5698c30aac30/mza_16649100911920251614.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Philosophical discussion on free will, ethics, and meaning in life.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/klCRPtV1IfLRMcjyIwTQG7XeTi4keOdvqnJfREo8AFw",
-   "showID": "https://rss.art19.com/the-daily-stoic",
-   "showTitle": "The Daily Stoic",
-   "title": "Inside the Final Years of Marcus Aurelius",
-   "summary": "By the final years of his life, Marcus Aurelius had lost nearly everyone he loved, endured years of war, and watched the Antonine Plague devastate the empire. In today’s episode, Professor William O. Stephens joins Ryan to examine how Marcus faced the end of his life, why Meditations may have been his swan song, the loneliness of being emperor, and what kept him getting out of bed when he had every reason to give up.👉 WATCH ON YOUTUBE | https://www.youtube.com/watch?v=QM3h-VhQPvYWilliam O. Stephens is a philosopher specializing in Stoicism, ethics, and ancient philosophy. He earned his Ph.D. f",
-   "audioURL": "https://rss.art19.com/episodes/df173305-498a-46ca-b8c2-6a5fe8603a01.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Sat, 26 Sep 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Detailed look at Marcus Aurelius facing mortality and meaning in his final years.",
+   "reason": "Explores mortality and presence with direct references to Epictetus and Stoic thought.",
    "tradition": "Stoic"
   },
   {
@@ -63,19 +89,6 @@
    "tradition": "Stoic"
   },
   {
-   "id": "gid://art19-episode-locator/V0/OTFHNa4zkeeEuGGrpJ1jtIyo78DHLDY9B5tNpiLlr9g",
-   "showID": "https://rss.art19.com/the-daily-stoic",
-   "showTitle": "The Daily Stoic",
-   "title": "11 Stoic Lessons Ryan Learned in Rome",
-   "summary": "The streets of Rome still carry the lessons the Stoics left behind nearly 2,000 years ago. In today’s episode, Ryan walks through the places where Stoicism was lived and tested and shares 11 lessons the ancient Stoic sites still have to teach us.Watch on YouTube 👉 https://www.youtube.com/watch?v=b0uUe3wtB-E🎟️ DAILY STOIC LIVE | Ryan Holiday is coming to a city near you! Grab tickets here |  https://www.dailystoiclive.com/🎙️ AD-FREE | Support the podcast and go deeper into Stoicism by subscribing to The Daily Stoic Premium - unlock ad-free listening, early access, and bonus content: https://dai",
-   "audioURL": "https://rss.art19.com/episodes/8b939bde-4bfb-4e9c-9547-011c501a154e.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Sun, 27 Sep 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/00/4b/cd/004bcd1b-3036-86ae-2394-e3ac6798cace/mza_2488584016134530967.jpeg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Shares practical Stoic lessons from ancient Rome relevant to living well.",
-   "tradition": "Stoic"
-  },
-  {
    "id": "b63a1cde-f082-450f-916f-ad80a1c056cd",
    "showID": "https://thisislow.com/podcast.rss",
    "showTitle": "LOW",
@@ -84,8 +97,21 @@
    "audioURL": "https://op3.dev/e/audio.thisislow.com/low_afterword.mp3",
    "published": "Tue, 22 Sep 2026 01:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2e/51/7d/2e517de7-6a4e-306e-25f6-075fc399e82c/mza_13986473679793687359.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Reflects on mortality and meaning through personal story and philosophy.",
+   "rating": 8,
+   "reason": "A personal reflection on philosophy and making sense of life and death.",
+   "tradition": "Stoic"
+  },
+  {
+   "id": "fbc9810f-f983-49eb-8753-f7d6e4457a80",
+   "showID": "https://rss.libsyn.com/shows/604590/destinations/5264190.xml",
+   "showTitle": "Sean Carroll's Mindscape: Science, Society, Philosophy, Culture, Arts, and Ideas",
+   "title": "369 | Gregg Caruso on Living Well Without Free Will",
+   "summary": "The worry about debates over free will is that they degenerate into semantics -- what do you mean by \"free will,\" really? But there are important substantive issues that shouldn't be ignored. Do people deserve blame for doing wrong things? Can we make choices that create meaning for our lives? Philosopher Gregg Caruso denies the reality of free will, but is in favor of making good choices, as he discusses in his new book How to Live Well Without Free Will. Listen or watch Rolex Planet Visionaries wherever you get your podcasts. #ad            Blog post with transcript:  https://preposterousuni",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/1d1ac211-8392-45fe-82db-99fa7f77076e/gregg_caruso.mp3?dest-id=5264190",
+   "published": "Mon, 28 Sep 2026 10:51:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/d3/22/95/d32295a0-f278-1807-9fde-5698c30aac30/mza_16649100911920251614.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Philosophical discussion on free will and living well without it.",
    "tradition": "Secular"
   }
  ],
@@ -112,18 +138,21 @@
   "gid://art19-episode-locator/V0/_rz-Q7pRAelxW3htMpDQQQUrHAQ2tVuIhpcFcl_x63M": "2026-09-20",
   "gid://art19-episode-locator/V0/FTMw9GrV27eJsLE6ET-zdL_-WS4dIVuTk3JSeDYe9WQ": "2026-09-20",
   "prx_418_e8c509ab-afcf-4f16-a894-5212e3695f50": "2026-09-24",
-  "e12bfb9b-ab37-4f7e-9334-4cd49eb048e1": "2026-09-28",
-  "b63a1cde-f082-450f-916f-ad80a1c056cd": "2026-09-28",
-  "6a86b7a239e73ea8f36475f7": "2026-09-28",
+  "e12bfb9b-ab37-4f7e-9334-4cd49eb048e1": "2026-09-29",
+  "b63a1cde-f082-450f-916f-ad80a1c056cd": "2026-09-29",
+  "6a86b7a239e73ea8f36475f7": "2026-09-29",
   "61d3d99e-b584-4415-844f-b4cd000d932c": "2026-09-26",
   "gid://art19-episode-locator/V0/7Yw0jlLmGbMj7bn5NWr0Fq5UckX3N-vnQE9RcgziGkY": "2026-09-25",
   "gid://art19-episode-locator/V0/J-HLsUKiJadbYjAcvPQHTUeCpxyg8SXQb5k_OI7iwUs": "2026-09-24",
   "3e2c3352-204c-4962-88dd-e1aebf82311d": "2026-09-26",
   "da3cfcb6-2db9-411e-b0e0-24d86f309f05": "2026-09-26",
   "prx_187_ffd83924-9836-4005-9131-c46617dadf1d": "2026-09-25",
-  "gid://art19-episode-locator/V0/klCRPtV1IfLRMcjyIwTQG7XeTi4keOdvqnJfREo8AFw": "2026-09-28",
+  "gid://art19-episode-locator/V0/klCRPtV1IfLRMcjyIwTQG7XeTi4keOdvqnJfREo8AFw": "2026-09-29",
   "gid://art19-episode-locator/V0/OTFHNa4zkeeEuGGrpJ1jtIyo78DHLDY9B5tNpiLlr9g": "2026-09-28",
   "TheDeeperThinkingPodcast.podbean.com/fa7a6ca8-bdb8-345b-83d0-1e5fd697d602": "2026-09-27",
-  "fbc9810f-f983-49eb-8753-f7d6e4457a80": "2026-09-28"
+  "fbc9810f-f983-49eb-8753-f7d6e4457a80": "2026-09-29",
+  "27402086-aaa9-11f1-84ce-7f2eaec1a2cb": "2026-09-29",
+  "40e23edc-07c2-11f1-940d-7fb941ca5402": "2026-09-29",
+  "8c4bedf0-aaab-11f1-aa4e-6340aaf4d497": "2026-09-29"
  }
 }
