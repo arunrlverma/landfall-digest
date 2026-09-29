@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generatedAt": "2026-09-29T15:34:30.636539+00:00",
+ "generatedAt": "2026-09-29T20:35:49.539879+00:00",
  "showsScanned": 400,
- "candidates": 46,
+ "candidates": 47,
  "picks": [
   {
    "id": "04852f9a-b8d3-11f1-a4bb-bf429814aa5d",
@@ -14,7 +14,7 @@
    "published": "Sun, 27 Sep 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8e/7d/2a/8e7d2adc-79ef-1647-b060-8d9a51542235/mza_10390476440754906602.png/600x600bb.jpg",
    "rating": 9,
-   "reason": "Discusses mystical experience and spiritual transformation focusing on inner life and perception.",
+   "reason": "Engages deeply with spiritual transformation and the inner journey from intellect to heart.",
    "tradition": "Interfaith"
   },
   {
@@ -27,21 +27,8 @@
    "published": "Wed, 23 Sep 2026 09:30:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/c9/5d/66c95da6-3ed6-20fc-7a54-8fd6cdf3c237/mza_81406979434027984.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A neuropsychoanalytic exploration of consciousness and its philosophical implications.",
+   "reason": "Philosophical and neuroscientific exploration of consciousness.",
    "tradition": "Secular"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/D94pQiBvQiZwuQrc--Ksft8mu_k7yJxh_dRvpPLZvO4",
-   "showID": "https://rss.art19.com/the-telepathy-tapes",
-   "showTitle": "The Telepathy Tapes",
-   "title": "S2E51: Willow Smith on Creativity, Consciousness, and Music | Talk Tracks",
-   "summary": "Grammy-nominated artist Willow Smith joins Ky Dickens for a deeply personal conversation about music as medicine, dreams as creative portals, spirituality, and the mystery of human connection.Willow shares how a lifetime of curiosity - from sacred traditions and nature to science and consciousness - has shaped her creative life. She reflects on music as a devotional and communal practice, the role of intuition in her songwriting, and the profound experiences that have expanded her sense of what may be possible.She also discusses “Talk On The Hill,” her beautiful song from her newest album The ",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/64dbed50-f94b-47e8-a050-1c3cb89bbef2.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Wed, 23 Sep 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Explores creativity, consciousness, and spirituality through personal and artistic experience.",
-   "tradition": "Interfaith"
   },
   {
    "id": "7e94e186-7668-46f8-a13e-6237676e2cee",
@@ -53,8 +40,47 @@
    "published": "Fri, 25 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Honest discussion on grief, faith, and rebuilding after divorce in a Christian context.",
+   "reason": "Honest discussion of grief, doubt, and faith after divorce in a Christian context.",
    "tradition": "Christian"
+  },
+  {
+   "id": "f57981bb-68cb-49c0-90a3-0f1efd7629b2",
+   "showID": "https://anchor.fm/s/f5dbfa60/podcast/rss",
+   "showTitle": "We're Out of Time",
+   "title": "Why Getting Sober Isn’t Enough: Trauma, Culture & Recovery | J. Carlos Rivera",
+   "summary": "Getting sober can remove the drugs and alcohol. But what happens when the trauma underneath is still there?J. Carlos Rivera, founder of Generation Red Road, joins host Richard Taite for a powerful conversation about addiction and recovery in Native and Indigenous communities. Rivera shares his own journey to more than two decades in recovery and explains how historical trauma, cultural identity, spirituality and belonging can shape both addiction and healing.They discuss why traditional recovery models may not work for everyone, what the Red Road approach brings to treatment, the importance of",
+   "audioURL": "https://anchor.fm/s/f5dbfa60/podcast/play/126475751/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-29%2F3a702777-f8ae-1df7-b398-e4d00fd5acdd.mp3",
+   "published": "Tue, 29 Sep 2026 19:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/69/75/90/697590b9-dcc7-91c1-a72a-4404c45f56f5/mza_16074264697810172157.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Discusses trauma, recovery, and Indigenous spirituality in addiction healing.",
+   "tradition": "Indigenous"
+  },
+  {
+   "id": "895bb294-6695-4a5f-abd9-e3f9e482b885",
+   "showID": "https://anchor.fm/s/101bcf8e8/podcast/rss",
+   "showTitle": "The Lila Rose Show",
+   "title": "E353: No Arms, No Legs, and the Craziest Love Story w/Nick Vujicic | E353 Lila Rose Show",
+   "summary": "No hands. No arms. A suicide attempt at age 10. One prophecy from a janitor and one chapter from the Gospel of John. This is the story of NickV, who has has preached to hundreds of millions, spoken to nearly 3 billion people, and talked for virtually every major nation on the planet. His story doesn't seem possible, but that's the point. Watch the new documentary: https://nickvfilms.com/2026/Nick's Instagram: https://www.instagram.com/nickvministries/?hl=enNEW: Check out our Merch store! https://shop.lilaroseshow.com/Join our new Patreon community! https://patreon.com/lilaroseshow - We'll have",
+   "audioURL": "https://traffic.megaphone.fm/APO3695847009.mp3",
+   "published": "Tue, 22 Sep 2026 09:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/2d/1c/bb2d1cb2-4c61-0e3d-039e-b0a474e58c51/mza_2950270099588349078.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Personal story of overcoming disability with faith and gospel influence.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/D94pQiBvQiZwuQrc--Ksft8mu_k7yJxh_dRvpPLZvO4",
+   "showID": "https://rss.art19.com/the-telepathy-tapes",
+   "showTitle": "The Telepathy Tapes",
+   "title": "S2E51: Willow Smith on Creativity, Consciousness, and Music | Talk Tracks",
+   "summary": "Grammy-nominated artist Willow Smith joins Ky Dickens for a deeply personal conversation about music as medicine, dreams as creative portals, spirituality, and the mystery of human connection.Willow shares how a lifetime of curiosity - from sacred traditions and nature to science and consciousness - has shaped her creative life. She reflects on music as a devotional and communal practice, the role of intuition in her songwriting, and the profound experiences that have expanded her sense of what may be possible.She also discusses “Talk On The Hill,” her beautiful song from her newest album The ",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/64dbed50-f94b-47e8-a050-1c3cb89bbef2.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Wed, 23 Sep 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Explores creativity, spirituality, and consciousness through personal and artistic lenses.",
+   "tradition": "Interfaith"
   },
   {
    "id": "Buzzsprout-19876137",
@@ -65,8 +91,8 @@
    "audioURL": "https://www.buzzsprout.com/2547586/episodes/19876137-i-m-excited-to-become-the-person-i-m-meant-to-be-though-i-m-overwhelmed-because-it-means-leaving-a-big-part-of-me-behind-the-emotional-and-personal-growth-that-helped-me-let-go-and-trust-who-i-m-becoming.mp3",
    "published": "Tue, 29 Sep 2026 07:00:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Reflects on personal growth and transformation involving letting go and trust in becoming.",
+   "rating": 6,
+   "reason": "Reflects on personal growth and transformation with some spiritual insight.",
    "tradition": "Secular"
   },
   {
@@ -79,21 +105,8 @@
    "published": "Fri, 25 Sep 2026 01:00:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/a6/37/62a63720-ae50-b8c6-6282-b62a41e54588/mza_4071962011418281551.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Explains Egyptian mythology touching on death and afterlife but mostly historical.",
+   "reason": "Explains Egyptian gods and myths related to death and afterlife, offering mythic perspectives.",
    "tradition": "Mythic"
-  },
-  {
-   "id": "audioboom-01a0db51-8e56-755e-b58f-c1132ac326fc",
-   "showID": "https://audioboom.com/channels/4943119.rss",
-   "showTitle": "The Grave Talks | Haunted, Paranormal & Supernatural",
-   "title": "When the Dead Have Something to Say, Part Two | Grave Talks CLASSIC",
-   "summary": "This is a Grave Talks CLASSIC EPISODE! PART TWOListeners of Real Ghost Stories Online may already know him as “Eric from Central Illinois.” Over the years, Eric Vogel has shared some unforgettable paranormal experiences—but those stories are only pieces of a much larger journey.It began with a near-death experience in childhood, something Eric believes opened the door to a lifelong fascination with the unexplained. Since then, he has encountered moments that were frightening, emotional, and sometimes unexpectedly comforting. He’s captured remarkable EVPs during ghost tours, experienced the unm",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8957407.mp3?modified=1790386009&amp;sid=4943119&amp;source=rss",
-   "published": "Mon, 28 Sep 2026 11:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/25/2a/78/252a781e-3e4d-e2d4-7296-2b08262c23a0/mza_13587127555026008314.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Personal paranormal experiences linked to near-death, touching on mystery and mortality.",
-   "tradition": "Interfaith"
   },
   {
    "id": "ef5db494-b6d8-11f1-b0fa-27523be1ab4d",
@@ -104,8 +117,21 @@
    "audioURL": "https://traffic.megaphone.fm/HAEEH2823771253.mp3",
    "published": "Wed, 23 Sep 2026 10:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Raw conversation on faithfulness and cultural pressure in Christian life.",
+   "rating": 6,
+   "reason": "Personal faith journey amid cultural pressure, with some reflection on faithfulness.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "https://blubrry.com/the_world_and_everything_in_it/155538205/925-culture-friday-the-school-she-chose/",
+   "showID": "https://feeds.blubrry.com/feeds/the_world_and_everything_in_it.xml",
+   "showTitle": "The World and Everything In It",
+   "title": "9.25 | Culture Friday · The school she chose",
+   "summary": "Fri » An elite journalist sent her daughter to a failing school for the “collective good.” John Stonestreet says the common good is not above those in it. Also: Stonestreet weighs the decision to cast Meryl Streep as the voice of Aslan—a clear Christ figure in C.S. Lewis’s Narnia stories—and whether the choice distorts the world Lewis created. He also considers whether kids’ smartwatches are really an escape from smartphones—or just another screen pulling them away from the real world. Plus: Collin Garbarino finds spiritual endurance and sacrificial love in Heart of the Beast, and listeners ge",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/p.podderapp.com/1696013160/media.blubrry.com/the_world_and_everything_in_it/ins.blubrry.com/the_world_and_everything_in_it/TWAEII-2026-09-25-3610-925-Culture.mp3",
+   "published": "Fri, 25 Sep 2026 03:40:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/eb/97/f3/eb97f380-8b07-e779-5a68-03a0f52307df/mza_17977818446845002899.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Considers cultural and ethical questions about education and media.",
    "tradition": "Christian"
   }
  ],
@@ -241,6 +267,7 @@
   "cad42aca65aa78a6c1d0e7cc9959c9fb": "2026-09-28",
   "coe22.podbean.com/9e1f43bd-741e-34db-8b19-bef5164f5446": "2026-09-28",
   "Buzzsprout-19876137": "2026-09-29",
-  "audioboom-01a0db51-8e56-755e-b58f-c1132ac326fc": "2026-09-29"
+  "audioboom-01a0db51-8e56-755e-b58f-c1132ac326fc": "2026-09-29",
+  "f57981bb-68cb-49c0-90a3-0f1efd7629b2": "2026-09-29"
  }
 }
