@@ -1,9 +1,22 @@
 {
  "version": 1,
- "generatedAt": "2026-09-29T08:11:49.782761+00:00",
+ "generatedAt": "2026-09-29T15:34:30.636539+00:00",
  "showsScanned": 400,
- "candidates": 44,
+ "candidates": 46,
  "picks": [
+  {
+   "id": "04852f9a-b8d3-11f1-a4bb-bf429814aa5d",
+   "showID": "https://feeds.megaphone.fm/permanentquestions",
+   "showTitle": "The Permanent Questions With David Brooks",
+   "title": "What Is the Meaning of Mystical Experience?",
+   "summary": "What would it be like to wake up one day with the ability to greet the world with warmth, patience, grace, and affection? This is what happens to the main character in the Pulitzer Prize–winner Ayad Akhtar's magnificent new novel, The Radiance. It is a tale of spiritual transformation in which Akhtar gives a detailed description of our inner landscapes. David and Akhtar talk about what it's like to see the world with new eyes, and how difficult it is to move from the head to the heart. \n\n\n\nGet more from your favorite Atlantic voices when you subscribe. You’ll enjoy unlimited access to Pulitzer",
+   "audioURL": "https://traffic.megaphone.fm/ATL9571533630.mp3",
+   "published": "Sun, 27 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8e/7d/2a/8e7d2adc-79ef-1647-b060-8d9a51542235/mza_10390476440754906602.png/600x600bb.jpg",
+   "rating": 9,
+   "reason": "Discusses mystical experience and spiritual transformation focusing on inner life and perception.",
+   "tradition": "Interfaith"
+  },
   {
    "id": "gid://art19-episode-locator/V0/7Yw0jlLmGbMj7bn5NWr0Fq5UckX3N-vnQE9RcgziGkY",
    "showID": "https://rss.art19.com/suspicious-minds",
@@ -14,7 +27,7 @@
    "published": "Wed, 23 Sep 2026 09:30:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/c9/5d/66c95da6-3ed6-20fc-7a54-8fd6cdf3c237/mza_81406979434027984.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "A neuropsychoanalyst deeply explores consciousness and its nature.",
+   "reason": "A neuropsychoanalytic exploration of consciousness and its philosophical implications.",
    "tradition": "Secular"
   },
   {
@@ -27,73 +40,8 @@
    "published": "Wed, 23 Sep 2026 07:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Willow Smith shares insights on creativity, spirituality, and consciousness.",
+   "reason": "Explores creativity, consciousness, and spirituality through personal and artistic experience.",
    "tradition": "Interfaith"
-  },
-  {
-   "id": "895bb294-6695-4a5f-abd9-e3f9e482b885",
-   "showID": "https://anchor.fm/s/101bcf8e8/podcast/rss",
-   "showTitle": "The Lila Rose Show",
-   "title": "E353: No Arms, No Legs, and the Craziest Love Story w/Nick Vujicic | E353 Lila Rose Show",
-   "summary": "No hands. No arms. A suicide attempt at age 10. One prophecy from a janitor and one chapter from the Gospel of John. This is the story of NickV, who has has preached to hundreds of millions, spoken to nearly 3 billion people, and talked for virtually every major nation on the planet. His story doesn't seem possible, but that's the point. Watch the new documentary: https://nickvfilms.com/2026/Nick's Instagram: https://www.instagram.com/nickvministries/?hl=enNEW: Check out our Merch store! https://shop.lilaroseshow.com/Join our new Patreon community! https://patreon.com/lilaroseshow - We'll have",
-   "audioURL": "https://traffic.megaphone.fm/APO3695847009.mp3",
-   "published": "Tue, 22 Sep 2026 09:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/2d/1c/bb2d1cb2-4c61-0e3d-039e-b0a474e58c51/mza_2950270099588349078.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A man with disabilities shares his faith journey and overcoming despair.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "https://www.ldsscriptureteachings.org/?p=34227",
-   "showID": "https://www.ldsscriptureteachings.org/feed/podcast/",
-   "showTitle": "Talking Scripture",
-   "title": "Ep 391 | Isaiah 40-49, Come Follow Me 2026 (Sept 28-Oct 4)",
-   "summary": "→ Watch on YouTube\n\n\n\n→ Detailed Show Notes\n\n\n\n(00:00) In these chapters the Lord comforts and gives hope to Israel. He promises that he will never abandon us.(03:15) King Hezekiah seeks the Lord’s advice through the prophet Isaiah as Assyria approaches Jerusalem.(11:12) In whom do you place your trust? King Benjamin invites us to remember the greatness of God.(15:13) Isaiah 40 can be read as a temple text. Isaiah sees the council of divine beings in heaven.(24:00) The Lord gives encouragement to Israel, and reminds them that he has always been there through their trials.(35:34)  The four Serv",
-   "audioURL": "https://media.blubrry.com/talkingscripture/www.ldsscriptureteachings.org/wp-content/uploads/2026/09/391-Isaiah-36-49-final-mp3.mp3",
-   "published": "Thu, 24 Sep 2026 09:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/93/93/86/939386cd-e445-1c3b-62ef-1b94a17fae2d/mza_8352661377608960433.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A thoughtful reflection on trust and divine comfort in Isaiah's prophetic texts.",
-   "tradition": "Latter-day Saint"
-  },
-  {
-   "id": "2632a72e-9226-487b-b7fa-0313804e045a",
-   "showID": "https://anchor.fm/s/104e3eb08/podcast/rss",
-   "showTitle": "Boring History for Sleep",
-   "title": "Egyptian Gods Explained 🐍☀️ | The Gods, Myths, and Legends of Ancient Egypt | Boring History for Sleep",
-   "summary": "The gods of ancient Egypt were woven into almost every part of life, from the rising sun and the flooding Nile to kingship, protection, death, and the journey into the afterlife. But who were these powerful and mysterious deities?This documentary explores the fascinating world of Egyptian mythology, from Ra, Osiris, Isis, and Horus to Anubis, Set, Thoth, and many lesser-known gods and goddesses. Discover their stories, symbols, relationships, rivalries, and the myths that shaped how ancient Egyptians understood the world around them.Why were Egyptian gods often portrayed with animal features? ",
-   "audioURL": "https://traffic.megaphone.fm/APO2979242677.mp3",
-   "published": "Fri, 25 Sep 2026 01:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/a6/37/62a63720-ae50-b8c6-6282-b62a41e54588/mza_4071962011418281551.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Overview of Egyptian gods and myths touching on death and afterlife themes.",
-   "tradition": "Mythic"
-  },
-  {
-   "id": "04852f9a-b8d3-11f1-a4bb-bf429814aa5d",
-   "showID": "https://feeds.megaphone.fm/permanentquestions",
-   "showTitle": "The Permanent Questions With David Brooks",
-   "title": "What Is the Meaning of Mystical Experience?",
-   "summary": "What would it be like to wake up one day with the ability to greet the world with warmth, patience, grace, and affection? This is what happens to the main character in the Pulitzer Prize–winner Ayad Akhtar's magnificent new novel, The Radiance. It is a tale of spiritual transformation in which Akhtar gives a detailed description of our inner landscapes. David and Akhtar talk about what it's like to see the world with new eyes, and how difficult it is to move from the head to the heart. \n\n\n\nGet more from your favorite Atlantic voices when you subscribe. You’ll enjoy unlimited access to Pulitzer",
-   "audioURL": "https://traffic.megaphone.fm/ATL9571533630.mp3",
-   "published": "Sun, 27 Sep 2026 10:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8e/7d/2a/8e7d2adc-79ef-1647-b060-8d9a51542235/mza_10390476440754906602.png/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Conversation about mystical experience and spiritual transformation in a novel.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "coe22.podbean.com/41f4ac1e-8032-3b80-99fa-b3763c603862",
-   "showID": "https://feed.podbean.com/coe22/feed.xml",
-   "showTitle": "The Church of Eleven22",
-   "title": "Saturated Saturday: When God Doesn’t Do What You Think He Should — Pastor Jason Shepperd",
-   "summary": "What happens to your faith when God doesn’t do what you think a good God should do?\nThe gospel doesn’t promise a life without pain. It gives us hope in the middle of it. In 2 Samuel 12, David faces unimaginable loss and has a decision to make: will his pain cause him to stop seeking God, or lead him into deeper trust and surrender?\nGrace doesn’t disappear when pain enters our lives, and God’s character doesn’t change when our circumstances do.The gospel includes suffering, but it ends in resurrection. Because the tomb is empty, pain does not get the final word.\n📌 Supplemental Resources:\n• Jaso",
-   "audioURL": "https://mcdn.podbean.com/mf/web/i2afs45syg88n38f/20260919_Saturated_622_396v473.mp3",
-   "published": "Mon, 21 Sep 2026 14:50:39 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/bc/de/91bcde44-c404-cf61-19a9-55e3e141318a/mza_10062776709344245166.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "A pastor reflects on faith and suffering through David's story in 2 Samuel 12.",
-   "tradition": "Christian"
   },
   {
    "id": "7e94e186-7668-46f8-a13e-6237676e2cee",
@@ -105,7 +53,59 @@
    "published": "Fri, 25 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/1c/5f/341c5f1c-cb72-109b-02f4-e917e0d1a143/mza_10306012406991681655.jpeg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Divorced Christians share honest struggles and questions about faith and church.",
+   "reason": "Honest discussion on grief, faith, and rebuilding after divorce in a Christian context.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "Buzzsprout-19876137",
+   "showID": "https://rss.buzzsprout.com/2547586.rss",
+   "showTitle": "We!",
+   "title": "I’m Excited to Become the Person I’m Meant to Be, Though I’m Overwhelmed Because It Means Leaving a Big Part of Me Behind — The Emotional and Personal Growth That Helped Me Let Go and Trust Who I’m Becoming",
+   "summary": "What happens when you’re excited about who you’re becoming but overwhelmed by what you have to leave behind?In this episode of WE, Joe Mittiga explores one of the most complicated parts of personal transformation: realizing that growth isn’t always about adding more. Sometimes, becoming the person you’re meant to be requires letting go of old beliefs, behaviors, relationships, expectations, and even dreams that once defined you. Joe explores the mental, emotional, and spiritual sides of personal growth and why transformation can sometimes feel like grief. He shares his own journey of healing a",
+   "audioURL": "https://www.buzzsprout.com/2547586/episodes/19876137-i-m-excited-to-become-the-person-i-m-meant-to-be-though-i-m-overwhelmed-because-it-means-leaving-a-big-part-of-me-behind-the-emotional-and-personal-growth-that-helped-me-let-go-and-trust-who-i-m-becoming.mp3",
+   "published": "Tue, 29 Sep 2026 07:00:00 -0400",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Reflects on personal growth and transformation involving letting go and trust in becoming.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "2632a72e-9226-487b-b7fa-0313804e045a",
+   "showID": "https://anchor.fm/s/104e3eb08/podcast/rss",
+   "showTitle": "Boring History for Sleep",
+   "title": "Egyptian Gods Explained 🐍☀️ | The Gods, Myths, and Legends of Ancient Egypt | Boring History for Sleep",
+   "summary": "The gods of ancient Egypt were woven into almost every part of life, from the rising sun and the flooding Nile to kingship, protection, death, and the journey into the afterlife. But who were these powerful and mysterious deities?This documentary explores the fascinating world of Egyptian mythology, from Ra, Osiris, Isis, and Horus to Anubis, Set, Thoth, and many lesser-known gods and goddesses. Discover their stories, symbols, relationships, rivalries, and the myths that shaped how ancient Egyptians understood the world around them.Why were Egyptian gods often portrayed with animal features? ",
+   "audioURL": "https://traffic.megaphone.fm/APO2979242677.mp3",
+   "published": "Fri, 25 Sep 2026 01:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/a6/37/62a63720-ae50-b8c6-6282-b62a41e54588/mza_4071962011418281551.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explains Egyptian mythology touching on death and afterlife but mostly historical.",
+   "tradition": "Mythic"
+  },
+  {
+   "id": "audioboom-01a0db51-8e56-755e-b58f-c1132ac326fc",
+   "showID": "https://audioboom.com/channels/4943119.rss",
+   "showTitle": "The Grave Talks | Haunted, Paranormal & Supernatural",
+   "title": "When the Dead Have Something to Say, Part Two | Grave Talks CLASSIC",
+   "summary": "This is a Grave Talks CLASSIC EPISODE! PART TWOListeners of Real Ghost Stories Online may already know him as “Eric from Central Illinois.” Over the years, Eric Vogel has shared some unforgettable paranormal experiences—but those stories are only pieces of a much larger journey.It began with a near-death experience in childhood, something Eric believes opened the door to a lifelong fascination with the unexplained. Since then, he has encountered moments that were frightening, emotional, and sometimes unexpectedly comforting. He’s captured remarkable EVPs during ghost tours, experienced the unm",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8957407.mp3?modified=1790386009&amp;sid=4943119&amp;source=rss",
+   "published": "Mon, 28 Sep 2026 11:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/25/2a/78/252a781e-3e4d-e2d4-7296-2b08262c23a0/mza_13587127555026008314.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Personal paranormal experiences linked to near-death, touching on mystery and mortality.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "ef5db494-b6d8-11f1-b0fa-27523be1ab4d",
+   "showID": "https://feeds.megaphone.fm/HAEEH8788670682",
+   "showTitle": "Live Free with Josh Howerton",
+   "title": "The Biggest THREAT to Christianity is Happening RIGHT NOW (ft. Philip Anthony Mitchell) | Live Free with Josh Howerton",
+   "summary": "What does it look like to contend for your faith when culture is shifting, pressure is rising, and following Jesus may cost you something?\n\nPastor Josh Howerton sits down with Pastor Philip Anthony Mitchell for a raw and deeply personal conversation about Philip’s journey from the streets of Queens and Rikers Island to surrendering his life to Christ and eventually becoming a pastor. Philip shares how God transformed his life, shaped his preaching, and taught him that faithfulness—not platform, influence, or recognition—is the true measure of ministry.\n\nThe conversation also turns to some of t",
+   "audioURL": "https://traffic.megaphone.fm/HAEEH2823771253.mp3",
+   "published": "Wed, 23 Sep 2026 10:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/c8/84/03c8844c-bbd6-2c29-5045-25eac434eaef/mza_16269028133219747046.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Raw conversation on faithfulness and cultural pressure in Christian life.",
    "tradition": "Christian"
   }
  ],
@@ -209,7 +209,7 @@
   "1ac7a721-a986-4d0b-a020-b4cd01668ce6": "2026-09-29",
   "gid://art19-episode-locator/V0/7Yw0jlLmGbMj7bn5NWr0Fq5UckX3N-vnQE9RcgziGkY": "2026-09-29",
   "gid://art19-episode-locator/V0/D94pQiBvQiZwuQrc--Ksft8mu_k7yJxh_dRvpPLZvO4": "2026-09-29",
-  "ef5db494-b6d8-11f1-b0fa-27523be1ab4d": "2026-09-26",
+  "ef5db494-b6d8-11f1-b0fa-27523be1ab4d": "2026-09-29",
   "2bfd2a81-560e-4138-8901-8c3fb87ff53d": "2026-09-25",
   "497fef0d-65bc-4973-b74c-a38354812bf3": "2026-09-28",
   "Buzzsprout-19855236": "2026-09-28",
@@ -239,6 +239,8 @@
   "982695aa-badf-11f1-9093-e3267f060ab3": "2026-09-28",
   "78d667be-9473-472e-9de9-5a3234ce093a": "2026-09-28",
   "cad42aca65aa78a6c1d0e7cc9959c9fb": "2026-09-28",
-  "coe22.podbean.com/9e1f43bd-741e-34db-8b19-bef5164f5446": "2026-09-28"
+  "coe22.podbean.com/9e1f43bd-741e-34db-8b19-bef5164f5446": "2026-09-28",
+  "Buzzsprout-19876137": "2026-09-29",
+  "audioboom-01a0db51-8e56-755e-b58f-c1132ac326fc": "2026-09-29"
  }
 }
