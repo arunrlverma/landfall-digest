@@ -1,74 +1,9 @@
 {
  "version": 1,
- "generatedAt": "2026-09-30T00:12:57.493781+00:00",
+ "generatedAt": "2026-09-30T06:29:03.993749+00:00",
  "showsScanned": 400,
- "candidates": 48,
+ "candidates": 53,
  "picks": [
-  {
-   "id": "655253a4-bc41-11f1-98a5-9b1ea7200067",
-   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
-   "showTitle": "Blurry Creatures",
-   "title": "EP: 469 Rat Temples, Mormon Gods, and a Death Cult on the Ganges with Jeremy Jenkins",
-   "summary": "Here is the uncomfortable thing nobody in church wants to say out loud. The spells work. The witch doctor heals. The rituals deliver. Jeremy Jenkins has spent years studying the world's religions and standing inside their holiest places, and he is done pretending the power is not real. A world religions expert, pastor, and professor, he sits down with Luke and Nate to explain why everything that works is not good, and why that single idea changes how you read every faith on earth.From the Hindu death cult of Varanasi, where bodies burn on the Ganges around the clock, to the rat temples, to wha",
-   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW1955994178.mp3",
-   "published": "Tue, 29 Sep 2026 21:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Examines real spiritual power and ethical complexity across world religions.",
-   "tradition": "Interfaith"
-  },
-  {
-   "id": "9db629e4-a172-40a9-8343-b4cc0173e0d9",
-   "showID": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/d64f756d-6d5e-4fae-b24f-ae280140ad36/podcast.rss",
-   "showTitle": "Behind the Bastards",
-   "title": "Part One: Radovan Karadžić: The Genocidal Dictator Who Became a New-Age Guru",
-   "summary": "Robert sits down with Jamie Loftus to discuss a bastard who really did it all: started his own country and became dictator, carried out a genocide, and matured to quack energy healer using magic to improve men's sperm count. Preorder Jamie's new novel, The Tower: https://us.macmillan.com/books/9781250480422/thetower/  Sources: https://www.bbc.com/news/world-europe-19960285 https://www.npr.org/2008/07/22/92775717/timeline-the-political-life-of-radovan-karadzic https://www.theguardian.com/world/2016/mar/22/the-hunt-for-radovan-karadzic-ruthless-warlord-turned-spiritual-healer https://www.npr.org",
-   "audioURL": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/9db629e4-a172-40a9-8343-b4cc0173e0d9/audio.mp3?utm_source=Podcast&amp;in_playlist=d64f756d-6d5e-4fae-b24f-ae280140ad36",
-   "published": "Tue, 22 Sep 2026 09:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ee/82/58/ee8258d4-32a6-eae8-ddde-d13113a6baee/mza_2590417236454661582.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "A dark historical figure's life examined with ethical and spiritual implications.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "1e65261d-4115-4dcd-9643-7fcd1cb421ed",
-   "showID": "https://feeds.libsyn.com/56578/rss",
-   "showTitle": "Joyce Meyer Enjoying Everyday Life® Radio Podcast",
-   "title": "Learning How to Rest – Part 2",
-   "summary": "God created you for a life of peace—not constant pressure. Today on 15 Minutes in the Word, Joyce shares how to rest and enjoy life again.",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/jmradio/JMM_Sep_29_2026.mp3?dest-id=211463",
-   "published": "Tue, 29 Sep 2026 05:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/20/5f/89205fa5-8450-d917-3f45-a5b26962a087/mza_377853489433632553.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Offers Christian guidance on rest and peace in life.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "3441a442-7731-4c9e-b62c-5fe43c346d6c",
-   "showID": "https://feeds.libsyn.com/56578/rss",
-   "showTitle": "Joyce Meyer Enjoying Everyday Life® Radio Podcast",
-   "title": "Learning How to Rest – Part 1",
-   "summary": "God created you for a life of peace—not constant pressure. Today on 15 Minutes in the Word, Joyce shares how to rest and enjoy life again.",
-   "audioURL": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/jmradio/JMM_Sep_28_2026.mp3?dest-id=211463",
-   "published": "Mon, 28 Sep 2026 05:00:00 +0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/20/5f/89205fa5-8450-d917-3f45-a5b26962a087/mza_377853489433632553.jpg/600x600bb.jpg",
-   "rating": 6,
-   "reason": "Christian advice on resting and enjoying life amid pressure.",
-   "tradition": "Christian"
-  },
-  {
-   "id": "518b0a25-787c-48cb-b2df-e0a816c94210",
-   "showID": "https://anchor.fm/s/10e5a085c/podcast/rss",
-   "showTitle": "The Mark Driscoll Podcast",
-   "title": "How to Hear God's Voice",
-   "summary": "God is completely in charge, and sometimes He calls you to something that you did not expect. The choices you make when He calls you will determine the direction your life goes.",
-   "audioURL": "https://traffic.megaphone.fm/APO2212697738.mp3",
-   "published": "Sun, 27 Sep 2026 00:00:00 GMT",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
-   "rating": 7,
-   "reason": "Explores discerning God's voice and life direction.",
-   "tradition": "Christian"
-  },
   {
    "id": "78d667be-9473-472e-9de9-5a3234ce093a",
    "showID": "https://feeds.fireside.fm/bibleinayear/rss",
@@ -79,7 +14,7 @@
    "published": "Wed, 23 Sep 2026 03:15:00 -0400",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/87/e0/ca87e07d-9d97-a433-1dc9-55dcfbd54f17/mza_9875864189557480350.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Explores Christ's passion and gospel context with ethical and spiritual insights.",
+   "reason": "Deep reflection on Christ's passion and gospel meaning in context.",
    "tradition": "Catholic"
   },
   {
@@ -92,7 +27,7 @@
    "published": "Mon, 28 Sep 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Serious discussion on consciousness, self-other recognition, and psychedelics.",
+   "reason": "Examines consciousness scientifically and philosophically, including psychedelics and self-other distinction.",
    "tradition": "Secular"
   },
   {
@@ -105,8 +40,112 @@
    "published": "Sun, 27 Sep 2026 21:30:00 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/f2/51/80f2517f-d0e0-2996-d7f5-242057730a91/mza_589119816287004869.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Personal story of suffering, faith, and finding God's love.",
+   "reason": "Personal story of faith, suffering, and trust in God amid hardship.",
    "tradition": "Christian"
+  },
+  {
+   "id": "655253a4-bc41-11f1-98a5-9b1ea7200067",
+   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
+   "showTitle": "Blurry Creatures",
+   "title": "EP: 469 Rat Temples, Mormon Gods, and a Death Cult on the Ganges with Jeremy Jenkins",
+   "summary": "Here is the uncomfortable thing nobody in church wants to say out loud. The spells work. The witch doctor heals. The rituals deliver. Jeremy Jenkins has spent years studying the world's religions and standing inside their holiest places, and he is done pretending the power is not real. A world religions expert, pastor, and professor, he sits down with Luke and Nate to explain why everything that works is not good, and why that single idea changes how you read every faith on earth.From the Hindu death cult of Varanasi, where bodies burn on the Ganges around the clock, to the rat temples, to wha",
+   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW1955994178.mp3",
+   "published": "Tue, 29 Sep 2026 21:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "Explores religious power and ritual efficacy with critical insight into faith and ethics.",
+   "tradition": "Interfaith"
+  },
+  {
+   "id": "bc585b7b-cd34-4348-a4d9-76564c2aee45",
+   "showID": "https://feeds.libsyn.com/56578/rss",
+   "showTitle": "Joyce Meyer Enjoying Everyday Life® Radio Podcast",
+   "title": "Learning How to Rest – Part 3",
+   "summary": "God created you for a life of peace—not constant pressure. Today on 15 Minutes in the Word, Joyce shares how to rest and enjoy life again.",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/jmradio/JMM_Sep_30_2026.mp3?dest-id=211463",
+   "published": "Wed, 30 Sep 2026 05:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/20/5f/89205fa5-8450-d917-3f45-a5b26962a087/mza_377853489433632553.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Christian teaching on rest and peace, addressing how to live with less pressure.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "1e65261d-4115-4dcd-9643-7fcd1cb421ed",
+   "showID": "https://feeds.libsyn.com/56578/rss",
+   "showTitle": "Joyce Meyer Enjoying Everyday Life® Radio Podcast",
+   "title": "Learning How to Rest – Part 2",
+   "summary": "God created you for a life of peace—not constant pressure. Today on 15 Minutes in the Word, Joyce shares how to rest and enjoy life again.",
+   "audioURL": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/jmradio/JMM_Sep_29_2026.mp3?dest-id=211463",
+   "published": "Tue, 29 Sep 2026 05:00:00 +0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/20/5f/89205fa5-8450-d917-3f45-a5b26962a087/mza_377853489433632553.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Continuation of Christian reflections on rest and peace in life.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "518b0a25-787c-48cb-b2df-e0a816c94210",
+   "showID": "https://anchor.fm/s/10e5a085c/podcast/rss",
+   "showTitle": "The Mark Driscoll Podcast",
+   "title": "How to Hear God's Voice",
+   "summary": "God is completely in charge, and sometimes He calls you to something that you did not expect. The choices you make when He calls you will determine the direction your life goes.",
+   "audioURL": "https://traffic.megaphone.fm/APO2212697738.mp3",
+   "published": "Sun, 27 Sep 2026 00:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/f3/c0/f2f3c0af-6b96-34b7-5adf-ac4e0dcff449/mza_12902702112788981735.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discusses discerning God's voice and life direction amid faith challenges.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "60786f5e-a15b-46ac-9abe-99fcc790ebe0",
+   "showID": "https://anchor.fm/s/f7ccb224/podcast/rss",
+   "showTitle": "Mormon Stories Podcast",
+   "title": "LDS Retention Drop, Church Opposes Abortion Rights in Idaho, Nevada - Mormon News 9.25.26 | Ep. 2200",
+   "summary": "Today on Mormon Stories News, John and Meggan examine new Pew data on Mormon retention, the Church’s opposition to Idaho Proposition 1, questions surrounding David McConkie’s employment at BYU, a response from Suzie Greco, Elizabeth Smart’s Survivor Files, and Colorado State’s apology following anti-Mormon chants at a BYU football game.ARE MORMONS STAYING?New Pew data gives us another look at LDS retention in the United States. We compare the new findings with Church-focused retention research released earlier this year.https://www.deseret.com/faith/2026/06/05/latter-day-saint-faith-retention-",
+   "audioURL": "https://traffic.megaphone.fm/APO9635230451.mp3",
+   "published": "Fri, 25 Sep 2026 18:00:00 GMT",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/49/07/5849079e-bdd2-0858-657e-89ae9a8bc867/mza_237842854876519292.jpg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses Mormon retention and church issues, touching on faith and community challenges.",
+   "tradition": "Latter-day Saint"
+  },
+  {
+   "id": "4dbf6ce0-ba8e-11f1-9a49-fbcd306a28a5",
+   "showID": "https://feeds.megaphone.fm/LEW6901658133",
+   "showTitle": "Undaunted.Life: A Man's Podcast by Kyle Thompson",
+   "title": "EDMUND RICHARDSON | Alexander the Great: God, King, Man (Ep. 978)",
+   "summary": "In this episode, we welcome Edmund Richardson to the show. He is a historian of ancient Greece, professor in the Department of Classics and Ancient History at Durham University, and author of the new book “Alexander: God, King, Man”. In this interview, we discuss how he became interested in ancient Greece, what previous biographies of Alexander the Great get wrong, the relationship between Aristotle and Alexander, if the character Achilles from Homer’s epic poems was a real person, why the Greek phalanx was one of the main reasons why Alexander was able to conquer much of the known world, Alex",
+   "audioURL": "https://traffic.megaphone.fm/LEW1511515325.mp3",
+   "published": "Tue, 29 Sep 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/9f/12/809f1210-c215-9d6a-5dbd-45124c012604/mza_7903026632038263183.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Historical discussion of Alexander the Great with some reflection on myth and legacy.",
+   "tradition": "Mythic"
+  },
+  {
+   "id": "dylangemelli.podbean.com/833f346e-bbd1-35f1-8f2f-f9839aca5de4",
+   "showID": "https://feed.podbean.com/dylangemelli/feed.xml",
+   "showTitle": "The Dylan Gemelli Podcast",
+   "title": "Episode #167:  I Studied Health for 25 Years. The Answer Is GOD!  Dylan Gemelli LIVE Speech at the Breakthrough in the Desert Event!",
+   "summary": "Most people are chasing better health in the wrong order.\n \nThey look for the next supplement, peptide, diet, drug, or shortcut... while IGNORING the foundation underneath all of it.\n\n\n\nAfter more than 25 years of studying hormones, peptides, nutrition, health, and wellness, Dylan explains why optimizing your bloodwork or diet may not be enough if you’re constantly stressed, unhappy, sleep-deprived, or stuck in fight-or-flight mode.\n \nHe explores the connection between faith and health, mindset, nervous system regulation, gratitude, discipline, sleep, nutrition, stress, peptides, and longevity",
+   "audioURL": "https://pscrb.fm/rss/p/mcdn.podbean.com/mf/web/r5r3dm6ts6ebfmd5/P10_Audio8at9c.mp3",
+   "published": "Sat, 26 Sep 2026 15:07:40 -0700",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/4a/f4/654af4a7-d5cd-2317-91a1-b5913de83e6f/mza_12950421134232165951.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Connects faith and health but mainly about wellness and mindset.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "a6321812-bc48-11f1-a37b-731f034df5ac",
+   "showID": "https://feeds.megaphone.fm/YTYIE3550500328",
+   "showTitle": "The Jeremy Boreing Show",
+   "title": "They're Trying To Eradicate the Jews | Ep. 63",
+   "summary": "Where do the Jews belong?\n\n\n\nThis summer, Jordan Peterson posted a simple reminder about the term \"Judeo-Christian\": the Ten Commandments are Jewish, the great stories of the Old Testament are Jewish, and Christ Himself was a Jew. Parts of the online right pushed back immediately — Dale Partridge insisted the Old Testament isn't Jewish, Jack Posobiec said this isn't what Christians believe. It looked like a debate about theological vocabulary. It pointed to something much older and much darker.\n\n\n\nIn this monologue, Jeremy traces the return of the so-called Jewish Question, the \"JQ\" — from Bri",
+   "audioURL": "https://traffic.megaphone.fm/YTYIE9545314215.mp3",
+   "published": "Tue, 29 Sep 2026 21:15:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/f7/b3/4bf7b3d3-814e-e815-932d-cf11d4836dd6/mza_7969612942427696765.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses Jewish identity and theological vocabulary with some reflection on faith.",
+   "tradition": "Jewish"
   }
  ],
  "history": {
@@ -236,6 +275,11 @@
   "f57981bb-68cb-49c0-90a3-0f1efd7629b2": "2026-09-29",
   "655253a4-bc41-11f1-98a5-9b1ea7200067": "2026-09-30",
   "1e65261d-4115-4dcd-9643-7fcd1cb421ed": "2026-09-30",
-  "3441a442-7731-4c9e-b62c-5fe43c346d6c": "2026-09-30"
+  "3441a442-7731-4c9e-b62c-5fe43c346d6c": "2026-09-30",
+  "bc585b7b-cd34-4348-a4d9-76564c2aee45": "2026-09-30",
+  "60786f5e-a15b-46ac-9abe-99fcc790ebe0": "2026-09-30",
+  "4dbf6ce0-ba8e-11f1-9a49-fbcd306a28a5": "2026-09-30",
+  "dylangemelli.podbean.com/833f346e-bbd1-35f1-8f2f-f9839aca5de4": "2026-09-30",
+  "a6321812-bc48-11f1-a37b-731f034df5ac": "2026-09-30"
  }
 }
