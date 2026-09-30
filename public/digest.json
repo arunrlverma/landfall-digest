@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-30T18:59:44.887336+00:00",
+ "generatedAt": "2026-09-30T22:57:46.659521+00:00",
  "showsScanned": 400,
  "candidates": 53,
  "picks": [
@@ -14,20 +14,7 @@
    "published": "Mon, 28 Sep 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
    "rating": 9,
-   "reason": "In-depth discussion on consciousness, self-awareness, and psychedelics.",
-   "tradition": "Secular"
-  },
-  {
-   "id": "gid://art19-episode-locator/V0/-U1gEsn0DuBBWhu_TLIDw7n2XykMo-sod4cQDI6I_IU",
-   "showID": "https://rss.art19.com/the-telepathy-tapes",
-   "showTitle": "The Telepathy Tapes",
-   "title": "S2E53: When Caelum Came Back Part I | Talk Tracks",
-   "summary": "At 17 months old, Caelum Miller suffered a near-fatal drowning that left him with a severe traumatic brain injury. Doctors told his family he would likely remain in a vegetative state for the rest of his life. But his parents refused to close the door on what might be possible.Years later, Caelum learned to communicate through facilitated communication and began sharing thoughts, memories, and experiences that his family says challenged everything they understood about his consciousness.In this episode, Caelum and his mother, Anne-Marie, tell the story of his remarkable recovery and the moment",
-   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/c4637d5b-7a53-4c9d-8de5-748d16166654.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
-   "published": "Wed, 30 Sep 2026 07:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
-   "rating": 9,
-   "reason": "Profound exploration of consciousness and recovery after brain injury.",
+   "reason": "In-depth discussion on consciousness, self, and psychedelics from a scientific view.",
    "tradition": "Secular"
   },
   {
@@ -40,7 +27,20 @@
    "published": "Wed, 30 Sep 2026 10:35:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/c9/5d/66c95da6-3ed6-20fc-7a54-8fd6cdf3c237/mza_81406979434027984.jpeg/600x600bb.jpg",
    "rating": 9,
-   "reason": "Philosophical and ethical inquiry into consciousness and artificial sentience.",
+   "reason": "Philosophical and ethical inquiry into artificial consciousness and the value of feeling.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "gid://art19-episode-locator/V0/-U1gEsn0DuBBWhu_TLIDw7n2XykMo-sod4cQDI6I_IU",
+   "showID": "https://rss.art19.com/the-telepathy-tapes",
+   "showTitle": "The Telepathy Tapes",
+   "title": "S2E53: When Caelum Came Back Part I | Talk Tracks",
+   "summary": "At 17 months old, Caelum Miller suffered a near-fatal drowning that left him with a severe traumatic brain injury. Doctors told his family he would likely remain in a vegetative state for the rest of his life. But his parents refused to close the door on what might be possible.Years later, Caelum learned to communicate through facilitated communication and began sharing thoughts, memories, and experiences that his family says challenged everything they understood about his consciousness.In this episode, Caelum and his mother, Anne-Marie, tell the story of his remarkable recovery and the moment",
+   "audioURL": "https://pscrb.fm/rss/p/tracking.swap.fm/track/c4u9TdQ5gsDmCq9TETNl/mgln.ai/e/213/rss.art19.com/episodes/c4637d5b-7a53-4c9d-8de5-748d16166654.mp3?rss_browser=BAhJIg1MYW5kZmFsbAY6BkVU--0050a016ea2f9347bee2fc032dc4951749b75366",
+   "published": "Wed, 30 Sep 2026 07:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/22/ad/a522ad93-57fd-71e4-fd9c-50d04fa2a4b7/mza_2180580833936889797.jpeg/600x600bb.jpg",
+   "rating": 8,
+   "reason": "A family's experience challenges assumptions about consciousness and life after severe brain injury.",
    "tradition": "Secular"
   },
   {
@@ -53,21 +53,8 @@
    "published": "Wed, 30 Sep 2026 08:00:00 -0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/59/05/ad590545-0cea-12c2-07f0-5a063c77d11b/mza_17798297345030142677.jpg/600x600bb.jpg",
    "rating": 8,
-   "reason": "Explores consciousness through physics and perception with scientific and philosophical depth.",
+   "reason": "Explores consciousness through physics and perception, linking science with experience.",
    "tradition": "Secular"
-  },
-  {
-   "id": "655253a4-bc41-11f1-98a5-9b1ea7200067",
-   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
-   "showTitle": "Blurry Creatures",
-   "title": "EP: 469 Rat Temples, Mormon Gods, and a Death Cult on the Ganges with Jeremy Jenkins",
-   "summary": "Here is the uncomfortable thing nobody in church wants to say out loud. The spells work. The witch doctor heals. The rituals deliver. Jeremy Jenkins has spent years studying the world's religions and standing inside their holiest places, and he is done pretending the power is not real. A world religions expert, pastor, and professor, he sits down with Luke and Nate to explain why everything that works is not good, and why that single idea changes how you read every faith on earth.From the Hindu death cult of Varanasi, where bodies burn on the Ganges around the clock, to the rat temples, to wha",
-   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW1955994178.mp3",
-   "published": "Tue, 29 Sep 2026 21:00:00 -0000",
-   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
-   "rating": 8,
-   "reason": "Examines religious power and ritual efficacy across traditions with ethical reflection.",
-   "tradition": "Interfaith"
   },
   {
    "id": "3c3ee0ad-a484-4b9b-8f23-5d7ba177a251",
@@ -79,7 +66,7 @@
    "published": "Sun, 27 Sep 2026 11:55:15 GMT",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/51/f7/3b/51f73b0e-ddcd-5d7f-894c-ec31eed4cfe9/mza_9915658266053455022.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Explores hydrogen's link to consciousness blending science and spirituality.",
+   "reason": "Discusses hydrogen's link to consciousness blending science and spirituality.",
    "tradition": "Secular"
   },
   {
@@ -92,7 +79,20 @@
    "published": "Wed, 30 Sep 2026 10:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/2c/a5/9b2ca564-1ce7-fae8-04fa-63d8e30bcdb8/mza_6685621244595433790.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "Discusses empathy's impact on faith and society with theological and psychological insight.",
+   "reason": "Explores empathy's impact on faith and society with theological and psychological insight.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "tbrdeepdive.podbean.com/a470abd1-cbc6-3aba-a244-2a679f46cd77",
+   "showID": "https://feed.podbean.com/tbrdeepdive/feed.xml",
+   "showTitle": "The Bible Recap Deep Dive",
+   "title": "Week 39 (Days 267-273): Why didn’t the Old Testament end with more hope?",
+   "summary": "ON TODAY'S EPISODE:\n- What’s the main point of the book of Esther?\n- Why is the wall in Nehemiah such a big deal?\n- Why did Nehemiah refuse to meet with his enemies?\n- How can God’s joy give me strength?\n- Why didn’t the Old Testament end with more hope?\n\nRECAP LINKS:\nDay 267 - Podcast / YouTube\nDay 268 - Podcast / YouTube\nDay 269 - Podcast / YouTube\nDay 270 - Podcast / YouTube\nDay 271 - Podcast / YouTube\nDay 272 - Podcast / YouTube\nDay 273 - Podcast / YouTube\n\nONLINE BIBLE RESOURCES:\n- Got Questions?\n- BibleProject\n- Blue Letter Bible\nNote: This is not necessarily an endorsement of the entire",
+   "audioURL": "https://mcdn.podbean.com/mf/web/8xeyxcuhavps8hm9/TBR_DeepDive_OTEp39_FCv16gej8.mp3",
+   "published": "Wed, 30 Sep 2026 00:00:00 -0500",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/a9/95/07a995c8-be85-bb61-28ff-736a0412cbb8/mza_17323749963932538168.png/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Discusses hope and divine joy in Old Testament narratives with ethical and spiritual implications.",
    "tradition": "Christian"
   },
   {
@@ -105,8 +105,21 @@
    "published": "Mon, 28 Sep 2026 12:00:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/dc/69/bedc6946-5cd6-2637-724a-912da9dafafb/mza_15530052631320977267.jpg/600x600bb.jpg",
    "rating": 7,
-   "reason": "A personal story about faith, identity, and transformation after success and loss.",
+   "reason": "A personal story about faith, identity, and transformation after external success collapses.",
    "tradition": "Christian"
+  },
+  {
+   "id": "655253a4-bc41-11f1-98a5-9b1ea7200067",
+   "showID": "https://rss.pdrl.fm/6f2cf2/feeds.megaphone.fm/blurrycreatures",
+   "showTitle": "Blurry Creatures",
+   "title": "EP: 469 Rat Temples, Mormon Gods, and a Death Cult on the Ganges with Jeremy Jenkins",
+   "summary": "Here is the uncomfortable thing nobody in church wants to say out loud. The spells work. The witch doctor heals. The rituals deliver. Jeremy Jenkins has spent years studying the world's religions and standing inside their holiest places, and he is done pretending the power is not real. A world religions expert, pastor, and professor, he sits down with Luke and Nate to explain why everything that works is not good, and why that single idea changes how you read every faith on earth.From the Hindu death cult of Varanasi, where bodies burn on the Ganges around the clock, to the rat temples, to wha",
+   "audioURL": "https://pscrb.fm/rss/p/s.gum.fm/s-661fc8f0defef17c866096ba/mgln.ai/e/617/traffic.megaphone.fm/LEW1955994178.mp3",
+   "published": "Tue, 29 Sep 2026 21:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/25/ad/8525adf3-be9a-7963-a08e-ff24771b9327/mza_14013259081946136509.jpg/600x600bb.jpg",
+   "rating": 7,
+   "reason": "Examines religious rituals' power and ethical implications across faiths.",
+   "tradition": "Interfaith"
   },
   {
    "id": "2f7408e0-7b46-409a-aa8d-b4d50022971e",
@@ -118,7 +131,7 @@
    "published": "Wed, 30 Sep 2026 11:45:00 +0000",
    "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/43/9e/82/439e8214-cfc9-d98b-73b2-525a36a135da/mza_5625174609442430083.jpg/600x600bb.jpg",
    "rating": 6,
-   "reason": "Conversation about Christian faith and pilgrimage with personal reflections.",
+   "reason": "A personal Christian pilgrimage reflecting on faith and forgiveness.",
    "tradition": "Christian"
   },
   {
@@ -133,6 +146,45 @@
    "rating": 6,
    "reason": "Scientific look at psychedelics and brain effects with some spiritual implications.",
    "tradition": "Secular"
+  },
+  {
+   "id": "4dbf6ce0-ba8e-11f1-9a49-fbcd306a28a5",
+   "showID": "https://feeds.megaphone.fm/LEW6901658133",
+   "showTitle": "Undaunted.Life: A Man's Podcast by Kyle Thompson",
+   "title": "EDMUND RICHARDSON | Alexander the Great: God, King, Man (Ep. 978)",
+   "summary": "In this episode, we welcome Edmund Richardson to the show. He is a historian of ancient Greece, professor in the Department of Classics and Ancient History at Durham University, and author of the new book “Alexander: God, King, Man”. In this interview, we discuss how he became interested in ancient Greece, what previous biographies of Alexander the Great get wrong, the relationship between Aristotle and Alexander, if the character Achilles from Homer’s epic poems was a real person, why the Greek phalanx was one of the main reasons why Alexander was able to conquer much of the known world, Alex",
+   "audioURL": "https://traffic.megaphone.fm/LEW1511515325.mp3",
+   "published": "Tue, 29 Sep 2026 08:00:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/9f/12/809f1210-c215-9d6a-5dbd-45124c012604/mza_7903026632038263183.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Historical discussion on Alexander the Great with some reflection on divinity and humanity.",
+   "tradition": "Secular"
+  },
+  {
+   "id": "tbrdeepdive.podbean.com/a70222ee-4097-3282-9eb3-6b5fdf97a795",
+   "showID": "https://feed.podbean.com/tbrdeepdive/feed.xml",
+   "showTitle": "The Bible Recap Deep Dive",
+   "title": "Week 38 (Days 260-266): Who is the real hero of the book of Esther?",
+   "summary": "ON TODAY'S EPISODE:\n- Why did the older people weep over the new temple?\n- Can you explain the “spirit” in Ezra 1:1?\n- Why didn’t God make the rebuilding of the temple easy?\n- Are Zechariah’s visions connected?\n- Who is the real hero of the book of Esther?\n\n\nRECAP LINKS:\nDay 260 - Podcast / YouTube\nDay 261 - Podcast / YouTube\nDay 262 - Podcast / YouTube\nDay 263 - Podcast / YouTube\nDay 264 - Podcast / YouTube\nDay 265 - Podcast / YouTube\nDay 266 - Podcast / YouTube\n\nONLINE BIBLE RESOURCES:\n- Got Questions?\n- BibleProject\n- Blue Letter Bible\n\nNote: This is not necessarily an endorsement of the en",
+   "audioURL": "https://mcdn.podbean.com/mf/web/4kdwk6ttiizdxhaa/TBR_DeepDive_OTEp38_FCv16ndc8.mp3",
+   "published": "Wed, 23 Sep 2026 00:00:00 -0500",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/a9/95/07a995c8-be85-bb61-28ff-736a0412cbb8/mza_17323749963932538168.png/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Explores biblical characters and visions with some reflection on spiritual themes.",
+   "tradition": "Christian"
+  },
+  {
+   "id": "a6321812-bc48-11f1-a37b-731f034df5ac",
+   "showID": "https://feeds.megaphone.fm/YTYIE3550500328",
+   "showTitle": "The Jeremy Boreing Show",
+   "title": "They're Trying To Eradicate the Jews | Ep. 63",
+   "summary": "Where do the Jews belong?\n\n\n\nThis summer, Jordan Peterson posted a simple reminder about the term \"Judeo-Christian\": the Ten Commandments are Jewish, the great stories of the Old Testament are Jewish, and Christ Himself was a Jew. Parts of the online right pushed back immediately — Dale Partridge insisted the Old Testament isn't Jewish, Jack Posobiec said this isn't what Christians believe. It looked like a debate about theological vocabulary. It pointed to something much older and much darker.\n\n\n\nIn this monologue, Jeremy traces the return of the so-called Jewish Question, the \"JQ\" — from Bri",
+   "audioURL": "https://traffic.megaphone.fm/YTYIE9545314215.mp3",
+   "published": "Tue, 29 Sep 2026 21:15:00 -0000",
+   "artworkURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/f7/b3/4bf7b3d3-814e-e815-932d-cf11d4836dd6/mza_7969612942427696765.jpeg/600x600bb.jpg",
+   "rating": 6,
+   "reason": "Discusses Jewish identity and theological disputes but focuses on cultural and political aspects.",
+   "tradition": "Jewish"
   }
  ],
  "history": {
@@ -275,6 +327,8 @@
   "2f7408e0-7b46-409a-aa8d-b4d50022971e": "2026-09-30",
   "b6fad44c-bc4b-11f1-a1fe-7b7ca356b538": "2026-09-30",
   "6abc309a06846f55a3edcdd8": "2026-09-30",
-  "ce89c850-d278-4bad-9ec2-a083cf59d9b2": "2026-09-30"
+  "ce89c850-d278-4bad-9ec2-a083cf59d9b2": "2026-09-30",
+  "tbrdeepdive.podbean.com/a470abd1-cbc6-3aba-a244-2a679f46cd77": "2026-09-30",
+  "tbrdeepdive.podbean.com/a70222ee-4097-3282-9eb3-6b5fdf97a795": "2026-09-30"
  }
 }
